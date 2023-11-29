@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33066521) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33066521) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11546-1), [Wikidata](https://www.wikidata.org/wiki/Q66720). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wendland, Hermann (1825-1903), German (Hannover) botanist and gardener; son of H.L. Wendland; trained as a gardener in Göttingen, Schönbrunn (nr. Wien) and Kew; from 1849 "Hofgarten-Inspektor" with his father in Herrenhausen, director from 1869; travelled in Central America Nov 1856-Sep 1857. 
-**Abbreviated name**: *H. Wendl.*
+**Abbreviated name**: *H. Wendl.* \[standard form in IPNI: *H.Wendl.*\]
 
 #### Herbarium and types
 

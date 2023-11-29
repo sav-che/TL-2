@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33333132) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33333132) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8885-1), [Wikidata](https://www.wikidata.org/wiki/Q21607695). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sanderson, Arthur Rufus (1877-1932), English plant pathologist with the Rubber Growers' Association, Malaya; later at the Rubber Research Institute, 1918-1931. 
-**Abbreviated name**: *A. Sanderson*
+**Abbreviated name**: *A. Sanderson* \[standard form in IPNI: *A.Sand.*\]
 
 #### Herbarium and types
 

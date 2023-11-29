@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33333942) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33333942) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9988-1), [Wikidata](https://www.wikidata.org/wiki/Q122009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sprecher von Bernegg, Andreas (*fl*. 1907-1930), Swiss economic botanist; Dr. phil. Genève 1907; titular professor at the E.T.H. Zürich. 
-**Abbreviated name**: *Sprecher*
+**Abbreviated name**: *Sprecher* \[standard form in IPNI: *Sprecher*\]
 
 #### Herbarium and types
 

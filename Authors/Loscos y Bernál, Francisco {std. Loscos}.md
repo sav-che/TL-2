@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-10-05 10:25:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33355251) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33355251) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5766-1), [Wikidata](https://www.wikidata.org/wiki/Q3573578). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Loscos y Bernál, Francisco (1823-1886), Spanish pharmacist and botanist at Chiprana in Castelseras. 
-**Abbreviated name**: *Loscos*
+**Abbreviated name**: *Loscos* \[standard form in IPNI: *Loscos*\]
 
 #### Herbarium and types
 

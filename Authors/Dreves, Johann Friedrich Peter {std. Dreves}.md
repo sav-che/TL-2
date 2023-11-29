@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33260083) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33260083) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2312-1), [Wikidata](https://www.wikidata.org/wiki/Q10307767). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dreves, Johann Friedrich Peter (1772-1816), German botanist, born 28 Feb 1772 at Mecklenburg, died 6 Aug 1816 Selters am Rhein. 
-**Abbreviated name**: *Dreves*
+**Abbreviated name**: *Dreves* \[standard form in IPNI: *Dreves*\]
 
 #### Herbarium and types
 

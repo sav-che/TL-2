@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33066730) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33066730) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11788-1), [Wikidata](https://www.wikidata.org/wiki/Q21612858). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wirzén, Johan Ernst Adhemar (1812-1857), Finnish botanist, traveller and physician; mag. filos. 1832; travelled in Russia and Finland 1832-1835; med. kand. 1836, dr. med. 1840; from 1839 medical adjunct and botanical demonstrator at the University Helsinki; travelled in Sweden, Denmark and Germany 1846-1847. 
-**Abbreviated name**: *Wirzén*
+**Abbreviated name**: *Wirzén* \[standard form in IPNI: *Wirzén*\]
 
 #### Herbarium and types
 

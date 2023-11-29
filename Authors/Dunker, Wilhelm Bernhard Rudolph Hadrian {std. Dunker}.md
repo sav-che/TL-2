@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33120833) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33120833) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2379-1), [Wikidata](https://www.wikidata.org/wiki/Q76155). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dunker, Wilhelm Bernhard Rudolph Hadrian (1809-1885), German palaeontologist. 
-**Abbreviated name**: *Dunker*
+**Abbreviated name**: *Dunker* \[standard form in IPNI: *Dunker*\]
 
 #### Collections
 

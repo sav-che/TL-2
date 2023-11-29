@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/page/33212602) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/page/33212602) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10944-1), [Wikidata](https://www.wikidata.org/wiki/Q21611098). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tyas, Robert (1811-1879), British clergyman and botanist; BA Cambr. 1848; vicar at East Tilbury 1812, author of several wild flower books and other popular books on natural history. 
-**Abbreviated name**: *Tyas*
+**Abbreviated name**: *Tyas* \[standard form in IPNI: *Tyas*\]
 
 #### Herbarium and types
 

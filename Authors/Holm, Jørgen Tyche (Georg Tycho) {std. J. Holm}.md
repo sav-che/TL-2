@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33068501) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33068501) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4047-1), [Wikidata](https://www.wikidata.org/wiki/Q5810443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Holm, Jørgen Tyche (Georg Tycho) (1726-1759), Danish botanist, pupil of Linnaeus (1750-1751, 1754-1757), Dr. med. Uppsala 1757. 
-**Abbreviated name**: *J. Holm*
+**Abbreviated name**: *J. Holm* \[standard form in IPNI: *J.T.Holm*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33120548) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33120548) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1309-1), [Wikidata](https://www.wikidata.org/wiki/Q3588389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Burnat, Émile {std. Burnat} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Burnat, Emile (1828-1920), Swiss engineer, industrialist, magistrate and amateur botanist. 
-**Abbreviated name**: *Burnat*
+**Abbreviated name**: *Burnat* \[standard form in IPNI: *Burnat*\]
 
 #### Herbarium and types
 

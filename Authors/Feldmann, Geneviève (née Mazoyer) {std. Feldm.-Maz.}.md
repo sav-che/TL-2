@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33259619) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33259619) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/33083-1), [Wikidata](https://www.wikidata.org/wiki/Q21512769). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Feldmann, Geneviève (née Mazoyer) (1910-1994), French marine phycologist, born 16 Oct 1910 in Saint Calais (Sarthe), lic. 1935, dipl. 1936, Dr. ès-sciences 1941 Univ. of Algiers, pupil of Jean Feldmann (see below), whom she married in 1938, died Jan 1994. 
-**Abbreviated name**: *Feldm.-Maz.*
+**Abbreviated name**: *Feldm.-Maz.* \[standard form in IPNI: *Feldm.-Maz.*\]
 
 #### Note
 

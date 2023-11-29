@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33355343) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33355343) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5996-1), [Wikidata](https://www.wikidata.org/wiki/Q5666129). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Maingay, Alexander Carroll (1836-1869), British physician and botanist in the Indian medical service; died at Rangoon, 14 Nov 1869, in an attempt to stop a prison mutiny. 
-**Abbreviated name**: *Maingay*
+**Abbreviated name**: *Maingay* \[standard form in IPNI: *Maingay*\]
 
 #### Herbarium and types
 

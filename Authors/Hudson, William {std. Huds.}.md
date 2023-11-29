@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33068596) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33068596) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4198-1), [Wikidata](https://www.wikidata.org/wiki/Q982798). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hudson, William (1730-1793), British apothecary, horticulturist and botanist in London, early adherent of the Linnaean system, one of the founders of the Linnean Society, praefectus and praelector Chelsea Physic Garden 1765-1771. 
-**Abbreviated name**: *Huds.*
+**Abbreviated name**: *Huds.* \[standard form in IPNI: *Huds.*\]
 
 #### Herbarium and types
 

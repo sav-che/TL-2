@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33355287) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33355287) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12669-1), [Wikidata](https://www.wikidata.org/wiki/Q21519682). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lyell, Katherine Murray (née Horner) (1817-1915), British pteridologist; sister-in-law of Sir Charles Lyell (1797-1875). 
-**Abbreviated name**: *K. Lyell*
+**Abbreviated name**: *K. Lyell* \[standard form in IPNI: *K.Lyell*\]
 
 #### Herbarium and types
 

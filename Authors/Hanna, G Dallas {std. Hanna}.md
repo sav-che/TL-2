@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33068287) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33068287) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3621-1), [Wikidata](https://www.wikidata.org/wiki/Q3093467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hanna, G Dallas (1887-1970), American palaeobotanist; Ph. D. George Washington University 1918; curator of paleontology (later geology) at the California Academy of Sciences 1919-1970; Dr. sci. h.c. Univ. Alaska 1970. 
-**Abbreviated name**: *Hanna*
+**Abbreviated name**: *Hanna* \[standard form in IPNI: *Hanna*\]
 
 #### Herbarium and types
 

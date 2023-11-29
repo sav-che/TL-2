@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33259339) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33259339) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2197-1), [Wikidata](https://www.wikidata.org/wiki/Q96299). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dieck, Georg (1847-1925), German horticulturist and gardener, born at Zöschen near Merseburg 28 Apr 1847, died 21 Oct 1925 ib., professor of a manor in Zöschen near Merseburg, Sachsen, set up a large arboretum with plants collected by him in Dahuria and the Caucasus, collected also in the Western states of U.S.A. in 1888. 
-**Abbreviated name**: *Dieck*
+**Abbreviated name**: *Dieck* \[standard form in IPNI: *Dieck*\]
 
 #### Herbarium and types
 

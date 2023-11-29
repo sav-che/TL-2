@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33189688) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33189688) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24798-1), [Wikidata](https://www.wikidata.org/wiki/Q21390604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Peyronel, Beniamino (1890-x), Italian mycologist at the Istituto botanico dell'Università, Torina 
-**Abbreviated name**: *Peyronel*
+**Abbreviated name**: *Peyronel* \[standard form in IPNI: *Peyronel*\]
 
 #### Herbarium and types
 

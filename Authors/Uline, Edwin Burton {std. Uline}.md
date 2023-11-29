@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33212624) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33212624) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10969-1), [Wikidata](https://www.wikidata.org/wiki/Q5820049). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Uline, Edwin Burton (1867-1933), American teacher and botanist; studied at Wabash College 1888-1891, at Indiana Univ. 1891-1893, AM 1893, instructor ib. 1892-1893; instructor in botany Lake Forest Univ. 1893-1895; at the University of Leipzig 1895, at Berlin Univ. 1896-1898; Dr. phil. Berlin 1897, student of A. Engler; assistant curator Field Museum 1899; id. Gray Herbarium 1900; superintendent of schools Mankato, Minn. 1899-1904, High School of Commerce, New York 1904-1906, principal of public schools in Brooklyn 1906-1930. 
-**Abbreviated name**: *Uline*
+**Abbreviated name**: *Uline* \[standard form in IPNI: *Uline*\]
 
 #### Herbarium and types
 

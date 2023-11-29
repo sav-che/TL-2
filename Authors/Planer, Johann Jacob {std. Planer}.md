@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33189760) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33189760) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7742-1), [Wikidata](https://www.wikidata.org/wiki/Q16389859). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Planer, Johann Jacob (1743-1789), German (Saxonian) botanist and physician; Dr. med. Erfurt 1778; prosector (1773), later professor (extraord. 1779, ord. 1783) of botany and chemistry at the University of Erfurt. 
-**Abbreviated name**: *Planer*
+**Abbreviated name**: *Planer* \[standard form in IPNI: *Planer*\]
 
 #### Herbarium and types
 

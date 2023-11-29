@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33120613) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33120613) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1504-1), [Wikidata](https://www.wikidata.org/wiki/Q154782). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chamisso, Ludolf Adelbert von (Chamisseau de Boncourt, Louis Charles Adelaïde) (1781-1838), French born German poet, author, explorer and naturalist, creator of Peter Schlemihl. 
-**Abbreviated name**: *Cham.*
+**Abbreviated name**: *Cham.* \[standard form in IPNI: *Cham.*\]
 
 #### Herbarium and types
 

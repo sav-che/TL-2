@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/page/33121019) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/page/33121019) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2914-1), [Wikidata](https://www.wikidata.org/wiki/Q21513545). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fries, Elias Petrus {std. E.P. Fr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fries, Elias Petrus (1834-1858), Swedish botanist, son of E. M. Fries. 
-**Abbreviated name**: *E. P. Fr.*
+**Abbreviated name**: *E. P. Fr.* \[standard form in IPNI: *E.P.Fr.*\]
 
 #### Herbarium and types
 

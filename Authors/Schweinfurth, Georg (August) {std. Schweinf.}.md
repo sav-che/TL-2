@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33333569) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33333569) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9367-1), [Wikidata](https://www.wikidata.org/wiki/Q63126). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schweinfurth, Georg \[August\] (1836-1925), German (Latvian-born of German parents; naturalized Prussian 1879) botanist, geographer and explorer; studied in Heidelberg 1858-1859, München 1859-1860, Berlin 1860-1861; Dr. phil. Heidelberg 1862; travelled in the Nile countries 1863-1866, in Equatorial Africa 1868-1871; to El Chargeh 1874; founded the Cairo Geographical Society 1875; private scientist in Cairo 1875-1888; explored the areas between the Nile and the Red Sea 1876-1886; domiciled in Berlin from 1888 in close association with the Botanical Museum, still making frequent trips until 1914, e.g. to Yemen 1888-1889 and Eritrea 1891-1894. 
-**Abbreviated name**: *Schweinf.*
+**Abbreviated name**: *Schweinf.* \[standard form in IPNI: *Schweinf.*\]
 
 #### Herbarium and types
 

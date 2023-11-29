@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33259581) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33259581) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2654-1), [Wikidata](https://www.wikidata.org/wiki/Q21512703). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Faye, \[Antoine Honoré\] Léon (1810-1855), French botanist and historian, born 27 Oct 1810 in Rochefort, councilor ("consiller"), Court of Appeals, Angers (Maine-et-Loire) until 1852, died 20 Oct 1855 in Poitiers (Vienne). 
-**Abbreviated name**: *Faye*
+**Abbreviated name**: *Faye* \[standard form in IPNI: *Faye*\]
 
 #### Herbarium and types
 

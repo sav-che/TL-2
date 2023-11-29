@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 731](https://www.biodiversitylibrary.org/page/33190202) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 731](https://www.biodiversitylibrary.org/page/33190202) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8291-1), [Wikidata](https://www.wikidata.org/wiki/Q5704383). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Renier, Armand-Marie-Vincent-Joseph (1876-1951), Belgian palaeobotanist and geological engineer, educated at the University of Liège; from 1910 lecturer at Liège; with the "Service géologique de Belgique" from 1915 (from 1922 ingénieur en chef; later head of the Geological Service). 
-**Abbreviated name**: *Renier*
+**Abbreviated name**: *Renier* \[standard form in IPNI: *Renier*\]
 
 #### Herbarium and types
 

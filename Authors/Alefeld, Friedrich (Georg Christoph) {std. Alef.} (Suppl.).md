@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33264792) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33264792) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/129-1), [Wikidata](https://www.wikidata.org/wiki/Q62876). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Alefeld, Friedrich Georg Christoph {std. Alef.}|first entry]] for this author
 
 ### Author
 
 \* Alefeld, Friedrich (Georg Christoph) (1820-1872), German botanist, educated at Gymnasia in Worms and Darmstadt, at the Landesuniversität Giessen studying medicine 1839-1840, id. at Heidelberg 1840-1842, took his doctor's degree (Dr. med.) at Giessen 23 Sep 1843, physician at the Julius hospital Würzburg 1843-1844, medical state examination Mai 1844 in Darmstadt, settled in Nieder-Modau nr. Darmstadt practising medicine 1844-1847, id. in Ober-Ramstadt nr. Darmstadt 1847-1872. 
-**Abbreviated name**: *Alef.*
+**Abbreviated name**: *Alef.* \[standard form in IPNI: *Alef.*\]
 
 #### Herbarium and types
 

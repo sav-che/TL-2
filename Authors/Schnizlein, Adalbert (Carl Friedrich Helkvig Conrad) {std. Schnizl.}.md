@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33333418) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33333418) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9205-1), [Wikidata](https://www.wikidata.org/wiki/Q74530). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schnizlein, Adalbert \[Carl Friedrich Helkvig Conrad\] (1814-1868), German (Bavarian) botanist and pharmacist; studied at the University of München; Dr. phil. Erlangen 1836; spent training years in Genève (1837), Speyer (1838), Mainbernheim (1839-1840); continued his botanical studies in München 1841-1842; pharmacist in Erlangen 1843; habil. Erlangen 1845; from 1850-1868 professor of botany and director of the botanical garden. 
-**Abbreviated name**: *Schnizl.*
+**Abbreviated name**: *Schnizl.* \[standard form in IPNI: *Schnizl.*\]
 
 #### Herbarium and types
 

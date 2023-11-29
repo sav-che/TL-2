@@ -28,14 +28,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33355931) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33355931) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24368-1), [Wikidata](https://www.wikidata.org/wiki/Q1065962). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Orcutt, Charles Russell (1864-1929), American San Diego based naturalist and collector working on the floras of Southern California, Mexico, Jamaica and Haiti. 
-**Abbreviated name**: *Orcutt*
+**Abbreviated name**: *Orcutt* \[standard form in IPNI: *Orcutt*\]
 
 #### Herbarium and types
 

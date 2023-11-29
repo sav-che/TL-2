@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33120934) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33120934) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2582-1), [Wikidata](https://www.wikidata.org/wiki/Q7344116). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Etheridge, Robert Jr. (1847-1920), British palaeobiologist, from 1887-1920 in Australia. 
-**Abbreviated name**: *Etheridge*
+**Abbreviated name**: *Etheridge* \[standard form in IPNI: *Ether.*\]
 
 #### Collections
 

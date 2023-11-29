@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33333788) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33333788) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9751-1), [Wikidata](https://www.wikidata.org/wiki/Q18911661). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Slosson, Margaret (1872-?), American botanist; assistant at The New York Botanical Garden 1911. 
-**Abbreviated name**: *Sloss.*
+**Abbreviated name**: *Sloss.* \[standard form in IPNI: *Sloss.*\]
 
 #### Herbarium and types
 

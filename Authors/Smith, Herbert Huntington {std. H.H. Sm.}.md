@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33333815) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33333815) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9800-1), [Wikidata](https://www.wikidata.org/wiki/Q456472). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Herbert Huntington (1852-1919), American botanical and zoological collector; studied at Cornell Univ. 1868-1872; collected in Brazil 1870, 1873-1877, 1878, 1881-1885, in Mexico 1888, in the West Indies 1889-1893; with the Carnegie Museum, Pittsburgh, 1896-1898 and 1902-1903; in Columbia 1898-1902; in Alabama 1903-1908; curator of the museum of the Alabama Geological Survey 1910-1919. 
-**Abbreviated name**: *H.H. Sm.*
+**Abbreviated name**: *H.H. Sm.* \[standard form in IPNI: *Herb.H.Sm.*\]
 
 #### Herbarium and types
 

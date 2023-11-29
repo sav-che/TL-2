@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 654](https://www.biodiversitylibrary.org/page/33068896) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 654](https://www.biodiversitylibrary.org/page/33068896) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4983-1), [Wikidata](https://www.wikidata.org/wiki/Q21517817). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koster, Joséphine Thérèse (1902-x), Dutch botanist at the Rijksherbarium, Leiden 1930-1967; Ph.D. Leiden 1935; worked on Malaysian Compositae, Cyanophyta and marine algae. 
-**Abbreviated name**: *J. Kost.*
+**Abbreviated name**: *J. Kost.* \[standard form in IPNI: *J.Kost.*\]
 
 #### Herbarium and types
 

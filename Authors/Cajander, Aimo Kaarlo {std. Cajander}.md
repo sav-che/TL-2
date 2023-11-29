@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33266611) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33266611) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1352-1), [Wikidata](https://www.wikidata.org/wiki/Q319444). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cajander, Aimo Kaarlo (1879-1943), Finnish botanist, matriculated 1896, Bachel. phil. 1901, Ph. D. Helsinki 1903, studied at the University of Munich 1904, amanuensis at the Botanical Museum, Helsinki University 1901, assistant ib. 1902-1903, lecturer in botany 1904, teacher natural sciences at Evo forest school 1904, graduated from Evo forest school 1906, headmaster and forester ib. 1907-1908, professor of silviculture 1911-1934, professor of mensuration and survey 1913-1927, director general Forest Service 1918-1943. 
-**Abbreviated name**: *Cajander*
+**Abbreviated name**: *Cajander* \[standard form in IPNI: *Cajander*\]
 
 #### Herbarium and types
 

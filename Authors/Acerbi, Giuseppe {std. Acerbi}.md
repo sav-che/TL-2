@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33264762) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33264762) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/20016134-2), [Wikidata](https://www.wikidata.org/wiki/Q55007624). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Acerbi, Giuseppe (1773-1846), Italian traveller, naturalist and botanist at Castelgoffredo, visited Lapland 1798-1799, librarian and director of the Orto botanico di Brera, Milano 1817-1826; Austrian consul-general in Egypt 1826-1836, collecting in Sudan 1826-1835; founded the Bibliotheca italiana. 
-**Abbreviated name**: *Acerbi*
+**Abbreviated name**: *Acerbi* \[standard form in IPNI: *Acerbi*\]
 
 #### Herbarium and types
 

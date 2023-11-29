@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33212318) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33212318) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10599-1), [Wikidata](https://www.wikidata.org/wiki/Q76714). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomé, Otto Wilhelm (1840-1925), German (Rheinland/Preussen) botanist and high school teacher; Dr. phil. Bonn 1862; rector of a high school (höhere Bürgerschule) in Köln. 
-**Abbreviated name**: *Thomé*
+**Abbreviated name**: *Thomé* \[standard form in IPNI: *Thomé*\]
 
 #### Herbarium and types
 

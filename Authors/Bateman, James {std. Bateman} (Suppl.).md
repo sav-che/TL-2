@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33265100) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33265100) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/537-1), [Wikidata](https://www.wikidata.org/wiki/Q2616501). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bateman, James {std. Bateman}|first entry]] for this author
 
 ### Author
 
 \* Bateman, James (1811-1897), British horticulturist and orchidologist, born at Redivals, Bury, Lancashire, studied at Magdelene College of the University of Oxford, B.A. 1834, M.A. 1845, Fellow of the Royal Society 1838, set up a garden at Knypersley Hall, sent J. Colley to Demerara (former Brit. Guiana) to collect living orchids, from 1860 residing in Kensington, later at Worthing, Sussex. 
-**Abbreviated name**: *Bateman*
+**Abbreviated name**: *Bateman* \[standard form in IPNI: *Bateman*\]
 
 #### Herbarium and types
 

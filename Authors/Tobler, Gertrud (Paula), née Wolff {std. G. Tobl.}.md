@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 377](https://www.biodiversitylibrary.org/page/33212419) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 377](https://www.biodiversitylibrary.org/page/33212419) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12937-1), [Wikidata](https://www.wikidata.org/wiki/Q21610810). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tobler, Gertrud \[Paula\], née Wolff (1877-1948), German (Berlin) botanist; studied botany at the University of Berlin under Schwendener, Engler, Magnus, Kolkwitz, Lindau; Dr. phil. Berlin 1905 (with Schwendener); worked with E. Strasburger in Bonn as a botanical technician 1905-1907; married F. Tobler 1907 (obtaining Swiss nationality); worked with her husband at Münster, East Africa, Sorau, Dresden and St. Gallen. 
-**Abbreviated name**: *G. Tobl.*
+**Abbreviated name**: *G. Tobl.* \[standard form in IPNI: *G.Tobler*\]
 
 #### Herbarium and types
 

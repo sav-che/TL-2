@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33355200) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33355200) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5637-1), [Wikidata](https://www.wikidata.org/wiki/Q21519222). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Linney, William Marcus (1835-1887), American botanist in Kentucky. 
-**Abbreviated name**: *Linney*
+**Abbreviated name**: *Linney* \[standard form in IPNI: *Linney*\]
 
 #### Herbarium and types
 

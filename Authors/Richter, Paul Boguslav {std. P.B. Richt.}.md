@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33190250) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33190250) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8370-1), [Wikidata](https://www.wikidata.org/wiki/Q21607200). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Richter, Paul Boguslav (1853-1911), German palaeobotanist and high school teacher at Quedlinburg (Saxony). 
-**Abbreviated name**: *P.B. Richt.*
+**Abbreviated name**: *P.B. Richt.* \[standard form in IPNI: *P.B.Richt.*\]
 
 #### Herbarium and types
 

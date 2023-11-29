@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 518](https://www.biodiversitylibrary.org/page/33066858) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 518](https://www.biodiversitylibrary.org/page/33066858) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11984-1), [Wikidata](https://www.wikidata.org/wiki/Q77694). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zander, Robert (1892-1969), German (Prussian) horticulturist and botanist; on active service in World War I; Dr. phil. Halle 1923; assistant at the Halle Botanical Institute 1923-1926; with the Reichsverband des deutschen Gartenbaues, Berlin, in charge of library and documentation and working on the nomenclature of plants of horticultural importance; lecturer in the history of horticulture at the Berlin-Dahlem Forschungsanstalt für Gartenbau; creator of the Library of German Horticulture, from 1936. 
-**Abbreviated name**: *Ro. Zander*
+**Abbreviated name**: *Ro. Zander* \[standard form in IPNI: *Zander*\]
 
 #### Herbarium and types
 

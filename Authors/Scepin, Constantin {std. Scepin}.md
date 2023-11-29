@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-02-23 07:41:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33333236) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33333236) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8996-1), [Wikidata](https://www.wikidata.org/wiki/Q4528721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scepin, Constantin (1727- ?), Russian botanist and physician; Dr. med. Leiden 1758. 
-**Abbreviated name**: *Scepin*
+**Abbreviated name**: *Scepin* \[standard form in IPNI: *Scepin*\]
 
 #### Herbarium and types
 

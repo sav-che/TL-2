@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33190369) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33190369) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8606-1), [Wikidata](https://www.wikidata.org/wiki/Q21607426). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rosny, Louis Léon Lucien Prunol de (1837-1916), French orientalist and botanist; founder of the "Société d'ethnographie américaine et orientale", 1858; taught Japanese at the "École des langues orientales", Paris, 1868; assistant director of the École des hautes études, 1886. 
-**Abbreviated name**: *Rosny*
+**Abbreviated name**: *Rosny* \[standard form in IPNI: *Rosny*\]
 
 #### Herbarium and types
 

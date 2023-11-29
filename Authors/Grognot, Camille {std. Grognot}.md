@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33121142) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33121142) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3406-1), [Wikidata](https://www.wikidata.org/wiki/Q5742011). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Grognot, Camille (1792-1869), French cryptogamist. 
-**Abbreviated name**: *Grognot*
+**Abbreviated name**: *Grognot* \[standard form in IPNI: *Grognot*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33120254) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33120254) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/495-1), [Wikidata](https://www.wikidata.org/wiki/Q21505699). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Baron, P. Alexis (1754-?), French surveyor and naturalist who lived some time on St. Domingue. 
-**Abbreviated name**: *Baron*
+**Abbreviated name**: *Baron* \[standard form in IPNI: *Baron*\]
 
 #### Herbarium and types
 

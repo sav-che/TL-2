@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33189772) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33189772) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7765-1), [Wikidata](https://www.wikidata.org/wiki/Q468460). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Plumier, Charles (1646-1704), French missionary, explorer and botanist; travelled in the West Indies 1689, 1693 and 1695. 
-**Abbreviated name**: *Plum.*
+**Abbreviated name**: *Plum.* \[standard form in IPNI: *Plum.*\]
 
 #### Herbarium
 

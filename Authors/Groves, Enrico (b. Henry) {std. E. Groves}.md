@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33258900) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33258900) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/20027188-1), [Wikidata](https://www.wikidata.org/wiki/Q21514319). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Groves, Enrico (b. Henry) (1835-1891), English pharmacist and botanist, born in Weymouth (Dorset), settled in Florence, Italy 1862 where he came to own a pharmacy, collected vigorously during the summers when business was at a stand-still, F.L.S. 1884, died 1 Mar 1891 in Florence. 
-**Abbreviated name**: *E. Groves*
+**Abbreviated name**: *E. Groves* \[standard form in IPNI: *E.Groves*\]
 
 #### Herbarium and types
 

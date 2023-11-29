@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33120929) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33120929) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18530-1), [Wikidata](https://www.wikidata.org/wiki/Q16022968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Erichsen, Christian Friedo Eckhard {std. Erichsen} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Erichsen, Christian Friedo Eckhard (1867-1945), German lichenologist working in Schleswig-Holstein, 
-**Abbreviated name**: *Erichsen*
+**Abbreviated name**: *Erichsen* \[standard form in IPNI: *Erichsen*\]
 
 #### Herbarium and types
 

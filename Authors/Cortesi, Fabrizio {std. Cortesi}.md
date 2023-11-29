@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33266061) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33266061) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1817-1), [Wikidata](https://www.wikidata.org/wiki/Q5428203). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cortesi, Fabrizio (1879-1949), Italian botanist, born at Rome, studied at the R. Liceo Gimnasio Umberto I in Rome, at the Faculty of natural sciences at the University in Rome 1897, studying with R. Pirotta, assistant curator at the Istituto e Orto Botanico Roma 1904, curator 1909-1922, "aiuto" 1923-1936, from 1937 Director Bot. Gard. Inst. Perugia. 
-**Abbreviated name**: *Cortesi*
+**Abbreviated name**: *Cortesi* \[standard form in IPNI: *Cortesi*\]
 
 #### Herbarium and types
 

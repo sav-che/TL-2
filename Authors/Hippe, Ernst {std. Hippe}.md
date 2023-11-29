@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33068452) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33068452) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/34850-1), [Wikidata](https://www.wikidata.org/wiki/Q36545931). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hippe, Ernst (*fl*. 1878), German botanist at Königstein a.d. Elbe. 
-**Abbreviated name**: *Hippe*
+**Abbreviated name**: *Hippe* \[standard form in IPNI: *Hippe*\]
 
 #### Herbarium and types
 

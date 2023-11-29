@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33068439) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33068439) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3944-1), [Wikidata](https://www.wikidata.org/wiki/Q2593473). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hill, \[Sir\] Arthur William (1875-1941), British botanist; demonstrator (1899), later lecturer (1904) at Cambridge; D.Sc. Cantab. 1919; D.Sc. Adelaide 1927; assistant director of the Royal Botanic Gardens, Kew 1907-1922; director 1922-1941; died in a riding accident. 
-**Abbreviated name**: *A. W. Hill*
+**Abbreviated name**: *A. W. Hill* \[standard form in IPNI: *A.W.Hill*\]
 
 #### Herbarium and types
 

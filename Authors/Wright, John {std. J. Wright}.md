@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33066808) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33066808) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11883-1), [Wikidata](https://www.wikidata.org/wiki/Q19407879). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wright, John (1811-1846), American physician and naturalist; studied at the Rensselaer Polytechnic Institute (N.Y.) (with Amos Eaton); graduated in medicine at Yale College 1833; practicing physician at Troy, N.Y.; with the Michigan geological survey 1838; professor of natural history in the Rensselaer Institute 1838-1845. 
-**Abbreviated name**: *J. Wright*
+**Abbreviated name**: *J. Wright* \[standard form in IPNI: *Wright*\]
 
 #### Herbarium and types
 

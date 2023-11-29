@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33066666) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33066666) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11711-1), [Wikidata](https://www.wikidata.org/wiki/Q6146014). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Williams, Thomas Albert (1865-1900), American agricultural botanist and lichenologist; professor of botany at the South Dakota Agricultural College at Brookings 1896; assistant chief of the Division of Agrostology, U.S.D.A., Washington D.C. 1896-1900. 
-**Abbreviated name**: *T.A. Williams*
+**Abbreviated name**: *T.A. Williams* \[standard form in IPNI: *T.A.Williams*\]
 
 #### Herbarium and types
 

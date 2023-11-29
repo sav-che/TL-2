@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33266157) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33266157) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17546-1), [Wikidata](https://www.wikidata.org/wiki/Q3383270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Crouan, Pierre Louis {std. P. Crouan}|first entry]] for this author
 
 ### Author
 
 \* Crouan, Pierre-Louis (1789-1871), French botanist and pharmacist, older brother of H.M. Crouan, born at Brest, Finistère, on probation pharmacist at Rouen, ca. 1830 pharmacist with his brother at Brest until 1860. 
-**Abbreviated name**: *P. Crouan*
+**Abbreviated name**: *P. Crouan* \[standard form in IPNI: *P.Crouan*\]
 
 #### Herbarium and types
 

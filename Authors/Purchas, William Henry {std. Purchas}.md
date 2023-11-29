@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33189915) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33189915) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8024-1), [Wikidata](https://www.wikidata.org/wiki/Q21337870). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Purchas, William Henry (1823-1903), British botanist and clergyman; B.A. Durham 1857; ord. Church of England 1857; serving at Tickenhall (S. Leicestershire) 1857-1865, Lydney (Gloucestershire) 1865, Gloucester (1866-1870), Alstonfield (N. Staffordshire) 1870-1903; ardent amateur botanist, especially interested in Rubus, Rosa and Hieracium. 
-**Abbreviated name**: *Purchas*
+**Abbreviated name**: *Purchas* \[standard form in IPNI: *Purchas*\]
 
 #### Herbarium and types
 

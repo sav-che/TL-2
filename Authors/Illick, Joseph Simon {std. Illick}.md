@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33068625) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33068625) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4283-1), [Wikidata](https://www.wikidata.org/wiki/Q21516735). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Illick, Joseph Simon (1884-x) American forest botanist in Pennsylvania. 
-**Abbreviated name**: *Illick*
+**Abbreviated name**: *Illick* \[standard form in IPNI: *Illick*\]
 
 #### Herbarium and types
 

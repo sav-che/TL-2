@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33258552) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33258552) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2952-1), [Wikidata](https://www.wikidata.org/wiki/Q21513616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fuentes Maturana, Francisco (1876-1934), Chilean botanist, born 19 Apr 1876 in San Fernando, chief, Phanerogam section, Santiago Museum 1912, died 6 Feb 1934 in Aysén. 
-**Abbreviated name**: *Fuentes*
+**Abbreviated name**: *Fuentes* \[standard form in IPNI: *Fuentes*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33265021) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33265021) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/421-1), [Wikidata](https://www.wikidata.org/wiki/Q787698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baldwin, William {std. Baldw.}|first entry]] for this author
 
 ### Author
 
 \* Baldwin, William (1779-1819), United States physician, botanist and plant collector; studied medicine at the University of Tennessee (1802), surgeon on a Philadelphia merchant vessel sailing to China 1805-1806, M.D. University of Pennsylvania 1807, practiced at Wilmington, Delaware 1807-1811, and Georgia 1811-1812, surgeon in the U.S. navy at St. Mary's and Savanna 1812-1817, visited Florida 1817, and S. American ports 1817-1818, ultimately surgeon and botanist to Long's expedition up the Missouri, died at Franklin, Missouri 1819. 
-**Abbreviated name**: *Baldw.*
+**Abbreviated name**: *Baldw.* \[standard form in IPNI: *Baldwin*\]
 
 #### Herbarium and types
 

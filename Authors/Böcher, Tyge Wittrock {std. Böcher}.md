@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33265440) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33265440) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/891-1), [Wikidata](https://www.wikidata.org/wiki/Q3181594). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Böcher, Tyge Wittrock (1909-1983), Danish botanist, studied botany at the University of Copenhagen 1928-1934, Mag. sci., Bot. 1934, Dr. phil. ib. 1938, assistant at the genetics laboratory of the Agricultural University 1934-1936, id. at the Institute of Plant Anatomy of the University 1936, lector in plant anatomy and cytology 1946, professor 1954, travelled in Greenland 1946 and 1958, Argentina 1955, specialized on arctic botany and on cytology. 
-**Abbreviated name**: *Böcher*
+**Abbreviated name**: *Böcher* \[standard form in IPNI: *Böcher*\]
 
 #### Herbarium and types
 

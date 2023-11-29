@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33266326) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33266326) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1082-1), [Wikidata](https://www.wikidata.org/wiki/Q18538276). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brândzǎ, Marcel Alex {std. M. Brândzǎ}|first entry]] for this author
 
 ### Author
 
 \* Brândză, Marcel Alex (1868-1934), Roumanian botanist and entomologist, lecturer in botany at the Pharmaceutical Faculty and curator of the cryptogamic collections of the Botanical Institute of the University at Bucarest, specialist in Myxomycetes. 
-**Abbreviated name**: *Brândză*
+**Abbreviated name**: *Brândză* \[standard form in IPNI: *Brândză*\]
 
 #### Herbarium and types
 

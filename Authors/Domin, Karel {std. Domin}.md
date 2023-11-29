@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-10-31 14:05:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/page/33120798) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/page/33120798) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2263-1), [Wikidata](https://www.wikidata.org/wiki/Q1109649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Domin, Karel {std. Domin} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Domin, Karel (1882-1953), Czech botanist. 
-**Abbreviated name**: *Domin*
+**Abbreviated name**: *Domin* \[standard form in IPNI: *Domin*\]
 
 #### Herbarium and types
 

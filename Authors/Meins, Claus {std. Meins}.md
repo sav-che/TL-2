@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33355490) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33355490) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6320-1), [Wikidata](https://www.wikidata.org/wiki/Q21520333). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meins, Claus (1806-1873), German theologist and botanist; high school teacher at the Glückstadt gymnasium 1848-1865; from 1865 clergyman at St. Margarethen. 
-**Abbreviated name**: *Meins*
+**Abbreviated name**: *Meins* \[standard form in IPNI: *Meins*\]
 
 #### Herbarium and types
 

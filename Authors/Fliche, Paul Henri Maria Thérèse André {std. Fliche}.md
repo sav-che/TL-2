@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33120977) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33120977) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2784-1), [Wikidata](https://www.wikidata.org/wiki/Q2377559). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fliche, Paul (Henri Marie Thérèse André) {std. Fliche} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fliche, Paul Henri Maria Thérèse André (1836-1908), French naturalist and palaeobiologist. 
-**Abbreviated name**: *Fliche*
+**Abbreviated name**: *Fliche* \[standard form in IPNI: *Fliche*\]
 
 #### Collections
 

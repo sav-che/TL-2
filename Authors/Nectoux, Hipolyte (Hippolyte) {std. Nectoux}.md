@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33355791) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33355791) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6884-1), [Wikidata](https://www.wikidata.org/wiki/Q3136104). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nectoux, Hipolyte (Hippolyte) (17..-18..), French botanist who accompanied Napoleon to Egypt. 
-**Abbreviated name**: *Nectoux*
+**Abbreviated name**: *Nectoux* \[standard form in IPNI: *Nectoux*\]
 
 #### Herbarium and types
 

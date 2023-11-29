@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33068595) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33068595) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4187-1), [Wikidata](https://www.wikidata.org/wiki/Q5894426). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hua, Henri (1861-1919), French botanist at the École des Hautes-Études and Laboratoire de Phanérogamie du Muséum d'histoire naturelle, Paris. 
-**Abbreviated name**: *Hua*
+**Abbreviated name**: *Hua* \[standard form in IPNI: *Hua*\]
 
 #### Herbarium and types
 

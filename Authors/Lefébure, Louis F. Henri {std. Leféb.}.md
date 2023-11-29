@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33069055) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33069055) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5413-1), [Wikidata](https://www.wikidata.org/wiki/Q21518567). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lefébure, Louis F. Henri (1754-1839), French botanist; sous-préfet at Verdun until 1814. 
-**Abbreviated name**: *Leféb.*
+**Abbreviated name**: *Leféb.* \[standard form in IPNI: *Leféb.*\]
 
 #### Herbarium and types
 

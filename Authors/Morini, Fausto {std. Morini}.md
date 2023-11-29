@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33355671) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33355671) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23639-1), [Wikidata](https://www.wikidata.org/wiki/Q21521736). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morini, Fausto (1858-1927), Italian mycologist; originally at Bologna; director of the botanical garden and professor of botany at Sassari 1888-1892; idem at Messina 1892-1897; professor of botany and director of the R. Istituto ed Orto Botanico at Bologna, succeeding Mattirolo, 1897-1927. 
-**Abbreviated name**: *Morini*
+**Abbreviated name**: *Morini* \[standard form in IPNI: *Morini*\]
 
 #### Herbarium and types
 

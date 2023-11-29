@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33120656) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33120656) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1739-1), [Wikidata](https://www.wikidata.org/wiki/Q5981500). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Colladon, Louis Théodore Frédéric (1792-1862), Swiss physician and botanist at Genève, pupil of A. P. de Candolle. 
-**Abbreviated name**: *Collad.*
+**Abbreviated name**: *Collad.* \[standard form in IPNI: *Collad.*\]
 
 #### Herbarium and types
 

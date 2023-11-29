@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33333912) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33333912) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9948-1), [Wikidata](https://www.wikidata.org/wiki/Q36511404). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spamer, Albert (*fl*. 1887), German diatomologist; high school teacher at Düren (Rheinpreussen). 
-**Abbreviated name**: *Spamer*
+**Abbreviated name**: *Spamer* \[standard form in IPNI: *Spamer*\]
 
 #### Herbarium and types
 

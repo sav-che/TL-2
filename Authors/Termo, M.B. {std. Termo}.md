@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33212264) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33212264) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10521-1), [Wikidata](https://www.wikidata.org/wiki/Q36637345). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Termo, M.B. (*fl*. 1837), German \[?\] botanist. 
-**Abbreviated name**: *Termo*
+**Abbreviated name**: *Termo* \[standard form in IPNI: *Termo*\]
 
 #### Herbarium and types
 

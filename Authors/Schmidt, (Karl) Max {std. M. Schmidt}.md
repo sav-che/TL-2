@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33333397) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33333397) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12832-1), [Wikidata](https://www.wikidata.org/wiki/Q21608167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidt, \[Karl\] Max (1880-?), German (Hamburg) botanist; Dr. phil. Göttingen 1903. 
-**Abbreviated name**: *M. Schmidt*
+**Abbreviated name**: *M. Schmidt* \[standard form in IPNI: *M.Schmidt*\]
 
 #### Herbarium and types
 

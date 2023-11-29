@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33260016) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33260016) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/35231-1), [Wikidata](https://www.wikidata.org/wiki/Q17361384). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Doi, Yoshio (fl. 1926-1944), Japanese botanist, at Kagoshima, Japan 
-**Abbreviated name**: *Y. Doi*
+**Abbreviated name**: *Y. Doi* \[standard form in IPNI: *Y.Doi*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33260123) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33260123) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18236-1), [Wikidata](https://www.wikidata.org/wiki/Q47116667). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Duché, Jacques (1900-1964), French mycologist and Ingénieur E.P.C.I., head of the dermatological laboratory of the Hôpital Saint-Louis, attached to the Laboratoire de Cryptogamie de Muséum, Paris, specialized in human parasites and soil micromycetes. 
-**Abbreviated name**: *Duché*
+**Abbreviated name**: *Duché* \[standard form in IPNI: *Duché*\]
 
 #### Herbarium and types
 

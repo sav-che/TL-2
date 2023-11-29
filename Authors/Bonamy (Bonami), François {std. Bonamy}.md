@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33265501) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33265501) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/943-1), [Wikidata](https://www.wikidata.org/wiki/Q3084027). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bonamy \[Bonami\], François (1710-1786), French physician and botanist at Nantes, lecturer in botany at the University of Nantes. 
-**Abbreviated name**: *Bonamy*
+**Abbreviated name**: *Bonamy* \[standard form in IPNI: *Bonamy*\]
 
 #### Herbarium and types
 

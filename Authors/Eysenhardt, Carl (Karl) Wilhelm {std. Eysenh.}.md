@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33260439) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33260439) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2610-1), [Wikidata](https://www.wikidata.org/wiki/Q21338512). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eysenhardt, Carl (Karl) Wilhelm (1794-1825), German physician, zoologist and botanist, born 21 Jan 1794 at Berlin, became professor extraordinarius at Königsberg in 1822, died 25 Dec 1825. 
-**Abbreviated name**: *Eysenh.*
+**Abbreviated name**: *Eysenh.* \[standard form in IPNI: *Eysenh.*\]
 
 #### Herbarium and types
 

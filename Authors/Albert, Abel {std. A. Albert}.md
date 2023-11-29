@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33264748) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33264748) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/122-1), [Wikidata](https://www.wikidata.org/wiki/Q8183892). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Albert, Abel (1836-1909), French botanist and school-teacher, sometime bookseller (incl. photography) at Saint-Tropez, teacher in the Dept. Var 1863-1879, from 1880 id. at La Farlède (Soliès-Toucas) (Var), working on the French mediterranean flora. 
-**Abbreviated name**: *A. Albert*
+**Abbreviated name**: *A. Albert* \[standard form in IPNI: *Albert*\]
 
 #### Herbarium and types
 

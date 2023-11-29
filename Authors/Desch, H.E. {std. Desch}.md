@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33259260) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33259260) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2143-1), [Wikidata](https://www.wikidata.org/wiki/Q18984201). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Desch, H.E. (fl. 1936-1954), British wood technologist, B.Sc., M.A. (Oxford), working in Kepong (Malaya) on timbers, especially Dipterocarpaceae. 
-**Abbreviated name**: *Desch*
+**Abbreviated name**: *Desch* \[standard form in IPNI: *Desch*\]
 
 #### Herbarium and types
 

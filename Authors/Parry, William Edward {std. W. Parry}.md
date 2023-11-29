@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33189552) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33189552) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12723-1), [Wikidata](https://www.wikidata.org/wiki/Q437310). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parry, William Edward (1790-1855), British explorer; made three expeditions to the Arctic (north-west passage), 1819-20, 1821-23, 1824-25; DCL Oxford 1829; knighted 1829; rear admiral 1852. 
-**Abbreviated name**: *W. Parry*
+**Abbreviated name**: *W. Parry* \[standard form in IPNI: *W.Parry*\]
 
 #### Herbarium and types
 

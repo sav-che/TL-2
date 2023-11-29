@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33333211) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33333211) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8960-1), [Wikidata](https://www.wikidata.org/wiki/Q116058). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saussure, Nicolas Théodore de (1767-1845), Swiss (Genève) botanist and chemist, son of Horace Bénédict de Saussure; scientist of independent means dedicating himself entirely to his research. 
-**Abbreviated name**: *N.T. Saussure*
+**Abbreviated name**: *N.T. Saussure* \[standard form in IPNI: *N.T.Sauss.*\]
 
 #### Herbarium and types
 

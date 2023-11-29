@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33212801) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33212801) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11221-1), [Wikidata](https://www.wikidata.org/wiki/Q4112427). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vitman, Fulgenzio (1728-1806), Italian botanist and clergyman; professor of botany and director of the Pavia botanical garden 1763-1773; professor of botany at the Lyceum of Brera, Milano 1774; founder of the botanical garden of the Lyceum 1781. 
-**Abbreviated name**: *Vitm.*
+**Abbreviated name**: *Vitm.* \[standard form in IPNI: *Vitman*\]
 
 #### Herbarium and types
 

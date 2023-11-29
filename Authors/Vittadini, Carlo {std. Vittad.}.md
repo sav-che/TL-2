@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33212802) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33212802) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/28402-1), [Wikidata](https://www.wikidata.org/wiki/Q2572302). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vittadini, Carlo (1800-1865), Italian physician and mycologist; practicing physician in Milano; Dr. med. Torino 1826. 
-**Abbreviated name**: *Vittad.*
+**Abbreviated name**: *Vittad.* \[standard form in IPNI: *Vittad.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33189880) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33189880) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7973-1), [Wikidata](https://www.wikidata.org/wiki/Q36681482). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pritchard, Stephen F. (*fl*. 1836). No description provided. 
-**Abbreviated name**: *S. Pritch.*
+**Abbreviated name**: *S. Pritch.* \[standard form in IPNI: *S.Pritch.*\]
 
 #### Herbarium and types
 

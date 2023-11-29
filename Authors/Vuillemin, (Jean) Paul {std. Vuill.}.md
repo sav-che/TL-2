@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/page/33212843) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/page/33212843) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/28465-1), [Wikidata](https://www.wikidata.org/wiki/Q717870). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vuillemin, \[Jean\] Paul (1861-1933), French mycologist; studied at the University of Nancy; Dr. méd. Nancy 1884; Lic.-ès-Sci. ib. 1889; Dr. sci. Sorbonne 1892; professor of natural history at the medical faculty Nancy 1895-1932. 
-**Abbreviated name**: *Vuill.*
+**Abbreviated name**: *Vuill.* \[standard form in IPNI: *Vuill.*\]
 
 #### Herbarium and types
 

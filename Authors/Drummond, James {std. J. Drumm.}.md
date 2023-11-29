@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33120815) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33120815) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2324-1), [Wikidata](https://www.wikidata.org/wiki/Q2589989). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Drummond, James (1784-1863), British botanist and plant collector, in Australia 1829-1863, brother of Thomas Drummond. 
-**Abbreviated name**: *J. Drumm.*
+**Abbreviated name**: *J. Drumm.* \[standard form in IPNI: *J.Drumm.*\]
 
 #### Herbarium and types
 

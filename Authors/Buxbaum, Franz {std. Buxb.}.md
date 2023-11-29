@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33266596) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33266596) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1334-1), [Wikidata](https://www.wikidata.org/wiki/Q78998). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buxbaum, Franz (1900-1979), Austrian botanist, specialist of the Cactaceae and Liliaceae, born at Liebenau near Graz, educated at a "Volksschule" and a "Staatsgymnasium" at Graz, on active duty 1918, studied botany at the University of Graz with K. Fritsch, Dr. phil. ib. 10 Oct 1922, assistant with R. v. Wettstein at the Botanical Institute of the University of Vienna 1923-1926, travelled in Tunesia 1924, unemployed 1926-1930, studied again at Graz for the teaching profession, teacher at the Bundesrealgymnasium Fürstenfeld 1930, "Habilitation" 1937, on active duty 1939-1945, professor at the Bundesrealschule Judenburg 1949, venia docendi for systematic botany University Graz 1954-1968, privately active on his work on Cactaceae 1968-1979. 
-**Abbreviated name**: *Buxb.*
+**Abbreviated name**: *Buxb.* \[standard form in IPNI: *Buxb.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-07-08 11:25:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33266598) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33266598) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16773-1), [Wikidata](https://www.wikidata.org/wiki/Q3436756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buysson \[Viscount\], Robert du (fl. 1883-1893), French cryptogamist and entomologist at Moulins. 
-**Abbreviated name**: *Buyss.*
+**Abbreviated name**: *Buyss.* \[standard form in IPNI: *Buyss.*\]
 
 #### Herbarium and types
 

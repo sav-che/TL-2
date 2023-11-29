@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33066614) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33066614) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11656-1), [Wikidata](https://www.wikidata.org/wiki/Q77706). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wiggers, \[Wichers\], Fridrich Hindrich (1746-1811), \[Schleswig-\] Holstein physician and botanist; born at Krempe, Holstein (then part of Denmark); studied at the University of Kiel 1774-1780; Dr. med. 1780, 1784; practicing physician at Apenrade (Schleswig) from 1784. 
-**Abbreviated name**: *Wigg.*
+**Abbreviated name**: *Wigg.* \[standard form in IPNI: *F.H.Wigg.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-11-10 13:15:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33212299) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33212299) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10567-1), [Wikidata](https://www.wikidata.org/wiki/Q2864483). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thiébaut-de-Berneaud, Arsenne \[Arsène\] (1777-1850), French agronomist, botanist and author; officer in the republican army; librarian at the Bibliothèque Mazarine from 1808; from 1849 as "Conservatoir-adjoint"; secretary of the Société Linnéenne de Paris. 
-**Abbreviated name**: *Thiébaut-de-Berneaud*
+**Abbreviated name**: *Thiébaut-de-Berneaud* \[standard form in IPNI: *Thiéb.-Bern.*\]
 
 #### Herbarium and types
 

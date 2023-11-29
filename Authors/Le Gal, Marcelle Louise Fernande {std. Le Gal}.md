@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33069057) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33069057) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/22131-1), [Wikidata](https://www.wikidata.org/wiki/Q4255631). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Le Gal, Marcelle Louise Fernande (1895-x), French mycologist at the Muséum d'Histoire naturelle, Paris; Dr. sci. nat. Paris 1944. 
-**Abbreviated name**: *Le Gal*
+**Abbreviated name**: *Le Gal* \[standard form in IPNI: *Le Gal*\]
 
 #### Herbarium and types
 

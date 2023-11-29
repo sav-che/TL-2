@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33120599) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33120599) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1447-1), [Wikidata](https://www.wikidata.org/wiki/Q741590). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Castelnau, François Louis Nompar de Caumont de Laporte, Comte de (1810-1880), French naturalist, leader of an expedition to South America 1843-1847, later French consul general at Melbourne. 
-**Abbreviated name**: *Castelnau*
+**Abbreviated name**: *Castelnau* \[standard form in IPNI: *Castelnau*\]
 
 #### Herbarium and types
 

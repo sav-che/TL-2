@@ -22,14 +22,13 @@ ipni_record_created: 2005-01-07 11:05:06.0
 ipni_record_modified: 2005-01-07 11:05:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33259336) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33259336) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/20002205-1), [Wikidata](https://www.wikidata.org/wiki/Q6134338). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dickson, James Geere (1891-1962), American plant pathologist, born 7 Feb 1891, Yakima, Washington, died 28 Feb 1962, Madison, Wisconsin, attended a school in Yakima, had a B.S. degree in agriculture and botany at Washington State College 1915, MS of University of Wisconsin, Ph.D. degree 1921, agent for U.S.D.A. 1906-1961, also joint appointment as asst. professor plant pathology Univ. Wisconsin, promoted to assoc. professor 1922, professor 1926. 
-**Abbreviated name**: *J.G. Dicks.*
+**Abbreviated name**: *J.G. Dicks.* \[standard form in IPNI: *J.G.Dicks.*\]
 
 #### Herbarium and types
 

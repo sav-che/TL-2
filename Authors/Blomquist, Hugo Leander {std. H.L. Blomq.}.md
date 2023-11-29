@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33265419) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33265419) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16222-1), [Wikidata](https://www.wikidata.org/wiki/Q21506208). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Blomquist, Hugo Leander (1885-1964), Swedish born American botanist (bryologist), emigrated with his parents to Kulm, North Dakota 1892, studied at the University of Chicago, B.S. 1916, graduate work at Chicago 1916-1917, with the U.S. army 1917-1919, studied at the Institut Pasteur, Paris 1919, continued his graduate study at Chicago, Ph.D. ib. 1921, assistant professor of biology at Trinity College (later Duke University) at Durham, N.C. 1921, full professor 1923, chairman of botany 1935-1953, emeritus professor of botany ib. 1957. 
-**Abbreviated name**: *H.L. Blomq.*
+**Abbreviated name**: *H.L. Blomq.* \[standard form in IPNI: *H.L.Blomq.*\]
 
 #### Herbarium and types
 

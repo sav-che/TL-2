@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33212144) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33212144) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10309-1), [Wikidata](https://www.wikidata.org/wiki/Q4194762). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Suter, Johann Rudolf (1766-1827), Swiss botanist; studied in Göttingen 1785-1787; Dr. phil. ib. 1787; studied medicine at Mainz 1791-1793 and Göttingen 1794-1795; Dr. med. 1794; practicing physician in Zofingen 1795; member of the council of the Helvetian republic 1798-1801; practicing physician and private scientist in Bern 1801-1804; id. Zofingen 1811-1820; professor of philosophy and Greek, Bern 1820-1827. 
-**Abbreviated name**: *Suter*
+**Abbreviated name**: *Suter* \[standard form in IPNI: *Suter*\]
 
 #### Herbarium and types
 

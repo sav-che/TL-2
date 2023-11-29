@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33333858) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33333858) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9862-1), [Wikidata](https://www.wikidata.org/wiki/Q21447526). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Soest, Johannes Leendert van (1898-1983), Dutch electro-technical engineer and amateur botanist; Ir. Delft 1925; engineer with the Physics laboratories of the Department of defense and the Dutch Postal and Telephone Services 1927-1964; extraordinary professor in electro-technical engineering Delft from 1949; active floristic botanist and plant geographer, especially interested in Taraxacum; Dr. h.c. Utrecht 1958. 
-**Abbreviated name**: *Soest*
+**Abbreviated name**: *Soest* \[standard form in IPNI: *Soest*\]
 
 #### Herbarium and types
 

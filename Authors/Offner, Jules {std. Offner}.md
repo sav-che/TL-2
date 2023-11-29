@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33355900) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33355900) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7097-1), [Wikidata](https://www.wikidata.org/wiki/Q21522330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Offner, Jules (1873-1957), French botanist at Grenoble; Lic. sci. nat. (Lyc. Champollion) 1895, Dr. méd. Grenoble 1901; in various functions at the University of Grenoble 1895-1937; mainly specialized as mycologist, toxicologist, pharmacologist. 
-**Abbreviated name**: *Offner*
+**Abbreviated name**: *Offner* \[standard form in IPNI: *Offner*\]
 
 #### Herbarium and types
 

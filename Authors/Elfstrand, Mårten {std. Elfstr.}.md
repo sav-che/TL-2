@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33260288) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33260288) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2508-1), [Wikidata](https://www.wikidata.org/wiki/Q5708330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Elfstrand, Mårten (1859-1929), Swedish pharmacognist and botanist, born 20 Mai 1859 in Undersåker (Jämtland), visited school at Östersund, to Uppsala University 1883, med. cand. 1887, med. lic. 1893, med. dr. and docent in pharmacognosy 1895, prof. in 1898. 
-**Abbreviated name**: *Elfstr.*
+**Abbreviated name**: *Elfstr.* \[standard form in IPNI: *Elfstr.*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33068890) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33068890) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4955-1), [Wikidata](https://www.wikidata.org/wiki/Q21517724). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koorders-Schumacher, Anna (1870-1934), German-born Dutch botanist; married to S. H. Koorders. 
-**Abbreviated name**: *Koord.-Schum.*
+**Abbreviated name**: *Koord.-Schum.* \[standard form in IPNI: *Koord.-Schum.*\]
 
 #### Types
 

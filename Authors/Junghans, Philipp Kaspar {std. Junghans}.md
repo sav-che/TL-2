@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33068712) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33068712) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4585-1), [Wikidata](https://www.wikidata.org/wiki/Q21517174). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Junghans, Philipp Kaspar (1738-1797), German botanist at Halle. 
-**Abbreviated name**: *Junghans*
+**Abbreviated name**: *Junghans* \[standard form in IPNI: *Junghans*\]
 
 #### Herbarium and types
 

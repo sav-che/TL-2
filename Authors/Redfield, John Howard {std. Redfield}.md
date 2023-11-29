@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33190092) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33190092) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8219-1), [Wikidata](https://www.wikidata.org/wiki/Q19359323). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Redfield, John Howard (1815-1895), American businessman, botanist, zoologist and palaeontologist; member of a car-wheel manufacturing firm in Philadelphia; after retirement (1885) devoting himself to building up the herbarium of the Academy of Natural Sciences, Philadelphia. 
-**Abbreviated name**: *Redfield*
+**Abbreviated name**: *Redfield* \[standard form in IPNI: *Redfield*\]
 
 #### Herbarium and types
 

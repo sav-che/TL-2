@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33190094) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33190094) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8222-1), [Wikidata](https://www.wikidata.org/wiki/Q551638). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Redouté, Pierre Joseph (1759-1840); Luxemburg-born botanical artist who settled in Paris 1782, originally as designer of stage scenery, moving to botanical drawing and painting stimulated by CL. L'Héritier de Brutelle from 1784, draughtsman and painter to the cabinet of Marie-Antoinette 1787 and associated with G. van Spaendonck; on the staff of the Muséum national d'histoire naturelle, Paris and working with R.L. Desfontaines and A.P. de Candolle after 1795; painter for Joséphine de Beauharnais and Ventenat, later to Marie Louise during the Napoleonic period; during the Restauration working independently as well as for Marie Caroline de Berry. 
-**Abbreviated name**: *Redouté*
+**Abbreviated name**: *Redouté* \[standard form in IPNI: *Redouté*\]
 
 #### Herbarium and types
 

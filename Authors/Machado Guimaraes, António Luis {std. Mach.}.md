@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33355309) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33355309) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5926-1), [Wikidata](https://www.wikidata.org/wiki/Q21514379). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Machado Guimaraes, António Luis (1883-1969), Portuguese bryologist; Lic. fil. nat. Coimbra 1907; high school teacher in Lisboa 1907-1914; from 1914-1953 in various functions at the Biology Dept. of the Faculdade de Ciências do Porto, from 1921 as professor of zoology, from 1935 as director of the Marine zoological institute. 
-**Abbreviated name**: *Mach.*
+**Abbreviated name**: *Mach.* \[standard form in IPNI: *Guim.*\]
 
 #### Herbarium and types
 

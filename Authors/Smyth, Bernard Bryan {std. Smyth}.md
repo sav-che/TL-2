@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33333847) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33333847) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/13434-1), [Wikidata](https://www.wikidata.org/wiki/Q5726514). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smyth, Bernard Bryan (1843-1913), Irish-born American botanist, geologist and mathematician, to the United States 1853; professor of botany Kansas Medical College 1890-1895; curator Kansas State Museum Herbarium 1895. 
-**Abbreviated name**: *Smyth*
+**Abbreviated name**: *Smyth* \[standard form in IPNI: *Smyth*\]
 
 #### Herbarium and types
 

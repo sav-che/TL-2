@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/page/33333903) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/page/33333903) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9937-1), [Wikidata](https://www.wikidata.org/wiki/Q92108). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Soyaux, Hermann (1852-?), German (Silesian) gardener and traveller; in Western tropical Africa (Loango-Expedition) 1873-1876 for the Deutsche afrikanische Gesellschaft; in charge of coffee plantations in Gabon 1879-1885, later in charge of the Berlin office of the German Kolonialverein; in Brazil in charge of the settlement of Bom Retiro 1888; co-founder of the Centro economico of Rio Grande do Sul 1904-? 
-**Abbreviated name**: *Soyaux*
+**Abbreviated name**: *Soyaux* \[standard form in IPNI: *Soyaux*\]
 
 #### Herbarium and types
 

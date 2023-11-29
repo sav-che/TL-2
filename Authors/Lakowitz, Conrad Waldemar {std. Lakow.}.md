@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33068970) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33068970) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5222-1), [Wikidata](https://www.wikidata.org/wiki/Q21518320). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lakowitz, Conrad Waldemar (1859-1945), German algologist, palaeobotanist, and high school teacher at the royal gymnasium at Danzig (now Gdansk); educated at Breslau university (Dr. phil. 1881). 
-**Abbreviated name**: *Lakow.*
+**Abbreviated name**: *Lakow.* \[standard form in IPNI: *Lakow.*\]
 
 #### Herbarium and types
 

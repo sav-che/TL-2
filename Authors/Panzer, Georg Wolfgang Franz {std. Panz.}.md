@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33189481) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33189481) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7315-1), [Wikidata](https://www.wikidata.org/wiki/Q65451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Panzer, Georg Wolfgang Franz (1755-1829), German (Oberpfalz) physician, botanist and entomologist; Dr. med. Erlangen 1777; travelled in C. Europe 1778-1780; from 1780 regional physician and lecturer at the Collegium medicum, Nürnberg. 
-**Abbreviated name**: *Panz.*
+**Abbreviated name**: *Panz.* \[standard form in IPNI: *Panz.*\]
 
 #### Herbarium and types
 

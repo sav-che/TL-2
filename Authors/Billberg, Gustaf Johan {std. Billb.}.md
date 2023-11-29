@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33120346) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33120346) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/790-1), [Wikidata](https://www.wikidata.org/wiki/Q725590). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Billberg, Gustaf Johan (1772-1844), Swedish "Hammarrättsråd" and botanist and zoologist. 
-**Abbreviated name**: *Billb.*
+**Abbreviated name**: *Billb.* \[standard form in IPNI: *Billb.*\]
 
 #### Herbarium and types
 

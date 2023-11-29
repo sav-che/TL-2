@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33260077) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33260077) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2306-1), [Wikidata](https://www.wikidata.org/wiki/Q5643957). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Drar, Mohammed (1894-1964), Egyptian botanist, born 15 Mar 1894, started professional life as a gardener, directed the Zohria, Orman and Qubba botanical gardens and organized, in part, the botanical section, garden library, and herbarium of the Agricultural Museum at Cairo. 
-**Abbreviated name**: *Drar*
+**Abbreviated name**: *Drar* \[standard form in IPNI: *Drar*\]
 
 #### Herbarium and types
 

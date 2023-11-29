@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33068982) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33068982) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5243-1), [Wikidata](https://www.wikidata.org/wiki/Q2366296). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lamouroux, Jean Vincent Félix (1779-1825), French algologist and professor of natural history at Caen; from 1808 at the Lycée de Caen; from 1809 at the Faculté des Sciences (1812 succeeding Roussel as professor). 
-**Abbreviated name**: *J. V. Lamour.*
+**Abbreviated name**: *J. V. Lamour.* \[standard form in IPNI: *J.V.Lamour.*\]
 
 #### Herbarium and types
 

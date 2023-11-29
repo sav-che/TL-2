@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33264759) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33264759) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/40524-1), [Wikidata](https://www.wikidata.org/wiki/Q98053). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ackermann, Jacob Fidelis (1765-1815), German physician, Dr. phil. Mainz 1787, travelled in Germany and Italy 1787-1789, habil. Mainz 1789 as Privatdozent (private lecturer) in forensic medicine, subsequently full professor; president and professor at the Medical School, Mainz 1798, id. anatomy and surgery at Jena 1804, id. Heidelberg 1805-1815; taught botany at Heidelberg in 1812 as part of his medical curriculum. 
-**Abbreviated name**: *Ackermann*
+**Abbreviated name**: *Ackermann* \[standard form in IPNI: *Ackermann*\]
 
 #### Herbarium and types
 

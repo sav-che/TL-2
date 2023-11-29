@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33189533) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33189533) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7347-1), [Wikidata](https://www.wikidata.org/wiki/Q19001469). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parkinson, Charles Edward (1890-1945), Scottish botanist; assistant conservator of forests, Andaman Isl. 1912; India Forest Service, Burma, 1916; Forest Botanist Burma 1925; Forest Research Institute, Dehra Dun 1929. 
-**Abbreviated name**: *C. Parkinson*
+**Abbreviated name**: *C. Parkinson* \[standard form in IPNI: *C.E.Parkinson*\]
 
 #### Herbarium and types
 

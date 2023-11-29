@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33120657) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33120657) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1741-1), [Wikidata](https://www.wikidata.org/wiki/Q443356). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Collie, Alexander (x-1835), British naval surgeon, naturalist on Captain Beechey's voyage. 
-**Abbreviated name**: *Collie*
+**Abbreviated name**: *Collie* \[standard form in IPNI: *Collie*\]
 
 #### Herbarium and types
 

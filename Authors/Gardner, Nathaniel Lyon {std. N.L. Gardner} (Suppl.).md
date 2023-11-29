@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33258602) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33258602) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3027-1), [Wikidata](https://www.wikidata.org/wiki/Q21513795). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gardner, Nathaniel Lyon {std. N.L. Gardner}|first entry]] for this author
 
 ### Author
 
 \* Gardner, Nathaniel Lyon (1864-1937), American phycologist, born 26 Feb 1864 in Keokuk, Iowa, in business in Tacoma, Washington to 1893, school teacher, Coupeville (Island Co.), Washington, B.Sc. 1900 Univ. of Washington at Seattle, M.Sc. 1903 and Ph.D. 1905 Univ. of Calif. at Berkeley (student of W.A. Setchell), Head of Biology Dept., Los Angeles Polytechnic High School 1906-1913, Acting Asst. Prof. 1909-1910, Asst. Prof. 1913-1923, Assoc. Prof. 1923-1934 and Curator of the Herb. 1920-1934, all Univ. of Calif. at Berkeley, married in 1915 Edith Jordan, daughter of David Starr Jordan (1851-1931), ichthyologist and univ. administrator, died 15 Aug 1937 in Berkeley, Calif. 
-**Abbreviated name**: *N.L. Gardner*
+**Abbreviated name**: *N.L. Gardner* \[standard form in IPNI: *N.L.Gardner*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33212717) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33212717) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11066-1), [Wikidata](https://www.wikidata.org/wiki/Q21611435). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Van Schaack, George Booth (1903-1983), American botanist and botanical librarian; Dr. math. Harvard 1935; instructor mathematics, Harvard 1929-1935; with Equitable Life Assurance Soc. 1935-1936; instructor mathematics Rochester 1936-1938, Michigan State College 1938-1940; assistant prof. ib. 1940-1943; became interested in botany (grasses) when U.S. Navy lieutenant in the Aleutian Islands during World War II; teacher in mathematics in St. Louis 1946-1960; from 1954 on the library committee of the Missouri Botanical Garden, from 1958-1968 librarian in charge ib.; librarian Morton Arboretum, Lisle, Illinois 1968; in retirement at the University of Oregon, ultimately in Florida. 
-**Abbreviated name**: *Van Schaack*
+**Abbreviated name**: *Van Schaack* \[standard form in IPNI: *Van Schaack*\]
 
 #### Herbarium and types
 

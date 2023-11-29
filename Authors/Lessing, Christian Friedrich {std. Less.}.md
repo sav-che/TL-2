@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/page/33069094) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/page/33069094) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/22263-1), [Wikidata](https://www.wikidata.org/wiki/Q76352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lessing, Christian Friedrich (1809-1862), German botanist, born in Polish Wartenburg, grand son of the poet, studied in Berlin, Dr. phil. 1832; travelled in Norway and in European and Asiatic Russia, settled ultimately at Krasnoyarsk in Siberia. 
-**Abbreviated name**: *Less.*
+**Abbreviated name**: *Less.* \[standard form in IPNI: *Less.*\]
 
 #### Herbarium and types
 

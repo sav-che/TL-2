@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33266162) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33266162) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17555-1), [Wikidata](https://www.wikidata.org/wiki/Q21509572). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cruchet, Paul (1875-1964), Swiss botanist (mycologist), born 25 Sep 1875 at Montpreveyres (Vaud), son of D. Cruchet (see above), studied at a gymnasium, afterwards at the Faculty of Science at the University of Lausanne, Dr. ès sciences 1906, "professor" at the Collège de Payerne, in 1922 at Morges until his retreat in 1935, died at Morges 31 Mar 1964. 
-**Abbreviated name**: *P. Cruchet*
+**Abbreviated name**: *P. Cruchet* \[standard form in IPNI: *P.Cruchet*\]
 
 #### Herbarium and types
 

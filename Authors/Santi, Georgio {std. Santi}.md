@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33333143) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33333143) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8905-1), [Wikidata](https://www.wikidata.org/wiki/Q2882195). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Santi, Georgio (1746-1822), Italian botanist; Dr. med. phil. Siena 1777; in Paris 1777-1783; professor of botany, natural history and chemistry and director of the botanical garden of Pisa 1782/3-1814. 
-**Abbreviated name**: *Santi*
+**Abbreviated name**: *Santi* \[standard form in IPNI: *Santi*\]
 
 #### Herbarium and types
 

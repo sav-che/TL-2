@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 656](https://www.biodiversitylibrary.org/page/33190127) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 656](https://www.biodiversitylibrary.org/page/33190127) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8245-1), [Wikidata](https://www.wikidata.org/wiki/Q21607075). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rehsteiner, Hugo (1864-1947), Swiss botanist at St. Gallen. 
-**Abbreviated name**: *Rehsteiner*
+**Abbreviated name**: *Rehsteiner* \[standard form in IPNI: *Rehst.*\]
 
 #### Herbarium and types
 

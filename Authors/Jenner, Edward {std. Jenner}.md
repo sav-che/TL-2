@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33068679) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33068679) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4469-1), [Wikidata](https://www.wikidata.org/wiki/Q18671056). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jenner, Edward (1803-1872), British algologist. 
-**Abbreviated name**: *Jenner*
+**Abbreviated name**: *Jenner* \[standard form in IPNI: *Jenner*\]
 
 #### Herbarium and types
 

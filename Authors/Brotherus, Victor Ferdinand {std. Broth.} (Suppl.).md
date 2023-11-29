@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33266431) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33266431) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1180-1), [Wikidata](https://www.wikidata.org/wiki/Q4348569). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brotherus, Viktor Ferdinand {std. Broth.}|first entry]] for this author
 
 ### Author
 
 \* Brotherus, Victor Ferdinand (1849-1929), Finnish bryologist and highschool teacher in Helsinki, studied at the University of Helsingfors 1866-1870, teacher at various schools in Finland, lecturer for natural science and mathematics 1878-1917, associated with S.O. Lindberg with respect to Finnish musci, travelled 1870 in Finland and Russian-Lapponia, in the Caucasus 1877 and 1881, Dr. phil. Helsinki 1884, on expedition in Central Asia 1896, author of the musci for the Nat. Pflanzenfam. of Engler 1909 as well as for its second edition 1924-1925, professor's title 1921, Dr. h.c. Univ. Bonn 1927. 
-**Abbreviated name**: *Broth.*
+**Abbreviated name**: *Broth.* \[standard form in IPNI: *Broth.*\]
 
 #### Herbarium and types
 

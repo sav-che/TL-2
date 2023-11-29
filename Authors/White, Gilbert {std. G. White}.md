@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33066591) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33066591) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11619-1), [Wikidata](https://www.wikidata.org/wiki/Q772840). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 White, Gilbert (1720-1793), British curate and naturalist; B.A. Oxford 1743, MA 1746; curate at Swarraton 1746-1751, at Selborne 1751; proctor of Oxford University 1752, curate at Selborne from ca. 1758. 
-**Abbreviated name**: *G. White*
+**Abbreviated name**: *G. White* \[standard form in IPNI: *G.White*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33189801) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33189801) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7817-1), [Wikidata](https://www.wikidata.org/wiki/Q21523088). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pollexfen, John Hutton (1813-1899), British physician and algologist; MD Edinburgh 1835, B.A. Cantab. 1843; ordained 1844, from then on clergyman at Colchester, East Wetton and from 1874-1899 vicar at the parish of Middleton Tyas. 
-**Abbreviated name**: *Pollexf.*
+**Abbreviated name**: *Pollexf.* \[standard form in IPNI: *Pollexf.*\]
 
 #### Herbarium and types
 

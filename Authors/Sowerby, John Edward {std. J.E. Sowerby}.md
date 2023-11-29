@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33333902) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33333902) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9935-1), [Wikidata](https://www.wikidata.org/wiki/Q5933203). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sowerby, John Edward (1825-1870), British botanical artist and publisher; grandson of James Sowerby. 
-**Abbreviated name**: *J.E. Sowerby*
+**Abbreviated name**: *J.E. Sowerby* \[standard form in IPNI: *J.E.Sowerby*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33333589) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33333589) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12856-1), [Wikidata](https://www.wikidata.org/wiki/Q21608552). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwickerath, Mathias \[Friederich\] (1892-1974), German (Prussian) botanist, phytosociologist and high school teacher; teacher's examination 1917; Dr. phil. Münster 1919; high school teacher at Aachen 1916-1957; from 1949 "Dozent" at the University of Bonn; from 1958 with the title professor; "Bezirksbeauftragter für Naturschutz und Landespflege, Regierungsbezirk Aachen" 1927-1968. 
-**Abbreviated name**: *Schwickerath*
+**Abbreviated name**: *Schwickerath* \[standard form in IPNI: *Schwick.*\]
 
 #### Herbarium and types
 

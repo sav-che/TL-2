@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33266574) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33266574) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16748-1), [Wikidata](https://www.wikidata.org/wiki/Q626705). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Burrill, Thomas Jonathan (1839-1916), American botanist, born 25 Apr 1839, Pittsfield, Massachusetts, died 14 Apr 1916, Urbana, Illinois, mycologist and bacteriologist, educated at Illinois State Normal School, honorary degree of Ph.D. from Chicago University 1881, and later L.L.D. from Northwestern University, filled the chair of botany of the University of Illinois, and from 1879 until his retirement in 1913 as Vice-President of the University. 
-**Abbreviated name**: *Burrill*
+**Abbreviated name**: *Burrill* \[standard form in IPNI: *Burrill*\]
 
 #### Herbarium and types
 

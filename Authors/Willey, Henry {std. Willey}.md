@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33066654) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33066654) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11699-1), [Wikidata](https://www.wikidata.org/wiki/Q21339555). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Willey, Henry (1824-1907), American lawyer, journalist and botanist (lichenologist), admitted to the New York bar 1848; practiced law at Geneseo and Spencerport N.Y. 1848-1851; editor of the New Bedford Daily Evening Standard 1857-1900. 
-**Abbreviated name**: *Willey*
+**Abbreviated name**: *Willey* \[standard form in IPNI: *Willey*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33333755) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33333755) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9692-1), [Wikidata](https://www.wikidata.org/wiki/Q47126256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Singer, Max (*fl*. 1885), Austrian rhodologist, botanist and high school teacher; from 1898 professor at the German Gymnasium in the "Königl. Weinbergen" in Praha. 
-**Abbreviated name**: *M. Singer*
+**Abbreviated name**: *M. Singer* \[standard form in IPNI: *M.Singer*\]
 
 #### Herbarium and types
 

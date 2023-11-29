@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33266511) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33266511) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1259-1), [Wikidata](https://www.wikidata.org/wiki/Q5057079). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bucknall, Cedric (1849-1921), British organist, composer and botanist, born Bath 2 Mai 1849, died Clifton, Bristol 12 Dec 1921, organist of a country church at fourteen, worked at St. Matthias, Stoke Newington under Dr. Monk, later Southwell Minister, Mus. Bac. in Keble College, Oxford, appointed to the Church of All Saints, Clifton 1876-1921. 
-**Abbreviated name**: *Buckn.*
+**Abbreviated name**: *Buckn.* \[standard form in IPNI: *Buckn.*\]
 
 #### Herbarium and types
 

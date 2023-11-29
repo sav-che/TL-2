@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33066434) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33066434) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11419-1), [Wikidata](https://www.wikidata.org/wiki/Q19213803). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wartmann, Jakob (1803-1873), Swiss high school teacher and botanist in St. Gallen; at the St. Gallen Gymnasium 1834-1854; town librarian 1855-1873; founder of the St. Gallen natural history museum 
-**Abbreviated name**: *J. Wartm.*
+**Abbreviated name**: *J. Wartm.* \[standard form in IPNI: *J.Wartm.*\]
 
 #### Herbarium and types
 

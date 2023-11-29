@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33069079) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33069079) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5459-1), [Wikidata](https://www.wikidata.org/wiki/Q2329183). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Le Maout, Jean Emmanuel Maurice (1799-1877). French physician and botanist in Paris. 
-**Abbreviated name**: *Le Maout*
+**Abbreviated name**: *Le Maout* \[standard form in IPNI: *Le Maout*\]
 
 #### Herbarium and types
 

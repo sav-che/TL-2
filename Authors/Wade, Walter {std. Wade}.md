@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33066306) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33066306) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11290-1), [Wikidata](https://www.wikidata.org/wiki/Q7966367). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wade, Walter (1760-1825), Irish botanist and physician practicing in Dublin; professor of botany for the Dublin Society; founder and director of the Botanical Garden of the Society, now National Botanic Garden, Glasnevin 1794-1825. 
-**Abbreviated name**: *Wade*
+**Abbreviated name**: *Wade* \[standard form in IPNI: *Wade*\]
 
 #### Herbarium and types
 

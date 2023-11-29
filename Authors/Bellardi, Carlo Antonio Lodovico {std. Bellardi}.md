@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33120300) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33120300) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/15904-1), [Wikidata](https://www.wikidata.org/wiki/Q578933). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bellardi, Carlo Antonio Lodovico {std. Bellardi} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bellardi, Carlo Antonio Lodovico (1741-1826), Italian physician and botanist at Torino, pupil of Allioni. 
-**Abbreviated name**: *Bellardi*
+**Abbreviated name**: *Bellardi* \[standard form in IPNI: *Bellardi*\]
 
 #### Herbarium and types
 

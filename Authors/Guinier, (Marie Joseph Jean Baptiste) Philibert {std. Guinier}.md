@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33258935) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33258935) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3474-1), [Wikidata](https://www.wikidata.org/wiki/Q3378941). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Guinier, \[Marie Joseph Jean Baptiste\] Philibert ('la bique' to his students) (1876-1962), French forester, ecologist and administrator, born 21 Jun 1876 in Grenoble, studied at the National Inst. of Agronomy 1895-1897, then at the École Nationale des Eaux et Forêts, Nancy 1897-1899, asst., forestry research station 1901, instructor of forest botany 1904-1921 and dir. 1921-1941, all at the École Nationale des Eaux et Forêts, retired 1941, Académie d'agriculture de France 1936, president, Société Botanique de France 1946, Légion d'honneur 1948, Académie des Sciences 1953, died 3 Apr 1962 in Paris. 
-**Abbreviated name**: *Guinier*
+**Abbreviated name**: *Guinier* \[standard form in IPNI: *Guinier*\]
 
 #### Herbarium and types
 

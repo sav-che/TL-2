@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33120530) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33120530) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1263-1), [Wikidata](https://www.wikidata.org/wiki/Q5893554). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buek, Heinrich Wilhelm (1796-1879), German physician ("Landphysicus" at Hamburg) and botanist. 
-**Abbreviated name**: *H. Buek*
+**Abbreviated name**: *H. Buek* \[standard form in IPNI: *H.Buek*\]
 
 #### Herbarium and types
 

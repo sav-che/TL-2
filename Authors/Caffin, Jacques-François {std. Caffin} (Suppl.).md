@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33266605) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33266605) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1348-1), [Wikidata](https://www.wikidata.org/wiki/Q21506819). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Caffin, Jacques François {std. Caffin}|first entry]] for this author
 
 ### Author
 
 \* Caffin, Jacques-François (1778-1854), French physician and botanist, born at Saumur, studied medicine at Angers and Paris (1805), practising medicine at Saumur, dedicating himself also to botany, ultimately at Saint Lambert-des-Levées. 
-**Abbreviated name**: *Caffin*
+**Abbreviated name**: *Caffin* \[standard form in IPNI: *Caffin*\]
 
 #### Herbarium and types
 

@@ -20,9 +20,8 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33259894) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33259894) of TL-2 Suppl. VII
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gwynne-Vaughan, Helen Charlotte I. (née Fraser) {std. H.C.I. Gwynne-Vaughan}|first entry]] for this author
 

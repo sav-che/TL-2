@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33068810) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33068810) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4850-1), [Wikidata](https://www.wikidata.org/wiki/Q21517604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Klinsmann, Ernst Ferdinand (1794-1865), Danzig botanist and physician; studied at Berlin under F. G. Hayne; Dr. med. Berlin 1823; practiced medicine in Danzig 1824-1865; curator of the botanical collections of the Naturforschende Gesellschaft in Danzig. 
-**Abbreviated name**: *Klinsm.*
+**Abbreviated name**: *Klinsm.* \[standard form in IPNI: *Klinsm.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33333360) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33333360) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9121-1), [Wikidata](https://www.wikidata.org/wiki/Q21608045). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlesinger, Karl (1869-?), German (Silezian) pharmacist and botanist; Dr. phil. Erlangen 1895; pharmacist at Breslau. 
-**Abbreviated name**: *Schlesinger*
+**Abbreviated name**: *Schlesinger* \[standard form in IPNI: *Schles.*\]
 
 #### Herbarium and types
 

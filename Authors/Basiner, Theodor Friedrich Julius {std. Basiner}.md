@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33265092) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33265092) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/527-1), [Wikidata](https://www.wikidata.org/wiki/Q4075270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Basiner, Theodor Friedrich Julius (1817-1862), Esthonian (Livonian) botanist, studied natural sciences at the University of Dorpat, employed by the Imperial Botanical Garden St. Petersburg 1841, travelled in European and Asiatic Russia 1841-1843 (to Chiwa), curator of the Imperial Botanical Garden 1843, later librarian and secretary for foreign activities id., agricultural inspector in Southern Russia 1849, curator of the Kiew Arboretum 1851-1862, travelled in Western Europe 1860, went to Vienna for health reasons 1862, Dr. phil. Königsberg 1848. 
-**Abbreviated name**: *Basiner*
+**Abbreviated name**: *Basiner* \[standard form in IPNI: *Basiner*\]
 
 #### Herbarium and types
 

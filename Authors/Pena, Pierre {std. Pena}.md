@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33189620) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33189620) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7480-1), [Wikidata](https://www.wikidata.org/wiki/Q647384). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pena, Pierre (*fl*. 1520-1600), French botanist and physician; collaborated with L'Obel at Montpellier (1565) and in England 1566-1572); from then onward practicing physician in France, ultimately as chief physician of Henri III. 
-**Abbreviated name**: *Pena*
+**Abbreviated name**: *Pena* \[standard form in IPNI: *Pena*\]
 
 #### Herbarium and types
 

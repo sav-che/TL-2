@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33333412) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33333412) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9191-1), [Wikidata](https://www.wikidata.org/wiki/Q21608214). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schneider, Ferdinand (1834-1882), Swiss botanist and pharmacist in Basel. 
-**Abbreviated name**: *Fe. Schneid.*
+**Abbreviated name**: *Fe. Schneid.* \[standard form in IPNI: *Ferd.Schneid.*\]
 
 #### Herbarium and types
 

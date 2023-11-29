@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33120999) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33120999) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2866-1), [Wikidata](https://www.wikidata.org/wiki/Q117688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Franc van Berkhey (or Berkhij), Jan le {std. Franc v. Berkhey} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Franc van Berkhey, Jan (Johannes) le (1729-1812), Dutch poet, biologist, political activist, praelector historiae naturalis at Leiden. 
-**Abbreviated name**: *Franc v. Berkhey*
+**Abbreviated name**: *Franc v. Berkhey* \[standard form in IPNI: *Franc*\]
 
 #### Herbarium and types
 

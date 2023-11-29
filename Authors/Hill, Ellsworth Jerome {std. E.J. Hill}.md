@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33068439) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33068439) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3945-1), [Wikidata](https://www.wikidata.org/wiki/Q19955677). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hill, Ellsworth Jerome (1833-1917), American botanist; presbyterian clergyman in Illinois (1863-1869); high school teacher at Kankakee, Ill. (1870-1874); at Chicago 1874-1888; from then on working almost entirely as a botanist. 
-**Abbreviated name**: *E. J. Hill*
+**Abbreviated name**: *E. J. Hill* \[standard form in IPNI: *E.J.Hill*\]
 
 #### Herbarium and types
 

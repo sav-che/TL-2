@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33212136) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33212136) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12905-1), [Wikidata](https://www.wikidata.org/wiki/Q21610057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Supprian, Karl \[Wilhelm\] (1871-1917), German (Silesian) botanist; studied natural sciences at München and Berlin; Dr. phil. Berlin 1894 as student of A. Engler; teacher at the Reform-Realgymnasium, Altona 1900; active promotor of gymnastics; on active service 1914-1917; fell at Villers-devant-la-Thour. 
-**Abbreviated name**: *Supprian*
+**Abbreviated name**: *Supprian* \[standard form in IPNI: *Supprian*\]
 
 #### Herbarium and types
 

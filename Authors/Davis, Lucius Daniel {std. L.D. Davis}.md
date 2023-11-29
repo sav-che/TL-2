@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259154) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259154) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/13936-1), [Wikidata](https://www.wikidata.org/wiki/Q36612054). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Davis, Lucius Daniel (1826-1900), Methodist Episcopal clergyman, born in Jerusalem, N.Y., later at New York, died 31 Oct 1900, Newport, RI. 
-**Abbreviated name**: *L.D. Davis*
+**Abbreviated name**: *L.D. Davis* \[standard form in IPNI: *L.D.Davis*\]
 
 #### Herbarium and types
 

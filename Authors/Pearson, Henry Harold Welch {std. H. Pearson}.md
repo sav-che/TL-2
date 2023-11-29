@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33189602) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33189602) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7444-1), [Wikidata](https://www.wikidata.org/wiki/Q5722627). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pearson, Henry Harold Welch (1870-1916), English botanist; M.A. Cambridge 1900, D. Sc. ib. 1907; assistant curator Cambridge herbarium 1898-1899; assistant for India at Kew 1899-1903; from 1903-1916 Harry Bolus professor of botany at the South African College, Cape Town; founder of the Kirstenbosch National Botanic Gardens of South Africa. 
-**Abbreviated name**: *H. Pearson*
+**Abbreviated name**: *H. Pearson* \[standard form in IPNI: *H.Pearson*\]
 
 #### Herbarium and types
 

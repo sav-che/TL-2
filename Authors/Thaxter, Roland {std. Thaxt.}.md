@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33212274) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33212274) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10544-1), [Wikidata](https://www.wikidata.org/wiki/Q2086486). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thaxter, Roland (1858-1932), American mycologist; A.B. Harvard 1882; Dr. phil. ib. 1888; assistant to W.G. Farlow 1886-1888; with Connecticut Experiment Station 1888-1891; assistant professor Harvard (with W.G. Farlow) 1891-1901, full professor 1901-1919; in retirement at Harvard 1919-1932; travelled in Chile 1905-1906. 
-**Abbreviated name**: *Thaxt.*
+**Abbreviated name**: *Thaxt.* \[standard form in IPNI: *Thaxt.*\]
 
 #### Herbarium and types
 

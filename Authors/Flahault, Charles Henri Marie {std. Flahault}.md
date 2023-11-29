@@ -25,16 +25,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33120974) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33120974) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2769-1), [Wikidata](https://www.wikidata.org/wiki/Q1064374). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Flahault, Charles (Henri Marie) {std. Flahault} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Flahault, Charles Henri Marie (1852-1935), French botanist at Montpellier, professor of botany 1881, director botanic garden 1889. 
-**Abbreviated name**: *Flah.*
+**Abbreviated name**: *Flah.* \[standard form in IPNI: *Flahault*\]
 
 #### Herbarium and types
 

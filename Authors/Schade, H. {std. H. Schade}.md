@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33333242) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33333242) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9002-1), [Wikidata](https://www.wikidata.org/wiki/Q47125692). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schade, H. (*fl*. 1892), German high school teacher and botanist at Kiel. 
-**Abbreviated name**: *H. Schade*
+**Abbreviated name**: *H. Schade* \[standard form in IPNI: *H.Schade*\]
 
 #### Herbarium and types
 

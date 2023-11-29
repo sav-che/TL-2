@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33355484) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33355484) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6298-1), [Wikidata](https://www.wikidata.org/wiki/Q960625). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Medlicott, Henry Benedict (1829-1905), British geologist; from 1854 until 1887 with the Geological Survey of India; 1854-1862 also professor of geology at Rurki; Mutiny Medal 1857; from 1876-1885 director of the Survey. 
-**Abbreviated name**: *Medlicott*
+**Abbreviated name**: *Medlicott* \[standard form in IPNI: *Medlicott*\]
 
 #### Herbarium and types
 

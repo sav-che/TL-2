@@ -20,9 +20,8 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33258949) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33258949) of TL-2 Suppl. VIII
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fraser, Helen Charlotte Isabella {std. H.C.I. Gwynne-Vaughan} (Suppl.)|second entry]] for this author
 

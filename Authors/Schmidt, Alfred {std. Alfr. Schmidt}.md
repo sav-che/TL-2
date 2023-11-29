@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33333384) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33333384) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9153-1), [Wikidata](https://www.wikidata.org/wiki/Q21608133). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidt, Alfred (1886-?), German (Silesian) mycologist; travelled in East Africa 1910; student of F. Pax; D. phil. Breslau 1912. 
-**Abbreviated name**: *Alfr. Schmidt*
+**Abbreviated name**: *Alfr. Schmidt* \[standard form in IPNI: *Alf.Schmidt*\]
 
 #### Herbarium and types
 

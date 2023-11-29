@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33068243) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33068243) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3517-1), [Wikidata](https://www.wikidata.org/wiki/Q659389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Haan, Willem de (1801-1855), Dutch biologist at Leiden. 
-**Abbreviated name**: *Haan*
+**Abbreviated name**: *Haan* \[standard form in IPNI: *Haan*\]
 
 #### Collections
 

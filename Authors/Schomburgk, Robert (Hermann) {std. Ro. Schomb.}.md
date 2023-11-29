@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33333437) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33333437) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9232-1), [Wikidata](https://www.wikidata.org/wiki/Q62118). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schomburgk, Robert \[Hermann\] (1804-1865), German (Prussian Saxony; in 1804: Thuringian) botanist and explorer; elder brother of Richard Schomburgk; commercial employee in Leipzig 1823-1828; in Richmond, Va. 1828-1829; in St. Thomas 1829-1830; explored Porto Rico, Tortola and Anegada 1831-1835; from 1835-1839 (discovery of *Victoria regia*) and 1840-1844 in British Guiana for the Royal Geogr. Society and the British Government; in Barbados 1846-1847; British Consul in Sto. Domingo 1848-1857; id. Bangkok, Thailand 1857-1864; in retirement in Berlin 1864-1865; knighted ("Sir") 1844; Dr. phil. h.c. Königsberg 1844, id. Jena 1858. 
-**Abbreviated name**: *Ro. Schomb.*
+**Abbreviated name**: *Ro. Schomb.* \[standard form in IPNI: *R.H.Schomb.*\]
 
 #### Herbarium and types
 

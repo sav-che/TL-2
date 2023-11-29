@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33265397) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33265397) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/13883-1), [Wikidata](https://www.wikidata.org/wiki/Q20013520). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Blanche, \[Charles\] Isidore (1823-1887), French plant collector in Tanger 1850-1851, subsequently consul at Tripoli and Beirut, also collecting plants in Syria. 
-**Abbreviated name**: *C.I. Blanche*
+**Abbreviated name**: *C.I. Blanche* \[standard form in IPNI: *C.I.Blanche*\]
 
 #### Herbarium and types
 

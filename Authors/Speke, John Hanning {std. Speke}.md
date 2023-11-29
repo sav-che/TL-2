@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 785](https://www.biodiversitylibrary.org/page/33333924) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 785](https://www.biodiversitylibrary.org/page/33333924) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9956-1), [Wikidata](https://www.wikidata.org/wiki/Q125084). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Speke, John Hanning (1827-1864), British soldier and explorer; entered the Royal Army 1844; in East Africa 1854; in the Crimean War 1855; again in East Africa 1857-1859 with R.F. Burton and 1860-1863 with J.A. Grant. 
-**Abbreviated name**: *Speke*
+**Abbreviated name**: *Speke* \[standard form in IPNI: *Speke*\]
 
 #### Herbarium and types
 

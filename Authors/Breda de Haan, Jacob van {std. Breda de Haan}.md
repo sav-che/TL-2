@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33266353) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33266353) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16494-1), [Wikidata](https://www.wikidata.org/wiki/Q21388378). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Breda de Haan, Jacob van (1866-1917), Dutch agriculturist, studied at the University of Leiden, Dr. phil. ib. 1891, employed by the Sugar Experiment Station at Kagok-Tegal, Semarang 1892, later agricultural inspector in Java, stationed at Buitenzorg (Bogor). 
-**Abbreviated name**: *Breda de Haan*
+**Abbreviated name**: *Breda de Haan* \[standard form in IPNI: *Breda de Haan*\]
 
 #### Herbarium and types
 

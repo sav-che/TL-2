@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33068724) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33068724) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4606-1), [Wikidata](https://www.wikidata.org/wiki/Q18986013). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kabath, Hermann (1816-1888), German clergyman and botanist; "fürstbischöflicher Registratur-Assistent in Breslau", "auch ich danke dem kenntnissreichen, wenn auch wunderlichen Manne, werthvolles Material" (Ascherson, AG). 
-**Abbreviated name**: *Kabath*
+**Abbreviated name**: *Kabath* \[standard form in IPNI: *Kabath*\]
 
 #### Herbarium and types
 

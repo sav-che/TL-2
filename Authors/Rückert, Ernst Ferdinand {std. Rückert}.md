@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 976](https://www.biodiversitylibrary.org/page/33190447) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 976](https://www.biodiversitylibrary.org/page/33190447) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8719-1), [Wikidata](https://www.wikidata.org/wiki/Q21607513). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rückert, Ernst Ferdinand (1794-1843), German (Saxonian) botanist and practicing physician at Königsbrück. 
-**Abbreviated name**: *Rückert*
+**Abbreviated name**: *Rückert* \[standard form in IPNI: *Rückert*\]
 
 #### Herbarium and types
 

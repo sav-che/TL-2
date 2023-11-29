@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33212531) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33212531) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10822-1), [Wikidata](https://www.wikidata.org/wiki/Q2462643). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trimen, Henry (1843-1896), British botanist; M.B. Univ. London 1865, medical officer 1866-1869; assistant Botany Department British Museum 1869-1879; lecturer in botany at St. Mary's Hospital, London 1867-1872; director of the botanical gardens at Peradeniya, Ceylon 1879-1896. 
-**Abbreviated name**: *Trimen*
+**Abbreviated name**: *Trimen* \[standard form in IPNI: *Trimen*\]
 
 #### Herbarium and types
 

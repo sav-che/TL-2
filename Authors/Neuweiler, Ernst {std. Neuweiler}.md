@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 733](https://www.biodiversitylibrary.org/page/33355820) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 733](https://www.biodiversitylibrary.org/page/33355820) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24029-1), [Wikidata](https://www.wikidata.org/wiki/Q21522095). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Neuweiler, Ernst (1875-?), Swiss botanist and palaeontologist; Dr. phil. Zürich 1901 
-**Abbreviated name**: *Neuweiler*
+**Abbreviated name**: *Neuweiler* \[standard form in IPNI: *Neuweiler*\]
 
 #### Herbarium and types
 

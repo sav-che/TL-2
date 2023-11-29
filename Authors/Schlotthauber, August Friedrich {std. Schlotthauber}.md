@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33333368) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33333368) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9133-1), [Wikidata](https://www.wikidata.org/wiki/Q5694248). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlotthauber, August Friedrich (x-1872), German botanist, zoologist and high school teacher in Hamburg, later in Göttingen; Dr. phil. h.c. Jena 1860. 
-**Abbreviated name**: *Schlotthauber*
+**Abbreviated name**: *Schlotthauber* \[standard form in IPNI: *Schlotth.*\]
 
 #### Herbarium and types
 

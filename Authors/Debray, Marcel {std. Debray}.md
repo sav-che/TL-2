@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33259178) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33259178) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2060-1), [Wikidata](https://www.wikidata.org/wiki/Q28035033). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Debray, Marcel (fl. 1923-1971), French botanist, working in Le Havre mostly on the flora of the French coast. 
-**Abbreviated name**: *Debray*
+**Abbreviated name**: *Debray* \[standard form in IPNI: *Debray*\]
 
 #### Herbarium and types
 

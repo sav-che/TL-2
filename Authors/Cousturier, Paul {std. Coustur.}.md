@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266102) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266102) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1844-1), [Wikidata](https://www.wikidata.org/wiki/Q7149988). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cousturier, Paul (1849-1921), French botanist, born 14 Apr 1849 at Montereau, Seine-et-Marne, died 27 Jul 1921, Saint-Raphaël, Aix-en-Provence, in the French colonial administration 1885 as "Chef Sécrétariat du Gouvernement des Établissements, Golfe de Guinée", 1886 "Chef de l'Ouest-Africain", 1887-1904 in the direction of the interior of Gabon-Congo and Conakry, "Gouverneur Rivières du Sud Guinée française"; returned to France Nov 1905, lived at Saint Raphaël. 
-**Abbreviated name**: *Coustur.*
+**Abbreviated name**: *Coustur.* \[standard form in IPNI: *Coustur.*\]
 
 #### Herbarium and types
 

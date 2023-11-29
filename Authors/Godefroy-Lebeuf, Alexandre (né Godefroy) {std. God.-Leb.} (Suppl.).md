@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33258728) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33258728) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3213-1), [Wikidata](https://www.wikidata.org/wiki/Q2833709). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Godefroy-Leboeuf, Alexandre {std. God.-Leb.}|first entry]] for this author
 
 ### Author
 
 \* Godefroy-Lebeuf, Alexandre (né Godefroy) (1852-1903), French horticulturist and importer of exotic plants, gardener, Service de la Culture, Museum natl. d'Histoire Naturelle, Paris 1869, then worked for L. Linden in Belgium and studied at Kew 1871-1872, head gardener, botanical garden, Saigon, French Indochina 1874, married Mlle. Lebeuf (daughter of the horticulturist V.F. Lebeuf) 1876, his horticultural firm the Maison A. Godefroy-Lebeuf of Montmartre (Paris) became the principal importer to France of plants and exotic orchids from its colonies, traveled in Cambodia and Laos 1876-1878 with Frère François-Jules Harmand (1845-1921), died 2 Aug 1903 in Paris. 
-**Abbreviated name**: *God.-Leb.*
+**Abbreviated name**: *God.-Leb.* \[standard form in IPNI: *God.-Leb.*\]
 
 #### Note
 

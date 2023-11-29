@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33265363) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33265363) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/793-1), [Wikidata](https://www.wikidata.org/wiki/Q7149945). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Billot, Paul Constantin {std. Billot}|first entry]] for this author
 
 ### Author
 
 \* Billot, Paul Constantin (1796-1863), Alsatian botanist educated at the Collège de Pont-à-Mousson 1807-1813, at the imperial Lyceum in Strassbourg 1813, sometime in the trade, e.g. that of the hop-culture, inspector of the bridges and roads at Hagenau 1813-1834, turned to science, Bachelier-ès-lettres and Bachelier-ès-sciences 1834, from then on teacher, later professor of natural sciences at Hagenau 1834-1861. 
-**Abbreviated name**: *Billot*
+**Abbreviated name**: *Billot* \[standard form in IPNI: *Billot*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33068448) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33068448) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3950-1), [Wikidata](https://www.wikidata.org/wiki/Q3568702). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hillhouse, William (1850-1910), British botanist; curator at Cambridge 1878-1882; professor of botany at Birmingham 1882-1909. 
-**Abbreviated name**: *Hillh.*
+**Abbreviated name**: *Hillh.* \[standard form in IPNI: *Hillh.*\]
 
 #### Herbarium and types
 

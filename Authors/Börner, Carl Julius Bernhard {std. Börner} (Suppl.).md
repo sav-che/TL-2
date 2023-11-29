@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33265467) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33265467) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/12350-1), [Wikidata](https://www.wikidata.org/wiki/Q69552). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boerner (Börner), Carl (Karl) Julius Bernard {std. Börner}|first entry]] for this author
 
 ### Author
 
 \* Börner, Carl Julius Bernhard (1880-1953), German (Bremen born) zoologist and botanist, from 1901 on employed by the \[Kaiserlichen\] Biologischen Anstalt für Land- und Forstwirtschaft at Dahlem-Berlin, stationed at institute of the branch office at St. Julien near Metz, Lotharingen up to 1914, later idem at Naumburg, mainly working on viniculture and phytopathology, published on Arthropoda s.l. as well as on botany. 
-**Abbreviated name**: *Börner*
+**Abbreviated name**: *Börner* \[standard form in IPNI: *Börner*\]
 
 #### Herbarium and types
 

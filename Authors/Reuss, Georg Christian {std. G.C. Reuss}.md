@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33190212) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33190212) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8310-1), [Wikidata](https://www.wikidata.org/wiki/Q36567798). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reuss, Georg Christian (*fl*. 1869), German botanist at Ulm. 
-**Abbreviated name**: *G.C. Reuss*
+**Abbreviated name**: *G.C. Reuss* \[standard form in IPNI: *G.C.Reuss*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33120725) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33120725) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1975-1), [Wikidata](https://www.wikidata.org/wiki/Q91064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dammer, Carl (Karl) Lebrecht Udo {std. Dammer} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dammer, Carl Lebrecht Udo (1860-1920), German botanist at the Berlin Botanical Museum 1889-1919. 
-**Abbreviated name**: *Dammer*
+**Abbreviated name**: *Dammer* \[standard form in IPNI: *Dammer*\]
 
 #### Herbarium and types
 

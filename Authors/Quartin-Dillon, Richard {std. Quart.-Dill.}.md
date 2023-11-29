@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33189923) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33189923) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8045-1), [Wikidata](https://www.wikidata.org/wiki/Q10361286). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Quartin-Dillon, Richard (x-1841), French botanist, explorer of Abyssinia (1839-1840). 
-**Abbreviated name**: *Quart.-Dill.*
+**Abbreviated name**: *Quart.-Dill.* \[standard form in IPNI: *Quart.-Dill.*\]
 
 #### Herbarium and types
 

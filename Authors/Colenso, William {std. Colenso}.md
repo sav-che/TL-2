@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-10-12 06:52:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33120653) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33120653) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1736-1), [Wikidata](https://www.wikidata.org/wiki/Q2624463). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Colenso, William {std. Colenso} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Colenso, William (1811-1899), British born New Zealand printer, missionary, ethnologist and botanist. 
-**Abbreviated name**: *Colenso*
+**Abbreviated name**: *Colenso* \[standard form in IPNI: *Colenso*\]
 
 #### Herbarium and types
 

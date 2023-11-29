@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33355098) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33355098) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5618-1), [Wikidata](https://www.wikidata.org/wiki/Q5958274). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lindinger, Karl Hermann Leonhard (1879-x), German botanist at Hamburg. 
-**Abbreviated name**: *Linding.*
+**Abbreviated name**: *Linding.* \[standard form in IPNI: *Linding.*\]
 
 #### Herbarium and types
 

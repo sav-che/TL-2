@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33266449) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33266449) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1196-1), [Wikidata](https://www.wikidata.org/wiki/Q7360478). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brown, Roland Wilbur {std. R.W. Br.}|first entry]] for this author
 
 ### Author
 
 \* Brown, Roland Wilbur (1893-1961), American palaeobotanist, born at Weatherby, Pa., attended Lafayette College, Easton, Pa., studied palaeobotany with E.W. Berry at Johns Hopkins University, Ph.D. ib. 1926, briefly assistant with the Geological Survey, from 1928 palaeobotanist of the U.S. Geological Survey and honorary curator of palaeobotany with the National Museum, Washington, D.C. 
-**Abbreviated name**: *R.W. Br.*
+**Abbreviated name**: *R.W. Br.* \[standard form in IPNI: *R.W.Br.*\]
 
 #### Herbarium and types
 

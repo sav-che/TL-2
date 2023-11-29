@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 943](https://www.biodiversitylibrary.org/page/33190414) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 943](https://www.biodiversitylibrary.org/page/33190414) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8667-1), [Wikidata](https://www.wikidata.org/wiki/Q21607477). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roussel, Alexandre Victor (1795-1874), French military pharmacist and botanist from Melun, Seine-et-Marne; stationed in various garrisons in France (e.g. Toulon, Metz) 1820-1835; stationed in Algeria as principal pharmacist for the military hospitals 1835-1838; ultimately principal pharmacist at the Paris Hôpital du Val-de-Grace. 
-**Abbreviated name**: *A. Roussel*
+**Abbreviated name**: *A. Roussel* \[standard form in IPNI: *A.Roussel*\]
 
 #### Herbarium and types
 

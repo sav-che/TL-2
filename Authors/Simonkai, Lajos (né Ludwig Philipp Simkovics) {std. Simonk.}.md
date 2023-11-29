@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33333749) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33333749) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9674-1), [Wikidata](https://www.wikidata.org/wiki/Q649954). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Simonkai, Lajos (né Ludwig Philipp Simkovics) (1851-1910), Hungarian botanist; state teachers examination 1874; Dr. phil. Univ. Budapest 1874; professor of natural history of the Grosswardein (Nagyvárad) high school 1875-1880; id. at Pancsova 1880, id. Arad 1881-1891 ; working in Wien with Kerner and Wiesner 1883-1884; at the gymnasium Budapest (7. Distr.) 1891-1908; habil. Budapest 1892. 
-**Abbreviated name**: *Simonk.*
+**Abbreviated name**: *Simonk.* \[standard form in IPNI: *Simonk.*\]
 
 #### Herbarium and types
 

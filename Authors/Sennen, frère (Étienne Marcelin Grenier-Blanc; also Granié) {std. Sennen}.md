@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2014-04-04 11:56:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33333648) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33333648) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9488-1), [Wikidata](https://www.wikidata.org/wiki/Q4147990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sennen, *frère* \[Étienne Marcelin Grenier-Blanc; also: Granié\] (1861-1937), French botanist and clergyman to the "Frères des écoles chrétiennes"; director of schools at Prades 1896-1898 and La Nouvelle 1898-1904; from 1904 director of his congregation's school at Figueiras (Catalonia); ultimately at Marseilles; student of the flora of the Iberian Peninsula and Morocco. 
-**Abbreviated name**: *Sennen*
+**Abbreviated name**: *Sennen* \[standard form in IPNI: *Sennen*\]
 
 #### Herbarium and types
 

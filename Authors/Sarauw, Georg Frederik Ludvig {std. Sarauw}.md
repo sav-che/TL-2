@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33333151) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33333151) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8914-1), [Wikidata](https://www.wikidata.org/wiki/Q706613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sarauw, Georg Frederik Ludvig (1862-1928), Danish botanist and forester; studied botany and forestry at Copenhagen, München, Berlin, Paris 1881-1892; assistant at the agronomical station at Rostock 1890-1894; assistant at the Copenhagen National Museum 1894-1911; from 1912 in charge of the archeological department of Göteborgs Museum 
-**Abbreviated name**: *Sarauw*
+**Abbreviated name**: *Sarauw* \[standard form in IPNI: *Sarauw*\]
 
 #### Herbarium and types
 

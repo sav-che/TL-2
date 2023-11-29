@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33212288) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33212288) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10556-1), [Wikidata](https://www.wikidata.org/wiki/Q21610562). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Theorin, Gustav Robert Alfons (1841-1881), Swedish physician and botanist; Dr. phil. Lund 1865; Dr. med. ib. 1875; ultimately regional physician at Sveg, Härjedalen. 
-**Abbreviated name**: *G. Theorin*
+**Abbreviated name**: *G. Theorin* \[standard form in IPNI: *G.Theorin*\]
 
 #### Herbarium and types
 

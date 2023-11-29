@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33068967) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33068967) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21975-1), [Wikidata](https://www.wikidata.org/wiki/Q21339682). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lahm, Johann Gottlieb Franz-Xaver (1811-1888), German priest (ordin. 1834, Bonn), lichenologist, and school superintendent (1853-1866 "wirklicher Regierungsschulrat" 1866-1888: "Domkapitular," member of dom chapter) at Münster, Westfalen. 
-**Abbreviated name**: *J. Lahm*
+**Abbreviated name**: *J. Lahm* \[standard form in IPNI: *J.Lahm*\]
 
 #### Herbarium and types
 

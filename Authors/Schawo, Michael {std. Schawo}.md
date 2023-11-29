@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33333260) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33333260) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9024-1), [Wikidata](https://www.wikidata.org/wiki/Q21607873). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schawo, Michael (1850-1909), German (Bavarian) algologist; telegraph operator at München ca. 1879-1891; later "Telegraphen-Verwalter" and "Postverwalter" at Lindau. 
-**Abbreviated name**: *Schawo*
+**Abbreviated name**: *Schawo* \[standard form in IPNI: *Schawo*\]
 
 #### Herbarium and types
 

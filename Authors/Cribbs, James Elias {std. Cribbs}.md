@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33266145) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33266145) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/33982-1), [Wikidata](https://www.wikidata.org/wiki/Q36588371). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cribbs, James Elias (1891-x), American botanist, born 25 Mar 1891, A.B. Grove City College 1914, M.S. Chicago 1916, fellow 1917-18, Ph.D. 1918, instructor in Charge of dept. biol. Grove City College 1914-1918, prof. botany College of Emporia 1919-1920, Drury College 1920-x. 
-**Abbreviated name**: *Cribbs*
+**Abbreviated name**: *Cribbs* \[standard form in IPNI: *Cribbs*\]
 
 #### Herbarium and types
 

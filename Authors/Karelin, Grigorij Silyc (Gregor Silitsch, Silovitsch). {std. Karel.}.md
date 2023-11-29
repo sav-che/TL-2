@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33068739) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33068739) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4648-1), [Wikidata](https://www.wikidata.org/wiki/Q2386863). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Karelin, Grigorij Silyc (Gregor Silitsch, Silovitsch). (1801-1872), Russian botanist, explorer of Siberia. 
-**Abbreviated name**: *Karel.*
+**Abbreviated name**: *Karel.* \[standard form in IPNI: *Kar.*\]
 
 #### Herbarium and types
 

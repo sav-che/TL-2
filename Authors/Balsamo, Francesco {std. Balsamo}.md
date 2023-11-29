@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33120244) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33120244) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/435-1), [Wikidata](https://www.wikidata.org/wiki/Q21505607). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Balsamo, Francesco {std. Balsamo} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Balsamo, Francesco (1850-?), Italian algologist. 
-**Abbreviated name**: *Balsamo*
+**Abbreviated name**: *Balsamo* \[standard form in IPNI: *Balsamo*\]
 
 #### Herbarium and types
 

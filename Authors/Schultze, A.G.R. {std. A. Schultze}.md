@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33333520) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33333520) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9299-1), [Wikidata](https://www.wikidata.org/wiki/Q36510262). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schultze, A.G.R. (*fl*. 1840), German pharmacist and botanist. 
-**Abbreviated name**: *A. Schultze*
+**Abbreviated name**: *A. Schultze* \[standard form in IPNI: *A.Schultze*\]
 
 #### Herbarium and types
 

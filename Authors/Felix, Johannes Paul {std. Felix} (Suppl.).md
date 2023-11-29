@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33259627) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33259627) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2673-1), [Wikidata](https://www.wikidata.org/wiki/Q1616906). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Felix, Johannes Paul {std. Felix}|first entry]] for this author
 
 ### Author
 
 \* Felix, Johannes Paul (1859-1941), German paleontologist and geologist, born 6 Sep 1859 in Leipzig, attended, after home-schooling, the Realschule and the Nicolai-Gymnasium until 1878, studied in Erlangen and Leipzig, Ph.D. 1882 Leipzig, traveled (a.o. places) to U.S.A. and Mexico, Prof. extraord., Inst. for Geology and Paleontology, Leipzig 1891, dir. of paleontological museum 1914, later suffered with eye problems, died 25 Jan 1941. 
-**Abbreviated name**: *Felix*
+**Abbreviated name**: *Felix* \[standard form in IPNI: *Felix*\]
 
 #### Collections
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33189728) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33189728) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7677-1), [Wikidata](https://www.wikidata.org/wiki/Q3133011). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Piddington, Henry (1797-1858), British meteorologist and botanist; commander in the mercantile marine; from circa 1800 curator of the Museum of economic geology and coroner at Calcutta. 
-**Abbreviated name**: *Piddington*
+**Abbreviated name**: *Piddington* \[standard form in IPNI: *Pidd.*\]
 
 #### Herbarium and types
 

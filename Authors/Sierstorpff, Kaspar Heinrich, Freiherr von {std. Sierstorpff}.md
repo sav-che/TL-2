@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33333734) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33333734) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9628-1), [Wikidata](https://www.wikidata.org/wiki/Q21608873). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sierstorpff, Kaspar Heinrich, Freiherr von (1750-1842), German (Hannover) forest botanist and master of the hunt in Braunschweig. 
-**Abbreviated name**: *Sierstorpff*
+**Abbreviated name**: *Sierstorpff* \[standard form in IPNI: *Sierst.*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33264897) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33264897) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/285-1), [Wikidata](https://www.wikidata.org/wiki/Q4069879). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arrhenius, Johan Peter (Pehr, Petter) {std. Arrh.}|first entry]] for this author
 
 ### Author
 
 \* Arrhenius, Johan Peter \[Pehr Petter\] (1811-1889), Swedish botanist and agriculturist, educated at Linköpings Gymnasium, at Uppsala University 1830, fil. kand. ib. 1839, fil. dr. (1) 1840, (2) 1842, lecturer in botany ib. 1840, "adjunkt" in agronomy 1846, director of Ultuna agricultural college 1848, titular professor 1850, secretary of the agricultural academy 1862-1881, travelled in Denmark, Germany 1845, 1846, 1848, briefly in France and England in 1854. 
-**Abbreviated name**: *Arrh.*
+**Abbreviated name**: *Arrh.* \[standard form in IPNI: *Arrh.*\]
 
 #### Herbarium and types
 

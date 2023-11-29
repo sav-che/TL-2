@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33190137) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33190137) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8253-1), [Wikidata](https://www.wikidata.org/wiki/Q58053). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reichenbach, \[Heinrich Gottlieb\] Ludwig (1793-1879), German (Saxonian) botanist, botanical artist and ornithologist; Dr. phil. Leipzig 1815; Dr. med. ib. 1817; practicing physician ib. 1817-1820; director of the botanical garden at Dresden 1820-1879; director of the natural history cabinet 1820-1874 and professor of natural history at the Königl. chirurg.-med. Academie (college of medicine) 1820-1862; prolific author, popularizer and artist. 
-**Abbreviated name**: *Rchb.*
+**Abbreviated name**: *Rchb.* \[standard form in IPNI: *Rchb.*\]
 
 #### Herbarium and types
 

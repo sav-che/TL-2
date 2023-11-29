@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33265402) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33265402) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/20016087-1), [Wikidata](https://www.wikidata.org/wiki/Q550783). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Blaringhem, Louis Florimond I. (1878-?), French geneticist, associated with the Muséum d'Histoire naturelle, Paris; prix Bonaparte 1910. 
-**Abbreviated name**: *Blaringhem*
+**Abbreviated name**: *Blaringhem* \[standard form in IPNI: *Blaringhem*\]
 
 #### Herbarium and types
 

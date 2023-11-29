@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33355480) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33355480) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6290-1), [Wikidata](https://www.wikidata.org/wiki/Q21520303). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mead, Samuel Barnum (1798-1880), American botanist and physician; B. A. Yale 1820; from 1824-1835 practicing at Greenwich, Conn.; from 1833 at Augusta, 111. 
-**Abbreviated name**: *Mead*
+**Abbreviated name**: *Mead* \[standard form in IPNI: *Mead*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33259116) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33259116) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/13642-1), [Wikidata](https://www.wikidata.org/wiki/Q1148597). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Darlington, Cyril Dean (1903-x), British geneticist and cytologist, born at Chorley, England 19 Dec 1903, studied at the University of London, B.Sc.Agr. 1923, at the John Innes Horticultural Institution, Merton (London), from 1 October 1939 director. 
-**Abbreviated name**: *C.D. Darl.*
+**Abbreviated name**: *C.D. Darl.* \[standard form in IPNI: *C.D.Darl.*\]
 
 #### Herbarium and types
 

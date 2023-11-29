@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/page/33355731) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/page/33355731) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23703-1), [Wikidata](https://www.wikidata.org/wiki/Q66346). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Müller, Johann Karl \[Carl\] August \[Friedrich Wilhelm\] (1818-1899), German bryologist at Halle; practicing pharmacist in various parts of Germany until 1843; from then on at Halle, associated with D. F. L. von Schlechtendal, but essentially a self-made scientist. 
-**Abbreviated name**: *K. Müll. hal.*
+**Abbreviated name**: *K. Müll. hal.* \[standard form in IPNI: *Müll.Hal.*\]
 
 #### Herbarium and types
 

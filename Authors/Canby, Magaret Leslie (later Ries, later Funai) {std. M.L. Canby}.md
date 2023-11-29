@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33266662) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33266662) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/13563-1), [Wikidata](https://www.wikidata.org/wiki/Q20645555). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Canby, Magaret Leslie (later Ries, later Funai) (1904-x), American botanist at Southern California Academy of Sciences... 1927. 
-**Abbreviated name**: *M.L. Canby*
+**Abbreviated name**: *M.L. Canby* \[standard form in IPNI: *M.L.Canby*\]
 
 #### Herbarium and types
 

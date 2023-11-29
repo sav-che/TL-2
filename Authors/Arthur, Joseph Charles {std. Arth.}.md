@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33120201) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33120201) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/294-1), [Wikidata](https://www.wikidata.org/wiki/Q1706753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arthur, Joseph Charles {std. Arth.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Arthur, Joseph Charles (1850-1942), American mycologist, professor of botany at Purdue University. 
-**Abbreviated name**: *Arth.*
+**Abbreviated name**: *Arth.* \[standard form in IPNI: *Arthur*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-07-13 09:58:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 946](https://www.biodiversitylibrary.org/page/33190417) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 946](https://www.biodiversitylibrary.org/page/33190417) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8674-1), [Wikidata](https://www.wikidata.org/wiki/Q3103449). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rouy, Georges \[C.Ch.\] (1851-1924), French secretary of the press syndicate and amateur floristic botanist in Paris. 
-**Abbreviated name**: *Rouy*
+**Abbreviated name**: *Rouy* \[standard form in IPNI: *Rouy*\]
 
 #### Herbarium and types
 

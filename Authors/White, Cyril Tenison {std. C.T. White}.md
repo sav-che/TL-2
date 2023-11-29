@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33066587) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33066587) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11615-1), [Wikidata](https://www.wikidata.org/wiki/Q685291). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 White, Cyril Tenison (1890-1950), Australian botanist; maternal grandson of Frederick Manson Bailey; assistant to his grandfather 1905; Government Botanist Queensland 1917-1950. 
-**Abbreviated name**: *C. T. White*
+**Abbreviated name**: *C. T. White* \[standard form in IPNI: *C.T.White*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33190171) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33190171) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8269-1), [Wikidata](https://www.wikidata.org/wiki/Q21607093). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reiner, Joseph (1765-1797), Austrian clergyman and botanist at Klagenfurt, court chaplain and town priest. 
-**Abbreviated name**: *Reiner*
+**Abbreviated name**: *Reiner* \[standard form in IPNI: *Reiner*\]
 
 #### Herbarium and types
 

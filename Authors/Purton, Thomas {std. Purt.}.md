@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33189920) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33189920) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8036-1), [Wikidata](https://www.wikidata.org/wiki/Q18935104). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Purton, Thomas (1768-1833), British botanist and surgeon; practiced in London 1791-1795, later in Alcester. 
-**Abbreviated name**: *Purt.*
+**Abbreviated name**: *Purt.* \[standard form in IPNI: *Purton*\]
 
 #### Herbarium and types
 

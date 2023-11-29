@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33066729) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33066729) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11785-1), [Wikidata](https://www.wikidata.org/wiki/Q21612854). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wirth, Carl (1883-?), Swiss botanist; studied at the teacher's seminary.at Küsnacht 1899-1903; teacher at Zürich 1905; studied botany at the University of Zürich with Hans Schinz; Dr. phil. ib. 1914. 
-**Abbreviated name**: *Wirth*
+**Abbreviated name**: *Wirth* \[standard form in IPNI: *Wirth*\]
 
 #### Herbarium and types
 

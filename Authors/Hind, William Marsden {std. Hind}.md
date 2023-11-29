@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33068449) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33068449) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3959-1), [Wikidata](https://www.wikidata.org/wiki/Q21515836). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hind, William Marsden (1815-1894), British botanist and clergyman; ultimately rector of Honington, Suffolk. 
-**Abbreviated name**: *Hind*
+**Abbreviated name**: *Hind* \[standard form in IPNI: *Hind*\]
 
 #### Herbarium and types
 

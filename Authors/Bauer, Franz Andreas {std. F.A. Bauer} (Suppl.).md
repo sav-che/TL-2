@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33265111) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33265111) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/552-1), [Wikidata](https://www.wikidata.org/wiki/Q938823). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bauer, Franz Andreas {std. F.A. Bauer}|first entry]] for this author
 
 ### Author
 
 \* Bauer, Franz Andreas (1758-1840), Austrian botanical artist, born in Feldsberg (from 1919 Valtice, Czechoslovakia), first training in drawing and painting by his mother, worked with N.J. and J.F. von Jacquin, travelled with the latter in W. Europe, visiting Joseph Banks, 1788, stayed in England as botanical draughtsman for Banks working for Kew, as (unauthorized) "Botanical painter to His Majesty", de facto paid by Banks. 
-**Abbreviated name**: *F.A. Bauer*
+**Abbreviated name**: *F.A. Bauer* \[standard form in IPNI: *F.A.Bauer*\]
 
 #### Original drawings
 

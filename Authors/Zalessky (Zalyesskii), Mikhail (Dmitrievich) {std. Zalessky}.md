@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33066854) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33066854) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13039-1), [Wikidata](https://www.wikidata.org/wiki/Q15997448). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zalessky \[Zalyesskii\], Mikhail \[Dmitrievich\] (1877-1946), Russian palaeobotanist, born in Orel; studied at St. Petersburg University (grad. 1900); taught at the High School of Mining at Dniepropetrovsk, from 1918-1943 in Oral, employed by the Geological Committee of the U.S.S.R.; from 1943-1945 prisoner in Berlin; to Moscow 1945, to Leningrad 1946; Dr. geol. 1934. 
-**Abbreviated name**: *Zalessky*
+**Abbreviated name**: *Zalessky* \[standard form in IPNI: *Zalessky*\]
 
 #### Herbarium and types
 

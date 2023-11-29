@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33068906) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33068906) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5037-1), [Wikidata](https://www.wikidata.org/wiki/Q87828). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kraus, Gregor Konrad Michael (1841-1915), German physiological botanist; Dr. phil. Würzburg 1866; from 1866-1867 at Bonn as pupil of J. Sachs; 1867-1869 "Privatdozent" at Würzburg; 1868-1869 at Leipzig; 1869-1873 professor of botany at Erlangen; 1872-1898 idem at Halle succeeding de Bary; from 1898-1914 idem at Würzburg succeeding Julius Sachs. 
-**Abbreviated name**: *Kraus*
+**Abbreviated name**: *Kraus* \[standard form in IPNI: *Kraus*\]
 
 #### Herbarium and types
 

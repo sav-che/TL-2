@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33258727) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33258727) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3211-1), [Wikidata](https://www.wikidata.org/wiki/Q21394054). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Goddijn, Wouter Adriaan (1884-1960), Dutch botanist, born 9 Apr 1884, studied pharmacy and graduated from Leiden 1909, asst., then curator from 1914 of Rijksherbarium, Ph.D. 1926 Leiden, prof. in 1934, died 22 Feb 1960 in Warmond. 
-**Abbreviated name**: *Goddijn*
+**Abbreviated name**: *Goddijn* \[standard form in IPNI: *Goddijn*\]
 
 #### Herbarium and types
 

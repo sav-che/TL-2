@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33333735) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33333735) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9630-1), [Wikidata](https://www.wikidata.org/wiki/Q64026). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sievers, Johann Erasmus (x-1795), German (Hannover) pharmacist, botanist and explorer; traveller in Southern Siberia and Mongolia 1790-1795. 
-**Abbreviated name**: *Sievers*
+**Abbreviated name**: *Sievers* \[standard form in IPNI: *Siev.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33333253) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33333253) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9011-1), [Wikidata](https://www.wikidata.org/wiki/Q36510066). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schaffranek, A. (*fl*. 1883-1894), American botanist at Palatka, Florida 1883-1894; later at St. Charles, Missouri. 
-**Abbreviated name**: *Schaffranek*
+**Abbreviated name**: *Schaffranek* \[standard form in IPNI: *Schaffr.*\]
 
 #### Herbarium and types
 

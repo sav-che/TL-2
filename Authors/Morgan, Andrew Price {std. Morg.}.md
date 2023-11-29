@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33355666) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33355666) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23629-1), [Wikidata](https://www.wikidata.org/wiki/Q323098). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morgan, Andrew Price (1836-1907), American mycologist who introduced C. G. Lloyd to mycology; high school teacher at Dayton, Ohio. 
-**Abbreviated name**: *Morg.*
+**Abbreviated name**: *Morg.* \[standard form in IPNI: *Morgan*\]
 
 #### Herbarium and types
 

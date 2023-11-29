@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33068452) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33068452) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/20335-1), [Wikidata](https://www.wikidata.org/wiki/Q21391508). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hiratsuka, Naohide (1903-x), Japanese botanist, studied at Hokkaido University, professor botany and phytopathology at Tottori Agricultural College (1929), later at the Faculty of agriculture, Tokyo University of Education. 
-**Abbreviated name**: *Hiratsuka*
+**Abbreviated name**: *Hiratsuka* \[standard form in IPNI: *Hirats.f.*\]
 
 #### Herbarium and types
 

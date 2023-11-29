@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/page/33190439) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/page/33190439) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8702-1), [Wikidata](https://www.wikidata.org/wiki/Q21607514). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rudbeck, Johan Olof (1711-1790), Swedish naturai scientist; "assessor" at the Swedish mining college 1753; ultimately president (1778) of this college; son of Olaus Rudbeck. 
-**Abbreviated name**: *J.O. Rudbeck*
+**Abbreviated name**: *J.O. Rudbeck* \[standard form in IPNI: *J.O.Rudbeck*\]
 
 #### Herbarium and types
 

@@ -25,16 +25,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265509) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265509) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/957-1), [Wikidata](https://www.wikidata.org/wiki/Q21506294). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bonner, Charles Edmond Bradlaugh {std. Bonner}|first entry]] for this author
 
 ### Author
 
 \* Bonner, Charles Edmond Bradlaugh (1915-1976), British botanist (hepatologist), grew up in London, first at the Bromley and Woolwich Polytechnic schools, finishing in 1934 at the City of London School, studied at the University of Lausanne, Dr. phil. Lausanne 1939 and, at London University, Master of Science 1941, enlisted in the army 1941 trained to be a radar specialist, ultimately acting colonel at the Bristol garrisson 1944, later at the Military College of Science at Shrivenham, discharged from the army 1946, lecturer at the then Leicester Polytechnic, assistant cryptogamist at the Conservatoire botanique de Genève 1947, officially appointed only 1949, curator from 1953. 
-**Abbreviated name**: *Bonner*
+**Abbreviated name**: *Bonner* \[standard form in IPNI: *Bonner*\]
 
 #### Herbarium and types
 

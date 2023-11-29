@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33355663) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33355663) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23618-1), [Wikidata](https://www.wikidata.org/wiki/Q21392512). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moreau, Fernand (1886-1980), French mycologist and lichenologist; Dr. Sci. Paris 1913; at Clermond Ferrand (Faculty of Sciences) and director of the biological station at Besse, Puy-de-Dôme; from 1936 director of the Jardin botanique de la ville de Caen. 
-**Abbreviated name**: *Moreau*
+**Abbreviated name**: *Moreau* \[standard form in IPNI: *Moreau*\]
 
 #### Herbarium and types
 

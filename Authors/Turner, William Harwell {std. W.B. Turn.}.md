@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33212590) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33212590) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10921-1), [Wikidata](https://www.wikidata.org/wiki/Q21611070). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Turner, William Harwell (1845-1917), British brewer and amateur phycologist (desmidiologist), in breweries at Plymouth, Watlington, Bruton, Staffordshire, Woodlesford; in Leeds as manager of the Brunswick Brewery 1877-1884; independent consulting brewer and analytical chemist from 1891. 
-**Abbreviated name**: *W.B. Turn.*
+**Abbreviated name**: *W.B. Turn.* \[standard form in IPNI: *W.B.Turner*\]
 
 #### Herbarium and types
 

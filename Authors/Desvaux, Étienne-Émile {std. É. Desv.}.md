@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33259281) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33259281) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2160-1), [Wikidata](https://www.wikidata.org/wiki/Q3951949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Desvaux, Étienne-Émile (1830-1854), French botanist, born 8 Feb 1830 at Vendôme (Loir-et-Cher), went to school at Mondoubleau, went to a "college" 1843, baccalauréat ès lettres 1846, id. sciences 1847, licencié in natural sciences 1850, died at Mondoubleau 13 Mai 1854. 
-**Abbreviated name**: *É. Desv.*
+**Abbreviated name**: *É. Desv.* \[standard form in IPNI: *É.Desv.*\]
 
 #### Herbarium and types
 

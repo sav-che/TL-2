@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33066541) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33066541) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11577-1), [Wikidata](https://www.wikidata.org/wiki/Q15983743). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 West, George Stephen (1876-1919), British phycologist; B.A. Cambridge 1898, D.Sc. Birmingham 1908; professor of Natural Science, R. Agricultural College, Cirencester 1899-1906; lecturer in botany, Birmingham Univ. 1906-1909; Mason professor of botany ib. 1909-1919. 
-**Abbreviated name**: *G.S. West*
+**Abbreviated name**: *G.S. West* \[standard form in IPNI: *G.S.West*\]
 
 #### Herbarium and types
 

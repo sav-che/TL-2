@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-12-02 10:29:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/page/33355715) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/page/33355715) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23712-1), [Wikidata](https://www.wikidata.org/wiki/Q2504914). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mueller \[called\] Argoviensis \[of Aargau\], Johannes \[Jean\] (1828-1896), Swiss botanist; studied at Zürich (Dr. phil., 1857); curator of the Candolle herbarium 1851-1869, of the Delessert herbarium (at Genève) 1869-1896; director of the Genève botanic garden 1870-1874; professor of botany 1871-1889. 
-**Abbreviated name**: *Müll. Arg.*
+**Abbreviated name**: *Müll. Arg.* \[standard form in IPNI: *Müll.Arg.*\]
 
 #### Herbarium and types
 

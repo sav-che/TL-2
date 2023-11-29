@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/page/33066834) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/page/33066834) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11956-1), [Wikidata](https://www.wikidata.org/wiki/Q21613325). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Youngken, Heber Wilkinson (1885-1963), American pharmacologist; studied pharmacy and natural sciences at Med. Chir. Coll. Philadelphia, Buchnell Univ. and Univ. of Pennsylvania 1903-1915; Dr. phil. Pennsylvania 1915; demonstrator of biology and pharmacy at Med. Chir. Coll. 1909; professor of botany and pharmacognosy at Philadelphia College of Pharmacy and Science 1911-1923; id. at Massachusetts College of Pharmacy, Boston, 1923-1951; research professor ib. 1951-1956; emeritus professor from 1956. 
-**Abbreviated name**: *Youngken*
+**Abbreviated name**: *Youngken* \[standard form in IPNI: *Youngken*\]
 
 #### Herbarium and types
 

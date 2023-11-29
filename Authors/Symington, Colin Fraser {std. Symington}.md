@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33212180) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33212180) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10356-1), [Wikidata](https://www.wikidata.org/wiki/Q21341260). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Symington, Colin Fraser (1905-1943), British forest botanist; in the Malayan Forestry Service 1927-1942, assistant to F.W. Foxworthy, Forest Research Institute 1929-1933, as Forest botanist 1933-1942; Forest botanist S. Nigeria 1942-1943. 
-**Abbreviated name**: *Symington*
+**Abbreviated name**: *Symington* \[standard form in IPNI: *Symington*\]
 
 #### Herbarium and types
 

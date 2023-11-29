@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33068843) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33068843) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/35179-1), [Wikidata](https://www.wikidata.org/wiki/Q47120347). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koenig, Karl (*fl*. 1841), German clergyman and botanist at Dürkheim an der Haardt. 
-**Abbreviated name**: *K. Koenig*
+**Abbreviated name**: *K. Koenig* \[standard form in IPNI: *K.Koenig*\]
 
 #### Herbarium and types
 

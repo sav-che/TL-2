@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/page/33120965) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/page/33120965) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2742-1), [Wikidata](https://www.wikidata.org/wiki/Q5759745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fischer, Cecil Ernest Claude {std. C.E.C. Fischer} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fischer, Cecil Ernest Claude (1874-1950), India born forester, India Forest Service 1895-1926, assistant for India at Kew 1924-1937. 
-**Abbreviated name**: *C. Fisch.*
+**Abbreviated name**: *C. Fisch.* \[standard form in IPNI: *C.E.C.Fisch.*\]
 
 #### Herbarium and types
 

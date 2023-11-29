@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33120216) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33120216) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/364-1), [Wikidata](https://www.wikidata.org/wiki/Q21505477). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bachlechner, Gregor {std. Bachlechner} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bachlechner, Gregor (1808-1873), Austrian botanist and highschool teacher at Brixen. 
-**Abbreviated name**: *Bachlechner*
+**Abbreviated name**: *Bachlechner* \[standard form in IPNI: *Bachl.*\]
 
 #### Herbarium and types
 

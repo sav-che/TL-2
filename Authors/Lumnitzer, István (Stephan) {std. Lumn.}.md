@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33355279) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33355279) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5832-1), [Wikidata](https://www.wikidata.org/wiki/Q18986780). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lumnitzer, István (Stephan) (1747-1806), Hungarian botanist and physician at Pressburg (Bratislava, now Czechoslovakia). 
-**Abbreviated name**: *Lumn.*
+**Abbreviated name**: *Lumn.* \[standard form in IPNI: *Lumn.*\]
 
 #### Herbarium and types
 

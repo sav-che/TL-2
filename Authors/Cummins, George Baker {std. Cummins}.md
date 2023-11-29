@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-06-20 19:45:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33266179) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33266179) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17577-1), [Wikidata](https://www.wikidata.org/wiki/Q4211656). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cummins, George Baker (1904-x), American mycologist and plant-pathologist, worked on the Uredinales especially, born at Tecumseh, Nebraska, educated at Montana State College BS 1927, University of Michigan 1929, at Purdue University, Agricultural Experiment Station at Lafayette, Indiana. 
-**Abbreviated name**: *Cummins*
+**Abbreviated name**: *Cummins* \[standard form in IPNI: *Cummins*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33265433) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33265433) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/878-1), [Wikidata](https://www.wikidata.org/wiki/Q2037491). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Blytt, Mattias Numsen {std. Blytt}|first entry]] for this author
 
 ### Author
 
 \* Blytt, Matthias Numsen (1789-1862), Norvegian botanist, studied natural sciences and law at the University of Christiania \[Oslo\], travelled in W. Europe and studied with A.P. de Candolle, Genève 1829-1832, lecturer in botany at the University of Christiania, professor of botany ib. 1837-1862, director University Botanical Garden 1843-1862. 
-**Abbreviated name**: *Blytt*
+**Abbreviated name**: *Blytt* \[standard form in IPNI: *Blytt*\]
 
 #### Herbarium and types
 

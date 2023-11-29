@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33355205) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33355205) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22427-1), [Wikidata](https://www.wikidata.org/wiki/Q18917275). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lister, Arthur (1830-1908), English wine merchant and mycologist living in Bedfordshire, then at Bradford, since 1857 at Leytonstone nr. London; retired from business 1888 and often residing also at Lyme Regis; leading authority on myxomycetes.
-**Abbreviated name**: *List.*
+**Abbreviated name**: *List.* \[standard form in IPNI: *Lister*\]
 
 #### Herbarium and types
 

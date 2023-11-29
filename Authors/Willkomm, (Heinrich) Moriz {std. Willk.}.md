@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33066676) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33066676) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11723-1), [Wikidata](https://www.wikidata.org/wiki/Q64566). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Willkomm, \[Heinrich\] Moriz (1821-1895), German (Saxonian) botanist and explorer; studied medicine at the University of Leipzig; Bacc. med. 1844; travelled in Spain and Portugal 1844-1845; studied natural sciences at Leipzig; Dr. phil. 1850; again to Spain 1850-1851; habil. Leipzig 1852; professor and custos of the Leipzig University herbarium 1855; professor of natural history at Tharandt 1855-1868; professor of botany and director of the botanical garden of the University of Dorpat 1868-1873; to Spain and the Balearic Islands 1873-1874; professor of botany and director of the botanical garden of the University of Prague 1874-1892; in retirement continuing his botanical work in Prague. 
-**Abbreviated name**: *Willk.*
+**Abbreviated name**: *Willk.* \[standard form in IPNI: *Willk.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3640-1), [Wikidata](https://www.wikidata.org/wiki/Q2837952). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hao, Kin-Shen \[Ching-shêng Ho\] (1903-x), Chinese botanist. 
-**Abbreviated name**: *Hao*
+**Abbreviated name**: *Hao* \[standard form in IPNI: *K.S.Hao*\]
 
 #### Herbarium and types
 

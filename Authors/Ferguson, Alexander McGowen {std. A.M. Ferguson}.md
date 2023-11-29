@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33259643) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33259643) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2685-1), [Wikidata](https://www.wikidata.org/wiki/Q2833174). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ferguson, Alexander McGowen (1874-1955), American plant breeder, born 7 Jan 1874 in Belton, Texas, B.S. 1894 and M.S. 1895 Texas Agric. & Mech. College (now Texas A&M Univ.), College Station, Missouri Botanical Garden, St. Louis 1897-1898, asst. prof. horticulture and mycology, Texas Agric. & Mech. College 1899-1900, Cornell Univ., Ithaca, New York 1901-1902, botany instructor, Univ. of Texas at Austin 1900-1906, manager Texas Seed Breeding Farms 1906-1908, president, Ferguson Seed Farms, Inc., Sherman, Texas from 1908, special agent U.S.D.A. 1903-1906, 1908-1909, supply prof. in Oklahoma. 
-**Abbreviated name**: *A.M. Ferguson*
+**Abbreviated name**: *A.M. Ferguson* \[standard form in IPNI: *A.M.Ferguson*\]
 
 #### Herbarium and types
 

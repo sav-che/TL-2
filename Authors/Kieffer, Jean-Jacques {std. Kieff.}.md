@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33068779) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33068779) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4772-1), [Wikidata](https://www.wikidata.org/wiki/Q4695). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kieffer, Jean-Jacques (1857-1925), French clergyman, entomologist, cecidologist and botanist at the Collège de Bitche. 
-**Abbreviated name**: *Kieff.*
+**Abbreviated name**: *Kieff.* \[standard form in IPNI: *Kieff.*\]
 
 #### Herbarium and types
 

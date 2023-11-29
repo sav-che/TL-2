@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33260171) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33260171) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2399-1), [Wikidata](https://www.wikidata.org/wiki/Q33670376). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Durand, Philippe \[l'abbé\] (fl. 1795-1815), French priest and botanist, born at Revel, Dép. Haute-Garonne, died near Montpellier, doctor in medicine (1808), collected in Morocco 1798 and 1807, visited Tanger, Tétouan etc. 
-**Abbreviated name**: *P. Durand*
+**Abbreviated name**: *P. Durand* \[standard form in IPNI: *P.Durand*\]
 
 #### Herbarium and types
 

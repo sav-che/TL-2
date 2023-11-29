@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33212187) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33212187) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10376-1), [Wikidata](https://www.wikidata.org/wiki/Q21610141). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Szymanski, Franz (1853-?), Polish botanist; Dr. phil. Breslau 1878. 
-**Abbreviated name**: *Szymanski*
+**Abbreviated name**: *Szymanski* \[standard form in IPNI: *Szym.*\]
 
 #### Herbarium and types
 

@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-07-14 09:23:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33260151) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33260151) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18271-1), [Wikidata](https://www.wikidata.org/wiki/Q316571). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dumortier, Barthélemy Charles Joseph (Count) {std. Dumort.}|first entry]] for this author
 
 ### Author
 
 \* Dumortier, Barthélemy Charles Joseph (also named du Mortier or Du Mortier) (1797-1878), Belgian botanist and politician, born 3 Apr 1797 at Tournai, followed schools at Tournai and later at Paris, returned to Tournai 1813, collected extensively in Hainaut and Flandres between 1816 and 1820, visited the Eifel with Michel in 1822 and the valley of the Maas and surroundings in 1823, in 1824 they botanized in Zeeland and Brabant, and in 1825 in Utrecht, Gelderland and Overijssel, published on the Belgian flora and fauna but also on politics, one of the founders of the "Jardin botanique de l'État", died 9 Jul 1878 at Tournai. 
-**Abbreviated name**: *Dumort.*
+**Abbreviated name**: *Dumort.* \[standard form in IPNI: *Dumort.*\]
 
 #### Herbarium and types
 

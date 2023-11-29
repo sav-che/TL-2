@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33189813) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33189813) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7859-1), [Wikidata](https://www.wikidata.org/wiki/Q4994357). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Porsild, Alf Erling (1901-1977), Danish botanist, naturalized Canadian from 1939; son of M.P. Porsild; assistant botanist at the Danish biological station, Greenland 1922-1925; botanist in charge of surveys, Canadian Dept. of the Interior 1926-1935; at National Herbarium of Canada, Ottawa from 1936-1966; Dr. phil. Kjøbenhavn 1955 id. h.c. Acadia 1967, Waterloo 1973. 
-**Abbreviated name**: *Porsild*
+**Abbreviated name**: *Porsild* \[standard form in IPNI: *A.E.Porsild*\]
 
 #### Herbarium and types
 

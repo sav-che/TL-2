@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33333596) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33333596) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9387-1), [Wikidata](https://www.wikidata.org/wiki/Q5706991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scott, Arthur Moreland (1888-1963), English civil engineer and amateur phycologist; settled in the United States; ultimately in New Orleans; published on Desmidiaceae from 1942 onward. 
-**Abbreviated name**: *A.M. Scott*
+**Abbreviated name**: *A.M. Scott* \[standard form in IPNI: *A.M.Scott*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33265324) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33265324) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/724-1), [Wikidata](https://www.wikidata.org/wiki/Q2721602). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bertoni, Moisés Santiago (1857-1929), Swiss botanist and publisher, studied at the University of Genève 1875-1876, id. at the University of Zürich 1876-1877, in the Swiss army 1877-1878, continued his studies at Genève 1878-1881, publisher of the Rivista Scientifica Svizzera 1882-1884, emigrated to Argentina 1884, had a "colonia" at Santa Ana 1884-1887, moved to Paraguay 1887, Yaguarazapá on the Rio Paraná as colonizer 1887-1894, idem at the "Colonia Guillermo Tell" (Puerto Bertoni) 1894-1896, founder and director of the Escuela nacional de Agricultura at Ascunción 1896-1906, retired to Puerto Bertoni 1907. 
-**Abbreviated name**: *Bertoni*
+**Abbreviated name**: *Bertoni* \[standard form in IPNI: *Bertoni*\]
 
 #### Herbarium and types
 

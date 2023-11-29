@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33264813) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33264813) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/167-1), [Wikidata](https://www.wikidata.org/wiki/Q18624074). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Alpers, Ferdinand (1841-1912), German (Preussen/Hannover) botanist and highschool teacher in Achim, rector in Zeven, docent at teachers colleges in Stade and Hannover, teaching music and natural sciences, born in Spieka, d. in Hannover, biographer of Fr. Ehrhart, correspondent of Ascherson, Graebner, Focke, Buchenau and Nöldeke. 
-**Abbreviated name**: *Alpers*
+**Abbreviated name**: *Alpers* \[standard form in IPNI: *Alpers*\]
 
 #### Herbarium and types
 

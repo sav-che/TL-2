@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33120426) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33120426) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1034-1), [Wikidata](https://www.wikidata.org/wiki/Q5771876). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boutelou, Claudio (1774-1842), Spanish botanist at Alicante and Sevilla. 
-**Abbreviated name**: *Boutelou*
+**Abbreviated name**: *Boutelou* \[standard form in IPNI: *C.Boutelou*\]
 
 #### Herbarium and types
 

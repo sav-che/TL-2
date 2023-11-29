@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33355917) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33355917) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7134-1), [Wikidata](https://www.wikidata.org/wiki/Q726124). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Olivier, Guillaume Antoine (1756-1814), French zoologist and botanist; practiced medicine until 1792; travelled in the Orient 1792-1798; afterwards working mainly on entomology. 
-**Abbreviated name**: *G. Olivier*
+**Abbreviated name**: *G. Olivier* \[standard form in IPNI: *Olivier*\]
 
 #### Herbarium and types
 

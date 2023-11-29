@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33333422) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33333422) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12838-1), [Wikidata](https://www.wikidata.org/wiki/Q21608232). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schnizlein, \[Karl Friedrich Christoph\] Wilhelm (1780-1856), German (Bavarian) botanist and magistrate; lived some time (ca. 1806) in Austria, later "Landgerichtsarzt" (law court physician) at Monheim and Erlangen; associate of E.G. von Steudel through the Esslinger Reiseverein; father of Adalbert Schnizlein. 
-**Abbreviated name**: *W. Schnizl.*
+**Abbreviated name**: *W. Schnizl.* \[standard form in IPNI: *W.Schnizl.*\]
 
 #### Herbarium and types
 

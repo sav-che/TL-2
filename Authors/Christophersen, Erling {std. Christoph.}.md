@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33265842) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33265842) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1636-1), [Wikidata](https://www.wikidata.org/wiki/Q2037059). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Christophersen, Erling (1898-x), Norwegian botanist, studied at Yale University with Ph.D. in 1924, Fellow with the Bishop Museum, Honolulu 1924-1925, at the University of Oslo on the staff of the Botanic Garden 1925-1929, botanist at the Bishop Museum and professor of botany at Honolulu 1929-1933, from 1933 curator at the Botanical Museum, Oslo, on an expedition to Tristan da Cunha 1937-1938, from 1947 cultural attaché to the Royal Norwegian Embassy at Washington D.C. 
-**Abbreviated name**: *Christoph.*
+**Abbreviated name**: *Christoph.* \[standard form in IPNI: *Christoph.*\]
 
 #### Herbarium and types
 

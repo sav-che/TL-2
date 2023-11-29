@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/page/33190439) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/page/33190439) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8703-1), [Wikidata](https://www.wikidata.org/wiki/Q350198). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rudbeck, Olaus \[Olof\] Johannis \[Sr.\] (1630-1702), Swedish physician, polyhistorian and botanist, "adjunkt" (1655) and assistant professor of anatomy and botany at the University of Uppsala 1658, full professor of medicine ib. 1660-1691; founder and director of the Uppsala University botanical garden (now Hortus linnaeanus) 1655-1691. 
-**Abbreviated name**: *O.J. Rudbeck*
+**Abbreviated name**: *O.J. Rudbeck* \[standard form in IPNI: *O.J.Rudbeck*\]
 **Alternate abbreviation:** (*Rudbeck Sr.*)
 
 #### Herbarium and types

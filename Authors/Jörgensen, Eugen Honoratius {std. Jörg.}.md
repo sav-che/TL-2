@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-12-15 09:23:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33068687) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33068687) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4495-1), [Wikidata](https://www.wikidata.org/wiki/Q11968073). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jörgensen, Eugen Honoratius (1862-1938), Norwegian high school teacher and botanist at Bergen; associated with Bergens Museum from 1894. 
-**Abbreviated name**: *Jörg.*
+**Abbreviated name**: *Jörg.* \[standard form in IPNI: *Jørg.*\]
 
 #### Herbarium and types
 

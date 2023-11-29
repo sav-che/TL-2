@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33355638) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33355638) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23539-1), [Wikidata](https://www.wikidata.org/wiki/Q18986922). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Molkenboer, Julianus Hendrik (1816-1854), Dutch botanist; Dr. med. Leiden 1840; practicing physician at Leiden 1840-1854. 
-**Abbreviated name**: *Molk.*
+**Abbreviated name**: *Molk.* \[standard form in IPNI: *Molk.*\]
 
 #### Herbarium and types
 

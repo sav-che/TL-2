@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33355435) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33355435) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23005-1), [Wikidata](https://www.wikidata.org/wiki/Q5481875). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mason, Francis (1799-1874), British missionary and botanist; in the United States 1818-1830; in Burma from 1830. 
-**Abbreviated name**: *F. Mason*
+**Abbreviated name**: *F. Mason* \[standard form in IPNI: *Mason*\]
 
 #### Herbarium and types
 

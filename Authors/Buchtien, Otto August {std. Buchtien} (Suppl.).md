@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33266505) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33266505) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1255-1), [Wikidata](https://www.wikidata.org/wiki/Q6054688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Buchtien, Otto {std. Buchtien}|first entry]] for this author
 
 ### Author
 
 \* Buchtien, Otto August (1859-1946), German botanist, explorer of the Andes, born in Rostock, studied at the University of Rostock, Dr. phil. ib. 1887, moved to South America, teacher in Chile (ca. 1906), later idem in Bolivia and director of the National Museum of La Paz, collected widely in Bolivia, Northern Patagonia, and Peru, returned to Germany 1936. 
-**Abbreviated name**: *Buchtien*
+**Abbreviated name**: *Buchtien* \[standard form in IPNI: *Buchtien*\]
 
 #### Herbarium and types
 

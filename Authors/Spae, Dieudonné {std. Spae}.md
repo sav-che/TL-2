@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/page/33333908) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/page/33333908) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9942-1), [Wikidata](https://www.wikidata.org/wiki/Q5806926). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spae, Dieudonné (1819-1858), Belgian horticulturist; assistant secretary of the Société royale d'agriculture et de botanique at Gent. 
-**Abbreviated name**: *Spae*
+**Abbreviated name**: *Spae* \[standard form in IPNI: *Spae*\]
 
 #### Herbarium and types
 

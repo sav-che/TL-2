@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/page/33212824) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/page/33212824) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12979-1), [Wikidata](https://www.wikidata.org/wiki/Q2848400). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[De Vos (Devos), André Pascal Alexander {std. A. De Vos} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Vos, André \[Pascal Alexandre\] de \[De Vos\] (1834-?), Belgian high school teacher and botanist at Aarschot, Namur and Liège; curator at the Musée scolaire de l'Etat, Bruxelles. 
-**Abbreviated name**: *De Vos*
+**Abbreviated name**: *De Vos* \[standard form in IPNI: *A.de Vos*\]
 
 #### Herbarium and types
 

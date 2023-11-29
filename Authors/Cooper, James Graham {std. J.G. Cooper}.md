@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33266015) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33266015) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/13571-1), [Wikidata](https://www.wikidata.org/wiki/Q3161112). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cooper, James Graham (1830-1902), American surgeon and naturalist, born in New York City, studied medicine, graduating from the College of Physicians and Surgeons in New York 1851, spent 1851-1853 in hospital, in the \[new\] State of Washington as surgeon and naturalist to the northern division of the Pacific Railroad Survey 1853-1855, visited Florida 1859, settled in California, naturalist of the geological survey of the State 1865-1866, from then on again active as physician, died at Hayward, Calif. (Alameda County) 19 Jul 1902. 
-**Abbreviated name**: *J.G. Cooper*
+**Abbreviated name**: *J.G. Cooper* \[standard form in IPNI: *J.G.Cooper*\]
 
 #### Herbarium and types
 

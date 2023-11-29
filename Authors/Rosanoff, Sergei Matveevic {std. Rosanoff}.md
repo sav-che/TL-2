@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 881](https://www.biodiversitylibrary.org/page/33190352) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 881](https://www.biodiversitylibrary.org/page/33190352) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8581-1), [Wikidata](https://www.wikidata.org/wiki/Q21607404). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rosanoff, Sergei Matveevic (1840-1870), Russian botanist; librarian of the botanical garden at St. Petersburg; died at sea travelling from Napoli to Palermo. 
-**Abbreviated name**: *Rosanoff*
+**Abbreviated name**: *Rosanoff* \[standard form in IPNI: *Rosanoff*\]
 
 #### Herbarium and types
 

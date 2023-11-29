@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33264745) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33264745) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/110-1), [Wikidata](https://www.wikidata.org/wiki/Q465898). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Aiton, William {std. Aiton}|first entry]] for this author
 
 ### Author
 
 \* Aiton, William (1731-1793), British (Scottish-born) gardener and botanist, came to England 1754, employed at Chelsea as market gardener, superintendent of the Kew Botanical Gardens ("Gardener to his Majesty") 1759-1793, became acquainted with Sir Joseph Banks 1764. 
-**Abbreviated name**: *Aiton*
+**Abbreviated name**: *Aiton* \[standard form in IPNI: *Aiton*\]
 
 #### Herbarium and types
 

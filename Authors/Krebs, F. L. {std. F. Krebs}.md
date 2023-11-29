@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33068912) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33068912) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5054-1), [Wikidata](https://www.wikidata.org/wiki/Q36555206). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krebs, F. L. (*fl*. 1827-1835), German forestry botanist; "herzoglich Braunschweiger Forstschreiber." 
-**Abbreviated name**: *F. Krebs*
+**Abbreviated name**: *F. Krebs* \[standard form in IPNI: *F.Krebs*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33258609) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33258609) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3033-1), [Wikidata](https://www.wikidata.org/wiki/Q5493154). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Garsault, François Alexandre Pierre de {std. Garsault}|first entry]] for this author
 
 ### Author
 
 \* Garsault, François Alexandre \[Pierre\] de (1691/1693-1778), French writer, botanical artist and naturalist with interests in poisonous plants, also a leading French horse-breeder, entered royal administration and trained horses for the military as "Capitaine des Haras", Académie des sciences. 
-**Abbreviated name**: *Garsault*
+**Abbreviated name**: *Garsault* \[standard form in IPNI: *Garsault*\]
 
 #### Herbarium and types
 

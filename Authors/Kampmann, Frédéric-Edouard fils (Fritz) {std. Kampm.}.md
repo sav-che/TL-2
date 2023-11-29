@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33068734) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33068734) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12595-1), [Wikidata](https://www.wikidata.org/wiki/Q21517256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kampmann, Frédéric-Edouard fils ("Fritz") (1830-1914), Alsatian pharmacist at Colmar, after 1872 at Genève, from 1907-1914 at Vallorbe, enthusiastic amateur botanist (son of Frédéric-Edouard K. 1797-1873). 
-**Abbreviated name**: *Kampm.*
+**Abbreviated name**: *Kampm.* \[standard form in IPNI: *Kampm.f.*\]
 
 #### Herbarium and types
 

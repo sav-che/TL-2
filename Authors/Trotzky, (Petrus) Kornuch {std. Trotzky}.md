@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33212551) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33212551) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10850-1), [Wikidata](https://www.wikidata.org/wiki/Q21339155). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trotzky, \[Petrus\] Kornuch (1803-1877), Russian botanist; Dr. phil. Dorpat 1832, student of C.F. v. Ledebour. 
-**Abbreviated name**: *Trotzky*
+**Abbreviated name**: *Trotzky* \[standard form in IPNI: *Korn.-Trotzky*\]
 
 #### Herbarium and types
 

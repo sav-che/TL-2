@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2005-06-22 12:54:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33120869) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33120869) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2493-1), [Wikidata](https://www.wikidata.org/wiki/Q2622975). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Eig, Alexander {std. Eig} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Eig, Alexander (1894-1938), Russian born Israeli botanist. 
-**Abbreviated name**: *Eig*
+**Abbreviated name**: *Eig* \[standard form in IPNI: *Eig*\]
 
 #### Herbarium and types
 

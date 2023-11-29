@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33212247) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33212247) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10492-1), [Wikidata](https://www.wikidata.org/wiki/Q1066232). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Telfair, Charles (1778 \[1777?\]-1833), Irish surgeon, plant collector, naturalist and gardener on Mauritius; honorary supervisor of the Botanic Garden of Pamplemousses 1826-1829. 
-**Abbreviated name**: *Telfair*
+**Abbreviated name**: *Telfair* \[standard form in IPNI: *Telfair*\]
 
 #### Herbarium and types
 

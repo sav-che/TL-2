@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33333374) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33333374) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9143-1), [Wikidata](https://www.wikidata.org/wiki/Q19001819). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmid, Ernst Ehrhard Friedrich Wilhelm (1815-1885), German (Thüringian), meteorologist, mineralogist and naturalist, Dr. phil. Jena 1839; from 1840-1843 lecturer ("Privatdocent") at the University of Jena; from 1843 extraordinary professor of natural history; from 1854 titular professor, from 1856 regular professor id.; also, from 1856 director of the Mineralogical Museum, Jena. 
-**Abbreviated name**: *E.E. Schmid*
+**Abbreviated name**: *E.E. Schmid* \[standard form in IPNI: *Schmid*\]
 
 #### Herbarium and types
 

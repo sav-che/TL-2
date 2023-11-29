@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 983](https://www.biodiversitylibrary.org/page/33121114) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 983](https://www.biodiversitylibrary.org/page/33121114) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/19574-1), [Wikidata](https://www.wikidata.org/wiki/Q347356). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gray, Asa {std. A. Gray} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gray, Asa (1810-1888), American botanist at Harvard University. 
-**Abbreviated name**: *A. Gray*
+**Abbreviated name**: *A. Gray* \[standard form in IPNI: *A.Gray*\]
 
 #### Herbarium, types and original manuscripts, archives, correspondence
 

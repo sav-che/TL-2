@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33333608) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33333608) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9410-1), [Wikidata](https://www.wikidata.org/wiki/Q21608590). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seboth, Joseph (1816-1883), Austrian botanical artist; educated at the Vienna Academy for fine arts; with Th. Kotschy in Asia minor 1859; artist for *Flora brasiliensis* and for Schott's works on Aroids. 
-**Abbreviated name**: *Seboth*
+**Abbreviated name**: *Seboth* \[standard form in IPNI: *Seboth*\]
 
 #### Herbarium and types
 

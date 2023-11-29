@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33068461) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33068461) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3982-1), [Wikidata](https://www.wikidata.org/wiki/Q4332701). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hochreutiner, Bénedict Pierre Georges (1873-1959), Swiss botanist and theologist; assistant to Briquet (1896); in Indonesia 1903-1905; at the Conservatoire botanique de Genève 1906-1943; specialist on Malvaceae and on the flora of S. Algeria. 
-**Abbreviated name**: *Hochr.*
+**Abbreviated name**: *Hochr.* \[standard form in IPNI: *Hochr.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33265067) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33265067) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31374-1), [Wikidata](https://www.wikidata.org/wiki/Q21505724). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Barsali, Egidio (1876-1945), Italian botanist at Pisa, c. 1902 assistant at the botanical garden of the University of Pisa, later natural history teacher in the Pisa medical school, from 1926 director of the botanical garden of Urbino. 
-**Abbreviated name**: *Barsali*
+**Abbreviated name**: *Barsali* \[standard form in IPNI: *Bars.*\]
 
 #### Herbarium and types
 

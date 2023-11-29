@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33069096) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33069096) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5511-1), [Wikidata](https://www.wikidata.org/wiki/Q9021895). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lester-Garland, Lester Vallis (né Lester) (1860-1944), British botanist; educated at Oxford; lecturer St. John's College, Oxford, 1886-1896; principal, Victoria College, Jersey (1896-1911). 
-**Abbreviated name**: *Lest.-Garl.*
+**Abbreviated name**: *Lest.-Garl.* \[standard form in IPNI: *Lest.-Garl.*\]
 
 #### Herbarium and types
 

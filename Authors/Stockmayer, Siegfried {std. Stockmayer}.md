@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33212084) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33212084) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10153-1), [Wikidata](https://www.wikidata.org/wiki/Q21609875). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stockmayer, Siegfried (1868-1933), Austrian physician and botanist (algologist); Dr. med. Wien 1892; district physician in Frankenfels and subsequently municipal physician in Unter-Waltersdorf 1893-1909; from 1913 practicing physician at Stammersdorf nr. Wien. 
-**Abbreviated name**: *Stockmayer*
+**Abbreviated name**: *Stockmayer* \[standard form in IPNI: *Stockm.*\]
 
 #### Herbarium and types
 

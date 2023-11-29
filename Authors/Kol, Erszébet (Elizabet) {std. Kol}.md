@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33068850) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33068850) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4936-1), [Wikidata](https://www.wikidata.org/wiki/Q1115153). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kol, Erszébet \[Elizabet\] (1897-x), Hungarian botanist at the Budapest Museum of Narural History; interested in cryobiology; Dr. phil. Szeged 1925. 
-**Abbreviated name**: *Kol*
+**Abbreviated name**: *Kol* \[standard form in IPNI: *Kol*\]
 
 #### Herbarium and types
 

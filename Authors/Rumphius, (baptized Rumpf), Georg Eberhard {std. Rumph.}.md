@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 986](https://www.biodiversitylibrary.org/page/33190457) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 986](https://www.biodiversitylibrary.org/page/33190457) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8739-1), [Wikidata](https://www.wikidata.org/wiki/Q61439). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rumphius, (baptized Rumpf), Georg Eberhard (1628-1702), German-born Dutch naturalist; enlisted with the Dutch West Indian Company for Brazil 1846 (but taken prisoner by the Portuguese); enlisted with the Dutch East Indian Company 1652, in Java 1652, to the Moluccas in the military service of the Company; commissioned officer 1655; in civil service as merchant to Ambon 1657 (Larike), from 1660 at Hitoe; first merchant at Amboina 1666 (appointment not ratified); blind from 1670; staying in Ambon mainly dedicating himself to the writing of his publications. 
-**Abbreviated name**: *Rumph.*
+**Abbreviated name**: *Rumph.* \[standard form in IPNI: *Rumph.*\]
 
 #### Herbarium and types
 

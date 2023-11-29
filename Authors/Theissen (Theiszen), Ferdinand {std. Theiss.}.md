@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33212281) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33212281) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10549-1), [Wikidata](https://www.wikidata.org/wiki/Q13218601). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Theissen \[Theiszen\], Ferdinand (1877-1919), German clergyman and mycologist; Novit. S.J. 1897; stationed in São Leopoldo, Brazil 1902-1908; studied theology at Valkenburg and Innsbruck 1909-1912; ordained 1911; studied natural sciences in Innsbruck 1913-1914; teacher at the Feldkirch gymnasium Stella matutina 1914-1919; died in the Vorarlberg Alps while collecting lichens. 
-**Abbreviated name**: *Theiss.*
+**Abbreviated name**: *Theiss.* \[standard form in IPNI: *Theiss.*\]
 
 #### Herbarium and types
 

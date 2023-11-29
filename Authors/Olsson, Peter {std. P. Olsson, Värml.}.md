@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33355922) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33355922) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7140-1), [Wikidata](https://www.wikidata.org/wiki/Q21522383). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Olsson, Peter (1833-1906), Swedish botanist of Värmland, Dr. phil. Uppsala 1866; high school teacher at Norrköping 1864-1902. 
-**Abbreviated name**: *P. Olsson, Värml.*
+**Abbreviated name**: *P. Olsson, Värml.* \[standard form in IPNI: *P.Olsson*\]
 
 #### Herbarium and types
 

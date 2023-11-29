@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33333206) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33333206) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8954-1), [Wikidata](https://www.wikidata.org/wiki/Q21607778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saunders, James (1839-1925), English botanist and geologist, and straw-hat and bonnet manufacturer at Luton. 
-**Abbreviated name**: *J. Saunders*
+**Abbreviated name**: *J. Saunders* \[standard form in IPNI: *J.Saunders*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33212321) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33212321) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27690-1), [Wikidata](https://www.wikidata.org/wiki/Q5764889). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thompson, Charles Henry (1870-1931), American botanist; M.S. Univ. Kansas 1898; instructor in botany, Shaw School of Botany, St. Louis 1893-1895; bot. asst. Missouri Botanical Garden 1895-1896; instructor at the University of Missouri 1896-1897; in charge of the department of succulent plants Missouri Botanical Garden from 1904; from 1915 assistant botanist, assistant professor of horticulture and professor of horticulture at Massachusetts College. 
-**Abbreviated name**: *C.H. Thomps.*
+**Abbreviated name**: *C.H. Thomps.* \[standard form in IPNI: *C.H.Thomps.*\]
 
 #### Herbarium and types
 

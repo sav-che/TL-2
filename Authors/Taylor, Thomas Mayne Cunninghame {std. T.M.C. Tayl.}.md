@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33212234) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33212234) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10475-1), [Wikidata](https://www.wikidata.org/wiki/Q21610330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Taylor, Thomas Mayne Cunninghame (1904-1983), South African-born botanist; M.S. Univ. Wisconsin 1927; Dr. phil. Univ. Toronto 1930; on the staff of the Department of botany, University of Toronto 1927-1946; professor of botany at the University of British Columbia 1946-1968; after 1968 living near Victoria. 
-**Abbreviated name**: *T.M.C. Tayl.*
+**Abbreviated name**: *T.M.C. Tayl.* \[standard form in IPNI: *T.M.C.Taylor*\]
 
 #### Herbarium and types
 

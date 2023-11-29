@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33355435) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33355435) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6189-1), [Wikidata](https://www.wikidata.org/wiki/Q6099833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Masferrer y Arquimbau, Ramón (1850-1884), Spanish military physician and botanist on the Canary Islands and the Philippines; died of cholera. 
-**Abbreviated name**: *Masf.*
+**Abbreviated name**: *Masf.* \[standard form in IPNI: *Masf.*\]
 
 #### Herbarium and types
 

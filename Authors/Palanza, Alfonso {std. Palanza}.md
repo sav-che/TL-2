@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33189504) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33189504) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/14110-1), [Wikidata](https://www.wikidata.org/wiki/Q21522556). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palanza, Alfonso (1851-1899), Italian botanist and plant collector; sometime private teacher at Napoli; from 1894 high school teacher at the Liceo di Bitonto. 
-**Abbreviated name**: *Palanza*
+**Abbreviated name**: *Palanza* \[standard form in IPNI: *Palanza*\]
 
 #### Herbarium and types
 

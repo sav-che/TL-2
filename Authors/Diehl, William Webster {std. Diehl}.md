@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-09-28 09:50:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33259343) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33259343) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/18029-1), [Wikidata](https://www.wikidata.org/wiki/Q21062306). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Diehl, William Webster (1891-1978), American botanist (mycologist), born 15 Jan 1891 at Logansport, Indiana, moved to Dayton 1894, on grammar school until 1904, at school in Winchester, Indiana 1905-1909, at Miami University, Oxford, Ohio 1910-1914, entered Iowa State College 1914, MS botany 1915, teaching fellow 1914-1916, instructor in botany and plant pathology at Clemson College 1916-1917, with U.S.D.A. Washington 1928-1958, adjunct professor at George Washington University 1936-1956, retired from U.S.D.A. 1958. 
-**Abbreviated name**: *Diehl*
+**Abbreviated name**: *Diehl* \[standard form in IPNI: *Diehl*\]
 
 #### Herbarium and types
 

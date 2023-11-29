@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1058](https://www.biodiversitylibrary.org/page/33190529) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1058](https://www.biodiversitylibrary.org/page/33190529) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8813-1), [Wikidata](https://www.wikidata.org/wiki/Q20670030). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sahlén, Anders Johan (1822-1891), Swedish botanist; Dr. phil. Lund 1850; teacher at Vänersborg 1850-1854; id. at Lidköping 1855; adjunct (1856), later lecturer (1861) at the State high school of Skara. 
-**Abbreviated name**: *Sahlén*
+**Abbreviated name**: *Sahlén* \[standard form in IPNI: *Sahlén*\]
 
 #### Herbarium and types
 

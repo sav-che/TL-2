@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33333496) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33333496) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12849-1), [Wikidata](https://www.wikidata.org/wiki/Q71073). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schübler, Gustav (1787-1834), German (Württemberg) natural scientist; Dr. med. Tübingen 1810; practicing physician at Stuttgart ca. 1811; teacher of natural sciences at Hofwyl (Fellenberg Inst.) 1812-1817; professor of botany, natural history and agricultural chemistry at Tübingen 1817-1834. 
-**Abbreviated name**: *Schübl.*
+**Abbreviated name**: *Schübl.* \[standard form in IPNI: *Schübl.*\]
 
 #### Herbarium and types
 

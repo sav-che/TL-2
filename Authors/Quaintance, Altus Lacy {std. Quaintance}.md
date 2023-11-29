@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33189922) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33189922) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8042-1), [Wikidata](https://www.wikidata.org/wiki/Q2363566). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Quaintance, Altus Lacy (1870-1958), American phytopathologist and economic entomologist; B.S. Florida Agric. Coll. \[Univ. Florida\] 1893; M.S. Alabama Polytechnic Institute 1894; Dr. Sci. ib. 1915; instructor in biology and professor of entomology at the University of Florida, 1894-1898; biologist at the Georgia Agricultural Experiment Station 1899-1901; State Entomologist of Maryland 1901-1903; in Division of Entomology, U.S.D.A. 1903-1930. 
-**Abbreviated name**: *Quaintance*
+**Abbreviated name**: *Quaintance* \[standard form in IPNI: *Quaint.*\]
 
 #### Herbarium and types
 

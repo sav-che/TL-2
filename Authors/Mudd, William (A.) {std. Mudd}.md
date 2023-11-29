@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33355699) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33355699) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23719-1), [Wikidata](https://www.wikidata.org/wiki/Q18821939). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mudd, William (A.) (1830-1879), British gardener and lichenologist; at first at Great Ayton, Cumb.; later (1865) curator of the Cambridge botanic garden. 
-**Abbreviated name**: *Mudd*
+**Abbreviated name**: *Mudd* \[standard form in IPNI: *Mudd*\]
 
 #### Herbarium and types
 

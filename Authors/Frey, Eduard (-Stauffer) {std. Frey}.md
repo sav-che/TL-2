@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2018-03-22 15:37:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 876](https://www.biodiversitylibrary.org/page/33121007) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 876](https://www.biodiversitylibrary.org/page/33121007) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18977-1), [Wikidata](https://www.wikidata.org/wiki/Q5818904). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Frey (-Stauffer), Eduard (Édouard) {std. Frey} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Frey, Eduard \[-Stauffer\] (1888-x), Swiss lichenologist. 
-**Abbreviated name**: *Frey*
+**Abbreviated name**: *Frey* \[standard form in IPNI: *Frey*\]
 
 #### Herbarium and types
 

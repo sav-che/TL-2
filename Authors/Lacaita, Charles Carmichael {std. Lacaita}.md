@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33068956) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33068956) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5179-1), [Wikidata](https://www.wikidata.org/wiki/Q1634164). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lacaita, Charles Carmichael (1853-1933), British amateur botanist of Italian descent; country gentleman of independent means; specially interested in the flora of Italy; collected in Sikkim (1913) and Spain (1925-28). 
-**Abbreviated name**: *Lacaita*
+**Abbreviated name**: *Lacaita* \[standard form in IPNI: *Lacaita*\]
 
 #### Herbarium and types
 

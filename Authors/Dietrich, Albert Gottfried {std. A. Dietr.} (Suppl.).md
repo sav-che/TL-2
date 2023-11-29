@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33259377) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33259377) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2206-1), [Wikidata](https://www.wikidata.org/wiki/Q67968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dietrich, Albert Gottfried {std. A. Dietr.}|first entry]] for this author
 
 ### Author
 
 \* Dietrich, Albert Gottfried (1795-1856), German botanist and gardener, born at Danzig 8 Nov 1795, died 22 Mai 1856 Berlin, pharmacist in Danzig, since 1816 studying medicine and natural sciences at the universities of Berlin and Halle, teacher at the "Gärtner-Lehranstalt" in Schöneberg near Berlin, assistant at the zoological museum of Berlin, Dr. phil. at Berlin 1834, published the "Allgemeine Gartenzeitung" with Friedrich Otto 1835-1836, as "Kustos" at herbarium and botanical garden of Berlin. 
-**Abbreviated name**: *A. Dietr.*
+**Abbreviated name**: *A. Dietr.* \[standard form in IPNI: *A.Dietr.*\]
 
 #### Herbarium and types
 

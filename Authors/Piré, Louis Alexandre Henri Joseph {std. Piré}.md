@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33189743) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33189743) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24886-1), [Wikidata](https://www.wikidata.org/wiki/Q6686606). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Piré, Louis Alexandre Henri Joseph (1827-1887), Belgian botanist; high school teacher at the Bruxelles Athenaeum 1854-1883; in retirement at Spa (1884-1887). 
-**Abbreviated name**: *Piré*
+**Abbreviated name**: *Piré* \[standard form in IPNI: *Piré*\]
 
 #### Herbarium and types
 

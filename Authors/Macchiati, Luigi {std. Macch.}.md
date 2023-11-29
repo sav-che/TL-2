@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33355300) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33355300) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22676-1), [Wikidata](https://www.wikidata.org/wiki/Q13503194). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Macchiati, Luigi (1852-1921), Italian cryptogamist; until 1905 at Savona; later scientific director and president of the R. Instituto Tecnico, Venezia. 
-**Abbreviated name**: *Macch.*
+**Abbreviated name**: *Macch.* \[standard form in IPNI: *Macch.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 943](https://www.biodiversitylibrary.org/page/33190414) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 943](https://www.biodiversitylibrary.org/page/33190414) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8668-1), [Wikidata](https://www.wikidata.org/wiki/Q47125386). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roussel, Ernest (*fl*. 1860), French pharmacist and mycologist at Évreux; studied at the École de médecine et de pharmacie de Rouen (thesis 1860). 
-**Abbreviated name**: *E. Roussel*
+**Abbreviated name**: *E. Roussel* \[standard form in IPNI: *E.Roussel*\]
 
 #### Herbarium and types
 

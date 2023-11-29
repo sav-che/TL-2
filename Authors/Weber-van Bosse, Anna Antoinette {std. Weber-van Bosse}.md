@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33066471) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33066471) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11476-1), [Wikidata](https://www.wikidata.org/wiki/Q1940785). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weber-van Bosse, Anna Antoinette (1852-1942), Dutch phycologist; married W.F. Willink 1871, married Max Weber 1883; studied botany with H. de Vries in Amsterdam; with her husband on expeditions to the East Indies 1888-1889, 1899-1900 (Siboga expedition) and to S. Africa 1894-1895; Dr. phil. h.c. Utrecht 1910. 
-**Abbreviated name**: *Weber-van Bosse*
+**Abbreviated name**: *Weber-van Bosse* \[standard form in IPNI: *Weber Bosse*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2018-02-19 17:20:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33066760) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33066760) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11814-1), [Wikidata](https://www.wikidata.org/wiki/Q20016694). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wolf, Ferdinand Otto (1838-1906), German (Thüringian)-born Swiss botanist and musician; educated as choir and solo church singer in Ellwangen; teacher at Feldkirch 1856-1858; to Wallis (Switzerland) 1858; teacher of music and natural history at Brig 1858-1861; organist and music teacher at Sion from 1861; student of the flora of the Wallis Alps; one of the founders and later president of the Société Murithienne. 
-**Abbreviated name**: *F.O. Wolf*
+**Abbreviated name**: *F.O. Wolf* \[standard form in IPNI: *F.O.Wolf*\]
 
 #### Herbarium and types
 

@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33069091) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33069091) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/22261-1), [Wikidata](https://www.wikidata.org/wiki/Q2959722). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lesquereux, Charles Léo (1806-1889), Swiss-born palaeobotanist and bryologist; to the United States in 1848 (abolishment by the revolutionary council of the Neuchâtel academy); first with Agassiz at Harvard; from 1849-1873 with Sullivant in Columbus, Ohio; from 1865 also working part time at Harvard. 
-**Abbreviated name**: *Lesq.*
+**Abbreviated name**: *Lesq.* \[standard form in IPNI: *Lesq.*\]
 
 #### Herbarium and types
 

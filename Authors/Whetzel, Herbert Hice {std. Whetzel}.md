@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33066585) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33066585) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11610-1), [Wikidata](https://www.wikidata.org/wiki/Q4479843). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Whetzel, Herbert Hice (1877-1944), American mycologist and phytopathologist; studied at Wabash College, Crawfordsville, Indiana; AB 1902; assistant Dept. Botany Cornell Univ. 1902-1906; asst. professor and head of the department of botany New York State College 1909-1944 (head dept. until 1922). 
-**Abbreviated name**: *Whetzel*
+**Abbreviated name**: *Whetzel* \[standard form in IPNI: *Whetzel*\]
 
 #### Herbarium and types
 

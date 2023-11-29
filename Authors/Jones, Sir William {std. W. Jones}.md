@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33068699) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33068699) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4543-1), [Wikidata](https://www.wikidata.org/wiki/Q273969). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jones, Sir William (1746-1794), British judge of the Supreme Court, Calcutta (1783-1794); knighted 1793; published on botany and a variety of other subjects. 
-**Abbreviated name**: *W. Jones*
+**Abbreviated name**: *W. Jones* \[standard form in IPNI: *Jones*\]
 
 #### Herbarium and types
 

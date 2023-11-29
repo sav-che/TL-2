@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33068906) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33068906) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/35181-1), [Wikidata](https://www.wikidata.org/wiki/Q21517899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krauer, Johann Georg (1794-1845), Swiss botanist and physician at Luzern and Rothenburg. 
-**Abbreviated name**: *Krauer*
+**Abbreviated name**: *Krauer* \[standard form in IPNI: *Krauer*\]
 
 #### Herbarium and types
 

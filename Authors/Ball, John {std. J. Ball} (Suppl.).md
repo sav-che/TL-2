@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265029) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265029) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/428-1), [Wikidata](https://www.wikidata.org/wiki/Q957519). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ball, John {std. J. Ball}|first entry]] for this author
 
 ### Author
 
 \* Ball, John (1818-1889), Irish botanist, politician and alpinist, educated at St. Mary's Oscott, Warwickshire and Christ's College, Cambridge, called to the Irish bar 1845 (not practising), assistant poor law commissioner 1846-1847, 1849-1851, member of parliament for Carlar 1852, undersecretary for the colonies 1855-1857, alpine traveller from ca. 1845 onward, dedicating himself to botany and geography, accompanied J.D. Hooker and G. Maw to Morocco 1871, travelled in South America 1882. 
-**Abbreviated name**: *J. Ball*
+**Abbreviated name**: *J. Ball* \[standard form in IPNI: *Ball*\]
 
 #### Herbarium and types
 

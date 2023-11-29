@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33189634) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33189634) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7504-1), [Wikidata](https://www.wikidata.org/wiki/Q36643665). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pereboom, Nicolaas Ewoud (*fl*. 1787), Dutch botanist, son of Cornells Pereboom. 
-**Abbreviated name**: *N. Pereb.*
+**Abbreviated name**: *N. Pereb.* \[standard form in IPNI: *Pereb.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33066866) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33066866) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/29103-1), [Wikidata](https://www.wikidata.org/wiki/Q4190510). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zeller, Sanford Myron (1884-1948), American plant pathologist; B.S. Greenville College 1909; A.B. Washington (Seattle) 1912; A.M. 1913; Dr. phil. Washington Univ., St. Louis 1917; fellow Washington Univ., St. Louis 1914-1917; special investigator dendropathology ib. 1917-1919; associate professor plant pathology Oregon State College 1919-1920; assoc. id. 1920-1924; professor id. 1924-1948. 
-**Abbreviated name**: *Zeller*
+**Abbreviated name**: *Zeller* \[standard form in IPNI: *Zeller*\]
 
 #### Herbarium and types
 

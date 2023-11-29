@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33120815) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33120815) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2323-1), [Wikidata](https://www.wikidata.org/wiki/Q6137874). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Drummond, James Lawson (1783-1853), British physician and naturalist in Belfast. 
-**Abbreviated name**: *J. L. Drumm.*
+**Abbreviated name**: *J. L. Drumm.* \[standard form in IPNI: *J.L.Drumm.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33260063) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33260063) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18177-1), [Wikidata](https://www.wikidata.org/wiki/Q21510867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Douin, Robert Charles Victor (1892-x), French botanist, "Docteur ès Sciences, Agrégé des Sciences naturelles", Doyen of the Faculty of Sciences, Lyon, professor of general botany, director of the Jardin Botanique and of the "Service" of the cultures of the town of Lyon. 
-**Abbreviated name**: *R.C.V. Douin*
+**Abbreviated name**: *R.C.V. Douin* \[standard form in IPNI: *R.C.V.Douin*\]
 
 #### Herbarium and types
 

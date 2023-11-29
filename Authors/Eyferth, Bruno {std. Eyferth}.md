@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33260436) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33260436) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/20061874-1), [Wikidata](https://www.wikidata.org/wiki/Q56653781). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eyferth, Bruno (1826-1897), German mining inspector, born 28 Jun 1826 at Holzminden, much interested in microscopical organisms (freshwater plants and animals), was one of the founders of the natural history society at Braunschweig in 1862, died 17 Jun 1897 at Braunschweig. 
-**Abbreviated name**: *Eyferth*
+**Abbreviated name**: *Eyferth* \[standard form in IPNI: *Eyferth*\]
 
 #### Herbarium and types
 

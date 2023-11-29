@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33120412) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33120412) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/991-1), [Wikidata](https://www.wikidata.org/wiki/Q1693783). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bornemann, Johann Georg {std. J. Bornem.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bornemann, Johann Georg (1831-1896), German geologist and palaeobotanist at Eisenach, Thüringen. 
-**Abbreviated name**: *J. Bornemann*
+**Abbreviated name**: *J. Bornemann* \[standard form in IPNI: *Bornem.*\]
 
 #### Herbarium and types
 

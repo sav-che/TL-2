@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33355947) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33355947) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24426-1), [Wikidata](https://www.wikidata.org/wiki/Q5932942). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Otto, Johann Gottfried (1761-1832), German botanist; Dr. med. Jena 1784. 
-**Abbreviated name**: *J. Otto*
+**Abbreviated name**: *J. Otto* \[standard form in IPNI: *J.Otto*\]
 
 #### Herbarium and types
 

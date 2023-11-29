@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33333233) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33333233) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8988-1), [Wikidata](https://www.wikidata.org/wiki/Q546079). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Say, Thomas (1787-1834), American naturalist, entomologist, zoologist and Quaker; energetic collector; with the Academy of Natural Sciences of Philadelphia 1822-1825; with the settlement at New Harmony, Indiana 1825-1834. 
-**Abbreviated name**: *Say*
+**Abbreviated name**: *Say* \[standard form in IPNI: *Say*\]
 
 #### Herbarium and types
 

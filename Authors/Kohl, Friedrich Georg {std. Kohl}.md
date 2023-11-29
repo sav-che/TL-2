@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33068848) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33068848) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4926-1), [Wikidata](https://www.wikidata.org/wiki/Q4228911). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kohl, Friedrich Georg (1855-1910), German botanist; Dr. phil. Leipzig 1881; professor of botany at the University of Marburg i.H. 1891, later in Leipzig. 
-**Abbreviated name**: *Kohl*
+**Abbreviated name**: *Kohl* \[standard form in IPNI: *Kohl*\]
 
 #### Herbarium and types
 

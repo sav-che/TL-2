@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33212813) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33212813) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11242-1), [Wikidata](https://www.wikidata.org/wiki/Q21611841). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vogler, Paul (1875-?), Swiss botanist and high school teacher at St. Gallen; Dr. phil. Zürich 1901. 
-**Abbreviated name**: *Vogler*
+**Abbreviated name**: *Vogler* \[standard form in IPNI: *P.Vogler*\]
 
 #### Herbarium and types
 

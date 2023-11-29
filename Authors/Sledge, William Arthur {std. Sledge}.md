@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33333782) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33333782) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9738-1), [Wikidata](https://www.wikidata.org/wiki/Q21609030). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sledge, William Arthur (1904-x), British botanist at the Department of Botany, the University, Leeds until 1968; travelled in New Zealand 1929. 
-**Abbreviated name**: *Sledge*
+**Abbreviated name**: *Sledge* \[standard form in IPNI: *Sledge*\]
 
 #### Herbarium and types
 

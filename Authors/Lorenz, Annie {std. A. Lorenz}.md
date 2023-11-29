@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33355247) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33355247) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5751-1), [Wikidata](https://www.wikidata.org/wiki/Q21519500). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lorenz, Annie (1879-1927), American hepaticologist; high school teacher at Hartford, Conn. 
-**Abbreviated name**: *A. Lorenz*
+**Abbreviated name**: *A. Lorenz* \[standard form in IPNI: *A.Lorenz*\]
 
 #### Herbarium and types
 

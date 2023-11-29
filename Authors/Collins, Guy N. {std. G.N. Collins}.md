@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33265951) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33265951) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1744-1), [Wikidata](https://www.wikidata.org/wiki/Q20973529). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Collins, Guy N. (1872-1938), American botanist, born in Mertensia, N.Y., long-time employed at the United States Department of Agriculture, travelled widely in Africa, Costa Rica, Guatemala, Mexico and Puerto Rico. 
-**Abbreviated name**: *G.N. Collins*
+**Abbreviated name**: *G.N. Collins* \[standard form in IPNI: *G.N.Collins*\]
 
 #### Herbarium and types
 

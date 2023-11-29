@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33333503) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33333503) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9284-1), [Wikidata](https://www.wikidata.org/wiki/Q21608462). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schuette, Joachim Heinrich (1821-1908), German (Hanoverian) teacher; went to the United States in 1874; edited a newspaper at Green Bay, Wisconsin until 1884; enthusiastic plant collector, especially interested in native roses. 
-**Abbreviated name**: *J. Schuette*
+**Abbreviated name**: *J. Schuette* \[standard form in IPNI: *Schuette*\]
 
 #### Herbarium and types
 

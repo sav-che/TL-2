@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33266328) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33266328) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16471-1), [Wikidata](https://www.wikidata.org/wiki/Q5585064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Deichmann Branth, Jakob Severin {std. Branth} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Branth, Jakob Severin Deichmann (1831-1917), Danish botanist (lichenologist), studied theology and botany at Copenhagen University, cand. Theol. 1857, travelled and worked in Germany, Switzerland and Italy 1857, private teacher at Bregentved until 1861; in charge of a highschool in Tønder 1861-1864, catechist at Selskør 1866, vicar at Elling-Tolne 1871-1880, at Ovsted-Taaning 1880-1908, in retirement living at Kolding. 
-**Abbreviated name**: *Branth*
+**Abbreviated name**: *Branth* \[standard form in IPNI: *Branth*\]
 
 #### Herbarium and types
 

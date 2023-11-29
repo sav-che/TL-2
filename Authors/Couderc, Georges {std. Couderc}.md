@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33266088) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33266088) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17467-1), [Wikidata](https://www.wikidata.org/wiki/Q21339307). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Couderc, Georges (1850-1928), French botanist, vine hybridist, phytopathologist and lichenologist, born at Aubenas, Ardéche, in Charge of family domain (wine, chestnut). 
-**Abbreviated name**: *Couderc*
+**Abbreviated name**: *Couderc* \[standard form in IPNI: *Couderc*\]
 
 #### Herbarium and types
 

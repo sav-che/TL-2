@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33212077) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33212077) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10168-1), [Wikidata](https://www.wikidata.org/wiki/Q21609881). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stokey, Alma Gracey (1877-1968), American plant morphologist and pteridologist; BA Oberlin 1904; assistant in botany Oberlin 1904-1906; Dr. phil. Chicago 1908; instructor in botany Mount Holyoke College, South Hadley, Mass., 1908, assoc. professor ib. 1911, full professor 1916-1942; Dr. Sci. h.c. Oberlin 1955; worked at Buitenzorg (Bogor) 1937. 
-**Abbreviated name**: *Stokey*
+**Abbreviated name**: *Stokey* \[standard form in IPNI: *Stokey*\]
 
 #### Herbarium and types
 

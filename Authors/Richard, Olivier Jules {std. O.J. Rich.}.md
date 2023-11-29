@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33190238) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33190238) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8351-1), [Wikidata](https://www.wikidata.org/wiki/Q7088161). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Richard, Olivier Jules (1836-1896), French lichenologist; studied law in Paris; stationed as magistrate in various towns in Western France; "procureur de la république" at Marennes 1873-1876, at La Roche-sur-Yon 1876-1885, at Poitiers from 1885-1891; outspoken adversary of the Schwendener theory of lichenisation. 
-**Abbreviated name**: *O.J. Rich.*
+**Abbreviated name**: *O.J. Rich.* \[standard form in IPNI: *O.J.Rich.*\]
 
 #### Herbarium and types
 

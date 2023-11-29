@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33259574) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33259574) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/40078-1), [Wikidata](https://www.wikidata.org/wiki/Q5711565). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Favrat, Auguste (1862-1893), Swiss botanist (specialist on *Rubus*), pharmacist and physician, born 30 Sep 1862 in La-Chaux-de-Fonds (Ct. Neuchâtel), studied pharmacy and later medicine in Bern, received M.D. 1890, Prof. of Botany, Lausanne, moved to Madeira 1887 because of poor health, visited Haiti 1888, died of tuberculosis on 13 Sep 1893 in Funchal, Madeira. 
-**Abbreviated name**: *A. Favrat*
+**Abbreviated name**: *A. Favrat* \[standard form in IPNI: *A.Favrat*\]
 
 #### Note
 

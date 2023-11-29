@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33258521) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33258521) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2901-1), [Wikidata](https://www.wikidata.org/wiki/Q2502575). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Freyn, Josef Franz {std. Freyn}|first entry]] for this author
 
 ### Author
 
 \* Freyn, Josef \[József, Joseph\] Franz \[František\] (1845-1903), Austrian civil engineer and amateur botanist, born 7 Dec 1845 in Prague (now Czech Republic), where he attended gymnasium 1856-1862 and became interested in botany, attended technical high school, Prague 1862-1865, engineering school, Vienna 1865-1867, employed in the construction of railways in Hungary and studied the Hungarian flora, later employed in Istria 1874-1878, returned to Bohemia 1878 and then Prague 1881 where he owned a construction business, died 16 Jan 1903 in Prag-Smichow. 
-**Abbreviated name**: *Freyn*
+**Abbreviated name**: *Freyn* \[standard form in IPNI: *Freyn*\]
 
 #### Herbaria and types
 

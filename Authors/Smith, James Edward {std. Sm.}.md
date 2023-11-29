@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33333817) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33333817) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9802-1), [Wikidata](https://www.wikidata.org/wiki/Q458004). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, James Edward (1759-1828), British botanist; studied medicine in Edinburgh and Leiden; purchased the Linnaean herbarium in 1784; Dr. med. Leiden 1786; founded the Linnean Society 1788 (president 1788-1828), knighted 1814. 
-**Abbreviated name**: *Sm.*
+**Abbreviated name**: *Sm.* \[standard form in IPNI: *Sm.*\]
 
 #### Herbarium and types
 

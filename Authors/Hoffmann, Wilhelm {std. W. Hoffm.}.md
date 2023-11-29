@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33068487) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33068487) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4018-1), [Wikidata](https://www.wikidata.org/wiki/Q47119017). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoffmann, Wilhelm (1856-x), German diatomologist; educated at Marburg, Berlin and Heidelberg; from 1882 high school teacher at the gymnasia of Siegen and Bielefeld. 
-**Abbreviated name**: *W. Hoffm.*
+**Abbreviated name**: *W. Hoffm.* \[standard form in IPNI: *W.Hoffm.*\]
 
 #### Herbarium and types
 

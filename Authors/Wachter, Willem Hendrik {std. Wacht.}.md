@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33066303) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33066303) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11285-1), [Wikidata](https://www.wikidata.org/wiki/Q6167526). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wachter, Willem Hendrik (1882-1946), Dutch botanist and high school teacher; studied at the teacher's college of Rotterdam (teacher's exam. 1901); teacher at various schools in Rotterdam 1901-1936; active floristic botanist and bryologist; Dr. h.c. Utrecht 1946. 
-**Abbreviated name**: *Wacht.*
+**Abbreviated name**: *Wacht.* \[standard form in IPNI: *Wacht.*\]
 
 #### Herbarium and types
 

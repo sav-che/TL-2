@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33068994) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33068994) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5271-1), [Wikidata](https://www.wikidata.org/wiki/Q62656). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Langsdorff, Georg Heinrich, Baron von (1774-1852), German explorer; surgeon naturalist on the Krusenstern expedition (1803-1806); later Russian consul in Brazil and plant collector with Riedel. 
-**Abbreviated name**: *Langsd.*
+**Abbreviated name**: *Langsd.* \[standard form in IPNI: *Langsd.*\]
 
 #### Herbarium and types
 

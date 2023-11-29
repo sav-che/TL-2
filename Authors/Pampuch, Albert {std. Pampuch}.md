@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33189474) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33189474) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7300-1), [Wikidata](https://www.wikidata.org/wiki/Q36507409). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pampuch, Albert (*fl*. 1840), German botanist, high school teacher at Tremessen (Trzemessno, now Poland) near Bromberg. 
-**Abbreviated name**: *Pampuch*
+**Abbreviated name**: *Pampuch* \[standard form in IPNI: *Pampuch*\]
 
 #### Herbarium and types
 

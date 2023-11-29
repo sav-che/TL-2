@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33265844) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33265844) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1639-1), [Wikidata](https://www.wikidata.org/wiki/Q21395669). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chrysler, Mintin Asbury (1871-1963), Canadian born American botanist, sometime on Harvard University, 1907 professor at the Agricultural College of S. Dakota, 1912 professor at the University of Maine at Orono, Dr. phil. University of Chicago 1923, professor of botany at Rutgers University, New Brunswick 1923-1942. 
-**Abbreviated name**: *Chrysler*
+**Abbreviated name**: *Chrysler* \[standard form in IPNI: *Chrysler*\]
 
 #### Herbarium and types
 

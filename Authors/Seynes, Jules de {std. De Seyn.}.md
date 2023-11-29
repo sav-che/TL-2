@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33333684) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33333684) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9527-1), [Wikidata](https://www.wikidata.org/wiki/Q5954613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seynes, Jules de (1833-1912), French botanist (mycologist); Dr. méd. Montpellier 1860; Dr. sci. nat. Paris 1863; aggr. Paris 1865; from then on connected with the Faculté de médicine, Paris. 
-**Abbreviated name**: *De Seyn.*
+**Abbreviated name**: *De Seyn.* \[standard form in IPNI: *De Seynes*\]
 
 #### Herbarium and types
 

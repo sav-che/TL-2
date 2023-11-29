@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33355916) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33355916) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7132-1), [Wikidata](https://www.wikidata.org/wiki/Q2033290). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Oliver, Walter Reginald Brook (1883-1957), New Zealand ornithologist, malacologist and botanist; Dr. sci. Univ. New Zealand 1933; from 1920 with the Dominion Museum, Wellington, from 1928-1947 as director. 
-**Abbreviated name**: *W. Oliver*
+**Abbreviated name**: *W. Oliver* \[standard form in IPNI: *W.R.B.Oliv.*\]
 
 #### Herbarium and types
 

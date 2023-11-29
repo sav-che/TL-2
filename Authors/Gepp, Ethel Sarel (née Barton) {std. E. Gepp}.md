@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/page/33121064) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/page/33121064) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12513-1), [Wikidata](https://www.wikidata.org/wiki/Q21341607). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Barton, Ethel Sarel {std. E. Barton}|second entry]] for this author
 
 ### Author
 
 Gepp, Ethel Sarel (née Barton) (1864-1922), British botanist, wife of Anthony Gepp. 
-**Abbreviated name**: *E. Gepp*
+**Abbreviated name**: *E. Gepp* \[standard form in IPNI: *E.Gepp*\]
 
 #### Herbarium and types
 

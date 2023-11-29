@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33066734) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33066734) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11791-1), [Wikidata](https://www.wikidata.org/wiki/Q21612869). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wiström, Johan Alfred (1830-1896), Swedish botanist, entomologist and high school teacher; Dr. phil. Uppsala 1857; teacher at Hudiksvall's high school 1859-1896; habil. Uppsala 1867. 
-**Abbreviated name**: *Wiström*
+**Abbreviated name**: *Wiström* \[standard form in IPNI: *Wiström*\]
 
 #### Herbarium and types
 

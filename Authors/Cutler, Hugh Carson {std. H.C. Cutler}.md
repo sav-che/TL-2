@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33266202) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33266202) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1938-1), [Wikidata](https://www.wikidata.org/wiki/Q5904338). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cutler, Hugh Carson (1912-?), American botanist, born Milwaukee, Wisc., 8 Sep 1912, studied at the Univ. of Wisconsin, BA 1935, MA 1936, later resident of St. Louis, Missouri, associated with Bot. Mus. Harvard 1941-1947, field technician Rubber Development Corp. in Brazil 1943-1945, curator of economic botany, Chicago Nat. Hist. Mus. 1947, later in Missouri Bot. Garden, St. Louis. 
-**Abbreviated name**: *H.C. Cutler*
+**Abbreviated name**: *H.C. Cutler* \[standard form in IPNI: *H.C.Cutler*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33355632) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33355632) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6565-1), [Wikidata](https://www.wikidata.org/wiki/Q3341602). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mohr, Nicolai (i Pedersen) (1742-1790), Faeroes-born Danish botanist; visited Iceland 1780, Groenland 1787; employed by the Royal Danish China factory. 
-**Abbreviated name**: *N. Mohr*
+**Abbreviated name**: *N. Mohr* \[standard form in IPNI: *Mohr*\]
 
 #### Herbarium and types
 

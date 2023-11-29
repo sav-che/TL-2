@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 685](https://www.biodiversitylibrary.org/page/33212727) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 685](https://www.biodiversitylibrary.org/page/33212727) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11100-1), [Wikidata](https://www.wikidata.org/wiki/Q19002900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vautier, Simone (1908-1971), Swiss botanist; assistant in a private laboratory for medical analyses 1930-1940; studied botany at Genève 1940-1943 with Chodat, Hochreutiner and Becherer; scientist at the Conservatoire botanique 1943-1970; Dr. sci. nat. Genève 1949. 
-**Abbreviated name**: *Vautier*
+**Abbreviated name**: *Vautier* \[standard form in IPNI: *Vautier*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33120736) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33120736) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17867-1), [Wikidata](https://www.wikidata.org/wiki/Q4159012). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dearness, John {std. Dearn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dearness, John (1852-1954), Canadian mycologist and educator. 
-**Abbreviated name**: *Dearn.*
+**Abbreviated name**: *Dearn.* \[standard form in IPNI: *Dearn.*\]
 
 #### Herbarium and types
 

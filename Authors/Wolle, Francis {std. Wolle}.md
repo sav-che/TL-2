@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33066765) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33066765) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11827-1), [Wikidata](https://www.wikidata.org/wiki/Q5482833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wolle, Francis (1817-1893), American botanist (algologist) and educator; did educational work in the Moravian church, teacher at Nazareth Hall and Bethlehem Pa.; vice-principal Young Ladies Seminary, Bethlehem, Pa., 1857, principal 1861-1881; in retirement continuing his algological work. 
-**Abbreviated name**: *Wolle*
+**Abbreviated name**: *Wolle* \[standard form in IPNI: *Wolle*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33068459) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33068459) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3975-1), [Wikidata](https://www.wikidata.org/wiki/Q21515865). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hjaltalín, Oddur Jönsson (1782-1840), Icelandic botanist and regional physician. 
-**Abbreviated name**: *Hjaltalín*
+**Abbreviated name**: *Hjaltalín* \[standard form in IPNI: *Hjalt.*\]
 
 #### Herbarium and types
 
@@ -46,7 +45,7 @@ Barnhart 2: 183 (Hjaltelin).
 ##### n.2824. I´slenzk grasafraedi
 
 **Title**
-*I´slenzk grasafraedi* af Ó. J. Hjaltalín, Districkskírúrgus. Útgefin ad Tilhlutun hins I´slenzka bókmentafélags. Kaupmannahöfh (i prentsmidju N. G. F. Kristensens Ekkju. Prentud af J. D. Kvist) 1830. Oct.
+*Íslenzk grasafraedi* af Ó. J. Hjaltalín, Districkskírúrgus. Útgefin ad Tilhlutun hins Íslenzka bókmentafélags. Kaupmannahöfh (i prentsmidju N. G. F. Kristensens Ekkju. Prentud af J. D. Kvist) 1830. Oct.
 
 **Notes**
 *Publ*.: 1830, p. \[1\]-379. *Copies*: HH, NY.

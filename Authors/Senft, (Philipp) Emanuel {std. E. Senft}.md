@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33333646) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33333646) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9481-1), [Wikidata](https://www.wikidata.org/wiki/Q1334765). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Senft, \[Philipp\] Emanuel (1870-1922), Austrian (Bohemia-born) botanist (lichenologist) and pharmacist; army pharmacist 1896; military pharmacist at the Josefinum, Wien, 1908; "Oberinspector" of the "k.k. landwirtschaftlich-chemischen Versuchsstation", Wien, from 1913. 
-**Abbreviated name**: *E. Senft*
+**Abbreviated name**: *E. Senft* \[standard form in IPNI: *E.Senft*\]
 
 #### Herbarium and types
 

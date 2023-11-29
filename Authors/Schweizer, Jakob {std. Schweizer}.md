@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33333581) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33333581) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9369-1), [Wikidata](https://www.wikidata.org/wiki/Q21608545). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schweizer, Jakob (1885-?), Swiss high school teacher and botanist. 
-**Abbreviated name**: *Schweizer*
+**Abbreviated name**: *Schweizer* \[standard form in IPNI: *Schweiz.*\]
 
 #### Herbarium and types
 

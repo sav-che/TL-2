@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33258730) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33258730) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3215-1), [Wikidata](https://www.wikidata.org/wiki/Q527777). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Godfery, Masters John (Col.) (1856-1945), British soldier and botanist (authority on British and European orchids), R.A.S.C., F.L.S. 1915, died 8 Apr 1945 in Torquay (Devon.). 
-**Abbreviated name**: *Godfery*
+**Abbreviated name**: *Godfery* \[standard form in IPNI: *Godfery*\]
 
 #### Note
 

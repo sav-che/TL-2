@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33190171) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33190171) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8267-1), [Wikidata](https://www.wikidata.org/wiki/Q21607092). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reinecke, Karl L. (1854-1934), German (Saxonian) botanist and high school teacher at Erfurt; teacher's examination 1874; connected with the Erfurt schools until 1917. 
-**Abbreviated name**: *K. Reinecke*
+**Abbreviated name**: *K. Reinecke* \[standard form in IPNI: *K.Reinecke*\]
 
 #### Herbarium and types
 

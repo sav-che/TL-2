@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33333221) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33333221) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26182-1), [Wikidata](https://www.wikidata.org/wiki/Q21607787). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Savastano, Luigi Salvatore (1853- ?), Italian botanist and phytopathologist; assistant at the botanical garden of the R. Scuola superiore d'Agricoltura Portici, nr Napoli. 
-**Abbreviated name**: *Savastano*
+**Abbreviated name**: *Savastano* \[standard form in IPNI: *Savast.*\]
 
 #### Herbarium and types
 

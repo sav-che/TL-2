@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:43.0
 ---
 
-
  [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33355112) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> Author links: [IPNI](https://www.ipni.org/a/22340-1), [Wikidata](https://www.wikidata.org/wiki/Q1659410). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lightfoot, John (1735-1788), British clergyman and botanist; domestic chaplain to the Dowager Duchess of Portland at Bulstock, Bucks.; later at Uxbridge; one of the founders of the Linnean Society of London. 
-**Abbreviated name**: *Lightf.*
+**Abbreviated name**: *Lightf.* \[standard form in IPNI: *Lightf.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33212732) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33212732) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11112-1), [Wikidata](https://www.wikidata.org/wiki/Q21611591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Velazquez, Gregorio Tiongson (1901-x), Philippine botanist (algologist); M.Sc. Univ. Philippines 1931; Dr. phil. Univ. Michigan 1939; with the University of the Philippines in various ranks 1923-1941; assistant professor of botany ib. 1945, associate prof. 1951, full professor 1958-1967. 
-**Abbreviated name**: *Velazquez*
+**Abbreviated name**: *Velazquez* \[standard form in IPNI: *Velazquez*\]
 
 #### Herbarium and types
 

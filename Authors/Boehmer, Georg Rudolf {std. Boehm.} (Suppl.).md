@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33265450) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33265450) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16257-1), [Wikidata](https://www.wikidata.org/wiki/Q66907). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boehmer, Georg Rudolph {std. Boehm.}|first entry]] for this author
 
 ### Author
 
 \* Boehmer, Georg Rudolf (1723-1803), German (Liegnitz, Lower Silesia born) botanist (anatomy, physiology and pharmaceutic botany), studied at the University of Leipzig, professor of botany at the University of Wittenberg. 
-**Abbreviated name**: *Boehm.*
+**Abbreviated name**: *Boehm.* \[standard form in IPNI: *Boehm.*\]
 
 #### Herbarium and types
 

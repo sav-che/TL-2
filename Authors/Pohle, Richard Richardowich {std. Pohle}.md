@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33189788) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33189788) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24944-1), [Wikidata](https://www.wikidata.org/wiki/Q5846642). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pohle, Richard Richardowich (1869-1926), German-Latvian botanist, born in Riga of German parents; in military service at Berlin 1889/90; studied at Dresden Technical University 1894-1899, from 1895-1899 also assistant at the Dresden Botanical Institute; travelled in N. Europe 1898-1899; at University of Rostock 1900-1901; Dr. phil. ib. 1901; until 1914 at the Botanic Garden St. Petersburg; later professor of geography at the Technical University of Braunschweig. 
-**Abbreviated name**: *Pohle*
+**Abbreviated name**: *Pohle* \[standard form in IPNI: *Pohle*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33069096) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33069096) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5512-1), [Wikidata](https://www.wikidata.org/wiki/Q2109488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lestiboudois, François Joseph (x-1815), French botanist at Lille, son of Jean Baptiste Lestiboudois. 
-**Abbreviated name**: *F. Lestib.*
+**Abbreviated name**: *F. Lestib.* \[standard form in IPNI: *F.Lestib.*\]
 
 #### Herbarium and types
 

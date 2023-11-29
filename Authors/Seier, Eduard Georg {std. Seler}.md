@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33333636) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33333636) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9454-1), [Wikidata](https://www.wikidata.org/wiki/Q68705). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seier, Eduard Georg (1849-1922), German (Prussian) plant collector, archeologist and ethnologist; studied at the universities of Breslau and Berlin; on active service in the Franco-Prussian war; state teacher's examination 1875; high school teacher at Berlin 1876-1879; turned to ethnological studies; Dr. phil. Leipzig 1887; assistant (1892) later divisional director (1904) at the Berlin ethnological museum; habil. Berlin 1894; professor of American languages 1899; travelled in Mexico and Central America 1887-1888, 1895-1897, 1902-1903, 1904-1905, 1910-1911; mainly studying the Maya culture but also collecting plants. 
-**Abbreviated name**: *Seler*
+**Abbreviated name**: *Seler* \[standard form in IPNI: *Seler*\]
 
 #### Herbarium and types
 

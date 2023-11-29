@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/page/33333897) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/page/33333897) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9925-1), [Wikidata](https://www.wikidata.org/wiki/Q10324686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sousa da Câmara, Manuel de (1871-1955), Portuguese mycologist and phytopathologist; studied at the Instituto Agronómico de Lisboa; with the Instituto Superior de Agronomia e Veterinária, from 1901 and its Laboratorio "Verissimo de Almeida" at Lisboa; vice-director of the Instituto 1912, director 1918 (effective 1919)-1942. 
-**Abbreviated name**: *Sousa da Câmara*
+**Abbreviated name**: *Sousa da Câmara* \[standard form in IPNI: *Sousa da Câmara*\]
 
 #### Herbarium and types
 

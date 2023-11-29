@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33068347) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33068347) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/34830-1), [Wikidata](https://www.wikidata.org/wiki/Q7911480). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Havard, Valéry (1846-1927), French-born American physician and botanist; at Manhattan College, New York 1865; at San Francisco 1869; surgeon U.S. Army 1871; president of the Army Medical School 1906-1910. 
-**Abbreviated name**: *Havard*
+**Abbreviated name**: *Havard* \[standard form in IPNI: *Havard*\]
 
 #### Herbarium and types
 

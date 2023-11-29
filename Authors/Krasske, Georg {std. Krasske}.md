@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33068906) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33068906) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5034-1), [Wikidata](https://www.wikidata.org/wiki/Q21517895). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krasske, Georg (1889-1951), German diatomologist; teacher at the Volksschule Wattenbach near Kassel 1908-1913; later at Kassel, from 1923-1951 as high school teacher at the middle school for boys. 
-**Abbreviated name**: *Krasske*
+**Abbreviated name**: *Krasske* \[standard form in IPNI: *Krasske*\]
 
 #### Herbarium and types
 

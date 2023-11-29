@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33266378) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33266378) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1129-1), [Wikidata](https://www.wikidata.org/wiki/Q10305051). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brewer, James Alexander {std. Brewer}|first entry]] for this author
 
 ### Author
 
 \* Brewer, James Alexander (1818-1886), British botanist, living in Reigate, Surrey, collected some time in Australia, ultimately at Tonbridge, Kent. 
-**Abbreviated name**: *Brewer*
+**Abbreviated name**: *Brewer* \[standard form in IPNI: *Brewer*\]
 
 #### Herbarium and types
 

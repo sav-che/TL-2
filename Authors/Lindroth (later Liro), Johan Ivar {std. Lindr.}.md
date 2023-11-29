@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33355149) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33355149) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22387-1), [Wikidata](https://www.wikidata.org/wiki/Q2843266). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lindroth \[later: Liro\], Johan Ivar (1872-1943), Finnish botanist; 1921-1928 at Turku; later director of the phytopathological institute at Helsinki. 
-**Abbreviated name**: *Lindr.*
+**Abbreviated name**: *Lindr.* \[standard form in IPNI: *Lindr.*\]
 
 #### Herbarium and types
 

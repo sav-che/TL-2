@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33068940) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33068940) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12634-1), [Wikidata](https://www.wikidata.org/wiki/Q62853). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kuntze, Carl Ernst Otto (1843-1907), German traveller, botanist and polemic nomenclatural reformer; Dr. phil. Freiburg i.B. 1878; travelled around the world 1874-1876 and in 1904. 
-**Abbreviated name**: *Kuntze*
+**Abbreviated name**: *Kuntze* \[standard form in IPNI: *Kuntze*\]
 
 #### Herbarium and types
 

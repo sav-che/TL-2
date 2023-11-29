@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/page/33120963) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/page/33120963) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2735-1), [Wikidata](https://www.wikidata.org/wiki/Q5749262). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fingerhuth, Carl Anton (1798-1876), German botanist and physician at Esch near Euskirchen. 
-**Abbreviated name**: *Fingerh.*
+**Abbreviated name**: *Fingerh.* \[standard form in IPNI: *Fingerh.*\]
 
 #### Herbarium and types
 

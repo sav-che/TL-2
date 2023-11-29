@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33212772) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33212772) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/28367-1), [Wikidata](https://www.wikidata.org/wiki/Q3103608). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Viennot-Bourgin, Georges (1906-x), French mycologist at the École national d'Agriculture de Grignon. 
-**Abbreviated name**: *Vien.-Bourg.*
+**Abbreviated name**: *Vien.-Bourg.* \[standard form in IPNI: *Vienn.-Bourg.*\]
 
 #### Herbarium and types
 

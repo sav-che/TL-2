@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33355390) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33355390) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6126-1), [Wikidata](https://www.wikidata.org/wiki/Q4281914). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marquis, Alexandre Louis (1777-1828), French professor of botany; Dr. med. 1810; professor of botany at Rouen 1811-1828. 
-**Abbreviated name**: *Marquis*
+**Abbreviated name**: *Marquis* \[standard form in IPNI: *Marquis*\]
 
 #### Herbarium and types
 

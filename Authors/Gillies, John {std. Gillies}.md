@@ -29,14 +29,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 946](https://www.biodiversitylibrary.org/page/33121077) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 946](https://www.biodiversitylibrary.org/page/33121077) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/19349-1), [Wikidata](https://www.wikidata.org/wiki/Q15387). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gillies, John (1792-1834), Scottish physician and botanist, lived in Argentina 1820-1828, collected in Argentina, Brazil and Chile. 
-**Abbreviated name**: *Gillies*
+**Abbreviated name**: *Gillies* \[standard form in IPNI: *Gillies*\]
 
 #### Herbarium and types
 

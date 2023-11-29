@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33212058) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33212058) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10236-1), [Wikidata](https://www.wikidata.org/wiki/Q6118669). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Strutt, Jacob George (*fl*. 1820-1850), British landscape painter and etcher; at Lausanne and Rome 1830-1851. 
-**Abbreviated name**: *Strutt*
+**Abbreviated name**: *Strutt* \[standard form in IPNI: *Strutt*\]
 
 #### Herbarium and types
 

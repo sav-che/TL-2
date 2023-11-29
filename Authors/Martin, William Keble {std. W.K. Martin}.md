@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33355408) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33355408) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6161-1), [Wikidata](https://www.wikidata.org/wiki/Q14945445). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Martin, William Keble (1877-1969), British clergyman, botanist and botanical artist; MA Oxon 1899; curate 1902-1909; vicar, Wath-upon-Dearne, Rotherham 1909-1921; rector Haccombe, Devon, 1921-1934; Great Torrington 1934-1943; Combe-in-Teignhead 1943-1949. 
-**Abbreviated name**: *W. K. Martin*
+**Abbreviated name**: *W. K. Martin* \[standard form in IPNI: *Keble Martin*\]
 
 #### Herbarium and types
 

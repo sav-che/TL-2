@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 862](https://www.biodiversitylibrary.org/page/33334001) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 862](https://www.biodiversitylibrary.org/page/33334001) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12883-1), [Wikidata](https://www.wikidata.org/wiki/Q16045681). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steenis-Kruseman, Maria Johanna van (until 1927 M.J. Kruseman) (1904-x), Dutch botanical bibliographer and biographer, married C.G.G.J, van Steenis 1927. 
-**Abbreviated name**: *Steenis-Kruseman*
+**Abbreviated name**: *Steenis-Kruseman* \[standard form in IPNI: *Steen.-Krus.*\]
 
 #### Herbarium and types
 

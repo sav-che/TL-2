@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-04-21 11:26:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33266073) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33266073) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1823-1), [Wikidata](https://www.wikidata.org/wiki/Q5698064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Costa y Cuxart, Antonio Cipriano {std. Costa}|first entry]] for this author
 
 ### Author
 
 \* Costa y Cuxart, Antonio Cipriano (1817-1886), Spanish botanist at Barcelona, born 26 Sep 1817, died 16 Jul 1886, professor at Barcelona. 
-**Abbreviated name**: *Costa*
+**Abbreviated name**: *Costa* \[standard form in IPNI: *Costa*\]
 
 #### Herbarium and types
 

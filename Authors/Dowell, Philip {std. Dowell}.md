@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33260068) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33260068) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2294-1), [Wikidata](https://www.wikidata.org/wiki/Q18910841). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dowell, Philip (1864-1936), American botanist and entomologist, born at Attica, Indiana, 3 Dec 1864, died 25 Jun 1936, A.B. 1885, A.M. 1895, Ph.D. 1900 at Muhlenberg College, assistant in the U.S. Natl. Museum 1902-1929 as well as teacher in the Curtis and Port Richmond high schools of the New York system, associate editor of the Bulletin of the Torrey Botanical Club 1907-1911, editor-in-chief 1911-1913. 
-**Abbreviated name**: *Dowell*
+**Abbreviated name**: *Dowell* \[standard form in IPNI: *Dowell*\]
 
 #### Herbarium and types
 

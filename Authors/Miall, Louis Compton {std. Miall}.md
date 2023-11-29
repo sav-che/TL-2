@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33355540) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33355540) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6425-1), [Wikidata](https://www.wikidata.org/wiki/Q18030347). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Miall, Louis Compton (1842-1921), British botanist, entomologist, and palaeontologist; professor of biology at Yorkshire College of Science (Leeds University) 1876-1907. 
-**Abbreviated name**: *Miall*
+**Abbreviated name**: *Miall* \[standard form in IPNI: *Miall*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33333443) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33333443) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9240-1), [Wikidata](https://www.wikidata.org/wiki/Q112191). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schott, Heinrich Wilhelm (1794-1865), Moravian-born Austrian botanist; gardener at the Belvedere palace, Wien 1815; with J.C. Mikan, Natterer and J.B.E. Pohl to Brazil 1817-1821; gardener at Schönbrunn 1821; director id. 1845-1865; Dr. phil. h.c. Jena 1858. 
-**Abbreviated name**: *Schott*
+**Abbreviated name**: *Schott* \[standard form in IPNI: *Schott*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33212796) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33212796) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11217-1), [Wikidata](https://www.wikidata.org/wiki/Q21611792). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Visher, Stephen Sargent (1887-1967), American geographer and botanist; B.S. Univ. Chicago 1909, Dr. phil. ib. 1914; instructor in geology Univ. South Dakota 1910-1913; professor of geography State College Moorhead, Minn. 1915-1917; assistant professor Indiana Univ. 1919-1922, associate professor 1922-1936, professor from 1936. 
-**Abbreviated name**: *Visher*
+**Abbreviated name**: *Visher* \[standard form in IPNI: *Visher*\]
 
 #### Herbarium and types
 

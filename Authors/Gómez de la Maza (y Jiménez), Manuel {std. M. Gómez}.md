@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-07-29 14:44:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33258769) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33258769) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3255-1), [Wikidata](https://www.wikidata.org/wiki/Q3286846). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gómez de la Maza \[y Jiménez\], Manuel (1867-1916), Cuban botanist and physician, born 10 Mai 1867 in Havana, Doctorate in Medicine and Natural Sciences 1887 Univ. of Havana, prof. of botany and phytogeography, Univ. of Havana, died 26 Jan 1916 in Havana, "... era un botánico de gabinete" who on his death left numerous unpublished mss. 
-**Abbreviated name**: *M. Gómez*
+**Abbreviated name**: *M. Gómez* \[standard form in IPNI: *M.Gómez*\]
 
 #### Note
 

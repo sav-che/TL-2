@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33333808) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33333808) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9780-1), [Wikidata](https://www.wikidata.org/wiki/Q5111622). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Christo Albertyn (1898-1956), South African botanist; B.Sc. Stellenbosch 1920; high school teacher 1921-1924; with the Division of Botany, Pretoria 1925-1946; stationed at Royal Botanic Gardens, Kew, 1928-1931; Dept. of State Information 1946, information officer at Canberra 1954. 
-**Abbreviated name**: *C.A. Sm.*
+**Abbreviated name**: *C.A. Sm.* \[standard form in IPNI: *C.A.Sm.*\]
 
 #### Herbarium and types
 

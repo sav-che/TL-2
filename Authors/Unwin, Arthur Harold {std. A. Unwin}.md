@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33212645) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33212645) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10990-1), [Wikidata](https://www.wikidata.org/wiki/Q21611254). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Unwin, Arthur Harold (1878-?), German (British?) forester; Dr. oec. pub. München; conservator of forests in Nigeria; later principal officer at Nicosia, Cyprus. 
-**Abbreviated name**: *A. Unwin*
+**Abbreviated name**: *A. Unwin* \[standard form in IPNI: *A.Unwin*\]
 
 #### Herbarium and types
 

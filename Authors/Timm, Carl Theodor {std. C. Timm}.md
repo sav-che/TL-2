@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33212403) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33212403) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10674-1), [Wikidata](https://www.wikidata.org/wiki/Q21610751). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Timm, Carl Theodor (1824-1907), German (Hamburg) teacher and botanist; head teacher of the Hessische Privatschule, Hamburg 1857-1872, with the Volksschuldienst Hamburg 1872-1887; active amateur floristic botanist, with special interest in bryophytes and lichens. 
-**Abbreviated name**: *C. Timm*
+**Abbreviated name**: *C. Timm* \[standard form in IPNI: *C.Timm*\]
 
 #### Herbarium and types
 

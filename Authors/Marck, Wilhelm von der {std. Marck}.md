@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33355378) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33355378) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6096-1), [Wikidata](https://www.wikidata.org/wiki/Q1457952). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marck, Wilhelm von der (1814-1900), German pharmacist and naturalist at Hamm; from 1866 living as "Privatgelehrter". 
-**Abbreviated name**: *Marck*
+**Abbreviated name**: *Marck* \[standard form in IPNI: *Marck*\]
 
 #### Herbarium and types
 

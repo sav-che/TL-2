@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33333591) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33333591) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9381-1), [Wikidata](https://www.wikidata.org/wiki/Q4524659). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schychowsky, Iwan (*fl*. 1832), Russian (Kaluga-born) botanist; Dr. phil. Dorpat 1832. 
-**Abbreviated name**: *Schychowsky*
+**Abbreviated name**: *Schychowsky* \[standard form in IPNI: *Schych.*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33212221) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33212221) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10451-1), [Wikidata](https://www.wikidata.org/wiki/Q4452735). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Taubert, Paul \[Hermann Wilhelm\] (1862-1897), German (Berlin) botanist; Dr. phil. Berlin 1889 (student of I. Urban); travelled and collected in Cyrenaica (1887); associated with the Berlin Botanical Museum 1889-1895 (1893-1895 as scientific assistant); in 1896 in Brazil, ultimately at Manaos. 
-**Abbreviated name**: *Taub.*
+**Abbreviated name**: *Taub.* \[standard form in IPNI: *Taub.*\]
 
 #### Herbarium and types
 

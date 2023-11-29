@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33264820) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33264820) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/30820-1), [Wikidata](https://www.wikidata.org/wiki/Q21505154). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Amann, \[Jean\] Jules (1859-1939), Swiss bryologist, studied pharmacy at the University of Lausanne, led toward bryology by L. Farrat, pharmacist at Davos, moved to Zürich 1893 and somewhat later to Lausanne, again in charge of pharmacy, Dr. phil. Lausanne 1900, dedicated himself to his chemical and bacteriological laboratory 1903, later to cryptogamic research, Dr. Sci. 1900, Dr. h.c. 1928 (École polytechn. féderale). 
-**Abbreviated name**: *Amann*
+**Abbreviated name**: *Amann* \[standard form in IPNI: *J.J.Amann*\]
 
 #### Herbarium and types
 

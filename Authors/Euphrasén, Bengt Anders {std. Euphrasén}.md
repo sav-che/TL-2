@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/page/33120937) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/page/33120937) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2588-1), [Wikidata](https://www.wikidata.org/wiki/Q456738). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Euphrasén, Bengt Anders (1756-1796), Swedish botanist who made a journey to the Swedish West Indies in 1788. 
-**Abbreviated name**: *Euphrasén*
+**Abbreviated name**: *Euphrasén* \[standard form in IPNI: *Euphrasén*\]
 
 #### Herbarium and types
 

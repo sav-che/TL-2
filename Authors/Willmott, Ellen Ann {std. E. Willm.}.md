@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33066686) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33066686) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11724-1), [Wikidata](https://www.wikidata.org/wiki/Q2425165). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Willmott, Ellen Ann (1858-1934), British horticulturist, had gardens at Warley Place, Essex, Aix-les-Bains and on the Riviera. 
-**Abbreviated name**: *E. Willm.*
+**Abbreviated name**: *E. Willm.* \[standard form in IPNI: *E.Willm.*\]
 
 #### Herbarium and types
 

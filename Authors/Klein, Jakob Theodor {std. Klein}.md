@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33068806) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33068806) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4835-1), [Wikidata](https://www.wikidata.org/wiki/Q65219). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Klein, Jakob Theodor (1685-1759), German botanist, born at Königsberg, municipal secretary at Danzig. 
-**Abbreviated name**: *Klein*
+**Abbreviated name**: *Klein* \[standard form in IPNI: *Klein*\]
 
 #### Herbarium and types
 

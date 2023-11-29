@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2015-01-22 10:37:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33355792) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33355792) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6887-1), [Wikidata](https://www.wikidata.org/wiki/Q1848893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Née, Luis (17..-18..), French botanist, later naturalized Spaniard; on the Malaspina expedition in La Descubierta and La Atrevida, 1789-1794 
-**Abbreviated name**: *Née*
+**Abbreviated name**: *Née* \[standard form in IPNI: *Née*\]
 
 #### Herbarium and types
 

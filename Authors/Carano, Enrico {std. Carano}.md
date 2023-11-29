@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33266706) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33266706) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1393-1), [Wikidata](https://www.wikidata.org/wiki/Q3725660). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Carano, Enrico (1877-1943), Italian botanist, born and died at Gioia del Colle, studied at the University of Roma until 1901, assistant of Pirotta 1902, professor in 1910, director of the Giardino dei Semplici, Firenze 1922-1925, id. at the R. Orto Botanico delle R. Università de Roma 1928-1943. 
-**Abbreviated name**: *Carano*
+**Abbreviated name**: *Carano* \[standard form in IPNI: *Carano*\]
 
 #### Herbarium and types
 

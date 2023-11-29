@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33265999) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33265999) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1781-1), [Wikidata](https://www.wikidata.org/wiki/Q1548577). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cook, Orator Fuller (1867-1949), American botanist, born in Clyde, New York, graduated at Syracuse University 1890, instructor ib. 1891, married Alice Cook (née Carter) in 1892, from 1891-1898 agent of the State Colonization Society in Liberia (at Huntington, N.Y.), in 1897 curator of the cryptogams at the National Herbarium at Washington D.C., joined U.S.D.A. 1898, until his retirement 1927, maintained an office also after 1927. 
-**Abbreviated name**: *O.F. Cook*
+**Abbreviated name**: *O.F. Cook* \[standard form in IPNI: *O.F.Cook*\]
 
 #### Herbarium and types
 

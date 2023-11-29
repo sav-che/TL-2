@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33066368) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33066368) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11328-1), [Wikidata](https://www.wikidata.org/wiki/Q6780882). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walcott, Mary Vaux (1860-1940), American botanical artist; married Charles Doolittle Walcott 30 Jun 1914. 
-**Abbreviated name**: *M. Walcott*
+**Abbreviated name**: *M. Walcott* \[standard form in IPNI: *M.Walcott*\]
 
 #### Herbarium and types
 

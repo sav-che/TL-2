@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33260219) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33260219) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2439-1), [Wikidata](https://www.wikidata.org/wiki/Q21511285). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eames, Edwin Hubert (1865-1948), American amateur botanist, born 9 Jul 1865, Brooklyn, N.Y., plant collector in Connecticut, New Jersey, and Newfoundland, died 1948. 
-**Abbreviated name**: *Eames*
+**Abbreviated name**: *Eames* \[standard form in IPNI: *Eames*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33266523) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33266523) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1274-1), [Wikidata](https://www.wikidata.org/wiki/Q241018). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buining, Albert Frederik Hendrik (1901-1976), Dutch botanist, student of succulents, president of the Dutch "Succulenta" 1940-1968, travelled in South America collecting succulents. 
-**Abbreviated name**: *Buining*
+**Abbreviated name**: *Buining* \[standard form in IPNI: *Buining*\]
 
 #### Herbarium and types
 

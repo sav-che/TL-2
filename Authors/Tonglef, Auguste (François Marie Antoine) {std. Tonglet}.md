@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33212434) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33212434) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12939-1), [Wikidata](https://www.wikidata.org/wiki/Q21610850). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tonglef, Auguste \[François Marie Antoine\] (1864-1936), Belgian provincial administrator and lichenologist at Namur until 1929. 
-**Abbreviated name**: *Tonglet*
+**Abbreviated name**: *Tonglet* \[standard form in IPNI: *Tonglet*\]
 
 #### Herbarium and types
 

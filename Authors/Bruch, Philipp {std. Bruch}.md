@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33120504) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33120504) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1205-1), [Wikidata](https://www.wikidata.org/wiki/Q77652). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bruch, Philipp {std. Bruch} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bruch, Philipp (1781-1847), German pharmacist and bryologist at Zweibrücken. 
-**Abbreviated name**: *Bruch*
+**Abbreviated name**: *Bruch* \[standard form in IPNI: *Bruch*\]
 
 #### Herbarium and types
 

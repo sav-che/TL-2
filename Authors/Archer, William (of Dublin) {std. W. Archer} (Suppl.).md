@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33264873) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33264873) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/254-1), [Wikidata](https://www.wikidata.org/wiki/Q10426833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Archer, William {std. W. Archer}|first entry]] for this author
 
 ### Author
 
 \* Archer, William (of Dublin) (1830-1897), Irish botanist and microscopist, librarian, Royal Dublin Society 1876, id. to National Library of Ireland 1877-1895. 
-**Abbreviated name**: *W. Archer, Dubl.*
+**Abbreviated name**: *W. Archer, Dubl.* \[standard form in IPNI: *W.Archer*\]
 
 #### Note
 

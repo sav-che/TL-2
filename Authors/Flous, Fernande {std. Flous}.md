@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33259775) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33259775) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2793-1), [Wikidata](https://www.wikidata.org/wiki/Q5859097). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Flous, Fernande (1908-1941), French botanist who specialized in Coniferae, Dr. ès-sciences 1936 Toulouse, asst. to H.M. Gaussen of the botanical lab., Faculty of Science, Toulouse, awarded Prix Gandoger 1937. 
-**Abbreviated name**: *Flous*
+**Abbreviated name**: *Flous* \[standard form in IPNI: *Flous*\]
 
 #### Herbarium and types
 

@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 516](https://www.biodiversitylibrary.org/page/33120647) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 516](https://www.biodiversitylibrary.org/page/33120647) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1712-1), [Wikidata](https://www.wikidata.org/wiki/Q2506718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cockerell, Theodore Dru Alison {std. Cockerell} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Cockerell, Theodor Dru Alison (1866-1948), British born American naturalist. 
-**Abbreviated name**: *Cockerell*
+**Abbreviated name**: *Cockerell* \[standard form in IPNI: *Cockerell*\]
 
 #### Herbarium and types
 

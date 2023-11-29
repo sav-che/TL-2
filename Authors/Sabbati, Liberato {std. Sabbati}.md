@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1021](https://www.biodiversitylibrary.org/page/33190492) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1021](https://www.biodiversitylibrary.org/page/33190492) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8780-1), [Wikidata](https://www.wikidata.org/wiki/Q21607594). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sabbati, Liberato (ca. 1714-?), Italian (Umbrian) botanist and gardener; curator of a botanical garden and surgeon in Roma. 
-**Abbreviated name**: *Sabbati*
+**Abbreviated name**: *Sabbati* \[standard form in IPNI: *Sabbati*\]
 
 #### Herbarium and types
 

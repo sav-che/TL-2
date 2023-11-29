@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33258895) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33258895) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3418-1), [Wikidata](https://www.wikidata.org/wiki/Q21338717). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Grout, Abel Joel {std. Grout}|first entry]] for this author
 
 ### Author
 
 \* Grout, Abel Joel (1867-1947), American bryologist, born 24 Mar 1867 in Newfane (Windham Co.), Vermont, Ph.B. 1890 Univ. of Vermont, Ph.D. 1897 Columbia College, New York, New York (under Elizabeth G. Britton), taught at various high-schools in Vermont, New Hampshire and New York state until retirement in 1930 when he was made a research staff member, Cold Spring Harbor Lab., Long Island, New York and hon. curator of mosses, New York Botanical Garden 1943-1947, died 27 Mar 1947 in East Bradenton, Florida, "My interest in mosses began in the early \[18\]90's largely because I could collect and study them in winter...." 
-**Abbreviated name**: *Grout*
+**Abbreviated name**: *Grout* \[standard form in IPNI: *Grout*\]
 
 #### Herbarium and types
 

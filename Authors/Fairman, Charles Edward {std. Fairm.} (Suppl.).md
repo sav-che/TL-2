@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33259526) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33259526) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18628-1), [Wikidata](https://www.wikidata.org/wiki/Q5077090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fairman, Charles Edward {std. Fairm.}|first entry]] for this author
 
 ### Author
 
 \* Fairman, Charles Edward (1856-1934), American mycologist, born 28 Dec 1856 in Yates Center (Orleans Co.), New York, moved to Alton, Illinois, studied at Shurtleff College, Alton, until 1873, A.B. 1874 and \[hon.?\] M.A 1877 Univ. of Rochester, Rochester, New York, M.D. 1877 St. Louis Medical School (now Washington Univ.), practiced medicine in Lyndonville nr. his birthplace, began to study fungi (esp. Pyrenomycetes) ca. 1886, studied fungi at New York Botanical Garden 1910, died 27 Dec 1934 in Lyndonville, New York. 
-**Abbreviated name**: *Fairm.*
+**Abbreviated name**: *Fairm.* \[standard form in IPNI: *Fairm.*\]
 
 #### Herbarium and types
 

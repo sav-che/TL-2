@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2005-10-17 04:14:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 873](https://www.biodiversitylibrary.org/page/33121004) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 873](https://www.biodiversitylibrary.org/page/33121004) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2885-1), [Wikidata](https://www.wikidata.org/wiki/Q1337783). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fraser, John {std. Fraser} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fraser, John (1750-1811), Scottish hosier, later plant collector and traveller in North America who established a nursery at Chelsea 1795. 
-**Abbreviated name**: *Fraser*
+**Abbreviated name**: *Fraser* \[standard form in IPNI: *Fraser*\]
 
 #### Herbarium and types
 

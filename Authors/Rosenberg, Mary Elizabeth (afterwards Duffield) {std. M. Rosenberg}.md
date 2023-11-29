@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33190360) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33190360) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12790-1), [Wikidata](https://www.wikidata.org/wiki/Q19324905). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rosenberg, Mary Elizabeth (afterwards: Duffield) (1820-1914), British (English) flower painter of Bath, Somerset; married William Duffield 1850. 
-**Abbreviated name**: *M. Rosenberg*
+**Abbreviated name**: *M. Rosenberg* \[standard form in IPNI: *M.E.Rosenb.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33355324) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33355324) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/35184-1), [Wikidata](https://www.wikidata.org/wiki/Q18731554). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Macvicar, John Gibson (1801-1884), Scottish clergyman and botanist; M. A. St. Andrews, pastor Scottish Church in Ceylon 1839-1852; minister at Moffat 1853-1884. 
-**Abbreviated name**: *J. Macvicar*
+**Abbreviated name**: *J. Macvicar* \[standard form in IPNI: *J.Macvicar*\]
 
 #### Herbarium and types
 

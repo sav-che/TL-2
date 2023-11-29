@@ -25,16 +25,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265308) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265308) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/716-1), [Wikidata](https://www.wikidata.org/wiki/Q73244). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bernstein, Heinrich Agathon {std. Bernstein}|first entry]] for this author
 
 ### Author
 
 \* Bernstein, Heinrich Agathon (1828-1865), German (Schlesien, Breslau) physician and naturalist, went to Java 1854, first physician of the Health Establishment at Gadok near Bogor (Buitenzorg), from 1860 bringing together zoological collections for the Museum of Natural History at Leiden, Netherlands. 
-**Abbreviated name**: *Bernstein*
+**Abbreviated name**: *Bernstein* \[standard form in IPNI: *Bernstein*\]
 
 #### Herbarium and types
 

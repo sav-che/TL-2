@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33068962) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33068962) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5205-1), [Wikidata](https://www.wikidata.org/wiki/Q891966). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lagasca y Segura \[La Gasca\], Mariano (1776-1839), Spanish botanist at the Madrid botanical garden; in exile to England 1822; in Jersey 1831-1834; back to Spain 1834-1839. 
-**Abbreviated name**: *Lag.*
+**Abbreviated name**: *Lag.* \[standard form in IPNI: *Lag.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33260135) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33260135) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2355-1), [Wikidata](https://www.wikidata.org/wiki/Q21391810). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Duffort, Louis (1846-1923), French pharmacist and specialist on roses, born 7 Mar 1846 at Masseube (Gers), had a pharmacy in Masseube, died 1923. 
-**Abbreviated name**: *Duffort*
+**Abbreviated name**: *Duffort* \[standard form in IPNI: *Duffort*\]
 
 #### Herbarium and types
 

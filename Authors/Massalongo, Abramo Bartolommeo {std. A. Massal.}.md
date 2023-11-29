@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33355436) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33355436) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23008-1), [Wikidata](https://www.wikidata.org/wiki/Q4284176). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Massalongo, Abramo Bartolommeo (1824-1860), Italian lichenologist and palaeobotanist; high school teacher at Verona; with G. W. Koerber founder of the "Italian-Silesian" school of lichenology. 
-**Abbreviated name**: *A. Massal.*
+**Abbreviated name**: *A. Massal.* \[standard form in IPNI: *A.Massal.*\]
 
 #### Herbarium and types
 

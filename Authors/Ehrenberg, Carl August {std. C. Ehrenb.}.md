@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33120858) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33120858) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2481-1), [Wikidata](https://www.wikidata.org/wiki/Q121703). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ehrenberg, Carl August (1801-1849), German merchant and plant collector in the West Indies and Mexico, brother of C. G. Ehrenberg. 
-**Abbreviated name**: *C. Ehrenb.*
+**Abbreviated name**: *C. Ehrenb.* \[standard form in IPNI: *C.Ehrenb.*\]
 
 #### Herbarium and types
 

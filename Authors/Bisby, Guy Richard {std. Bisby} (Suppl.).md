@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33265371) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33265371) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16154-1), [Wikidata](https://www.wikidata.org/wiki/Q15977605). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bisby, Guy Richard {std. Bisby}|first entry]] for this author
 
 ### Author
 
 \* Bisby, Guy Richard (1889-1958), American (South Dakota-born) mycologist and plant-pathologist, studied at the South Dakota State College at Brookings S.D., B.Sc. 1912, plant pathologist at the Brooklyn Botanic Garden, New York 1913, studied concurrently at Columbia University 1914-1915 (M.A. 1915) and worked sometime for the American Potato Corporation (Presque Isle), assistant in botany at the Indiana Agricultural Experiment Station, Lafayette 1915, assistant professor with E.C. Stakman at Minnesota, Ph.D. ib. 1920, professor of plant pathology in the University of Manitoba, Winnipeg, Canada 1920-1936, stage at Imperial Bureau of Mycology, Kew 1921-1922, at the Commonwealth Mycological Institute, Kew 1937-1954. 
-**Abbreviated name**: *Bisby*
+**Abbreviated name**: *Bisby* \[standard form in IPNI: *Bisby*\]
 
 #### Herbarium and types
 

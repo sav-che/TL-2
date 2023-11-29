@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33212443) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33212443) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10754-1), [Wikidata](https://www.wikidata.org/wiki/Q1346660). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Torrey, John (1796-1873), American botanist and chemist; studied medicine at the College of Physicians and Surgeons, New York (M.D. 1818), practicing physician New York 1818-1822; professor of chemistry at the United States Military Academy, West Point 1824-1827, id. at New York College of physicians and surgeons 1827-1855, trustee id. 1856-1873, id. concurrently at Princeton 1830-1855; United States Assayer, U.S. Mint, New York 1853-1873; first president of the Torrey botanical Club. 
-**Abbreviated name**: *Torr.*
+**Abbreviated name**: *Torr.* \[standard form in IPNI: *Torr.*\]
 
 #### Herbarium and types
 

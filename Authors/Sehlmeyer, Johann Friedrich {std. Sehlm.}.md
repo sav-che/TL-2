@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33333628) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33333628) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9429-1), [Wikidata](https://www.wikidata.org/wiki/Q21608620). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sehlmeyer, Johann Friedrich (1788-1856), German (Hannover) botanist and pharmacist; from circa 1821 until 1852 in charge of the "Hofapothek" in Köln. 
-**Abbreviated name**: *Sehlm.*
+**Abbreviated name**: *Sehlm.* \[standard form in IPNI: *Sehlm.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33260241) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33260241) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18356-1), [Wikidata](https://www.wikidata.org/wiki/Q21388258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eckfeldt, John Wiegand (1851-1933), American physician and botanist, born Philadelphia, Pennsylvania 29 Jan 1851, died at Brookline, Pennsylvania 5 Oct 1933, studied at the Lauderback Academy, entering the University of Pennsylvania Sep 1869, graduating in medicine 12 Mar 1872, practising professor at Haverford, Delaware County, until 1888, moved to Philadelphia. 
-**Abbreviated name**: *Eckfeldt*
+**Abbreviated name**: *Eckfeldt* \[standard form in IPNI: *Eckfeldt*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33333704) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33333704) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9580-1), [Wikidata](https://www.wikidata.org/wiki/Q3257525). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shinners, Lloyd \[Herbert\] (1918-1971), Canadian born American botanist from 1912 in the United States; Dr. phil. Univ. Wisconsin 1943; botanist with the Milwaukee County Park Board 1944-1945; research assistant at Southern Methodist University; director of the herbarium ib., full professor from 1960; specialist on N. American Compositae. 
-**Abbreviated name**: *Shinners*
+**Abbreviated name**: *Shinners* \[standard form in IPNI: *Shinners*\]
 
 #### Herbarium and types
 

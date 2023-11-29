@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33333720) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33333720) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9610-1), [Wikidata](https://www.wikidata.org/wiki/Q21608854). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sidebotham, Joseph (1822-1884), British botanist, entomologist, astronomer and calico printer; co-founder of the Manchester Field Naturalist's Society; partner of the firm of the Strines Printing Company, Manchester, 1849-1876. 
-**Abbreviated name**: *Sideboth.*
+**Abbreviated name**: *Sideboth.* \[standard form in IPNI: *Sideboth.*\]
 
 #### Herbarium and types
 

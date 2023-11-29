@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33120349) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33120349) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/803-1), [Wikidata](https://www.wikidata.org/wiki/Q13409387). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Biria, J.A. {std. Biria} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Biria, J. A. J. (*fl*. 1811), French student at Montpellier. 
-**Abbreviated name**: *Biria*
+**Abbreviated name**: *Biria* \[standard form in IPNI: *Biria*\]
 
 #### Herbarium and types
 

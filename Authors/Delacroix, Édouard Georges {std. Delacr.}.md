@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33259214) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33259214) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17896-1), [Wikidata](https://www.wikidata.org/wiki/Q6174201). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Delacroix, Édouard Georges (1858-1907), French botanist and pathologist (vegetable), born 24 Jan 1858, Montrouge, Seine, died 1 Nov 1907, Paris, 1886 with the Laboratoire de Pathologie végétale de l'Institut National agronomique (Paris), 1888 Chef des Travaux Pathologie végétale, 1895 maître de conférences de botanique descriptive, 1898 maître de conférences de Pathologie végétale, 1899 Directeur de la Station de Pathologie végétale. 
-**Abbreviated name**: *Delacr.*
+**Abbreviated name**: *Delacr.* \[standard form in IPNI: *Delacr.*\]
 
 #### Herbarium and types
 

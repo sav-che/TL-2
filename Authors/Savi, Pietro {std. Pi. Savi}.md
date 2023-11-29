@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33333226) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33333226) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/14966-1), [Wikidata](https://www.wikidata.org/wiki/Q3904238). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Savi, Pietro (1811-1871), Italian botanist; son of Gaetano Savi; professor of botany and director of the botanical garden of the University of Pisa 1842-1871. 
-**Abbreviated name**: *Pi. Savi*
+**Abbreviated name**: *Pi. Savi* \[standard form in IPNI: *Pi.Savi*\]
 
 #### Herbarium and types
 

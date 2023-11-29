@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33333369) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33333369) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9136-1), [Wikidata](https://www.wikidata.org/wiki/Q1765161). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmalhausen, Johannes Theodor \[Ivan Fedorovich Schmal'hausen, Shmargauzen\] (1849-1894), Russian aktuo- and palaeobotanist; studied at the University of St.-Petersburg ("Magister" 1874); studied with Heer and A. de Bary; Dr. phil. and habil. St. Petersburg 1877; from 1876-1879 curator at the botanical garden ib.; professor of botany at the University and director of the Botanical Garden of Kiew 1879-1894; member of the International Commission of botanical Nomenclature 1892-1894. 
-**Abbreviated name**: *Schmalh.*
+**Abbreviated name**: *Schmalh.* \[standard form in IPNI: *Schmalh.*\]
 
 #### Herbarium and types
 

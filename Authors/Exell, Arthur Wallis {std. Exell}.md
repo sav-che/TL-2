@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33120939) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33120939) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2606-1), [Wikidata](https://www.wikidata.org/wiki/Q2865378). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Exell, Arthur Wallis {std. Exell} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Exell, Arthur Wallis (1901-x), British botanist, worker on the Flora Zambesiaca and the flora of Angola. 
-**Abbreviated name**: *Exell*
+**Abbreviated name**: *Exell* \[standard form in IPNI: *Exell*\]
 
 #### Herbarium and types
 

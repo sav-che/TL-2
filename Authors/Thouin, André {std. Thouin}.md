@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33212339) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33212339) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10640-1), [Wikidata](https://www.wikidata.org/wiki/Q523100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thouin, André (1747-1824), French horticulturist and botanist; succeeded his father as head gardener of the Jardin des Plantes, Paris 1764-1824; from 1806 \[1793?\] as "Professeur de culture"; travelled in Auvergne 1780; in the Netherlands, Vlaanderen 1794-1795, in Italy 1796-1797. 
-**Abbreviated name**: *Thouin*
+**Abbreviated name**: *Thouin* \[standard form in IPNI: *Thouin*\]
 
 #### Herbarium and types
 

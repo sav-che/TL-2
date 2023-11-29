@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33189613) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33189613) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7452-1), [Wikidata](https://www.wikidata.org/wiki/Q3568538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Peck, William Dandridge (1763-1822), American botanist and entomologist; B.A. Harvard 1782; first professor of natural history at Harvard 1805-1822. 
-**Abbreviated name**: *W. Peck*
+**Abbreviated name**: *W. Peck* \[standard form in IPNI: *W.Peck*\]
 
 #### Herbarium and types
 

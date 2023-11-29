@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33333526) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33333526) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9308-1), [Wikidata](https://www.wikidata.org/wiki/Q47125888). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schulz, Franz (*fl*. 1869), German gardener and botanist at Berlin. 
-**Abbreviated name**: *F. Schultz.*
+**Abbreviated name**: *F. Schultz.* \[standard form in IPNI: *F.Schulz*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33066737) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33066737) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13025-1), [Wikidata](https://www.wikidata.org/wiki/Q6442708). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Witham, Henry Thomas Maire (né Silvertop) (1779-1844), British geologist and palaeobotanist; married Eliza Witham of Headlam 1800; sheriff of County Durham; from 1801-1826 living at Larbington, subsequently living in Edinburgh; founder, 1829, of the Natural History Society of Northumberland. 
-**Abbreviated name**: *Witham*
+**Abbreviated name**: *Witham* \[standard form in IPNI: *Witham*\]
 
 #### Herbarium and types
 

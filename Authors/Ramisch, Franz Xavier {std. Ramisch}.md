@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33190043) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33190043) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8127-1), [Wikidata](https://www.wikidata.org/wiki/Q21606939). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ramisch, Franz Xavier (1798-1859), Bohemian physician and botanist; Dr. med. Praha 1825; professor of medicine at Prague University; student of parthenogenesis. 
-**Abbreviated name**: *Ramisch*
+**Abbreviated name**: *Ramisch* \[standard form in IPNI: *Ramisch*\]
 
 #### Herbarium and types
 

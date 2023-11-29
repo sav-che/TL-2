@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 943](https://www.biodiversitylibrary.org/page/33190414) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 943](https://www.biodiversitylibrary.org/page/33190414) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8669-1), [Wikidata](https://www.wikidata.org/wiki/Q3130377). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roussel, Henri François Anne de (1748-1812), French (Normandy) botanist; Dr. med. Caen 1771 or 1772; professor of medicine at the University of Caen 1773; professor of medical botany ib. 1776; from 1801 professor of botany at the Faculté des Sciences, Caen (preceding J.V.F. Lamouroux); director of the Jardin botanique de la ville de Caen 1786-1797 and 1801-1812. 
-**Abbreviated name**: *Roussel*
+**Abbreviated name**: *Roussel* \[standard form in IPNI: *Roussel*\]
 
 #### Herbarium and types
 

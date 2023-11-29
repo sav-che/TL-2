@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33333243) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33333243) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12817-1), [Wikidata](https://www.wikidata.org/wiki/Q64830). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schaeffer, Gottlieb August Herrich \[Herrich-Schaeffer\] (1799-1874), German (Bavarian) botanist, entomologist and physician; Dr. med. Landshut 1821; practicing physician at Regensburg 1823 and 1828-1864; " Physikus" at Vohenstrauss 1824-1828; "Landesgerichtsarzt" for Stadtamhof, residing in Regensburg 1828-1833; regional and town physician ib. 1833-1856; from 1861-1874 director of the Regensburg bot. Gesellschaft and editor of Flora. 
-**Abbreviated name**: *Herr.-Schaeff.*
+**Abbreviated name**: *Herr.-Schaeff.* \[standard form in IPNI: *Herr.-Schaeff.*\]
 
 #### Herbarium and types
 

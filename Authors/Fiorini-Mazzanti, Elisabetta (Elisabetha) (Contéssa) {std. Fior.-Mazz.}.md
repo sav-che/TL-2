@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33259701) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33259701) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18816-1), [Wikidata](https://www.wikidata.org/wiki/Q1330591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fiorini-Mazzanti, Elisabetta \[Elisabetha\] (Contéssa) (1799-1879), Italian botanist, born 3 Jun 1799 in Terracina (Rome), student of Giovanni Battista Brocchi (prof. of natural sciences in Brescia), married in 1829 the lawyer Luca Mazzanti (d. 1841), lived in Rome but often returned to Terracina, was seriously ill during her last years, died 23 Apr 1879 in Rome. 
-**Abbreviated name**: *Fior.-Mazz.*
+**Abbreviated name**: *Fior.-Mazz.* \[standard form in IPNI: *Fior.-Mazz.*\]
 
 #### Herbarium and types
 

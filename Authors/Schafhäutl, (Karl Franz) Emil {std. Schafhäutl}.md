@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33333253) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33333253) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12822-1), [Wikidata](https://www.wikidata.org/wiki/Q73167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schafhäutl, \[Karl Franz\] Emil (1803-1890), German (Bavarian) self-made polyhistor and palaeontologist; Dr. phil. Dublin 1835, Dr. med. ib. 1838; curator (1842) of the State geological collections at München; professor of geology ib. 1843. 
-**Abbreviated name**: *Schafhäutl*
+**Abbreviated name**: *Schafhäutl* \[standard form in IPNI: *Schafh.*\]
 
 #### Herbarium and types
 

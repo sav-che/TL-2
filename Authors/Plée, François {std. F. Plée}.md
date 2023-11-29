@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33189765) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33189765) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7752-1), [Wikidata](https://www.wikidata.org/wiki/Q36556640). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Plée, François (*fl*. 1844), French botanical artist and author. 
-**Abbreviated name**: *F. Plée*
+**Abbreviated name**: *F. Plée* \[standard form in IPNI: *F.Plée*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33260070) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33260070) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18183-1), [Wikidata](https://www.wikidata.org/wiki/Q21392981). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dowson, Walter John (1887-1963), British botanist born at Bristol 22 Mai 1887, BA at Cambridge Christ's College 1909, MA University of Cambridge, FLS 1917-1928, D.Sc. London, government mycologist Kenya 1913-1919, Royal horticultural Society's Garden, Wisley 1920-1928, plant pathologist Tasmania 1928-1932, lecturer in mycology at Cambridge 1932-1952, died 1 Sep 1963. 
-**Abbreviated name**: *Dowson*
+**Abbreviated name**: *Dowson* \[standard form in IPNI: *Dowson*\]
 
 #### Herbarium and types
 

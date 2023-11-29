@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2004-07-05 09:01:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265507) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265507) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/12354-1), [Wikidata](https://www.wikidata.org/wiki/Q66180). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bongard, August Gustav Heinrich {std. Bong.}|first entry]] for this author
 
 ### Author
 
 \* Bongard, August Gustav Heinrich (1786-1839), German botanist and physician, born at Bonn, moved to St. Petersburg, originally as a practicing physician with the St. Petersburg nobility, later botanist with the Academy of Sciences ib. 
-**Abbreviated name**: *Bong.*
+**Abbreviated name**: *Bong.* \[standard form in IPNI: *Bong.*\]
 
 #### Herbarium and types
 

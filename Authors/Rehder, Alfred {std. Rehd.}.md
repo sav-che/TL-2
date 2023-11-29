@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33190121) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33190121) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8242-1), [Wikidata](https://www.wikidata.org/wiki/Q68949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rehder, Alfred (1863-1949), German (Saxony)-born botanist, dendrologist and gardener; at the Zwickau Gymnasium 1876-1881; apprentice to his father, Paul Julius Rehder, director of the park in Waldenburg, Saxony, 1881-1884; studied in Berlin 1884-1886, worked at Frankfurt a.M. and Muskau 1886-1888; head gardener at Darmstadt 1888-1889; id. at Göttingen 1889-1895; associate editor of Möller's Gärtner-Zeitung 1895-1898; to the United States 1898; assistant at the Arnold Arboretum, Jamaica Plain, Mass. 1898-1918; curator of the herbarium ib. 1918-1940; associate professor of dendrology at Harvard University 1934-1940; emeritus professor ib. 1940-1949. 
-**Abbreviated name**: *Rehd.*
+**Abbreviated name**: *Rehd.* \[standard form in IPNI: *Rehder*\]
 
 #### Herbarium and types
 

@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33333901) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33333901) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9934-1), [Wikidata](https://www.wikidata.org/wiki/Q1233369). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sowerby, James de Carle (1787-1871), British naturalist and artist, eldest son of James Sowerby and his closest collaborator; founder member of the Royal botanic Society and Gardens, Regent's Park, London 1838; secretary to this society 1839-1869. 
-**Abbreviated name**: *J. de C. Sowerby*
+**Abbreviated name**: *J. de C. Sowerby* \[standard form in IPNI: *J.C.Sowerby*\]
 
 #### Herbarium and types
 

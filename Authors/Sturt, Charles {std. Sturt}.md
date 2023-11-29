@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33212115) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33212115) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10257-1), [Wikidata](https://www.wikidata.org/wiki/Q548928). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sturt, Charles (1795-1869), British soldier, administrator, explorer and plant collector; in the British army 1813-1833 (from 1825-1833 in Australia); explored Southern Australia 1828-1831; on sick leave in England 1832-1834; settled in New South Wales 1834; surveyor general to South Australia; explored central Australia 1844-1846; colonial treasurer of South Australia 1846; colonial secretary id. 1849-1851; in retirement on his farm near Adelaide from 1851; died in England. 
-**Abbreviated name**: *Sturt*
+**Abbreviated name**: *Sturt* \[standard form in IPNI: *Sturt*\]
 
 #### Herbarium and types
 

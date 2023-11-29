@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33259673) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33259673) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2707-1), [Wikidata](https://www.wikidata.org/wiki/Q1871688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Feuillée, Louis Éconches {std. Feuillée}|first entry]] for this author
 
 ### Author
 
 \* Feuillée, Louis Éconches (Père) (1660-1732), French clergyman (Order of the Minims), explorer, astronomer, mathematician and botanist, born 15 Aug 1660 in Mane nr. Forcalquier, Provence (Basse-Alpes), educated at the convent of the Minimes in Avignon and then in Marseille, took his religious vows in Avignon 1680 (where he also met P. Charles Plumier), one of the great French botanical voyagers of the 18th century, traveled in the Levant (1699-1700) with Giovanni Dominico (a.k.a. Jean-Dominique) Cassini (1625-1712), Venezuela, Colombia and the Antilles (1703-1706), in Peru and Chile (1708-1712), and the Canary Isls. (1724), corr., Académie Royal des Sciences 1699, died 18 Apr 1732 in Marseille. 
-**Abbreviated name**: *Feuillée*
+**Abbreviated name**: *Feuillée* \[standard form in IPNI: *Feuillée*\]
 
 #### Herbarium and types
 

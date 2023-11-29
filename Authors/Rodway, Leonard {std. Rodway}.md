@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/page/33190305) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/page/33190305) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8494-1), [Wikidata](https://www.wikidata.org/wiki/Q4396077). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rodway, Leonard (1853-1936), British (Devon)-born dental surgeon and botanist; in Tasmania 1880-1936; hon. government botanist ib. 1896-1932; lecturer in botany at Univ. Tasmania 1922-1929; director of the herbarium and the botanic garden Hobart 1928-1932. 
-**Abbreviated name**: *Rodway*
+**Abbreviated name**: *Rodway* \[standard form in IPNI: *Rodway*\]
 
 #### Herbarium and types
 

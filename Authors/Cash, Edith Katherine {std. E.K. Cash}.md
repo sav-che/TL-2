@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33266752) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33266752) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16961-1), [Wikidata](https://www.wikidata.org/wiki/Q21338891). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cash, Edith Katherine (1890-x), American mycologist, studied at George Washington University, A.B. 1912, botanical translator, Bureau plant industr., USDA 1913-1924, junior pathologist 1924-1929, assistant pathologist and mycologist 1929-1944, associated mycologist 1944, subsequently in plant disease epidemics, horticultural crops research and ultimately at agricultural research service. 
-**Abbreviated name**: *E.K. Cash*
+**Abbreviated name**: *E.K. Cash* \[standard form in IPNI: *E.K.Cash*\]
 
 #### Herbarium and types
 

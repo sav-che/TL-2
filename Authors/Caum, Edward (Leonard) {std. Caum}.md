@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33266771) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33266771) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16998-1), [Wikidata](https://www.wikidata.org/wiki/Q5344117). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Caum, Edward \[Leonard\] (1893-x), American botanist, born at Philadelphia, Pa., A.B. Swarthmore College 1914, A.M. 1924, assistant pathologist at the Experiment Station Hawaiian Sugar Planters', Honolulu 1916-1922, assistant plant inspector Territorical Board Agriculture and Forestry 1922-1926, associate botanist at the Experiment Station Honolulu from 1826, B.P. Bishop Museum Honolulu from 1923. 
-**Abbreviated name**: *Caum*
+**Abbreviated name**: *Caum* \[standard form in IPNI: *Caum*\]
 
 #### Herbarium and types
 

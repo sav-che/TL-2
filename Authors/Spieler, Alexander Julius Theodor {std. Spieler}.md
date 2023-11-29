@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/page/33333928) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/page/33333928) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9968-1), [Wikidata](https://www.wikidata.org/wiki/Q21609292). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spieler, Alexander Julius Theodor (1817-?), German (Silesian) physician and botanist; Dr. med. Breslau 1841; student of Göppert. 
-**Abbreviated name**: *Spieler*
+**Abbreviated name**: *Spieler* \[standard form in IPNI: *Spieler*\]
 
 #### Herbarium and types
 

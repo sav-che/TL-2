@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33355503) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33355503) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6359-1), [Wikidata](https://www.wikidata.org/wiki/Q4820779). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mentz, August (1867-1944), Danish botanist; Dr. phil. 1912; professor of botany at an agricultural college at Copenhagen from 1923-1931. 
-**Abbreviated name**: *Mentz*
+**Abbreviated name**: *Mentz* \[standard form in IPNI: *Mentz*\]
 
 #### Herbarium and types
 

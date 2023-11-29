@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33266183) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33266183) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17582-1), [Wikidata](https://www.wikidata.org/wiki/Q4212529). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cunningham, Gordon Herriot {std. G. Cunn.}|first entry]] for this author
 
 ### Author
 
 \* Cunningham, Gordon Herriot (1892-1962), New Zealand mycologist (Gasteromycetes), born at Moa Flat, Otago, New Zealand, member Linnean Society NSW from 1925, University of New Zealand M.Sc. 1926, Ph.D. 1927, at the FNZ Institution 1928, herbarium at Auckland, Dept. Sci. Industr. Research. 
-**Abbreviated name**: *G. Cunn.*
+**Abbreviated name**: *G. Cunn.* \[standard form in IPNI: *G.Cunn.*\]
 
 #### Herbarium and types
 

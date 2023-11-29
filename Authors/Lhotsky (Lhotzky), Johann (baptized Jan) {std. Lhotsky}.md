@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33355122) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33355122) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5551-1), [Wikidata](https://www.wikidata.org/wiki/Q9012388). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lhotsky \[Lhotzky\], Johann \[baptized Jan\] (1800-1860's), Austro-Hungarian naturalist and plant collecter born in Poland of Czech parentage; Dr. Med. Wien 1830; in Brazil (1830), in Australia (New South Wales) (1832-1836); Tasmania 1836-1838; in London 1838-1840.
-**Abbreviated name**: *Lhotsky*
+**Abbreviated name**: *Lhotsky* \[standard form in IPNI: *Lhotsky*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33212702) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33212702) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11050-1), [Wikidata](https://www.wikidata.org/wiki/Q4081203). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Van der Byl \[Bijl\], Paul Andries (1888-1939), South African botanist (mycologist, phytopathologist); M.A. Victoria College Stellenbosch 1913; Dr. Sci. Cape Town 1915; teacher in Bethlehem O.F.S.; with the Division of Plant Pathology, Pretoria from ca. 1915-1918; in charge of the Botanic Station and National Herbarium, Durban 1918-1921; professor of phytopathology at the Agricultural Faculty of Stellenbosch University 1921-1928; principal of the Stellenbosch-Elsenburg Agricultural College 1928-1939. 
-**Abbreviated name**: *Van der Byl*
+**Abbreviated name**: *Van der Byl* \[standard form in IPNI: *Van der Byl*\]
 
 #### Herbarium and types
 

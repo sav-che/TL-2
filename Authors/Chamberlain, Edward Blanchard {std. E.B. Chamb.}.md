@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33265723) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33265723) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17055-1), [Wikidata](https://www.wikidata.org/wiki/Q21508156). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chamberlain, Edward Blanchard (1878-1925), American botanist, born at Bristol (Maine) 24 Jul 1878, AB Bowdoin 1899, AM Inst. botany Brown University 1899-1901, at Cumberland (Maine) 1901-1904, 1904-1906 at Washington D.C., from 1906-1925 in New York, in the Sachs Collegiate Institute (later Franklin School for Boys), died 2 Feb 1925 in New York City. 
-**Abbreviated name**: *E.B. Chamb.*
+**Abbreviated name**: *E.B. Chamb.* \[standard form in IPNI: *E.B.Chamb.*\]
 
 #### Herbarium and types
 

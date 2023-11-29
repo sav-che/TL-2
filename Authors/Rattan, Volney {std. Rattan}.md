@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33190055) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33190055) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8157-1), [Wikidata](https://www.wikidata.org/wiki/Q6164710). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rattan, Volney (1840-1915), American school teacher and botanist; in California from 1861, settling in Placerville; at Santa Cruz high school 1873-1876; at girl's high school San Francisco 1876-1889; at San José normal school 1889-1906; in retirement living at Berkeley. 
-**Abbreviated name**: *Rattan*
+**Abbreviated name**: *Rattan* \[standard form in IPNI: *Rattan*\]
 
 #### Herbarium and types
 

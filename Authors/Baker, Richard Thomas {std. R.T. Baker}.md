@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33265009) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33265009) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/409-1), [Wikidata](https://www.wikidata.org/wiki/Q7329451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Baker, Richard Thomas (1854-1941), British born Australian economic botanist; arrived in Australia Sep 1879, science and art master at the Newington College, Sydney 1880-1888; with the Sydney Technological Museum from 1888, curator and economic botanist ib., succeeding as such Joseph Henry Maiden, 1901-1921; lecturer in forestry at the University of Sydney 1913-1924; specialist on Eucalyptus, Pinus and Melaleuca. 
-**Abbreviated name**: *R.T. Baker*
+**Abbreviated name**: *R.T. Baker* \[standard form in IPNI: *R.T.Baker*\]
 
 #### Herbarium and types
 

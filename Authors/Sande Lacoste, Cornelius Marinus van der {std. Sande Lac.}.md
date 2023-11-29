@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33333129) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33333129) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8882-1), [Wikidata](https://www.wikidata.org/wiki/Q21340193). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sande Lacoste, Cornelius Marinus van der (1815-1887), Dutch botanist (bryologist); Dr. med. Utrecht 1843; practicing physician at Amsterdam from 1843, dedicating himself, however, more and more to botany; co-founder of the Nederlandse Botanische Vereniging. 
-**Abbreviated name**: *Sande Lac.*
+**Abbreviated name**: *Sande Lac.* \[standard form in IPNI: *Sande Lac.*\]
 
 #### Herbarium and types
 

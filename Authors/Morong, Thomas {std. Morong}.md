@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33355677) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33355677) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6667-1), [Wikidata](https://www.wikidata.org/wiki/Q3525431). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morong, Thomas (1827-1894), American congregational clergyman and botanist; resigned his pastoral charge in 1888; collected in Paraguay 1888-1890 and in Chile; specialist on *Potamogeton*; curator of the Columbia College herbarium in New York 1890-1894. 
-**Abbreviated name**: *Morong*
+**Abbreviated name**: *Morong* \[standard form in IPNI: *Morong*\]
 
 #### Herbarium and types
 

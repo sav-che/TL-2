@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33212136) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33212136) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/35145-1), [Wikidata](https://www.wikidata.org/wiki/Q1422175). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Surian, Joseph Donat (x-1691), French physician-pharmacist at Marseille; travelled in the West Indies 1689-1690 by Royal Command, accompanied by Charles Plumier. 
-**Abbreviated name**: *Surian*
+**Abbreviated name**: *Surian* \[standard form in IPNI: *Surian*\]
 
 #### Herbarium and types
 

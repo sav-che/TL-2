@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33266623) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33266623) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1363-1), [Wikidata](https://www.wikidata.org/wiki/Q21391113). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Calloni, Silvio (1851-1931), Swiss botanist, born at Pazzallo nr. Lugano, educated at schools in Lugano, studied at the universities of Genève and Pavia, Dr. sci. Pavia 1884, assistant at the Herbier Delessert Genève 1878-1883, in Pavia 1884-1893, teacher of natural sciences at the Lycée cantonal of Lugano 1894-1912, died at Lugano. 
-**Abbreviated name**: *Calloni*
+**Abbreviated name**: *Calloni* \[standard form in IPNI: *Calloni*\]
 
 #### Herbarium and types
 

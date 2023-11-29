@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33333706) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33333706) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9584-1), [Wikidata](https://www.wikidata.org/wiki/Q21516220). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shirley, John F. (1849-1922), British-born naturalist and educationist; B.Sc. Univ. London; school teacher in Birmingham; to Queensland 1878; headmaster at Roma, Qld. 1878; inspector of schools 1879, senior inspector 1909; principal of the Teacher's Training College, Brisbane 1914-1919; Dr. Sci. Univ. Sydney 1912. 
-**Abbreviated name**: *Shirley*
+**Abbreviated name**: *Shirley* \[standard form in IPNI: *Shirley*\]
 
 #### Herbarium and types
 

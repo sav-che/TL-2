@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33212064) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33212064) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12898-1), [Wikidata](https://www.wikidata.org/wiki/Q21609979). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stumpf, \[Johann\] Georg (1750-1798), German (Bavarian) agricultural botanist and zoologist, roman-catholic theologist and Carthusian mönch; professor at Jena 1791-1793 id. at Greifswald 1794-1798. 
-**Abbreviated name**: *Stumpf*
+**Abbreviated name**: *Stumpf* \[standard form in IPNI: *Stumpf*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33120237) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33120237) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/412-1), [Wikidata](https://www.wikidata.org/wiki/Q4076182). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bakhuizen van den Brink (Jr.), Reinier Cornelis {std. Bakh. f.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bakhuizen van den Brink, Reinier Cornelis Jr. (1911-x), Dutch botanist. 
-**Abbreviated name**: *Bakh. f.*
+**Abbreviated name**: *Bakh. f.* \[standard form in IPNI: *Bakh.f.*\]
 
 #### Herbarium and types
 

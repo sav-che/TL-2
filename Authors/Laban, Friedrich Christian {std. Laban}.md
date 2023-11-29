@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33068952) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33068952) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5174-1), [Wikidata](https://www.wikidata.org/wiki/Q36555222). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Laban, Friedrich Christian (*fl*. 1866), German botanist and high school teacher at Hamburg. 
-**Abbreviated name**: *Laban*
+**Abbreviated name**: *Laban* \[standard form in IPNI: *Laban*\]
 
 #### Herbarium and types
 

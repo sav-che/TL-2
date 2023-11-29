@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33069098) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33069098) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5514-1), [Wikidata](https://www.wikidata.org/wiki/Q5593947). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leszczyc-Suminsky, Michael Hieronim (1820-1898), Polish botanist and painter. 
-**Abbreviated name**: *Leszc.-Sum.*
+**Abbreviated name**: *Leszc.-Sum.* \[standard form in IPNI: *Leszcz.-Sum.*\]
 
 #### Herbarium and types
 

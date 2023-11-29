@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33333843) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33333843) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9822-1), [Wikidata](https://www.wikidata.org/wiki/Q3568648). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, William Gardner (1866-1928), British botanist and ecologist; Dr. phil. München; lecturer in botany at Edinburgh 1894-1897; id. Yorkshire College, Leeds 1897-1908; from 1908 head Biological Dept., East of Scotland College of Agriculture 1908-1926; Advisory officer in agricultural botany 1926-1928. 
-**Abbreviated name**: *Wm.G. Sm.*
+**Abbreviated name**: *Wm.G. Sm.* \[standard form in IPNI: *Wm.G.Sm.*\]
 
 #### Herbarium and types
 

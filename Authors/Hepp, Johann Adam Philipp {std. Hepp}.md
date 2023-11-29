@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33068406) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33068406) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/20208-1), [Wikidata](https://www.wikidata.org/wiki/Q2086812). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hepp, Johann Adam Philipp (1797-1867), German physician, lichenologist and political activist who lived in exile in Switzerland 1851-1867. 
-**Abbreviated name**: *Hepp*
+**Abbreviated name**: *Hepp* \[standard form in IPNI: *Hepp*\]
 
 #### Herbarium and types
 

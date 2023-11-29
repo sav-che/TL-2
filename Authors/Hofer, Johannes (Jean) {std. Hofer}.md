@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33068477) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33068477) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4009-1), [Wikidata](https://www.wikidata.org/wiki/Q21515912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hofer, Johannes \[Jean\] (1697-1781), Swiss botanist. 
-**Abbreviated name**: *Hofer*
+**Abbreviated name**: *Hofer* \[standard form in IPNI: *Hofer*\]
 
 #### Herbarium and types
 

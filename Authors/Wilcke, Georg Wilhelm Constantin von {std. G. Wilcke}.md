@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33066627) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33066627) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11667-1), [Wikidata](https://www.wikidata.org/wiki/Q36570096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilcke, Georg Wilhelm Constantin von (*fl*. 1788), German botanist. 
-**Abbreviated name**: *G. Wilcke*
+**Abbreviated name**: *G. Wilcke* \[standard form in IPNI: *G.Wilcke*\]
 
 #### Herbarium and types
 

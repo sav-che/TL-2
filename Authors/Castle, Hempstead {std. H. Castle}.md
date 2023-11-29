@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/page/33266765) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/page/33266765) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16984-1), [Wikidata](https://www.wikidata.org/wiki/Q21508012). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Castle, Hempstead (1894-x), American botanist (bryologist), born at Springfield, Mass., B.S. Cornell 1921, A.M. 1923, Ph.D. Yale University 1926, Sterling fellow from Yale to Kew Gardens, British Museum, Paris and Geneva 1926-1928, instructor of botany at Yale 1928-1931 (at Osborn Botanical Laboratory), id. assistant professor 1932-1941, associated professor 1941-1962, emeritus professor from 1962. 
-**Abbreviated name**: *H. Castle*
+**Abbreviated name**: *H. Castle* \[standard form in IPNI: *Castle*\]
 
 #### Herbarium and types
 

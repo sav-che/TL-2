@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33189699) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33189699) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7626-1), [Wikidata](https://www.wikidata.org/wiki/Q21337948). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pfuhl, Fritz C.A. (1853-1913), German (Pommeranian/Prussian) botanist and high school teacher at the Marien Gymnasium at Posen (now Poznan, Poland). 
-**Abbreviated name**: *Pfuhl*
+**Abbreviated name**: *Pfuhl* \[standard form in IPNI: *Pfuhl*\]
 
 #### Herbarium and types
 

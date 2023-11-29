@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33266430) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33266430) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1177-1), [Wikidata](https://www.wikidata.org/wiki/Q1932460). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Broome, Christopher Edmund {std. Broome}|first entry]] for this author
 
 ### Author
 
 \* Broome, Christoph Edmund (1812-1886), British mycologist at Batheaston in the Bristol district, B.A. Cambridge, Trinity Hall, degree 1836, lived near Bristol, later at Clifton, from 1848 at Elmhurst near Bath. 
-**Abbreviated name**: *Broome*
+**Abbreviated name**: *Broome* \[standard form in IPNI: *Broome*\]
 
 #### Herbarium and types
 

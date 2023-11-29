@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33189460) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33189460) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7279-1), [Wikidata](https://www.wikidata.org/wiki/Q6033388). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palmberg, Johannes Olai (1640-1691), Swedish physician, clergyman and botanist; studied medicine and botany at Turku from 1663, "med. et phys. lector" at Strängnäs (near Stockholm) from 1672; parish priest at Turinge (Södermanland) from 1688. 
-**Abbreviated name**: *Palmberg*
+**Abbreviated name**: *Palmberg* \[standard form in IPNI: *Palmberg*\]
 
 #### Herbarium and types
 

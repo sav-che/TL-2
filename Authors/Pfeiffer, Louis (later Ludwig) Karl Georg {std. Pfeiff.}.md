@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33189692) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33189692) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24801-1), [Wikidata](https://www.wikidata.org/wiki/Q63727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pfeiffer, Louis \[later: Ludwig\] Karl Georg (1805-1877), German (Hesse-Nassau) botanist and malacologist; Dr. med. Marburg 1825; practicing physician at Kassel 1826-1833; military physician in Poland 1831; from 1833 active as Privatgelehrter; travelled to Cuba 1838-1839; Dr. phil. h.c. Marburg 1875. 
-**Abbreviated name**: *Pfeiff.*
+**Abbreviated name**: *Pfeiff.* \[standard form in IPNI: *Pfeiff.*\]
 
 #### Herbarium and types
 

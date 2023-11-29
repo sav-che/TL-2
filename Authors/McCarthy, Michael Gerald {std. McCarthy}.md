@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33355299) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33355299) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5895-1), [Wikidata](https://www.wikidata.org/wiki/Q21520209). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 McCarthy, Michael Gerald (1858-1915), American botanist; at North Carolina Agricultural Experiment Station 1888-1897; on North Carolina Board of Agriculture 1897-1907; D.Sc.h.c. Gallaudet Coll. 1904 
-**Abbreviated name**: *McCarthy*
+**Abbreviated name**: *McCarthy* \[standard form in IPNI: *McCarthy*\]
 
 #### Herbarium and types
 

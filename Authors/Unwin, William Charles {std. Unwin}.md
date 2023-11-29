@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33212646) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33212646) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10991-1), [Wikidata](https://www.wikidata.org/wiki/Q21611256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Unwin, William Charles (1811-1887), British ornithologist and entomologist at Lewes, Sussex. 
-**Abbreviated name**: *Unwin*
+**Abbreviated name**: *Unwin* \[standard form in IPNI: *Unwin*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33333942) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33333942) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9989-1), [Wikidata](https://www.wikidata.org/wiki/Q21609353). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spreitzenhofer, G.C. (1835-1883), Austrian savings bank-employee, botanist and plant collector in Vienna. 
-**Abbreviated name**: *Spreitzenhofer*
+**Abbreviated name**: *Spreitzenhofer* \[standard form in IPNI: *Spreitz.*\]
 
 #### Herbarium and types
 

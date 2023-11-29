@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33333202) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33333202) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8932-1), [Wikidata](https://www.wikidata.org/wiki/Q21607757). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sass, Arthur Ferdinand, baron von (1837-1870), Estonian (Baltic German) agronomist, land-owner, naturalist and botanist on the Island of Oesel (Saare, Estonia). 
-**Abbreviated name**: *Sass*
+**Abbreviated name**: *Sass* \[standard form in IPNI: *Sass*\]
 
 #### Herbarium and types
 

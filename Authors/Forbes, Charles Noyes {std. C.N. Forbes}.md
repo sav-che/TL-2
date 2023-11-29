@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33259812) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33259812) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2811-1), [Wikidata](https://www.wikidata.org/wiki/Q1065657). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Forbes, Charles Noyes (1883-1920), American botanist (pteridologist and taxonomist), born 24 Sep 1883 in Boylston, Mass., attended high school in Calif., B.S. 1908 Univ. of Calif. at Berkeley, Asst. in Botany 1908, then Curator of Botany 1909-1920, Bernice Pauahi Bishop Museum of Polynesian Ethnology and Nat. Hist., Honolulu, Hawaii, died 8 Aug 1920 in Kaimuki, Honolulu. 
-**Abbreviated name**: *C.N. Forbes*
+**Abbreviated name**: *C.N. Forbes* \[standard form in IPNI: *C.N.Forbes*\]
 
 #### Herbarium and types
 

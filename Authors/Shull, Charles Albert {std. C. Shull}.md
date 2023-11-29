@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33333712) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33333712) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9597-1), [Wikidata](https://www.wikidata.org/wiki/Q21608840). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shull, Charles Albert (1879-1962), American botanist (plant physiologist); Dr. phil. Chicago 1915 (B.S. 1905); assistant professor of botany at Transylvania University, Kentucky 1906-1908; professor of biology and geology ib. 1908-1912; assistant professor of botany Kansas Univ. 1912-1915; assoc. prof. ib. 1915-1918; professor of plant physiology and head of the botany department University of Kentucky 1918-1921; associate professor of plant physiology Univ. Chicago 1921-1925; professor of plant physiology ib. 1925-1944. 
-**Abbreviated name**: *C. Shull*
+**Abbreviated name**: *C. Shull* \[standard form in IPNI: *C.Shull*\]
 
 #### Herbarium and types
 

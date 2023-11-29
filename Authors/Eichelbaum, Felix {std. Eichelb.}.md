@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33260262) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33260262) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/34312-1), [Wikidata](https://www.wikidata.org/wiki/Q36553655). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eichelbaum, Felix (1848-1922), German physician and botanist (mycologist), living at Hamburg, working on a "Pilzflora" for Hamburg. 
-**Abbreviated name**: *Eichelb.*
+**Abbreviated name**: *Eichelb.* \[standard form in IPNI: *Eichelb.*\]
 
 #### Herbarium and types
 

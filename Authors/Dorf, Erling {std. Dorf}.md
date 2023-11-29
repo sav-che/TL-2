@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33260047) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33260047) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/33995-1), [Wikidata](https://www.wikidata.org/wiki/Q5389800). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dorf, Erling (1905-x), American palaeontologist, born 19 Jul 1905 in Nysted (Nebraska), B.S. Chicago 1925, Ph.D. in geology 1930, assistant instructor Chicago 1925-1926, instructor geology Princeton 1926-1930, assistant professor 1930-1940, associate professor 1940-1946, collected with his wife Ruth K. Dorf fossil plants in S.W. Wyoming and N.W. Colorado. 
-**Abbreviated name**: *Dorf*
+**Abbreviated name**: *Dorf* \[standard form in IPNI: *Dorf*\]
 
 #### Herbarium and types
 

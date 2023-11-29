@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33266769) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33266769) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1456-1), [Wikidata](https://www.wikidata.org/wiki/Q21165808). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Catcheside, David Guthrie (1907-x), British botanist, studied at the University of London, B.Sc. 1928, M.Sc. 1930, sometime professor of genetics in Adelaide, Australia, later professor in Birmingham, England. 
-**Abbreviated name**: *Catcheside*
+**Abbreviated name**: *Catcheside* \[standard form in IPNI: *Catches.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33190172) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33190172) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8273-1), [Wikidata](https://www.wikidata.org/wiki/Q21607095). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reinhardt, Otto Wilhelm Hermann (1838-1924), German (Prussian) botanist; Student of Alexander Braun at the Friedrich-Wilhelms-Universität, Berlin; Dr. phil. Berlin 1863; high school teacher at Berlin 1865-1887 (Luisenstädtische Gewerbeschule/Oberrealschule); rector of the fourth Berlin "Bürgerschule" 1887-1891; director of the second Realschule 1891-1910; one of the founders of the Bot. Ver. Mark Brandenburg and close associate of P. Ascherson; from 1874 mainly active as malacologist. 
-**Abbreviated name**: *Reinhardt*
+**Abbreviated name**: *Reinhardt* \[standard form in IPNI: *Reinh.*\]
 
 #### Herbarium and types
 

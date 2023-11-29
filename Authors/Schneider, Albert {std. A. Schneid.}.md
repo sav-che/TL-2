@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33333408) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33333408) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9188-1), [Wikidata](https://www.wikidata.org/wiki/Q21510520). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schneider, Albert (1863-1928), American botanist (lichenologist), bacteriologist, pharmacologist and criminologist; Dr. med. Chicago 1887; teacher and physician at Spencer Academy, Indian Territory 1889; M.S. Univ. Minnesota 1894; Dr. phil. Columbia University 1897; professor of botany, pharmacognosy and bacteriology, School of Pharmacy, Northwestern University, Evanston, 1897-1903; id. College of Pharmacy, San Francisco 1903-1913; professor of pharmacognosy and pharmacology at the Nebraska School of Pharmacy, Univ. Nebraska 1919-1921; dean and professor at the School of Pharmacy, North Pacific College, Oregon 1922-1928. 
-**Abbreviated name**: *A. Schneid.*
+**Abbreviated name**: *A. Schneid.* \[standard form in IPNI: *A.Schneid.*\]
 
 #### Herbarium and types
 

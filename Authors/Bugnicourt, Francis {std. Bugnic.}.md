@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33266519) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33266519) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16683-1), [Wikidata](https://www.wikidata.org/wiki/Q36552695). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bugnicourt, Francis (fl. 1939), French mycologist and phytopathologist, Ingénieur d'Agronomie coloniale, Ingénieur agricole, Docteur ès Sciences, mycologist at the Institut des Recherches agronomiques de l'Indochine in Saigon. 
-**Abbreviated name**: *Bugnic.*
+**Abbreviated name**: *Bugnic.* \[standard form in IPNI: *Bugnic.*\]
 
 #### Herbarium and types
 

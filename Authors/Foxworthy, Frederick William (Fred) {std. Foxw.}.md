@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33259868) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33259868) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2863-1), [Wikidata](https://www.wikidata.org/wiki/Q5869105). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Foxworthy, Frederick William ('Fred') (1877-1950), American botanist and dendrologist, born 3 Jul 1877 in Goodland, Indiana, B.S. 1899 DePauw Univ., Greencastle, Indiana, M.A. (entomology) 1902 and Ph.D. 1904 Cornell Univ., Ithaca, New York, Bureau of Science, Philippines 1906-1911 studying Philippine timbers and prof. of dendrology, Univ. of the Philippines, deputed to Singapore and Borneo 1907-1908, collected in Borneo 1908-1909, transfered to Bureau of Forestry, Philippines 1911-1916, forest research officer, Forest Research Inst., Federated Malay States from 1917 until retirement in 1932, settled in Berkeley, Calif., where he died 4 Feb 1950. 
-**Abbreviated name**: *Foxw.*
+**Abbreviated name**: *Foxw.* \[standard form in IPNI: *Foxw.*\]
 
 #### Herbarium and types
 

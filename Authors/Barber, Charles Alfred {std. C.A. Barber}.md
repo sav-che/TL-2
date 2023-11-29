@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33265041) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33265041) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/32349-1), [Wikidata](https://www.wikidata.org/wiki/Q8344896). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Barber, Charles Alfred (1860-1933), South Africa born British sugarcane specialist; in South Africa 1860-1870, educated at New King's Wood School, Bath; B.Sc. London Univ.; studied in Germany with e.g. Strasburger and Schimper; at Christ's College, Cambridge 1864, sometime demonstrator ib.; superintendent of Agriculture, Leeward Isl. (B.W.I.) working on sugarcane 1891-1895, returned to England 1895; at Royal Engineering College, Cooper's Hill 1895-1898, to India 1898 as Director of the Botanical Survey of Southern India, Dr. Sci. Cambridge Univ., from 1908 at the Agricultural College at Coimbatore in charge of botany, entomology, and mycology; first sugarcane Expert at Coimbatore 1912-1918; in retirement in England, from 1919 lecturer in tropical agriculture at Cambridge. 
-**Abbreviated name**: *C.A. Barber*
+**Abbreviated name**: *C.A. Barber* \[standard form in IPNI: *C.A.Barber*\]
 
 #### Herbarium and types
 

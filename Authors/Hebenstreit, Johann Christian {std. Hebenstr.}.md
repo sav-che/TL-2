@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33068357) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33068357) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3759-1), [Wikidata](https://www.wikidata.org/wiki/Q1692922). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hebenstreit, Johann Christian (1720-1795), German botanist; educated at Leipzig; from 1749-1751, 1755-1761 at St. Petersburg; from 1751-1754 in the Ukraine; from 1761 at Leipzig. 
-**Abbreviated name**: *Hebenstr.*
+**Abbreviated name**: *Hebenstr.* \[standard form in IPNI: *Hebenstr.*\]
 
 #### Herbarium and types
 

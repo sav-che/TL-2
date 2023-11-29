@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33333551) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33333551) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9339-1), [Wikidata](https://www.wikidata.org/wiki/Q6457504). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schuster, Julius (1886-1949), German (Bavarian) botanist, morphologist, palaeontologist and historian of biology; Dr. phil. München 1909; habil. ib. 1911; scientific assistant Bot. Mus. Berlin-Dahlem 1912-1920; in charge of the archival collection for the history of sciences, Darmstadt 1920-1928; with the geol.-palaeont. Museum Berlin 1928; habil. Berlin 1932; lecturer and extra-ordinary professor history of biology, Univ. Berlin and employed at the Institute for the history of science and medicine 1932-1945; relieved from his functions 1945; collaborator Volk und Wissen 1945. 
-**Abbreviated name**: *J. Schust.*
+**Abbreviated name**: *J. Schust.* \[standard form in IPNI: *J.Schust.*\]
 
 #### Herbarium and types
 

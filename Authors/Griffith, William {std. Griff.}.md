@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/page/33121136) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/page/33121136) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3387-1), [Wikidata](https://www.wikidata.org/wiki/Q11705310). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Griffith, William {std. Griff.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Griffith, William (1810-1845), British colonial physician and botanist. 
-**Abbreviated name**: *Griff.*
+**Abbreviated name**: *Griff.* \[standard form in IPNI: *Griff.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 890](https://www.biodiversitylibrary.org/page/33190361) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 890](https://www.biodiversitylibrary.org/page/33190361) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8595-1), [Wikidata](https://www.wikidata.org/wiki/Q15998886). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rosendahl, \[Carl\] Otto (1875-1956), American botanist; MS Univ. Minnesota 1902; with the Geol. & Nat. Hist. Survey of Minnesota 1902-1903; studied at the University of Berlin 1903-1905; Dr. phil. Berlin 1905, student of A. Engler; at the Univ. Minnesota from 1901-1903 and 1905-1944 in various functions, as full professor from 1910; from 1944-1956 professor emeritus botany. 
-**Abbreviated name**: *Rosend.*
+**Abbreviated name**: *Rosend.* \[standard form in IPNI: *Rosend.*\]
 
 #### Herbarium and types
 

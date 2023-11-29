@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33066423) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33066423) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12994-1), [Wikidata](https://www.wikidata.org/wiki/Q123640). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Warnstorf, Carl \[Friedrich E.\] (1837-1921), German (Prussian (Lausitz)) teacher and botanist; studied at the teacher's college of Neustadt 1855-1858; teacher at a primary school at Arnswalde 1859-1867; head-teacher at the boy's school ("Knabenmittelschule") of Neuruppin 1861-1899; in retirement fully dedicating himself to botany, from 1906 in Berlin; professor's title 1917. 
-**Abbreviated name**: *Warnst.*
+**Abbreviated name**: *Warnst.* \[standard form in IPNI: *Warnst.*\]
 
 #### Herbarium and types
 

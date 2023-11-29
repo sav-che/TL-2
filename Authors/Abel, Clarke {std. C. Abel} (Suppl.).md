@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-06-02 11:09:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33264770) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33264770) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/34-1), [Wikidata](https://www.wikidata.org/wiki/Q158174). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Abel, Clarke {std. C. Abel}|first entry]] for this author
 
 ### Author
 
 \* Abel, Clarke (1789-1826), British surgeon and botanist, chief medical officer to Lord Amherst's mission in China 1816-1817, shipwrecked on his return in H.M.S. Alceste; with Lord Amherst in India 1823-1826. 
-**Abbreviated name**: *C. Abel*
+**Abbreviated name**: *C. Abel* \[standard form in IPNI: *C.Abel*\]
 
 #### Herbarium and types
 

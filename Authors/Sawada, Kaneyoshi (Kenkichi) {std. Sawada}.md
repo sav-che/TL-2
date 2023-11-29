@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33333231) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33333231) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26195-1), [Wikidata](https://www.wikidata.org/wiki/Q21607805). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sawada, Kaneyoshi (Kenkichi) (*fl*. 1920), Japanese botanist. 
-**Abbreviated name**: *Sawada*
+**Abbreviated name**: *Sawada* \[standard form in IPNI: *Sawada*\]
 
 #### Herbarium and types
 

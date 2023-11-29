@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33212793) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33212793) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11213-1), [Wikidata](https://www.wikidata.org/wiki/Q21611783). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Viret, Louis (1875-1928), Swiss botanist (desmidiologist); studied at the Univ. Lausanne 1893-1896 and Genève 1900-1904; Dr. Sci. nat. Genéve 1904; mathematics teacher at Morillon, Genève 1897-1915, founded the "École Viret" at Genéve 1915; from ca. 1916 actively engaged in Geneva politics. 
-**Abbreviated name**: *Viret*
+**Abbreviated name**: *Viret* \[standard form in IPNI: *Viret*\]
 
 #### Herbarium and types
 

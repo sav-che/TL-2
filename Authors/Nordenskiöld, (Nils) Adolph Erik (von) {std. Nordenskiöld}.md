@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33355852) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33355852) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7024-1), [Wikidata](https://www.wikidata.org/wiki/Q156749). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nordenskiöld, \[Nils\] Adolph Erik \[von\] (1832-1901), Finnish-born Swedish explorer, geographer and geologist; e.g. leader of the Vega-Expedition (1878-1880) which discovered the Northeastern passage around N. Asia 
-**Abbreviated name**: *Nordenskiöld*
+**Abbreviated name**: *Nordenskiöld* \[standard form in IPNI: *Nordensk.*\]
 
 #### Herbarium and types
 

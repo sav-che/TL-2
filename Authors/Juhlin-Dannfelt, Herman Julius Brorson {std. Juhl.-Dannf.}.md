@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33068709) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33068709) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4572-1), [Wikidata](https://www.wikidata.org/wiki/Q5893733). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Juhlin-Dannfelt, Herman Julius Brorson (1852-1937), Swedish diatomologist and agronomist at the Ultuna agricultural college, from 1902-1918 secretary of the Lantbruksakademien (agricultural academy). 
-**Abbreviated name**: *Juhl.-Dannf.*
+**Abbreviated name**: *Juhl.-Dannf.* \[standard form in IPNI: *Juhl.-Dannf.*\]
 
 #### Herbarium and types
 

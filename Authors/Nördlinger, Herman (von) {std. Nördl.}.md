@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33355849) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33355849) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/13073-1), [Wikidata](https://www.wikidata.org/wiki/Q92100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nördlinger, Herman \[von\] (1818-1897), German forestry botanist; studied at Tübingen 1838-1840; studied forestry in Hohenheim 1841, Bebenhausen 1841-1842, Stuttgart 1842 and Nancy 1842-1843; professor of forestry at Grand-Jouan, Loire-inf. 1843-1845, at Hohenheim 1845-1852; after 1855 at Hohenheim and Tübingen as administrator and professor. 
-**Abbreviated name**: *Nördl.*
+**Abbreviated name**: *Nördl.* \[standard form in IPNI: *Nördl.*\]
 
 #### Herbarium and types
 

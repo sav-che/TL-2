@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33120358) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33120358) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16195-1), [Wikidata](https://www.wikidata.org/wiki/Q2332170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Blake, Sidney Fay {std. S.F. Blake} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Blake, Sidney Fay (1892-1959), American botanist and bibliographer. 
-**Abbreviated name**: *S. F. Blake*
+**Abbreviated name**: *S. F. Blake* \[standard form in IPNI: *S.F.Blake*\]
 
 #### Herbarium and types
 

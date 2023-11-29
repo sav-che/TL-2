@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2014-05-01 12:36:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33066559) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33066559) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13006-1), [Wikidata](https://www.wikidata.org/wiki/Q86471). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wettstein von Westersheim, Fritz (Friedrich\] (1895-1945), Austrian botanist; son of Richard von Wettstein; studied at Vienna University; assistant Kaiser Wilhelms Institut für Biologie, Berlin-Dahlem 1919; habil. Berlin 1923; professor of botany Göttingen 1925-1931; director bot. gard. ib. 1927-1931; travelled in Southern and Eastern Africa 1929-1930; director of the Botanical Institute and Garden and professor of botany München, succeeding K. v. Goebel, 1931-1934; director of the Kaiser Wilhelms Institut für Biologie, Berlin-Dahlem 1934-1945. 
-**Abbreviated name**: *F. Wettst.*
+**Abbreviated name**: *F. Wettst.* \[standard form in IPNI: *F.Wettst.*\]
 
 #### Herbarium and types
 

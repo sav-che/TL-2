@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33266008) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33266008) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/13274-1), [Wikidata](https://www.wikidata.org/wiki/Q6077587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cookson, Isabel Clifton (1893-1973), Australian botanist, born in Melbourne, Victoria, educated at the Methodist Ladies College and at the University of Melbourne, B.Sc. 1916, D. Sc. 1932, worked on Nothofagus pollen and Australian botany in general. 
-**Abbreviated name**: *Cookson*
+**Abbreviated name**: *Cookson* \[standard form in IPNI: *Cookson*\]
 
 #### Herbarium and types
 

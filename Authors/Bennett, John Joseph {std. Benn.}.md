@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33120303) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33120303) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/657-1), [Wikidata](https://www.wikidata.org/wiki/Q682867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bennett, John Joseph {std. Benn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bennett, John Joseph (1801-1876), British botanist. 
-**Abbreviated name**: *Benn.*
+**Abbreviated name**: *Benn.* \[standard form in IPNI: *Benn.*\]
 
 #### Types
 

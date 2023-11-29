@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33120938) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33120938) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18601-1), [Wikidata](https://www.wikidata.org/wiki/Q77441). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eversmann, Eduard Friedrich \[von\] (1794-1860), German botanist at Kazan. 
-**Abbreviated name**: *Eversm.*
+**Abbreviated name**: *Eversm.* \[standard form in IPNI: *Eversm.*\]
 
 #### Herbarium and types
 

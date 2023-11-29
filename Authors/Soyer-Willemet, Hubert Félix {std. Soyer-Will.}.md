@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33333904) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33333904) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9938-1), [Wikidata](https://www.wikidata.org/wiki/Q1291448). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Soyer-Willemet, Hubert Félix (1791-1867), French librarian, pharmacist and botanist at Nancy; pharm. exam. Nancy 1811; in charge of the pharmacy of his grandfather P.R. Willemet 1811-1824; from 1824 head-librarian of the public library of Nancy, head of the municipal natural history cabinet and archivist of the Société royale des Sciences, Lettres et Arts, Nancy; Légion d'Honneur 1847; collaborator of D.A. Godron. 
-**Abbreviated name**: *Soyer-Will.*
+**Abbreviated name**: *Soyer-Will.* \[standard form in IPNI: *Soy.-Will.*\]
 
 #### Herbarium and types
 

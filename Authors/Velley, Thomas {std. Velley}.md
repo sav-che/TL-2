@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/page/33212738) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/page/33212738) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11117-1), [Wikidata](https://www.wikidata.org/wiki/Q17022812). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Velley, Thomas (1749-1806), British soldier and botanist; D.C.L. Oxford Univ. 1787; lieutenant-colonel in the Oxford militia; long-time resident of Bath, botanising in association with J.E. Smith, D. Turner, J. Stackhouse, W. Watson and R. Relhan. 
-**Abbreviated name**: *Velley*
+**Abbreviated name**: *Velley* \[standard form in IPNI: *Velley*\]
 
 #### Herbarium and types
 

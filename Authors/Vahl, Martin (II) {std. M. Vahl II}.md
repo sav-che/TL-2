@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 631](https://www.biodiversitylibrary.org/page/33212673) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 631](https://www.biodiversitylibrary.org/page/33212673) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12957-1), [Wikidata](https://www.wikidata.org/wiki/Q4993340). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vahl, Martin \[II\] (1869-1946), Danish geographer and botanist; cand. theol. 1895; cand. mag. 1900; teacher at Copenhagen gymnasium 1900-1921; professor of geography at the University of Copenhagen 1921-1939; visited Madeira 1901-1902 and 1921-1922. 
-**Abbreviated name**: *M. Vahl II*
+**Abbreviated name**: *M. Vahl II* \[standard form in IPNI: *M.Vahl*\]
 
 #### Herbarium and types
 

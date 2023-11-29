@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33333380) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33333380) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9150-1), [Wikidata](https://www.wikidata.org/wiki/Q15457716). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidlin, Eduard (1808?-1890), German (Württemberg) botanist. 
-**Abbreviated name**: *Schmidlin*
+**Abbreviated name**: *Schmidlin* \[standard form in IPNI: *Schmidlin*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33068461) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33068461) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/34851-1), [Wikidata](https://www.wikidata.org/wiki/Q5343470). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hobson, Edward (1782-1830), British self-taught bryologist, entomologist and geologist at Manchester, correspondent of R. K. Greville and W. J. Hooker. 
-**Abbreviated name**: *Hobs.*
+**Abbreviated name**: *Hobs.* \[standard form in IPNI: *Hobson*\]
 
 #### Herbarium and types
 

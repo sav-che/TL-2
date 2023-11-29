@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33066458) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33066458) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11454-1), [Wikidata](https://www.wikidata.org/wiki/Q1113837). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Webb, Philip Barker (1793-1854), British naturalist, traveller and geologist of private means; B.A. Oxford 1815; travelled widely in the Mediterranean area, Portugal (1826-1828), Madeira and the Canary Islands (with S. Berthelot 1828-1830), settled at Paris, assembling a rich herbarium and library. 
-**Abbreviated name**: *P. Webb*
+**Abbreviated name**: *P. Webb* \[standard form in IPNI: *Webb*\]
 
 #### Herbarium and types
 

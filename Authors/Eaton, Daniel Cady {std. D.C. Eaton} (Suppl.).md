@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33260230) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33260230) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2448-1), [Wikidata](https://www.wikidata.org/wiki/Q5216728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Eaton, Daniel Cady {std. D.C. Eaton}|first entry]] for this author
 
 ### Author
 
 \* Eaton, Daniel Cady (1834-1895), American botanist, mainly pteridologist, born 12 Sep 1834 at Forest Gratiot, Mich., received his early training in New York City and other places, entered Yale University in 1853, B.A. in 1857, studied botany at Harvard, B.S. with thesis in 1860, chair of botany in Yale College 1864, somewhat later appointed university professor, visited Europe in 1866 and 1887, D.C. Eaton was the grandson of Amos Eaton, died 30 Jun 1895 at his home in New Haven. 
-**Abbreviated name**: *D.C. Eaton*
+**Abbreviated name**: *D.C. Eaton* \[standard form in IPNI: *D.C.Eaton*\]
 
 #### Herbarium and types
 

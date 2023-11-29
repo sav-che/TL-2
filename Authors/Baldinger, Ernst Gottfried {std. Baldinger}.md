@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33120240) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33120240) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/419-1), [Wikidata](https://www.wikidata.org/wiki/Q214752). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baldinger, Ernst Gottfried {std. Baldinger} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Baldinger, Ernst Gottfried (1738-1804), German botanist. 
-**Abbreviated name**: *Baldinger*
+**Abbreviated name**: *Baldinger* \[standard form in IPNI: *Baldinger*\]
 
 #### Herbarium and types
 

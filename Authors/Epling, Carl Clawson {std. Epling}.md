@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33260368) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33260368) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18520-1), [Wikidata](https://www.wikidata.org/wiki/Q924619). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Epling, Carl Clawson (1894-1968), American botanist, born 15 Apr 1894 at Waverly (Ill.), studied at the University of California, BA 1921, MA 1923 at Washington University (St. Louis), PhD in 1924 at the Henry Shaw School of Botany of that university, joined the staff of the University of California, Los Angeles in 1924 as instructor in botany, assist. professor from 1927, founded the herbarium at UCLA, died as Emeritus Professor of Botany at Santa Monica (Calif.) on 17 Nov 1968. 
-**Abbreviated name**: *Epling*
+**Abbreviated name**: *Epling* \[standard form in IPNI: *Epling*\]
 
 #### Herbarium and types
 

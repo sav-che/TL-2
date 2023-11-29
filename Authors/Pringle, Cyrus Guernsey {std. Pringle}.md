@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33189872) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33189872) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25097-1), [Wikidata](https://www.wikidata.org/wiki/Q3009492). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pringle, Cyrus Guernsey (1838-1911), American botanist and collector (and Quaker); plant breeder at his farm at East Charlotte, Vt. until 1880; collected extensively especially in the Pacific States and in Mexico between 1880 and 1909; from 1902 at the University of Vermont as keeper of the herbarium. 
-**Abbreviated name**: *Pringle*
+**Abbreviated name**: *Pringle* \[standard form in IPNI: *Pringle*\]
 
 #### Herbarium and types
 

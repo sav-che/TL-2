@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33355463) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33355463) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6254-1), [Wikidata](https://www.wikidata.org/wiki/Q739055). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mauksch, Johann Daniel Thomas (1748-1831), Hungarian clergyman and botanist, living in Schlagendorf und Kesmark (Kežmarok), botanical explorer of the Tatra; collaborator of Kitaibel, Dr. med. Tyrnau 1776. 
-**Abbreviated name**: *Mauksch*
+**Abbreviated name**: *Mauksch* \[standard form in IPNI: *Mauksch*\]
 
 #### Herbarium and types
 

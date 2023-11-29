@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33120438) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33120438) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16476-1), [Wikidata](https://www.wikidata.org/wiki/Q62855). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Braun, Alexander (Carl Heinrich) {std. A. Braun} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Braun, Alexander Carl Heinrich (1805-1877), German botanist, outstanding morphologist, professor of botany at Karlsruhe, Freiburg, Giessen and Berlin. 
-**Abbreviated name**: *A. Braun*
+**Abbreviated name**: *A. Braun* \[standard form in IPNI: *A.Braun*\]
 
 #### Herbarium and types
 

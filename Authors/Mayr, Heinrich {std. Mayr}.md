@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33355476) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33355476) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23102-1), [Wikidata](https://www.wikidata.org/wiki/Q89967). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mayr, Heinrich (1856-1911), German forester, dendrologist and botanist; Dr. phil. München 1884; from 1887-1891 professor at the University of Tokyo; from 1891-1893 Forstamtsassistent at Wunsiedel; from 1893 professor of forestry at the University of München. 
-**Abbreviated name**: *Mayr*
+**Abbreviated name**: *Mayr* \[standard form in IPNI: *Mayr*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33189944) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33189944) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12250-1), [Wikidata](https://www.wikidata.org/wiki/Q5981499). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rach, Louis Theodor (1821-1859), German-born botanist and gardener; studied at the horticultural school of Schöneberg 1836-1840; at Berlin-Dahlem 1847-1850, 1852-1856; curator at the St. Petersburg botanical garden, in charge of the carpological and dendrological collections, 1856-1859. 
-**Abbreviated name**: *Rach*
+**Abbreviated name**: *Rach* \[standard form in IPNI: *Rach*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33212665) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33212665) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11005-1), [Wikidata](https://www.wikidata.org/wiki/Q116119). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Usteri, Paul (1768-1831), Swiss journalist, politician, physician and botanist; Dr. med. Göttingen 1788; founder with J.J. Roemer of the first German-language botanical journal 1787; teacher at the Zürich medical institute 1789-1798; after the French revolution heavily engaged in Swiss politics, president of the Helvetian legislative council of 1801, in various public functions at Zürich, ultimately as burgomaster, from 1808-1831. 
-**Abbreviated name**: *Usteri*
+**Abbreviated name**: *Usteri* \[standard form in IPNI: *Usteri*\]
 
 #### Herbarium and types
 

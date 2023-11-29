@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33212434) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33212434) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10734-1), [Wikidata](https://www.wikidata.org/wiki/Q21610846). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tong, Koeyang (1896-x), Chinese botanist in Chichow, Anhuei. 
-**Abbreviated name**: *Tong*
+**Abbreviated name**: *Tong* \[standard form in IPNI: *K.Y.Tong*\]
 
 #### Herbarium and types
 

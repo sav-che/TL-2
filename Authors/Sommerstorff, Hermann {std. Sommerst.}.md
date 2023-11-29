@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33333876) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33333876) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/27004-1), [Wikidata](https://www.wikidata.org/wiki/Q21609204). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sommerstorff, Hermann (1889-1913), German (Berlin) botanist; studied biology in Göttingen 1907-1909; in Graz 1909-1911; assistant at the botanical Institute of the University of Vienna; Dr. phil. Wien 1912, student of G. Haberlandt and R. v. Wettstein. 
-**Abbreviated name**: *Sommerst.*
+**Abbreviated name**: *Sommerst.* \[standard form in IPNI: *Sommerst.*\]
 
 #### Herbarium and types
 

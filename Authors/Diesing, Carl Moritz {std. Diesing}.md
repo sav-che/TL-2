@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33120779) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33120779) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2202-1), [Wikidata](https://www.wikidata.org/wiki/Q2722447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Diesing, Karl Moritz {std. Diesing} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Diesing, Carl Moritz (1800-1867), Austrian helminthologist, pupil of Jacquin Jr., collaborator of Endlicher, curator of the Vienna Zoological Museum. 
-**Abbreviated name**: *Diesing*
+**Abbreviated name**: *Diesing* \[standard form in IPNI: *Diesing*\]
 
 #### Herbarium and types
 

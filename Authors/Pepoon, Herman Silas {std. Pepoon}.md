@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33189630) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33189630) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7498-1), [Wikidata](https://www.wikidata.org/wiki/Q15996488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pepoon, Herman Silas (1860-1941), American botanist; head instructor in botany and agriculture, Lake View High School, Chicago, Ill. 
-**Abbreviated name**: *Pepoon*
+**Abbreviated name**: *Pepoon* \[standard form in IPNI: *Pepoon*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33265106) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33265106) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/15795-1), [Wikidata](https://www.wikidata.org/wiki/Q641850). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Battarra, Giovanni Antonio {std. Battarra}|first entry]] for this author
 
 ### Author
 
 \* Battarra, \[Giovanni\] Antonio (1714-1789), Italian clergyman, physician and mycologist ordained 1738, professor of philosophy at the seminary of Savignano di Romagna 1741, id. Rimini 1748-1754; botanically active 1754-1757, again professor of philosophy from 1757. 
-**Abbreviated name**: *Battarra*
+**Abbreviated name**: *Battarra* \[standard form in IPNI: *Battarra*\]
 
 #### Herbarium and types
 

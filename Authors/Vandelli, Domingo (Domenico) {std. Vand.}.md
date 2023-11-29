@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33212700) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33212700) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11047-1), [Wikidata](https://www.wikidata.org/wiki/Q1445443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vandelli, Domingo \[Domenico\] (1735-1816), Italian physician and botanist; Dr. phil. Univ. Padua; to Portugal 1764 or 1765; founded the Ajuda botanical garden in Lisboa 1766-1768; professor of chemistry and natural history at the University of Coimbra; founder and first director of the Coimbra botanical garden (1773-1791), later in similar functions in Lisboa; during the French occupation of Portugal in exile 1810-1815, part of the time in London. 
-**Abbreviated name**: *Vand.*
+**Abbreviated name**: *Vand.* \[standard form in IPNI: *Vand.*\]
 
 #### Herbarium and types
 

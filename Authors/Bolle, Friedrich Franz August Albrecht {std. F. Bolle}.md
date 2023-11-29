@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33265492) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33265492) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/932-1), [Wikidata](https://www.wikidata.org/wiki/Q89085). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bolle, Friedrich Franz August Albrecht (1905-x), German (Potsdam born) botanist, studied botany at the University of Berlin, student of Diels at the Botanical Garden and Museum Berlin, Dr. phil. Berlin 1934, assistant at the Botanical Museum 1933-1934, id. with Harms at the Preussische Akademie der Wissenschaften; on active service 1941-1946, scientist at the Pflanzenschutzamt in Kiel 1946-1970. 
-**Abbreviated name**: *F. Bolle*
+**Abbreviated name**: *F. Bolle* \[standard form in IPNI: *F.Bolle*\]
 
 #### Herbarium and types
 

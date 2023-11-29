@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33334043) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33334043) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10118-1), [Wikidata](https://www.wikidata.org/wiki/Q21609825). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sterner, Ewald (1890-1940), Swedish hotanist; studied at the University of Lund with B. Lidforss; assistant at the Botanical Institute ib. from 1912-1913; later at Eksjö; published on technology, inventors, etc. 
-**Abbreviated name**: *E. Sterner*
+**Abbreviated name**: *E. Sterner* \[standard form in IPNI: *E.Sterner*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33258591) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33258591) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3005-1), [Wikidata](https://www.wikidata.org/wiki/Q21513729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gammie, George Alexander (1839-1935), Scottish agriculturalist, born 12 Nov 1839 in Kingcausie (Kincardine), apprenticed as a gardener, sent to Sikkim in 1865 to manage cinchona plantations and quinine extraction, F.L.S., retired in 1897. 
-**Abbreviated name**: *Gammie*
+**Abbreviated name**: *Gammie* \[standard form in IPNI: *Gammie*\]
 
 #### Herbarium and types
 

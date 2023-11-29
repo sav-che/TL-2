@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33333891) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33333891) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9907-1), [Wikidata](https://www.wikidata.org/wiki/Q36655895). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sornay, Pierre de (*fl*. 1913), French chemist and botanist at the Station agronomique at Mauritius, later director of the laboratory of agricultural research of the Mauritius "Compagnie du Colonial Engrais Chimiques. 
-**Abbreviated name**: *Sornay*
+**Abbreviated name**: *Sornay* \[standard form in IPNI: *Sornay*\]
 
 #### Herbarium and types
 

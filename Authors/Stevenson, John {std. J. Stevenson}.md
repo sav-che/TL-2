@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 919](https://www.biodiversitylibrary.org/page/33334058) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 919](https://www.biodiversitylibrary.org/page/33334058) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10132-1), [Wikidata](https://www.wikidata.org/wiki/Q5933612). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stevenson, John (1836-1903), Scottish clergyman and mycologist; studied at the University of St. Andrews; preacher in the Established Church of Scotland 1859; minister of Glamis 1873-1903; D.D. h.c. St. Andrews 1888. 
-**Abbreviated name**: *J. Stevenson*
+**Abbreviated name**: *J. Stevenson* \[standard form in IPNI: *Stev.*\]
 
 #### Herbarium and types
 

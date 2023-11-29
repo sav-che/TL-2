@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33120943) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33120943) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2632-1), [Wikidata](https://www.wikidata.org/wiki/Q21512599). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Farenholtz, Hermann {std. Farenholtz} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Farenholtz, Hermann (1884-x), German botanist. 
-**Abbreviated name**: *Farenholz*
+**Abbreviated name**: *Farenholz* \[standard form in IPNI: *Farenholtz*\]
 
 #### Herbarium and types
 

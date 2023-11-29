@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33068399) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33068399) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3841-1), [Wikidata](https://www.wikidata.org/wiki/Q1688693). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hennert, Carl Wilhelm (1739-1800), German soldier, building-inspector and forester at Berlin; later specialized in forest insects; lecturer at the "Forstakademie" of Berlin. 
-**Abbreviated name**: *Hennert*
+**Abbreviated name**: *Hennert* \[standard form in IPNI: *Hennert*\]
 
 #### Herbarium and types
 

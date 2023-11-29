@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33266502) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33266502) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1250-1), [Wikidata](https://www.wikidata.org/wiki/Q302925). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buchholz, John Theodore (1888-1951), American botanist, born Polk Co., Nebraska 14 Jul 1888, Bachelor of Science from Iowa Wesleyan College 1909 and Bachelor of Arts from State University of Iowa 1909, graduate study at University Chicago, fellow ib. in botany 1916-1917, Dr. philosophy 1917, instructor in biology at Arkansas State Normal School, Conway 1909-1911, head 1911-1918, dept. botany University Arkansas 1919-1926, professsor botany University Texas 1926-1929, at University Illinois 1929-1942. 
-**Abbreviated name**: *J. Buchholz*
+**Abbreviated name**: *J. Buchholz* \[standard form in IPNI: *J.Buchholz*\]
 
 #### Herbarium and types
 

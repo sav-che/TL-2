@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33259081) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33259081) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17661-1), [Wikidata](https://www.wikidata.org/wiki/Q36588549). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Damblon, Jean (fl. 1939-1956), Belgian botanist. 
-**Abbreviated name**: *Damblon*
+**Abbreviated name**: *Damblon* \[standard form in IPNI: *Damblon*\]
 
 #### Herbarium and types
 

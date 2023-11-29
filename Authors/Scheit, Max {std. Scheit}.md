@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33333264) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33333264) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9039-1), [Wikidata](https://www.wikidata.org/wiki/Q21607879). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scheit, Max (1858-1888), German (Sachsen-Weimar-Eisenach) botanist and high school teacher; Dr. phil. Jena 1883; teacher at Sonnenberg. 
-**Abbreviated name**: *Scheit*
+**Abbreviated name**: *Scheit* \[standard form in IPNI: *Scheit*\]
 
 #### Herbarium and types
 

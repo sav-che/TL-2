@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33259088) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33259088) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/1976-1), [Wikidata](https://www.wikidata.org/wiki/Q2541651). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dammerman, Karel Willem (1885-1951), Dutch zoologist and botanist, born at Arnhem, Gelderland, Netherlands, educated at the University of Utrecht, assistant at the Natural History Museum of Leiden, Ph.D. Utrecht 1910, entomologist of the Botanical Laboratories at Buitenzorg (Bogor) 1912-1919, Chief of the Zoological Museum ib. 1919, from 1932-1939 director of the Botanic Garden, returned to Leiden Oct 1939. 
-**Abbreviated name**: *Damm.*
+**Abbreviated name**: *Damm.* \[standard form in IPNI: *Damm.*\]
 
 #### Herbarium and types
 

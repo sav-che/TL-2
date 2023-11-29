@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33260091) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33260091) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2321-1), [Wikidata](https://www.wikidata.org/wiki/Q601969). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Druce, George Claridge {std. Druce}|first entry]] for this author
 
 ### Author
 
 \* Druce, George Claridge (1850-1932), British botanist, born Potter's Pury 23 Mai 1850, died 29 Feb 1932 at Oxford, England, at the age of 15 apprentice to a pharmacist, later running a business of his own at Oxford, 1879 honorary degree M.A. University of Oxford, 1896 curator of the Fielding Herbarium, Botanical Garden, Oxford, elected Mayor of Oxford 1900, from 1903-1932 Secretary of the Botanical Society and Exchange Club of the British Isles. 
-**Abbreviated name**: *Druce*
+**Abbreviated name**: *Druce* \[standard form in IPNI: *Druce*\]
 
 #### Herbarium and types
 

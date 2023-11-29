@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33355250) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33355250) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5760-1), [Wikidata](https://www.wikidata.org/wiki/Q1028890). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lorinser, Gustav (1811-1863), Bohemian physician and botanist; Dr. med. Praha 1838; practicing physician at Mimon (Niemes) 1838-1850; high school teacher at Eg(g)er 1850-1852, at Bratislava 1852-1863. 
-**Abbreviated name**: *G. Lorinser*
+**Abbreviated name**: *G. Lorinser* \[standard form in IPNI: *G.Lorinser*\]
 
 #### Herbarium and types
 

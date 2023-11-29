@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33355688) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33355688) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6698-1), [Wikidata](https://www.wikidata.org/wiki/Q5077291). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moss, Charles Edward (1870-1930), British botanist; studied at Leeds 1895-1900 (B. Sc. 1898); high school teacher at Bruton and Manchester; from 1907-1914 curator of the Cambridge Herbarium (CGE); served in the O.T.C. 1914-1917; from 1917 professor of botany at Witwatersrand University. 
-**Abbreviated name**: *Moss*
+**Abbreviated name**: *Moss* \[standard form in IPNI: *Moss*\]
 
 #### Herbarium and types
 

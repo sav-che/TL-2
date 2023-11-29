@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33120373) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33120373) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/878-1), [Wikidata](https://www.wikidata.org/wiki/Q2037491). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Blytt, Matthias Numsen {std. Blytt} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Blytt, Mattias Numsen (1789-1862), Norwegian botanist professor of botany at Oslo, father of Axel Gudbrand Blytt. 
-**Abbreviated name**: *M. N. Blytt*
+**Abbreviated name**: *M. N. Blytt* \[standard form in IPNI: *Blytt*\]
 
 #### Herbarium and types
 

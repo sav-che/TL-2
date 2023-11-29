@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33068697) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33068697) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4535-1), [Wikidata](https://www.wikidata.org/wiki/Q21517108). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jones, Herbert Lyon (1866-1898), American botanist; Harvard AB 1892, instructor in botany Harvard 1895-1897; professor of botany at Oberlin College 1897-1898. 
-**Abbreviated name**: *H. L. Jones*
+**Abbreviated name**: *H. L. Jones* \[standard form in IPNI: *H.L.Jones*\]
 
 #### Herbarium and types
 

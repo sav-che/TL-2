@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33189659) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33189659) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24762-1), [Wikidata](https://www.wikidata.org/wiki/Q7817222). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petch, Thomas (1870-1948), British botanist (plant pathologist and mycologist) and schoolteacher at King's Lynn and Leyton; at the Royal Botanic Gardens, Peradeniya, Ceylon (Sri Lanka) 1905-1925; director Tea research institute of Ceylon 1925-1928. 
-**Abbreviated name**: *Petch*
+**Abbreviated name**: *Petch* \[standard form in IPNI: *Petch*\]
 
 #### Herbarium and types
 

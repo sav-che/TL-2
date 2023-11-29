@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33333646) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33333646) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12860-1), [Wikidata](https://www.wikidata.org/wiki/Q67199743). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Senn, Gustav \[Alfred\] (1875-1945), Swiss botanist; Dr. phil. Basel 1899; habil. Univ. Basel 1901; lecturer 1901-1908; extraordinary professor of botany 1908-1912; ordinary professor of botany and director of the Basel botanical garden 1912-1945; visited S.E. Asia 1910-1911. 
-**Abbreviated name**: *Senn*
+**Abbreviated name**: *Senn* \[standard form in IPNI: *Senn*\]
 
 #### Herbarium and types
 

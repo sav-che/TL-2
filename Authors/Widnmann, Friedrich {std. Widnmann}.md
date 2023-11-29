@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33066601) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33066601) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11642-1), [Wikidata](https://www.wikidata.org/wiki/Q15264607). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Widnmann, Friedrich (1765-1848), German (Bavarian) botanist and physician at Eichstädt. 
-**Abbreviated name**: *Widnmann*
+**Abbreviated name**: *Widnmann* \[standard form in IPNI: *Widnmann*\]
 
 #### Herbarium and types
 

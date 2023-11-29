@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33068821) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33068821) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4875-1), [Wikidata](https://www.wikidata.org/wiki/Q2883249). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Knoblauch, Emil Friedrich (1864-1936), German botanist. 
-**Abbreviated name**: *Knobl.*
+**Abbreviated name**: *Knobl.* \[standard form in IPNI: *Knobl.*\]
 
 #### Herbarium and types
 

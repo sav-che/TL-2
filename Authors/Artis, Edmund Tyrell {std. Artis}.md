@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33120202) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33120202) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/295-1), [Wikidata](https://www.wikidata.org/wiki/Q19958863). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Artis, Edmund Tyrell {std. Artis} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Artis, Edmund Tyrell (1789-1847), British palaeobotanist and archeologist. 
-**Abbreviated name**: *Artis*
+**Abbreviated name**: *Artis* \[standard form in IPNI: *Artis*\]
 
 #### Collections
 

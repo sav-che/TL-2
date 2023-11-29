@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33259870) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33259870) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2864-1), [Wikidata](https://www.wikidata.org/wiki/Q72875). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fraas, Carl Nicolaus {std. Fraas}|first entry]] for this author
 
 ### Author
 
 Fraas, Carl \[Karl\] Nikolaus \[Nicol\] (1810-1875), German agronomist and botanist, born 3 Sep 1810 in Rattelsdorf nr. Bamberg, studied medicine and then botany at Ludwig Maximilian Univ., Munich 1830-1834 receiving his Dr. Medicine (1834) and working in the herb. with C.F.P. von Martius and J.G. Zuccarini, court master with Friedrich Carl Graf von Saporta, major-domo of King Otto of Greece 1835-1842, prof. of botany, Univ. of Athens 1837-1842, teacher, Freising 1842, prof. of chemistry and technology, Schleissheim 1845, assoc. prof. of agriculture 1847 and prof. forestry science 1848, Univ. of Munich, died 9 Nov 1875 in Neufreimann nr. Munich. 
-**Abbreviated name**: *Fraas*
+**Abbreviated name**: *Fraas* \[standard form in IPNI: *Fraas*\]
 
 #### Herbarium and types
 

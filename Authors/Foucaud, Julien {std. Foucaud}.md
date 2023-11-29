@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 864](https://www.biodiversitylibrary.org/page/33120995) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 864](https://www.biodiversitylibrary.org/page/33120995) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2851-1), [Wikidata](https://www.wikidata.org/wiki/Q2344902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Foucaud, Julien {std. Foucaud} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Foucaud, Julien (1847-1904), French botanist, director of the jardin botanique de la marine at Rochefort-sur-Mer. 
-**Abbreviated name**: *Foucaud*
+**Abbreviated name**: *Foucaud* \[standard form in IPNI: *Foucaud*\]
 
 #### Herbarium and types
 

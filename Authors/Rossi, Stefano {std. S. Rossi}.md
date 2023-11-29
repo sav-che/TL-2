@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33190375) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33190375) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8622-1), [Wikidata](https://www.wikidata.org/wiki/Q21607436). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rossi, Stefano (1851-1898), Italian botanist; high school teacher at Domodossola. 
-**Abbreviated name**: *S. Rossi*
+**Abbreviated name**: *S. Rossi* \[standard form in IPNI: *S.Rossi*\]
 
 #### Herbarium and types
 

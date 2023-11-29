@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33264892) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33264892) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/276-1), [Wikidata](https://www.wikidata.org/wiki/Q2460005). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arnold, Ferdinand Christian Gustav (von Eichstätt) {std. Arnold}|first entry]] for this author
 
 ### Author
 
 \* Arnold, Ferdinand \[Christian Gustav\] ("von Eichstätt") (1828-1901), German (Bavarian, Mittelfranken) lichenologist and bryologist, educated at the Gymnasium of Eichstätt and id. in München 1841-1846; studied law at the University of München 1846-1850 (1848-1849 in Heidelberg), Univ. exam. law 1850, State examination id., München 1853, also studying botany with Martius and Zuccarini, assistant judge in Eichstätt 1857, from 1864 judge, from 1877 id. at the München court of appeal ib. ("Oberlandesgerichtsrath"); in retirement from 1896, Dr. phil. h.c. München 1878. 
-**Abbreviated name**: *Arnold*
+**Abbreviated name**: *Arnold* \[standard form in IPNI: *Arnold*\]
 
 #### Herbarium and types
 

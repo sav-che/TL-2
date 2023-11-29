@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33265777) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33265777) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/13911-1), [Wikidata](https://www.wikidata.org/wiki/Q18983730). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chickering, John White, Jr. (1831-1913), American botanist, born at Bolton, Mass., A.B. Bowdoin 1852, id. A.M. 1855, Theological Seminary Bangor 1859-1860, teacher 1852-1856, principal Seneca College Inst. 1857-1858, pastor 1860-1870, professor of natural sciences Gallaudet 1870-1900, lector at Gallaudet and Howard from 1900 
-**Abbreviated name**: *Chick.*
+**Abbreviated name**: *Chick.* \[standard form in IPNI: *Chick.*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33120330) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33120330) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16014-1), [Wikidata](https://www.wikidata.org/wiki/Q21506020). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bernet, Henri {std. Bernet} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bernet, Henri (1850-1904), Swiss physician and bryologist. 
-**Abbreviated name**: *Bernet*
+**Abbreviated name**: *Bernet* \[standard form in IPNI: *Bernet*\]
 
 #### Herbarium and types
 

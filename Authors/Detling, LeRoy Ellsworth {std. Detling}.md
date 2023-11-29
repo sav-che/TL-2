@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33259283) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33259283) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2163-1), [Wikidata](https://www.wikidata.org/wiki/Q21510288). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Detling, LeRoy Ellsworth (1898-1967), American botanist, born 23 Oct 1898 at Groton, South Dakota, A.B. Oregon 1921, A.M. Stanford University 1933, Ph.D. 1936, instructor in languages at Willamette 1923-1926, in Oregon 1927-1930, teaching botany in Idaho 1930-1932, assistant in biological sciences at Stanford 1933-1936, assistant professor in botany in Oregon from 1936, died 1967. 
-**Abbreviated name**: *Detling*
+**Abbreviated name**: *Detling* \[standard form in IPNI: *Detling*\]
 
 #### Herbarium and types
 

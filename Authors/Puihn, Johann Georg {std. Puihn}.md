@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33189896) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33189896) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8017-1), [Wikidata](https://www.wikidata.org/wiki/Q21606770). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Puihn, Johann Georg (x-1793), German botanist and physician; regional physician at Kulmbach. 
-**Abbreviated name**: *Puihn*
+**Abbreviated name**: *Puihn* \[standard form in IPNI: *Puihn*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33266708) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33266708) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1396-1), [Wikidata](https://www.wikidata.org/wiki/Q2504754). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cardot, Jules {std. Cardot}|first entry]] for this author
 
 ### Author
 
 \* Cardot, Jules (1860-1934), French bryologist, born at Stenay (Meuse), educated at the primary school of Stenay, at the Lyceum at Bar-le-Duc, dedicated himself to botany, sometime at Montmédy, during World-War I in Paris, "functionnaire de l'Agence économique de l'Indochine" 1917-1931, ultimately living at Charleville nr. Mezières. 
-**Abbreviated name**: *Cardot*
+**Abbreviated name**: *Cardot* \[standard form in IPNI: *Cardot*\]
 
 #### Herbarium and types
 

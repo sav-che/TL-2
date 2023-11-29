@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33189705) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33189705) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12734-1), [Wikidata](https://www.wikidata.org/wiki/Q55070761). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Philippi, Federico (baptized Friedrich Heinrich Eunom) (1838-1910), Chilean botanist and entomologist of German origin (born in Napoli), son of R.A. Philippi, whom he succeeded in 1874 as professor of botany at Santiago; from 1897 also director of the Museo nacional (de Chile). 
-**Abbreviated name**: *F. Philippi*
+**Abbreviated name**: *F. Philippi* \[standard form in IPNI: *F.Phil.*\]
 
 #### Herbarium and types
 

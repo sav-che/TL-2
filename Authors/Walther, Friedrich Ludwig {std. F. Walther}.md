@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33066392) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33066392) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11372-1), [Wikidata](https://www.wikidata.org/wiki/Q13402884). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walther, Friedrich Ludwig (1759-1824), German (Franken) botanist and agriculturist; studied medicine at Erlangen; private teacher until 1789; lecturer (1789) and professor (1790) in the natural sciences faculty of the University of Giessen. 
-**Abbreviated name**: *F. Walther*
+**Abbreviated name**: *F. Walther* \[standard form in IPNI: *Walther*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33355455) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33355455) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23052-1), [Wikidata](https://www.wikidata.org/wiki/Q3179271). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Matsumura, Jinzô (1856-1928), Japanese botanist; D. Sc. Tokyo 1891; from 1877 assistant, later director, of the Koishikawa Botanical Garden; from 1883 also professor of botany at the University of Tokyo. 
-**Abbreviated name**: *Matsum.*
+**Abbreviated name**: *Matsum.* \[standard form in IPNI: *Matsum.*\]
 
 #### Herbarium and types
 

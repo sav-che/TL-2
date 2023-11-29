@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33212555) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33212555) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12949-1), [Wikidata](https://www.wikidata.org/wiki/Q21610982). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trülzsch, \[Paul\] Otto (1889-?), German (Saxonian) botanist; studied linguistics in Marburg a. L. 1908, linguistics, subsequently natural sciences at Leipzig 1909-1913; Dr. phil. Leipzig 1914, student of W.F.P. Pfeffer. 
-**Abbreviated name**: *Trülzsch*
+**Abbreviated name**: *Trülzsch* \[standard form in IPNI: *Trülzsch*\]
 
 #### Herbarium and types
 

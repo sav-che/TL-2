@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33189580) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33189580) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7403-1), [Wikidata](https://www.wikidata.org/wiki/Q21522698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Paul, Hermann Karl Gustav (1876-1964), German bryologist; student of A. Engler; Dr. phil. Berlin 1902; assistant at the Kön. bayerischen Moorversuchsstation Bernau, Bayern, 1902-ca. 1943. 
-**Abbreviated name**: *H. Paul*
+**Abbreviated name**: *H. Paul* \[standard form in IPNI: *H.K.G.Paul*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/page/33069008) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/page/33069008) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5321-1), [Wikidata](https://www.wikidata.org/wiki/Q3164795). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Launay, de (*fl*. 1993), French botanist 
-**Abbreviated name**: *Laun.*
+**Abbreviated name**: *Laun.* \[standard form in IPNI: *Laun.*\]
 
 #### Herbarium and types
 

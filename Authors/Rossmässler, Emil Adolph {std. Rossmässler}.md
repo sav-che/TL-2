@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 905](https://www.biodiversitylibrary.org/page/33190376) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 905](https://www.biodiversitylibrary.org/page/33190376) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8625-1), [Wikidata](https://www.wikidata.org/wiki/Q76238). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rossmässler, Emil Adolph (1806-1867), German (Saxonian) botanist and malacologist at Leipzig; studied theology 1825-1827; popular writer on natural history; professor of natural history (1830-1850) and director of the "Forstbotanischer Garten (1840-1850) at Tharandt, nr. Dresden; member of the 1848 Frankfurter Parliament; released from his functions at Tharandt because of his political activities; from 1850 professional "Volkschriftsteller". 
-**Abbreviated name**: *Rossmässler*
+**Abbreviated name**: *Rossmässler* \[standard form in IPNI: *Rossm.*\]
 
 #### Herbarium and types
 

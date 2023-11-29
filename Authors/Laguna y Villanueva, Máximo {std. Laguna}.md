@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33068967) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33068967) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5211-1), [Wikidata](https://www.wikidata.org/wiki/Q4889495). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Laguna y Villanueva, Máximo (1826-1902), Spanish botanist and silviculturist, director of the Escuela de Ingenieros de Montes at El Escorial. 
-**Abbreviated name**: *Laguna*
+**Abbreviated name**: *Laguna* \[standard form in IPNI: *Laguna*\]
 
 #### Herbarium and types
 

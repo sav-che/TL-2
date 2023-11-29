@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33333305) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33333305) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9090-1), [Wikidata](https://www.wikidata.org/wiki/Q63251). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schimper, Wilhelm Philipp (1808-1880), Alsatian bryologist and palaeontologist; cousin of Karl Friedrich (1803-1867) and Georg Heinrich Wilhelm (1804-1878) Schimper; father of A.F.W. Schimper; studied philosophy, philology, mathematics and theology at Strasbourg 1826-1832; studied mosses in association with Philipp Bruch 1834-1834; assistant geological section Strasbourg natural history museum 1835; with this institution until 1880, from 1866 as director; Dr. sci. Strasbourg 1848; professor of geology and paleontology at Strasbourg from 1872-1879. 
-**Abbreviated name**: *W. Schimp.*
+**Abbreviated name**: *W. Schimp.* \[standard form in IPNI: *Schimp.*\]
 
 #### Herbarium and types
 

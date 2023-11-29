@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-04-18 06:48:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33120415) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33120415) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16366-1), [Wikidata](https://www.wikidata.org/wiki/Q1345319). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bory de Saint-Vincent, Jean Baptiste ..., Baron de {std. Bory} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bory de Saint-Vincent, Jean Baptiste Geneviève Marcellin, Baron de (1778-1846), French geographer, naturalist and explorer. 
-**Abbreviated name**: *Bory*
+**Abbreviated name**: *Bory* \[standard form in IPNI: *Bory*\]
 
 #### Herbarium and types
 

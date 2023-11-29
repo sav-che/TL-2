@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33189825) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33189825) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7881-1), [Wikidata](https://www.wikidata.org/wiki/Q36548912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Postel, Emil A.W. (*fl*. 1856), German botanist, cantor and teacher at Parchwitz, Schlesien. 
-**Abbreviated name**: *Postel*
+**Abbreviated name**: *Postel* \[standard form in IPNI: *Postel*\]
 
 #### Herbarium and types
 

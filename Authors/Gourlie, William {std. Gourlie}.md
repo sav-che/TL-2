@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 976](https://www.biodiversitylibrary.org/page/33121107) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 976](https://www.biodiversitylibrary.org/page/33121107) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3296-1), [Wikidata](https://www.wikidata.org/wiki/Q18531296). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gourlie, William (1815-1856), Scottish palaeobiologist, pupil of W. J. Hooker and J. H. Balfour, 
-**Abbreviated name**: *Gourlie*
+**Abbreviated name**: *Gourlie* \[standard form in IPNI: *Gourlie*\]
 
 #### Collections
 

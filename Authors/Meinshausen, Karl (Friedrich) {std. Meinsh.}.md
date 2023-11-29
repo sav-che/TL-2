@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33355490) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33355490) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6321-1), [Wikidata](https://www.wikidata.org/wiki/Q5958256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meinshausen, Karl \[Friedrich\] (1819-1899), Riga (Livonia)-born Baltic-German/Russian botanist at St. Petersburg; travelling for the botanical garden 1839-1844, curator of the garden herbarium until 1851; from 1851-1896 curator at the botanical museum of the Academy of Sciences 
-**Abbreviated name**: *Meinsh.*
+**Abbreviated name**: *Meinsh.* \[standard form in IPNI: *Meinsh.*\]
 
 #### Herbarium and types
 

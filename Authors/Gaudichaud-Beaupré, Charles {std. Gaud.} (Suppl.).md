@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33258624) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33258624) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3050-1), [Wikidata](https://www.wikidata.org/wiki/Q1064524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gaudichaud-Beaupré, Charles {std. Gaud.}|first entry]] for this author
 
 ### Author
 
 \* Gaudichaud-Beaupré, Charles (1789-1854), French pharmacist, naturalist and circumnavigator, born 4 Sep 1789 in Angoulême (now Dépt. Charente), studied under A.-L. de Jussieu and L.-C. M. Richard, entered corps of "pharmacien de la Marine" 1810 and eventually became "pharmacien en chef de la Marine", stationed at Anvers 1811-1814, sailed three times around the world: on (1) the *Uranie* (wrecked and replaced by), the *Physicienne* (1817-1820), (2) the *Herminie* (1831-1833) and on (3) the *Bonite* (1836-1837), "aide-naturaliste", Muséum natl. d'Histoire naturelle, Paris 1845-1846, Académie de Médecine 1825, Légion d'Honneur 1826, Académie des Sciences 1837, died 16 Jan 1854 in Paris. 
-**Abbreviated name**: *Gaud.*
+**Abbreviated name**: *Gaud.* \[standard form in IPNI: *Gaudich.*\]
 
 #### Herbarium and types
 

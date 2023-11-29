@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33259581) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33259581) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18690-1), [Wikidata](https://www.wikidata.org/wiki/Q604169). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fayod, Victor {std. Fayod}|first entry]] for this author
 
 ### Author
 
 \* Fayod, Victor (1860-1900), Swiss mycologist and dental surgeon, born 23 Nov 1860 at the Abbaye de Salaz nr. Bex (Ct. Vaud), attended school in Bex and Lausanne, studied mathematics and forestry at the Polytechnikum, Zürich, then mycology with A. de Bary in Strassburg 1881-1882, teacher in Cannstadt, moved his family to Nervi (Ligurie) 1887, where he was an asst. of G. Fano, Univ. of Genoa, moved to the bacteriological lab. of A. Chantemesse, Faculty of Medicine, Paris 1890, simultaneously secured his dipl. as a dental surgeon, after contracting tuberculosis returned to Switzerland (Ct. Vaud), died 28 Apr 1900 in Bex (or Lausanne?). 
-**Abbreviated name**: *Fayod*
+**Abbreviated name**: *Fayod* \[standard form in IPNI: *Fayod*\]
 
 #### Herbarium and types
 

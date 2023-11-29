@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33258852) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33258852) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3377-1), [Wikidata](https://www.wikidata.org/wiki/Q2299629). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Greshoff, Maurits {std. Greshoff}|first entry]] for this author
 
 ### Author
 
 \* Greshoff, Maurits (1862-1909), Dutch botanist and phytochemist, born 11 Oct 1862 in The Hague, studied at Univ. of Utrecht, doctorate 1887 Univ. of Jena, medical service, Dutch E. Indian Army and sent to the Botanic Gardens, Buitenzorg, Dutch E. Indies (now Indonesia) 1888-1892, where he studied Indian poisonous plants, returned to The Netherlands for health reasons in 1892, asst. 1895 and ultimately dir. 1901-1909, Koloniaal Museum Haarlem, died 8 \[9?\] Dec 1909 in Haarlem. 
-**Abbreviated name**: *Greshoff*
+**Abbreviated name**: *Greshoff* \[standard form in IPNI: *Greshoff*\]
 
 #### Herbarium and types
 

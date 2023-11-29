@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33355288) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33355288) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5866-1), [Wikidata](https://www.wikidata.org/wiki/Q323574). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lyngbye, Hansen \[Hans\] Christian (1782-1837), Danish phycologist, clergyman at Gjesing and Nørager (nr. Aarhus) 1819-1827; id. at Søberg and Gilleleje 1827-1837. 
-**Abbreviated name**: *Lyngb.*
+**Abbreviated name**: *Lyngb.* \[standard form in IPNI: *Lyngb.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33066873) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33066873) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12019-1), [Wikidata](https://www.wikidata.org/wiki/Q1342359). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zetterstedt, Johan Wilhelm (1785-1874), Swedish entomologist and botanist; studied at Lund 1805-1808; Dr. fil. ib. 1808, Dr. med. h.c. ib. 1868; botanical lecturer ib. 1810, botanical demonstrator 1812, professor's title 1822; secretary of the University of Lund 1828-1836; professor of botany and agronomy ib. 1839-1853. 
-**Abbreviated name**: *J.W. Zetterst.*
+**Abbreviated name**: *J.W. Zetterst.* \[standard form in IPNI: *J.W.Zetterst.*\]
 
 #### Herbarium and types
 

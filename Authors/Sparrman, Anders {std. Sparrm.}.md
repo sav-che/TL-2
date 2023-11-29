@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33333912) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33333912) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9952-1), [Wikidata](https://www.wikidata.org/wiki/Q433984). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sparrman, Anders (1748-1820), Swedish botanist, physician and traveller; studied at Uppsala with, e.g., C. Linnaeus; Dr. med. h.c. Uppsala 1775; titular professor Uppsala 1781; curator of the natural history cabinet of the Swedish Academy of Sciences 1780-1797; lectured at the college of medicine of Stockholm 1790-1803, assessor 1803-1820; naval physician on a trip to the East Indies and China under C.G. Ekeberg 1765-1767; with Cook on his second voyage 1772-1775, at the Cape in 1772 and 1775-1776; on the African west coast and the Cape Verde Islands 1787-1788. 
-**Abbreviated name**: *Sparrm.*
+**Abbreviated name**: *Sparrm.* \[standard form in IPNI: *Sparrm.*\]
 
 #### Herbarium and types
 

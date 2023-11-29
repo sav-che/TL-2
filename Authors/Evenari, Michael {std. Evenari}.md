@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33260423) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33260423) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/14894-1), [Wikidata](https://www.wikidata.org/wiki/Q216524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Evenari, Michael (1904-1989), plant ecologist, geneticist and physiologist, born 9 Oct 1904 at Metz, Germany (now France) as Walter Schwarz, studied at the Wolfgang von Goethe University at Frankfurt from 1923, Dr. Sci. nat. 20 Dec 1926, moved to the Karls-University at Prague in 1928, returned to Germany (Darmstadt) but left, because of political problems, his home country in 1933, emigrated to Israel and changed his name to Michael Evenari, working for the Hebrew University, Jerusalem, fought with the Jewish Brigade in Italy in WW II. 
-**Abbreviated name**: *Evenari*
+**Abbreviated name**: *Evenari* \[standard form in IPNI: *Evenari*\]
 
 #### Herbarium and types
 

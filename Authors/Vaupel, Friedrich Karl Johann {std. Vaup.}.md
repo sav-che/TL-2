@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/page/33212724) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/page/33212724) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11097-1), [Wikidata](https://www.wikidata.org/wiki/Q96747). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vaupel, Friedrich Karl Johann (1876-1927), German (Prussian/Rhenisch Palatinate) botanist; followed a military career 1893-1895, pensioned off because of invalidity 1895; studied medicine and natural sciences in Berlin, Heidelberg and München; in Mexico and the West Indies 1899-1910; Dr. phil. München 1903 as student of K. v. Goebel; travelled in India, Australia and the Samoa Islands 1903-1907; assistant at the Botanical Museum Berlin-Dahlem 1908, curator ib. 1921, professor's title 1926; on active service as training officer 1914-1918; specialist on Cactaceae. 
-**Abbreviated name**: *Vaup.*
+**Abbreviated name**: *Vaup.* \[standard form in IPNI: *Vaupel*\]
 
 #### Herbarium and types
 

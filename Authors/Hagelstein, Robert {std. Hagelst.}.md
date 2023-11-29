@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33068251) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33068251) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3542-1), [Wikidata](https://www.wikidata.org/wiki/Q21514482). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hagelstein, Robert (1870-1945), American business-man; algologist and mycologist at New York; later at Mineola N.Y.; ultimately honorary curator of myxomycetes at NY (1931-1945). 
-**Abbreviated name**: *Hagelst.*
+**Abbreviated name**: *Hagelst.* \[standard form in IPNI: *Hagelst.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33068891) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33068891) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4958-1), [Wikidata](https://www.wikidata.org/wiki/Q21517729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koppe, Carl \[Karl\] Friedrich August (1803-1874), German botanist and high school teacher at Soest. 
-**Abbreviated name**: *Koppe*
+**Abbreviated name**: *Koppe* \[standard form in IPNI: *Koppe*\]
 
 #### Herbarium and types
 

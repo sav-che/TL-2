@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33120636) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33120636) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1658-1), [Wikidata](https://www.wikidata.org/wiki/Q689684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clairville, Joseph Philippe de (1742-1830), French born Swiss botanist, co-founder of the Schweizer naturforschenden Gesellschaft. 
-**Abbreviated name**: *Clairv.*
+**Abbreviated name**: *Clairv.* \[standard form in IPNI: *Clairv.*\]
 
 #### Herbarium and types
 

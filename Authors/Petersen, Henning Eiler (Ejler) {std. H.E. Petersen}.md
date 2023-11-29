@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33189667) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33189667) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24768-1), [Wikidata](https://www.wikidata.org/wiki/Q5714983). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petersen, Henning Eiler \[Ejler\] (1877-1946), Danish botanist, mainly mycologist and algologist; M.Sc. København 1902; Dr. phil. ib. 1914; lecturer at the Polyteknisk Laereanstalt 1916-1930; lecturer ("docent") at University of Copenhagen 1929-1946. 
-**Abbreviated name**: *H.E. Petersen*
+**Abbreviated name**: *H.E. Petersen* \[standard form in IPNI: *H.E.Petersen*\]
 
 #### Herbarium and types
 

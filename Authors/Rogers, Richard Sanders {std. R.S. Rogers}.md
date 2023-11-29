@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33190330) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33190330) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8527-1), [Wikidata](https://www.wikidata.org/wiki/Q3281627). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rogers, Richard Sanders (1862-1942), Australian physician and botanist (orchidologist) at Adelaide; B.S. Univ. Adelaide 1883; Master of Surgery Edinburgh 1891; practicing physician at Adelaide from 1891; D.Sc. h.c. Adelaide 1936. 
-**Abbreviated name**: *R.S. Rogers*
+**Abbreviated name**: *R.S. Rogers* \[standard form in IPNI: *R.S.Rogers*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33265741) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33265741) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1549-1), [Wikidata](https://www.wikidata.org/wiki/Q365693). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Chatin, Gaspard Adolphe {std. Chatin}|first entry]] for this author
 
 ### Author
 
 \* Chatin, \[Gaspard\] Adolphe (1813-1901), French botanist, born at Ile-Marianne-de-Saint-Quentin, Isère, studied at Paris, "interne des hôpitaux" 1835, Dr. sci. nat. and pharm. I. Cl. 1840, Dr. med. 1844, at the École supérieure de Pharmacie de Paris 1842, prof. titul. 1848, teaching botany until 1886, directeur ib. 1873-1886, membre de l'Académie de Médecine from 1853, Acad. Sci. from 1874, died at Essarts-le-Roi, Seine-et-Oise. 
-**Abbreviated name**: *Chatin*
+**Abbreviated name**: *Chatin* \[standard form in IPNI: *Chatin*\]
 
 #### Herbarium and types
 

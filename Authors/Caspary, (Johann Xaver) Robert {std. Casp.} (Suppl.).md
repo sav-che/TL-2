@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33266754) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33266754) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16962-1), [Wikidata](https://www.wikidata.org/wiki/Q65869). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Caspary, Johann Xaver Robert {std. Casp.}|first entry]] for this author
 
 ### Author
 
 \* Caspary, \[Johann Xaver\] Robert (1818-1887), German botanist, hydrobiologist (nenupharologist) and palaeobotanist, born at Königsberg, educated at the Kneiphöfische Gymnasium until 1837, studied theology and philosophy at the Albertina University, Königsberg, later entomology and botany, teacher at a girl's school at Königsberg 1841-1843, studied at the University of Bonn (natural sciences) 1843-1845, assistant for zoology with Goldfuss at Bonn, teacher of natural sciences at Bonn 1845-1846, private teacher from 1846, Dr. phil. Bonn 1848, in England 1848-1850, settled in Berlin 1851-1856, at first as private docent for botany 1851, connected with A. Braun c.s., from 1856 again at Bonn (Privatdocent), 9 Dec 1858 appointed prof. of botany and director of the Botanical Garden at Königsberg in Pr., died 18 Sep 1887. 
-**Abbreviated name**: *Casp.*
+**Abbreviated name**: *Casp.* \[standard form in IPNI: *Casp.*\]
 
 #### Herbarium and types
 

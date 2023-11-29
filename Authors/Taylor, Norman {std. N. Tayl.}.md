@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33212231) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33212231) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10469-1), [Wikidata](https://www.wikidata.org/wiki/Q3343826). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Taylor, Norman (1883-1967), British-born American botanist and botanical explorer; to U.S.A. 1889; studied at Cornell University 1900-1902; with Zoological Park, New York 1903-1904; with New York Botanical Garden 1904-1911; curator at the Brooklyn Botanic Garden 1911-1929; director Cinchona Prod. Inst. 1937-1950. 
-**Abbreviated name**: *N. Tayl.*
+**Abbreviated name**: *N. Tayl.* \[standard form in IPNI: *N.Taylor*\]
 
 #### Herbarium and types
 

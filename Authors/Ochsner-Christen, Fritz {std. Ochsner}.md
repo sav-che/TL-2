@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33355890) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33355890) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7081-1), [Wikidata](https://www.wikidata.org/wiki/Q21522320). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ochsner-Christen, Fritz (1899-x), Swiss bryologist and geobotanist at Muri, Aargau; Dr. phil. Zürich 1926; later high school teacher in Winterthur and Muri, Aargau. 
-**Abbreviated name**: *Ochsner*
+**Abbreviated name**: *Ochsner* \[standard form in IPNI: *Ochsner*\]
 
 #### Herbarium and types
 

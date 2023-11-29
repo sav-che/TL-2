@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265507) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265507) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16319-1), [Wikidata](https://www.wikidata.org/wiki/Q8965083). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bondar, Gregório (1881-1959), Brazilian entomologist and botanist, "Consultor Técnico do Instituto Central de Fomento econômico da Baía". 
-**Abbreviated name**: *Bondar*
+**Abbreviated name**: *Bondar* \[standard form in IPNI: *Bondar*\]
 
 #### Herbarium and types
 

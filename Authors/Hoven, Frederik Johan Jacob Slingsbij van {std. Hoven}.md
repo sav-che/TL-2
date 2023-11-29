@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33068588) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33068588) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4149-1), [Wikidata](https://www.wikidata.org/wiki/Q21516335). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoven, Frederik Johan Jacob Slingsbij van (1815-1879), Dutch army physician and botanist at's Hertogenbosch (1844), later at Dordrecht; from 1866 at Helvoirt, from 1871-1879 at Vught. 
-**Abbreviated name**: *Hoven*
+**Abbreviated name**: *Hoven* \[standard form in IPNI: *Hoven*\]
 
 #### Herbarium and types
 

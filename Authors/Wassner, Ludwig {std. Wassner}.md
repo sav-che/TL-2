@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33066434) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33066434) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11423-1), [Wikidata](https://www.wikidata.org/wiki/Q21612260). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wassner, Ludwig (1861-1929), German (Bavarian) high school professor and botanist; studied natural sciences in Regensburg and classical philology in München; teacher at Freising until 1890; from then onward teacher at the Humanistic Gymnasium at Passau, as assistant 1890-1892, teacher 1892-1904 and professor 1904-1924. 
-**Abbreviated name**: *Wassner*
+**Abbreviated name**: *Wassner* \[standard form in IPNI: *Wassner*\]
 
 #### Herbarium and types
 

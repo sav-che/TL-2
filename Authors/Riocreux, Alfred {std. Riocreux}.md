@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33190268) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33190268) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/35159-1), [Wikidata](https://www.wikidata.org/wiki/Q19666218). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Riocreux, Alfred (1820-1912), French botanical artist. 
-**Abbreviated name**: *Riocreux*
+**Abbreviated name**: *Riocreux* \[standard form in IPNI: *Riocreux*\]
 
 #### Herbarium and types
 

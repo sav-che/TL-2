@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265788) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265788) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/20012474-1), [Wikidata](https://www.wikidata.org/wiki/Q21508460). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chirtoiu, Marie (1892-x), Swiss botanist, studied with R. Chodat at Genève, Dr. ès. Sci. nat. 1917, married Henry Guyot. 
-**Abbreviated name**: *Chirtoiu*
+**Abbreviated name**: *Chirtoiu* \[standard form in IPNI: *Chirtoiu*\]
 
 #### Herbarium and types
 

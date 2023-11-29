@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33068311) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33068311) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3697-1), [Wikidata](https://www.wikidata.org/wiki/Q47118589). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hartmann, Wilhelm (fl. 1794) (= Gottfried Wilhelm Hartmann, ± 1770-1823?). 
-**Abbreviated name**: *W. Hartmann*
+**Abbreviated name**: *W. Hartmann* \[standard form in IPNI: *W.Hartmann*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33333412) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33333412) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/13075-1), [Wikidata](https://www.wikidata.org/wiki/Q21608218). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schneider, Georg (1888-x), German (Hessen-Nassau) botanist; studied in Göttingen and Münster; Dr. phil. Münster 1912. 
-**Abbreviated name**: *Geo. Schneid.*
+**Abbreviated name**: *Geo. Schneid.* \[standard form in IPNI: *G.Schneid.bis*\]
 
 #### Herbarium and types
 

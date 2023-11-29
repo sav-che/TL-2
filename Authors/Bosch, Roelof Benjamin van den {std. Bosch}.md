@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33120419) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33120419) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1005-1), [Wikidata](https://www.wikidata.org/wiki/Q3438551). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bosch, Roelof Benjamin van den {std. Bosch} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bosch, Roelof Benjamin van den (1810-1862), Dutch botanist at Goes. 
-**Abbreviated name**: *Bosch*
+**Abbreviated name**: *Bosch* \[standard form in IPNI: *Bosch*\]
 
 #### Herbarium and types
 

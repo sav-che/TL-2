@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33259333) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33259333) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/32927-1), [Wikidata](https://www.wikidata.org/wiki/Q21510355). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dickinson, Carola Ivena (fl. 1934), English botanist, lichenologist, at Newham MA 1925, worked at the Herbarium, Royal Botanic Gardens, Kew. 
-**Abbreviated name**: *C.I. Dickinson*
+**Abbreviated name**: *C.I. Dickinson* \[standard form in IPNI: *C.I.Dickinson*\]
 
 #### Herbarium and types
 

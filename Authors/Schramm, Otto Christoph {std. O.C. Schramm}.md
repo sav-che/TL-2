@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33333461) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33333461) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9253-1), [Wikidata](https://www.wikidata.org/wiki/Q21608421). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schramm, Otto Christoph (1791-1863), German (Prussian) agronomist and botanist; in the Prussian army 1813-1815; from 1820 government employee for agronomy in Pommerania 1820-1844, ultimately as "Oekonomie-Kommissionsrat", in early retirement because of ill-health in Brandenburg a.d. Havel from 1845. 
-**Abbreviated name**: *O.C. Schramm*
+**Abbreviated name**: *O.C. Schramm* \[standard form in IPNI: *O.C.Schramm*\]
 
 #### Herbarium and types
 

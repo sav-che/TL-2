@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33189786) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33189786) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7783-1), [Wikidata](https://www.wikidata.org/wiki/Q78737). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pohl, Johann \[Baptist\] Emanuel (1782-1834), Bohemian-born Austrian botanist and traveller; Dr. med. Praha 1808; army physician 1809-1811; at the garden of J.M. de Canal (Freiherr von Hochberg) 1811-1817; travelled in Brazil with Spix, Martius et al. 1817-1821; afterwards curator at the Vienna Natural History Museum and the Vienna Brasilian Museum. 
-**Abbreviated name**: *Pohl*
+**Abbreviated name**: *Pohl* \[standard form in IPNI: *Pohl*\]
 
 #### Herbarium and types
 

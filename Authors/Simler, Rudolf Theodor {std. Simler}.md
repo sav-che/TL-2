@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33333743) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33333743) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9659-1), [Wikidata](https://www.wikidata.org/wiki/Q1678050). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Simler, Rudolf Theodor (1833-1874), Swiss high school teacher and botanist; teacher for natural sciences at the agricultural college of Muri-Aargau 1864-1872; professor at the agricultural college zum Strickhof, Zürich 1872-1874. 
-**Abbreviated name**: *Simler*
+**Abbreviated name**: *Simler* \[standard form in IPNI: *Simler*\]
 
 #### Herbarium and types
 

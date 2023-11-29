@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33265494) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33265494) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/938-1), [Wikidata](https://www.wikidata.org/wiki/Q4091070). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bolus, Harry {std. Bolus}|first entry]] for this author
 
 ### Author
 
 \* Bolus, Harry (1834-1911), British born South African businessman and botanist, educated at Castle Gate School, Nottingham, went to Grahamstown 1850, moved to Port Elizabeth 1852, settled in Graaff-Reinet 1855-1869, mathematics teacher at Graaff-Reinet College, started on botany 1864, moved to Cape Town 1875 joining his brother in a firm of stockbrokers, also collecting widely over South Africa, honorary D. Sc. by the University of the Cape of Good Hope, founded a chair of botany in the South African College 1902 (later designated Harry Bolus Chair of Botany). 
-**Abbreviated name**: *Bolus*
+**Abbreviated name**: *Bolus* \[standard form in IPNI: *Bolus*\]
 
 #### Herbarium and types
 

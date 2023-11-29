@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33259663) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33259663) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/34878-1), [Wikidata](https://www.wikidata.org/wiki/Q21512906). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ferrari, Enrico (1845-1921), Italian botanist, born 3 Nov 1845 in Modena, an autodidact who knew the flora of Italy very well, collected plants with all well-known botanists of his time, conservatore (curator), R. Orto Botanico, Univ. Torino 1887-1921, died 2 Nov 1921 in Torino after a long illness. 
-**Abbreviated name**: *Ferrari*
+**Abbreviated name**: *Ferrari* \[standard form in IPNI: *Ferrari*\]
 
 #### Herbarium and types
 

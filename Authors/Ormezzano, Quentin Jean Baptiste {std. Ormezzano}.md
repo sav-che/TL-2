@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33355933) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33355933) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7164-1), [Wikidata](https://www.wikidata.org/wiki/Q21522425). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ormezzano, Quentin Jean Baptiste (1854-1912), French botanist and building contractor at Autun. 
-**Abbreviated name**: *Ormezzano*
+**Abbreviated name**: *Ormezzano* \[standard form in IPNI: *Ormezz.*\]
 
 #### Herbarium and types
 

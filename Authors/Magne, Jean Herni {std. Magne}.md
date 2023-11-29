@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33355328) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33355328) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5979-1), [Wikidata](https://www.wikidata.org/wiki/Q3166113). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Magne, Jean Herni (1804-1885), French veterinarian and botanist; high school teacher at Lyon 1824-1842, from 1843 teacher at the Veterinary College of Alfort (Seine). 
-**Abbreviated name**: *Magne*
+**Abbreviated name**: *Magne* \[standard form in IPNI: *Magne*\]
 
 #### Herbarium and types
 

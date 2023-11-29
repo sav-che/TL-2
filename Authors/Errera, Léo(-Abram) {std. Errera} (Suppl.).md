@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33260397) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33260397) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/13063-1), [Wikidata](https://www.wikidata.org/wiki/Q1879380). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Errera, Leo (-Abram) {std. Errera}|first entry]] for this author
 
 ### Author
 
 \* Errera, Léo\[-Abram\] (1858-1905), Belgian botanist, born 4 Sep 1858 at Laeken near Brussels, visited the athenaeum at Brussels and studied natural sciences at the University of Brussels, Dr. sci. nat. 1 Aug 1879, visited Germany 1879-1881 staying with de Bary at Strasbourg, 1882 with Sachs at Würzburg, returned to Brussels and became "Docteur agrégé", founded in 1884 the "Laboratoire d'Anatomie et de Physiologie végétale", became professor in 1895, was chosen as president of the organizing committee for the international botanical congress 1910 in Brussels but died of heart failure 1 Aug 1905. 
-**Abbreviated name**: *Errera*
+**Abbreviated name**: *Errera* \[standard form in IPNI: *Errera*\]
 
 #### Herbarium and types
 

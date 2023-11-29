@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/page/33333911) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/page/33333911) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9947-1), [Wikidata](https://www.wikidata.org/wiki/Q6204573). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spalowsky, Joachim Johann Nepomuk (1752-1797), Austrian physician, zoologist and botanist; physician of the Bürger-Regiment" in Vienna. 
-**Abbreviated name**: *Spalowsky*
+**Abbreviated name**: *Spalowsky* \[standard form in IPNI: *Spalowsky*\]
 
 #### Herbarium and types
 

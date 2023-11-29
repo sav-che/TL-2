@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5333-1), [Wikidata](https://www.wikidata.org/wiki/Q36575076). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lauvergne, Hubert (*fl*. 1829), French navy physician at Toulon; Dr. med. Montpellier 1829. 
-**Abbreviated name**: *Lauvergne*
+**Abbreviated name**: *Lauvergne* \[standard form in IPNI: *Lauv.*\]
 
 #### Herbarium and types
 

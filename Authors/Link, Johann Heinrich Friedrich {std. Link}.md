@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33355152) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33355152) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22401-1), [Wikidata](https://www.wikidata.org/wiki/Q215466). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Link, Johann Heinrich Friedrich (1767-1851), German nature philosopher and botanist; Dr. med. Göttingen 1789; at Rostock 1792; director botanical garden Breslau 1811-1815; professor of botany at Berlin 1815-1851; successor to Willdenow. 
-**Abbreviated name**: *Link*
+**Abbreviated name**: *Link* \[standard form in IPNI: *Link*\]
 
 #### Herbarium and types
 

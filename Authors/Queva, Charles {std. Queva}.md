@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33189928) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33189928) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8054-1), [Wikidata](https://www.wikidata.org/wiki/Q36529648). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Queva, Charles (*fl*. 1894), French botanist; studied at Lille; from 1902 professor of botany at Dijon. 
-**Abbreviated name**: *Queva*
+**Abbreviated name**: *Queva* \[standard form in IPNI: *Queva*\]
 
 #### Herbarium and types
 

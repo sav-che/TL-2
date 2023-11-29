@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33212431) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33212431) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10730-1), [Wikidata](https://www.wikidata.org/wiki/Q21610842). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tommaselli, Giuseppe (1733-1818), Italian naturalist at Verona. 
-**Abbreviated name**: *Tommaselli*
+**Abbreviated name**: *Tommaselli* \[standard form in IPNI: *Tommas.*\]
 
 #### Herbarium and types
 

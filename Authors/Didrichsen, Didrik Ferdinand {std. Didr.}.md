@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 645](https://www.biodiversitylibrary.org/page/33120776) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 645](https://www.biodiversitylibrary.org/page/33120776) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2195-1), [Wikidata](https://www.wikidata.org/wiki/Q2986127). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Didrichsen, Didrik Ferdinand {std. Didr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Didrichsen, Didrik Ferdinand (1814-1887), Danish botanist, professor of botany at Copenhagen 1875-1885, botanist on the Galathea expedition (1845-1847). 
-**Abbreviated name**: *Didrichsen*
+**Abbreviated name**: *Didrichsen* \[standard form in IPNI: *Didr.*\]
 
 #### Herbarium and types
 

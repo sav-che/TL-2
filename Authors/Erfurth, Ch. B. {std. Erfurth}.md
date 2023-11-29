@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33120929) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33120929) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2554-1), [Wikidata](https://www.wikidata.org/wiki/Q21512284). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Erfurth, Ch. B. (x-1893), German organist and botanist. 
-**Abbreviated name**: *Erfurth*
+**Abbreviated name**: *Erfurth* \[standard form in IPNI: *Erfurth*\]
 
 #### Herbarium and types
 

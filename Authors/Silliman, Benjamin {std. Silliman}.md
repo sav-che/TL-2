@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33333737) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33333737) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9641-1), [Wikidata](https://www.wikidata.org/wiki/Q817692). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Silliman, Benjamin (1779-1864), American chemist and geologist; graduated from Yale College 1796; professor of chemistry and natural history ib. 1802-1864 (from 1853 emeritus); founder of the American Journal of Science (1818). 
-**Abbreviated name**: *Silliman*
+**Abbreviated name**: *Silliman* \[standard form in IPNI: *Silliman*\]
 
 #### Herbarium and types
 

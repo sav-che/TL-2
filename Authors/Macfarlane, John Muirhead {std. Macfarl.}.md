@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33355306) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33355306) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5915-1), [Wikidata](https://www.wikidata.org/wiki/Q1701169). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Macfarlane, John Muirhead (1855-1943), Scottish-born American botanist; BSc. Edinburgh 1880, D. Sc. id. 1883; at Edinburgh, e.g. at the Royal Veterinary College, until 1891; from 1893-1920 professor of botany at the University of Pennsylvania at Philadelphia 
-**Abbreviated name**: *Macfarl.*
+**Abbreviated name**: *Macfarl.* \[standard form in IPNI: *Macfarl.*\]
 
 #### Herbarium and types
 

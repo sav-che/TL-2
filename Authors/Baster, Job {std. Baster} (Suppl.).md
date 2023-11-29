@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33265095) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33265095) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/530-1), [Wikidata](https://www.wikidata.org/wiki/Q5256253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baster, Job {std. Baster}|first entry]] for this author
 
 ### Author
 
 \* Baster, Job (1711-1775), Dutch physician, born in Zierikzee (Zeeland), educated in Zierikzee and Rotterdam, studied medicine at Leiden 1728-1731, Dr. med. ib. 1731, continued his medical studies in Paris 1731-1732, also working with the herbaria of Tournefort and Vaillant, id. in London 1732, settled as practising physician in Zierikzee 1732. 
-**Abbreviated name**: *Baster*
+**Abbreviated name**: *Baster* \[standard form in IPNI: *Baster*\]
 
 #### Herbarium and types
 

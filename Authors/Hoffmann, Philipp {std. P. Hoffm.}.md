@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33068486) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33068486) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4017-1), [Wikidata](https://www.wikidata.org/wiki/Q47119012). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoffmann, Philipp (*fl*. 1868), German botanist; high school teacher at the Lyceum of Eichstätt. 
-**Abbreviated name**: *P. Hoffm.*
+**Abbreviated name**: *P. Hoffm.* \[standard form in IPNI: *P.Hoffm.*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33266720) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33266720) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1400-1), [Wikidata](https://www.wikidata.org/wiki/Q312948). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Carey, William {std. W. Carey}|first entry]] for this author
 
 ### Author
 
 \* Carey, William (1761-1834), British baptist missionary, orientalist and botanist, born at Paulerspury, Northants., as Baptist missionary to Serampore 1799, professor of Sanskrit at Fort William College 1801, founded the Botanic Garden at Serampore. 
-**Abbreviated name**: *W. Carey*
+**Abbreviated name**: *W. Carey* \[standard form in IPNI: *Carey*\]
 
 #### Herbarium and types
 

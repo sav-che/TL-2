@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33355894) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33355894) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7088-1), [Wikidata](https://www.wikidata.org/wiki/Q36528679). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Oehninger, Carl Johannes (*fl*. 1908), German publisher and botanist. 
-**Abbreviated name**: *Oehninger*
+**Abbreviated name**: *Oehninger* \[standard form in IPNI: *Oehn.*\]
 
 #### Herbarium and types
 

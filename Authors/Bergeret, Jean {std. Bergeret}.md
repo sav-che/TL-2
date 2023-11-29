@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-11-25 14:11:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33120320) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33120320) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/34965-1), [Wikidata](https://www.wikidata.org/wiki/Q3170707). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bergeret, Jean (1751-1813), Southern French botanist. 
-**Abbreviated name**: *Bergeret*
+**Abbreviated name**: *Bergeret* \[standard form in IPNI: *Bergeret*\]
 
 #### Herbarium and types
 

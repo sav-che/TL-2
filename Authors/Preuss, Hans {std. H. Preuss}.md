@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33189868) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33189868) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7951-1), [Wikidata](https://www.wikidata.org/wiki/Q21523235). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Preuss, Hans (1879-1935), German (Prussian) botanist; high school teacher in Westpreussen and Danzig, later Senator and Stadtschulrat (municipal counsel for education) at Osnabrück. 
-**Abbreviated name**: *H. Preuss*
+**Abbreviated name**: *H. Preuss* \[standard form in IPNI: *H.Preuss*\]
 
 #### Herbarium and types
 

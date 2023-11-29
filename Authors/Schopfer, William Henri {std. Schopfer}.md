@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33333441) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33333441) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9233-1), [Wikidata](https://www.wikidata.org/wiki/Q17194423). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schopfer, William Henri (1900-1962), Swiss botanist and microbiologist; student of R. Chodat, Genève; Dr. phil. Genève 1928; lecturer in plant physiology at Genève 1929-1933; professor of botany and director of the botanical garden of Bern University 1933-1962. 
-**Abbreviated name**: *Schopfer*
+**Abbreviated name**: *Schopfer* \[standard form in IPNI: *W.H.Schopfer*\]
 
 #### Herbarium and types
 

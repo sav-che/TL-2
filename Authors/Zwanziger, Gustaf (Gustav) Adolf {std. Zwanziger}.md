@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33066905) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33066905) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12077-1), [Wikidata](https://www.wikidata.org/wiki/Q16062255). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zwanziger, Gustaf \[Gustav\] Adolf (1839-1893), Austrian library assistant, botanist at Salzburg until 1863; assistant librarian at Klagenfurt 1863-1867; assistant in the Klagenfurt natural history museum 1867-1893; editor of the Kärntner Gartenzeitung 1873-1886. 
-**Abbreviated name**: *Zwanziger*
+**Abbreviated name**: *Zwanziger* \[standard form in IPNI: *Zwanziger*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 734](https://www.biodiversitylibrary.org/page/33120865) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 734](https://www.biodiversitylibrary.org/page/33120865) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2485-1), [Wikidata](https://www.wikidata.org/wiki/Q21511550). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ehrhart, Johann Balthasar (1700-1756), German physician and botanist, physician at Memmingen. 
-**Abbreviated name**: *J. B. Ehrh.*
+**Abbreviated name**: *J. B. Ehrh.* \[standard form in IPNI: *J.B.Ehrh.*\]
 
 #### Herbarium and types
 

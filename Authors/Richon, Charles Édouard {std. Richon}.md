@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33190244) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33190244) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8364-1), [Wikidata](https://www.wikidata.org/wiki/Q21607192). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Richon, Charles Édouard (1820-1893), French botanist and, from 1847, practicing physician at Saint-Amand (Marne). 
-**Abbreviated name**: *Richon*
+**Abbreviated name**: *Richon* \[standard form in IPNI: *Richon*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33265850) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33265850) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17263-1), [Wikidata](https://www.wikidata.org/wiki/Q4503903). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cienkowski, Leo de (Tzenkovskii, Lev Semenovich) {std. Cienk.}|first entry]] for this author
 
 ### Author
 
 \* Cienkowski\[or -y\], Leo de (Tzenkovskii, Lev Semenovich) (1822-1887), Polish biologist and microscopist, born at Warsaw 13 Oct 1822, educated at the Gymnasium of St.Petersburg, professor of botany at the University of St. Petersburg 1854-1861, id. at Warsaw 1862-1865, at Odessa 1865-1871 and Charkof 1871-1887, died 7 Oct 1887 at Leipzig. 
-**Abbreviated name**: *Cienk.*
+**Abbreviated name**: *Cienk.* \[standard form in IPNI: *Cienk.*\]
 
 #### Herbarium and types
 

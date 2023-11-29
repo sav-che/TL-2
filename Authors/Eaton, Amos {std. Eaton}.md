@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33120848) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33120848) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2447-1), [Wikidata](https://www.wikidata.org/wiki/Q474250). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eaton, Amos (1776-1842), American botanist, lecturer and writer; great popularizer of botanical science. 
-**Abbreviated name**: *Eaton*
+**Abbreviated name**: *Eaton* \[standard form in IPNI: *Eaton*\]
 
 #### Herbarium and types
 

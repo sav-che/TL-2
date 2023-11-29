@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33333216) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33333216) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8963-1), [Wikidata](https://www.wikidata.org/wiki/Q3084030). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sauvages, François Boissier de la Croix de (1706-1767), French naturalist and physician; Dr. med. Montpellier 1726; professor of medicine (1734), later of botany (1740) at the University of Montpellier; royal professor of botany ib. 1755; staunch supporter of Linnaeus and the Linnaean ideas in France. 
-**Abbreviated name**: *Sauvages*
+**Abbreviated name**: *Sauvages* \[standard form in IPNI: *Sauvages*\]
 
 #### Herbarium and types
 

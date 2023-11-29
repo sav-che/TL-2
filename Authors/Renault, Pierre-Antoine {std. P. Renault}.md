@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33190198) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33190198) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8286-1), [Wikidata](https://www.wikidata.org/wiki/Q3383751). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Renault, Pierre-Antoine (1750-1835), French botanist at Rouen and Alençon; from 1795 professor of natural history at the École centrale de l'Orne at Alençon, establishing a botanical garden and a natural history museum. 
-**Abbreviated name**: *P. Renault*
+**Abbreviated name**: *P. Renault* \[standard form in IPNI: *P.Renault*\]
 
 #### Herbarium and types
 

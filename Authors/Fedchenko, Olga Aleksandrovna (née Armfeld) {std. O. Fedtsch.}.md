@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33120948) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33120948) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12497-1), [Wikidata](https://www.wikidata.org/wiki/Q3350415). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fedtschenko (Fedchenko), Olga A. (née Armfeld) {std. O. Fedtsch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fedchenko, Olga Aleksandrovna (née Armfeld) (1845-1921), Russian botanist, explorer of Central Asia, wife of A. P. Fedchenko. 
-**Abbreviated name**: *O. Fedch.*
+**Abbreviated name**: *O. Fedch.* \[standard form in IPNI: *O.Fedtsch.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/page/33190240) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/page/33190240) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8354-1), [Wikidata](https://www.wikidata.org/wiki/Q21607184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Richards, Herbert Maule (1871-1928), American botanist; Dr. Sci. Harvard 1895; tutor in botany in Barnard College, Columbia Univ., New York 1897, adjunct professor of botany 1903, ord. professor 1906; president of the Torrey botanical Club 1917. 
-**Abbreviated name**: *H. Richards*
+**Abbreviated name**: *H. Richards* \[standard form in IPNI: *H.Richards*\]
 
 #### Herbarium and types
 

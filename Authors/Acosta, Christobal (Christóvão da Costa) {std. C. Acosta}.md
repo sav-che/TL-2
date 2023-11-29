@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33120100) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33120100) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/57-1), [Wikidata](https://www.wikidata.org/wiki/Q384460). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Acosta, Christobal (Christóvão da Costa) (1512-1580), Portuguese botanist. 
-**Abbreviated name**: *C. Acosta*
+**Abbreviated name**: *C. Acosta* \[standard form in IPNI: *C.Acosta*\]
 
 #### Herbarium and types
 

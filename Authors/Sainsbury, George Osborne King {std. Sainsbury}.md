@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1061](https://www.biodiversitylibrary.org/page/33190532) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1061](https://www.biodiversitylibrary.org/page/33190532) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8820-1), [Wikidata](https://www.wikidata.org/wiki/Q21607618). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sainsbury, George Osborne King (1880-1957), New Zealand barrister, solicitor and bryologist; practiced at Gisborne, New Zealand 1903-1911, farming 1911-1917, practicing sollicitor 1917-1946. 
-**Abbreviated name**: *Sainsbury*
+**Abbreviated name**: *Sainsbury* \[standard form in IPNI: *Sainsbury*\]
 
 #### Herbarium and types
 

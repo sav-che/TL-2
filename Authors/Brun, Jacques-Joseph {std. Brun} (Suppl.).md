@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33266465) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33266465) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1223-1), [Wikidata](https://www.wikidata.org/wiki/Q21506570). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brun, Jacques-Joseph {std. Brun}|first entry]] for this author
 
 ### Author
 
 \* Brun, Jacques-Joseph (1826-1908), Swiss pharmacist and diatomist at Genève, educated by his maternal grandfather, physician at Verney, studied pharmacy at Genève and Paris (École de Pharmacie, with Balard), settled in Genève as pharmacist, from1876-1900 professor of pharmacology at the Faculté de Médecine of Genève, in addition a diatomist especially dealing with the Alps and the Jura. 
-**Abbreviated name**: *Brun*
+**Abbreviated name**: *Brun* \[standard form in IPNI: *Brun*\]
 
 #### Herbarium and types
 

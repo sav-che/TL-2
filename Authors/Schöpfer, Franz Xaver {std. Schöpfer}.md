@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33333432) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33333432) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9223-1), [Wikidata](https://www.wikidata.org/wiki/Q21608321). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schöpfer, Franz Xaver (1777-1855), Austrian botanist; practicing physician at Innsbruck. 
-**Abbreviated name**: *Schöpfer*
+**Abbreviated name**: *Schöpfer* \[standard form in IPNI: *Schöpfer*\]
 
 #### Herbarium and types
 

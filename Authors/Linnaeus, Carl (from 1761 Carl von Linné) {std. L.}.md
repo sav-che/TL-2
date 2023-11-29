@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33355158) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33355158) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12653-1), [Wikidata](https://www.wikidata.org/wiki/Q1043). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Linnaeus, Carl (from 1761: Carl von Linné) (1707-1778), Swedish botanist, physician and zoologist; Dr. med. Harderwijk 1735; in the Netherlands 1735-1738, for the greater part of the time as physician to George Clifford at the Hartecamp near Haarlem; from 1738-1741 practicing physician at Stockholm; professor of medicine and botany at Uppsala 1741-1778; founder of modern plant systematics and nomenclature. 
-**Abbreviated name**: *L.*
+**Abbreviated name**: *L.* \[standard form in IPNI: *L.*\]
 
 #### Herbarium and types
 

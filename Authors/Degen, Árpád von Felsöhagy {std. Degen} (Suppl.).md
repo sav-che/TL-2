@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33259197) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33259197) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2079-1), [Wikidata](https://www.wikidata.org/wiki/Q840188). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Degen, Arpád von {std. Degen}|first entry]] for this author
 
 ### Author
 
 \* Degen, Árpád von Felsöhagy (1866-1934), Hungarian botanist, born at Presburg (Pozsony) 31 Mar 1866, at the Gymnasium in Presburg until ca. 1883, at the University of Budapest on the medical faculty, at the "Kön. Ung. Samenkontrollstation" for 38 years, university professor from 1927. 
-**Abbreviated name**: *Degen*
+**Abbreviated name**: *Degen* \[standard form in IPNI: *Degen*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33355776) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33355776) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6850-1), [Wikidata](https://www.wikidata.org/wiki/Q21521980). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nam, Vincenzo (1855-?), Italian physician and botanist; Dr. med. Univ. Torino. 
-**Abbreviated name**: *Nam*
+**Abbreviated name**: *Nam* \[standard form in IPNI: *Nam*\]
 
 #### Herbarium and types
 

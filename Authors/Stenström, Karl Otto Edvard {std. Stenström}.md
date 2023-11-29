@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 885](https://www.biodiversitylibrary.org/page/33334024) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 885](https://www.biodiversitylibrary.org/page/33334024) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10097-1), [Wikidata](https://www.wikidata.org/wiki/Q21609777). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stenström, Karl Otto Edvard (1858-1901), Swedish botanist; Dr. phil. Uppsala 1890; from 1897 teacher at a high school in Norrköping. 
-**Abbreviated name**: *Stenström*
+**Abbreviated name**: *Stenström* \[standard form in IPNI: *Stenstr.*\]
 
 #### Herbarium and types
 

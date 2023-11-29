@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/page/33333761) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/page/33333761) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/30427-1), [Wikidata](https://www.wikidata.org/wiki/Q16945443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sirodot, Simon (1825-1903), French botanist; studied at Dijon and Paris; École normale supérieure 1852; high school teacher at Toulouse, Strasbourg, Le Mans, Cahors, Limoges; professor of botany and zoology at the Faculty of Sciences, Rennes 1860 (regular: 1867)-1895. 
-**Abbreviated name**: *Sirodot*
+**Abbreviated name**: *Sirodot* \[standard form in IPNI: *Sirodot*\]
 
 #### Herbarium and types
 

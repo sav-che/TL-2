@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33066597) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33066597) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11635-1), [Wikidata](https://www.wikidata.org/wiki/Q4110481). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wibel, August Wilhelm Eberhard Christoph (1775-1813), German (Württemberg) physician and botanist; studied in Jena from 1797; Dr. med. 1797; practicing at Wertheim am Main (Baden). 
-**Abbreviated name**: *Wibel*
+**Abbreviated name**: *Wibel* \[standard form in IPNI: *Wibel*\]
 
 #### Herbarium and types
 

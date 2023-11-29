@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33120774) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33120774) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2189-1), [Wikidata](https://www.wikidata.org/wiki/Q21510351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dick, James (x-1775), Swiss amateur botanist who collected widely in Switzerland, and who was acquainted with A. von Haller. 
-**Abbreviated name**: *Dick*
+**Abbreviated name**: *Dick* \[standard form in IPNI: *Dick*\]
 
 #### Herbarium and types
 

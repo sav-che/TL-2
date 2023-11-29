@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2015-02-17 14:14:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33264940) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33264940) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/338-1), [Wikidata](https://www.wikidata.org/wiki/Q5140488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Austin, Coe Finch {std. Aust.}|first entry]] for this author
 
 ### Author
 
 \* Austin, Coe Finch (1831-1880), American bryologist, grew up in Greenville, N.Y. and Brookfield (State Hill, Ornage County, N.Y.), at a classical school in Sussex, N.Y. ca. 1850, school teacher at Tappan, N.Y. 1857, at the Columbia College Herbarium 1861-1863, teacher at Demarest, N.Y. 1865-1866 and subsequently at various other schools turning more to botanizing. 
-**Abbreviated name**: *Aust.*
+**Abbreviated name**: *Aust.* \[standard form in IPNI: *Austin*\]
 
 #### Herbarium and types
 

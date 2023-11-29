@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1009](https://www.biodiversitylibrary.org/page/33190480) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1009](https://www.biodiversitylibrary.org/page/33190480) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8761-1), [Wikidata](https://www.wikidata.org/wiki/Q313067). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rutherford, Daniel (1749-1819), British (Scottish) botanist, chemist and physician; MD Edinburgh 1772; practicing physician at Edinburgh 1775-1786; professor of botany and regius keeper, Royal Botanic Garden, Edinburgh 1786-1819 
-**Abbreviated name**: *Rutherford*
+**Abbreviated name**: *Rutherford* \[standard form in IPNI: *Rutherf.*\]
 
 #### Herbarium and types
 

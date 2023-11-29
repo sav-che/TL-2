@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33258698) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33258698) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3160-1), [Wikidata](https://www.wikidata.org/wiki/Q1450859). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gillot, François Xavier {std. Gillot}|first entry]] for this author
 
 ### Author
 
 \* Gillot, \[François-\] Xavier (1842-1910), French botanist, physician and zoologist, born \[12 Sep?\] 14 Nov 1842 in Roussillon-en-Morvan (Autun, Saòne-et-Loire), Dr. en médecine 1869 Paris where he worked with A.T. Brongniart on the local flora, but returned to Autun where he cared for the sick and botanized (collecting and publishing) the remainder of his life, died 18 Oct 1910 in Autun. 
-**Abbreviated name**: *Gillot*
+**Abbreviated name**: *Gillot* \[standard form in IPNI: *Gillot*\]
 
 #### Note
 

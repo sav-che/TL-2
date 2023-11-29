@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33265810) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33265810) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/32731-1), [Wikidata](https://www.wikidata.org/wiki/Q21508499). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cholnoky, Béla Jenö (1899-1972), Hungarian (Budapest born) algologist and cytologist, born 27 Jun 1899, visited the gymnasium at Kolozsvár (now Cluj), studied at the Universities of Koloszvár and Szeged, graduated 1924, \[second\] Dr. phil. 1925, assistant at the Botanical Institute of the Franz-Josephs-University in Szeged 1925-1926, after the Hungarian uprisings of 1926 employed by a Dutch seedfirm, at the same time studying diatoms, came 1946 to Enkhuizen (Netherlands), at various Dutch institutes, was appointed lecturer in botany at Pretoria University in 1952, with the Natural Institute of water Research of the C.S.T.R. Pretoria, died 1972. 
-**Abbreviated name**: *Cholnoky*
+**Abbreviated name**: *Cholnoky* \[standard form in IPNI: *Cholnoky*\]
 
 #### Herbarium and types
 

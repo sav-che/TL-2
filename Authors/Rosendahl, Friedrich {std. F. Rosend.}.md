@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 892](https://www.biodiversitylibrary.org/page/33190363) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 892](https://www.biodiversitylibrary.org/page/33190363) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8596-1), [Wikidata](https://www.wikidata.org/wiki/Q21342003). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rosendahl, Friedrich (1881-1942), German (Prussian) lichenologist; studied at Göttingen, München, Münster i.w.; Dr. phil. Münster i.w. 1907; high school teachers exam. Münster 1906; student of W. Zopf and G. Bitter; high school teacher at Münster (1906), Soest (1907), Iserlohn (1907), "studienrat" at the Soest Gymnasium 1908-1926; "Oberstudienrat" Gronau 1926. 
-**Abbreviated name**: *F. Rosend.*
+**Abbreviated name**: *F. Rosend.* \[standard form in IPNI: *F.Rosend.*\]
 
 #### Herbarium and types
 

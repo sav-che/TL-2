@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33258718) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33258718) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3192-1), [Wikidata](https://www.wikidata.org/wiki/Q64257). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gleditsch, Johann Gottlieb {std. Gled.}|first entry]] for this author
 
 ### Author
 
 \* Gleditsch, Johann Gottlieb (1714-1786), German botanist and sylviculturist, born 5 Feb 1714 in Leipzig, doctorate 1730 Leipzig, curator in Leipzig 1731-1735, Dr. med. 1742 Univ. Frankfurt/Oder, first Dir. (Praefectus) Berlin Botanical Garden 1744-1786 and other posts in forestry, died 5 Oct 1786 in Berlin. 
-**Abbreviated name**: *Gled*
+**Abbreviated name**: *Gled* \[standard form in IPNI: *Gled.*\]
 
 #### Herbarium and types
 

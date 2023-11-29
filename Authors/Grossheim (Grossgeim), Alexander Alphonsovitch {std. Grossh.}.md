@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2018-10-25 09:15:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33258891) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33258891) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3417-1), [Wikidata](https://www.wikidata.org/wiki/Q2368398). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Grossheim \[Grossgeim\], Alexander \[Aleksandr\] Alphonsovitch \[Alfonsovich\] (1888-1948), Ukrainian-born Soviet botanist, born 6 Mar 1888 in Lichovka nr. Verchnedneprovsk, Ekaterinoslav (from 1926 Dnipropetrovsk), educated at Karkov, Moscow and Tiflis (Tibilisi), worked at Tiflis Botanic Garden, Baku 1929-1946 and then in Leningrad 1946-1948, died 4 Dec 1948 in Leningrad. 
-**Abbreviated name**: *Grossh.*
+**Abbreviated name**: *Grossh.* \[standard form in IPNI: *Grossh.*\]
 
 #### Note
 

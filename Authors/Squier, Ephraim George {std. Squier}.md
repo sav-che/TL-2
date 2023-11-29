@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 820](https://www.biodiversitylibrary.org/page/33333959) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 820](https://www.biodiversitylibrary.org/page/33333959) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9998-1), [Wikidata](https://www.wikidata.org/wiki/Q721839). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Squier, Ephraim George (1821-1888), American archeologist, ethnologist, diplomat and editor; journal editor at Albany, Hartford and Chilicothe 1841-1848; chargé d'affaires to the Central American republics 1849, U.S. commissioner in Peru 1863-1865; consul-general of Honduras in New York 1868. 
-**Abbreviated name**: *Squier*
+**Abbreviated name**: *Squier* \[standard form in IPNI: *Squier*\]
 
 #### Herbarium and types
 

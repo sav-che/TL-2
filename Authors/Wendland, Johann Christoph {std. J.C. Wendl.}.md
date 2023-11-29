@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33066522) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33066522) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11548-1), [Wikidata](https://www.wikidata.org/wiki/Q67700). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wendland, Johann Christoph (1755-1828), German (Pfalz) botanist and gardener; studied horticulture at Karlsruhe 1772-1776, Kassel 1776-1778 and Herrenhausen 1778-1780; gardener at Herrenhausen 1780-1795; chief gardener ib. 1795-1817; garden inspector 1817-1828. 
-**Abbreviated name**: *J.C. Wendl.*
+**Abbreviated name**: *J.C. Wendl.* \[standard form in IPNI: *J.C.Wendl.*\]
 
 #### Herbarium and types
 

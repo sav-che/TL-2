@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33189845) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33189845) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7922-1), [Wikidata](https://www.wikidata.org/wiki/Q36597346). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Prahl, Johann Friedrich (*fl*. 1837), German botanist; teacher at the gymnasium of Güstrow (Mecklenburg-Schwerin), later clergyman at Hehen-Horn (Lauenburg). 
-**Abbreviated name**: *J. Prahl*
+**Abbreviated name**: *J. Prahl* \[standard form in IPNI: *J.Prahl*\]
 
 #### Herbarium and types
 

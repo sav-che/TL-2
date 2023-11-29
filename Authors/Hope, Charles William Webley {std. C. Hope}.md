@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33068544) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33068544) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4093-1), [Wikidata](https://www.wikidata.org/wiki/Q5765023). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hope, Charles William Webley (1832-1904), British civil engineer and botanist; in India 1859-1896; collected in Kumaon, Simla and the Western Himalayas. 
-**Abbreviated name**: *C. Hope*
+**Abbreviated name**: *C. Hope* \[standard form in IPNI: *C.Hope*\]
 
 #### Herbarium and types
 

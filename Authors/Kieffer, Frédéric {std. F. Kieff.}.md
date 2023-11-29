@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33068779) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33068779) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4771-1), [Wikidata](https://www.wikidata.org/wiki/Q21517485). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kieffer, Frédéric (182 7-192 7), French botanist of Alsatian origin at Marseille, director of the Petit Lycée. 
-**Abbreviated name**: *F. Kieff.*
+**Abbreviated name**: *F. Kieff.* \[standard form in IPNI: *F.Kieff.*\]
 
 #### Herbarium and types
 

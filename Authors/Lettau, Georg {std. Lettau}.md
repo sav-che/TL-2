@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33069101) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33069101) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/22272-1), [Wikidata](https://www.wikidata.org/wiki/Q21338878). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lettau, Georg (1878-1951), German physician and lichenologist; ophthalmologist at Arnstadt (1906-1910); from 1910 at Lörrach, Baden, until 1923 as practicing ophthalmologist, 1923-1931 as administrator. 
-**Abbreviated name**: *Lettau*
+**Abbreviated name**: *Lettau* \[standard form in IPNI: *Lettau*\]
 
 #### Herbarium and types
 

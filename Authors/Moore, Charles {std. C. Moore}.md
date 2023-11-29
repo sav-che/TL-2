@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33355654) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33355654) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6612-1), [Wikidata](https://www.wikidata.org/wiki/Q2959847). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moore, Charles (1820-1905), Scottish-born Australian botanist; director of the Botanical Garden at Sydney (1848-1896); younger brother of David Moore. 
-**Abbreviated name**: *C. Moore*
+**Abbreviated name**: *C. Moore* \[standard form in IPNI: *C.Moore*\]
 
 #### Herbarium and types
 

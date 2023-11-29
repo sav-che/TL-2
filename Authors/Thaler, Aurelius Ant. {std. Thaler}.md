@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33212274) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33212274) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10542-1), [Wikidata](https://www.wikidata.org/wiki/Q21610519). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thaler, Aurelius Ant. (1796-1843), Moravian botanist and Augustine monk; professor of philosophy at Brno \[Brünn\] from 1820. 
-**Abbreviated name**: *Thaler*
+**Abbreviated name**: *Thaler* \[standard form in IPNI: *Thaler*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33068644) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33068644) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4379-1), [Wikidata](https://www.wikidata.org/wiki/Q125552). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jacobsen, Hermann Johannes Heinrich (1898-x), German horticulturist and botanist; curator of the Kiel botanical garden; author on succulent plants; Dr. h.c. Kiel 1963. 
-**Abbreviated name**: *H. Jacobsen*
+**Abbreviated name**: *H. Jacobsen* \[standard form in IPNI: *H.Jacobsen*\]
 
 #### Herbarium and types
 

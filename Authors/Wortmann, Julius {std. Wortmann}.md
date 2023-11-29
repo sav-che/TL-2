@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33066799) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33066799) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11873-1), [Wikidata](https://www.wikidata.org/wiki/Q1668949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wortmann, Julius (1856-1925), German (Westfalen) botanist; studied natural sciences at the University of Berlin 1875-1877 (especially with L. Kny), id. Würzburg 1877-1879 with J. Sachs; Dr. phil. Würzburg 1879; assistant with A. de Bary in Strassburg 1880-1884; habil. Strassburg 1883; lecturer ib. 1883-1891; head of the plant physicological experiment station at Geisenheim a. Rh. 1891-1895; from 1895-1925 with the title professor, ultimately as director of the station. 
-**Abbreviated name**: *Wortmann*
+**Abbreviated name**: *Wortmann* \[standard form in IPNI: *Wortmann*\]
 
 #### Herbarium and types
 

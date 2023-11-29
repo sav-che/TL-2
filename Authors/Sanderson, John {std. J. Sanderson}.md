@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33333133) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33333133) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/35156-1), [Wikidata](https://www.wikidata.org/wiki/Q21607697). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sanderson, John (1820/21-1881), Scottish journalist, trader, botanical collector and horticulturist; to Durban, S. Afr., 1850; active in the Horticultural Society of Natal; secretary of the "Natal Times" Company 1851. 
-**Abbreviated name**: *J. Sanderson*
+**Abbreviated name**: *J. Sanderson* \[standard form in IPNI: *Sand.*\]
 
 #### Herbarium and types
 

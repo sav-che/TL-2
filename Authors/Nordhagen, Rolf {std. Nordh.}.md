@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/page/33355853) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 766](https://www.biodiversitylibrary.org/page/33355853) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7028-1), [Wikidata](https://www.wikidata.org/wiki/Q1843500). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nordhagen, Rolf (1894-1979), Norwegian botanist, especially geobotanist; Dr. phil. Oslo 1922; assistant at the Oslo botanic garden 1915-1920; at Oslo university 1920-1925; professor of botany Bergen 1925-1946; idem at Oslo 1946-1964. 
-**Abbreviated name**: *Nordh.*
+**Abbreviated name**: *Nordh.* \[standard form in IPNI: *Nordh.*\]
 
 #### Herbarium and types
 

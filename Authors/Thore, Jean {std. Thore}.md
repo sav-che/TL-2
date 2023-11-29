@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33212333) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33212333) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10625-1), [Wikidata](https://www.wikidata.org/wiki/Q3174797). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thore, Jean (1762-1823), French physician and naturalist; army physician in S. France from 1792, later practicing physician at Dax; from 1815 some time school teacher at Saint-Vincent, ultimately again at Dax. 
-**Abbreviated name**: *Thore*
+**Abbreviated name**: *Thore* \[standard form in IPNI: *Thore*\]
 
 #### Herbarium and types
 

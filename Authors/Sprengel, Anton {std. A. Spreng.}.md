@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33333943) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33333943) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9990-1), [Wikidata](https://www.wikidata.org/wiki/Q8201022). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sprengel, Anton (1803-1851), German (Prussian-Saxony) botanist; Dr. phil. Halle 1825; habil. ib. 1828; lecturer at the University of Halle from 1829; ultimately volunteer in the Schleswig-Holstein war of 1851; son of K.P.J. Sprengel. 
-**Abbreviated name**: *A. Spreng.*
+**Abbreviated name**: *A. Spreng.* \[standard form in IPNI: *A.Spreng.*\]
 
 #### Herbarium and types
 

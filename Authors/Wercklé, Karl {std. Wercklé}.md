@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33066530) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33066530) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11559-1), [Wikidata](https://www.wikidata.org/wiki/Q21392078). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wercklé, Karl (1860-1924), French (Lorraine)-born botanist and horticulturist of Alsatian descent and German culture; went to the United States; horticulturist with J.L. Childs, Long Island; travelled in Costa Rica 1897-1898; with Siebrecht and Wadley in New York and New Rochelle 1898-1902; in Costa Rica working mainly as a private horticulturist 1902-1924. 
-**Abbreviated name**: *Wercklé*
+**Abbreviated name**: *Wercklé* \[standard form in IPNI: *Wercklé*\]
 
 #### Herbarium and types
 

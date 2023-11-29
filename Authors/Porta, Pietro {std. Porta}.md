@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33189814) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33189814) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7861-1), [Wikidata](https://www.wikidata.org/wiki/Q3904186). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Porta, Pietro (1832-1923), Italian botanist and clergyman; in Vallaria 1856; later priest at Bolone, Val Vestino, Trento; explored S. Tirol, Spain, the Balearic Is. with R. Huter and G. Rigo; ultimately living in Cologna di Creto. 
-**Abbreviated name**: *Porta*
+**Abbreviated name**: *Porta* \[standard form in IPNI: *Porta*\]
 
 #### Herbarium and types
 

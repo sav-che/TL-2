@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33212467) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33212467) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10782-1), [Wikidata](https://www.wikidata.org/wiki/Q21610923). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tracy, Cyrus Mason (1824-1891), American botanist and civil engineer; some time professor of materia medica Massachusetts College of Pharmacy; writer on the flora of Essex Co., Mass., father of the composer Georg Lowell Tracy. 
-**Abbreviated name**: *C.M. Tracy*
+**Abbreviated name**: *C.M. Tracy* \[standard form in IPNI: *C.M.Tracy*\]
 
 #### Herbarium and types
 

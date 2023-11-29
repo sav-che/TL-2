@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33265813) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33265813) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17214-1), [Wikidata](https://www.wikidata.org/wiki/Q21392968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chopra, Govardhan Lal (1903-x), Indian botanist, born 1 Dec 1903 Chhanga Manga, Lahore/Punjab, Pakistan, M.Sc. 1930 (Hons) bot., 1-st class from Gov. College in Lahore, 1930-1932 univ. research scholar at Punjab Univ., Bot. dept., 1935 Head of the Biology Dept. and Prof. Bot. College Jullundur City. 
-**Abbreviated name**: *G.L. Chopra*
+**Abbreviated name**: *G.L. Chopra* \[standard form in IPNI: *G.L.Chopra*\]
 
 #### Herbarium and types
 

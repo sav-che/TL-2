@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33266463) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33266463) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1217-1), [Wikidata](https://www.wikidata.org/wiki/Q21509980). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bruijn, Ary Johannes de (1811-1895), Dutch army horse veterinarian and amateur botanist, born at Delft, with the War Department trained to become a military veterinarian, apprentice 1829-1834, veterinarian first class 1834, adjunct 1834-1840 at Tilburg, from 1845 again on active duty. 
-**Abbreviated name**: *Bruijn*
+**Abbreviated name**: *Bruijn* \[standard form in IPNI: *Bruijn*\]
 
 #### Herbarium and types
 

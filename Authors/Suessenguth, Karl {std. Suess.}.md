@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33212123) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33212123) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12900-1), [Wikidata](https://www.wikidata.org/wiki/Q91125). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Suessenguth, Karl (1893-1955), German (Unterfranken, Bavarian) botanist; student of K. Goebel at München; on active service 1915-1918; Dr. phil. München 1919; habil. ib. 1922; scientific assistant with Goebel 1919-1927; extraordinary professor of botany at the University of München 1927-1955; interim director of the Botanical Institute, München 1945-1948; curator of the Botanische Staatssammlung 1927-1955. 
-**Abbreviated name**: *Suess.*
+**Abbreviated name**: *Suess.* \[standard form in IPNI: *Suess.*\]
 
 #### Herbarium and types
 

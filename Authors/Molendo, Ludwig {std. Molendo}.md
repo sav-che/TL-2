@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33355634) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33355634) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23533-1), [Wikidata](https://www.wikidata.org/wiki/Q21521617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Molendo, Ludwig (1833-1902), German bryologist and journalist, editor of the Bayreuther Zeitung (1866-1868), Passauer Zeitung (1868-1875), Oberpfälzer Kurier (Regensburg) 1875-1877; from 1877 of various journals in Bayreuth (1877-1878) and München. 
-**Abbreviated name**: *Molendo*
+**Abbreviated name**: *Molendo* \[standard form in IPNI: *Molendo*\]
 
 #### Herbarium and types
 

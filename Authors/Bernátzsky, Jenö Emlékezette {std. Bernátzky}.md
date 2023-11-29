@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-09-15 16:02:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33265305) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33265305) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/13461-1), [Wikidata](https://www.wikidata.org/wiki/Q21506014). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bernátzsky, Jenö Emlékezette (1873-1945), Hungarian botanist, Dr. phil. 1899, at the Botanical Department of the Hungarian national Museum 1896, at the Hungarian vine experiment station from 1910. 
-**Abbreviated name**: *Bernátzky*
+**Abbreviated name**: *Bernátzky* \[standard form in IPNI: *Bernátsky*\]
 
 #### Herbarium and types
 

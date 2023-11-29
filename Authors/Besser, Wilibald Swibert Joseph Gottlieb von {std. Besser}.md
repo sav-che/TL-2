@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33120339) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33120339) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/737-1), [Wikidata](https://www.wikidata.org/wiki/Q2658277). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Besser, Wilibald Swibert Joseph Gottlieb von {std. Besser} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Besser, Wilibald Swibert Joseph Gottlieb von (1784-1842), Austrian-Polish botanist. 
-**Abbreviated name**: *Besser*
+**Abbreviated name**: *Besser* \[standard form in IPNI: *Besser*\]
 
 #### Herbarium and types
 

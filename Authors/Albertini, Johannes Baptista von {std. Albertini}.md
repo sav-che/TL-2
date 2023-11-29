@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33120158) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33120158) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/123-1), [Wikidata](https://www.wikidata.org/wiki/Q62241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Albertini, Johann Baptist von {std. Albertini} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Albertini, Johannes Baptista von (1769-1831), Moravian brother and mycologist. 
-**Abbreviated name**: *Albertini*
+**Abbreviated name**: *Albertini* \[standard form in IPNI: *Alb.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33068829) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33068829) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4895-1), [Wikidata](https://www.wikidata.org/wiki/Q47120317). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koch, Erwin (fl. 1895), German botanist; Dr. phil. Erlangen 1895. 
-**Abbreviated name**: *E. Koch*
+**Abbreviated name**: *E. Koch* \[standard form in IPNI: *E.Koch*\]
 
 #### Herbarium and types
 

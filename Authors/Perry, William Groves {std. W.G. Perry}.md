@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33189649) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33189649) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7545-1), [Wikidata](https://www.wikidata.org/wiki/Q21522853). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Perry, William Groves (1796-1863), British bookseller and botanist, curator of the Warwickshire Museum at Warwick. 
-**Abbreviated name**: *W.G. Perry*
+**Abbreviated name**: *W.G. Perry* \[standard form in IPNI: *W.G.Perry*\]
 
 #### Herbarium and types
 

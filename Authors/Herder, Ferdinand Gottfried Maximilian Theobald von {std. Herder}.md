@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33068409) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33068409) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3869-1), [Wikidata](https://www.wikidata.org/wiki/Q1348727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Herder, Ferdinand Gottfried Maximilian Theobald von (1828-1896), German botanist who studied law at Erlangen but who was denied admittance to the bar on political grounds; to St. Petersburgh 1856 in various functions (ultimately librarian) at the herbarium. of the imperial botanical garden; Dr. phil. Leopoldina 1863; returned to Germany (Grünstadt) 1892, "Vermittler zwischen den russischen und deutschen Botanikern." 
-**Abbreviated name**: *Herder*
+**Abbreviated name**: *Herder* \[standard form in IPNI: *Herder*\]
 
 #### Herbarium and types
 

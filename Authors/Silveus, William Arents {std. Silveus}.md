@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33333741) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33333741) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9656-1), [Wikidata](https://www.wikidata.org/wiki/Q21608906). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Silveus, William Arents (1875-1953), Texas botanist and attorney; BA Waynesburg Coll. 1901; LLB Univ. Texas 1906; attorney in San Antonio, Texas 1906-1927; from then on in retirement dedicating himself e.g. to agrostological research. 
-**Abbreviated name**: *Silveus*
+**Abbreviated name**: *Silveus* \[standard form in IPNI: *Silveus*\]
 
 #### Herbarium and types
 

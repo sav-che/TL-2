@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33355944) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33355944) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7201-1), [Wikidata](https://www.wikidata.org/wiki/Q47123880). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ott, Johann (fl. 1851), Bohemian physician and botanist at Praha. 
-**Abbreviated name**: *Ott*
+**Abbreviated name**: *Ott* \[standard form in IPNI: *Ott*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33189477) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33189477) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7307-1), [Wikidata](https://www.wikidata.org/wiki/Q5864777). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Panizzi-Savio, Francesco (1817-1893), Italian pharmacist at San Remo; author on the flora of San Remo. 
-**Abbreviated name**: *Panizzi*
+**Abbreviated name**: *Panizzi* \[standard form in IPNI: *Panizzi*\]
 
 #### Herbarium and types
 

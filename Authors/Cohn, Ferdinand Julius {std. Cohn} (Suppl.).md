@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33265931) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33265931) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1724-1), [Wikidata](https://www.wikidata.org/wiki/Q76774). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cohn, Ferdinand Julius {std. Cohn}|first entry]] for this author
 
 ### Author
 
 \* Cohn, Ferdinand Julius (1828-1898), German, Breslau (now Wroclaw) born botanist, educated at the Gymnasium Maria Magdalena, Breslau, studied at the University of Breslau 1844 (sic)-1846, at the University of Berlin 1846-1847, Dr. phil. ib. 1847, returned to the University of Breslau studying medicine and botany, habil. 1850, e.o. professor 1857, regular professor 1872 ib., from 1866 in charge of the institute for physiology and cryptogamic studies, ultimately "geheimer Regierungsrath". 
-**Abbreviated name**: *Cohn*
+**Abbreviated name**: *Cohn* \[standard form in IPNI: *Cohn*\]
 
 #### Herbarium and types
 

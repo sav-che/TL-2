@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33355899) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33355899) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/33719-1), [Wikidata](https://www.wikidata.org/wiki/Q5395217). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Østrup, Ernst Vilhelm (1845-1917), Danish algologist. 
-**Abbreviated name**: *Østrup*
+**Abbreviated name**: *Østrup* \[standard form in IPNI: *Østrup*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33190198) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33190198) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8287-1), [Wikidata](https://www.wikidata.org/wiki/Q2615406). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Renelle, Alfred Barton (1865-1938), British botanist; BA Cantab 1887, M.A. 1891; B.Sc. London 1887; D.Sci. 1898; connected with the Botany Dept. British Museum, Nat. Hist., from 1888-1906 as assistant, from 1906-1930 as keeper; president Linnean Society, London 1923-1927; F.R.S. 1909; member of the Editorial Committee for the International Rules of botanical Nomenclature 1905-1935; Victoria Medal R.H.S. 1917. 
-**Abbreviated name**: *Rendle*
+**Abbreviated name**: *Rendle* \[standard form in IPNI: *Rendle*\]
 
 #### Herbarium and types
 

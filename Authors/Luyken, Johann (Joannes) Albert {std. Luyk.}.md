@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33355286) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33355286) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22645-1), [Wikidata](https://www.wikidata.org/wiki/Q21519671). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Luyken, Johann (Joannes) Albert (1785-1867), German-Dutch physician and lichenologist, born at Wessel, ultimately at Landfort nr. Gendringen (Arnhem region) 
-**Abbreviated name**: *Luyk.*
+**Abbreviated name**: *Luyk.* \[standard form in IPNI: *Luyk.*\]
 
 #### Herbarium and types
 

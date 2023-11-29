@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33264809) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33264809) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/164-1), [Wikidata](https://www.wikidata.org/wiki/Q5547529). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Almquist, Erik Gustaf (1892-1974), Swedish botanist, nephew of Ernst and Sigfrid Almquist, studied at Uppsala 1910-1917, Fil.mag. Ups. 1917, assistant ib. 1918-1919, curator of the Botanical Department of the Riksmuseum, Stockholm 1921, Dr.phil. Uppsala 1929, lector in Eskilstuna ca. 1940, later lector Uppsala, prof. title 1964. 
-**Abbreviated name**: *E.G. Almq.*
+**Abbreviated name**: *E.G. Almq.* \[standard form in IPNI: *E.G.Almq.*\]
 
 #### Herbarium and types
 

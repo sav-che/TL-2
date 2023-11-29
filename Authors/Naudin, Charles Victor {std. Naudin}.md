@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/page/33355782) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/page/33355782) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6867-1), [Wikidata](https://www.wikidata.org/wiki/Q2245197). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Naudin, Charles Victor (1815-1899), French botanist and horticulturist; Dr. sci. Paris 1842; botanist at the Muséum d'Histoire naturelle 1845 (aide-naturaliste 1854); owner of a private experimental garden at Collioure 1869-1878; from 1878 director of the botanical garden of the Villa Thuret at Antibes; early plant hybridiser. 
-**Abbreviated name**: *Naudin*
+**Abbreviated name**: *Naudin* \[standard form in IPNI: *Naudin*\]
 
 #### Herbarium and types
 

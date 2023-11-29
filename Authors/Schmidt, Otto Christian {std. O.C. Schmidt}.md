@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33333398) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33333398) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9167-1), [Wikidata](https://www.wikidata.org/wiki/Q6054694). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidt, Otto Christian (1900-1951), German (Berlin) botanist; Dr. phil. Berlin 1922; assistant at the Botanical Museum Berlin-Dahlem 1922-1939; lecturer (1931); extraordinary professor of pharmacognosy Univ. Berlin (1938); at the Institut für Pflanzenernährungslehre of the University of Berlin 1943-1949; at the University of Münster 1949-1951. 
-**Abbreviated name**: *O.C. Schmidt*
+**Abbreviated name**: *O.C. Schmidt* \[standard form in IPNI: *O.C.Schmidt*\]
 
 #### Herbarium and types
 

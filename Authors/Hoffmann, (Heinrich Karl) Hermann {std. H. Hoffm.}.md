@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33068484) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33068484) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12555-1), [Wikidata](https://www.wikidata.org/wiki/Q75367). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoffmann, \[Heinrich Karl\] Hermann (1819-1891), German mycologist, plant-geographer, and experimental systematist; Dr. med. Giessen 1841; practicing physician 1842; Privatdozent 1842; extraordinary professor 1848; from 1853 full professor of botany; from 1851 director of the botanic garden at Giessen. 
-**Abbreviated name**: *H. Hoffm.*
+**Abbreviated name**: *H. Hoffm.* \[standard form in IPNI: *H.Hoffm.*\]
 
 #### Herbarium and types
 

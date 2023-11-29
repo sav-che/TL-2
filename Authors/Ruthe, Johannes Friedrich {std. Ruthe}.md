@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1008](https://www.biodiversitylibrary.org/page/33190479) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1008](https://www.biodiversitylibrary.org/page/33190479) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8760-1), [Wikidata](https://www.wikidata.org/wiki/Q6215830). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ruthe, Johannes Friedrich (1788-1859), German (Hildesheim, Nieder-Sachsen) botanist and zoologist; studied medicine at the University of Berlin 1811; teacher at the Plamann College 1813, high school teacher at Frankfurt a. Oder 1823, at the Kölnische Gymnasium Berlin 1825, at the Berliner Städtische Gewerbeschule 1829-1842; in retirement at Berlin 1842-1859; student of the flora of the Mark Brandenburg, in his later years of the entomology of that region; natural sciences teacher of Theodor Fontane. 
-**Abbreviated name**: *Ruthe*
+**Abbreviated name**: *Ruthe* \[standard form in IPNI: *Ruthe*\]
 
 #### Herbarium and types
 

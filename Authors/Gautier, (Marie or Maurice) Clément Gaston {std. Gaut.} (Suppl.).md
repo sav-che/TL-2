@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33258631) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33258631) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3053-1), [Wikidata](https://www.wikidata.org/wiki/Q9029048). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gautier, Marie Clément Gaston {std. Gaut.}|first entry]] for this author
 
 ### Author
 
 \* Gautier, \[Marie or Maurice\] Clément Gaston (1841-1911), French botanist and land proprietor, born 10 Apr 1841 in Narbonne (Aude), studied natural history while he oversaw cultivation on his extensive land holdings, died 7 Oct 1911 in Narbonne. 
-**Abbreviated name**: *Gaut.*
+**Abbreviated name**: *Gaut.* \[standard form in IPNI: *Gaut.*\]
 
 #### Herbarium and types
 

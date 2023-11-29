@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33333277) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33333277) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9054-1), [Wikidata](https://www.wikidata.org/wiki/Q10274128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schenk, Ernst (1796-1859), German (Thüringian) botanist and botanical artist, "akademischer Zeichnenlehrer" in Jena. 
-**Abbreviated name**: *E. Schenk*
+**Abbreviated name**: *E. Schenk* \[standard form in IPNI: *E.Schenk*\]
 
 #### Herbarium and types
 

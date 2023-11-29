@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-05-29 08:29:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33120379) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33120379) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12349-1), [Wikidata](https://www.wikidata.org/wiki/Q540253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boenninghausen, Clemens Maria Friedrich von {std. Boenn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Boenninghausen, Clemens Maria Friedrich von (1785-1864), German physician and botanist at Münster. 
-**Abbreviated name**: *Boenn.*
+**Abbreviated name**: *Boenn.* \[standard form in IPNI: *Boenn.*\]
 
 #### Herbarium and types
 

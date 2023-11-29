@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 921](https://www.biodiversitylibrary.org/page/33334060) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 921](https://www.biodiversitylibrary.org/page/33334060) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10136-1), [Wikidata](https://www.wikidata.org/wiki/Q13220237). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stewart, Alban (1875-?), American botanist; Dr. phil. Harvard 1911; instructor in botany New Hampshire College 1909; id. at the Dept. of Botany, University of Wisconsin, 1911-1916; professor of botany, Florida State College for Women, Tallahassee 1916; collected in the Galapagos archipelago 1905-1906. 
-**Abbreviated name**: *A. Stewart*
+**Abbreviated name**: *A. Stewart* \[standard form in IPNI: *A.Stewart*\]
 
 #### Herbarium and types
 

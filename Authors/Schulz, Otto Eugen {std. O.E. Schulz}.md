@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33333527) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33333527) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9311-1), [Wikidata](https://www.wikidata.org/wiki/Q2598714). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schulz, Otto Eugen (1874-1936), German (Berlin) botanist; educated at Berlin (Friedrichs-Gymnsasium, Kön. Seminar für Stadtschullehrer); high school teacher at various schools in Berlin 1906-1931; from 1931 in retirement because of invalidity; collaborator with I. Urban for West Indian plants and with A. Engler and H. Harms on the Pflanzenreich and Nat. Pflanzenfam., ed. 2; specialist on Cruciferae and Erythroxylaceae. 
-**Abbreviated name**: *O.E. Schulz*
+**Abbreviated name**: *O.E. Schulz* \[standard form in IPNI: *O.E.Schulz*\]
 
 #### Herbarium and types
 

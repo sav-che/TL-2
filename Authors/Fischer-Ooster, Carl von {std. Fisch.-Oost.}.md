@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-10-06 17:43:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33120970) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33120970) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2751-1), [Wikidata](https://www.wikidata.org/wiki/Q21513171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fischer-Ooster, Carl (von) {std. Fisch.-Oost.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fischer-Ooster, Carl von (1807-1875), Swiss palaeobiologist and batologist at Thun, later in Bern. 
-**Abbreviated name**: *Fisch.-Oost.*
+**Abbreviated name**: *Fisch.-Oost.* \[standard form in IPNI: *Fisch.-Oost.*\]
 
 #### Herbarium and types
 

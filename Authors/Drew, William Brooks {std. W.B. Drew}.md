@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33260085) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33260085) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18198-1), [Wikidata](https://www.wikidata.org/wiki/Q21510911). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Drew, William Brooks (1908-x), American botanist, born at Greenwich (Conn.), 11 Dec 1908, S.B. at Massachusetts College in 1930, A.M. Harvard 1931, Ph.D. (taxon. bot.) in 1934, assistant Gray Herbarium 1931-1935, prof. biology and geology Amer. Int. Col. 1935-1936, asst. prof. botany, Tennessee 1936-1937, assoc. prof. Missouri 1939-1943, botanist Cinchona Missions to Ecuador and Colombia 1943-1945, from 1948 prof. botany Michigan State College. 
-**Abbreviated name**: *W.B. Drew*
+**Abbreviated name**: *W.B. Drew* \[standard form in IPNI: *W.B.Drew*\]
 
 #### Herbarium and types
 

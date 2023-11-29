@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33333416) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33333416) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9197-1), [Wikidata](https://www.wikidata.org/wiki/Q21608223). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schneider, Oskar (1841-1903), German (Saxonian) naturalist, traveller and teacher; Dr. phil. Leipzig 1866; studied at Leipzig 1860-1864; private teacher at Salzburg 1864-1866; teacher at the "Böttger'schen Institut", Dresden 1866-1867; private teacher in Egypt 1867-1869; teacher at the Freemason Institute, Dresden 1869-1872; teacher with the title professor at the Annen-Realgymnasium Dresden 1872-1893. 
-**Abbreviated name**: *O. Schneid.*
+**Abbreviated name**: *O. Schneid.* \[standard form in IPNI: *O.Schneid.*\]
 
 #### Herbarium and types
 

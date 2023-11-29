@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33260323) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33260323) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18483-1), [Wikidata](https://www.wikidata.org/wiki/Q21512076). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Emoto, Yoshikadzu (1892-x), Japanese botanist, working at the biological section, Tokyo National research institute of cultural properties, specialist on Myxomycetes, mycology, and bacteriology, studied some time with H. Molisch in Austria. 
-**Abbreviated name**: *Emoto*
+**Abbreviated name**: *Emoto* \[standard form in IPNI: *Emoto*\]
 
 #### Herbarium and types
 

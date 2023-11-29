@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33068296) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33068296) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3660-1), [Wikidata](https://www.wikidata.org/wiki/Q4495965). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Harkness, Harvey Willson (1821-1901), American physician and mycologist; in California from 1849, until 1869 at Sacramento as a practicing physician; from 1869 in retirement at San Francisco. 
-**Abbreviated name**: *Harkn.*
+**Abbreviated name**: *Harkn.* \[standard form in IPNI: *Harkn.*\]
 
 #### Herbarium and types
 

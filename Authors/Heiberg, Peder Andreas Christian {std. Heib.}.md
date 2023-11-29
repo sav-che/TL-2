@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33068378) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33068378) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3782-1), [Wikidata](https://www.wikidata.org/wiki/Q5797267). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Heiberg, Peder Andreas Christian (1837-1875), Danish algologist; Dr. phil. Kjøbenhavn 1863; one of the founders of the Dansk bot. Forening (1865). 
-**Abbreviated name**: *Heib.*
+**Abbreviated name**: *Heib.* \[standard form in IPNI: *Heib.*\]
 
 #### Herbarium and types
 

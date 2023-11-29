@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33266766) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33266766) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/20017475-1), [Wikidata](https://www.wikidata.org/wiki/Q21508014). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Castle, R. Lewis (1854-1922), English gardener and horticulturist, born at Chelsea (London), worked at Edgeware, later with his father at his nursery at Clapham, Kew gardener 1874-1877, idem sometime at the gardens at Holmbury (Surrey), accepted a position with the Journal of Horticulture for twelve years, later some time at gardens at Tunbridge Wells, from 1894 manager of the Experimental Fruit Farm at Woburn of the Duke of Bedford for some time. 
-**Abbreviated name**: *L. Castle*
+**Abbreviated name**: *L. Castle* \[standard form in IPNI: *L.Castle*\]
 
 #### Herbarium and types
 

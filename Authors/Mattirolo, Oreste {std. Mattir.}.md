@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33355459) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33355459) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23068-1), [Wikidata](https://www.wikidata.org/wiki/Q3885561). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mattirolo, Oreste (1856-1947), Italian botanist; at Bologna 1894-1898, extra-ord. prof. 1894, ord. prof. bot. 1895; at Firenze as prof. bot. and director of the botanical garden 1898-1900; idem at Torino 1900-1937. 
-**Abbreviated name**: *Mattir.*
+**Abbreviated name**: *Mattir.* \[standard form in IPNI: *Mattir.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33189729) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33189729) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7689-1), [Wikidata](https://www.wikidata.org/wiki/Q2593213). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pierre, Jean Baptiste Louis (1833-1905), French botanist, born on Réunion; studied in Paris 1851, in 1855 at Strasbourg; from 1861-1865 at the Calcutta botanical garden; from 1865-1877 director at the Saigon botanical garden, exploring Cambodja, Cochinchina and S. Siam; back to France 1877, living near or in Paris. 
-**Abbreviated name**: *Pierre*
+**Abbreviated name**: *Pierre* \[standard form in IPNI: *Pierre*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33260138) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33260138) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18251-1), [Wikidata](https://www.wikidata.org/wiki/Q2884274). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dufour, Léon (Marie) {std. L.M. Dufour}|first entry]] for this author
 
 ### Author
 
 \* Dufour, Léon Marie (1862-1942), French botanist (mycologist), born 4 Apr 1862 Dol-de-Bretagne, studied natural sciences, went to Paris as assistant at the faculty of sciences 1887 and was appointed by Gaston Bonnier at the "Laboratoire de biologie végétale" at Fontainebleau in 1890, died 15 Jan 1942. 
-**Abbreviated name**: *L.M. Dufour*
+**Abbreviated name**: *L.M. Dufour* \[standard form in IPNI: *L.M.Dufour*\]
 
 #### Herbarium and types
 

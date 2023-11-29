@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33190041) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33190041) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8123-1), [Wikidata](https://www.wikidata.org/wiki/Q5944857). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ramírez, José (1852-1904), Mexican botanist. 
-**Abbreviated name**: *Ramírez*
+**Abbreviated name**: *Ramírez* \[standard form in IPNI: *Ramírez*\]
 
 #### Herbarium and types
 

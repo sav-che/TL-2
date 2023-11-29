@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33190298) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33190298) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8477-1), [Wikidata](https://www.wikidata.org/wiki/Q21607296). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rodegher, Emilio (1856-1922), Italian botanist. 
-**Abbreviated name**: *Rodegher*
+**Abbreviated name**: *Rodegher* \[standard form in IPNI: *Rodegher*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33189468) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33189468) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7293-1), [Wikidata](https://www.wikidata.org/wiki/Q47123987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palouzier, Émile (*fl*. 1891), French botanist and pharmacist at the "École supérieure de Pharmacie", Montpellier. 
-**Abbreviated name**: *Palouz.*
+**Abbreviated name**: *Palouz.* \[standard form in IPNI: *Palouz.*\]
 
 #### Herbarium and types
 

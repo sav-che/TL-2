@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33212202) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33212202) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10414-1), [Wikidata](https://www.wikidata.org/wiki/Q11575905). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tanaka, Yoshio (1838-1916), Japanese botanist and entomologist; member of the Japanese Diet and House of Peers (1890); director of the Japan Forestry Association; secretary to the departments of Agriculture and Commerce and Home affairs. 
-**Abbreviated name**: *Y. Tanaka*
+**Abbreviated name**: *Y. Tanaka* \[standard form in IPNI: *Yo.Tanaka*\]
 
 #### Herbarium and types
 

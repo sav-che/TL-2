@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2014-12-17 10:27:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33068641) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33068641) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4364-1), [Wikidata](https://www.wikidata.org/wiki/Q4160115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jackson, George (c. 1780-1811), Scottish botanist; editor of the Botanists Repository (1807-1811); curator of the Lambert Herbarium. 
-**Abbreviated name**: *G. Jacks.*
+**Abbreviated name**: *G. Jacks.* \[standard form in IPNI: *Jacks.*\]
 
 #### Herbarium and types
 

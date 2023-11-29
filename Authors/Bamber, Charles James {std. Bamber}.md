@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33120245) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33120245) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/438-1), [Wikidata](https://www.wikidata.org/wiki/Q21505610). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bamber, Charles James {std. Bamber} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bamber, Charles James (1855-x), British soldier in the Indian Medical Service. 
-**Abbreviated name**: *Bamber*
+**Abbreviated name**: *Bamber* \[standard form in IPNI: *Bamber*\]
 
 #### Herbarium and types
 

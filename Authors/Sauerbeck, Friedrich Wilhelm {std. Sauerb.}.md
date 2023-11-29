@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33333203) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33333203) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26174-1), [Wikidata](https://www.wikidata.org/wiki/Q21607774). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sauerbeck, Friedrich Wilhelm (1801-1882), German (Baden) botanist; "Hofgerichtsrath" (law court official) at Freiburg i.B.; ultimately "Oberlandesgerichtsrath" in Karlsruhe. 
-**Abbreviated name**: *Sauerb.*
+**Abbreviated name**: *Sauerb.* \[standard form in IPNI: *Sauerb.*\]
 
 #### Herbarium and types
 

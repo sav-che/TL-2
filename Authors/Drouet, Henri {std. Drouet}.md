@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33120812) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33120812) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2319-1), [Wikidata](https://www.wikidata.org/wiki/Q10294687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Drouet, Henri (1829-x), French botanist and conchologist. 
-**Abbreviated name**: *Drouet*
+**Abbreviated name**: *Drouet* \[standard form in IPNI: *Drouet*\]
 
 #### Herbarium and types
 

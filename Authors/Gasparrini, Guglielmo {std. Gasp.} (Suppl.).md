@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33258610) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33258610) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3038-1), [Wikidata](https://www.wikidata.org/wiki/Q3119279). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gasparrini, Gulielmo {std. Gasp.}|first entry]] for this author
 
 ### Author
 
 \* Gasparrini, Guglielmo (1804-1866), Italian botanist, born 13 \[14?\] Jun 1804 in Castelgrande (Basilicata), graduated 1823 in veterinary medicine, became dir. of botanic garden Boccadifalco in Palermo, returned to teach botany at the Naples veterinary school 1842, appointed prof. of botany, Naples Univ. 1844, prof. and dir. of the Pavia Botanic Garden 1857-1861, returned again to Naples as dir. of its Botanic Garden from 1861 until his death, Accademia nazionale delle scienze 1862, died 28 Jun 1866. 
-**Abbreviated name**: *Gasp.*
+**Abbreviated name**: *Gasp.* \[standard form in IPNI: *Gasp.*\]
 
 #### Herbarium and types
 

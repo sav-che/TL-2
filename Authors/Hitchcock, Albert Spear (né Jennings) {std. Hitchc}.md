@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33068454) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33068454) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12552-1), [Wikidata](https://www.wikidata.org/wiki/Q2063155). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hitchcock, Albert Spear (né Jennings) (1865-1935), American botanist, leading agrostologist, at Ames (1885-1889), St. Louis (1889-1891), Manhattan, Kansas (1892-1901), USDA Washington 1901-1935; "eager explorer, far-seeing botanist, and wise promoter of scientific research in America" (Jepson, Fl. Calif. 1925, in copy presented to Hitchcock). 
-**Abbreviated name**: *Hitchc*
+**Abbreviated name**: *Hitchc* \[standard form in IPNI: *Hitchc.*\]
 
 #### Herbarium and types
 

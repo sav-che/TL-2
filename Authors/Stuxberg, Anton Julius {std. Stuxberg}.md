@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33212116) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33212116) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10260-1), [Wikidata](https://www.wikidata.org/wiki/Q6193998). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stuxberg, Anton Julius (1849-1902), Swedish zoologist and botanist; Dr. phil. Uppsala 1875; director of the zoological department of the Göteborg Museum 1882; accompanied A.E. Nordenskiöld on his Arctic journeys of 1875-1876 and 1878-1880 (Vega expedition). 
-**Abbreviated name**: *Stuxberg*
+**Abbreviated name**: *Stuxberg* \[standard form in IPNI: *Stuxberg*\]
 
 #### Herbarium and types
 

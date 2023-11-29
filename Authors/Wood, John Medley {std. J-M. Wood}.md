@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33066778) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33066778) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11845-1), [Wikidata](https://www.wikidata.org/wiki/Q1701052). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wood, John Medley (1827-1915), English-born South African botanist; in the East Indian merchant service ca. 1845-1852; emigrated to South Africa 1852; trading store owner Inanda, Natal 1852-1882; curator of the Natal Botanic Garden, Durban 1882-1908; director of the Natal Garden and Herbarium 1900; director of the Natal Herbarium 1913; D.Sc. h.c. Univ. Cape Good Hope 1913. 
-**Abbreviated name**: *J-M. Wood*
+**Abbreviated name**: *J-M. Wood* \[standard form in IPNI: *J.M.Wood*\]
 
 #### Herbarium and types
 

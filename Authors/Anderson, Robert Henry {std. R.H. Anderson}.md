@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33264837) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33264837) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/198-1), [Wikidata](https://www.wikidata.org/wiki/Q15975678). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Anderson, Robert Henry (1899-1969), Australian (N.S.W.) botanist, studied at Sydney University, B.Sc. Agr. 1921, on active Service 1918-1919, botanical assistant National Herbarium and Botanic Gardens Sydney 1921, id. assistant botanist 1925, botanist and curator 1936, chief botanist 1939, chief botanist and curator 1945, director from 1960-1964. 
-**Abbreviated name**: *R.H. Anderson*
+**Abbreviated name**: *R.H. Anderson* \[standard form in IPNI: *R.H.Anderson*\]
 
 #### Herbarium and types
 

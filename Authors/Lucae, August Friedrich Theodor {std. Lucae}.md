@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33355266) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33355266) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5792-1), [Wikidata](https://www.wikidata.org/wiki/Q21519556). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lucae, August Friedrich Theodor (1800-1848), German pharmacist and botanist. 
-**Abbreviated name**: *Lucae*
+**Abbreviated name**: *Lucae* \[standard form in IPNI: *Lucae*\]
 
 #### Herbarium and types
 

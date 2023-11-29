@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33068904) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33068904) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5022-1), [Wikidata](https://www.wikidata.org/wiki/Q3568262). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kramer, Wilhelm Heinrich (x-1765), German-born Austrian botanist and physician at Bruck a. Leitha. 
-**Abbreviated name**: *W. Kram.*
+**Abbreviated name**: *W. Kram.* \[standard form in IPNI: *Kramer*\]
 
 #### Herbarium and types
 

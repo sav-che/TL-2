@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33212312) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33212312) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10586-1), [Wikidata](https://www.wikidata.org/wiki/Q36519775). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomas, Benjamin Waiden (*fl*. 1886), U.S. diatomologist and zoologist (Foraminifera). 
-**Abbreviated name**: *B.W. Thomas*
+**Abbreviated name**: *B.W. Thomas* \[standard form in IPNI: *B.W.Thomas*\]
 
 #### Herbarium and types
 

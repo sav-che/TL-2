@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33068261) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33068261) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3574-1), [Wikidata](https://www.wikidata.org/wiki/Q2619918). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hall, Herman Christiaan van (1801-1874), Dutch botanist and agronomist at Groningen. 
-**Abbreviated name**: *H. C. Hall*
+**Abbreviated name**: *H. C. Hall* \[standard form in IPNI: *H.C.Hall*\]
 
 #### Herbarium and types
 

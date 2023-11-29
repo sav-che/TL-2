@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33355462) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33355462) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6248-1), [Wikidata](https://www.wikidata.org/wiki/Q249152). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Matuda, Eizi (1894-1978), Japanese-born Mexican botanist; specialist on Araceae and Meliaceae; at Taihoku University 1911-1921; emigrated to Mexico 1922 (naturalized 1928); in Chiapas from 1922; teaching at University of Mexico 1950-1978; Dr. phil. h.c. Tokyo 1962. 
-**Abbreviated name**: *Matuda*
+**Abbreviated name**: *Matuda* \[standard form in IPNI: *Matuda*\]
 
 #### Herbarium and types
 

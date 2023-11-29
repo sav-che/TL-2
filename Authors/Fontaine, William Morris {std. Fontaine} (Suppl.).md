@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33259800) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33259800) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2807-1), [Wikidata](https://www.wikidata.org/wiki/Q21513303). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fontaine, William Morris {std. Fontaine}|first entry]] for this author
 
 ### Author
 
 \* Fontaine, William Morris (1835-1913), American paleobotanist, born 1 Dec 1835 in Hanover (Louisa?) Co., Virginia, attended Hanover Academy for Boys, A.M. 1859 Univ. of Virginia, Charlottesville, taught Hanover Academy 1860-1861, Confederate soldier 1861-1865 (U.S. Civil War), Royal Mining School, Freiburg (Saxony) 1869-1870 and briefly in Heidelberg, prof. of chemistry and geology, West Virginia Univ., Morgantown 1873-1878, Corcoran Chair of geology & natural history, Univ. of Virginia, Charlottesville 1879-1910, retired 1 Sep 1911, died 30 Apr 1913 in Charlottesville. 
-**Abbreviated name**: *Fontaine*
+**Abbreviated name**: *Fontaine* \[standard form in IPNI: *Fontaine*\]
 
 #### Herbarium and types
 

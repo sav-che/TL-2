@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33355700) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33355700) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6724-1), [Wikidata](https://www.wikidata.org/wiki/Q1461227). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mühlberg, Friedrich ("Fritz") (1840-1915), Swiss botanist and geologist; studied at Zürich; high school teacher at Zug (Aargau) 1862-1865; from 1865-1911 id. in Aarau; Dr. phil. h.c. Basel 1888. 
-**Abbreviated name**: *Mühlberg*
+**Abbreviated name**: *Mühlberg* \[standard form in IPNI: *Mühlberg*\]
 
 #### Herbarium and types
 

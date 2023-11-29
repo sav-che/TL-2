@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33333471) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33333471) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9262-1), [Wikidata](https://www.wikidata.org/wiki/Q79159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schreibers, Carl Franz Anton \[Ritter\] von (1775-1852), Austrian zoologist and general naturalist; Dr. med. Wien 1798; practicing physician in Vienna from 1798-1805; lecturer for natural history at Vienna University 1802-1806; director of the united "k.k. Hof-Naturaliencabinete" (now Natural History Museum) at Vienna 1806-1852. 
-**Abbreviated name**: *Schreibers*
+**Abbreviated name**: *Schreibers* \[standard form in IPNI: *Schreibers*\]
 
 #### Herbarium and types
 

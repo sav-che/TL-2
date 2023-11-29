@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33212118) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33212118) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10269-1), [Wikidata](https://www.wikidata.org/wiki/Q21610003). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Suchlandt, Otto (1873-1947), German (East-Prussian) pharmacist, limnologist and botanist; founded the Rhätische Apotheke in Davos 1911; Dr. phil. Lausanne 1917. 
-**Abbreviated name**: *Suchlandt*
+**Abbreviated name**: *Suchlandt* \[standard form in IPNI: *Suchl.*\]
 
 #### Herbarium and types
 

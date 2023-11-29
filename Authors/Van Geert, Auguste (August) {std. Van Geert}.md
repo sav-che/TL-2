@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33212707) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33212707) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11058-1), [Wikidata](https://www.wikidata.org/wiki/Q5711538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Geert, Auguste van {std. Van Geert} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Van Geert, Auguste \[August\] (1888-1938), Belgian horticulturist at Gent, specialist on Azaleas. 
-**Abbreviated name**: *Van Geert*
+**Abbreviated name**: *Van Geert* \[standard form in IPNI: *Van Geert*\]
 
 #### Herbarium and types
 

@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33265540) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33265540) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16353-1), [Wikidata](https://www.wikidata.org/wiki/Q695467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bornet, Jean-Baptiste Édouard {std. Bornet}|first entry]] for this author
 
 ### Author
 
 \* Bornet, \[Jean-Baptiste-\] Édouard (1828-1911), French botanist, born at Guérigny (Nièvre), educated at the Collège de Nevers 1838-1846, studied at the École de médecine, Paris 1846 but turned also to botany studying at the Muséum d'Histoire naturelle and the Sorbonne, Dr. méd. 1855, worked mainly on algues together with Thuret at Antibes until 1875, director Villa Thuret Garden 1875-1878, returned to Paris as private scientist, membre de l'Institut 1886, active until 1910. 
-**Abbreviated name**: *Bornet*
+**Abbreviated name**: *Bornet* \[standard form in IPNI: *Bornet*\]
 
 #### Herbarium and types
 

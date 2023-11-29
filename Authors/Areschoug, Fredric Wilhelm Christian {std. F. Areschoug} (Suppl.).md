@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33264882) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33264882) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/264-1), [Wikidata](https://www.wikidata.org/wiki/Q4994334). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Areschoug, Fredric Wilhelm Christian {std. F. Areschoug}|first entry]] for this author
 
 ### Author
 
 \* Areschoug, Fredric Wilhelm Christian (1830-1908), Swedish botanist, studied at the University of Lund 1847, fil. kand. 1852, Dr. phil. 1853, lecturer at Lund 1854, "adjunkt" for botany ib. 1858-1879, ordinary professor of botany and director of the University Botanical Garden, Lund 1879-1896. 
-**Abbreviated name**: *F. Areschoug*
+**Abbreviated name**: *F. Areschoug* \[standard form in IPNI: *F.Aresch.*\]
 
 #### Herbarium and types
 

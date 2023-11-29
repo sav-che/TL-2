@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33189788) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33189788) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7784-1), [Wikidata](https://www.wikidata.org/wiki/Q1674510). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pohl, Johann Ehrenfried (1746-1800), German (Saxonian) physician and botanist; professor of botany at Leipzig; from 1788 royal physician at Dresden. 
-**Abbreviated name**: *J.E. Pohl*
+**Abbreviated name**: *J.E. Pohl* \[standard form in IPNI: *J.E.Pohl*\]
 
 #### Herbarium and types
 

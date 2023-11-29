@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33120285) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33120285) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/569-1), [Wikidata](https://www.wikidata.org/wiki/Q33663644). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Baylis, Edward (*fl*. 1791-1794), British physician and botanist. 
-**Abbreviated name**: *Baylis*
+**Abbreviated name**: *Baylis* \[standard form in IPNI: *Baylis*\]
 
 #### Herbarium and types
 

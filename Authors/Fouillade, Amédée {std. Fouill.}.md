@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33259859) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33259859) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2854-1), [Wikidata](https://www.wikidata.org/wiki/Q2844653). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fouillade, Amédée (1870-1954), French botanist, born 25 Aug 1870 in Paizay-le-Chapt (Deux-Sèvres), taught in Absie (Deux-Sèvres) until 1902, then clerked for the justice of the peace in Tonnay-Charente until 1939, specialist in the flora of Charente-Maritime, died 31 Mar 1954 in Royan (Charente-Maritime). 
-**Abbreviated name**: *Fouill.*
+**Abbreviated name**: *Fouill.* \[standard form in IPNI: *Fouill.*\]
 
 #### Herbarium and types
 

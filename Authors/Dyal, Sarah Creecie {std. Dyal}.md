@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33260213) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33260213) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2429-1), [Wikidata](https://www.wikidata.org/wiki/Q21393570). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dyal, Sarah Creecie (1907-x), American botanist, born 21 Mai 1907 at Grassy Cove, Tennessee, AB at Cornell University 1931, MA in 1933, scientific assistant in botany at Cornell from 1931 (married later to Nielsen). 
-**Abbreviated name**: *Dyal*
+**Abbreviated name**: *Dyal* \[standard form in IPNI: *Dyal*\]
 
 #### Herbarium and types
 

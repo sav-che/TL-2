@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33120348) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33120348) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/797-1), [Wikidata](https://www.wikidata.org/wiki/Q122005). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Binz, August {std. Binz} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Binz, August (1870-1963), Swiss teacher and botanist at Basel. 
-**Abbreviated name**: *Binz*
+**Abbreviated name**: *Binz* \[standard form in IPNI: *Binz*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33212794) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33212794) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11216-1), [Wikidata](https://www.wikidata.org/wiki/Q6167476). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vischer, Wilhelm (1890-1960), Swiss botanist; studied medicine in Genève and Basel and natural sciences at München (1911-1914); Dr. phil. München 1914, student of K. Goebel; with R. Chodat in Paraguay 1914, working on the Paraguay collections in Genève 1914-1919; botanist at the Rubber Proefstation Westjava, Buitenzorg (Bogor) 1919-1923; habil. Basel 1924, lecturer 1924 and extraordinary professor of botany, Basel 1928-1960; phycologist, plant-geographer and nature conservationist. 
-**Abbreviated name**: *Vischer*
+**Abbreviated name**: *Vischer* \[standard form in IPNI: *Vischer*\]
 
 #### Herbarium and types
 

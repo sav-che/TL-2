@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33189685) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33189685) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7607-1), [Wikidata](https://www.wikidata.org/wiki/Q21522917). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petzi, Franz von Sales (1851-1928), German (Bavarian) botanist; studied mathematics and physics at München; high school teacher at the Regensburg Gymnasium; editor and curator of the herbarium of the Regensburgische botanische Gesellschaft. 
-**Abbreviated name**: *Petzi*
+**Abbreviated name**: *Petzi* \[standard form in IPNI: *Petzi*\]
 
 #### Herbarium and types
 

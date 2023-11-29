@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259612) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259612) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18704-1), [Wikidata](https://www.wikidata.org/wiki/Q21512747). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fehlner, Carl \[Karl\] (1859-1884), Austrian cryptogamist, born 9 Oct 1859 in St. Aegid (Niederösterreich), asst., botanical museum, Univ. of Vienna, died 9 Dec 1884 in Tübingen, Germany. 
-**Abbreviated name**: *Fehlner*
+**Abbreviated name**: *Fehlner* \[standard form in IPNI: *Fehln.*\]
 
 #### Herbarium and types
 

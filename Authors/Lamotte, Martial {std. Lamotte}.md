@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33068981) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33068981) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5240-1), [Wikidata](https://www.wikidata.org/wiki/Q6002190). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lamotte, Martial (1820-1883), French pharmacist and botanist at Riom, professor at the École de médecine et de pharmacie at Clermont-Ferrand. 
-**Abbreviated name**: *Lamotte*
+**Abbreviated name**: *Lamotte* \[standard form in IPNI: *Lamotte*\]
 
 #### Herbarium and types
 

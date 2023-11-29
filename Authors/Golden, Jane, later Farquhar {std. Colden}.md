@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33120652) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33120652) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1730-1), [Wikidata](https://www.wikidata.org/wiki/Q2504068). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Golden, Jane, later Farquhar (1724-1759), first woman botanist in America, daughter of Cadwallader Colden (1688-1776). 
-**Abbreviated name**: *Colden*
+**Abbreviated name**: *Colden* \[standard form in IPNI: *Colden*\]
 
 #### Herbarium and types
 

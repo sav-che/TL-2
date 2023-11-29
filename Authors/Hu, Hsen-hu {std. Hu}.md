@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33068594) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33068594) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4185-1), [Wikidata](https://www.wikidata.org/wiki/Q510757). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hu, Hsen-hu (1894-1968), Chinese botanist; director of the Fan memorial institute of Biology; president National Chung-cheng University; later at the Institute of botany of the Academia sinica, Peking; specialist on the woody flora of China, especially of Yunnan. 
-**Abbreviated name**: *Hu*
+**Abbreviated name**: *Hu* \[standard form in IPNI: *Hu*\]
 
 #### Herbarium and types
 

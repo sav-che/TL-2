@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33265995) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33265995) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1776-1), [Wikidata](https://www.wikidata.org/wiki/Q16243314). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Conzatti, Cassiano {std. Conz.}|first entry]] for this author
 
 ### Author
 
 \* Conzatti, Cassiano (1862-1951), Italian born botanist, moved to Mexico 1881, autodidact who was interested in plants, settled at Oaxaca and set up a botanical garden 1909, became director of the national herbarium in 1917, collected widely in Mexico as well as in Chile, died 2 Mar 1951. 
-**Abbreviated name**: *Conz.*
+**Abbreviated name**: *Conz.* \[standard form in IPNI: *Conz.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33189928) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33189928) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8053-1), [Wikidata](https://www.wikidata.org/wiki/Q20012). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Quételet, Lambert Adolphe Jacques \[Adolph Jacob\] (1796-1874), Belgian natural scientist; professor of mathematics at Brussels University; director of the Royal Belgian astronomical observatory; perpetual secretary of the Royal Academy of Sciences of Belgium. 
-**Abbreviated name**: *Quételet*
+**Abbreviated name**: *Quételet* \[standard form in IPNI: *Quételet*\]
 
 #### Herbarium and types
 

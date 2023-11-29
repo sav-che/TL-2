@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33264832) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33264832) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/30851-1), [Wikidata](https://www.wikidata.org/wiki/Q21505180). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Anastasia, Guiseppe Emilio (1870-1934), Italian technician at the R. Istituto Sperimente dei Tabacchi in Scafati. 
-**Abbreviated name**: *Anas.*
+**Abbreviated name**: *Anas.* \[standard form in IPNI: *Anastasia*\]
 
 #### Herbarium and types
 

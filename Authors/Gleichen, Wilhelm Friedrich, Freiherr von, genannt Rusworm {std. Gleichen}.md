@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 953](https://www.biodiversitylibrary.org/page/33121084) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 953](https://www.biodiversitylibrary.org/page/33121084) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3194-1), [Wikidata](https://www.wikidata.org/wiki/Q8002161). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gleichen, Wilhelm Friedrich, Freiherr von, genannt Rusworm \[Russwurm\] (1717-1783), German amateur naturalist. 
-**Abbreviated name**: *Gleichen*
+**Abbreviated name**: *Gleichen* \[standard form in IPNI: *Gleichen*\]
 
 #### Herbarium and types
 

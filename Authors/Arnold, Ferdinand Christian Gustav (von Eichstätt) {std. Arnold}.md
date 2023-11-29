@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33120196) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33120196) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/276-1), [Wikidata](https://www.wikidata.org/wiki/Q2460005). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arnold, Ferdinand (Christian Gustav) (von Eichstätt) {std. Arnold} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Arnold, Ferdinand Christian Gustav ("von Eichstätt") (1828-1901), Southern German lichenologist and bryologist, "Oberlandesgerichtsrath" in München. 
-**Abbreviated name**: *Arnold*
+**Abbreviated name**: *Arnold* \[standard form in IPNI: *Arnold*\]
 
 #### Herbarium and types
 

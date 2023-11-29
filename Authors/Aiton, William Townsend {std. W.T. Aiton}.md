@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33120157) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33120157) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/111-1), [Wikidata](https://www.wikidata.org/wiki/Q1350149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Aiton, William Townsend {std. W.T. Aiton} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Aiton, William Townsend (1766-1849), British gardener and botanist, son of William Aiton, Royal gardener at Kew. 
-**Abbreviated name**: *W.T. Aiton*
+**Abbreviated name**: *W.T. Aiton* \[standard form in IPNI: *W.T.Aiton*\]
 
 #### Herbarium and types
 

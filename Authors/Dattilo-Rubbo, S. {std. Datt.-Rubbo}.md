@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33259129) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33259129) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17719-1), [Wikidata](https://www.wikidata.org/wiki/Q21538359). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dattilo-Rubbo, S. (fl. 1938), biochemist at the London School of Hygiene and Tropical Medicine, University of London. 
-**Abbreviated name**: *Datt.-Rubbo*
+**Abbreviated name**: *Datt.-Rubbo* \[standard form in IPNI: *Datt.-Rubbo*\]
 
 #### Herbarium and types
 

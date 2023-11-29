@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33066435) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33066435) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11428-1), [Wikidata](https://www.wikidata.org/wiki/Q2478021). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Waterfall, Umaldy Theodore (1910-1971), American botanist; MS Univ. Oklahoma 1942; Dr. phil. ib. 1956; high school teacher in Oklahoma City 1934-1944; range ecologist Soil Conservation Service 1944-1946; instructor in botany Univ. Oklahoma 1946-1949; professor of botany at Oklahoma State University 1949-1971. 
-**Abbreviated name**: *Waterf.*
+**Abbreviated name**: *Waterf.* \[standard form in IPNI: *Waterf.*\]
 
 #### Herbarium and types
 

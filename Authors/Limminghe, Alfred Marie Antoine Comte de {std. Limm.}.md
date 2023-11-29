@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33355108) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33355108) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5593-1), [Wikidata](https://www.wikidata.org/wiki/Q21519094). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Limminghe, Alfred Marie Antoine Comte de (1834-1861), Belgian cryptogamist at Namur and Gentinnes (nr. Marbais, Brabant); assassinated in the streets of Rome, April 1861. 
-**Abbreviated name**: *Limm.*
+**Abbreviated name**: *Limm.* \[standard form in IPNI: *Limm.*\]
 
 #### Herbarium and types
 

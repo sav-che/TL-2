@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33355681) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33355681) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12693-1), [Wikidata](https://www.wikidata.org/wiki/Q20733957). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morris, (Sir) Daniel (1844-1933), British botanist, administrator and tropical agriculturist; D. Sc. Dublin; at the Botanic Gardens, Peredeniya, Ceylon 1877-1879; dir. public gardens Jamaica 1879-1886; assistant director Kew 1886-1898; imperial commissioner of agriculture, West Indies 1898-1908. 
-**Abbreviated name**: *D. Morris*
+**Abbreviated name**: *D. Morris* \[standard form in IPNI: *D.Morris*\]
 
 #### Herbarium and types
 

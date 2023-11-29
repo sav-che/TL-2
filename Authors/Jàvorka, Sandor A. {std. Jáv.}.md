@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33068673) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33068673) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12580-1), [Wikidata](https://www.wikidata.org/wiki/Q447834). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jàvorka, Sandor A. (1883-1961), Hungarian botanist; Dr. phil. Univ. Budapest 1906; in various functions at the Botany Department of the Hungarian National Museum from 1905-1940; from 1945 active in the Hungarian Academy of Sciences. 
-**Abbreviated name**: *Jáv.*
+**Abbreviated name**: *Jáv.* \[standard form in IPNI: *Jáv.*\]
 
 #### Herbarium and types
 
@@ -66,7 +65,7 @@ Magyar nemzeti múzeum növénytara. *Magyar flora* (flora hungarica) magyarorsz
 ##### n.3316. Glos- sanum
 
 **Title**
-Magyar-latin-német szakszóbár Javorka S.: "Magyar flora" C. munkájához. *Glossanum* operis de flora hungarica et iconographia florae hungarice auctore S. Jávorka. Fachwörterbuch... Budapest (A "Studium" Kiadósa...) 1932. Oct.
+Magyar-latin-német szakszóbár Javorka S.: "Magyar flora" C. munkájához. *Glossarium* operis de flora hungarica et iconographia florae hungarice auctore S. Jávorka. Fachwörterbuch... Budapest (A "Studium" Kiadósa...) 1932. Oct.
 **Abbreviated title**: *Glossarium*.
 
 **Notes**

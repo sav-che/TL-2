@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33189725) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33189725) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7672-1), [Wikidata](https://www.wikidata.org/wiki/Q5081652). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pickering, Charles (1805-1878), American botanist, zoologist and anthropologist; M.D. Harvard 1826; from 1827-1838 at Philadelphia; from 1838-1842 with Wilkes and Brackenridge on the U.S. Exploring Expedition; in Egypt, India, Arabia and E. Africa 1843-1844; from 1844 residing in Boston. 
-**Abbreviated name**: *Pickering*
+**Abbreviated name**: *Pickering* \[standard form in IPNI: *Pickering*\]
 
 #### Herbarium and types
 

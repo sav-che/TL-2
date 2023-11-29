@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33189806) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33189806) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7834-1), [Wikidata](https://www.wikidata.org/wiki/Q21523097). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pontarlier, Nicolas Charles (1812-1889), French botanist; studied at the Lycée Saint-Louis, Paris; at École norm. sup. 1831; régent Collège des Palmiers 1833, chargé de cours, Coll. r. Bourbon-Vendée 1839; régent Col. Vannes; at Lycée de Napoleon-Vendée, La Roche-sur-Yon 1848-1878. 
-**Abbreviated name**: *Pontarl.*
+**Abbreviated name**: *Pontarl.* \[standard form in IPNI: *Pontarl.*\]
 
 #### Herbarium and types
 

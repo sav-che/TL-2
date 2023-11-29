@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33066312) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33066312) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12983-1), [Wikidata](https://www.wikidata.org/wiki/Q21611972). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wagner, Hermann (of Hadamar) (1824-1908 (1882?)), German (Hessen) botanist and teacher; studied at the University of Göttingen 1843-1846, in Berlin 1846-1847; assistant teacher at the Gymnasium of Weilburg 1848-1851; id. at Dillenburg 1850-1852; id. at Wiesbaden 1852, teacher at Weilburg 1858, conrector Weilburg 1859-1861; at the "höhere Bürgerschule" (high school) of Wiesbaden 1861; in charge of the Realschule at Diez 1863; rector of the Real-Progymnasium Bad-Ems 1866. 
-**Abbreviated name**: *H. Wagner II*
+**Abbreviated name**: *H. Wagner II* \[standard form in IPNI: *H.Wagner bis*\]
 
 #### Herbarium and types
 

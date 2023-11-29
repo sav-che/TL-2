@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33068793) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33068793) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4808-1), [Wikidata](https://www.wikidata.org/wiki/Q21517540). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kirk, John William Carnegie (1878-1962), British soldier (retired 1921) and amateur botanist; son of Sir John Kirk. 
-**Abbreviated name**: *J. W. C. Kirk*
+**Abbreviated name**: *J. W. C. Kirk* \[standard form in IPNI: *J.W.C.Kirk*\]
 
 #### Herbarium and types
 

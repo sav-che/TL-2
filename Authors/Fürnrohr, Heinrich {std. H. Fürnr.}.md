@@ -22,12 +22,11 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 897](https://www.biodiversitylibrary.org/page/33121028) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 897](https://www.biodiversitylibrary.org/page/33121028) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2953-1), [Wikidata](https://www.wikidata.org/wiki/Q21513644). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 Fürnrohr, Heinrich (1841/2-1918), German physician and botanist at Regensburg, son of A. E. Fürnrohr. 
-**Abbreviated name**: *H. Fürnr.*
+**Abbreviated name**: *H. Fürnr.* \[standard form in IPNI: *H.Fürnr.*\]
 
 #### Herbarium and types
 Unknown.

@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33120850) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33120850) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2448-1), [Wikidata](https://www.wikidata.org/wiki/Q5216728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Eaton, Daniel Cady {std. D.C. Eaton} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Eaton, Daniel Cady (1834-1895), American botanist at Yale University, grandson of Amos Eaton. 
-**Abbreviated name**: *D. C. Eaton*
+**Abbreviated name**: *D. C. Eaton* \[standard form in IPNI: *D.C.Eaton*\]
 
 #### Herbarium and types
 

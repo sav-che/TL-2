@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33212117) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33212117) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10263-1), [Wikidata](https://www.wikidata.org/wiki/Q36698778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Suard, V. (*fl*. 1843), French pharmacist and botanist at Nancy. 
-**Abbreviated name**: *Suard*
+**Abbreviated name**: *Suard* \[standard form in IPNI: *Suard*\]
 
 #### Herbarium and types
 

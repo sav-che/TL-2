@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33120726) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33120726) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1978-1), [Wikidata](https://www.wikidata.org/wiki/Q315366). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dana, James Dwight (1813-1895), American mineralogist and palaeontologist at New Haven, naturalist on the U.S. Exploring Expedition. 
-**Abbreviated name**: *Dana*
+**Abbreviated name**: *Dana* \[standard form in IPNI: *Dana*\]
 
 #### Collections
 

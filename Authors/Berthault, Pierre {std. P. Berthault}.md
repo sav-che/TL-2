@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33265316) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33265316) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/719-1), [Wikidata](https://www.wikidata.org/wiki/Q21513421). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Berthault, Pierre (fl. 1911), French agricultural engineer, sometime connected with the botanical laboratory of the École nationale d'Agriculture at Grignon, Dr. sci. nat. Paris 1911. 
-**Abbreviated name**: *P. Berthault*
+**Abbreviated name**: *P. Berthault* \[standard form in IPNI: *P.Berthault*\]
 
 #### Herbarium and types
 

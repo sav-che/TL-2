@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33068663) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33068663) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4416-1), [Wikidata](https://www.wikidata.org/wiki/Q78965). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jan, Georg (Giorgio) (1791-1866), Austrian botanist of Hungarian descent who became professor of botany at Parma, from 1831 director of the Museo Civico in Milan. 
-**Abbreviated name**: *Jan*
+**Abbreviated name**: *Jan* \[standard form in IPNI: *Jan*\]
 
 #### Herbarium and types
 

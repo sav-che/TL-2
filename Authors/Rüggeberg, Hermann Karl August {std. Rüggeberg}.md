@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 976](https://www.biodiversitylibrary.org/page/33190447) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 976](https://www.biodiversitylibrary.org/page/33190447) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8721-1), [Wikidata](https://www.wikidata.org/wiki/Q21607534). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rüggeberg, Hermann Karl August (1886-?), German lichenologist; studied natural sciences at Göttingen (1906-1908) and München 1908; Dr. phil. Göttingen 1910; assistant at the Bromberg Kaiser-Wilhelm-Institut für Landwirthschaft 1910-1911; id. at Botanical Garden Göttingen 1911-1912; teacher at Hameln (1912), Nienburg (1913) and from 1914 at Celle; in forced retirement 1939-1945; retired 1952. 
-**Abbreviated name**: *Rüggeberg*
+**Abbreviated name**: *Rüggeberg* \[standard form in IPNI: *Rüggeb.*\]
 
 #### Herbarium and types
 

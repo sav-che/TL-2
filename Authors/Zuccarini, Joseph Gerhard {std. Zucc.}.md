@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/page/33066900) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/page/33066900) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12069-1), [Wikidata](https://www.wikidata.org/wiki/Q77121). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zuccarini, Joseph Gerhard (1797-1848), German (Bavarian) botanist; Dr. med. Erlangen 1819; professor of botany at a high school in München 1823; e.o. professor of botany at the University of Landshut 1824-1826, id. at München 1826; ordinary professor of agronomy and forestry botany 1835. 
-**Abbreviated name**: *Zucc.*
+**Abbreviated name**: *Zucc.* \[standard form in IPNI: *Zucc.*\]
 
 #### Herbarium and types
 

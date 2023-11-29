@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33260088) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33260088) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/32980-1), [Wikidata](https://www.wikidata.org/wiki/Q3081418). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Drouet, Francis Elliott (1907-1982), American botanist, born 1 Mar 1907 Philadelphia, at Missouri University 1928 A.B., 1929 A.M., 1931 Ph.D., 1931 at Herbarium of Missouri University, 1931 assistant State Plant Pathologist, Missouri, Commission for Technology of Pisciculture Brazil 1935, Seessel Fellow of Bot. Yale University 1936, Curator of cryptogamic herbarium of Chicago Nat. Hist. Museum 1938, New Mexico Highlands University 1958, research Dept. Bot. Arizona 1959, research fellow Acad. Nat. Sci. Philadelphia 1962, died 5 Dec 1982. 
-**Abbreviated name**: *F.E. Drouet*
+**Abbreviated name**: *F.E. Drouet* \[standard form in IPNI: *F.E.Drouet*\]
 
 #### Herbarium and types
 

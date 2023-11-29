@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33333529) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33333529) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9316-1), [Wikidata](https://www.wikidata.org/wiki/Q21608490). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schulz-Korth, Karl (1906-1931), German (Prussian) botanist; studied at Berlin Univ. 1924; with J. Mattfeld to Greece 1926; scientific collaborator Berlin-Dahlem 1927; Dr. phil. Berlin 1931, student of J. Hillmann. 
-**Abbreviated name**: *Schulz-Korth*
+**Abbreviated name**: *Schulz-Korth* \[standard form in IPNI: *Schulz-Korth*\]
 
 #### Herbarium and types
 

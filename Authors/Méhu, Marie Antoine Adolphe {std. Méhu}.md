@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33355487) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33355487) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6310-1), [Wikidata](https://www.wikidata.org/wiki/Q21520326). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Méhu, Marie Antoine Adolphe (1840-1881), French botanist; Dr. pharm. Montpellier 1867, from 1867-1881 pharmacist at Villefranehe-sur-Saône, Rhône, from 1871 also professor of botany at the École normale. 
-**Abbreviated name**: *Méhu*
+**Abbreviated name**: *Méhu* \[standard form in IPNI: *Méhu*\]
 
 #### Herbarium and types
 

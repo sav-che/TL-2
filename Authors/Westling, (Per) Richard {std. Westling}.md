@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33066555) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33066555) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13005-1), [Wikidata](https://www.wikidata.org/wiki/Q21612529). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Westling, \[Per\] Richard (1868-1942), Swedish pharmacist and botanist; studied at the universities of Bern and Stockholm; Dr. phil. Stockholm 1911; "amanuensis" for botany and pharmacognosy at the Stockholm Pharmaceutical Institute 1896, assistant 1897-1911, head assistant 1912-1918, professor 1918-1933. 
-**Abbreviated name**: *Westling*
+**Abbreviated name**: *Westling* \[standard form in IPNI: *Westling*\]
 
 #### Herbarium and types
 

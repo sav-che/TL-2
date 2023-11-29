@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33068244) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33068244) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3523-1), [Wikidata](https://www.wikidata.org/wiki/Q2209907). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hackel, Eduard (1850-1926), Bohemia-born Austrian agrostologist and high school teacher at St. Pölten (1871-1900); from 1904 at Graz. 
-**Abbreviated name**: *Hack.*
+**Abbreviated name**: *Hack.* \[standard form in IPNI: *Hack.*\]
 
 #### Herbarium and types
 

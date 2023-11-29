@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33258643) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33258643) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/12510-1), [Wikidata](https://www.wikidata.org/wiki/Q2093328). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Van Geel, Pierre Corneille {std. Van Geel}|first entry]] for this author
 
 ### Author
 
 Geel, Pierre \[Petrus\] Corneille van see \*Van Geel, Pierre Corneille (1796-1836), Belgian clergyman, botanist and polemicist, treated in TL-2/6: 664-665. 
-**Abbreviated name**: *==Name in the standard form is not specified==.*
+**Abbreviated name**: *==Name in the standard form is not specified==.* \[standard form in IPNI: *Van Geel*\]
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33266397) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33266397) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1156-1), [Wikidata](https://www.wikidata.org/wiki/Q4096621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Britten, James {std. Britten}|first entry]] for this author
 
 ### Author
 
 \* Britten, James (1846-1924), English (Chelsea born) botanist, educated privately, assistant at Kew Gardens 1869-1871, member of the Linnean Society 1870, assistant at the Botany Departement British Museum 1871-1909, Knight of St. Gregory 1897, Knight Commander 1917, ultimately living at Brentford. 
-**Abbreviated name**: *Britten*
+**Abbreviated name**: *Britten* \[standard form in IPNI: *Britten*\]
 
 #### Herbarium and types
 

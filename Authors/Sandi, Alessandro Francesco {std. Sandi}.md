@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33333134) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33333134) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8888-1), [Wikidata](https://www.wikidata.org/wiki/Q21607699). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sandi, Alessandro Francesco (1794-1849), Italian botanist and practicing physician at Beluno. 
-**Abbreviated name**: *Sandi*
+**Abbreviated name**: *Sandi* \[standard form in IPNI: *Sandi*\]
 
 #### Herbarium and types
 

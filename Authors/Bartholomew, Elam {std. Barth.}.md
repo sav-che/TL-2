@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33120256) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33120256) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/15736-1), [Wikidata](https://www.wikidata.org/wiki/Q21505727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bartholomew, Elam {std. Barth.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bartholomew, Elam (1852-1934), American farmer, school-teacher, stock-raiser, mycologist, and plant collector at Stockton, Kansas. 
-**Abbreviated name**: *Barth.*
+**Abbreviated name**: *Barth.* \[standard form in IPNI: *Barthol.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33355273) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33355273) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5816-1), [Wikidata](https://www.wikidata.org/wiki/Q1627836). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lüdi, Werner (1888-1968), Swiss ecologist, phytosociologist and quaternary botanist; Dr. phil. Bern 1923; high school teacher at Bern 1915-1931; lecturer at Bern University 1927-1933; from 1931-1958 director of the Geobot. Institut Rübel in Zürich. 
-**Abbreviated name**: *Lüdi*
+**Abbreviated name**: *Lüdi* \[standard form in IPNI: *Lüdi*\]
 
 #### Herbarium and types
 

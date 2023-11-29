@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33355487) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33355487) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6312-1), [Wikidata](https://www.wikidata.org/wiki/Q77463). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meigen, Johann Wilhelm (1764-1845), German dipterologist and botanist; private teacher at Aachen 1784-1786, organist and teacher at Solingen 1786-1792, again at Aachen 1792-1796; teacher (French, geography, history, music) at a private school at Stolberg nr Aachen 1796-1810; secretary of the Stolberg chamber of commerce during the French occupation; variously employed, e.g. drawing geographical maps 1812-1825, finally organist of the Stolberg protestant church. 
-**Abbreviated name**: *Meigen*
+**Abbreviated name**: *Meigen* \[standard form in IPNI: *Meigen*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33068601) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33068601) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4206-1), [Wikidata](https://www.wikidata.org/wiki/Q2835195). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Huet du Pavillon, Alfred (1829-1907), French administrator and botanist who, together with his brother Edouard (1819-1908), brought together a considerable herbarium and who issued numerous series of exsiccatae. 
-**Abbreviated name**: *A. Huet*
+**Abbreviated name**: *A. Huet* \[standard form in IPNI: *A.Huet*\]
 
 #### Herbarium and types
 

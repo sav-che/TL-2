@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33120877) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33120877) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2529-1), [Wikidata](https://www.wikidata.org/wiki/Q5331679). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Emmons, Ebenezer (1799-1863), American physician and botanist at Albany, originator and defender of the Taconic system in North America. 
-**Abbreviated name**: *Emmons*
+**Abbreviated name**: *Emmons* \[standard form in IPNI: *Emmons*\]
 
 #### Collections
 

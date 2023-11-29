@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33120456) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33120456) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1141-1), [Wikidata](https://www.wikidata.org/wiki/Q15435). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Briganti, Vincenzo (1766-1836), Italian botanist at Napoli. 
-**Abbreviated name**: *V. Briganti*
+**Abbreviated name**: *V. Briganti* \[standard form in IPNI: *V.Brig.*\]
 
 #### Herbarium and types
 

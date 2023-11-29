@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33120823) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33120823) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2361-1), [Wikidata](https://www.wikidata.org/wiki/Q2835593). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dugès, Alfred Auguste Dalsescantz (1826-1910), French botanist who settled in Mexico in 1853. 
-**Abbreviated name**: *Dugès*
+**Abbreviated name**: *Dugès* \[standard form in IPNI: *Dugès*\]
 
 #### Herbarium and types
 

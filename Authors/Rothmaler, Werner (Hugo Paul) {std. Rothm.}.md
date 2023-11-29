@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 924](https://www.biodiversitylibrary.org/page/33190395) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 924](https://www.biodiversitylibrary.org/page/33190395) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8646-1), [Wikidata](https://www.wikidata.org/wiki/Q68942). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rothmaler, Werner \[Hugo Paul\] (1908-1963), German botanist; studied at Jena; from 1933-1940 in Spain and Portugal; at the Berlin Kaiser-Wilhelm Institut (with F. v. Wettstein) 1940-1944; Dr. phil. Univ. Berlin 1943; at the Institut für Kulturpflanzenforschung, Wien, Gatersleben 1943-1950; habil. Univ. Halle, 1947, professor of botany Halle 1950-1953; director of the Institut für Agrobiologie and professor of systematic botany and agricultural biology at the Ernst-Moritz-Arndt-Universität, Greifswald (D.D.R.) 1953-1962. 
-**Abbreviated name**: *Rothm.*
+**Abbreviated name**: *Rothm.* \[standard form in IPNI: *Rothm.*\]
 
 #### Herbarium and types
 

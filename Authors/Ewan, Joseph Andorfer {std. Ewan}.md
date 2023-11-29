@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33260424) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33260424) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2604-1), [Wikidata](https://www.wikidata.org/wiki/Q3184495). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ewan, Joseph Andorfer (1909-x), American botanist, bibliographer and historian born 24 Oct 1909 at Philadelphia, studied at the University of California, AB 1934, 1933-1937 assistant phanerogamic botany California, instructor biology Colorado 1937-1944, botanist in Colombia 1944-1945, assistant curator Smithsonian Institution 1945-1946, U.S.D.A. 1946-1947, assistant professor botany Tulane University, New Orleans 1947-1952, associate professor from 1952. 
-**Abbreviated name**: *Ewan*
+**Abbreviated name**: *Ewan* \[standard form in IPNI: *Ewan*\]
 
 #### Herbarium and types
 

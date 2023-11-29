@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33066835) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33066835) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11964-1), [Wikidata](https://www.wikidata.org/wiki/Q726241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Yuncker, Truman George (1891-1964), American botanist; studied at Michigan State University, East Lansing; B.S. ib. 1914; M.A. Univ. Nebraska 1915; at Emmerich Manual Training High School, Indianapolis, Indiana 1915-1916; graduate assistant in botany, Univ. Illinois 1916; Dr. phil. ib. 1919; assistant professor of biology De Pauw University, Greencastle, Indiana 1919, professor and head of the Dept. of Botany from 1921-1956; emeritus professor from 1956; collected in Honduras 1934, 1936, 1938. 
-**Abbreviated name**: *Yunck.*
+**Abbreviated name**: *Yunck.* \[standard form in IPNI: *Yunck.*\]
 
 #### Herbarium and types
 

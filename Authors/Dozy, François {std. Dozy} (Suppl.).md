@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33260071) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33260071) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18187-1), [Wikidata](https://www.wikidata.org/wiki/Q21338956). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dozy, François {std. Dozy}|first entry]] for this author
 
 ### Author
 
 \* Dozy, François (1807-1856), Dutch physician and botanist, born at Leiden 27 Dec 1807, died 7 Oct 1856, Neuwied, as student in medicine at Leiden, as physician 1831-1833 at Rotterdam, 1833 doctor at Leiden, worked especially in musci 1833-1856. 
-**Abbreviated name**: *Dozy*
+**Abbreviated name**: *Dozy* \[standard form in IPNI: *Dozy*\]
 
 #### Herbarium and types
 

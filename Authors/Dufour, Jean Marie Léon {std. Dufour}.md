@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33260137) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33260137) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18249-1), [Wikidata](https://www.wikidata.org/wiki/Q941677). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dufour, Jean Marie Léon (1780-1865), often only named Léon Dufour, French physician, botanist (lichenologist), and entomologist, born Saint-Sever-sur-Adour, Landes, 10 Apr 1780 (1779 and 1783 also given sometimes), studied medicine at Paris until 1806, went to Spain 1823, returned as physician to Saint-Sever, was in contact with many botanists of his time, died 18 Apr 1865. 
-**Abbreviated name**: *Dufour*
+**Abbreviated name**: *Dufour* \[standard form in IPNI: *Dufour*\]
 
 #### Herbarium and types
 

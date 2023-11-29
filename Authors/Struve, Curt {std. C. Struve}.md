@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33212058) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33212058) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10237-1), [Wikidata](https://www.wikidata.org/wiki/Q36531237). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Struve, Curt (*fl*. 1872), German botanist; high school teacher at Sorau. 
-**Abbreviated name**: *C. Struve*
+**Abbreviated name**: *C. Struve* \[standard form in IPNI: *C.Struve*\]
 
 #### Herbarium and types
 

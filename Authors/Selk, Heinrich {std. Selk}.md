@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33333638) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33333638) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9460-1), [Wikidata](https://www.wikidata.org/wiki/Q36578912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Selk, Heinrich (*fl*. 1908), German botanist. 
-**Abbreviated name**: *Selk*
+**Abbreviated name**: *Selk* \[standard form in IPNI: *Selk*\]
 
 #### Herbarium and types
 

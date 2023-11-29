@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 939](https://www.biodiversitylibrary.org/page/33121070) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 939](https://www.biodiversitylibrary.org/page/33121070) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3119-1), [Wikidata](https://www.wikidata.org/wiki/Q3134184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Geyler, Hermann Theodor {std. Geyl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Geyler, Hermann Theodor (1834-1889), German palaeobiologist at the Senckenberg institute and director of the botanic garden in Frankfurt a.M. 
-**Abbreviated name**: *Geyl.*
+**Abbreviated name**: *Geyl.* \[standard form in IPNI: *Geyl.*\]
 
 #### Collections
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1057](https://www.biodiversitylibrary.org/page/33190528) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1057](https://www.biodiversitylibrary.org/page/33190528) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8812-1), [Wikidata](https://www.wikidata.org/wiki/Q2361145). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sahlberg, Carl Reinhold (1779-1860), Finnish botanist; med. lic. Turku (Åbo) 1810; adjunct for medicine and demonstrator for botany at Turku 1810-1813; adjunct for natural history and museum inspector ib. 1813-1818; professor of natural history 1818-1828; moved with the university after the great Turku fire of 1827 to Helsinki in the same function until 1840, also in charge of the establishment (1833) and development of a university botanical garden 
-**Abbreviated name**: *C. Sahlberg*
+**Abbreviated name**: *C. Sahlberg* \[standard form in IPNI: *Sahlb.*\]
 
 #### Herbarium and types
 

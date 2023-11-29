@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33189646) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33189646) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7541-1), [Wikidata](https://www.wikidata.org/wiki/Q973709). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Perrottet, George (Georges Guerrard) Samuel (1793-1870), Swiss-born French gardener, sericiculturist, agronomical botanist, traveller and director of tropical cultures; in the "Rhône" around the world 1819-1821; Sénégal 1824-1829; in Pondichéry 1834-1839 and, ultimately, as government botanist from 1843-1870. 
-**Abbreviated name**: *Perrottet*
+**Abbreviated name**: *Perrottet* \[standard form in IPNI: *Perr.*\]
 
 #### Herbarium and types
 

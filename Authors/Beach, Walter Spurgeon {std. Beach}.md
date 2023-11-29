@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33265198) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33265198) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/15839-1), [Wikidata](https://www.wikidata.org/wiki/Q21505821). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Beach, Walter Spurgeon (1890-?), American botanist, born in Brownton, Minnesota, studied at the University of Minnesota, B.S. 1914, id. at Michigan Agricultural College, M.S. 1915, Dr. phil. Bot. in the graduate school of the University of Illinois 1918, instructor in plant pathology, Pennsylvania State 1918-1919, asst. professor ib. 1919-1923, assoc. professor 1923-1948, full professor 1948-1955, emeritus professor from 1955. 
-**Abbreviated name**: *Beach*
+**Abbreviated name**: *Beach* \[standard form in IPNI: *Beach*\]
 
 #### Herbarium and types
 

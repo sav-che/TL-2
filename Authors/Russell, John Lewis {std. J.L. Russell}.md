@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1004](https://www.biodiversitylibrary.org/page/33190475) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1004](https://www.biodiversitylibrary.org/page/33190475) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25913-1), [Wikidata](https://www.wikidata.org/wiki/Q4390386). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Russell, John Lewis (1808-1873), American botanist; Unitarian clergyman and botanist at Salem, Mass.; A.B. Harvard 1828, A.M. id. 1836; Div. school id. 1831; vicar at Chelmsford, Hingham, Brattleboro, Kennebunk (Mass.); from 1853 again at Salem devoting himself to cryptogamic botany and writing of popular articles on natural history in addition to occasional preaching. 
-**Abbreviated name**: *J.L. Russell*
+**Abbreviated name**: *J.L. Russell* \[standard form in IPNI: *J.L.Russell*\]
 
 #### Herbarium and types
 

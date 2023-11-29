@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33120223) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33120223) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/392-1), [Wikidata](https://www.wikidata.org/wiki/Q2659122). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bailey, Frederick Manson {std. F.M. Bailey} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bailey, Frederick Manson (1827-1915), British born Australian botanist; Colonial Botanist of Queensland. 
-**Abbreviated name**: *F. M. Bailey*
+**Abbreviated name**: *F. M. Bailey* \[standard form in IPNI: *F.M.Bailey*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33333515) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33333515) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9296-1), [Wikidata](https://www.wikidata.org/wiki/Q65118). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schultz, Friedrich \[Wilhelm\] (1804-1876), German (Rhenisch-Palatinate) pharmacist and botanist; brother of C.H. Schultz Bipontinus; studied pharmacy at München 1827-1829; Dr. med. Tübingen 1829; state examination pharmacy München 1831; from 1832-1836 practicing pharmacist in Bitsch \[Bitche\] (Elsass); from 1876 dedicating himself to botany; from 1853-1876 at Weissenburg (Elsass). 
-**Abbreviated name**: *F.W. Schultz*
+**Abbreviated name**: *F.W. Schultz* \[standard form in IPNI: *F.W.Schultz*\]
 
 #### Herbarium and types
 

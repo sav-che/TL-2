@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33212767) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 725](https://www.biodiversitylibrary.org/page/33212767) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12969-1), [Wikidata](https://www.wikidata.org/wiki/Q5985309). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vicq, \[Léon-Bonaventure\] Eloy de (1810-1886), French botanist and musician of private means at Abbeville. 
-**Abbreviated name**: *Vicq*
+**Abbreviated name**: *Vicq* \[standard form in IPNI: *Vicq*\]
 
 #### Herbarium and types
 

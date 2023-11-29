@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33068645) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33068645) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4383-1), [Wikidata](https://www.wikidata.org/wiki/Q63739). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jacquemont, Victor (1801-1832), French explorer and naturalist, travelled in the United States and Canada and on the Zélée via the South to India; in India 1829-1832; friend of Stendhal. 
-**Abbreviated name**: *Jacquem.*
+**Abbreviated name**: *Jacquem.* \[standard form in IPNI: *Jacquem.*\]
 
 #### Herbarium and types
 

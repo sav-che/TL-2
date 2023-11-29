@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33334037) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33334037) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10113-1), [Wikidata](https://www.wikidata.org/wiki/Q8962766). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stern, \[Sir\] Frederick Claude (1884-1967), British banker, soldier, horticulturist and botanist; treasurer Linnean Society 1941-1958; chairman John Innes Horticultural Institution 1947-1961. 
-**Abbreviated name**: *F.C. Stern*
+**Abbreviated name**: *F.C. Stern* \[standard form in IPNI: *Stern*\]
 
 #### Herbarium and types
 

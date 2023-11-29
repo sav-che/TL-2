@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33264856) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33264856) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/232-1), [Wikidata](https://www.wikidata.org/wiki/Q26713823). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Anselmino, Elisabeth \[Bertha Petronella\] (1905-x), German (Prussian) pharmacist; educated at the "Kolmorgenschen Privatschule" in Berlin-Westend and the Kaiserin Auguste Victoria Schule, Berlin-Steglitz 1913-1926; practicing in the Fichtenberg-Apotheke (Steglitz) 1926-1928, first pharmacy examination 1928, assistant in apharmacy in Hann.-Münden 1928-1929, university study pharmacy at Berlin University 1929-1931, State examination pharmacy 1931, assistant botanist at the Botanical Museum Berlin-Dahlem, Dr. phil. Univ. Berlin 1933. 
-**Abbreviated name**: *Anselmino*
+**Abbreviated name**: *Anselmino* \[standard form in IPNI: *Anselmino*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33265713) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33265713) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17047-1), [Wikidata](https://www.wikidata.org/wiki/Q16571373). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chalaud, Germain (1889-1967), French bryologist, born at Le Lonzac (Corrèze), educated at the École normale Tulle until 1907, teacher at Treignac and at Tulle from 1907-1919 with active duty in 1914-1919, idem at the Lycée de Bourg 1919-1921, idem at the Lycée de Toulouse 1921, licence ès sciences 1925, diplôme d'étude supérieures de botanique 1925, Dr. sci. 1929 at the Faculté des Sciences de Toulouse, had the Chaire de Botanique agricole and at the École nationale supérieure agronomique until 1955, in retirement in Toulouse and Ax-les-Thermes. 
-**Abbreviated name**: *Chalaud*
+**Abbreviated name**: *Chalaud* \[standard form in IPNI: *Chalaud*\]
 
 #### Herbarium and types
 

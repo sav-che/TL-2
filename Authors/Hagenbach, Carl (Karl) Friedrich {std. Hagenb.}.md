@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33068254) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33068254) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3548-1), [Wikidata](https://www.wikidata.org/wiki/Q5958254). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hagenbach, Carl \[Karl\] Friedrich (1771-1849), Swiss botanist; from 1795 practicing physician at Basel; from 1802-1820 professor of anatomy and botany at Basel University. 
-**Abbreviated name**: *Hagenb.*
+**Abbreviated name**: *Hagenb.* \[standard form in IPNI: *Hagenb.*\]
 
 #### Herbarium and types
 

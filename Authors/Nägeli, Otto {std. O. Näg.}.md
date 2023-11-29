@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-07-06 06:28:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 685](https://www.biodiversitylibrary.org/page/33355772) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 685](https://www.biodiversitylibrary.org/page/33355772) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6833-1), [Wikidata](https://www.wikidata.org/wiki/Q6054730). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nägeli, Otto (1871-1938), Swiss botanist and physician; habil. int. med. Zurich 1900; professor of medicine at Tübingen 1912-1918; id. at Zürich 1918 (from 1921 as ord. prof.). 
-**Abbreviated name**: *O. Näg.*
+**Abbreviated name**: *O. Näg.* \[standard form in IPNI: *O.Nägeli*\]
 
 #### Herbarium and types
 

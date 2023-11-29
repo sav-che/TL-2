@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33334008) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33334008) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10069-1), [Wikidata](https://www.wikidata.org/wiki/Q64406). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steffens, Henrich \[Henrik\] (1773-1845), Norwegian botanist; lecturer for natural history at the University of Kiel 1796-1798; Dr. phil. ib. 1797; subsequently professor of mineralogy in Halle (1804), in physics and philosophy of natural science at Breslau (1811), in natural sciences in Berlin (1831). 
-**Abbreviated name**: *Steffens*
+**Abbreviated name**: *Steffens* \[standard form in IPNI: *Steffens*\]
 
 #### Herbarium and types
 

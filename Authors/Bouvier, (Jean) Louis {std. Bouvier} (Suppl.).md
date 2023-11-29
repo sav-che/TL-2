@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2014-08-18 12:09:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33265593) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33265593) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1040-1), [Wikidata](https://www.wikidata.org/wiki/Q21506373). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bouvier, Jean-Louis {std. Bouvier}|first entry]] for this author
 
 ### Author
 
 \* Bouvier, \[Jean\] Louis (1819-1908), French botanist, born at St.-Félix (Hte. Savoie), studied at Paris, natural history teacher at the Collège Chaptal, Paris 1841-1846, studied medicine, Dr. med. 1850 Paris, curator of natural history at Annecy (Hte. Savoie) 1851-1855, practicing physician at Lancy (nr. Genève) 1867-1882, living in Genève 1882-1890, with his son in Buenos-Aires (Argentina) 1890-1908. 
-**Abbreviated name**: *Bouvier*
+**Abbreviated name**: *Bouvier* \[standard form in IPNI: *Bouvier*\]
 
 #### Herbarium and types
 

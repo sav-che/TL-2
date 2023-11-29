@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33333313) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33333313) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/35153-1), [Wikidata](https://www.wikidata.org/wiki/Q21607979). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schinnerl, Martin (1861-1950), German (Bavarian) bryologist and high school teacher at München; librarian Bayer. bot. Ges. 1890-1903; first secretary id. 1903-1905. 
-**Abbreviated name**: *Schinnerl*
+**Abbreviated name**: *Schinnerl* \[standard form in IPNI: *Schinnerl*\]
 
 #### Herbarium and types
 

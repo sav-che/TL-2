@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33258800) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33258800) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3311-1), [Wikidata](https://www.wikidata.org/wiki/Q3821587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Graëlls \[Graells, Graélls\] \[y de la Agüera\], Mariano de la Paz (1809-1898), Spanish physician, botanist and naturalist interested in Lepidoptera and mammals, born 24 Jan 1809 in Tricio (Logroño), studied medicine and natural sciences, Barcelona Univ., one of the founders of the Museo de Historia Natural de la Academia de Ciencias y Artes, moved to Madrid in 1837 to be Prof. of Zoology, Real Museo de Ciencias Naturales, then dir. of the museum and the Real Jardín Botánico de Madrid 1845-1868, co-founder Real Academia de Ciencias Exactas, Físicas y Naturales de Madrid, died 14 Feb 1898 in Madrid. 
-**Abbreviated name**: *Graëlls*
+**Abbreviated name**: *Graëlls* \[standard form in IPNI: *Graells*\]
 
 #### Herbarium and types
 

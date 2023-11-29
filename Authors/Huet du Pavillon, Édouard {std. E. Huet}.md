@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33068601) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33068601) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4207-1), [Wikidata](https://www.wikidata.org/wiki/Q3579894). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Huet du Pavillon, Édouard (1819-1908), French born botanist, living at Genève, brother of Alfred Huet du Pavillon (1829-1907). 
-**Abbreviated name**: *E. Huet*
+**Abbreviated name**: *E. Huet* \[standard form in IPNI: *É.Huet*\]
 
 #### Herbarium and types
 

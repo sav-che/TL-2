@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1063](https://www.biodiversitylibrary.org/page/33190534) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1063](https://www.biodiversitylibrary.org/page/33190534) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8825-1), [Wikidata](https://www.wikidata.org/wiki/Q21607621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saint-Gal, Marie Joseph (1841-1932); French botanist and assistant professor of botany and forestry at the Agricultural College at Grand-Jouan, Loire-Inférieure 1864-1869; id. at Grignon 1869-1870; on active service with the Armée de la Loire 1870; regular professor again at Grand-Jouan 1870-1895; transferred with the college to Rennes 1895-1901; in retirement at Fougères (Rennes). 
-**Abbreviated name**: *Saint-Gal*
+**Abbreviated name**: *Saint-Gal* \[standard form in IPNI: *St.-Gal*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33355263) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33355263) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5784-1), [Wikidata](https://www.wikidata.org/wiki/Q5343850). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lowe, Edward Joseph (1825-1900), British botanist and meteorologist of independent means at Shirenewton Hall, near Chepstow; "passionately devoted to raising varieties of ferns from spores", prolific author during the Victorian fern craze. 
-**Abbreviated name**: *E. J. Lowe*
+**Abbreviated name**: *E. J. Lowe* \[standard form in IPNI: *E.J.Lowe*\]
 
 #### Herbarium and types
 

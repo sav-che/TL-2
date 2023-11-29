@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33068276) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33068276) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3594-1), [Wikidata](https://www.wikidata.org/wiki/Q5582115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hamel, Gontran Georges Henri (1883-1944), French algologist; studied at Lille (lic.sc. 1912); connected with the oceanographic stations of the Muséum d'Histoire naturelle from 1918, from 1927 at its Laboratoire de Cryptogamie, Paris; died while trying to reach Paris by bicycle just before its liberation in August 1944. 
-**Abbreviated name**: *Hamel*
+**Abbreviated name**: *Hamel* \[standard form in IPNI: *Hamel*\]
 
 #### Herbarium and types
 

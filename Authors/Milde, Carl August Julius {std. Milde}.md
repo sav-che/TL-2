@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33355572) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33355572) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23384-1), [Wikidata](https://www.wikidata.org/wiki/Q75244). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Milde, Carl August Julius (1824-1971), German high school teacher and botanist at Breslau; Dr. phil. Breslau (with Goeppert) 1850; from 1851 at the Realschule zum Grauen Kloster "zum heiligen Geist"; royal professor 1870; curator of the botanical Museum of the Schlesische Gesellschaft für vaterländische Cultur. 
-**Abbreviated name**: *Milde*
+**Abbreviated name**: *Milde* \[standard form in IPNI: *Milde*\]
 
 #### Herbarium and types
 

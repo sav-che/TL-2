@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33189835) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33189835) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7892-1), [Wikidata](https://www.wikidata.org/wiki/Q5924657). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pottier, Jacques Georges (1892-x), French botanist; studied at the École pratique des Hautes Études; Dr. sci. Paris 1920; later at the Faculté des Sciences de Besançon. 
-**Abbreviated name**: *Pottier*
+**Abbreviated name**: *Pottier* \[standard form in IPNI: *Pottier*\]
 
 #### Herbarium and types
 

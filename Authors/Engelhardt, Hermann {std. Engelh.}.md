@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33120884) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33120884) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2538-1), [Wikidata](https://www.wikidata.org/wiki/Q21512171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Engelhardt, Hermann {std. Engelh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Engelhardt, Hermann (1839-1918), German teacher, palaeontologist and geologist at Dresden. 
-**Abbreviated name**: *Engelhardt*
+**Abbreviated name**: *Engelhardt* \[standard form in IPNI: *Engelh.*\]
 
 #### Collections
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33355480) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33355480) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6295-1), [Wikidata](https://www.wikidata.org/wiki/Q47122386). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Medicus, W. (± 1892), German naturalist at Kaiserslautern. 
-**Abbreviated name**: *W. Medicus*
+**Abbreviated name**: *W. Medicus* \[standard form in IPNI: *W.Medicus*\]
 
 #### Herbarium and types
 

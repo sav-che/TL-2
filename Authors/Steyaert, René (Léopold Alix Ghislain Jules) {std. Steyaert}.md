@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 924](https://www.biodiversitylibrary.org/page/33334063) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 924](https://www.biodiversitylibrary.org/page/33334063) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10142-1), [Wikidata](https://www.wikidata.org/wiki/Q4441496). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steyaert, René \[Léopold Alix Ghislain Jules\] (1905-1978), Belgian botanist; Ing. agr. Gembloux 1927; with the "Station de Phytopathologie de l'État", Gembloux 1926, 1928-1929; agronomist for mycology, in the Belgian Congo 1929-1934; with the "Institut national pour l'Étude agronomique au Congo" \[INEAC\] 1934-1946; mycologist with the "Commission pour l'étude de la flore du Congo belge..." from 1947; ultimately (1968-1970) stationed at the "Jardin botanique national de Belgique". 
-**Abbreviated name**: *Steyaert*
+**Abbreviated name**: *Steyaert* \[standard form in IPNI: *Steyaert*\]
 
 #### Herbarium and types
 

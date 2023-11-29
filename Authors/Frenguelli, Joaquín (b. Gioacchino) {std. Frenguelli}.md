@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 404](https://www.biodiversitylibrary.org/page/33259908) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 404](https://www.biodiversitylibrary.org/page/33259908) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18971-1), [Wikidata](https://www.wikidata.org/wiki/Q5931961). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Frenguelli, Joaquín \[b. Gioacchino\] (1883-1958), Italian-born Argentinian physician and botanist (diatomist), born 19 Aug 1883 in Rome, studied at a.o. the Lyceum Humberto I and Tivoli from 1900-1903, studied medicine at Univ. of Rome from 1903 and received a doctorate 1909, simultaneously studied natural sciences, went to Argentina in 1911 initially for two years but stayed, physician in Santa-Fé, Cordoba and Santo-Tomé until 1929, prof., Geology and Paleontology, Univ. Nacional del Litoral 1920, Dir., Museum of Natural Sciences at La Plata 1934-1947, died 22 Jun 1958 in Santa Fé. 
-**Abbreviated name**: *Frenguelli*
+**Abbreviated name**: *Frenguelli* \[standard form in IPNI: *Freng.*\]
 
 #### Herbarium and types
 

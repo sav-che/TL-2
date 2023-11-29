@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33190060) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33190060) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8165-1), [Wikidata](https://www.wikidata.org/wiki/Q4396937). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Raulin, Victor Félix (1815-1905), French botanist; Dr. sci. 1848; geological curator at the Museum d'Histoire naturelle, Paris 1838-1846; subsequently professor of geology at the Faculty of Sciences, Bordeaux. 
-**Abbreviated name**: *Raulin*
+**Abbreviated name**: *Raulin* \[standard form in IPNI: *Raulin*\]
 
 #### Herbarium and types
 

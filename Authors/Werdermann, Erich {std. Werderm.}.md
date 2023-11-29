@@ -29,14 +29,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33066530) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33066530) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11560-1), [Wikidata](https://www.wikidata.org/wiki/Q77133). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Werdermann, Erich (1892-1959), German (Prussian \[Berlin\]) botanist; studied at the University of Berlin; on active service 1914-1919; Dr. phil. Berlin (student of G.J.F. Haberlandt) 1919; anatomist and plant physiologist Biol. Reichsanstalt Berlin-Dahlem 1919-1920; pharmacognosist at the Reichsgesundheitsamt Berlin 1920-1921; from 1921-1959 with the Botanical Museum and Herbarium Berlin-Dahlem, assistant 1921-1927, curator 1927-1933, professor 1933, interim director 1951-1955, director 1955-1958; professor of botany at the Freie Universität 1955; plant geographer and student of the Cactaceae; travelled in Chile and Bolivia 1923-1927, Brazil 1932, Mexico 1933, Greece 1937, South Africa 1958-1959. 
-**Abbreviated name**: *Werderm.*
+**Abbreviated name**: *Werderm.* \[standard form in IPNI: *Werderm.*\]
 
 #### Herbarium and types
 

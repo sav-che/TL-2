@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33190218) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33190218) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8321-1), [Wikidata](https://www.wikidata.org/wiki/Q47125130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Révoil, Georges (*fl*. 1878-1880), French explorer of Somalia. 
-**Abbreviated name**: *Révoil*
+**Abbreviated name**: *Révoil* \[standard form in IPNI: *Révoil*\]
 
 #### Herbarium and types
 

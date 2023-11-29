@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33258613) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33258613) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3041-1), [Wikidata](https://www.wikidata.org/wiki/Q21513817). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gates, Frank Caleb (1887-1955), American botanist, born 12 Sep 1887 in Lake View (now Chicago), Illinois, son of a Great Lakes ship capt., A.B. 1910 Univ. of Illinois, Ph.D. 1912 Univ. of Michigan, Ann Arbor, Prof. of Botany, Univ. of Philippines 1912-1915, from 1915 taught botany and biology (summers only) at Univ. of Michigan Biological Station, Douglas Lake (Cheboygan Co.), Prof. of Biology, Carthage College, Illinois 1916-1919, acting Asst. Prof. of Botany, Univ. of Michigan, Ann Arbor 1919-1920, Asst. Prof. 1919, Assoc. Prof. 1922 and Prof. 1928, Kansas State College of Agriculture (now Kansas State Univ.), Manhattan, President, Ecological Society of Amer. 1952, died 21 Mar 1955 in Manhattan, Kansas. 
-**Abbreviated name**: *F.C. Gates*
+**Abbreviated name**: *F.C. Gates* \[standard form in IPNI: *F.C.Gates*\]
 
 #### Note
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33120297) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33120297) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/619-1), [Wikidata](https://www.wikidata.org/wiki/Q66934). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Behr, Hans Herman(n) {std. Behr} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Behr, Hans Herman\[n\] (1818-1904), German physician and botanist who travelled in Australia and later settled in California. 
-**Abbreviated name**: *Behr*
+**Abbreviated name**: *Behr* \[standard form in IPNI: *Behr*\]
 
 #### Herbarium and types
 

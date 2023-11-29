@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33189776) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33189776) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7771-1), [Wikidata](https://www.wikidata.org/wiki/Q1971138). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pocock, Mary Agard (1886-1977), South African phycologist; B.S. botany London University 1908 (honors degree ibid. 1921), high school teacher at Cheltenham 1909-1912, at Wijnberg (Cape) Girl's High School 1913-1917; worked with A.C. Seward at Cambridge 1919-1921; temporary lecturer at various South African universities and colleges from 1923 onward; turned to algology 1928 (Ph.D. 1932 Univ. Cape Town), D.Sc. h.c. Rhodes Univ. 1967. 
-**Abbreviated name**: *Pocock*
+**Abbreviated name**: *Pocock* \[standard form in IPNI: *Pocock*\]
 
 #### Herbarium and types
 

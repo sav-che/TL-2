@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33265329) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33265329) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16049-1), [Wikidata](https://www.wikidata.org/wiki/Q91376). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bertsch, Karl (1878-1965), German (Württemberg) primary school teacher in Mengen, highschool teacher at Ravensburg, 1927, Dr. phil. h.c. Tübingen, specialized on the flora and vegetation of Württemberg. 
-**Abbreviated name**: *Bertsch*
+**Abbreviated name**: *Bertsch* \[standard form in IPNI: *Bertsch*\]
 
 #### Herbarium and types
 

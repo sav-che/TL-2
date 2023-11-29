@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-02-23 07:31:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33266064) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33266064) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17452-1), [Wikidata](https://www.wikidata.org/wiki/Q1276939). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cosson, Ernest Saint-Charles {std. Coss.}|first entry]] for this author
 
 ### Author
 
 \* Cosson, Ernest \[Saint-Charles\] (1819-1889), French botanist and explorer, born at Paris, studied medicine at the University of Paris, Dr. med. 1847, however, mainly interested in botany from 1840, collected in Algeria 1840-1844, and worked on the Algerian botany, collecting 60.000 numbers before 1867, Chevalier de la Légion d'honneur 1865, officer id. 1880, member of the "Institut" from 1878. 
-**Abbreviated name**: *Coss.*
+**Abbreviated name**: *Coss.* \[standard form in IPNI: *Coss.*\]
 
 #### Herbarium and types
 

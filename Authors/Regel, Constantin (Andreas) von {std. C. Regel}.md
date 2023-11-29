@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33190108) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33190108) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8236-1), [Wikidata](https://www.wikidata.org/wiki/Q443651). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Regel, Constantin \[Andreas\] von (1890-1970), Russian-born botanist; studied at the University of St. Petersburg until 1913; botanical assistant at the Ministry of Agriculture ib. 1913-1917; at the University of Dorpat (Tartu) 1918-1921; Dr. phil. Würzburg 1921; professor of botany at Kaunus University, Lithuania, 1922-1940; in exile in Switzerland 1940-1944; from 1944 at Graz; teaching botany in Bagdad 1952-1955, Istanbul 1956 and Kabul 1958-1959; from 1959-1962 living at Heidelberg; from 1962-1967 at Izmir, later again in Graz and in Zürich. 
-**Abbreviated name**: *C. Regel*
+**Abbreviated name**: *C. Regel* \[standard form in IPNI: *C.Regel*\]
 
 #### Herbarium and types
 

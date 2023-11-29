@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33333754) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33333754) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9691-1), [Wikidata](https://www.wikidata.org/wiki/Q21608957). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Singer, Jakob (1834-1901), German (Bavarian) clergyman, high school teacher, botanist and entomologist; ordained Regensburg 1856; studied natural sciences München 1856-1860; Dr. phil. ib. 1860; from 1861-1863 again in Regensburg; professor of natural sciences at the episcopal Lyceum Eichstätt 1863-1865; id. at the Regensburg philosophical-theological college (Lyceum Albertinum) from 1865; secretary of the Regensburger botanische Gesellschaft 1865; director of id. and editor of Flora 1871-1891. 
-**Abbreviated name**: *J. Singer*
+**Abbreviated name**: *J. Singer* \[standard form in IPNI: *J.Singer*\]
 
 #### Herbarium and types
 

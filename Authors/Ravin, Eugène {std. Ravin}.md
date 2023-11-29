@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33190073) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33190073) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8183-1), [Wikidata](https://www.wikidata.org/wiki/Q36549149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ravin, Eugène (*fl*. 1861), French botanist and pharmacist; director of the botanical garden at Auxerre. 
-**Abbreviated name**: *Ravin*
+**Abbreviated name**: *Ravin* \[standard form in IPNI: *Ravin*\]
 
 #### Herbarium and types
 

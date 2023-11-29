@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33068643) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33068643) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4375-1), [Wikidata](https://www.wikidata.org/wiki/Q36503730). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jacobovics, Anton (*fl*. 1835), Hungarian botanist; Dr. med. Pest 1835. 
-**Abbreviated name**: *Jacobov.*
+**Abbreviated name**: *Jacobov.* \[standard form in IPNI: *Jacobov.*\]
 
 #### Herbarium and types
 

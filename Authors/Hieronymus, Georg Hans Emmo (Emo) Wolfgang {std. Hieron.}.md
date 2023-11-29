@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33068435) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33068435) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3933-1), [Wikidata](https://www.wikidata.org/wiki/Q3047331). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hieronymus, Georg Hans Emmo (Emo) Wolfgang (1846-1921), German botanist and plant collector; Dr. phil. Halle 1872; at Cordoba, Argentina, 1874-1883; from 1883-1892 Privatgelehrter at Breslau; at Berlin-Dahlem from 1892. 
-**Abbreviated name**: *Hieron.*
+**Abbreviated name**: *Hieron.* \[standard form in IPNI: *Hieron.*\]
 
 #### Herbarium and types
 

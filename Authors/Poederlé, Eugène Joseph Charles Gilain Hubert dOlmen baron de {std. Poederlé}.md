@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33189779) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33189779) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7775-1), [Wikidata](https://www.wikidata.org/wiki/Q5850355). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Poederlé, Eugène Joseph Charles Gilain Hubert d'Olmen baron de (1742-1813), Belgian landed gentleman, botanist, sylviculturist and agronomist living in Bruxelles and on his property at Saintes. 
-**Abbreviated name**: *Poederlé*
+**Abbreviated name**: *Poederlé* \[standard form in IPNI: *Poederlé*\]
 
 #### Herbarium and types
 

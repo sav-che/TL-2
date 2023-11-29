@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33068458) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33068458) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3972-1), [Wikidata](https://www.wikidata.org/wiki/Q5080195). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hitchcock, Charles Leo (1902-x), American botanist in the Pacific Northwest. 
-**Abbreviated name**: *C. Hitchc.*
+**Abbreviated name**: *C. Hitchc.* \[standard form in IPNI: *C.L.Hitchc.*\]
 
 #### Herbarium and types
 

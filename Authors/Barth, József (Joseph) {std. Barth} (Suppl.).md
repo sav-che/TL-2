@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33265069) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 342](https://www.biodiversitylibrary.org/page/33265069) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31379-1), [Wikidata](https://www.wikidata.org/wiki/Q12349965). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Barth, József (Joseph) {std. Barth}|first entry]] for this author
 
 ### Author
 
 \* Barth, József (Joseph) (1833-1915), Transylvanian clergyman and botanist belonging to the German language population in that region; distributed botanical collections, educated at the seminar at Medgyes, first teacher, later curate at Hosszuaszó 1864-1905, in retirement at Nagyszeben 1905-1915. 
-**Abbreviated name**: *Barth*
+**Abbreviated name**: *Barth* \[standard form in IPNI: *Barth*\]
 
 #### Herbarium and types
 

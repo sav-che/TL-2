@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33333166) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33333166) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8865-1), [Wikidata](https://www.wikidata.org/wiki/Q5663189). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sampaio, Alberto José de (1881-1946), Brazilian botanist; with the botanical section of the Rio de Janeiro Museo nacional from 1905; from 1910 as associate professor, and from 1912 as professor and chief of the section. 
-**Abbreviated name**: *A. Samp.*
+**Abbreviated name**: *A. Samp.* \[standard form in IPNI: *A.Samp.*\]
 
 #### Herbarium and types
 

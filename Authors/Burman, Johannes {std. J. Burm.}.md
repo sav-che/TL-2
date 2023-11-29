@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33120544) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33120544) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1307-1), [Wikidata](https://www.wikidata.org/wiki/Q957115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Burman, Johannes (1707-1779), Dutch physician and botanist at Amsterdam, friend and correspondent of Linnaeus, professor of botany in Amsterdam at the *Hortus medicus* from 1728 onward, at the *Athenaeum illustre* 1755-1777. 
-**Abbreviated name**: *J. Burm.*
+**Abbreviated name**: *J. Burm.* \[standard form in IPNI: *Burm.*\]
 
 #### Herbarium and types
 

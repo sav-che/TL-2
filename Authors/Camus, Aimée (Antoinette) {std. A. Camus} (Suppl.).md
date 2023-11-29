@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266644) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266644) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1381-1), [Wikidata](https://www.wikidata.org/wiki/Q272128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Camus, Aimée Antoinette {std. A. Camus}|first entry]] for this author
 
 ### Author
 
 \* Camus, Aimée (Antoinette) (1879-1965), French botanist, daughter of E.G. Camus, student in botany with her father, studied with Gaston Bonnier at the Sorbonne, at the Muséum d'Histoire naturelle, associated and working with van Tieghem, "Lauréat de l'Institut" 1930, "Chevalier de la Légion d'honneur" 1936. 
-**Abbreviated name**: *A. Camus*
+**Abbreviated name**: *A. Camus* \[standard form in IPNI: *A.Camus*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33258617) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33258617) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3043-1), [Wikidata](https://www.wikidata.org/wiki/Q710418). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gates, R\[eginald\]. Ruggles (1882-1962), Canadian-born British anthropologist, biologist, botanist and geneticist, born 1 Mai 1882 in Middleton, Nova Scotia, B.A. and M.A. 1903 Mount Allison Univ., Sackville, New Brunswick, demonstrator in botany, McGill Univ., Montreal 1905, B.Sc. 1906 McGill Univ., Ph.D. 1908 Univ. of Chicago, research at Missouri Botanical Garden 1910-1911, Mendel Medal (Paris) 1911, lecturer in cytology, Bedford College, London 1912, 1914 and Oxford Univ. 1914, assoc. prof. of zoology, Univ. of Calif. 1915-1916, gunnery instructor, W.W.-I (1917-1918), reader in botany, then prof., King's College (Univ. of London) 1919-1942, Hon. LL.D. 1927 Mount Allison Univ., F.R.S. 1931, D.Sc. 1933 Univ. of London, traveled widely for expeds., lectures and temporary univ. appointments, many other academic honors, died 12 Aug 1962 in London. 
-**Abbreviated name**: *R.R. Gates*
+**Abbreviated name**: *R.R. Gates* \[standard form in IPNI: *R.R.Gates*\]
 
 #### Note
 

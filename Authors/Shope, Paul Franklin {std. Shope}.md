@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33333707) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33333707) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26691-1), [Wikidata](https://www.wikidata.org/wiki/Q21608820). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shope, Paul Franklin (1894-x), American mycologist; MS Univ. Colorado 1925; Dr. phil. Washington Univ. 1931; instructor, subsequently professor of botany at the University of Colorado 1923-1943. 
-**Abbreviated name**: *Shope*
+**Abbreviated name**: *Shope* \[standard form in IPNI: *Shope*\]
 
 #### Herbarium and types
 

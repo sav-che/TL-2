@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33265907) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33265907) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/14652-1), [Wikidata](https://www.wikidata.org/wiki/Q118457). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Coaz, Johann Wilhelm Fortunat (1822-1918), Dutch forester, born in Antwerpen, studied forestry science in Germany (Tharandt) with the "Eidgenössischen Typographischen Bureau" (1844-1851), "Kantonale Forstinspektor" 1851-1873 in Chur, 1873-1875 idem in St-Gallen, "Oberforstinspektor" at Bern 1875-1914, Dr. phil h.c. Bern (1880). 
-**Abbreviated name**: *Coaz*
+**Abbreviated name**: *Coaz* \[standard form in IPNI: *Coaz*\]
 
 #### Herbarium and types
 

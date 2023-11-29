@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33068757) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33068757) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4706-1), [Wikidata](https://www.wikidata.org/wiki/Q18631896). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Keller, Ida Augusta (1866-1932), German-born American botanist and high school teacher; Dr. phil. Zürich 1890; lecturer at Bryn Mawr College, Philadelphia 1891-1892; from 1893at the Girl's High School ib. 
-**Abbreviated name**: *I. Keller*
+**Abbreviated name**: *I. Keller* \[standard form in IPNI: *I.Keller*\]
 
 #### Herbarium and types
 

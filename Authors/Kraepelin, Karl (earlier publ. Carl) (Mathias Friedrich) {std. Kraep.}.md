@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33068902) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33068902) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12631-1), [Wikidata](https://www.wikidata.org/wiki/Q68239). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kraepelin, Karl (earlier publ.: Carl) \[Mathias Friedrich\] (1848-1915), German botanist and zoologist; Dr. phil. Leipzig 1872; from 1873-1874 high school teacher at Leipzig; from 1878-1889 at the Hamburg Johanneum; from 1889-1914 director of the natural history museum at Hamburg. 
-**Abbreviated name**: *Kraep.*
+**Abbreviated name**: *Kraep.* \[standard form in IPNI: *Kraep.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33189489) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33189489) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7334-1), [Wikidata](https://www.wikidata.org/wiki/Q18756662). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parfitt, Edward (1820-1893), British gardener, entomologist, mycologist and lichenologist; gardener in Norfolk and from 1848-1860 in Exeter; librarian of the Devon and Exeter Institution 1861-1893. 
-**Abbreviated name**: *Parfitt*
+**Abbreviated name**: *Parfitt* \[standard form in IPNI: *Parfitt*\]
 
 #### Herbarium and types
 

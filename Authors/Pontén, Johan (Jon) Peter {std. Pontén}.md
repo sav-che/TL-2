@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33189806) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33189806) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12740-1), [Wikidata](https://www.wikidata.org/wiki/Q6053351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pontén, Johan (Jon) Peter (1776-1857), Swedish botanist, physician and clergyman; Dr. phil. Greifswald 1800, ordained 1801, parish priest at Hultsjö from 1826, at Korsberga from 1837. 
-**Abbreviated name**: *Pontén*
+**Abbreviated name**: *Pontén* \[standard form in IPNI: *Pontén*\]
 
 #### Herbarium and types
 

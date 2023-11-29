@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33068676) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33068676) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4460-1), [Wikidata](https://www.wikidata.org/wiki/Q452354). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jekyll, Gertrude (1843-1932), British gardener. 
-**Abbreviated name**: *Jekyll*
+**Abbreviated name**: *Jekyll* \[standard form in IPNI: *Jekyll*\]
 
 #### Herbarium and types
 

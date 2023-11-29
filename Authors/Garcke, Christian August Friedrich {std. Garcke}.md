@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/page/33121043) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/page/33121043) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3021-1), [Wikidata](https://www.wikidata.org/wiki/Q66696). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Garcke, (Christian) August (Friedrich) {std. Garcke} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Garcke, Christian August Friedrich (1819-1904), German botanist, pupil of D. F. L. von Schlechtendal at Halle, after 1854 curator, "dozent" and ultimately professor of botany at Berlin. 
-**Abbreviated name**: *Garcke*
+**Abbreviated name**: *Garcke* \[standard form in IPNI: *Garcke*\]
 
 #### Herbarium and types
 

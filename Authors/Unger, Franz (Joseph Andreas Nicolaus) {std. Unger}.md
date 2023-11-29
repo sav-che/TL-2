@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33212636) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33212636) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/28076-1), [Wikidata](https://www.wikidata.org/wiki/Q78805). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Unger, Franz \[Joseph Andreas Nicolaus\] (1800-1870), Austrian botanist; Dr. med. Wien 1827; practicing physician at Stockerau 1828-1830; forensic physician at Kitzbühel; professor of botany and zoology at the Johanneum, Graz 1835-1849; professor of plant anatomy and physiology Univ. Wien 1849-1866; in retirement at Graz 1866-1870. 
-**Abbreviated name**: *Unger*
+**Abbreviated name**: *Unger* \[standard form in IPNI: *Unger*\]
 
 #### Herbarium and types
 

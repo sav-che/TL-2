@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33120747) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33120747) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2102-1), [Wikidata](https://www.wikidata.org/wiki/Q10307166). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Delgado, Joaquim Filippe Nery (1835-1908), Portuguese palaeobotanist. 
-**Abbreviated name**: *Delgado*
+**Abbreviated name**: *Delgado* \[standard form in IPNI: *Delgado*\]
 
 #### Collections
 

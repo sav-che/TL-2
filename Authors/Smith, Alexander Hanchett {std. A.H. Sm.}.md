@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33333801) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33333801) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26908-1), [Wikidata](https://www.wikidata.org/wiki/Q2535368). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Alexander Hanchett (1904-x), American mycologist; Dr. phil. Univ. Michigan 1933; research assistant Univ. Herbarium, Univ. Michigan, Ann Arbor 1933-1934; assistant curator for fungi 1934-1939; assoc. curator 1939-1944, botanist 1944-1960; professor of botany 1960-1974; director of the Univ. Michigan herbarium 1960-1972; emeritus professor from 1974. 
-**Abbreviated name**: *A.H. Sm.*
+**Abbreviated name**: *A.H. Sm.* \[standard form in IPNI: *A.H.Sm.*\]
 
 #### Herbarium and types
 

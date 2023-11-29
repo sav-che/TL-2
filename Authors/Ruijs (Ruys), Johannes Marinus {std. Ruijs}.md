@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33190452) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33190452) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8729-1), [Wikidata](https://www.wikidata.org/wiki/Q36598296). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ruijs (Ruys), Johannes Marinus (*fl*. 1884), Dutch botanist and zoologist; participated in the Dutch Polar Expedition of 1882-1883; Dr. phil. Amsterdam 1884. 
-**Abbreviated name**: *Ruijs*
+**Abbreviated name**: *Ruijs* \[standard form in IPNI: *Ruijs*\]
 
 #### Herbarium and types
 

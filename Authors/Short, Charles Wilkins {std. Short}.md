@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33333707) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33333707) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9591-1), [Wikidata](https://www.wikidata.org/wiki/Q15474732). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Short, Charles Wilkins (1794-1863), American botanist and physician; Dr. med. Univ. Pennsylvania 1815; practiced at Lexington and Hopkinsville, Kentucky 1816-1825; professor of materia medica and medical botany Transylvania University, Lexington, Kentucky, 1825; dean of the medical dept. ib. 1828-1837; dean of the Louisville Medical Institute, 1838-1849; in retirement at his estate "Hayfield" south of Louisville. 
-**Abbreviated name**: *Short*
+**Abbreviated name**: *Short* \[standard form in IPNI: *Short*\]
 
 #### Herbarium and types
 

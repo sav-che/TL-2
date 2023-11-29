@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33355326) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33355326) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22659-1), [Wikidata](https://www.wikidata.org/wiki/Q1250009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mägdefrau, Karl (1907-x), German botanist, palaeobiologist and historian of botany; Dr. phil. München 1932; at Halle 1930-1934; at Erlangen 1932-1948, at München 1948-1951 (forestry botany), 1951-1960 (professor of botany at University); at Tübingen (as prof, of systematic bot.) 1960-1972. 
-**Abbreviated name**: *Mägd.*
+**Abbreviated name**: *Mägd.* \[standard form in IPNI: *Mägd.*\]
 
 #### Herbarium and types
 

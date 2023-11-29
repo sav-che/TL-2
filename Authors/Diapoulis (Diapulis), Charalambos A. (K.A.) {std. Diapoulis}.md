@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33259330) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33259330) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/39222-1), [Wikidata](https://www.wikidata.org/wiki/Q5764729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Diapoulis \[Diapulis\], Charalambos A. \["K.A."\] (fl. 1933-1958), Greek professor of systematic botany at the University of Athens. 
-**Abbreviated name**: *Diapoulis*
+**Abbreviated name**: *Diapoulis* \[standard form in IPNI: *Diap.*\]
 
 #### Herbarium and types
 

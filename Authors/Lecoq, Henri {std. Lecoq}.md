@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33069046) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33069046) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5391-1), [Wikidata](https://www.wikidata.org/wiki/Q3131471). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lecoq, Henri (1802-1871), French botanist; professor of natural history and director of the botanic garden at Clemont-Ferrand from 1826, until 1854 as municipal professor, from then on as professor of natural history at the Faculté des Sciences, later University. 
-**Abbreviated name**: *Lecoq*
+**Abbreviated name**: *Lecoq* \[standard form in IPNI: *Lecoq*\]
 
 #### Herbarium and types
 

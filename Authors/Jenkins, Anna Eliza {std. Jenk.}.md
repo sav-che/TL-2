@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33068677) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33068677) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4465-1), [Wikidata](https://www.wikidata.org/wiki/Q20811065). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jenkins, Anna Eliza (1886-1973), American phytopathologist and mycologist; Ph. D. Cornell 1927; from 1912 with the Bureau of Plant Industry. 
-**Abbreviated name**: *Jenk.*
+**Abbreviated name**: *Jenk.* \[standard form in IPNI: *Jenkins*\]
 
 #### Herbarium and types
 

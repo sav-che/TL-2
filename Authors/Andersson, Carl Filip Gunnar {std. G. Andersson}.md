@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2004-01-15 09:09:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33120176) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33120176) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/202-1), [Wikidata](https://www.wikidata.org/wiki/Q5554595). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Andersson, (Carl Filip) Gunnar {std. G. Andersson} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Andersson, Carl Filip Gunnar (1865-1928), Swedish bryologist, palaeobotanist and plant-geographer at Stockholm. 
-**Abbreviated name**: *C. Andersson*
+**Abbreviated name**: *C. Andersson* \[standard form in IPNI: *G.Andersson*\]
 
 #### Herbarium and types
 

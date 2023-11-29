@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 924](https://www.biodiversitylibrary.org/page/33334063) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 924](https://www.biodiversitylibrary.org/page/33334063) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10141-1), [Wikidata](https://www.wikidata.org/wiki/Q7410745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stewart, Samuel Alexander (1826-1910), American-born Irish botanist; to Belfast, Ireland 1836; "working-man naturalist"; curator Museum of the Belfast Natural History and Philosophy Society 1891-1907. 
-**Abbreviated name**: *S. Stewart*
+**Abbreviated name**: *S. Stewart* \[standard form in IPNI: *S.Stewart*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33120968) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33120968) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2748-1), [Wikidata](https://www.wikidata.org/wiki/Q10981088). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fischer, Jacob Benjamin (1730-1793), Livonian botanist. 
-**Abbreviated name**: *J. Fisch.*
+**Abbreviated name**: *J. Fisch.* \[standard form in IPNI: *J.Fisch.*\]
 
 #### Herbarium and types
 

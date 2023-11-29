@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33355537) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33355537) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6420-1), [Wikidata](https://www.wikidata.org/wiki/Q363389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meyer-Abich, Adolf (1893-x), German biologist, philosopher and historian of biology; Dr. phil Jena 1916; assistant librarian Univ. Göttingen 1917-1919, id. Kiel 1919-1921; librarian Univ. Hamburg 1921-1937 ("Bibliothekrat"), professor's title 1930; professor of philosophy Santiago, Chili 1929-1932; dir. Domin.-German Inst. Rep. Dominicana 1937-1939; from 1956 professor Univ. Hamburg. 
-**Abbreviated name**: *Mey.-Abich*
+**Abbreviated name**: *Mey.-Abich* \[standard form in IPNI: *Mey.-Abich*\]
 
 #### Herbarium and types
 

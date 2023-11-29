@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33068819) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33068819) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4871-1), [Wikidata](https://www.wikidata.org/wiki/Q6284642). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Knight, Joseph (c. 1777-1855), British gardener and nurseryman. 
-**Abbreviated name**: *J. Knight*
+**Abbreviated name**: *J. Knight* \[standard form in IPNI: *Knight*\]
 
 #### Herbarium and types
 

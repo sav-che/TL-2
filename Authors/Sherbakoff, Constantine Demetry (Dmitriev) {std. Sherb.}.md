@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/page/33333699) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/page/33333699) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9565-1), [Wikidata](https://www.wikidata.org/wiki/Q21608787). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sherbakoff, Constantine Demetry \[Dmitriev\] (1878-1965), Russian-born American phytopathologist; at the college of forestry St. Petersburg 1901-1907; to U.S.A. 1907; Dr. phil. Cornell 1915; plant phytopathologist at the Florida Experiment Station 1914-1920; at the Plant Pathology Department and Tennessee Agricultural Experiment Station, Univ. Tennessee 1920-1950. 
-**Abbreviated name**: *Sherb.*
+**Abbreviated name**: *Sherb.* \[standard form in IPNI: *Sherb.*\]
 
 #### Herbarium and types
 

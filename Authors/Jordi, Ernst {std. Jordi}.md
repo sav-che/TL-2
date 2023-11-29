@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33068705) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33068705) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4553-1), [Wikidata](https://www.wikidata.org/wiki/Q21517139). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jordi, Ernst (1899-1933), Swiss botanist. 
-**Abbreviated name**: *Jordi*
+**Abbreviated name**: *Jordi* \[standard form in IPNI: *E.Jordi*\]
 
 #### Herbarium and types
 

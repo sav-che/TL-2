@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33333393) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33333393) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9162-1), [Wikidata](https://www.wikidata.org/wiki/Q2650527). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidt, Johann Anton (1823-1905), German (Hamburg) botanist; studied botany at Heidelberg 1848-1849, Göttingen 1849-1850; Dr. phil. Göttingen 1850; in the Cape Verde Islands 1851; habil. Heidelberg 1852; lecturer ib. from 1852-1855, extra-ordinary professor of botany 1855-1863; from 1863-1904 in retirement at Hamburg; ultimately at Elberfeld. 
-**Abbreviated name**: *J.A. Schmidt*
+**Abbreviated name**: *J.A. Schmidt* \[standard form in IPNI: *J.A.Schmidt*\]
 
 #### Herbarium and types
 

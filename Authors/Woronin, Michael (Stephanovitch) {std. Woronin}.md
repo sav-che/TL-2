@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33066795) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33066795) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/28892-1), [Wikidata](https://www.wikidata.org/wiki/Q923476). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Woronin, Michael \[Stephanovitch\] (1838-1903), Russian botanist, and mycologist (phytopathologist); studied natural sciences at the University of St. Petersburg 1854-1858, at Heidelberg 1858-1859, at Freiburg i.Br. with A. de Bary 1859-1860; at Antibes with G.A. Thuret 1860; Mag. bot. St. Petersburg 1861; Dr. phil. h.c. Odessa 1874; private scientist working mainly at St. Petersburg from 1861; member of the Imp. Akad. Sci. St. Petersburg 1898; Foreign member Linn. Soc. 1895. 
-**Abbreviated name**: *Woronin*
+**Abbreviated name**: *Woronin* \[standard form in IPNI: *Woronin*\]
 
 #### Herbarium and types
 

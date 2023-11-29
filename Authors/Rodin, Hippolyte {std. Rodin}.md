@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33190300) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33190300) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8482-1), [Wikidata](https://www.wikidata.org/wiki/Q21607300). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rodin, Hippolyte (1829-1886\[?\]), French botanist and pharmacist at Beauvais; secretary of the Société d'Agriculture et d'Horticulture de Beauvais (Seine-et-Oise). 
-**Abbreviated name**: *Rodin*
+**Abbreviated name**: *Rodin* \[standard form in IPNI: *Rodin*\]
 
 #### Herbarium and types
 

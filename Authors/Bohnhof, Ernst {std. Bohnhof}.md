@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33265472) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33265472) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/20011954-2), [Wikidata](https://www.wikidata.org/wiki/Q36543657). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bohnhof, Ernst (fl. 1886-1895), French (German?) writer on orchids. 
-**Abbreviated name**: *Bohnhof*
+**Abbreviated name**: *Bohnhof* \[standard form in IPNI: *Bohnhof*\]
 
 #### Herbarium and types
 

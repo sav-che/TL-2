@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33265261) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33265261) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/15908-1), [Wikidata](https://www.wikidata.org/wiki/Q5749475). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Belli, Saverio Carlo (1852-1919), Italian botanist, born at Domodossola, habil. Univ. Torino 1894, director of the Botanical Garden, Torino University 1898-1900, extraordinary professsor of botany and director of the botanical garden at Cagliari 1901- ca. 1908. 
-**Abbreviated name**: *Belli*
+**Abbreviated name**: *Belli* \[standard form in IPNI: *Belli*\]
 
 #### Herbarium and types
 

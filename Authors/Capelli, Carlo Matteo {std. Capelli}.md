@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33120584) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33120584) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1387-1), [Wikidata](https://www.wikidata.org/wiki/Q13426085). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Capelli, Carlo (Matteo) {std. Capelli} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Capelli, Carlo Matteo (1763-1831), Italian botanist, professor of botany and director of the botanic garden at Torino 1817-1829. 
-**Abbreviated name**: *Capelli*
+**Abbreviated name**: *Capelli* \[standard form in IPNI: *Capelli*\]
 
 #### Herbarium and types
 

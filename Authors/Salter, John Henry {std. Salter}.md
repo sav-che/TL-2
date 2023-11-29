@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33333169) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33333169) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8854-1), [Wikidata](https://www.wikidata.org/wiki/Q18810926). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Salter, John Henry (1862-1942), English botanist and ornithologist; Bsc. London; with Strasburger 1896; teacher at various schools 1881-1888; professor of botany Univ. Coll. Aberystwyth 1891-1908; in the Canary Isl. and S. France 1908-1916; ultimately in Great Britain, from 1928 in the Aberystwyth area. 
-**Abbreviated name**: *Salter*
+**Abbreviated name**: *Salter* \[standard form in IPNI: *J.H.Salter*\]
 
 #### Herbarium and types
 

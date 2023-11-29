@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259679) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259679) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2714-1), [Wikidata](https://www.wikidata.org/wiki/Q5830772). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fiek, Emil {std. Fiek}|first entry]] for this author
 
 ### Author
 
 \* Fiek, Emil (1840-1897), German pharmacist and florist, born 23 Aug 1840 in Usch (Posen), attended gymnasium in Landsberg a. d. Warthe, studied pharmacy in Halle a. S. 1855-1859, practiced in several pharmacies 1859-1863, state examination in Berlin 1865, owned a pharmacy in Arnstadt, then in Schweidnitz 1867, in Reichenbach then in Friedland (Bez. Breslau) 1872-1877, sold his pharmacy in 1877 because of poor health and moved to Hirschberg (Schlesien), died 21 Jun 1897 in Cunnersdorf nr. Hirschberg. 
-**Abbreviated name**: *Fiek*
+**Abbreviated name**: *Fiek* \[standard form in IPNI: *Fiek*\]
 
 #### Herbarium and types
 

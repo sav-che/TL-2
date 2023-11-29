@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33355504) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33355504) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23275-1), [Wikidata](https://www.wikidata.org/wiki/Q633378). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Menzies, Archibald (1754-1842), British physician, gardener, botanist, zoologist and plant collector; assistant-surgeon in the Royal Navy 1782; in N.W. America 1786-1789; with Capt. Vancouver on the Voyage of the Discovery and Chatham 1791-1795. 
-**Abbreviated name**: *Menzies*
+**Abbreviated name**: *Menzies* \[standard form in IPNI: *Menzies*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/page/33190334) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/page/33190334) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8534-1), [Wikidata](https://www.wikidata.org/wiki/Q63209). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rohlfs, Gerhard \[Friedrich\] (1831-1896), German (Bremen) traveller and collector in North Africa; studied medicine in Heidelberg, Würzburg and Göttingen; physician in the French colonial army 1855-1860, later exploring Northern Africa. 
-**Abbreviated name**: *Rohlfs*
+**Abbreviated name**: *Rohlfs* \[standard form in IPNI: *Rohlfs*\]
 
 #### Herbarium and types
 

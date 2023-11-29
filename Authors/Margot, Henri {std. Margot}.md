@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33355380) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33355380) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6103-1), [Wikidata](https://www.wikidata.org/wiki/Q3131568). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Margot, Henri (1807-1894), Swiss teacher and botanist, pupil of A. P. de Candolle; B.Sc. Genève 1829; teacher with count Messala at Zante (Ionian isles) 1834-1837; from 1837-1839 at Valleyres; from 1839-1855 high school teacher at Vevey; from 1855-1873 id. at the Collège cantonal of Lausanne. 
-**Abbreviated name**: *Margot*
+**Abbreviated name**: *Margot* \[standard form in IPNI: *Margot*\]
 
 #### Herbarium and types
 

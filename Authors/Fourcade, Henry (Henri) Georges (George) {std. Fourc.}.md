@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33259860) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33259860) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2856-1), [Wikidata](https://www.wikidata.org/wiki/Q3679573). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fourcade, Henry \[Henri\] Georges \[George\] (1865-1948), French-born South African forester, surveyor, inventor and botanist, born 10 Jul 1865 in Bordeaux, resided in Yokohama, Japan where his father imported wine and other liqueurs ca. 1874-1877, returned to France for school ca. 1877, moved with his mother and sister to Cape Town ca. 1881, granted certificate in land surveying, asst., Cape Forest Dept. ca. 1882, assigned to Kynsna, seconded for special service to Natal, resigned from Civil Service 1913, worked the timber on his property at Witte Els Bosch (now Witelsbos), Cape Prov., visited Europe 1924-1925 (and again later), Fellow, Roy. Soc. S. Afr. 1927, Dr. h.c. 1930 Univ. of Cape Town and 1947 Univ. of S. Afr., also invented apparatus for aerial photography, died 19 Jan 1948 at Humansdorp (Cape Prov.), South Africa. 
-**Abbreviated name**: *Fourc.*
+**Abbreviated name**: *Fourc.* \[standard form in IPNI: *Fourc.*\]
 
 #### Herbarium and types
 

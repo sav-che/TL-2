@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33189776) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33189776) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24931-1), [Wikidata](https://www.wikidata.org/wiki/Q4368181). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Podpera, Josef (1878-1954), Czechoslovak (Bohemian) botanist; studied at the Charles University, Praha 1897-1903; Dr. phil. Praha 1903; teacher of classical languages at various colleges 1903-1914, from 1914-1920 prisoner of war in Russia and the Soviet Union, part of the time at the botanical institute of Ufa (n. Tomsk); from 1921 professor of botany at Brno; member Acad. Sci. \[fix\]SR 1953. 
-**Abbreviated name**: *Podp.*
+**Abbreviated name**: *Podp.* \[standard form in IPNI: *Podp.*\]
 
 #### Herbarium and types
 

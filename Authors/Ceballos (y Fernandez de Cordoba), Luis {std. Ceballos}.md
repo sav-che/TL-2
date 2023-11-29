@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33265678) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33265678) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/12491-1), [Wikidata](https://www.wikidata.org/wiki/Q3848840). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ceballos \[y Fernandez de Cordoba\], Luis (1896-1967), Spanish botanist and entomologist, Escuela especial de Ingenieros de Montes, Ciudad Universitaria Madrid. 
-**Abbreviated name**: *Ceballos*
+**Abbreviated name**: *Ceballos* \[standard form in IPNI: *Ceballos*\]
 
 #### Herbarium and types
 

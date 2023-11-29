@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/page/33190093) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/page/33190093) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25435-1), [Wikidata](https://www.wikidata.org/wiki/Q21338774). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Redinger, Karl Martin (1907-1940), Austrian lichenologist; Dr. phil. Wien 1931; employed at the "Naturhistorisches Museum" Wien 1931-1937; working on genetics and cytology with F. v. Wettstein at Berlin-Dahlem 1937-1938; cytologist at the German Reichsanstalt für Tabak-forschung nr. Karlsruhe 1938. 
-**Abbreviated name**: *Redinger*
+**Abbreviated name**: *Redinger* \[standard form in IPNI: *Redinger*\]
 
 #### Herbarium and types
 

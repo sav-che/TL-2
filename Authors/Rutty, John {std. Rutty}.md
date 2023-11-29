@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33190482) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33190482) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8764-1), [Wikidata](https://www.wikidata.org/wiki/Q6256064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rutty, John (1697-1775), British (English) physician; MD Leiden 1723; physician at Dublin 1724-1775. 
-**Abbreviated name**: *Rutty*
+**Abbreviated name**: *Rutty* \[standard form in IPNI: *Rutty*\]
 
 #### Herbarium and types
 

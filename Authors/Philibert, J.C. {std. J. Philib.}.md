@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33189703) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33189703) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7634-1), [Wikidata](https://www.wikidata.org/wiki/Q36597025). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Philibert, J.C. (*fl*. 1800), French botanist. 
-**Abbreviated name**: *J. Philib.*
+**Abbreviated name**: *J. Philib.* \[standard form in IPNI: *Philib.*\]
 
 #### Herbarium and types
 

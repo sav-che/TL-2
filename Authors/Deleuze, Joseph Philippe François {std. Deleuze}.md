@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259221) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259221) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2101-1), [Wikidata](https://www.wikidata.org/wiki/Q277326). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Deleuze, Joseph Philippe François (1753-1835), French author and naturalist, born Sisteron, Provence Mar 1753, died 29 Oct 1835 in Paris, had a short military career, moved to natural sciences with de L'Héritier, Adr. de Jussieu and A.P. de Candolle, librarian of the Muséum d'Histoire naturelle at Paris. 
-**Abbreviated name**: *Deleuze*
+**Abbreviated name**: *Deleuze* \[standard form in IPNI: *Deleuze*\]
 
 #### Herbarium and types
 

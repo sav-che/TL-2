@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33265682) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33265682) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1476-1), [Wikidata](https://www.wikidata.org/wiki/Q3193057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cejp, Karel {std. Cejp}|first entry]] for this author
 
 ### Author
 
 \* Cejp, Karel (1900-1979), Czech mycologist and botanical bibliographer, born at Rokycany, W. Bohemia, educated at the main school of Rokycany, enrolled 1919 at the Science Faculty of the Charles University, Prague, Dr. phil. 1923, assistant to J. Velenovský, docent at this faculty 1933, appointed associate professor 1947, subsequently full professor and emeritus professor of cryptogamic botany at the Charles University. 
-**Abbreviated name**: *Cejp*
+**Abbreviated name**: *Cejp* \[standard form in IPNI: *Cejp*\]
 
 #### Herbarium and types
 

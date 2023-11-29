@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33120653) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33120653) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1732-1), [Wikidata](https://www.wikidata.org/wiki/Q237271). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Colebrook (Colebrooke), Henry Thomas {std. Colebr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Colebrooke, Henry Thomas (1765-1837), British colonial magistrate, Sanskrit scholar and amateur botanist. 
-**Abbreviated name**: *Colebr.*
+**Abbreviated name**: *Colebr.* \[standard form in IPNI: *Colebr.*\]
 
 #### Herbarium and types
 

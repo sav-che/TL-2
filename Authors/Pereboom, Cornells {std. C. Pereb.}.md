@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33189633) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33189633) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7503-1), [Wikidata](https://www.wikidata.org/wiki/Q36529126). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pereboom, Cornells (*fl*. 1788), Dutch physician and botanist at Amsterdam. 
-**Abbreviated name**: *C. Pereb.*
+**Abbreviated name**: *C. Pereb.* \[standard form in IPNI: *C.Pereb.*\]
 
 #### Herbarium and types
 

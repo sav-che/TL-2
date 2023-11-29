@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33189784) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33189784) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24941-1), [Wikidata](https://www.wikidata.org/wiki/Q5895680). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Poeverlein, Hermann (1874-1957), German administrator and botanist; Dr. jur. Erlangen 1898; in the judiciary and administration at Ludwigshafen (1904, assistant judge), Kemnath (1916) and Speyer (1919, Regierungsrat; 1932 Regierungsdirektor); from 1934 in semi-retirement at Augsburg; from 1941 retired, from 1945/6 at Karxheimzell and later at Ludwigshafen; specialist on Uredinales. 
-**Abbreviated name**: *Poeverl.*
+**Abbreviated name**: *Poeverl.* \[standard form in IPNI: *Poeverl.*\]
 
 #### Herbarium and types
 

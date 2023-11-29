@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33265121) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33265121) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/564-1), [Wikidata](https://www.wikidata.org/wiki/Q3040528). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baxter, William {std. Baxter}|first entry]] for this author
 
 ### Author
 
 \* Baxter, William (1787-1871), British (Rugby) gardener and cryptogamist, curator of the Botanic Garden Oxford 1813-1851, retired from this position in favour of his son William H. Baxter. 
-**Abbreviated name**: *Baxter*
+**Abbreviated name**: *Baxter* \[standard form in IPNI: *Baxter*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2005-06-16 04:27:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33190401) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33190401) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12797-1), [Wikidata](https://www.wikidata.org/wiki/Q2615816). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rottbøll, Christen Friis (1727-1797), Danish botanist; Dr. med. Kjøbenhavn 1755; professor of medicine ("designatus") ib. 1756; studied botany with Linnaeus 1756-1757; travelled in Holland and France; director of the Copenhagen botanical garden 1770-1797; ord. professor of medicine 1776-1797. 
-**Abbreviated name**: *Rottb.*
+**Abbreviated name**: *Rottb.* \[standard form in IPNI: *Rottb.*\]
 
 #### Herbarium and types
 

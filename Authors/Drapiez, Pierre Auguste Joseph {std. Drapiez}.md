@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33260077) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33260077) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2305-1), [Wikidata](https://www.wikidata.org/wiki/Q2073082). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Drapiez, Pierre Auguste Joseph (1778-1856), French-Belgian chemist and botanist, born 28 Aug 1778 at Lille (France), died 28 Dec 1856 Bruxelles. 
-**Abbreviated name**: *Drapiez*
+**Abbreviated name**: *Drapiez* \[standard form in IPNI: *Drapiez*\]
 
 #### Herbarium and types
 

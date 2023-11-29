@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33212430) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33212430) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27815-1), [Wikidata](https://www.wikidata.org/wiki/Q18190888). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tomin, Michail Petrovich (1883-1967), Russian lichenologist; Dr. phil. Moskva 1913; at the Agricultural Institute Woronesch 1913-1929; ultimately at the Biological Institute of the Academy of Sciences, Minsk. 
-**Abbreviated name**: *Tomin*
+**Abbreviated name**: *Tomin* \[standard form in IPNI: *Tomin*\]
 
 #### Herbarium and types
 

@@ -25,16 +25,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33120734) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33120734) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2042-1), [Wikidata](https://www.wikidata.org/wiki/Q1702168). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dawson, (Sir) John William {std. Dawson} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dawson, \[Sir\] John William (1820-1899), Canadian palaeobotanist at McGill University, Montreal 1855-1893. 
-**Abbreviated name**: *J. W. Dawson*
+**Abbreviated name**: *J. W. Dawson* \[standard form in IPNI: *Dawson*\]
 
 #### Collections
 

@@ -29,16 +29,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-01-19 09:14:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33120238) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33120238) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/416-1), [Wikidata](https://www.wikidata.org/wiki/Q536946). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Balansa, Benedict (Benjamin) {std. Balansa} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Balansa, Benedict ("Benjamin"") (1825-1891), French botanical explorer. 
-**Abbreviated name**: *Balansa*
+**Abbreviated name**: *Balansa* \[standard form in IPNI: *Balansa*\]
 
 #### Herbarium and types
 

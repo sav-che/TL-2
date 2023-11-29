@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33260225) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33260225) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2445-1), [Wikidata](https://www.wikidata.org/wiki/Q460241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Eastwood, Alice {std. Eastw.}|first entry]] for this author
 
 ### Author
 
 \* Eastwood, Alice (1859-1953), Canadian later American botanist, born 19 Jan 1859 in Toronto, Canada, moved to Denver, Colorado in 1880, taught at the East Denver High School after graduation, came as tourist to California in 1891, returned to Colorado, but came back to California in 1892 and stayed for 60 years, died 30 Oct 1953 at San Francisco. 
-**Abbreviated name**: *Eastw.*
+**Abbreviated name**: *Eastw.* \[standard form in IPNI: *Eastw.*\]
 
 #### Herbarium and types
 

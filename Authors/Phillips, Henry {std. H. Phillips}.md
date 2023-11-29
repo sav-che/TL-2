@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33189712) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33189712) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7642-1), [Wikidata](https://www.wikidata.org/wiki/Q4484213). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Phillips, Henry (1779-1840), British botanist and horticultural writer; banker at Worthing, later living in London and Brighton. 
-**Abbreviated name**: *H. Phillips*
+**Abbreviated name**: *H. Phillips* \[standard form in IPNI: *Phillips*\]
 
 #### Herbarium and types
 

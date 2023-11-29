@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33066466) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33066466) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11463-1), [Wikidata](https://www.wikidata.org/wiki/Q2586034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weber, Friedrich (1781-1823), German botanist; Dr. phil. Kiel 1801; supervisor university hospital 1802; adjunct philos. faculty Kiel 1803, extraord. prof. id. 1804; Dr. med. 1805; in charge of the botanical garden 1810; extraord. professor of medicine 1811; son of Georg Heinrich Weber. 
-**Abbreviated name**: *F. Weber*
+**Abbreviated name**: *F. Weber* \[standard form in IPNI: *F.Weber*\]
 
 #### Herbarium and types
 

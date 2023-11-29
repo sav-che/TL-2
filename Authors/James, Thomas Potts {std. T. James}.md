@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33068662) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33068662) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/20878-1), [Wikidata](https://www.wikidata.org/wiki/Q3525492). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 James, Thomas Potts (1803-1882), American bryologist; collaborator of Leo Lesquereux; lived at Philadelphia 1803-1869; at Cambridge, Mass. 1869-1882. 
-**Abbreviated name**: *T. James*
+**Abbreviated name**: *T. James* \[standard form in IPNI: *James*\]
 
 #### Herbarium and types
 

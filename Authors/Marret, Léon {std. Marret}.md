@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33355391) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33355391) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6128-1), [Wikidata](https://www.wikidata.org/wiki/Q36615337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marret, Léon (*fl*. 1900-1929), Swiss botanist. 
-**Abbreviated name**: *Marret*
+**Abbreviated name**: *Marret* \[standard form in IPNI: *Marret*\]
 
 #### Herbarium and types
 

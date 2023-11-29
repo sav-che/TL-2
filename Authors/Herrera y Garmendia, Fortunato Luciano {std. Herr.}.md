@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-01-20 16:20:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33068417) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33068417) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3885-1), [Wikidata](https://www.wikidata.org/wiki/Q5561447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Herrera y Garmendia, Fortunato Luciano (1875-1945), Peruvian botanist, professor at the University of Cuzco from 1910. 
-**Abbreviated name**: *Herr.*
+**Abbreviated name**: *Herr.* \[standard form in IPNI: *Herrera*\]
 
 #### Herbarium and types
 

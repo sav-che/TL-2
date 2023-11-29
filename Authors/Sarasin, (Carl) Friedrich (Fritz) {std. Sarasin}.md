@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33333150) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33333150) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12812-1), [Wikidata](https://www.wikidata.org/wiki/Q124522). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sarasin, \[Carl\] Friedrich ("Fritz") (1859-1942), Swiss naturalist; studied in Basel and Würzburg; explored, with his cousin Paul Benedict Sarasin, Ceylon (1883-1886, 1890), and Celebes (1893-1896, 1902-1903); "Privatgelehrter" at Basel; from 1898 president of the council for the Basel Museum f. Völkerkunde. 
-**Abbreviated name**: *Sarasin*
+**Abbreviated name**: *Sarasin* \[standard form in IPNI: *Sarasin*\]
 
 #### Herbarium and types
 

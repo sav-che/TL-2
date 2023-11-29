@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33190374) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33190374) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8619-1), [Wikidata](https://www.wikidata.org/wiki/Q33691326). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rossi, Giovanni Battista (*fl*. 1825), Italian gardener; curator of the botanical garden of Monza, nr. Milano 1825-1843. 
-**Abbreviated name**: *G. Rossi*
+**Abbreviated name**: *G. Rossi* \[standard form in IPNI: *G.Rossi*\]
 
 #### Herbarium and types
 

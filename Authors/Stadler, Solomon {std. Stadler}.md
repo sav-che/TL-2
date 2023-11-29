@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33333964) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33333964) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10009-1), [Wikidata](https://www.wikidata.org/wiki/Q21609436). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stadler, Solomon (1842-1917), Swiss botanist and teacher; Dr. phil. Zürich 1886; rector of the girls high school in Winterthur 1872-1878, id. at Zürich 1878-1891, rector ib. 1891-1911. 
-**Abbreviated name**: *Stadler*
+**Abbreviated name**: *Stadler* \[standard form in IPNI: *Stadler*\]
 
 #### Herbarium and types
 

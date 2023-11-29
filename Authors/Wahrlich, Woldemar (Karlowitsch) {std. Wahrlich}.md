@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33066363) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33066363) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13078-1), [Wikidata](https://www.wikidata.org/wiki/Q21612004). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wahrlich, Woldemar \[Karlowitsch\] (1859-1923), Russian pharmacist; assistant pharmacist's examination Moscow 1877; studied medicine and pharmacy at Moscow University 1877-1879; assistant at the Moscow Botanical Institute and Garden 1879-1884; studied at the Kaiser-Wilhelms-Universität Strassburg with A. de Bary 1884-1886; Dr. phil. ib. 1886; lecturer at the Veterinary Institute Dorpat 1888; professor at the Military Medicinal Academy at St. Petersburg from 1923. 
-**Abbreviated name**: *Wahrlich*
+**Abbreviated name**: *Wahrlich* \[standard form in IPNI: *Wahrlich*\]
 
 #### Herbarium and types
 

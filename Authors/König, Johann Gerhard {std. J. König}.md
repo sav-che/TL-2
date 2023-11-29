@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-11-12 06:38:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33068842) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33068842) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12621-1), [Wikidata](https://www.wikidata.org/wiki/Q64834). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 König, Johann Gerhard (1728-1785), Baltic-German pharmacist and physician; 1759-1767 in Denmark; from 1767 India, Siam, Malacca and Ceylon as missionary and plant collector. 
-**Abbreviated name**: *J. König*
+**Abbreviated name**: *J. König* \[standard form in IPNI: *J.Koenig*\]
 
 #### Herbarium and types
 

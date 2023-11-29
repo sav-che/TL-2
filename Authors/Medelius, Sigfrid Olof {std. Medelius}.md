@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33355480) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33355480) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6293-1), [Wikidata](https://www.wikidata.org/wiki/Q21520307). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Medelius, Sigfrid Olof (1878-1930), Swedish clergyman and botanist; studied at Lund; rector at Jämshög, Blekinge; from 1924 minister at "Halmstadts i Sireköpings pastorat," Skåne 
-**Abbreviated name**: *Medelius*
+**Abbreviated name**: *Medelius* \[standard form in IPNI: *Medelius*\]
 
 #### Herbarium and types
 

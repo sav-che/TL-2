@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33212690) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33212690) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12960-1), [Wikidata](https://www.wikidata.org/wiki/Q21611345). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Valet, \[August\] Friedrich (1811-1889), German (Swabian) pharmacist and botanist; studied pharmacy in the Gmelin pharmacy in Ulm (Langenau), pharm. state exam. Tübingen 1837; in charge of several Swabian pharmacies; ultimately owner of the Schussenried pharmacy 1845-1876. 
-**Abbreviated name**: *Valet*
+**Abbreviated name**: *Valet* \[standard form in IPNI: *Valet*\]
 
 #### Herbarium and types
 

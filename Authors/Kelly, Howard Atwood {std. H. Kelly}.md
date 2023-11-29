@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33068762) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33068762) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21301-1), [Wikidata](https://www.wikidata.org/wiki/Q1631728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kelly, Howard Atwood (1858-1943), American physician, mycologist and bibliophile at Baltimore. 
-**Abbreviated name**: *H. Kelly*
+**Abbreviated name**: *H. Kelly* \[standard form in IPNI: *Kelly*\]
 
 #### Herbarium and types
 

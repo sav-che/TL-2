@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33190123) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33190123) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25461-1), [Wikidata](https://www.wikidata.org/wiki/Q4393082). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rehm, Heinrich \[Simon Ludwig Friedrich Felix\] (1828-1916), German (Bavarian) physician, mycologist and lichenologist; studied at Erlangen, München and Heidelberg; Dr. med. 1852; medical studies Praha and Wien 1853-1854; practicing physician at Dietenhofen nr. Ansbach (1854), Sugenheim (1857), Windsheim (1871), "Bezirksgerichtsarzt" (regional medical examiner) Lohr a.M. (1875), id. Regensburg (1878); retired 1898; settled in München-Neufriedenheim 1899; Medizinalrat 1888. 
-**Abbreviated name**: *Rehm*
+**Abbreviated name**: *Rehm* \[standard form in IPNI: *Rehm*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33264957) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33264957) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/362-1), [Wikidata](https://www.wikidata.org/wiki/Q6828338). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bach, Michael {std. Bach}|first entry]] for this author
 
 ### Author
 
 \* Bach, Michael (1808-1878), German botanist and entomologist, teacher at the college in Boppard. 
-**Abbreviated name**: *Bach*
+**Abbreviated name**: *Bach* \[standard form in IPNI: *Bach*\]
 
 #### Herbarium and types
 

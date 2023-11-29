@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33355312) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33355312) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5933-1), [Wikidata](https://www.wikidata.org/wiki/Q21519727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mackay, Alexander Howard (1848-1929), Canadian botanist; B.Sc. Univ. Halifax 1880; teacher at the Pictou Academy, Halifax, 1873-1889, principal of Halifax County Academy 1889-1891; head of the department of education of Nova Scotia 1891-1926; LL.D. h. c. Dalhousie Univ. 1892, id. Univ. Antigonish, N. S. 1905. 
-**Abbreviated name**: *A. Mackay*
+**Abbreviated name**: *A. Mackay* \[standard form in IPNI: *A.Mackay*\]
 
 #### Herbarium and types
 

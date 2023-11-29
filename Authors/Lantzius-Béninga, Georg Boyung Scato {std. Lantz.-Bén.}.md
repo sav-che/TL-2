@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33068996) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33068996) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5275-1), [Wikidata](https://www.wikidata.org/wiki/Q21485192). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lantzius-Béninga, Georg Boyung Scato (1815-1871), East-Frisian/German botanist; Dr. phil. Göttingen 1844; lecturer (1846), "assessor" (1852) and professor (1870) at Göttingen University. 
-**Abbreviated name**: *Lantz.-Bén.*
+**Abbreviated name**: *Lantz.-Bén.* \[standard form in IPNI: *Lantz.-Bén.*\]
 
 #### Herbarium and types
 

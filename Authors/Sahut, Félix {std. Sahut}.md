@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1060](https://www.biodiversitylibrary.org/page/33190531) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1060](https://www.biodiversitylibrary.org/page/33190531) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8817-1), [Wikidata](https://www.wikidata.org/wiki/Q21607616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sahut, Félix (1835-1904), French horticulturist, viticulturist and botanist at the Établissement d'Horticulture Claude Sahut, Montpellier. 
-**Abbreviated name**: *Sahut*
+**Abbreviated name**: *Sahut* \[standard form in IPNI: *Sahut*\]
 
 #### Herbarium and types
 

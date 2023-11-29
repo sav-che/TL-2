@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33212046) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33212046) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27275-1), [Wikidata](https://www.wikidata.org/wiki/Q21609941). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Strauss, Friedrich Karl Joseph, Freiherr von (1787-1855), German (Bavarian) botanist, magistrate and "Regierungsrath", general secretary to the prefect of the department of Aschaffenburg 1810-1817; "Regierungsrath" (government councillor) of the Obermain district 1817-1832, id. of the Oberdonau district 1832-1837, id. Isar district 1837-1838, from 1838, from 1838 in similar governmental functions in the governments of Schwaben and Neuburg 1838-1840 and Unterfranken and Aschaflenburg 1840-1847; ultimately ordinary state councillor of the kingdom of Bavaria; Dr. phil. h.c. Würzburg 1852. 
-**Abbreviated name**: *F. Strauss*
+**Abbreviated name**: *F. Strauss* \[standard form in IPNI: *F.Strauss*\]
 
 #### Herbarium and types
 

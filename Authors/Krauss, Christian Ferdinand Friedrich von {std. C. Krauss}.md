@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/page/33068910) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/page/33068910) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5047-1), [Wikidata](https://www.wikidata.org/wiki/Q5109597). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krauss, Christian Ferdinand Friedrich von (1812-1890), German botanist and zoologist; Dr. Phil. Heidelberg 1836; travelled in South Africa 1838-1840; from 1840 in various functions at the natural history museum at Stuttgart. 
-**Abbreviated name**: *C. Krauss*
+**Abbreviated name**: *C. Krauss* \[standard form in IPNI: *C.Krauss*\]
 
 #### Herbarium and types
 

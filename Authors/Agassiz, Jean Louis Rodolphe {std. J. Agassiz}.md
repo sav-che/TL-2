@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33120114) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33120114) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/87-1), [Wikidata](https://www.wikidata.org/wiki/Q122972). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Agassiz, Jean Louis Rodolphe (1807-1873), Swiss biologist and geologist, later at Harvard. 
-**Abbreviated name**: *J. Agassiz*
+**Abbreviated name**: *J. Agassiz* \[standard form in IPNI: *Agassiz*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33212314) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33212314) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10592-1), [Wikidata](https://www.wikidata.org/wiki/Q21610620). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomas, Friedrich August Wilhelm (1840-1918), German (Thüringian) botanist, cecidiologist and high school teacher; studied natural sciences at Jena University with A. Braun and M.J. Schleiden; Dr. phil. Berlin 1863 as student of N. Pringsheim; teacher at the Gymnasium Gleichense at Ohrdruf (Thuringia) 1863-1905. 
-**Abbreviated name**: *F. Thomas*
+**Abbreviated name**: *F. Thomas* \[standard form in IPNI: *F.Thomas*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33066449) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33066449) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11443-1), [Wikidata](https://www.wikidata.org/wiki/Q21612289). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Watt, John Mitchell (1892-1980), South African botanist, physician and pharmacologist; studied at Edinburgh (Dr. phil. 1916) and München universities; served in the Royal Army Medical Corps in the Middle East (World War I) and in the S. African Medical Corps (World War II); professor of pharmacology and therapeutics Univ. Witwatersrand 1921-1957; in retirement lecturing in Plymouth, England and Demonstrator, Dept. Physiology, Univ. Queensland, Brisbane, Australia. 
-**Abbreviated name**: *J.M. Watt*
+**Abbreviated name**: *J.M. Watt* \[standard form in IPNI: *J.M.Watt*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33258652) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33258652) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3077-1), [Wikidata](https://www.wikidata.org/wiki/Q3099020). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Genevier, \[Léon\] Gaston (1830-1880), French pharmacist and botanist, born 18 Jun 1830 in Saint-Clément-de-la-Place (Maine-et-Loire) where he also was a student, took a dipl. in pharmacy in Paris and settled in Mortagne-sur-Sèvre (Vendée) 1856, accepted official position as inspector of mushrooms sold at Nantes 1867, died 11 Jul 1880 in Nantes. 
-**Abbreviated name**: *Genev.*
+**Abbreviated name**: *Genev.* \[standard form in IPNI: *Genev.*\]
 
 #### Herbarium and types
 

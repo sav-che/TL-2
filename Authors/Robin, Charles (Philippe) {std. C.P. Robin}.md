@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33190282) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33190282) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25678-1), [Wikidata](https://www.wikidata.org/wiki/Q716201). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Robin, Charles \[Philippe\] (1821-1885), French biologist and politician; Dr. med. Paris 1846; Dr.Sci. Paris 1847; professor of botany at the Paris "Faculté de médecine" 1847-1885, from 1862 as professor of histology. 
-**Abbreviated name**: *C.P. Robin*
+**Abbreviated name**: *C.P. Robin* \[standard form in IPNI: *C.P.Robin*\]
 
 #### Herbarium and types
 

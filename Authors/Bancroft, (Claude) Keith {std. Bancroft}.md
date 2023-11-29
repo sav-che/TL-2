@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265036) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265036) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31284-1), [Wikidata](https://www.wikidata.org/wiki/Q6384017). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bancroft, \[Claude\] Keith (1885-1919), British (Barbados born) mycologist and phytopathologist, educated at Harrison College Barbados, studied at Trinity College, Cambridge, England, B.A. 1909, worked some time in the Jodrell Laboratory, Kew, assistant mycologist in the Federated Malay States 1910, assistant director and government botanist, British Guiana 1913-1919. 
-**Abbreviated name**: *Bancroft*
+**Abbreviated name**: *Bancroft* \[standard form in IPNI: *C.K.Bancr.*\]
 
 #### Herbarium and types
 

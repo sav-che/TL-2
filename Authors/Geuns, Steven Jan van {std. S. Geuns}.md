@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33121068) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33121068) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3116-1), [Wikidata](https://www.wikidata.org/wiki/Q6134284). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Geuns, Steven Jan van (1767-1795), Dutch physician and botanist at Utrecht. 
-**Abbreviated name**: *S. Geuns*
+**Abbreviated name**: *S. Geuns* \[standard form in IPNI: *S.Geuns*\]
 
 #### Herbarium and types
 

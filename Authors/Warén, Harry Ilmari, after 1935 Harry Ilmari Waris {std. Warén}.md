@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33066410) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33066410) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12992-1), [Wikidata](https://www.wikidata.org/wiki/Q11861663). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Warén, Harry Ilmari, after 1935: Harry Ilmari Waris (1893-1973), Finnish botanist; with the Finnish Association for the cultivation of peatlands 1919-1925; professor of botany at Turku University 1925-1953 and at Helsinki University 1953-1960. 
-**Abbreviated name**: *Warén*
+**Abbreviated name**: *Warén* \[standard form in IPNI: *Warén*\]
 
 #### Herbarium and types
 

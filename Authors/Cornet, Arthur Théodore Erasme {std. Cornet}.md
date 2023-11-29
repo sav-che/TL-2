@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33266041) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33266041) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/40207-1), [Wikidata](https://www.wikidata.org/wiki/Q21509082). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cornet, Arthur Théodore Erasme (1863-1939), Belgian stationmaster and bryologist, born at Viemme, "Chef de Station" at Juslenville 1901-1928, moved to Moha. 
-**Abbreviated name**: *Cornet*
+**Abbreviated name**: *Cornet* \[standard form in IPNI: *Cornet*\]
 
 #### Herbarium and types
 

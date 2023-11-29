@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33266479) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33266479) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/34279-1), [Wikidata](https://www.wikidata.org/wiki/Q16588031). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brzeziński, Józef Piotr (1862-1939), Polish botanist at the Jagellonian University at Krakow. 
-**Abbreviated name**: *Brzez.*
+**Abbreviated name**: *Brzez.* \[standard form in IPNI: *Brzez.*\]
 
 #### Herbarium and types
 

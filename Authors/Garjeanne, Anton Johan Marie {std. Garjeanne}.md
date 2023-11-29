@@ -22,14 +22,13 @@ ipni_record_created: 2004-09-23 09:13:19.0
 ipni_record_modified: 2004-09-23 09:13:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33258606) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33258606) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/20001194-1), [Wikidata](https://www.wikidata.org/wiki/Q36502007). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Garjeanne, Anton Johan Marie (1875-1965), Dutch botanist (bryologist and taxonomist), born 22 Nov 1875 in Delft, Ph.D. 1901 Erlangen, Germany, died 29 Jun 1965 in Groesbeeck. 
-**Abbreviated name**: *Garjeanne*
+**Abbreviated name**: *Garjeanne* \[standard form in IPNI: *Garjeanne*\]
 
 #### Herbarium and types
 

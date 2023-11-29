@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33120839) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33120839) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2396-1), [Wikidata](https://www.wikidata.org/wiki/Q5646502). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Durand, Hélène (1883-1934), Belgian botanical artist, daughter of Théophile Alexis Durand. 
-**Abbreviated name**: *H. Durand*
+**Abbreviated name**: *H. Durand* \[standard form in IPNI: *H.Durand*\]
 
 #### Original drawings
 

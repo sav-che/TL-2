@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33333507) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33333507) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9289-1), [Wikidata](https://www.wikidata.org/wiki/Q78745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schultes, Julius Hermann (1804-1840), Austrian-born German (Bavarian) botanist; son of J.A. Schultes; studied natural sciences and medicine at the University of Landshut; Dr. med. ib. 1825; practicing physician and director of the Landshut surgical school 1826-1831; from 1831-1840 practicing physician in München. 
-**Abbreviated name**: *J.H. Schult.*
+**Abbreviated name**: *J.H. Schult.* \[standard form in IPNI: *Schult.f.*\]
 
 #### Herbarium and types
 

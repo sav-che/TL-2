@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33355696) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33355696) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6714-1), [Wikidata](https://www.wikidata.org/wiki/Q36595649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mousnier, Jules (*fl*. 1873), French pharmacist born at Saujon (Charente-Inférieure); Dr. pharm. Paris 1873. 
-**Abbreviated name**: *Mousnier*
+**Abbreviated name**: *Mousnier* \[standard form in IPNI: *Mousnier*\]
 
 #### Herbarium and types
 

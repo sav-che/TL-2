@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33066632) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33066632) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11679-1), [Wikidata](https://www.wikidata.org/wiki/Q21612688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilder, Gerrit Parmile (1863-1935), American horticulturist; superintendent Kahului Ry. Co. Maui, Hawaii 1884-1896, president 1896-1899; id. Estate S.G. Wilder Ltd. 1898, from then on retired from active business and devoting himself to horticulture; associate B.P. Bishop Museum Honolulu from 1924. 
-**Abbreviated name**: *Wilder*
+**Abbreviated name**: *Wilder* \[standard form in IPNI: *Wilder*\]
 
 #### Herbarium and types
 

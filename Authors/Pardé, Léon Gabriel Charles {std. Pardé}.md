@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33189488) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33189488) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7329-1), [Wikidata](https://www.wikidata.org/wiki/Q21522630). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pardé, Léon Gabriel Charles (1865-1943), French dendrologist; trained at the École nationale forestière (1888); teacher and later director of the Arboretum national des Barres nr. Nogent-sur-Vernisson (Loiret). 
-**Abbreviated name**: *Pardé*
+**Abbreviated name**: *Pardé* \[standard form in IPNI: *Pardé*\]
 
 #### Herbarium and types
 

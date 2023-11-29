@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33066533) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33066533) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11561-1), [Wikidata](https://www.wikidata.org/wiki/Q36618215). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Werneck, Ludwig Friedrich Franz Freiherr von (*fl*. 1791), German forester and botanist. 
-**Abbreviated name**: *Werneck*
+**Abbreviated name**: *Werneck* \[standard form in IPNI: *Werneck*\]
 
 #### Herbarium and types
 

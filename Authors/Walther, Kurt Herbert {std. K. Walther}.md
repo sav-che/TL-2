@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33066393) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33066393) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11373-1), [Wikidata](https://www.wikidata.org/wiki/Q21612117). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walther, Kurt Herbert (1910-x), German (Thüringian) botanist; studied biology, mathematics, geology and anthroposociology at the University of Jena; Dr. phil. Jena 1934; later in Hamburg. 
-**Abbreviated name**: *K. Walther*
+**Abbreviated name**: *K. Walther* \[standard form in IPNI: *K.H.Walther*\]
 
 #### Herbarium and types
 

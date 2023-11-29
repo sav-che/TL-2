@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33355848) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33355848) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7013-1), [Wikidata](https://www.wikidata.org/wiki/Q47123536). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Noël, Paul (*fl*. 1910), French mycologist and phytopathologist; director of the regional laboratory of agricultural entomology of the dept. Seine-Inférieure. 
-**Abbreviated name**: *P. Noël*
+**Abbreviated name**: *P. Noël* \[standard form in IPNI: *P.Noël*\]
 
 #### Herbarium and types
 

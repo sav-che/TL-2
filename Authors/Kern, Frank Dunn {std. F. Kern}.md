@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33068766) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33068766) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4738-1), [Wikidata](https://www.wikidata.org/wiki/Q19960053). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kern, Frank Dunn (1883-1973), American mycologist and phytopathologist; Ph. D. Columbia 1911; specialist on Uredinales; associate botanist at Purdue University (1905-1910); instructor at Purdue 1910-1913; from 1913-1950 at Pennsylvania State University. 
-**Abbreviated name**: *F. Kern*
+**Abbreviated name**: *F. Kern* \[standard form in IPNI: *F.Kern*\]
 
 #### Herbarium and types
 

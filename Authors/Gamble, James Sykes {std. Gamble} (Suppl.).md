@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33258588) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33258588) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3003-1), [Wikidata](https://www.wikidata.org/wiki/Q1461150). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gamble, James Sykes {std. Gamble}|first entry]] for this author
 
 ### Author
 
 \* Gamble, James Sykes (1847-1925), British forester and botanist, born 2 Jul 1847 in London, educated at the Royal Naval School, New Cross, B.A. 1869 Oxford, studied at the École Nationale des Eaux et Forêts, Nancy, France, entered the Indian Forest Dept. 1871, in Burma (now Myanmar) and other places 1872-1877, posted to Madras Presidency 1882, transfered to Dehra Dun in 1890 where he was dir., Imperial Forest School until retirement in 1895, F.L.S., F.R.S. 1899, died 16 Oct 1925 in East Liss (Hants). 
-**Abbreviated name**: *Gamble*
+**Abbreviated name**: *Gamble* \[standard form in IPNI: *Gamble*\]
 
 #### Herbarium and types
 

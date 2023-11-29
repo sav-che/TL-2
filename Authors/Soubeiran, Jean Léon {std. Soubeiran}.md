@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33333892) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33333892) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9912-1), [Wikidata](https://www.wikidata.org/wiki/Q21609231). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Soubeiran, Jean Léon (1827-1892), French botanist and pharmacist; pharmacien Ire classe 1853; at the École supérieure de Pharmacie, Paris (agrégé hist. nat.) 1854; Dr. med. Paris 1855; Dr. sci. nat. ib. 1858; professor at the École supérieure de Pharmacie, Montpellier 1874-1892. 
-**Abbreviated name**: *Soubeiran*
+**Abbreviated name**: *Soubeiran* \[standard form in IPNI: *Soub.*\]
 
 #### Herbarium and types
 

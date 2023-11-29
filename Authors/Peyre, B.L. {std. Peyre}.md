@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33189686) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33189686) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7613-1), [Wikidata](https://www.wikidata.org/wiki/Q36518145). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Peyre, B.L. (*fl*. 1823), French botanist, army surgeon with the 18th "Régiment d'Infanterie de Ligne". 
-**Abbreviated name**: *Peyre*
+**Abbreviated name**: *Peyre* \[standard form in IPNI: *Peyre*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33212829) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33212829) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11272-1), [Wikidata](https://www.wikidata.org/wiki/Q12644312). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vouk, Vale \[Valentin\] (1886-1962), Croatian botanist; student of R. v. Wettstein 1905-1908; Dr. phil. Wien 1908; demonstrator at Institute for plant physiology Wien 1910-1912; Habil. Zagreb (Agram) 1913; extraordinary professor of botany ib. 1915-1918, ord. professor 1918, head professor from 1928-1959. 
-**Abbreviated name**: *Vouk*
+**Abbreviated name**: *Vouk* \[standard form in IPNI: *Vouk*\]
 
 #### Herbarium and types
 

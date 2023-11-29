@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33066555) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33066555) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11591-1), [Wikidata](https://www.wikidata.org/wiki/Q1462804). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Westhoff, Friedrich \[Fritz\] (1867-1896), German (Westphalian) entomologist and botanist; lecturer ("Privatdocent") at the University of Münster; Dr. phil. ib. 1882. 
-**Abbreviated name**: *Westh.*
+**Abbreviated name**: *Westh.* \[standard form in IPNI: *Westh.*\]
 
 #### Herbarium and types
 

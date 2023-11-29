@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33068968) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33068968) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5214-1), [Wikidata](https://www.wikidata.org/wiki/Q21518312). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lahm, Wilhem (1856-?), German botanist and high school teacher at Laubach (Oberhessen). 
-**Abbreviated name**: *W. Lahm*
+**Abbreviated name**: *W. Lahm* \[standard form in IPNI: *W.Lahm*\]
 
 #### Herbarium and types
 

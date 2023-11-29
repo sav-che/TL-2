@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33068255) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33068255) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3550-1), [Wikidata](https://www.wikidata.org/wiki/Q4494500). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hagerup, Olaf (1889-1961), Danish botanist; educated at Copenhagen University under Warming; Dr. phil. Copenhagen 1930; travelled to Greenland (1924) and Niger (1927); from 1927-1935 lecturer at a pharmaceutical college; from 1935 curator at the Copenhagen Botanical Museum. 
-**Abbreviated name**: *Hagerup*
+**Abbreviated name**: *Hagerup* \[standard form in IPNI: *Hagerup*\]
 
 #### Herbarium and types
 

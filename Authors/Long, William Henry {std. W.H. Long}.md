@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33355240) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33355240) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22513-1), [Wikidata](https://www.wikidata.org/wiki/Q8012083). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Long, William Henry (1867-1947), American mycologist; studied at Baylor University, Waco, Texas; A. B. 1888; professor of natural history at Waco 1888-1892, from 1892-1899 at Greenville, Texas; A. M. Univ. Texas 1900; Ph. D. id. 1917; 1900-1910 at Denton, Texas; from 1910-1911 at USDA, Washington, with USDA at Albuquerque, New Mexico 1911-1937. 
-**Abbreviated name**: *W. H. Long*
+**Abbreviated name**: *W. H. Long* \[standard form in IPNI: *Long*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33189697) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33189697) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7623-1), [Wikidata](https://www.wikidata.org/wiki/Q65762). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pfitzer, Ernst Hugo Heinrich (1846-1906), German (Prussian) botanist; Dr. phil. Königsberg 1867; habil. Bonn 1868; from 1868-1872 at Bonn; from 1872-1906 professor of botany and director of the botanical garden at Heidelberg; outstanding orchidologist. 
-**Abbreviated name**: *Pfitz.*
+**Abbreviated name**: *Pfitz.* \[standard form in IPNI: *Pfitzer*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33264757) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33264757) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/30642-1), [Wikidata](https://www.wikidata.org/wiki/Q78821). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Adametz, R. Leopold (1861-?), Moravian (Brünn, Brno) bacteriologist and veterinarian, educated in Zeidler's, Lehr- und Erziehungsanstalt in Dresden (Saxony) 1870-1876; at the Wiedner Communal-Oberrealschule in Wien (Vienna) 1876-1881, studied at the Hochschule für Bodenkultur, Wien Jul 1881-Jul 1884, at the University of Leipzig 1884-1886, Ph. D. Leipzig 1886; later extraordinary professor of animal husbandry in Krakau, ordinary professor ib. 1891. 
-**Abbreviated name**: *Adametz*
+**Abbreviated name**: *Adametz* \[standard form in IPNI: *Adametz*\]
 
 #### Bibliography and biography
 

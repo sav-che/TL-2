@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33333955) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33333955) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9995-1), [Wikidata](https://www.wikidata.org/wiki/Q1349394). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spruce, Richard (1817-1893), British botanist and plant collector; schoolmaster at Haxby and (1839-1844) the Collegiate School of York; from 1844 dedicating himself exclusively to botany; collected in the Pyrenees 1845-1846; collecting in South America 1849-1864; from 1864 in London, Hurstpierpoint, Welburn (1867-1876) and, ultimately in Coneysthorpe (Yorks.) (1876-1893); Dr. phil. Leopoldina 1864. 
-**Abbreviated name**: *Spruce*
+**Abbreviated name**: *Spruce* \[standard form in IPNI: *Spruce*\]
 
 #### Herbarium and types
 

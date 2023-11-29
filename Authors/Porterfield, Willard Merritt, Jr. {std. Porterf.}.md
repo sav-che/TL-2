@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33189819) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33189819) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7868-1), [Wikidata](https://www.wikidata.org/wiki/Q21523131). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Porterfield, Willard Merritt, Jr. (1893-1966), American ethnobotanist; M.A. Franklin and Marshall College, Lancaster, Pa. 1915; teaching missionary in China; professor of biology St. John's University, Shanghai around 1933-1936; later connected with the Univ. Vermont Agric. Exp. Station, the New York Botanical Garden and the Soil Conservation Service of USA; with the C.I.A. during World War I and until 1963; Research consultant George Washington University 1963-1966. 
-**Abbreviated name**: *Porterf.*
+**Abbreviated name**: *Porterf.* \[standard form in IPNI: *Porterf.*\]
 
 #### Herbarium and types
 

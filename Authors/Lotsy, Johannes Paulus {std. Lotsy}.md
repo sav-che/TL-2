@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33355252) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33355252) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5770-1), [Wikidata](https://www.wikidata.org/wiki/Q2718138). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lotsy, Johannes Paulus (1867-1931), Dutch botanist at Leiden, moving spirit behind the "Association internationale des botanistes;" Dr. phil. Göttingen 1890; lecturer at Johns Hopkins Univ. 1895; in Java 1895-1900; from 1904-1909 lecturer, from 1906-1909 director of the Rijksherbarium at Leiden; from 1909 working privately at Haarlem and Velp. 
-**Abbreviated name**: *Lotsy*
+**Abbreviated name**: *Lotsy* \[standard form in IPNI: *Lotsy*\]
 
 #### Herbarium and types
 

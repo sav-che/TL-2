@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33120346) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33120346) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/792-1), [Wikidata](https://www.wikidata.org/wiki/Q1331443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Billings, Elkanah (1820-1876), Canadian geologist and paleobiologist. 
-**Abbreviated name**: *Billings*
+**Abbreviated name**: *Billings* \[standard form in IPNI: *Billings*\]
 
 #### Collections
 

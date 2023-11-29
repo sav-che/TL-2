@@ -25,16 +25,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33333237) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33333237) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12574-1), [Wikidata](https://www.wikidata.org/wiki/Q21516807). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Istvánffi de Csík Madéfalva, Gyula, until 1886 Julius Schaarschmidt {std. Istv.}|first entry]] for this author
 
 ### Author
 
 Schaarschmidt, Julius after 1886 Gyula \[von\] Istvánffi de Csík Madéfalva (1860-1930), Hungarian botanist; professor of botany at the Technical University of Budapest. 
-**Abbreviated name**: *Schaarschmidt*
+**Abbreviated name**: *Schaarschmidt* \[standard form in IPNI: *Istv.*\]
 **Alternate abbreviation:** (*Istv.*)
 
 #### Herbarium and types

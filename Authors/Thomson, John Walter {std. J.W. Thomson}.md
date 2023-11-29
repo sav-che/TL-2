@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33212326) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33212326) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27697-1), [Wikidata](https://www.wikidata.org/wiki/Q21387738). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomson, John Walter (1913-x), American lichenologist; MA Columbia Univ. 1935; MA Univ. Wisconsin 1937; Dr. phil. ib. 1939; assistant in botany, Univ. Wisconsin 1935-1939; director Staff School Nature League Amer. Mus. Nat. Hist. 1939-1941, instructor Biol., State Teachers College Superior, Wisc. 1942-1944; asst. professor of botany, Univ. Wisconsin, Madison 1947-1962, professor of botany 1962-1984; emeritus professor 1984; chairman Dept. Bot. Zool. Univ. Wisconsin 1948-1967. 
-**Abbreviated name**: *J.W. Thomson*
+**Abbreviated name**: *J.W. Thomson* \[standard form in IPNI: *J.W.Thomson*\]
 
 #### Herbarium and types
 

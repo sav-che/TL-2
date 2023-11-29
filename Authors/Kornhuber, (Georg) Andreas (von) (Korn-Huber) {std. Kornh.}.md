@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33068892) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33068892) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12623-1), [Wikidata](https://www.wikidata.org/wiki/Q4755496). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kornhuber, (Georg) Andreas (von) (Korn-Huber) (1825-1905), Austrian botanist at the polytechnical school at Vienna; Dr. med. vindob. 1850; teacher at the Oberrealschule Pressburg \[Bratislava\] 1852-1861; professor of botany and zoology at the k.k. polytechnisches Institut Wien (now Polytechnical University) 1861-1895; at Pressburg 1897-1905; died in Wien. 
-**Abbreviated name**: *Kornh.*
+**Abbreviated name**: *Kornh.* \[standard form in IPNI: *Kornh.*\]
 
 #### Herbarium and types
 

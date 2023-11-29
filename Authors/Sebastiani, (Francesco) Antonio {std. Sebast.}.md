@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33333606) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33333606) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9405-1), [Wikidata](https://www.wikidata.org/wiki/Q5864745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sebastiani, \[Francesco\] Antonio (1782-1821), Italian botanist and physician; professor of botany and director of the Rome botanical garden 1813-1820. 
-**Abbreviated name**: *Sebast.*
+**Abbreviated name**: *Sebast.* \[standard form in IPNI: *Sebast.*\]
 
 #### Herbarium and types
 

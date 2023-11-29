@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33120823) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33120823) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2362-1), [Wikidata](https://www.wikidata.org/wiki/Q525949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Duhamel du Monceau, Henri Louis {std. Duhamel} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Duhamel du Monceau, Henri Louis (1700-1782), French agronomist, naval technologist, forester and botanist; "inspecteur général de la Marine." 
-**Abbreviated name**: *Duhamel*
+**Abbreviated name**: *Duhamel* \[standard form in IPNI: *Duhamel*\]
 
 #### Herbarium and types
 

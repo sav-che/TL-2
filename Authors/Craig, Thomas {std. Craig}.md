@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/page/33266118) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 441](https://www.biodiversitylibrary.org/page/33266118) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1859-1), [Wikidata](https://www.wikidata.org/wiki/Q21509202). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Craig, Thomas (1839-1916), Canadian botanist, born 14 Jun 1839, Montreal, died 1916, member of the Torrey Botanical Club, 1916, business man. 
-**Abbreviated name**: *Craig*
+**Abbreviated name**: *Craig* \[standard form in IPNI: *Craig*\]
 
 #### Herbarium and types
 

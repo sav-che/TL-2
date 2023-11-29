@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-10-06 07:37:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33120835) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33120835) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/10639-1), [Wikidata](https://www.wikidata.org/wiki/Q537070). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Du Petit-Thouars, Louis-Marie Aubert Aubert {std. Thouars} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Du Petit-Thouars, Louis-Marie Aubert Aubert (1758-1831), French traveller and botanist. 
-**Abbreviated name**: *Thouars*
+**Abbreviated name**: *Thouars* \[standard form in IPNI: *Thouars*\]
 
 #### Herbarium and types
 

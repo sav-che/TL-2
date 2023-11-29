@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-05-18 13:00:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33259754) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33259754) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2779-1), [Wikidata](https://www.wikidata.org/wiki/Q5891876). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fleischmann, Hans (x-1925), Austrian teacher in Vienna, studied mainly orchids, died 8 Mai 1925 in Vienna. 
-**Abbreviated name**: *H. Fleischm.*
+**Abbreviated name**: *H. Fleischm.* \[standard form in IPNI: *H.Fleischm.*\]
 
 #### Herbarium and types
 

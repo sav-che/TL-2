@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33190081) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33190081) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8197-1), [Wikidata](https://www.wikidata.org/wiki/Q18224792). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rayss, Tscharna (1890-1965), Bessarabian-born Israeli algologist and mycologist; Dr. phil. Genève 1915, student of R. Chodat 1914-1918; with Savulescu at the department of plant pathology of the Agricultural Research Institute, Bucarest 1918-1934; director of the Laboratory for thallophyta of the Hebrew University Jerusalem 1934-1961. 
-**Abbreviated name**: *Rayss*
+**Abbreviated name**: *Rayss* \[standard form in IPNI: *Rayss*\]
 
 #### Herbarium and types
 

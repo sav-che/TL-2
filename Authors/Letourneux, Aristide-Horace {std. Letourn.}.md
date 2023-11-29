@@ -27,14 +27,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33069100) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33069100) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5518-1), [Wikidata](https://www.wikidata.org/wiki/Q2861363). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Letourneux, Aristide-Horace (1820-1890), French magistrate, botanist and malacologist in Algeria (1851-1876, 1881-1890) and at Alexandria (1876-1881); collaborator of Cosson. 
-**Abbreviated name**: *Letourn.*
+**Abbreviated name**: *Letourn.* \[standard form in IPNI: *Letourn.*\]
 
 #### Herbarium and types
 

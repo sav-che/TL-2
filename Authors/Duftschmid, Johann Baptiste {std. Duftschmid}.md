@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33120822) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33120822) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2359-1), [Wikidata](https://www.wikidata.org/wiki/Q21511020). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Duftschmid, Johann Baptiste (1804-1866), Austrian physician and botanist at Linz. 
-**Abbreviated name**: *Duftschmid*
+**Abbreviated name**: *Duftschmid* \[standard form in IPNI: *Duftschmid*\]
 
 #### Herbarium and types
 

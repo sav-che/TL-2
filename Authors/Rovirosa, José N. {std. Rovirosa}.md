@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 951](https://www.biodiversitylibrary.org/page/33190422) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 951](https://www.biodiversitylibrary.org/page/33190422) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8675-1), [Wikidata](https://www.wikidata.org/wiki/Q5944249). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rovirosa, José N. (1849-1901), Mexican botanist. 
-**Abbreviated name**: *Rovirosa*
+**Abbreviated name**: *Rovirosa* \[standard form in IPNI: *Rovirosa*\]
 
 #### Herbarium and types
 

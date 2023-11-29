@@ -7,22 +7,24 @@ tl2_forenames: Jan [Johannes] le
 tl2_name_abbrev: Franc v. Berkhey
 tl2_dates: 1729-1812
 tl2_page_id: 33259873
-author_lsid: 
-wikidata_id: 
-ipni_surname: 
-ipni_forenames: 
-ipni_standard_form: 
+author_lsid: 2866-1
+wikidata_id: Q117688
+ipni_surname: Franc van Berkhey
+ipni_forenames: Johannes Le
+ipni_standard_form: Franc
 ipni_dates: 
 ipni_taxon_scope: 
+- Botany
+- Spermatophytes
 ipni_geo_scope: 
-ipni_version: 
+- Netherlands
+ipni_version: 1.2.1.1
 ipni_record_created: 
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33259873) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33259873) of TL-2 Suppl. VII
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Franc van Berkhey, Jan (Johannes) le {std. Franc v. Berkhey}|first entry]] for this author
 

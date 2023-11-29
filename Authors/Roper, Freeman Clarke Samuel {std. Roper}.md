@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 879](https://www.biodiversitylibrary.org/page/33190350) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 879](https://www.biodiversitylibrary.org/page/33190350) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8577-1), [Wikidata](https://www.wikidata.org/wiki/Q21607396). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roper, Freeman Clarke Samuel (1819-1896), British (English) botanist and microscopist; businessman in London, from 1868 resident at Eastbourne. 
-**Abbreviated name**: *Roper*
+**Abbreviated name**: *Roper* \[standard form in IPNI: *Roper*\]
 
 #### Herbarium and types
 

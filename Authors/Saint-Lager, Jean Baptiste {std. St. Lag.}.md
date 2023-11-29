@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1073](https://www.biodiversitylibrary.org/page/33190544) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1073](https://www.biodiversitylibrary.org/page/33190544) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8832-1), [Wikidata](https://www.wikidata.org/wiki/Q3170576). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saint-Lager, Jean Baptiste (1825-1912), French physician, botanist, botanical historian and bibliographer at Lyon; laureat École de Médecine Lyon 1847; Dr. med. Paris 1850; practicing physician at Lyon 1850-1862; from 1862 private scientist, travelling for botanical and medical studies 1862-1890; one of the founders of the Société botanique de Lyon; librarian of the Société linnéenne de Lyon and the Société botanique de Lyon until 1911 and of the Palais des Arts. 
-**Abbreviated name**: *St. Lag.*
+**Abbreviated name**: *St. Lag.* \[standard form in IPNI: *St.-Lag.*\]
 
 #### Herbarium and types
 

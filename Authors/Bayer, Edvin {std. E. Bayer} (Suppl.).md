@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33265123) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33265123) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/565-1), [Wikidata](https://www.wikidata.org/wiki/Q11875020). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bayer, Edvin {std. E. Bayer}|first entry]] for this author
 
 ### Author
 
 \* Bayer, Edvin (1862-1927), Bohemian palaeobotanist, lichenologist and botanical historian, studied at the Technical University Prague, assistant to Celakovsky in the Department of Botany of the National Museum in Prague 1887, idem at the Botanical Institute of the University of Prague 1892, Dr. phil. Prague 1891, adjunct at the National Museum 1895, from 1903 (or 1902) curator of the botanical collection, ultimately director of the Department of Botany ib. 
-**Abbreviated name**: *E. Bayer*
+**Abbreviated name**: *E. Bayer* \[standard form in IPNI: *E.Bayer*\]
 
 #### Herbarium and types
 

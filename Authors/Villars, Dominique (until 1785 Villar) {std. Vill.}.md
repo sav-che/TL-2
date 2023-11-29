@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33212781) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33212781) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/28378-1), [Wikidata](https://www.wikidata.org/wiki/Q680612). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Villars, Dominique \[until 1785: Villar\] (1745-1814), French physician and botanist; in contact with Dominique Chaix from 1766; botanised in the Dauphiné, Provence and Languedoc between 1760 and 1769; studied medicine in Grenoble 1771-1774; practicing physician in Grenoble, professor of botany, director of the Jardin des Plantes and director of the Grenoble hospital 1778-1803; from 1803 professor of botany and medicine at the University of Strasbourg. 
-**Abbreviated name**: *Vill.*
+**Abbreviated name**: *Vill.* \[standard form in IPNI: *Vill.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-12-15 07:13:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33333535) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33333535) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26409-1), [Wikidata](https://www.wikidata.org/wiki/Q4527644). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schulzer von Müggenburg, Stephan (1802-1892), Austrian soldier and botanist of German/Croatian descent; trained as a professional soldier at the military school of Olmütz (Olomouc) 181 7-1820; on active service 1820-1845; organised military hospitals in Vinkovci, 1849, and Slavonski Brod 1851; director of various military schools 1851-1858/59; in retirement from 1859 dedicating himself to mycology, living in Slavonia. 
-**Abbreviated name**: *Schulzer*
+**Abbreviated name**: *Schulzer* \[standard form in IPNI: *Schulzer*\]
 
 #### Herbarium and types
 

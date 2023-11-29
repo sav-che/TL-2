@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33260019) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33260019) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/13575-1), [Wikidata](https://www.wikidata.org/wiki/Q21510542). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dole, Eleazer Johnson (1888-x), American botanist, born 4 Jul 1888, professor of botany at the University of Vermont, assistant for botany Vermont Agric. Exper. Station, Burlington, editor of a committee of the Vermont Botanical Club, Burlington, Vt., Dr. phil. Univ. Vermont in 1923. 
-**Abbreviated name**: *Dole*
+**Abbreviated name**: *Dole* \[standard form in IPNI: *Dole*\]
 
 #### Herbarium and types
 

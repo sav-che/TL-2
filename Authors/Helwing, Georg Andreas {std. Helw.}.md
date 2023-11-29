@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33068391) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33068391) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3819-1), [Wikidata](https://www.wikidata.org/wiki/Q88202). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Helwing, Georg Andreas (1668-1748), German clergyman at Angerburg in Preussen. 
-**Abbreviated name**: *Helw.*
+**Abbreviated name**: *Helw.* \[standard form in IPNI: *Helwing*\]
 
 #### Herbarium and types
 

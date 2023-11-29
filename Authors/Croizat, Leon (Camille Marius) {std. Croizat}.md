@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33266148) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33266148) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1882-1), [Wikidata](https://www.wikidata.org/wiki/Q1366568). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Croizat, Leon \[Camille Marius\] (1894-1982), Italian-French botanist (French parents from Lyon, Chambery and Geneva), studied at the University of Turin, in the Italian Army 1914-1919, law degree at Turin 1920, moved to the U.S.A. 1923, achieved success in selling his water colour paintings, moved to Paris after the Wall Street Crash of 1929-1930, American Citizen 1 Jan 1929, returned to the U.S.A., employed as technical assistant at the Arnold Arboretum with E.D. Merrill 1938-1947, moved to Caracas, Venezuela 1947-1952, from 1953 on Publishing on his own, died of a heart attack 1982: "Knowledge has always been my goal". 
-**Abbreviated name**: *Croizat*
+**Abbreviated name**: *Croizat* \[standard form in IPNI: *Croizat*\]
 
 #### Herbarium and types
 

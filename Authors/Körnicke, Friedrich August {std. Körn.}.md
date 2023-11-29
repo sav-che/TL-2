@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33068846) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33068846) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12622-1), [Wikidata](https://www.wikidata.org/wiki/Q74097). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Körnicke, Friedrich August (1828-1908), German botanist; 1849 assistant curator at the Berlin herbarium; 1856 at St. Petersburg; Dr. phil. berol. 1856; 1859-1867 lecturer, later professor, at Waldau agricultural college near Königsberg; 1867-1898 at the agricultural college at Poppelsdorf near Bonn as successor to Julius Sachs. 
-**Abbreviated name**: *Körn.*
+**Abbreviated name**: *Körn.* \[standard form in IPNI: *Körn.*\]
 
 #### Herbarium and types
 

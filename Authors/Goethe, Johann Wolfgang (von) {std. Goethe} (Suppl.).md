@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33258751) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33258751) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3229-1), [Wikidata](https://www.wikidata.org/wiki/Q5879). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Goethe, Johann Wolfgang von {std. Goethe}|first entry]] for this author
 
 ### Author
 
 \* Goethe, Johann Wolfgang (von) (1749-1832), famous German author, poet and "Natur-Philosoph". 
-**Abbreviated name**: *Goethe*
+**Abbreviated name**: *Goethe* \[standard form in IPNI: *Goethe*\]
 
 This entry is introduced only to:
 - (1) Take the advice Rudolf Schmid gave F.A. Stafleu (in litt., 1 Feb 1977) clarifying that Agnes Arber, *Goethe's Botany* (Chron. Bot. 10(2): 67-124. 1946) includes the perhaps most widely read English transl. of Goethe's 1790 *Versuch, die Metamorphose der Pflanzen zu erklären* (p. 89-115) (see TL-2/1, nr. 2081).

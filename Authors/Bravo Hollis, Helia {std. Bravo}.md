@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33266349) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33266349) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/34063-1), [Wikidata](https://www.wikidata.org/wiki/Q445147). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bravo Hollis, Helia (1905-x), Mexican botanist, born 30 Sep 1905, taxonomist (Maestra) at the Instituto de Biologia, Universidad Nacional Autónoma, D.F. Mexico. 
-**Abbreviated name**: *Bravo*
+**Abbreviated name**: *Bravo* \[standard form in IPNI: *Bravo*\]
 
 #### Herbarium and types
 

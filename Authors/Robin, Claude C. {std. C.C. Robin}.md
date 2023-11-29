@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33190283) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33190283) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8451-1), [Wikidata](https://www.wikidata.org/wiki/Q21607287). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Robin, Claude C. (1750-?), French clergyman, explorer and botanist; travelled in Louisiana, Florida, Martinique and Ste. Domingo 1802-1806. 
-**Abbreviated name**: *C.C. Robin*
+**Abbreviated name**: *C.C. Robin* \[standard form in IPNI: *C.C.Robin*\]
 
 #### Herbarium and types
 

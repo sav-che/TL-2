@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33068891) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33068891) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4959-1), [Wikidata](https://www.wikidata.org/wiki/Q2372924). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kops, Jan (1765-1849), Dutch agronomist and botanist, professor of botanyat Utrecht.
-**Abbreviated name**: *Kops*
+**Abbreviated name**: *Kops* \[standard form in IPNI: *Kops*\]
 
 #### Herbarium and types
 

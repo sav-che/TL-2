@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33068902) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33068902) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5014-1), [Wikidata](https://www.wikidata.org/wiki/Q2149987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kräusel, Richard (1890-1966), German palaebotanist; Dr. phil. Breslau 1913 (with F. A. Pax); high school teacher at Frankfurt from 1920; professor of palaeobotany 1928; from 1939 director of the palaebotanical department of the Senckenberg Musuem; Dr. h.c. Durham 1963; student of the Devonian and the Central European mesozoic flora. 
-**Abbreviated name**: *Kräus.*
+**Abbreviated name**: *Kräus.* \[standard form in IPNI: *Kräusel*\]
 
 #### Herbarium and types
 

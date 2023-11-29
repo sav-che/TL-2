@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33259097) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33259097) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/1984-1), [Wikidata](https://www.wikidata.org/wiki/Q18670396). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Danguy, Paul Auguste {std. Danguy}|first entry]] for this author
 
 ### Author
 
 \* Danguy, Paul Auguste (1862-1942), French botanist, born at Gagny, Seine-et-Oise 7 Aug 1862, died 5 Feb 1942, studied at the University of Paris, at the Muséum d'Histoire naturelle as "boursier" 1885, préparateur in 1888, later assistant and "sous-directeur" 1888-1928, Chev. Légion d'Honneur 1929. 
-**Abbreviated name**: *Danguy*
+**Abbreviated name**: *Danguy* \[standard form in IPNI: *Danguy*\]
 
 #### Herbarium and types
 

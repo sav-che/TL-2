@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33190224) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33190224) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8332-1), [Wikidata](https://www.wikidata.org/wiki/Q21607151). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rhein, G.F. (1858-?), German botanist; Dr. phil. Kiel 1888. 
-**Abbreviated name**: *Rhein*
+**Abbreviated name**: *Rhein* \[standard form in IPNI: *Rhein*\]
 
 #### Herbarium and types
 

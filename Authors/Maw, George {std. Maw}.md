@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33355467) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33355467) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6263-1), [Wikidata](https://www.wikidata.org/wiki/Q5877899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Maw, George (1832-1912), British manufacturer of encaustic pottery at Brosely, Staffordshire; amateur naturalist, artist, geologist, and botanist; collected in the Near East and North Africa. 
-**Abbreviated name**: *Maw*
+**Abbreviated name**: *Maw* \[standard form in IPNI: *Maw*\]
 
 #### Herbarium and types
 

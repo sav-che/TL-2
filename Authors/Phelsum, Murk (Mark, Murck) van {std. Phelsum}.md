@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33189702) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33189702) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7630-1), [Wikidata](https://www.wikidata.org/wiki/Q389064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Phelsum, Murk \[Mark, Murck\] van (*fl*. 1769, d. ca. 1780), Dutch naturalist; Dr. med. Franeker 1755; practicing physician at Sneek, Friesland, from 1764. 
-**Abbreviated name**: *Phelsum*
+**Abbreviated name**: *Phelsum* \[standard form in IPNI: *Phelsum*\]
 
 #### Herbarium and types
 

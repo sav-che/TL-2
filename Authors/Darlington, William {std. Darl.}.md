@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33120729) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33120729) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1998-1), [Wikidata](https://www.wikidata.org/wiki/Q8007604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Darlington, William {std. Darl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Darlington, William (1782-1863), American physician, botanist and antiquarian at West Chester nr. Philadelphia. 
-**Abbreviated name**: *Darl.*
+**Abbreviated name**: *Darl.* \[standard form in IPNI: *Darl.*\]
 
 #### Herbarium and types
 

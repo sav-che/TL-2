@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33333257) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33333257) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12824-1), [Wikidata](https://www.wikidata.org/wiki/Q6054741). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schau, \[Hermann Ernst\] Otto (1900-x), German (Prussian) pharmacist and botanist; on active service 1918; studied pharmacy at Berlin University; state pharmacist's exam. 1924, studied natural sciences ib. 1931-1934, student of L. Diels. 
-**Abbreviated name**: *Schau*
+**Abbreviated name**: *Schau* \[standard form in IPNI: *Schau*\]
 
 #### Herbarium and types
 

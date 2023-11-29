@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33355384) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33355384) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6107-1), [Wikidata](https://www.wikidata.org/wiki/Q5931630). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mariz, Joaquim de (1847-1916), Portuguese botanist; naturalist at the Botanical Department of the University of Coimbra from 1882. 
-**Abbreviated name**: *Mariz*
+**Abbreviated name**: *Mariz* \[standard form in IPNI: *Mariz*\]
 
 #### Herbarium and types
 

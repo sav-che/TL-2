@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33212324) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33212324) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10611-1), [Wikidata](https://www.wikidata.org/wiki/Q95604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thoms, Hermann \[Friedrich Maria\] (1859-1931), German (Mecklenburg) pharmacist and botanist; trained at pharmacies at Woldegk, Giessen and Koblenz; state pharmaceutical examination Jena 1884; Dr. phil. Erlangen 1886; pharmacist at Jena 1887-1889; in charge of a chemical factory in Berlin 1889-1893; editor of the Apotheker-Zeitung 1893; habil. Berlin for pharmaceutical chemistry 1895, professor's title 1896; director of the Institute of Pharmaceutical Chemistry of Berlin University 1902-1929; ordinary professor of pharmaceutical chemistry 1920, visited the United States and Japan 1923; Dr. med. h.c. Würzburg 1929; founder of the Deutsche Pharmazeutische Gesellschaft; botanically active as phytochemist. 
-**Abbreviated name**: *H. Thoms*
+**Abbreviated name**: *H. Thoms* \[standard form in IPNI: *Thoms*\]
 
 #### Herbarium and types
 

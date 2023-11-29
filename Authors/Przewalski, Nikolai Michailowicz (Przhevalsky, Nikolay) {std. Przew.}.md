@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33189892) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33189892) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8004-1), [Wikidata](https://www.wikidata.org/wiki/Q192442). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Przewalski, Nikolai Michailowicz \[Przhevalsky, Nikolay Mikhaylovich\] (1839-1888), Russian soldier, traveller, geographer and naturalist; from 1864-1867 geography teacher at the Warschau "Junkerschule"; from 1867 on the general staff of the army; explored Manchuria and Central Asia between 1867 and 1885. 
-**Abbreviated name**: *Przew.*
+**Abbreviated name**: *Przew.* \[standard form in IPNI: *Przew.*\]
 
 #### Herbarium and types
 

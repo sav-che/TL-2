@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33333265) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33333265) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9042-1), [Wikidata](https://www.wikidata.org/wiki/Q570881). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schellenberg, Gustav \[August Ludwig David\], (1882-1963), German (Wiesbaden) botanist; Dr. phil. Univ. Zürich 1910 (student of H. Schinz); assistant botanist at Berlin-Dahlem 1911-1912; 1913-1915 editor Wiesbadener Tageblatt; on active service 1915-1919; lecturer ("Privatdozent") Kiel 1919-1925; assistant and lecturer Göttingen 1925; extra-ordinary professor ib. 1926-1934, later publisher of a newspaper in Wiesbaden; in 1954 still editor-in-chief of the Wiesbadener Tageblatt. 
-**Abbreviated name**: *G. Schellenb.*
+**Abbreviated name**: *G. Schellenb.* \[standard form in IPNI: *G.Schellenb.*\]
 
 #### Herbarium and types
 

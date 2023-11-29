@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33333927) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33333927) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9964-1), [Wikidata](https://www.wikidata.org/wiki/Q18808407). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Speschnew, Nicolai Nicolaievich von (1844-1907), Russian mycologist; state mycologist of the Russian department of agriculture in the Caucasus and director of the department's mycological laboratory at Tiflis. 
-**Abbreviated name**: *Speschnew*
+**Abbreviated name**: *Speschnew* \[standard form in IPNI: *Speschnew*\]
 
 #### Herbarium and types
 

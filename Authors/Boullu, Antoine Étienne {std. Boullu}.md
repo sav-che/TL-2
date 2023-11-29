@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33265583) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33265583) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1024-1), [Wikidata](https://www.wikidata.org/wiki/Q21506361). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boullu, Antoine Étienne (1813-1904), French abbé and botanist, born at Côte-Saint-André, Isère, educated at the seminar of his birthplace, further studies at the Petit-Séminaire du Rondeau (ca. 1831-1836), teacher at the Petit-Séminaire d'Ajaccio, Corsica, 1836-1842, ordained priest 1840, professor of rhetoric at the free college of Pont-de-Beauvoisin (Isère) 1842, later teacher with the Rostaing family at Lyon, in retirement in Lyon from 1869. 
-**Abbreviated name**: *Boullu*
+**Abbreviated name**: *Boullu* \[standard form in IPNI: *Boullu*\]
 
 #### Herbarium and types
 

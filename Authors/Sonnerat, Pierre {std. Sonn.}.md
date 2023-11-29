@@ -31,14 +31,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33333883) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33333883) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9894-1), [Wikidata](https://www.wikidata.org/wiki/Q507034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sonnerat, Pierre (1749-1814), French colonial administrator, explorer and naturalist; in the colonial and marine department of the French government; visited the Cape of Good Hope, Reunion and Mauritius (ca. 1768), the Moluccas, New Guinea, the Philippines, Ceylon, Malayan peninsula, China; later in command of a French settlement at Yanam, India, and at Pondichery. 
-**Abbreviated name**: *Sonn.*
+**Abbreviated name**: *Sonn.* \[standard form in IPNI: *Sonn.*\]
 
 #### Herbarium and types
 

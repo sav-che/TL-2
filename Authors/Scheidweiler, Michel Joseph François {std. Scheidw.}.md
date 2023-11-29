@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33333263) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33333263) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9037-1), [Wikidata](https://www.wikidata.org/wiki/Q2268288). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scheidweiler, Michel Joseph François (1799-1861), German-born (Rheinland) Belgium botanist and horticulturist; at first active as pharmacist and industrial chemist at Siegsburg, Köln and Aachen; settled in Belgium 1830, at first in Liège, later in Brussels; teacher at the Bruxelles École de médecine vétérinaire et d'agriculture de la Belgique 1836, teacher at the horticultural college at Gentbrugge 1851. 
-**Abbreviated name**: *Scheidw.*
+**Abbreviated name**: *Scheidw.* \[standard form in IPNI: *Scheidw.*\]
 
 #### Herbarium and types
 

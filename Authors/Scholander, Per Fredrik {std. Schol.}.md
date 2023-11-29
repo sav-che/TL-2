@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33333432) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33333432) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9224-1), [Wikidata](https://www.wikidata.org/wiki/Q6168939). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scholander, Per Fredrik (1905-1980), Norwegian botanist and zoologist; Dr. phil. Oslo 1934; research fellow physiology, Univ. Oslo 1934-1939; Rockefeller fellow U.S.A. 1939-1943; research associate at Swarthmore College 1939-1949; at Harvard medical school 1949-1951; Woods Hole 1952-1955; professor of zoophysiology Oslo 1953-1958; professor of physiology, Scripps Inst. Oceanogr. 1958. 
-**Abbreviated name**: *Schol.*
+**Abbreviated name**: *Schol.* \[standard form in IPNI: *Schol.*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33260177) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33260177) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2403-1), [Wikidata](https://www.wikidata.org/wiki/Q21511148). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Durando, Gaetano Leone {std. Durando}|first entry]] for this author
 
 ### Author
 
 \* Durando, Gaetano Leone (1811-1892), Italian/French botanist, born 11 Apr 1811 at Carai \[Caraglio\] (Coni), studied in Italy at Coni and Torino, from 1830 until 1838 officer in the army, studied in Paris 1839-1842, went to Nice 1843, stayed in Algeria since 1850 studying the botany of that country, professor of botany at schools in Algers until his death on 13 Jan 1892 at Mustapha. 
-**Abbreviated name**: *Durando*
+**Abbreviated name**: *Durando* \[standard form in IPNI: *Durando*\]
 
 #### Herbarium and types
 

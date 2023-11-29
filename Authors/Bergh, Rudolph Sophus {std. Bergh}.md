@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33265290) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33265290) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/32412-1), [Wikidata](https://www.wikidata.org/wiki/Q710699). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bergh, Rudolph Sophus (1859-1924), Danish zoologist, mag. sc. zool. 1882 at the University of Copenhagen, Dr. phil. ib. 1881, lecturer in histology and embryology ib. 1890-1903, later resident in Germany. 
-**Abbreviated name**: *Bergh*
+**Abbreviated name**: *Bergh* \[standard form in IPNI: *Bergh*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/page/33333658) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/page/33333658) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9502-1), [Wikidata](https://www.wikidata.org/wiki/Q21608695). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sériziat, Charles Victor Émile (1835-?), French naturalist at Bellac. 
-**Abbreviated name**: *Sériziat*
+**Abbreviated name**: *Sériziat* \[standard form in IPNI: *Sériziat*\]
 
 #### Herbarium and types
 

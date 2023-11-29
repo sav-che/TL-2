@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 927](https://www.biodiversitylibrary.org/page/33190398) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 927](https://www.biodiversitylibrary.org/page/33190398) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8649-1), [Wikidata](https://www.wikidata.org/wiki/Q36598190). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rothmayr, Julius (*fl*. 1910-1913), Swiss mycologist. 
-**Abbreviated name**: *Rothmayr*
+**Abbreviated name**: *Rothmayr* \[standard form in IPNI: *Rothmayr*\]
 
 #### Herbarium and types
 

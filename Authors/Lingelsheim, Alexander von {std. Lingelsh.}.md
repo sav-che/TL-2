@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33355152) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33355152) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5631-1), [Wikidata](https://www.wikidata.org/wiki/Q5666258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lingelsheim, Alexander von (1874-1937), German botanist; Dr. phil. Rostock 1906; at the Botanical Museum and Garden, Breslau, 1904-1929; pharmacist 1929-1937; lecturer in pharmacognosy 1926, professor 1932-1937. 
-**Abbreviated name**: *Lingelsh.*
+**Abbreviated name**: *Lingelsh.* \[standard form in IPNI: *Lingelsh.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1015](https://www.biodiversitylibrary.org/page/33121146) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1015](https://www.biodiversitylibrary.org/page/33121146) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3420-1), [Wikidata](https://www.wikidata.org/wiki/Q47118203). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Grove, Edmund (*fl*. 1886), British diatomologist. 
-**Abbreviated name**: *E. Grove*
+**Abbreviated name**: *E. Grove* \[standard form in IPNI: *E.Grove*\]
 
 #### Herbarium and types
 

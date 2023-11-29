@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33212250) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33212250) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10497-1), [Wikidata](https://www.wikidata.org/wiki/Q47127300). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Temple, Augusta A. (*fl*. 1907), British author on the flowers of Palestine. 
-**Abbreviated name**: *A. Temple*
+**Abbreviated name**: *A. Temple* \[standard form in IPNI: *A.Temple*\]
 
 #### Herbarium and types
 

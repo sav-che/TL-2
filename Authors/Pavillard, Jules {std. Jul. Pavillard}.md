@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33189586) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33189586) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7417-1), [Wikidata](https://www.wikidata.org/wiki/Q16027655). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pavillard, Jules (1868-1961), French diatomologist, protistologist and phytogeographer; Lic. sci. nat. Bordeaux 1890; Dr. sci. Paris 1905; high school teacher at Montpellier 1895-1912; maître de conférences (1908), professeur adjoint (1909), professeur de cryptogamie et de cytologie (1924) and from 1927-1937, professor of botany and director of the botanical garden at the University of Montpellier, succeeding Ch. Flahault. 
-**Abbreviated name**: *Jul. Pavillard*
+**Abbreviated name**: *Jul. Pavillard* \[standard form in IPNI: *Pavill.*\]
 
 #### Herbarium and types
 

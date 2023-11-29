@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33068816) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33068816) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4865-1), [Wikidata](https://www.wikidata.org/wiki/Q11923755). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Knebel, Gottfried (1908-x), German algologist, Dr. phil. Berlin 1935. 
-**Abbreviated name**: *Knebel*
+**Abbreviated name**: *Knebel* \[standard form in IPNI: *Knebel*\]
 
 #### Herbarium and types
 

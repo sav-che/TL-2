@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-03-01 00:38:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33120639) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33120639) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12382-1), [Wikidata](https://www.wikidata.org/wiki/Q7173297). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clausen, Peter (*fl*. 1834-1843), Danish collector in Brazil. 
-**Abbreviated name**: *Clausen*
+**Abbreviated name**: *Clausen* \[standard form in IPNI: *Clausen*\]
 
 #### Herbarium and types
 

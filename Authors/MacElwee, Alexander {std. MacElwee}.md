@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33355305) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33355305) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5913-1), [Wikidata](https://www.wikidata.org/wiki/Q21519717). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 MacElwee, Alexander (1869-1923), Scottish-born gardener and botanist; in the United States from 1883; curator of botanical collections, Philadelphia College of Pharmacy 1894-1901; gardener on private estates 1901-1916; landscape gardener of the city of Philadelphia 1917-1923. 
-**Abbreviated name**: *MacElwee*
+**Abbreviated name**: *MacElwee* \[standard form in IPNI: *MacElwee*\]
 
 #### Herbarium and types
 

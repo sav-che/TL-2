@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33189837) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33189837) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7900-1), [Wikidata](https://www.wikidata.org/wiki/Q18910686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Poulsen, Viggo Albert (1855-1919), Danish botanist; high school teacher 1876-1909; student of and assistant with E. Warming; Dr. phil. Copenhagen 1888; from 1893 lecturer, from 1902 professor of botany at the Copenhagen pharmaceutical school; worked at Bogor, Java 1894-1895. 
-**Abbreviated name**: *Poulsen*
+**Abbreviated name**: *Poulsen* \[standard form in IPNI: *Poulsen*\]
 
 #### Herbarium and types
 

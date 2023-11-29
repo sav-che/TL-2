@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33120104) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33120104) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/30666-1), [Wikidata](https://www.wikidata.org/wiki/Q347903). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Afzelius, Adam {std. Afzel.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Afzelius, Adam (1750-1837), Swedish botanist in Uppsala, traveller in Sierra Leone, pupil of Linnaeus. 
-**Abbreviated name**: *Afzel.*
+**Abbreviated name**: *Afzel.* \[standard form in IPNI: *Afzel.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33190037) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33190037) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/34940-1), [Wikidata](https://www.wikidata.org/wiki/Q21606856). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rainville, Frédéric (x-1779), French-born botanist, private teacher and translator at Rotterdam; student of grasses. 
-**Abbreviated name**: *Rainville*
+**Abbreviated name**: *Rainville* \[standard form in IPNI: *Rainv.*\]
 
 #### Herbarium and types
 

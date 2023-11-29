@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-01-28 14:54:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33066671) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33066671) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11716-1), [Wikidata](https://www.wikidata.org/wiki/Q21612740). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Willich, Christian Ludwig (1718-1773), German (Rügen/Pommerian) botanist and physician; Dr. phil. Göttingen 1747; physician at Nordheim. 
-**Abbreviated name**: *Willich*
+**Abbreviated name**: *Willich* \[standard form in IPNI: *Willich*\]
 
 #### Herbarium and types
 

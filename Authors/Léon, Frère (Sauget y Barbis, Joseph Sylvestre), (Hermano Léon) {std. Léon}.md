@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2014-03-20 09:56:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/page/33069087) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/page/33069087) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/14965-1), [Wikidata](https://www.wikidata.org/wiki/Q928574). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Léon, Frère \[Sauget y Barbis, Joseph Sylvestre\], \[Hermano Léon\] (1871-1955), French-born botanist; member of the Frères des écoles chrétiennes; settled at La Salle, Havana, Cuba in 1905; author of *Flora de Cuba* (1946-1963); Dr. phil. h.c. Columbia 1927. 
-**Abbreviated name**: *Léon*
+**Abbreviated name**: *Léon* \[standard form in IPNI: *León*\]
 
 #### Herbarium and types
 

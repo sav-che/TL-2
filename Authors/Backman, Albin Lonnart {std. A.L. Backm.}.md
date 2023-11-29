@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33264969) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33264969) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/32324-1), [Wikidata](https://www.wikidata.org/wiki/Q11850619). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Backman, Albin Lonnart (1880-?), Finnish forester and botanist. 
-**Abbreviated name**: *A.L. Backm.*
+**Abbreviated name**: *A.L. Backm.* \[standard form in IPNI: *Backman*\]
 
 #### Herbarium and types
 

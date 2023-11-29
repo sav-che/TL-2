@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33212531) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33212531) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10821-1), [Wikidata](https://www.wikidata.org/wiki/Q21610954). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trier, Georg (1884-1944), Bohemian-German phytochemist; Dr. techn. Wiss. ETH Zürich 1910; industrial chemist as well as lecturer at the Eidg. Technische Hochschule Zürich. 
-**Abbreviated name**: *Trier*
+**Abbreviated name**: *Trier* \[standard form in IPNI: *Trier*\]
 
 #### Herbarium and types
 

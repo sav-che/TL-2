@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33355841) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33355841) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6992-1), [Wikidata](https://www.wikidata.org/wiki/Q6009503). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nilsson, Lars Albert (called himself Albert) (1860-1906), Swedish botanist; Dr. phil. Uppsala 1888; curator of the Brazilian collections at S 1889-1890; lecturer at the Stockholm Skogsinstitut (forestry institute) 1890-1906. 
-**Abbreviated name**: *A. Nilsson*
+**Abbreviated name**: *A. Nilsson* \[standard form in IPNI: *L.A.Nilsson*\]
 
 #### Herbarium and types
 

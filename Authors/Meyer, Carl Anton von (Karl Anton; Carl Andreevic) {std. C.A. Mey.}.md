@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33355527) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33355527) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6411-1), [Wikidata](https://www.wikidata.org/wiki/Q728729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meyer, Carl Anton von \[Karl Anton; Carl Andreevic\] (1795-1855), Russian botanist and explorer; studied at Dorpat, 1813-1814; in the Crimea 1818, in the Baltic area 1821-1824; in the Altai with Ledebour and Bunge 1826-1827; in the Caucasus 1829-1830; assistant (1832-1850) and director (1850-1855) of the botanical garden of St. Petersburg. 
-**Abbreviated name**: *C. A. Mey.*
+**Abbreviated name**: *C. A. Mey.* \[standard form in IPNI: *C.A.Mey.*\]
 
 #### Herbarium and types
 

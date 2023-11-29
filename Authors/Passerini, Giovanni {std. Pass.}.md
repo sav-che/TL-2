@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33189562) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33189562) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24590-1), [Wikidata](https://www.wikidata.org/wiki/Q2084039). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Passerini, Giovanni (1816-1893), Italian botanist; Dr. med. Parma 1836; at Milano 1843-1844; from 1844-1849 and 1853-1893 professor of botany and director of the botanical garden at Parma. 
-**Abbreviated name**: *Pass.*
+**Abbreviated name**: *Pass.* \[standard form in IPNI: *Pass.*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33266182) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33266182) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17581-1), [Wikidata](https://www.wikidata.org/wiki/Q3017793). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cunningham, David Douglas {std. D.D. Cunn.}|first entry]] for this author
 
 ### Author
 
 \* Cunningham, David Douglas (1843-1914), British pathologist, naturalist and bacteriologist, born in Prestonpans, E. Lothian, studied at the University of Edinburgh, M.D. ib. 1867, entered the Indian Medical Service 1861 until 1878, professor of physiology in Calcutta 1871-1898, retired because of ill health, lived in Torquay from 1898. 
-**Abbreviated name**: *D.D. Cunn.*
+**Abbreviated name**: *D.D. Cunn.* \[standard form in IPNI: *D.D.Cunn.*\]
 
 #### Herbarium and types
 

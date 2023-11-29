@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33355371) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33355371) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6081-1), [Wikidata](https://www.wikidata.org/wiki/Q21519931). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mappus, Marcus, fil. (1666-1736), Alsatian botanist at Strasbourg; Dr. med. Strasbourg 1694; son of the botanist Marc (Marcus) Mappus (1632-1701). 
-**Abbreviated name**: *Mappus*
+**Abbreviated name**: *Mappus* \[standard form in IPNI: *Mappus*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33066803) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33066803) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11879-1), [Wikidata](https://www.wikidata.org/wiki/Q21613044). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wretschko, Matthias \[Ritter von\] (1834-1914), Austrian teacher and naturalist; studied in Graz and Wien, teacher's examination 1857; Dr. phil. Wien 1859; teacher at a Gymnasium in Pesth (Budapest) 1859-1861; idem in Laibach (Ljubljana) 1861-1865; at the Academic Gymnasium in Wien 1865-1869; habil. Wien 1866; regional supervisor for natural sciences and mathematics in the high school system of S.E. Austria at Graz 1869-1877; idem for lower Austria in Wien 1877; ennobled 1883. 
-**Abbreviated name**: *Wretschko*
+**Abbreviated name**: *Wretschko* \[standard form in IPNI: *Wretschko*\]
 
 #### Herbarium and types
 

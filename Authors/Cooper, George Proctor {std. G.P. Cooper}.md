@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33266015) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33266015) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/20013194-1), [Wikidata](https://www.wikidata.org/wiki/Q21509011). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cooper, George Proctor (1896-x), American forester, field assistant in tropical forestry, Yale University, collected plants in Panama and Liberia. 
-**Abbreviated name**: *G.P. Cooper*
+**Abbreviated name**: *G.P. Cooper* \[standard form in IPNI: *G.P.Cooper*\]
 
 #### Herbarium and types
 

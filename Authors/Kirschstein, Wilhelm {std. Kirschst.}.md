@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33068796) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33068796) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21459-1), [Wikidata](https://www.wikidata.org/wiki/Q15989573). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kirschstein, Wilhelm (1863-1946), German mycologist; high school teacher at Rathenow (Havel), later at Berlin-Pankov. 
-**Abbreviated name**: *Kirschst.*
+**Abbreviated name**: *Kirschst.* \[standard form in IPNI: *Kirschst.*\]
 
 #### Herbarium and types
 

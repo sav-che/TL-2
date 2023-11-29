@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33333232) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33333232) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8985-1), [Wikidata](https://www.wikidata.org/wiki/Q6372221). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sax, Karl (1892-1973), American botanist; BS Washington State Coll. 1916, at Bussey Institution of Harvard University 1916; M.S. ib. 1917, in military service 1917-1919; at the Agricultural Experiment Station, University of Maine, Orono, Maine 1920-1928; D.Sc. Bussey Inst. 1922; associate professor of plant cytology Arnold Arboretum and Bussey Institution 1928-1936; full professor 1936-1959, acting director (1946) and director of the Arnold Arboretum 1947-1954; worked mainly on cytology, genetics and horticulture; Dr. Sci. h.c. Univ. Maine 1971 
-**Abbreviated name**: *Sax*
+**Abbreviated name**: *Sax* \[standard form in IPNI: *Sax*\]
 
 #### Herbarium and types
 

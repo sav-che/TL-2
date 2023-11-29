@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33333256) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33333256) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12823-1), [Wikidata](https://www.wikidata.org/wiki/Q21607868). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scharlok, \[Carl\] Julius \[Adolf\] (1809-1899), German (Prussian/Pommeranian) botanist and pharmacist; trained as a pharmacist in the Treptow pharmacy "Zum Schwarzen Adler" 1824-1830; in Frankfurt a.O. 1830-1831; at Vietz near Landsberg a.W. 1831-1832; at Berlin University 1833-1834; state examination in pharmacy 1834; assistant pharmacist with A.F.T. Lucae in Berlin 1834-1836; owner of the Löwen-Apotheke at Graudenz from 1837-1865; active also as a voluntary teacher and journalist in addition to his dedication to the flora of Western Prussia. 
-**Abbreviated name**: *Scharlok*
+**Abbreviated name**: *Scharlok* \[standard form in IPNI: *Scharlock*\]
 
 #### Herbarium and types
 

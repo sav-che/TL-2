@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33264807) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33264807) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/12324-1), [Wikidata](https://www.wikidata.org/wiki/Q10388891). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Allorge, Valentine, née Sélitsky {std. V. Allorge}|first entry]] for this author
 
 ### Author
 
 \* Allorge, Valentine \["Valia"\], née Selitzky (1888-1977), French, Russian born, bryologist, went to schools in Kharkov, moved to France before 1914, studied at Lausanne and Paris, married the botanist Charles Louis Gatin (1877-1916, fell at Douaumont), took her degree (Dr. phil.) at the Sorbonne with Gaston Bonnier, married Pierre Allorge 1920 (d. 1944), longtime editor of the Revue bryologique succeeding as such her husband in 1944. 
-**Abbreviated name**: *V. Allorge*
+**Abbreviated name**: *V. Allorge* \[standard form in IPNI: *V.Allorge*\]
 
 #### Herbarium and types
 

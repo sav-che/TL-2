@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33068343) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33068343) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3729-1), [Wikidata](https://www.wikidata.org/wiki/Q5793510). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Haughton, Samuel (1821-1897), Irish clergyman, physician and palaeobotanist at Dublin; professor of geology at Trinity College 1851-1881; M. D. Dublin 1862, D.C.L. Oxford 1868, L.L.D. Edinburgh 1884. 
-**Abbreviated name**: *Haught.*
+**Abbreviated name**: *Haught.* \[standard form in IPNI: *Haught.*\]
 
 #### Collections
 

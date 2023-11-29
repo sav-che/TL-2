@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33189836) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33189836) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7893-1), [Wikidata](https://www.wikidata.org/wiki/Q3104215). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pottier-Alapetite, Germaine (1894-x), French botanist at the Institut des Hautes Études de Tunis. 
-**Abbreviated name**: *Pottier-Alapetite*
+**Abbreviated name**: *Pottier-Alapetite* \[standard form in IPNI: *Pott.-Alap.*\]
 
 #### Herbarium and types
 

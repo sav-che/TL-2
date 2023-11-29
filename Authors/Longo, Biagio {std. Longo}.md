@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33355240) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 153](https://www.biodiversitylibrary.org/page/33355240) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5731-1), [Wikidata](https://www.wikidata.org/wiki/Q21519458). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Longo, Biagio (1872-1950), Italian botanist; assistant at the botanical institute in Rome 1896, professor of botany at Siena 1907-1915; director of the botanical garden of Pisa 1915-1929; professor of botany at Napoli 1929-1942. 
-**Abbreviated name**: *Longo*
+**Abbreviated name**: *Longo* \[standard form in IPNI: *Longo*\]
 
 #### Herbarium and types
 

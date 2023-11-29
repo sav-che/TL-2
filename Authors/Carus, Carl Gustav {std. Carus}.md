@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33120593) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33120593) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1432-1), [Wikidata](https://www.wikidata.org/wiki/Q61987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Carus, Carl Gustav {std. Carus} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Carus, Carl Gustav (1789-1869), German zoologist at Leipzig and Dresden. 
-**Abbreviated name**: *Carus*
+**Abbreviated name**: *Carus* \[standard form in IPNI: *Carus*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33190041) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33190041) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/35199-1), [Wikidata](https://www.wikidata.org/wiki/Q15074313). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rambosson, Jean Pierre (1827-1886), French popular author on natural history. 
-**Abbreviated name**: *Rambosson*
+**Abbreviated name**: *Rambosson* \[standard form in IPNI: *Rambosson*\]
 
 #### Herbarium and types
 

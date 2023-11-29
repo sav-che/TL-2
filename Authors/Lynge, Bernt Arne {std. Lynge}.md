@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33355288) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33355288) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22654-1), [Wikidata](https://www.wikidata.org/wiki/Q11960807). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lynge, Bernt Arne (1884-1942), Norwegian lichenologist; Dr. phil. Oslo 1917; lecturer (1918) and professor (1935) of botany at Oslo University. 
-**Abbreviated name**: *Lynge*
+**Abbreviated name**: *Lynge* \[standard form in IPNI: *Lynge*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33068404) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33068404) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3856-1), [Wikidata](https://www.wikidata.org/wiki/Q2214976). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Henschen, Salomon Eberhard (1847-1930), Swedish physician and botanist, later at the Karolinska Institut (1900-1912). 
-**Abbreviated name**: *Henschen*
+**Abbreviated name**: *Henschen* \[standard form in IPNI: *Henschen*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33333172) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33333172) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8850-1), [Wikidata](https://www.wikidata.org/wiki/Q18071273). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Salmon, John Drew (ca. 1802-1859), British botanist and ornithologist; manager of the Wenham Lake Ice Company; at Thetford 1835-1843; later at Godalming. 
-**Abbreviated name**: *J.D. Salmon*
+**Abbreviated name**: *J.D. Salmon* \[standard form in IPNI: *Salmon*\]
 
 #### Herbarium and types
 

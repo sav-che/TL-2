@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33120172) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33120172) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/178-1), [Wikidata](https://www.wikidata.org/wiki/Q21340902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ames, Lawrence Marion {std. L. Ames} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Ames, Lawrence Marion (1900-1966), American mycologist and phytopathologist. 
-**Abbreviated name**: *L. Ames*
+**Abbreviated name**: *L. Ames* \[standard form in IPNI: *L.M.Ames*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33066451) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33066451) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11446-1), [Wikidata](https://www.wikidata.org/wiki/Q21612295). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Waugh, Frank Albert (1869-1947), American horticulturist; B.S. Kansas State Coll. 1891, B.S. 1893; assistant horticulturist Kansas State College 1891; professor of horticulture Oklahoma Agr. Mech. College 1893-1895; id. Vermont 1895-1902; at Massachusetts State College as professor of horticulture and landscape gardening 1902-1939; emeritus professor id. 1939-1947. 
-**Abbreviated name**: *Waugh*
+**Abbreviated name**: *Waugh* \[standard form in IPNI: *Waugh*\]
 
 #### Herbarium and types
 

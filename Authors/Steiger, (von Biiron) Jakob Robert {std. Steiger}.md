@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/page/33334010) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/page/33334010) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10074-1), [Wikidata](https://www.wikidata.org/wiki/Q1542665). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steiger, \[von Biiron\] Jakob Robert (1801-1862), Swiss botanist, politician and physician; physicians examination 1826; practicing in Biiron 1826-1830; id. and in various administrative functions in Luzern 1830-1862. 
-**Abbreviated name**: *Steiger*
+**Abbreviated name**: *Steiger* \[standard form in IPNI: *Steiger*\]
 
 #### Herbarium and types
 

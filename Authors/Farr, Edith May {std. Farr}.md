@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33259554) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33259554) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2634-1), [Wikidata](https://www.wikidata.org/wiki/Q21395638). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Farr, Edith May (1864-1956), American botanist, born 9 Oct 1864 in Winthrop Center, Maine, collected plants in the Canadian Rocky Mts. 1904-1905. 
-**Abbreviated name**: *Farr*
+**Abbreviated name**: *Farr* \[standard form in IPNI: *Farr*\]
 
 #### Herbarium and types
 

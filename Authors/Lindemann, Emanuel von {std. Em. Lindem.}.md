@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33355090) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33355090) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5611-1), [Wikidata](https://www.wikidata.org/wiki/Q21519148). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lindemann, Emanuel von (1795-1845), Russian botanist and entomologist at Mitau; studied at Erfurt (1813) and Dorpat (1814-1816); high school teacher at Mitau 1820-1845. 
-**Abbreviated name**: *Em. Lindem.*
+**Abbreviated name**: *Em. Lindem.* \[standard form in IPNI: *Em.Lindem.*\]
 
 #### Herbarium and types [^1]
 

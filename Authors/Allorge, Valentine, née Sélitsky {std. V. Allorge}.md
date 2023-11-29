@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33120167) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33120167) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12324-1), [Wikidata](https://www.wikidata.org/wiki/Q10388891). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Allorge, Valentine (Valia), née Selitzky {std. V. Allorge} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Allorge, Valentine, née Sélitsky (1888-x), French bryologist. 
-**Abbreviated name**: *V. Allorge*
+**Abbreviated name**: *V. Allorge* \[standard form in IPNI: *V.Allorge*\]
 
 #### Herbarium and types
 

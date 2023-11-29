@@ -22,14 +22,13 @@ ipni_record_created: 2004-09-23 04:13:29.0
 ipni_record_modified: 2004-09-23 04:13:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33260320) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33260320) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/20001219-1), [Wikidata](https://www.wikidata.org/wiki/Q36612381). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Emel, Louis (fl. 1921), French pharmacist studying at the University of Strasbourg, living at Lude (Sarthe). 
-**Abbreviated name**: *Emel*
+**Abbreviated name**: *Emel* \[standard form in IPNI: *Emel*\]
 
 #### Herbarium and types
 

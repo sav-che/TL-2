@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33355255) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33355255) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5771-1), [Wikidata](https://www.wikidata.org/wiki/Q1346111). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Loudon, John Claudius (1783-1843), British gardener, horticultural writer and botanist at Bayswater nr. London. 
-**Abbreviated name**: *Loud.*
+**Abbreviated name**: *Loud.* \[standard form in IPNI: *Loudon*\]
 
 #### Herbarium and types
 

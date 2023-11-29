@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33068711) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33068711) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4580-1), [Wikidata](https://www.wikidata.org/wiki/Q47119803). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jung, W. (*fl*. 1832), German botanist in Nassau. 
-**Abbreviated name**: *W. Jung*
+**Abbreviated name**: *W. Jung* \[standard form in IPNI: *W.Jung*\]
 
 #### Herbarium and types
 

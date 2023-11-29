@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33068741) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33068741) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4657-1), [Wikidata](https://www.wikidata.org/wiki/Q96783). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Karsten, Georg Henry Herman (1863-1937), German botanist; Dr. phil. Rostock 1885; habit. Leipzig 1892; at Bonn 1899-1909; at Halle 1909-1928; travelled in Indonesia (1888-1890) and Mexico (1894). 
-**Abbreviated name**: *G. Karst.*
+**Abbreviated name**: *G. Karst.* \[standard form in IPNI: *G.Karst.*\]
 
 #### Herbarium and types
 

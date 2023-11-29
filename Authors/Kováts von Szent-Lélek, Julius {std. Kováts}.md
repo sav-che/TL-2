@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33068899) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33068899) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4998-1), [Wikidata](https://www.wikidata.org/wiki/Q1120552). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kováts von Szent-Lélek, Julius (1815-1873), Hungarian actuo- and palaeobotanist at the Hungarian national Museum at Pest from 1850. 
-**Abbreviated name**: *Kováts*
+**Abbreviated name**: *Kováts* \[standard form in IPNI: *Kováts*\]
 
 #### Herbarium and types
 

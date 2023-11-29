@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33066732) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33066732) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11789-1), [Wikidata](https://www.wikidata.org/wiki/Q21612865). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wisniewski, Tadeusz (1905-1943), Polish bryologist, phytogeographer and traveller (born in Taganrog, to which city his father had been deported); from 1919 living in Warsaw; from 1928-1943 assistant at the Josef Pilsudski University, Warsaw; Dr. phil. ib. 1930; also working for the Polish botanical Society; executed as a hostage in Warsaw 30 Nov 1943. 
-**Abbreviated name**: *Wisn.*
+**Abbreviated name**: *Wisn.* \[standard form in IPNI: *Wiśn.*\]
 
 #### Herbarium and types
 

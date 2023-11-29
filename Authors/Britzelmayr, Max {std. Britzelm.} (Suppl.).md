@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33266414) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33266414) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1162-1), [Wikidata](https://www.wikidata.org/wiki/Q556528). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Britzelmayr, Max {std. Britzelm.}|first entry]] for this author
 
 ### Author
 
 \* Britzelmayr, Max (1839-1909), German (Augsburg born) lichenologist and mycologist in Bavaria, educated at the Latin school nr. St. Stephan, at the Lehrerseminar zu Lauingen, diploma 1859, school teacher at Augsburg 1865, school inspector 1873-1899, retired from teaching 1899. 
-**Abbreviated name**: *Britzelm.*
+**Abbreviated name**: *Britzelm.* \[standard form in IPNI: *Britzelm.*\]
 
 #### Herbarium and types
 

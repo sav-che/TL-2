@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33069109) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33069109) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12649-1), [Wikidata](https://www.wikidata.org/wiki/Q6759640). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Levyns, Margaret Rutherford Bryan (née Mitchell) (1890-1975), South African botanist; lecturer at the University of Cape Town 1916-1946; first woman president of the Royal Society of South Africa. 
-**Abbreviated name**: *Levyns*
+**Abbreviated name**: *Levyns* \[standard form in IPNI: *Levyns*\]
 
 #### Herbarium and types
 

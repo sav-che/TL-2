@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1018](https://www.biodiversitylibrary.org/page/33121149) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1018](https://www.biodiversitylibrary.org/page/33121149) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3446-1), [Wikidata](https://www.wikidata.org/wiki/Q96287). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gümbel, Carl Wilhelm (Baron) von (1823-1898), German geologist and palaeobiologist, brother of W. T. Gümbel, pupil of Martius. 
-**Abbreviated name**: *C. Gümbel*
+**Abbreviated name**: *C. Gümbel* \[standard form in IPNI: *C.Gümbel*\]
 
 #### Collections
 

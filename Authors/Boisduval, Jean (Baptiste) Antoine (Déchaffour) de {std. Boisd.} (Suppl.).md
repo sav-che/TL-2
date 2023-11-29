@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33265475) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33265475) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/912-1), [Wikidata](https://www.wikidata.org/wiki/Q722712). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boisduval, Jean Baptiste Alphonse Déchauffour(e) de {std. Boisd.}|first entry]] for this author
 
 ### Author
 
 \* Boisduval, Jean \[Baptiste\] Antoine \[Déchaffour\] de (1801 \[1799?\]-1879), French physician, entomologist (Lepidopterist) and botanist, one of the founders of the Société entomologique de France, practiced in Rouen and Paris, Dr. méd. 1828, later dedicating himself mainly to entomology. 
-**Abbreviated name**: *Boisd.*
+**Abbreviated name**: *Boisd.* \[standard form in IPNI: *Boisd.*\]
 
 #### Herbarium and types
 

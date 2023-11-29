@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/page/33355939) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/page/33355939) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7180-1), [Wikidata](https://www.wikidata.org/wiki/Q21522447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Osborn, Henry Stafford (1823-1894), American Presbyterian clergyman, college professor and orientalist; ord. 1846; pastor at Hanover, Va. 1846-1849, Richmond, Va. 1849-1853, Liberty, Va. 1853-1858, Salem, Va. 1858-1859, Belvidere, N. J. 1859-1866; professor of mining and metallurgy Lafayette Coll. 1866-1870; at Oxford, Ohio 1870-1871; prof. at Miami Univ. 1871-1873; later pastor at Millville, Ohio; Dr. LL. D. h.c. Lafayette 1865. 
-**Abbreviated name**: *H. Osborn.*
+**Abbreviated name**: *H. Osborn.* \[standard form in IPNI: *H.Osborn*\]
 
 #### Herbarium and types
 

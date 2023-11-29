@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33068907) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33068907) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5041-1), [Wikidata](https://www.wikidata.org/wiki/Q3057351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krause, Ernst Hans Ludwig (1859-1942), German physician and botanist; Dr. med. Berlin 1881; prolific batologist; longtime "Oberstabarzt" at Saarlouis; later in Rostock. 
-**Abbreviated name**: *E. H. L. Krause*
+**Abbreviated name**: *E. H. L. Krause* \[standard form in IPNI: *E.H.L.Krause*\]
 
 #### Herbarium and types
 

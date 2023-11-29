@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33068453) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33068453) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3966-1), [Wikidata](https://www.wikidata.org/wiki/Q11870128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hirn, Karl Engelbrecht (1872-1907), Finnish algologist, high school teacher at Jyväskylä. 
-**Abbreviated name**: *Hirn*
+**Abbreviated name**: *Hirn* \[standard form in IPNI: *Hirn*\]
 
 #### Collections
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33333304) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33333304) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26277-1), [Wikidata](https://www.wikidata.org/wiki/Q65402). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schimper, Karl \["Carl"\] Friedrich (1803-1867), German naturalist, philosopher, poet, botanist and morphologist; originator of the theory of the ice-ages; brother of G.H.W. Schimper; cousin of W.P. Schimper; Dr. phil. München 1829; in München until 1841, later in Zweibrücken and Mannheim; from 1849 in Schwetzingen except for a stay in Jena 1854-1855. 
-**Abbreviated name**: *K.F. Schimp.*
+**Abbreviated name**: *K.F. Schimp.* \[standard form in IPNI: *K.F.Schimp.*\]
 
 #### Herbarium and types
 

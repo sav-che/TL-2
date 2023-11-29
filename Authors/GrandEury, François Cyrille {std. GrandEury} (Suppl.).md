@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33258807) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33258807) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3325-1), [Wikidata](https://www.wikidata.org/wiki/Q5768115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[GrandEury, François Cyrille {std. GrandEury}|first entry]] for this author
 
 ### Author
 
 \* Grand'Eury, François Cyrille (1839-1917), French mining engineer and paleontologist, born 9 Mar 1839 in Houdreville-sous Vézelise (Meurthe-et-Moselle), studied at the École Loritz, Nancy, then at the School of Mines, St.-Étienne (Loire), tutor ("répétiteur") from 1863, then prof. of mathematics 1883-1899, also at the School of Mines, corr., Académie des Sciences 1885, Légion d' honneur and many other academic prizes, died 22 Jul 1917 in Malzéville-sous-Nancy (Meurthe-et-Moselle). 
-**Abbreviated name**: *Grand'Eury*
+**Abbreviated name**: *Grand'Eury* \[standard form in IPNI: *Grand'Eury*\]
 
 #### Herbarium and types
 

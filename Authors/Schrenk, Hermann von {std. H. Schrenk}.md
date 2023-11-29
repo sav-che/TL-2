@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33333474) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33333474) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9264-1), [Wikidata](https://www.wikidata.org/wiki/Q21608440). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schrenk, Hermann von (1873-1953), American botanist; M.A. Harvard 1894; Dr. phil. Wash. Univ. St. Louis 1897; botanical assistant, Harvard 1893-1894; St. Louis Manual Training School 1894-1896, with Shaw School of botany St. Louis 1896-1903; connected with the U.S. Dept. Agriculture, Missouri Valley Auth. 1901-1907; plant pathologist at the Missouri Botanical Garden, St. Louis 1907; Biltmore Forest School lecturer 1906-1913. 
-**Abbreviated name**: *H. Schrenk*
+**Abbreviated name**: *H. Schrenk* \[standard form in IPNI: *H.Schrenk*\]
 
 #### Herbarium and types
 

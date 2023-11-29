@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33190064) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33190064) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8171-1), [Wikidata](https://www.wikidata.org/wiki/Q21607001). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rauth, Franz (1874-?), German botanist; Dr. phil. Erlangen 1901. 
-**Abbreviated name**: *Rauth*
+**Abbreviated name**: *Rauth* \[standard form in IPNI: *Rauth*\]
 
 #### Herbarium and types
 

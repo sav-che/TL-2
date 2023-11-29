@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33260037) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33260037) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2268-1), [Wikidata](https://www.wikidata.org/wiki/Q1381245). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Don, George (1798-1856) {std. G. Don}|first entry]] for this author
 
 ### Author
 
 \* Don, George (1798-1856), British plant collector and nurseryman, brother of David Don, born 17 Mai 1798 at Doo Hillock, Forfarshire, Scotland, died 25 Feb 1856 at Kensington, 1814-1815 with his brother David in a market garden, 1816 to Chelsea with the Horticultural Society at Chiswick, collected in tropical America 1821-1823, with the Linnean Society 1828-1837, worked in gardening until 1856. 
-**Abbreviated name**: *G. Don*
+**Abbreviated name**: *G. Don* \[standard form in IPNI: *G.Don*\]
 
 #### Herbarium and types
 

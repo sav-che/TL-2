@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33333664) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33333664) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9513-1), [Wikidata](https://www.wikidata.org/wiki/Q1827205). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sesler, Lionardo (x-1785), Venetian physician and naturalist and director of a botanical garden at Santa Maria di Sala. 
-**Abbreviated name**: *Sesl.*
+**Abbreviated name**: *Sesl.* \[standard form in IPNI: *Sesl.*\]
 
 #### Herbarium and types
 

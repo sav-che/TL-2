@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33068931) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33068931) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5115-1), [Wikidata](https://www.wikidata.org/wiki/Q61469). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kuhl, Heinrich (1796-1821), Dutch botanical and zoological explorer in the Netherlands East-Indies; member of the "Natuurwetenschappelijke Commissie". 
-**Abbreviated name**: *Kuhl*
+**Abbreviated name**: *Kuhl* \[standard form in IPNI: *Kuhl*\]
 
 #### Herbarium and types
 

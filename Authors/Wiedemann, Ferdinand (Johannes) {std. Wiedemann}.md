@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33066601) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33066601) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13011-1), [Wikidata](https://www.wikidata.org/wiki/Q705843). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wiedemann, Ferdinand \[Johannes\] (1805-1887), Baltic-German Estonian-born linguist, teacher and librarian; studied law in Dorpat 1824-1826; teacher and lawyer 1826-1830; teacher at the Gymnasium illustre Mitau 1830-1837; head-teacher for Greek and librarian at the Governmental Gymnasium in Reval 1837-1857; at the Academy of Sciences, St. Petersburg for finnish-ugric languages from 1857. 
-**Abbreviated name**: *Wiedemann*
+**Abbreviated name**: *Wiedemann* \[standard form in IPNI: *Wiedem.*\]
 
 #### Herbarium and types
 

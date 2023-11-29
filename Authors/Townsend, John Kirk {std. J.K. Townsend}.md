@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33212462) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33212462) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10774-1), [Wikidata](https://www.wikidata.org/wiki/Q2605200). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Townsend, John Kirk (1809-1851), American naturalist, especially interested in ornithology; collected plants on a journey with Th. Nuttall west of the Mississippi river; travelled also in the Sandwich Islands and South America; in charge of the Ornithological Department of the Smithsonian Institution and a member of the Philadelphia Academy of Sciences. 
-**Abbreviated name**: *J.K. Townsend*
+**Abbreviated name**: *J.K. Townsend* \[standard form in IPNI: *J.K.Towns.*\]
 
 #### Herbarium and types
 

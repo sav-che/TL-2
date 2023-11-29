@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33333753) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33333753) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9689-1), [Wikidata](https://www.wikidata.org/wiki/Q5925865). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sinclair, James (1913-1968), British (Scottish) botanist; BSc. Edinburgh 1936; teacher in Orkney; on active service 1941-1945; botanist Royal Botanic Garden Edinburgh 1946-1948; curator herbarium Botanic Gardens Singapore 1948-1962; on special contract ib. 1963-1967; collected widely in the Malesian area. 
-**Abbreviated name**: *J. Sinclair*
+**Abbreviated name**: *J. Sinclair* \[standard form in IPNI: *J.Sinclair*\]
 
 #### Herbarium and types
 

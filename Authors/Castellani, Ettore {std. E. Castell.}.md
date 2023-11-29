@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/page/33266761) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/page/33266761) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16977-1), [Wikidata](https://www.wikidata.org/wiki/Q21509345). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Castellani, Ettore (1909-?), Italian botanist. 
-**Abbreviated name**: *E. Castell.*
+**Abbreviated name**: *E. Castell.* \[standard form in IPNI: *E.Castell.*\]
 
 #### Herbarium and types
 

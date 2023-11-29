@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33068774) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33068774) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4755-1), [Wikidata](https://www.wikidata.org/wiki/Q21517451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Keys, Iasaiah Waterloo Nicholson (1818-1890), English botanist, bookseller and printer at Plymouth. 
-**Abbreviated name**: *Keys*
+**Abbreviated name**: *Keys* \[standard form in IPNI: *Keys*\]
 
 #### Herbarium and types
 

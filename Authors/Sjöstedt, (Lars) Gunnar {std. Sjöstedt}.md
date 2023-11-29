@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33333762) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33333762) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12869-1), [Wikidata](https://www.wikidata.org/wiki/Q21609003). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sjöstedt, \[Lars\] Gunnar (1894-1975), Swedish botanist; studied at Lund; Dr. phil. 1920; assistant at the Lund botanical Institute from 1918; lecturer in marine biology Univ. Lund 1928-1932; head teacher in biology High School Falun 1932-1948; id. Training School Kristianstad 1949-1958. 
-**Abbreviated name**: *Sjöstedt*
+**Abbreviated name**: *Sjöstedt* \[standard form in IPNI: *G.Sjöstedt*\]
 
 #### Herbarium and types
 

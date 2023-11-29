@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33355860) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33355860) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24161-1), [Wikidata](https://www.wikidata.org/wiki/Q3180443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Norrlin, Johan Petter \[Peter\] (1842-1917), Finnish botanist; Dr. phil. Helsinki 1879, lecturer (1871) and professor (1879) of botany at Helsinki University until 1903; in Algeria 1877-1878; taxonomist (*Hieracium*; lichens) and phytogeographer ("father of Finnish phytogeography"). 
-**Abbreviated name**: *Norrl.*
+**Abbreviated name**: *Norrl.* \[standard form in IPNI: *Norrl.*\]
 
 #### Herbarium and types
 

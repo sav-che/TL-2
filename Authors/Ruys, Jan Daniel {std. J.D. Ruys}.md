@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1012](https://www.biodiversitylibrary.org/page/33190483) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1012](https://www.biodiversitylibrary.org/page/33190483) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8766-1), [Wikidata](https://www.wikidata.org/wiki/Q21607573). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ruys, Jan Daniel (1897-1954), Dutch botanist; Dr. phil. Utrecht 1925; director of the Moerheim nursery 1926-1954. 
-**Abbreviated name**: *J.D. Ruys*
+**Abbreviated name**: *J.D. Ruys* \[standard form in IPNI: *J.D.Ruys*\]
 
 #### Herbarium and types
 

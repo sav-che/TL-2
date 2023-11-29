@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33066699) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33066699) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11751-1), [Wikidata](https://www.wikidata.org/wiki/Q87538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wimmer, \[Christian\] Friedrich \[Heinrich\] (1803-1868), German (Silesian) botanist and high school teacher; studied philology and natural sciences at the University of Breslau 1821-1826; teacher at the Friedrichs-Gymnasium Breslau 1826; professor's title 1835, director 1843-1863; municipal school inspector ("Schulrath") charged with the reform of the Breslau school system 1863-1868; actively interested in plant taxonomy of the classics as well as in the flora of Silesia and the genus Salix; Dr. phil. h.c. Breslau 1853. 
-**Abbreviated name**: *Wimm.*
+**Abbreviated name**: *Wimm.* \[standard form in IPNI: *Wimm.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33333844) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33333844) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9823-1), [Wikidata](https://www.wikidata.org/wiki/Q1278792). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, William Wright (1875-1956), British botanist; MA Edinburgh 1896; high school teacher Edinburgh 1896-1902; lecturer in botany, Edinburgh University 1902-1907; keeper herbarium Royal Botanic Garden, Calcutta 1907-1911; deputy keeper, Royal Botanic Garden, Edinburgh 1911-1922; regius keeper and director of the garden ib. 1922-1956; Veitch memorial medal 1929; knighted 1932. 
-**Abbreviated name**: *Wm.W. Sm.*
+**Abbreviated name**: *Wm.W. Sm.* \[standard form in IPNI: *W.W.Sm.*\]
 
 #### Herbarium and types
 

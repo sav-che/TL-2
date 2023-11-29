@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2005-08-23 07:57:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33264978) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33264978) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31174-1), [Wikidata](https://www.wikidata.org/wiki/Q21505504). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Baeza R. \[Riquelme\], Víctor Manuel (1886-1944), Chilean botanist. 
-**Abbreviated name**: *Baeza*
+**Abbreviated name**: *Baeza* \[standard form in IPNI: *Baeza*\]
 
 #### Herbarium and types
 

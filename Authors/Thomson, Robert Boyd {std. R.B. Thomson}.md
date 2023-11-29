@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33212328) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33212328) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10619-1), [Wikidata](https://www.wikidata.org/wiki/Q21610681). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomson, Robert Boyd (1870-1947), Canadian botanist; Dr. phil. Univ. Toronto 1899; associated with this University from 1899-1941, from 1928-1941 as head of the Department of Botany; professor emeritus ib. 1941-1947. 
-**Abbreviated name**: *R.B. Thomson*
+**Abbreviated name**: *R.B. Thomson* \[standard form in IPNI: *R.B.Thomson*\]
 
 #### Herbarium and types
 

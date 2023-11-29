@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33189764) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33189764) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7751-1), [Wikidata](https://www.wikidata.org/wiki/Q4821066). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Plée, Auguste (1787-1825), French traveller for the Paris Muséum d'Histoire naturelle; from 1820-1825 in the West Indies. 
-**Abbreviated name**: *A. Plée*
+**Abbreviated name**: *A. Plée* \[standard form in IPNI: *Plée*\]
 
 #### Herbarium and types
 

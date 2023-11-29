@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33120617) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33120617) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1539-1), [Wikidata](https://www.wikidata.org/wiki/Q68023). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Charpentier, Jean G. F. de (1786-1855), German born Swiss geologist, conchologist and botanist, director of the mines of the canton Waadt (Vaud). 
-**Abbreviated name**: *Charpentier*
+**Abbreviated name**: *Charpentier* \[standard form in IPNI: *Charpent.*\]
 
 #### Herbarium and types
 

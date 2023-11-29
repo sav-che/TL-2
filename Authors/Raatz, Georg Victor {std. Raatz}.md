@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8065-1), [Wikidata](https://www.wikidata.org/wiki/Q36566893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Raatz, Georg Victor (*fl*. 1937), German palaeobotanist; Dr. phil. Berlin 1937. 
-**Abbreviated name**: *Raatz*
+**Abbreviated name**: *Raatz* \[standard form in IPNI: *Raatz*\]
 
 #### Herbarium and types
 

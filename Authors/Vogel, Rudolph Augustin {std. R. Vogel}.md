@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 768](https://www.biodiversitylibrary.org/page/33212810) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 768](https://www.biodiversitylibrary.org/page/33212810) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11236-1), [Wikidata](https://www.wikidata.org/wiki/Q2172361). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vogel, Rudolph Augustin (1724-1775), German (Erfurt) physician and botanist; Dr. med. Erfurt 1747; practicing physician in Berlin 1747-1753; extraordinary professor of medicine Göttingen 1753, regular professor 1760; also "Landphysicus" 1763; lecturer in botany at Göttingen 1759-1760. 
-**Abbreviated name**: *R. Vogel*
+**Abbreviated name**: *R. Vogel* \[standard form in IPNI: *R.Vogel*\]
 
 #### Herbarium and types
 

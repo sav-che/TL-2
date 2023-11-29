@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33068678) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33068678) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4468-1), [Wikidata](https://www.wikidata.org/wiki/Q3101893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jenman, George Samuel (1845-1902), British gardener and botanist, superintendent of Castleton Gardens, Jamaica (1873-1879), superintendent of the botanic gardens and government botanist at Georgetown, British Guiana (1879-1902). 
-**Abbreviated name**: *Jenm.*
+**Abbreviated name**: *Jenm.* \[standard form in IPNI: *Jenman*\]
 
 #### Herbarium and types
 

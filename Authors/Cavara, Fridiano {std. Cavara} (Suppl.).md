@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33266775) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33266775) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1466-1), [Wikidata](https://www.wikidata.org/wiki/Q4206900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cavara, Fridiano {std. Cavara}|first entry]] for this author
 
 ### Author
 
 \* Cavara, Fridiano (1857-1929), Italian botanist, studied at the University of Pavia, habil. bot. 1894, private teacher at the University of Pavia 1894-1896, called to the Forestry Academy of Vallombrosa 1896, extra-ordinary professor at Cagliari, Sardinia, 1900-1902, director of the Hortus botanicus and professor at the University of Catania, Sicily 1902, ordinary professor ib. 1903-1906, id. at Napoli 1906-1929. 
-**Abbreviated name**: *Cavara*
+**Abbreviated name**: *Cavara* \[standard form in IPNI: *Cavara*\]
 
 #### Herbarium and types
 

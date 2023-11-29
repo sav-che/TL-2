@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33265011) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33265011) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31947-1), [Wikidata](https://www.wikidata.org/wiki/Q4076181). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bakhuizen van den Brink \[Sr.\], Reinier Cornelis (1881-1945), Dutch (Java born) self-educated botanist; studied in Holland, returned to Java 1903 as a planter in West Java, collecting plants in Java from 1903; assistant, later botanist at the Botanical Gardens Buitenzorg 1917, on leave in Holland 1925-1926, retired 1935, stayed again in Holland 1935-1939; returned to Buitenzorg \[Bogor\] 1939, interned by the Japanese forces 1943, died in a "protection"-camp at Tjimahi, Java. 
-**Abbreviated name**: *Bakh.*
+**Abbreviated name**: *Bakh.* \[standard form in IPNI: *Bakh.*\]
 
 #### Herbarium and types
 

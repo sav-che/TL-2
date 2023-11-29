@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/page/33190391) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/page/33190391) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8638-1), [Wikidata](https://www.wikidata.org/wiki/Q12313728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roth, Georg (1842-1915), German (Hessen) forester and botanist (bryologist); studied forestry at Giessen; "Forstassessor" and "Forstrevisor" in Darmstadt, later "Rechnungsrath"; from 1887 in retirement at Laubach (Hessen) dedicating himself entirely to bryology; Forstrat 1898; Dr. h.c. Giessen 1907. 
-**Abbreviated name**: *G. Roth*
+**Abbreviated name**: *G. Roth* \[standard form in IPNI: *G.Roth*\]
 
 #### Herbarium and types
 

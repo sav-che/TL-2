@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33212197) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33212197) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10396-1), [Wikidata](https://www.wikidata.org/wiki/Q348006). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Takhtajan, Armen Leonovich (1910-x), Soviet (Armenian) botanist; graduated Tbilisi 1932; professor at Erevan Univ. 1938-1948; director of the Botanical Institute of the Armenian Academy of Sciences 1944-1948; professor at Leningrad University 1949-1961; Dept. head Komarov Botanical Institute from 1954; president of the International Association for Plant Taxonomy 1975-1981. 
-**Abbreviated name**: *Takht.*
+**Abbreviated name**: *Takht.* \[standard form in IPNI: *Takht.*\]
 
 #### Herbarium and types
 

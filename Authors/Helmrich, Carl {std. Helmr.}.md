@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33068391) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33068391) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3817-1), [Wikidata](https://www.wikidata.org/wiki/Q21515682). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Helmrich, Carl (1833-1868), German botanist from Silesia, practicing physician at Berlin. 
-**Abbreviated name**: *Helmr.*
+**Abbreviated name**: *Helmr.* \[standard form in IPNI: *Helmr.*\]
 
 #### Herbarium and types
 

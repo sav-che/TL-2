@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33264862) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33264862) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/20009104-1), [Wikidata](https://www.wikidata.org/wiki/Q21505292). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Apgar, Austin Craig (1838-1908), American (New Jersey) botanist. 
-**Abbreviated name**: *A.C. Apgar*
+**Abbreviated name**: *A.C. Apgar* \[standard form in IPNI: *Apgar*\]
 
 #### Herbarium and types
 

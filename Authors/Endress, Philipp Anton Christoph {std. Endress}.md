@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33120884) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33120884) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2536-1), [Wikidata](https://www.wikidata.org/wiki/Q21512156). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Endress, Philipp Anton Christoph (1806-1831), German plant collector for the *Unio itineraria* at Esslingen. 
-**Abbreviated name**: *Endress*
+**Abbreviated name**: *Endress* \[standard form in IPNI: *Endress*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33068298) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33068298) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3667-1), [Wikidata](https://www.wikidata.org/wiki/Q62415). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Harms, Hermann August Theodor (1870-1942), German botanist of the Engler school; at Berlin from 1893; executive editor of "Pflanzenreich" from 1900, of Engler and Prantl ed. 2 from 1930. 
-**Abbreviated name**: *Harms*
+**Abbreviated name**: *Harms* \[standard form in IPNI: *Harms*\]
 
 #### Herbarium and types
 

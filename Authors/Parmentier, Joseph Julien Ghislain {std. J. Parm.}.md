@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33189543) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33189543) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7358-1), [Wikidata](https://www.wikidata.org/wiki/Q14275001). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parmentier, Joseph Julien Ghislain (1755-1852), Belgian landscape gardener, botanist; maire and burgomaster of Enghien. 
-**Abbreviated name**: *J. Parm.*
+**Abbreviated name**: *J. Parm.* \[standard form in IPNI: *J.Parm.*\]
 
 #### Herbarium and types
 

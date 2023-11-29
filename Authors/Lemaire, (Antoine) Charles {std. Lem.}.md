@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/page/33069076) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 834](https://www.biodiversitylibrary.org/page/33069076) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5457-1), [Wikidata](https://www.wikidata.org/wiki/Q942880). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lemaire, \[Antoine\] Charles (1800-1871), French botanist; specialist on Cactaceae; edited *L'Horticulteur universel* (1839-1845) and *Jardin fleuriste* (1851-1854) at Paris; and the *Flore des Serres* and *L'Illustration horticole* at Gent (1854-1868). 
-**Abbreviated name**: *Lem.*
+**Abbreviated name**: *Lem.* \[standard form in IPNI: *Lem.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33265880) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33265880) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1686-1), [Wikidata](https://www.wikidata.org/wiki/Q7287465). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cleland, Ralph Erskine (1892-1971), American botanist, plant geneticist, born in LeClair, Iowa, at the University of Pennsylvania, A.B. 1915, M.S. 1916, Ph.D. 1919 in botany, instructor at Goucher College, Baltimore 1919, later professor and departmental chairman, chairman botany at Indiana University 1938-1958, dean of the graduate school 1952-1958, distinguished service professor 1958-1963, distinguished service professor emeritus 1963-1971. 
-**Abbreviated name**: *R.E. Cleland*
+**Abbreviated name**: *R.E. Cleland* \[standard form in IPNI: *R.E.Cleland*\]
 
 #### Herbarium and types
 

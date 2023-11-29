@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33212136) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33212136) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10304-1), [Wikidata](https://www.wikidata.org/wiki/Q36550711). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Surgis, Eugène (*fl*. 1921), French botanist and high school teacher at the Lycée Voltaire, Paris; Dr. sc. nat. Paris 1921. 
-**Abbreviated name**: *Surgis*
+**Abbreviated name**: *Surgis* \[standard form in IPNI: *Surgis*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33190064) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33190064) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8169-1), [Wikidata](https://www.wikidata.org/wiki/Q21607000). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rauscher, Robert (1806-1890), Moravian/Austrian administrator and botanist; born and educated at Brünn; studied law at the University of Olmütz; Dr. Jur. 1833; 1829-1841 with the financial administration of Brünn; in Wien as registrar with the "Kammer procurator" 1841-1848; in Linz as "Adjunct bei der k.k. oberösterreichischen Finanzprocurator" (financial registrar) and secretary of the Museum Francisco-Carolinum 1848-1853; in a similar position in Wien 1853-1868; Finanzrath 1864; in retirement in Wien until 1870, subsequently at Linz active in the "Verein für Naturkunde". 
-**Abbreviated name**: *Rauscher*
+**Abbreviated name**: *Rauscher* \[standard form in IPNI: *Rauscher*\]
 
 #### Herbarium and types
 

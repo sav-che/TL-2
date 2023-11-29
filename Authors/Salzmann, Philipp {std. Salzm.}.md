@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33333167) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33333167) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8860-1), [Wikidata](https://www.wikidata.org/wiki/Q2329444). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Salzmann, Philipp (1781-1851), German (Saxonian) botanist; studied medicine at Göttingen (1800-1801), Wien (1801-1803), Halle (1803-1805), and Paris (1805); settled in Montpellier (1806) as hospital physician, later devoting himself to botany and entomology; collecting extensively in S. France, N. Africa, Spain (1823-1825) and Brazil, mainly Bahia, 1827-1830. 
-**Abbreviated name**: *Salzm.*
+**Abbreviated name**: *Salzm.* \[standard form in IPNI: *Salzm.*\]
 
 #### Herbarium and types
 

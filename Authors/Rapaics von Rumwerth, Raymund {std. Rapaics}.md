@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33190050) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33190050) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12757-1), [Wikidata](https://www.wikidata.org/wiki/Q4390008). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rapaics von Rumwerth, Raymund (1885-1954), Hungarian botanist; assistant at the agricultural college of Kolozsvár (Klausenburg, Cluj) 1910, ass. prof. ib. 1912; later at Budapest. 
-**Abbreviated name**: *Rapaics*
+**Abbreviated name**: *Rapaics* \[standard form in IPNI: *Rapaics*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/page/33190387) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/page/33190387) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8636-1), [Wikidata](https://www.wikidata.org/wiki/Q21607455). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rota, Lorenzo (1819-1855), Italian botanist and physician; sometime botanical assistant in the University of Pavia; ultimately practicing physician at Bergamo; died of cholera. 
-**Abbreviated name**: *Rota*
+**Abbreviated name**: *Rota* \[standard form in IPNI: *Rota*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33264845) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33264845) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/12325-1), [Wikidata](https://www.wikidata.org/wiki/Q16487134). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Andrae, Carl Justus {std. Andrae}|first entry]] for this author
 
 ### Author
 
 \* Andrä \[Andrae\], Carl Justus (1816-1885), German palaeobotanist, grew up in Breslau (Schlesien), educated at the Friedrichs-Gymnasium 1830-1835, at the University of Breslau 1839, from 1840 studying natural sciences at the University of Halle, Dr. phil. ib. 1843, highschool teacher at Halle, habil. Halle 1848 and lecturer in mineralogy and palaeontology ib., travelled and collected in Siebenbürgen and the Banat (Roumania) 1851 and worked at Vienna until 1855; teacher at the school of mines at Saarbrücken 1857-1860, curator of the palaeontology collections at Bonn 1860, professor of palaeontology at the University 1872. 
-**Abbreviated name**: *Andrä*
+**Abbreviated name**: *Andrä* \[standard form in IPNI: *Andrae*\]
 
 #### Herbarium and types
 

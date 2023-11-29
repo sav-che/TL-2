@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33120162) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33120162) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/150-1), [Wikidata](https://www.wikidata.org/wiki/Q21505087). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Allen, John Fisk (1807-1876), American botanist, of Salem, Mass. 
-**Abbreviated name**: *J.F. Allen*
+**Abbreviated name**: *J.F. Allen* \[standard form in IPNI: *J.F.Allen*\]
 
 #### Herbarium and types
 

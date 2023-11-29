@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33120512) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33120512) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1218-1), [Wikidata](https://www.wikidata.org/wiki/Q21506565). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bruinsma, Josephus Johannes (1805-1888), Dutch-Frisian apothecary and botanist at Leeuwarden (Friesland). 
-**Abbreviated name**: *Bruinsma*
+**Abbreviated name**: *Bruinsma* \[standard form in IPNI: *Bruinsma*\]
 
 #### Herbarium and types
 

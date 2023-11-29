@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1079](https://www.biodiversitylibrary.org/page/33190550) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1079](https://www.biodiversitylibrary.org/page/33190550) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8835-1), [Wikidata](https://www.wikidata.org/wiki/Q5667443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saint-Yves, Alfred \[Marie Augustine\] (1855-1933), French botanist (agrostologist) and soldier; at the École polytechnique 1875-1879; following a military career 1879-1905, ultimately in the rank of "Commandant"; in retirement at Nice; in army service 1914-1918. 
-**Abbreviated name**: *Saint-Yves*
+**Abbreviated name**: *Saint-Yves* \[standard form in IPNI: *St.-Yves*\]
 
 #### Herbarium and types
 

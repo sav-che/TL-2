@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33120584) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33120584) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1385-1), [Wikidata](https://www.wikidata.org/wiki/Q21506930). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cannart d'Hamale, Frédéric (1804-1888), Belgian politician and horticulturist. 
-**Abbreviated name**: *Cannart*
+**Abbreviated name**: *Cannart* \[standard form in IPNI: *Cannart*\]
 
 #### Herbarium and types
 

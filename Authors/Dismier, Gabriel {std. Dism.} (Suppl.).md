@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33259397) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33259397) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/18063-1), [Wikidata](https://www.wikidata.org/wiki/Q21510441). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dismier, Gabriel {std. Dism.}|first entry]] for this author
 
 ### Author
 
 \* Dismier, Gabriel (1856-1942), French bryologist, born at Genève 26 Jan 1856, died 6 Feb 1942 at Vagney, family moved 1871 to Paris, in the administration of the "Chemins de fere l'Est", but giving most time to bryology. 
-**Abbreviated name**: *Dism.*
+**Abbreviated name**: *Dism.* \[standard form in IPNI: *Dism.*\]
 
 #### Herbarium and types
 

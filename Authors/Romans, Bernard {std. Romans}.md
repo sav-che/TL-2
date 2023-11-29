@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33190346) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33190346) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8563-1), [Wikidata](https://www.wikidata.org/wiki/Q2898553). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Romans, Bernard (ca. 1720-1784), Dutch-born, English-naturalized, American patriot, surveyor and soldier; in Florida ca. 1760-1774, sometime as surveyor for the British government of West Florida; living in New York 1773-1775 as a writer; joined the American patriots in the rebellion against Great Britain 1775; captain in the Pennsylvania artillery 1776-1778; from 1778-1779 living in Wethersfield, Connecticut; working e.g. on a history of the Netherlands; captured by the British 1779, prisoner of war in England 1780-1783; died on the journey back to the United States. 
-**Abbreviated name**: *Romans*
+**Abbreviated name**: *Romans* \[standard form in IPNI: *Romans*\]
 
 #### Herbarium and types
 

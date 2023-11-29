@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33355272) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33355272) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5810-1), [Wikidata](https://www.wikidata.org/wiki/Q21519555). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lüben, August Heinrich Philipp (1804-1874), German botanist and high school teacher at Weissenfels (1822-1825), Dorf-Alsleben (1825-1829), Aschersleben (1829-1850), Merseburg (1850-1858), and Bremen (1858-1874). 
-**Abbreviated name**: *Lüben*
+**Abbreviated name**: *Lüben* \[standard form in IPNI: *Lüben*\]
 
 #### Herbarium and types
 

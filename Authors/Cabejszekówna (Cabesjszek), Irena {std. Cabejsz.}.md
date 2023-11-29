@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33266599) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33266599) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/32613-1), [Wikidata](https://www.wikidata.org/wiki/Q21506789). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cabejszekówna \[Cabesjszek\], Irena (1910-1972), Polish hydrobiologist and phycologist. 
-**Abbreviated name**: *Cabejsz.*
+**Abbreviated name**: *Cabejsz.* \[standard form in IPNI: *Cabejsz.*\]
 
 #### Herbarium and types
 

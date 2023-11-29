@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33333651) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33333651) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9489-1), [Wikidata](https://www.wikidata.org/wiki/Q9001489). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sennholz, Gustav (1850-1895), German (Frankfurt) botanist and gardener; educated at the Kassel gymnasium; student gardener at Wilhelmshöhe i.d. Lehre and Kassel; gardener at Potsdam 1869-1870; in Franco-Prussian war 1870-1871; again in Potsdam and Kassel 1871-1874; with Gebr. Siesmayer in Bockenheim nr. Frankfurt a. M. 1874-1884; city-gardener of Wien 1884-1895; also active as a floristic botanist. 
-**Abbreviated name**: *Sennholz*
+**Abbreviated name**: *Sennholz* \[standard form in IPNI: *Sennholz*\]
 
 #### Herbarium and types
 

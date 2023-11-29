@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33212261) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33212261) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10510-1), [Wikidata](https://www.wikidata.org/wiki/Q18548524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Teodoresco \[Teodorescu\], Emanoil \[Emmanuel\] Constantin (1866-1949), Rumanian botanist (algologist, phytosociologist, plant physiologist); Dr. phil. Paris 1899; professor of plant physiology at the Faculty of Sciences of Bucarest University. 
-**Abbreviated name**: *Teodor.*
+**Abbreviated name**: *Teodor.* \[standard form in IPNI: *Teodor.*\]
 
 #### Herbarium and types
 

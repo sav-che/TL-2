@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33068826) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33068826) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4885-1), [Wikidata](https://www.wikidata.org/wiki/Q90095). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Knuth, Paul Erich Otto Wilhelm (1854-1899). German botanist educated at Greifswald; Dr. phil. 1876; high school teacher at Iserlohn 1876, from 1881 at Kiel; author of a Handbuch der Blütenbiologie. 
-**Abbreviated name**: *P. Knuth*
+**Abbreviated name**: *P. Knuth* \[standard form in IPNI: *Knuth*\]
 
 #### Herbarium and types
 

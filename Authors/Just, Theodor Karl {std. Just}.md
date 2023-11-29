@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33068723) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33068723) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4599-1), [Wikidata](https://www.wikidata.org/wiki/Q7781596). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Just, Theodor Karl (1904-1960), Austrian-born American botanist and palaeontologist from 1946 at the Field Museum, Chicago. 
-**Abbreviated name**: *Just*
+**Abbreviated name**: *Just* \[standard form in IPNI: *T.Just*\]
 
 #### Herbarium and types
 

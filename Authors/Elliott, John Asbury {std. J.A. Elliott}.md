@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33260296) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33260296) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18454-1), [Wikidata](https://www.wikidata.org/wiki/Q21511889). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Elliott, John Asbury (1887-1923), American botanist, born 1 Dec 1887 Ness City, Kansas, died of pneumonia 18 Jan 1923 Washington, D.C., prof. plant pathology University of Arkansas and pathologist in the Arkansas Agricultural Experiment Station. 
-**Abbreviated name**: *J.A. Elliott*
+**Abbreviated name**: *J.A. Elliott* \[standard form in IPNI: *J.A.Elliott*\]
 
 #### Herbarium and types
 

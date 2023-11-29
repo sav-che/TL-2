@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33212334) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33212334) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10628-1), [Wikidata](https://www.wikidata.org/wiki/Q21610688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thormeyer, Paul (1878-?), German (Anhalt) botanist and high school teacher; studied mathematics and natural sciences in Göttingen (1901-1903), Halle (1903-1904), and again Göttingen (1904-1906); state teachers examination Göttingen 1906; teacher at Hannover from 1906; Dr. phil. Göttingen 1910; student of G.A. Peter. 
-**Abbreviated name**: *Thormeyer*
+**Abbreviated name**: *Thormeyer* \[standard form in IPNI: *Thorm.*\]
 
 #### Herbarium and types
 

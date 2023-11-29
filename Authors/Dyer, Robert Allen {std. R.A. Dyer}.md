@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33260214) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33260214) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2431-1), [Wikidata](https://www.wikidata.org/wiki/Q2062617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dyer, Robert Allen (1900-1987), South African botanist born 21 Sep 1900 at Pietermaritzburg, educated at Merchiston and Michaelhouse schools in Natal, from 1919-1923 at Natal University, graduating with M.Sc., research worker with the Natal Sugar Association 1924-1925, appointed in 1925 to the Division of Botany at Grahamstown, curator Albany Museum Herbarium, at Royal Botanic Garden Kew 1931-1934, Dr. Sci. in 1937, at the National Herbarium Pretoria chief and director of the Pretoria Botanical Research Institute 1944-1950, in official retirement 1963, but served the institute until 1979, died 26 Oct 1987 at Johannesburg. 
-**Abbreviated name**: *R.A. Dyer*
+**Abbreviated name**: *R.A. Dyer* \[standard form in IPNI: *R.A.Dyer*\]
 
 #### Herbarium and types
 

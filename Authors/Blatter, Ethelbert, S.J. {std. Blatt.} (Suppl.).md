@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-12-14 13:48:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33265404) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33265404) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16210-1), [Wikidata](https://www.wikidata.org/wiki/Q3059270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Blatter, Ethelbert {std. Blatt.}|first entry]] for this author
 
 ### Author
 
 \* Blatter, Ethelbert, S.J. (1877-1934), Swiss Jesuit and botanist, born in Canton Appenzell, entered the Society of Jesus (1896) 1903, studied at Valkenburg (Limburg, Netherlands), became an ardent botanist, at St. Xavier's College, Bombay as botany teacher 1904-1908, followed a course in theology at Ore, nr. Hastings, England 1908-1913, returned to St. Xavier's college 1915, Principal ib. 1919, chaplain at Panchgami from 1925. 
-**Abbreviated name**: *Blatt.*
+**Abbreviated name**: *Blatt.* \[standard form in IPNI: *Blatt.*\]
 
 #### Herbarium and types
 

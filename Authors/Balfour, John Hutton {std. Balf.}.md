@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33120243) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33120243) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/31251-1), [Wikidata](https://www.wikidata.org/wiki/Q510424). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Balfour, John Hutton {std. Balf.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Balfour, John Hutton (1808-1884), British botanist at Glasgow 1841-1845, King's botanist in Scotland, professor of botany in Edinburgh 1845-1879, father of I. B. Balfour. 
-**Abbreviated name**: *Balf.*
+**Abbreviated name**: *Balf.* \[standard form in IPNI: *Balf.*\]
 
 #### Herbarium and types
 

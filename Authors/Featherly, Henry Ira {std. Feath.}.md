@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33259582) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33259582) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2658-1), [Wikidata](https://www.wikidata.org/wiki/Q21512728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Featherly, Henry Ira (1893-1978), American botanist, born 27 Feb 1893 in Iuka, Illinois, taught high school in Illinois 1920-1922, B.Sc. 1924, M.Sc. 1925 and Ph.D. 1937 Iowa State College of Agric. & Mechanic Arts (now Iowa State Univ.), Ames, Iowa, asst. prof., then prof. of botany and plant pathology, Oklahoma Agric. & Mechanical College (now Oklahoma State Univ.), Stillwater, Oklahoma 1925, Bureau of Plant Industry, U.S.D.A. 1934, president Oklahoma Academy of Science 1942. 
-**Abbreviated name**: *Feath.*
+**Abbreviated name**: *Feath.* \[standard form in IPNI: *Feath.*\]
 
 #### Herbarium and types
 

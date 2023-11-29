@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33259532) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33259532) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/35049-1), [Wikidata](https://www.wikidata.org/wiki/Q21516232). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Falk, Herman Gustaf (1840-1880), Swedish lichenologist, born 7 Jun 1840 in Ölme (Värmland), studied at Uppsala from 1858, fil. cand. 1868, teacher in Karlskrona 1869, Dr. phil. 1874 Lund Univ., died 12 Oct 1880 in Karlskrona. 
-**Abbreviated name**: *H.G. Falk*
+**Abbreviated name**: *H.G. Falk* \[standard form in IPNI: *H.G.Falk*\]
 
 #### Herbarium and types
 

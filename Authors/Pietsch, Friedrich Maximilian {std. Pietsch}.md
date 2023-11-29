@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33189732) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33189732) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7693-1), [Wikidata](https://www.wikidata.org/wiki/Q5869617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pietsch, Friedrich Maximilian (1856-?), German (Saxonian) botanist; Dr. phil. Halle 1893; high school teacher at Gera. 
-**Abbreviated name**: *Pietsch*
+**Abbreviated name**: *Pietsch* \[standard form in IPNI: *Pietsch*\]
 
 #### Herbarium and types
 

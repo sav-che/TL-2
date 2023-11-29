@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33120510) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33120510) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1209-1), [Wikidata](https://www.wikidata.org/wiki/Q21506556). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brückner, Adolph Friedrich Albrecht (1781-1818), German physician at Neubrandenburg. 
-**Abbreviated name**: *Brückn.*
+**Abbreviated name**: *Brückn.* \[standard form in IPNI: *Brückn.*\]
 
 #### Herbarium and types
 

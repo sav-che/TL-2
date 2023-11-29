@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33265594) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33265594) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1044-1), [Wikidata](https://www.wikidata.org/wiki/Q571615). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bower, Frederick Orpen {std. Bower}|first entry]] for this author
 
 ### Author
 
 \* Bower, Frederick Orpen (1855-1948), British botanist (palaeobotanist), born in Ripon, Yorkshire, studied at the University of Cambrige 1874, Dr. phil. bot. 1877, with J. Sachs in Würzburg 1877, id. with de Bary in Strasbourg 1879, teaching at South Kensington, London and working at Kew 1880-1885, professor of botany at the University of Glasgow (regius chair) 1885 and dedicating himself to comparative morphology, retired 1925. 
-**Abbreviated name**: *Bower*
+**Abbreviated name**: *Bower* \[standard form in IPNI: *Bower*\]
 
 #### Herbarium and types
 

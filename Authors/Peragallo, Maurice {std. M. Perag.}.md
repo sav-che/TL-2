@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33189632) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33189632) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7499-1), [Wikidata](https://www.wikidata.org/wiki/Q21522801). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Peragallo, Maurice (1853-?), French diatomologist; brother of H. Peragallo. 
-**Abbreviated name**: *M. Perag.*
+**Abbreviated name**: *M. Perag.* \[standard form in IPNI: *Perag.*\]
 
 #### Herbarium and types
 

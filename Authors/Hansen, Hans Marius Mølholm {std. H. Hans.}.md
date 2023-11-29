@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33068289) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33068289) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3630-1), [Wikidata](https://www.wikidata.org/wiki/Q21514637). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hansen, Hans Marius Mølholm (1899-1960), Danish lichenologist and plant geographer at Copenhagen. 
-**Abbreviated name**: *H. Hans.*
+**Abbreviated name**: *H. Hans.* \[standard form in IPNI: *H.M.M.Hansen*\]
 
 #### Herbarium and types
 

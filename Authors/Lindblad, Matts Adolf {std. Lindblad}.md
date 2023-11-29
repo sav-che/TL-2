@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33355087) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33355087) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22369-1), [Wikidata](https://www.wikidata.org/wiki/Q16383290). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lindblad, Matts Adolf (1821-1899), Swedish botanist; Dr. phil. Ups. 1854; lecturer in botany at Uppsala 1855-1873. 
-**Abbreviated name**: *Lindblad*
+**Abbreviated name**: *Lindblad* \[standard form in IPNI: *Lindblad*\]
 
 #### Herbarium and types
 

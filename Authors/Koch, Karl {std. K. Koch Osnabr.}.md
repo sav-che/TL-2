@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33068830) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33068830) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/35178-1), [Wikidata](https://www.wikidata.org/wiki/Q15428858). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koch, Karl (*fl*. 1934), German high school teacher and botanist at Osnabrück. 
-**Abbreviated name**: *K. Koch Osnabr.*
+**Abbreviated name**: *K. Koch Osnabr.* \[standard form in IPNI: *K.Koch bis*\]
 
 #### Herbarium and types
 

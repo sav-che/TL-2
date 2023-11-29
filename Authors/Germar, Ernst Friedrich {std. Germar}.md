@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 936](https://www.biodiversitylibrary.org/page/33121067) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 936](https://www.biodiversitylibrary.org/page/33121067) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3107-1), [Wikidata](https://www.wikidata.org/wiki/Q65715). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Germar, Ernst Friedrich (1786-1853), German mining expert ("Bergrath") and professor at Halle. 
-**Abbreviated name**: *Germar*
+**Abbreviated name**: *Germar* \[standard form in IPNI: *Germar*\]
 
 #### Collections
 

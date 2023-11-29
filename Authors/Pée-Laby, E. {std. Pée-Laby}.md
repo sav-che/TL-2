@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33189616) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33189616) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7464-1), [Wikidata](https://www.wikidata.org/wiki/Q36548677). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pée-Laby, E. (*fl*. 1891), French algologist; Dr. Sci; assistant at the botany department of the Faculté des Sciences, Toulouse 
-**Abbreviated name**: *Pée-Laby*
+**Abbreviated name**: *Pée-Laby* \[standard form in IPNI: *Pée-Laby*\]
 
 #### Herbarium and types
 

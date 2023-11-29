@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 905](https://www.biodiversitylibrary.org/page/33121036) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 905](https://www.biodiversitylibrary.org/page/33121036) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2985-1), [Wikidata](https://www.wikidata.org/wiki/Q513612). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gaillon, François Benjamin (1782-1839), French algologist. 
-**Abbreviated name**: *Gaillon*
+**Abbreviated name**: *Gaillon* \[standard form in IPNI: *Gaillon*\]
 
 #### Herbarium and types
 

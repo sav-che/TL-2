@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33264936) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33264936) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/331-1), [Wikidata](https://www.wikidata.org/wiki/Q6161518). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Audibert, Urbain (1791-1846), French nurseryman and botanist at Tonelle, Tarascon (Dépt. Bouches-du-Rhône), collected in Corsica with Requien (1822). 
-**Abbreviated name**: *Audib.*
+**Abbreviated name**: *Audib.* \[standard form in IPNI: *Audib.*\]
 
 #### Herbarium and types
 

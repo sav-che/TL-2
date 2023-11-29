@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33333567) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33333567) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9365-1), [Wikidata](https://www.wikidata.org/wiki/Q63917). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schweigger, August Friedrich (1783-1821), German (Bavarian) botanist and zoologist; Dr. med. chir. Erlangen 1804; with Willdenow in Berlin; from 1809-1821 director of the botanical garden and professor of botany at Königsberg; travelled in Western, Southern and Central Europe; murdered near Girgenti in Sicily. 
-**Abbreviated name**: *Schweigg.*
+**Abbreviated name**: *Schweigg.* \[standard form in IPNI: *Schweigg.*\]
 
 #### Herbarium and types
 

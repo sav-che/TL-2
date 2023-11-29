@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/page/33334059) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/page/33334059) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10135-1), [Wikidata](https://www.wikidata.org/wiki/Q21393662). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steward, Albert Newton (1897-1959), American botanist; B.S. Oregon State 1921; botanist at Nanking University 1921-1926; assistant Harvard Univ.; Dr. phil. Harvard 1930; professor of botany at Nanking University 1930-1950; at the Arnold Arboretum 1950-1951; curator of the Oregon State College herbarium 1951-1959. 
-**Abbreviated name**: *Steward*
+**Abbreviated name**: *Steward* \[standard form in IPNI: *Steward*\]
 
 #### Herbarium and types
 

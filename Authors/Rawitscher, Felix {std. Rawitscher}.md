@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33190074) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33190074) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8187-1), [Wikidata](https://www.wikidata.org/wiki/Q19279537). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rawitscher, Felix (1890-1957), German botanist; student of F. Oltmanns; Dr. phil. Freiburg 1912; student of Pfeffer 1913-1914; assistant with Oltmanns at Freiburg i.B.; habil. ib. 1921; extraord. prof. forestry botany ib. 1927-1934; professor at the University of São Paulo, Brazil, 1934-1952; Dr. h.c. São Paulo 1955; back in Germany 1952-1957. 
-**Abbreviated name**: *Rawitscher*
+**Abbreviated name**: *Rawitscher* \[standard form in IPNI: *Rawitscher*\]
 
 #### Herbarium and types
 

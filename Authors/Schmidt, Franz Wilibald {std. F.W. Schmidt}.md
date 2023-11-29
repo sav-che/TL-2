@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33333387) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33333387) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9158-1), [Wikidata](https://www.wikidata.org/wiki/Q596611). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidt, Franz Wilibald (1764-1796), Bohemian botanist and physician; professor of botany at Praha University; Dr. phil. Praha 1793. 
-**Abbreviated name**: *F.W. Schmidt*
+**Abbreviated name**: *F.W. Schmidt* \[standard form in IPNI: *F.W.Schmidt*\]
 
 #### Herbarium and types
 

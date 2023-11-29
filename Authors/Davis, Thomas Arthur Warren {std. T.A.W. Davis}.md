@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259154) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259154) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2035-1), [Wikidata](https://www.wikidata.org/wiki/Q21509944). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Davis, Thomas Arthur Warren (1899-1980), British botanist, born 12 April 1899 at Trewarren, St. Ishmail's, Dyfed, died 1980, second lieutenant Indian Army from 1917-1919, in the Colonial Service 1919-1925, visited British Guyana 1929. 
-**Abbreviated name**: *T.A.W. Davis*
+**Abbreviated name**: *T.A.W. Davis* \[standard form in IPNI: *T.A.W.Davis*\]
 
 #### Herbarium and types
 

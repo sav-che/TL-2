@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33068469) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33068469) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3998-1), [Wikidata](https://www.wikidata.org/wiki/Q21515942). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Högberg, Johan Daniel (1823-1843), Swedish student pharmacist and botanist at Strängnäs and Uppsala. 
-**Abbreviated name**: *Högb.*
+**Abbreviated name**: *Högb.* \[standard form in IPNI: *Högb.*\]
 
 #### Herbarium and types
 

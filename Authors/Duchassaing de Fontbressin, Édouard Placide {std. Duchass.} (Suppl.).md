@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-09-15 04:16:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33260122) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33260122) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2345-1), [Wikidata](https://www.wikidata.org/wiki/Q3579998). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Duchassaing de Fontbressin, Èdouard Placide {std. Duchass.}|first entry]] for this author
 
 ### Author
 
 \* Duchassaing de Fontbressin, Édouard Placide (1818-1873), Dr. med. with "Licentiat" of natural sciences, born 1 Dec 1818 in Moule on Guadeloupe, died 16 Sep 1873 in Périgord, France, medical degree in Paris, returned to practice medicine at Guadeloupe, collected 1844-1848 at St. Thomas, from 1848 at Santa Marta near Panama, stayed several years in Panama, again to Guadeloupe 1851, later in St. Thomas, returned in 1867 to France. 
-**Abbreviated name**: *Duchass.*
+**Abbreviated name**: *Duchass.* \[standard form in IPNI: *Duchass.*\]
 
 #### Herbarium and types
 

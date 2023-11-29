@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33265336) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33265336) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/736-1), [Wikidata](https://www.wikidata.org/wiki/Q21506036). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Besse, François Maurice (1864-1924), Swiss clergyman and botanist, canon at the monastery of the Grand Saint Bernard, professor of natural sciences at Lens, sometime president of the Société Murithienne. 
-**Abbreviated name**: *Besse*
+**Abbreviated name**: *Besse* \[standard form in IPNI: *Besse*\]
 
 #### Herbarium and types
 

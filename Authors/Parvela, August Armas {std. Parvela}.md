@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33189555) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33189555) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7373-1), [Wikidata](https://www.wikidata.org/wiki/Q21522663). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parvela, August Armas (1885-1953), Finnish botanist. 
-**Abbreviated name**: *Parvela*
+**Abbreviated name**: *Parvela* \[standard form in IPNI: *Parvela*\]
 
 #### Herbarium and types
 

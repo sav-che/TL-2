@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33265696) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33265696) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/32662-1), [Wikidata](https://www.wikidata.org/wiki/Q36621916). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Celan, Maria \[Marie\] (fl. 1935-1938), Roumanian algologist, Lic. Sci. nat., "chef de la travaux au Laboratoire de l’Université Mihǎileanǎ de Jaşi",worked on systematics, ecology and cytology of algae. 
-**Abbreviated name**: *Celan*
+**Abbreviated name**: *Celan* \[standard form in IPNI: *Celan*\]
 
 #### Herbarium and types
 

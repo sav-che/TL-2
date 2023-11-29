@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33355295) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33355295) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23118-1), [Wikidata](https://www.wikidata.org/wiki/Q21520199). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 M'Andrew \[McAndrew\], James (1836-1917), British school-teacher and botanist. 
-**Abbreviated name**: *M'Andrew*
+**Abbreviated name**: *M'Andrew* \[standard form in IPNI: *McAndr.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2005-04-04 16:27:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33265382) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33265382) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16182-1), [Wikidata](https://www.wikidata.org/wiki/Q5578375). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bjørnström, Fredrik Johan (1833-1889), Swedish (Stockholm-born) botanist, studied at Uppsala University 1851, fil. kand. theology 1856, Dr. phil. ib. 1857, physician at Uppsala 1864, ultimately at the Stockholm "hospital", extraordinary professor in psychiatry at the Karolingska Inst. 1884, died at Konradsberg nr. Stockholm 1889. 
-**Abbreviated name**: *Bjørnstr.*
+**Abbreviated name**: *Bjørnstr.* \[standard form in IPNI: *Björnstr.*\]
 
 #### Herbarium and types
 

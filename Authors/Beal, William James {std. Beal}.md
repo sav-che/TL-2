@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33265198) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33265198) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/577-1), [Wikidata](https://www.wikidata.org/wiki/Q8013434). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Beal, William James (1833-1924), American (Michigan) botanist (agrostologist), studied at the University of Michigan, A.B. 1859, A.M. 1863, at Harvard B.Sc. 1865, student of Asa Gray and Louis Agassiz, teacher at the Friends Academy, Union Springs, N.Y. 1859-1868, professor of botany Michigan Agricultural College \[h.t. Michigan State University\] 1870-1872, id. professor of botany and horticulture (incl. forestry) 1872-1910, M.S. Chicago 1875, Ph.D. Michigan 1880 (hon.), director of the Beal Botanic Garden, East Lansing 1877-1910. 
-**Abbreviated name**: *Beal*
+**Abbreviated name**: *Beal* \[standard form in IPNI: *Beal*\]
 
 #### Herbarium and types
 

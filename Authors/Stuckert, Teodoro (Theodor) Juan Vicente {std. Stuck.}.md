@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33212059) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33212059) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10243-1), [Wikidata](https://www.wikidata.org/wiki/Q6141779). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stuckert, Teodoro \[Theodor\] Juan Vicente (1852-1932), Swiss botanist and pharmacist; studied pharmacy in Tucumán and Cordoba; practicing pharmacist in Cordoba from 1885; professor of natural sciences at the Escuela Nacional de Agricultura, Cordoba 1903-1905; Swiss consul at Cordoba 1906-1912; in Genève 1913. 
-**Abbreviated name**: *Stuck.*
+**Abbreviated name**: *Stuck.* \[standard form in IPNI: *Stuck.*\]
 
 #### Herbarium and types
 

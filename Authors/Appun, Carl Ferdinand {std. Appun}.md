@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33264865) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33264865) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/35749-1), [Wikidata](https://www.wikidata.org/wiki/Q65980). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Appun, Carl Ferdinand (1820-1872), German (Bunzlau born) traveller and botanical collector, collected in Venezuela and the Guyanas (mainly in British Guyana 1863-1867). 
-**Abbreviated name**: *Appun*
+**Abbreviated name**: *Appun* \[standard form in IPNI: *Appun*\]
 
 #### Herbarium and types
 

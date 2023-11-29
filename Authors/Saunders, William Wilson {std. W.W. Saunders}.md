@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33333207) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33333207) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8957-1), [Wikidata](https://www.wikidata.org/wiki/Q1223057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saunders, William Wilson (1809-1879), English botanist, horticulturist and entomologist; with the East India Company 1830-1832; underwriter at Lloyds, London 1832-1873; treasurer Linnean Society, London 1861-1873; had large living collections of plants at East Hill, Wandsworth, from 1857 at Hallfield, Reigate; from 1874 in retirement at Raystead, Worthing. 
-**Abbreviated name**: *W.W. Saunders*
+**Abbreviated name**: *W.W. Saunders* \[standard form in IPNI: *Saunders*\]
 
 #### Herbarium and types
 

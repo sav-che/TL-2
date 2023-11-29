@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33068727) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33068727) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4615-1), [Wikidata](https://www.wikidata.org/wiki/Q21517216). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kain, Charles Henri (x-1913), American teacher and diatomologist in Camden (1864) and Philadelphia (1874). 
-**Abbreviated name**: *Kain*
+**Abbreviated name**: *Kain* \[standard form in IPNI: *Kain*\]
 
 #### Herbarium and types
 

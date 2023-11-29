@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33266112) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33266112) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/13471-1), [Wikidata](https://www.wikidata.org/wiki/Q36622674). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cowell, Matthew Henry (fl. 1830-1840), British botanist of Faversham, Kent. 
-**Abbreviated name**: *Cowell*
+**Abbreviated name**: *Cowell* \[standard form in IPNI: *Cowell*\]
 
 #### Herbarium and types
 

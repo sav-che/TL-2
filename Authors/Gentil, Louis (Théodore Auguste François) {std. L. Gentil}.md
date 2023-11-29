@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33258657) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33258657) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3083-1), [Wikidata](https://www.wikidata.org/wiki/Q21394877). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gentil, Louis \[Théodore Auguste François\] (1874-1949), Belgian botanist, born Oct 1874 in Liège, trained at the School of Horticulture, Tournai, Belgium, employed by Petersham nurseries, London, then Messrs. James Veitch & Sons, Chelsea and finally the Royal Botanic Gardens, Kew 1896-1897, dir., coffee and cocoa plantations, Equatorville (now Mbandaka), Congo Free State, Inspecteur forestier, Congo Free State, chief of culture 1902 at the State Botanic Garden in Bruxelles, retired 1939. 
-**Abbreviated name**: *L. Gentil*
+**Abbreviated name**: *L. Gentil* \[standard form in IPNI: *L.Gentil*\]
 
 #### Note
 

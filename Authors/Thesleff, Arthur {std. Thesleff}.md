@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33212297) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33212297) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10561-1), [Wikidata](https://www.wikidata.org/wiki/Q5438851). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thesleff, Arthur (1871-1920), Finnish mycologist; sometime amanuensis with the Helsinki University library; leader of a Finnish immigrant colony in Argentina; ultimately in Stockholm. 
-**Abbreviated name**: *Thesleff*
+**Abbreviated name**: *Thesleff* \[standard form in IPNI: *Thesleff*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33264773) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33264773) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/20034583-1), [Wikidata](https://www.wikidata.org/wiki/Q88804305). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Abbado, Michele (fl. 1900-1915), Italian phytopathologist, Dr. sci. nat., assistant at the R. Scuola superiore d'Agricoltura, and professor of natural history at the Lyceum Beccacia, Milano. 
-**Abbreviated name**: *Abbado*
+**Abbreviated name**: *Abbado* \[standard form in IPNI: *Abbado*\]
 
 #### Herbarium and types
 

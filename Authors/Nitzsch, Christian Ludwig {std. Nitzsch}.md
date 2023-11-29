@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33355843) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33355843) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7004-1), [Wikidata](https://www.wikidata.org/wiki/Q63822). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nitzsch, Christian Ludwig (1782-1837), German zoologist and algologist; from 1815 professor of natural history at Halle. 
-**Abbreviated name**: *Nitzsch*
+**Abbreviated name**: *Nitzsch* \[standard form in IPNI: *Nitzsch*\]
 
 #### Herbarium and types
 

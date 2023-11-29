@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-06-13 05:18:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33189775) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33189775) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7770-1), [Wikidata](https://www.wikidata.org/wiki/Q8343509). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pobéguin, Charles Henri Oliver (1856-1951), French botanist and colonial administrator in French Africa (Ivory Coast, Comores, Guinea, Equatorial Africa, Congo) 1892-1923. 
-**Abbreviated name**: *Pobég.*
+**Abbreviated name**: *Pobég.* \[standard form in IPNI: *Pobég.*\]
 
 #### Herbarium and types
 

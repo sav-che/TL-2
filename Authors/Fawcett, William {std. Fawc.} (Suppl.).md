@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33259579) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33259579) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2652-1), [Wikidata](https://www.wikidata.org/wiki/Q3568610). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fawcett, William {std. Fawc.}|first entry]] for this author
 
 ### Author
 
 \* Fawcett, William (1851-1926), Irish-born British botanist and agronomist, born 13 Feb 1851 in Arklow (Co. Wicklow), educated at Dulwich College and taught in Kent, England, B.Sc. 1879 King's College, London Univ., asst., Dept. of Botany, BMNH 1880-1886, F.L.S. 1881, dir. of Public Gardens & Plantations, Jamaica 1886-1908, collected extensively in Cayman Isls. 1888, in retirement returned to the BMNH and worked with A.B. Rendle on the *Flora of Jamaica*, died 14 Aug 1926 in Blackheath nr. London. 
-**Abbreviated name**: *Fawc.*
+**Abbreviated name**: *Fawc.* \[standard form in IPNI: *Fawc.*\]
 
 #### Herbarium and types
 

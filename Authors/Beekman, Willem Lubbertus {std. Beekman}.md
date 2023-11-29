@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33265237) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33265237) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/34352-1), [Wikidata](https://www.wikidata.org/wiki/Q36699778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Beekman, Willem Lubbertus (1895-x), Dutch botanist, born in Sappemeer nr. Groningen; studied at the University of Groningen, Dr. phil. ib. 12 Jan 1924. 
-**Abbreviated name**: *Beekman*
+**Abbreviated name**: *Beekman* \[standard form in IPNI: *Beekman*\]
 
 #### Herbarium and types
 

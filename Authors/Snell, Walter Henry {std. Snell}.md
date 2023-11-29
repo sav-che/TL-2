@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33333849) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33333849) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26959-1), [Wikidata](https://www.wikidata.org/wiki/Q4425579). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Snell, Walter Henry (1889-1980), American mycologist; baseball player for Yale, Brown and Boston; studied botany at Brown Univ. from 1913; professional baseball player 1913-1916; forest pathologist Madison Wisc., 1918-1920; Dr. phil. Madison Wisc. 1920; forest pathologist with the New York State Department of Conservation from 1920; professor of botany at Brown University 1920-1959; emeritus professor id. from 1959. 
-**Abbreviated name**: *Snell*
+**Abbreviated name**: *Snell* \[standard form in IPNI: *Snell*\]
 
 #### Herbarium and types
 

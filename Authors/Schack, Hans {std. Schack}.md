@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33333240) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33333240) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9001-1), [Wikidata](https://www.wikidata.org/wiki/Q1583166). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schack, Hans (1878-1946), German (Bavarian) lawyer and botanist; judge ("Landesgerichtsdirector") at Coburg, later (from 1930) idem (Reichsgerichtsrat) at Leipzig; interested in Hieracium and Rubus. 
-**Abbreviated name**: *Schack*
+**Abbreviated name**: *Schack* \[standard form in IPNI: *Schack*\]
 
 #### Herbarium and types
 

@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33259540) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33259540) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18653-1), [Wikidata](https://www.wikidata.org/wiki/Q2701736). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Farlow, William Gilson {std. Farl.}|first entry]] for this author
 
 ### Author
 
 \* Farlow, William Gilson \[sometimes miscited as Gibson\] (1844-1919), American botanist (cryptogamist), born 17 Dec 1844 nr. Boston, attended Boston public schools, A.B. 1866, A.M. 1869 and M.D. 1870 Harvard Univ., Cambridge, Mass., invited by A. Gray to be his asst., esp. for instruction in cryptogams Jul 1870-Jun 1872, then studied in Europe (Germany, France and Scandinavia), esp. with A. de Bary, Ph.D. 1874 Univ. of Strassburg, Asst. Prof. of Botany, 1874 and then Prof. of Cryptogamic Botany, Harvard Univ. 1879-1919, received many honors from American and foreign societies and universities, incl. LL.D. 1896 Harvard Univ., 1901 Univ. of Glasgow, 1904 Univ. of Wisconsin and 1907 Univ. of Uppsala, died 3 Jun 1919 in Cambridge, Mass. 
-**Abbreviated name**: *Farl.*
+**Abbreviated name**: *Farl.* \[standard form in IPNI: *Farl.*\]
 
 #### Herbarium and types
 

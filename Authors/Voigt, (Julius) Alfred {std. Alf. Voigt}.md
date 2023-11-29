@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/page/33212816) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/page/33212816) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12977-1), [Wikidata](https://www.wikidata.org/wiki/Q21611850). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Voigt, \[Julius\] Alfred (1864-1935), German (Hamburg) botanist; Dr. phil. Hamb. 1889; assistant at the Hamburg Botanical Institute; professor of botany ib. and head of the department of applied botany 1905; regular professor of botany and head of the Hamburg Institute for applied botany 1919. 
-**Abbreviated name**: *Alf. Voigt*
+**Abbreviated name**: *Alf. Voigt* \[standard form in IPNI: *Alf.Voigt*\]
 
 #### Herbarium and types
 

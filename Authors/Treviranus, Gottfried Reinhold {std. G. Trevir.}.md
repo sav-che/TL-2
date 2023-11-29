@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/page/33212517) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/page/33212517) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10814-1), [Wikidata](https://www.wikidata.org/wiki/Q60309). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Treviranus, Gottfried Reinhold (1776-1837), German (Bremen) biologist, brother of Ludolph Christian Treviranus; studied medicine at Göttingen 1793-1796; Dr. med. ib. 1796; professor of mathematics and medicine at the Bremen Lyceum ("gymnasium illustre") and practicing physician in Bremen 1797-1837; introduced the notion of biology as the science of life in Germany (1802) almost simultaneously with Lamarck in France. 
-**Abbreviated name**: *G. Trevir.*
+**Abbreviated name**: *G. Trevir.* \[standard form in IPNI: *G.Trevir.*\]
 
 #### Herbarium and types
 

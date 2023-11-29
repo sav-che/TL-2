@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-02-13 12:29:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33120727) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33120727) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1983-1), [Wikidata](https://www.wikidata.org/wiki/Q977692). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dangeard, Pierre (Jean Louis) {std. P.J.L. Dang.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dangeard, Pierre Jean Louis (1895-1970), French algologist at Bordeaux, son of P. C. A. Dangeard. 
-**Abbreviated name**: *P.J.L. Dang.*
+**Abbreviated name**: *P.J.L. Dang.* \[standard form in IPNI: *P.J.L.Dang.*\]
 
 #### Herbarium and types
 

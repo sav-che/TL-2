@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2005-10-18 04:55:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33260379) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33260379) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18534-1), [Wikidata](https://www.wikidata.org/wiki/Q5716580). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Eriksson, Jakob {std. Erikss.}|first entry]] for this author
 
 ### Author
 
 \* Eriksson, Jakob (1848-1931), Swedish botanist, born 30 Sep 1848 at Hyllie near Malmö, studied at the University of Lund, Ph.D. in 1874, appointed in the same year as lecturer, called to Stockholm in 1875 in one of the State colleges, also plant physiologist at the Academy of Agriculture, 1885 professor of plant physiology at the Academy until 1913, continued research until shortly before his death at 26 Apr 1931. 
-**Abbreviated name**: *Erikss.*
+**Abbreviated name**: *Erikss.* \[standard form in IPNI: *Erikss.*\]
 
 #### Herbarium and types
 

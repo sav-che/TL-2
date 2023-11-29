@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33355228) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33355228) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5704-1), [Wikidata](https://www.wikidata.org/wiki/Q21519518). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lösecke, August Georg von (1837-1912), German mycologist and pharmacist. 
-**Abbreviated name**: *Lösecke*
+**Abbreviated name**: *Lösecke* \[standard form in IPNI: *Lösecke*\]
 
 #### Herbarium and types
 

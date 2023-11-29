@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33121000) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33121000) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2869-1), [Wikidata](https://www.wikidata.org/wiki/Q377208). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Franchet, Adrien René {std. Franch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Franchet, Adrien René (1834-1900), French botanist working at the Museum d'Histoire naturelle at Paris. 
-**Abbreviated name**: *Franch.*
+**Abbreviated name**: *Franch.* \[standard form in IPNI: *Franch.*\]
 
 #### Herbarium and types
 

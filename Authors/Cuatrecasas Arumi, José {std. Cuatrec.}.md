@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33266165) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33266165) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17562-1), [Wikidata](https://www.wikidata.org/wiki/Q3088960). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cuatrecasas Arumi, José (1903-x), Spanish born botanist, Pharm. Dr. 1923 at Barcelona, assistant in botany 1924-1931, Bot. Dr. Madrid 1928, professor of systematic botany at Madrid 1931, later also professor of botany at the University of Bogota (1939-1942) and Cali (1943-1947), some time curator of Colombian Botany at the Chicago Natural History Museum, Fellow of the Guggenheim Memorial foundation, investigator for taxonomic study of Colombia by the National Science Foundation of Washington. 
-**Abbreviated name**: *Cuatrec.*
+**Abbreviated name**: *Cuatrec.* \[standard form in IPNI: *Cuatrec.*\]
 
 #### Herbarium and types
 

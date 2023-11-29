@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33259343) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33259343) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/18030-1), [Wikidata](https://www.wikidata.org/wiki/Q77123). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Diels, Friedrich Ludwig Emil {std. Diels}|first entry]] for this author
 
 ### Author
 
 \* Diels, Friedrich Ludwig Emil (1874-1945), German botanist, born 24 Sep 1874 Hamburg, died 30 Nov 1945 Berlin, 1886 at Joachimsthalsches Gymnasium Berlin, "Abitur" 1893, "Studium" Univ. Berlin, "Schüler" of S. Schwendener, Dr. Phil. 1896, "Assistent" at Bot. Mus. Berlin-Dahlem, "Pr. Doz." 1900, prof. title 1906, idem at Marburg 1908, at University of Berlin 1913, prof. bot. 1921, "General-Director" Bot. Gard. Mus. Berlin-Dahlem, Dr. h.c. Univ. Cambridge, 1935 "Ehrenpräsident" at the international botanical congress at Amsterdam. 
-**Abbreviated name**: *Diels*
+**Abbreviated name**: *Diels* \[standard form in IPNI: *Diels*\]
 
 #### Herbarium and types
 

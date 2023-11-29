@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33120744) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33120744) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2095-1), [Wikidata](https://www.wikidata.org/wiki/Q121955). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Delaroche, Daniel (1743-1812), Swiss botanist and physician. 
-**Abbreviated name**: *D. Delaroche*
+**Abbreviated name**: *D. Delaroche* \[standard form in IPNI: *D.Delaroche*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33259719) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33259719) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/38524-1), [Wikidata](https://www.wikidata.org/wiki/Q1692523). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fischer, Johann\[es\] Baptist\[us\] (1803-1832), German-born physician, botanist and zoologist who lived in The Netherlands, asst. of C.L. Blume at the Rijksherbarium in Brussels (then capital of The Netherlands and Belgium) and evidently responsible with P.F. von Siebold (in the absence of Blume who is said to have been on his honeymoon) for evacuating this herb. from Brussels to Leiden in 1830 at the outbreak of the revolt in the s. Netherlands, died 26 Mai 1832 in Leiden. 
-**Abbreviated name**: *J.B. Fisch.*
+**Abbreviated name**: *J.B. Fisch.* \[standard form in IPNI: *J.B.Fisch.*\]
 
 #### Herbarium and types
 

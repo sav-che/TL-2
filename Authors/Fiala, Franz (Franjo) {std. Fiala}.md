@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33259675) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33259675) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2708-1), [Wikidata](https://www.wikidata.org/wiki/Q1446766). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fiala, Franz \[Franjo\] (1861-1898), Austro-Hungarian botanist and paleobotanist, born 14 Apr 1861 in Brünn (Brno), 1896 became curator ("custos") of the Bosnian-Herzegovinan Museum in Sarajevo, died 28 Jan 1898 in Sarajevo only 36 years of age. 
-**Abbreviated name**: *Fiala*
+**Abbreviated name**: *Fiala* \[standard form in IPNI: *Fiala*\]
 
 #### Herbarium and types
 

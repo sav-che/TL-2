@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33066486) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33066486) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12998-1), [Wikidata](https://www.wikidata.org/wiki/Q1040980). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wehmer, Carl \[Friedrich Wilhelm\] (1858-1935), German (Hannoverian) botanist; studied at Göttingen, Jena and Berlin 1877-1881, 1884-1886; Dr. phil. Göttingen 1886; assistant Botanical Institute Univ. Marburg 1888; id. Leipzig 1890; habil. Techn. Hochschule Hannover 1892; lecturer ib. 1892-1898; professor's title 1898; professor of bacteriology and technical mycology 1910-1918; regular professor 1918 (1919). 
-**Abbreviated name**: *Wehmer*
+**Abbreviated name**: *Wehmer* \[standard form in IPNI: *Wehmer*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33258707) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33258707) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19366-1), [Wikidata](https://www.wikidata.org/wiki/Q17284981). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Giordano, Giuseppe Camillo (1841-1901), Italian bryologist, born 1 Mar 1841 in Pomarico (Basilicata), educated in Matera, studied at the Royal Technical and Nautical Inst., Naples, student of N.A. Pedicino, taught natural history in secondary school and ultimately prof. at the Technical Inst., Naples, died 17 Nov 1901 in Bernalda (Basilicata) nr. Naples. 
-**Abbreviated name**: *G.C. Giord.*
+**Abbreviated name**: *G.C. Giord.* \[standard form in IPNI: *G.C.Giord.*\]
 
 #### Note
 

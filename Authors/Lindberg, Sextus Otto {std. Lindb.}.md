@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33355080) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33355080) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22368-1), [Wikidata](https://www.wikidata.org/wiki/Q3302587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lindberg, Sextus Otto (1835-1889), Swedish bryologist (from 1865 Finnish); educated at Stockholm and Uppsala; teacher at the Pharmaceutical Institution of Stockholm (1862-1865); professor of botany at Helsingfors University (successor to W. Nylander) 1865-1889. 
-**Abbreviated name**: *Lindb.*
+**Abbreviated name**: *Lindb.* \[standard form in IPNI: *Lindb.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/page/33120606) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/page/33120606) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1469-1), [Wikidata](https://www.wikidata.org/wiki/Q3745143). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cavolini, Filippo (lat. Caulinus) (1756-1810), Italian botanist at Napoli. 
-**Abbreviated name**: *Cavolini*
+**Abbreviated name**: *Cavolini* \[standard form in IPNI: *Cavolini*\]
 
 #### Herbarium and types
 

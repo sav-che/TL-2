@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33355272) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33355272) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5813-1), [Wikidata](https://www.wikidata.org/wiki/Q16941971). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lüders, Friedrich Wilhelm Anton (1751-1810), German botanist and physician at Havelberg. 
-**Abbreviated name**: *Lüders*
+**Abbreviated name**: *Lüders* \[standard form in IPNI: *Lüders*\]
 
 #### Herbarium and types
 

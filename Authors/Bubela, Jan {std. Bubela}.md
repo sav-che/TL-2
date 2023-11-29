@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33266487) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33266487) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/20014011-2), [Wikidata](https://www.wikidata.org/wiki/Q36587384). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bubela, Jan (1855-1889), Moravian reality proprietor at Vsetín in Moravia (Mähren). 
-**Abbreviated name**: *Bubela*
+**Abbreviated name**: *Bubela* \[standard form in IPNI: *Bubela*\]
 
 #### Herbarium and types
 

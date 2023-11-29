@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33355264) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33355264) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22570-1), [Wikidata](https://www.wikidata.org/wiki/Q6290551). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lowe, Josiah Lincoln (1905-x), American lichenologist and mycologist at Syracuse; Ph. D. Mich. Univ. 1938; assistant botanist Syracuse 1933-1938; Instructor ib. 1938-1944; assistant professor ib. 1944-1947; associate professor 1947-1951; professor of forest botany 1952-1959; research prof. 1959. 
-**Abbreviated name**: *J. Lowe*
+**Abbreviated name**: *J. Lowe* \[standard form in IPNI: *J.Lowe*\]
 
 #### Herbarium and types
 

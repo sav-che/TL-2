@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33190319) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33190319) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8504-1), [Wikidata](https://www.wikidata.org/wiki/Q112649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Römer, Julius (1848-1926), Transilvanian botanist from Kronstadt (Hung.: Brasso; after 1920 Brasov, Rumania); studied in Wien, Jena (with E. Haeckel) and Heidelberg; teacher at a girl's college in Kronstadt; Dr. phil. h.c. Breslau 1925. 
-**Abbreviated name**: *Jul. Röm.*
+**Abbreviated name**: *Jul. Röm.* \[standard form in IPNI: *J.Römer*\]
 
 #### Herbarium and types
 

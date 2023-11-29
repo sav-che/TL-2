@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33355208) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33355208) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22430-1), [Wikidata](https://www.wikidata.org/wiki/Q21340844). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Litschauer, Viktor (1879-1939), Austrian mycologist; studied at Vienna under v. Höhnel 1899-1903; lecturer at the Vienna "Gewerbemuseum" 1903-1908; from 1908-1936 professor of natural history at the "Handelsakademie", Innsbruck. 
-**Abbreviated name**: *Litsch.*
+**Abbreviated name**: *Litsch.* \[standard form in IPNI: *Litsch.*\]
 
 #### Herbarium and types
 

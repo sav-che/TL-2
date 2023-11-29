@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33066878) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33066878) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12030-1), [Wikidata](https://www.wikidata.org/wiki/Q21613652). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zigra, Johannes Hermann (1775-1857), German (Lübeck) botanist and horticulturist at Riga. 
-**Abbreviated name**: *Zigra*
+**Abbreviated name**: *Zigra* \[standard form in IPNI: *Zigra*\]
 
 #### Herbarium and types
 

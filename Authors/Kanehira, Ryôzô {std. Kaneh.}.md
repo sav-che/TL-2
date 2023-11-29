@@ -27,14 +27,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33068735) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33068735) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4633-1), [Wikidata](https://www.wikidata.org/wiki/Q5935389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kanehira, Ryôzô, (1882-1948), Japanese botanist, director of the Department of Forestry, Formosa, later at Fukuoka. 
-**Abbreviated name**: *Kaneh.*
+**Abbreviated name**: *Kaneh.* \[standard form in IPNI: *Kaneh.*\]
 
 #### Herbarium and types
 

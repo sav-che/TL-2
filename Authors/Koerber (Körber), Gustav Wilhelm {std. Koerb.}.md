@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33068845) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33068845) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4923-1), [Wikidata](https://www.wikidata.org/wiki/Q4251443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koerber (Körber), Gustav Wilhelm (1817-1885), German-Silesian lichenologist; from 1842 high school teacher at the Elisabeth Gymnasium at Breslau; Dr. phil. berol. 1839, royal professor 1862, extraord. prof. at Breslau University 1873; with Massalongo founder of the "Italian-Silesian" school of lichenology. 
-**Abbreviated name**: *Koerb.*
+**Abbreviated name**: *Koerb.* \[standard form in IPNI: *Körb.*\]
 
 #### Herbarium and types
 

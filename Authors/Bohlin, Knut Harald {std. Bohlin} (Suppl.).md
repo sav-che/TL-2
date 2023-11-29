@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33265470) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33265470) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/909-1), [Wikidata](https://www.wikidata.org/wiki/Q5580748). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bohlin, Knut Harald {std. Bohlin}|first entry]] for this author
 
 ### Author
 
 \* Bohlin, Knut Harald (1869-1956), Swedish botanist (phycologist), educated at Södermalms secondary grammar school in Stockholm until 1887, studied at the University of Uppsala, fil. kand. 1892, fil. lic. 1898, fil. dr. 1901, lecturer in botany at a college at Stockholm 1901, lector in natural history and chemistry at Södermalms sec. gramm. school 1901-1914, rector of a school in Stockholm from 1914. 
-**Abbreviated name**: *Bohlin*
+**Abbreviated name**: *Bohlin* \[standard form in IPNI: *Bohlin*\]
 
 #### Herbarium and types
 

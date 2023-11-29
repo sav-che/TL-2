@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33259175) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33259175) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2059-1), [Wikidata](https://www.wikidata.org/wiki/Q21510101). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Debey, Matthias Dominikus Hubert Maria {std. Debey}|first entry]] for this author
 
 ### Author
 
 \* Debey, Matthias \[Dominikus\] Humbert \[Maria\] (1817-1884), German palaeobotanist and physician, born 23 Aug 1817 and died 19 Mar 1884 at Aachen, educated at the Aachen Gymnasium ("Münstereifel"), studied medicine in Bonn and Berlin, Dr. med. Berlin 1840, studied medicine in Paris also, from 1841 physician in Aachen. 
-**Abbreviated name**: *Debey*
+**Abbreviated name**: *Debey* \[standard form in IPNI: *Debey*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33333204) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33333204) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8952-1), [Wikidata](https://www.wikidata.org/wiki/Q21607776). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saunders, De Alton (1870-1940), American botanist; MA Univ. Nebraska 1894; professor at South Dakota College 1896; plant breeder with USDA 1897; with E.H. Harriman on the Alaska 1899 expedition. 
-**Abbreviated name**: *D.A. Saunders*
+**Abbreviated name**: *D.A. Saunders* \[standard form in IPNI: *D.A.Saunders*\]
 
 #### Herbarium and types
 

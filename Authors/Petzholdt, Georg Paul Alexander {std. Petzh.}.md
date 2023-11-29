@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33189684) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33189684) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7606-1), [Wikidata](https://www.wikidata.org/wiki/Q21522916). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petzholdt, Georg Paul Alexander (1810-1889), German (Saxonian) botanist, published on palaeobotany, agriculture and peat research; originally physician at Dresden; from 1846 professor of agronomy and technology at Dorpat (Tartu); later in retirement at Freiburg i. Br. 
-**Abbreviated name**: *Petzh.*
+**Abbreviated name**: *Petzh.* \[standard form in IPNI: *Petzh.*\]
 
 #### Herbarium and types
 

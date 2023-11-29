@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33190324) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33190324) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8511-1), [Wikidata](https://www.wikidata.org/wiki/Q47125254). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roesch, Charles (*fl*. 1894), French (Alsatian) diatomologist. 
-**Abbreviated name**: *Roesch*
+**Abbreviated name**: *Roesch* \[standard form in IPNI: *Roesch*\]
 
 #### Herbarium and types
 

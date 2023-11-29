@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33265234) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33265234) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/15865-1), [Wikidata](https://www.wikidata.org/wiki/Q21505861). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Beckmann, Karl \["Carl"\] Ludwig (1845-1898), German (Northeim, Prov. Hannover) pharmacist and botanist, apprentice at the Raths-Apotheke in Hildesheim 1859-1863, assistant at various pharmacies in the province Hannover 1863-1865; studied pharmacy at the University of Göttingen 1865-1868; in charge of a pharmacy in Bielefeld 1868-1870; acquired the pharmacy at Bassum 1870, practicing 1870-1890; moved to Hannover, set up a new pharmacy, the Flora-Apotheke, continuing his practice until 1898. 
-**Abbreviated name**: *C.L. Beckm.*
+**Abbreviated name**: *C.L. Beckm.* \[standard form in IPNI: *C.L.Beckm.*\]
 
 #### Herbarium and types
 

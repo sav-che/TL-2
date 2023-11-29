@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33333978) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33333978) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/27136-1), [Wikidata](https://www.wikidata.org/wiki/Q78630). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stapf, Otto (1857-1933), Austrian botanist; Dr. phil. Wien 1908; assistant with Kerner von Marilaun, Wien 1882-1889; in Persia 1885; habil. Univ. Wien 1887; assistant at the Royal Botanic Gardens, Kew 1890, principal assistant 1899, keeper of the herbarium 1909-1922, botanical secretary of the Linnean Society 1908-1916; in retirement at Kew as editor of the *Botanical Magazine* 1922-1933 and of the *Index londinensis*; died on a summer trip to Austria. 
-**Abbreviated name**: *Stapf.*
+**Abbreviated name**: *Stapf.* \[standard form in IPNI: *Stapf*\]
 
 #### Herbarium and types
 

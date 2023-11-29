@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33189819) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33189819) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7871-1), [Wikidata](https://www.wikidata.org/wiki/Q19921906). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Poscharsky, Gustav Adolf (1832-1915), German gardener, botanist and plant collector; royal Saxonian garden inspector at the Dresden botanical garden 1866; ultimately living at Magyar Ovár (Ungarisch Altenberg). 
-**Abbreviated name**: *Posch.*
+**Abbreviated name**: *Posch.* \[standard form in IPNI: *Posch.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33066547) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33066547) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11584-1), [Wikidata](https://www.wikidata.org/wiki/Q4109572). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Westendorp, Gerard Daniel (1813-1869), Dutch-born Belgian physician and botanist; studied medicine in Brussels; examination surgery and obstetrics 1833; some time student physician at Antwerp; naturalized Belgian citizen ca. 1836, subsequently assistant army and naval physician; regular physician with the Belgian army at Gent and other locations 1846, from 1858 definitely stationed at Termende; Leopold order 1866; active amateur botanist from 1834 onward, working mainly on cryptogams from 1835. 
-**Abbreviated name**: *Westend.*
+**Abbreviated name**: *Westend.* \[standard form in IPNI: *Westend.*\]
 
 #### Herbarium and types
 

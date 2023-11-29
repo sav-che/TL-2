@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33355857) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33355857) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7033-1), [Wikidata](https://www.wikidata.org/wiki/Q6016999). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Norlindh, Nils Tycho (1906-x), Swedish botanist at the Botanical Museum, Lund, 
-**Abbreviated name**: *Norl.*
+**Abbreviated name**: *Norl.* \[standard form in IPNI: *Norl.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33189586) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33189586) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7415-1), [Wikidata](https://www.wikidata.org/wiki/Q21522708). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pauwels, Jan Lodewijk Huibrecht (1899-x), Belgian linguist; Dr. phil. Leuven 1923; professor of Dutch linguistics ib. from 1942. 
-**Abbreviated name**: *Pauwels*
+**Abbreviated name**: *Pauwels* \[standard form in IPNI: *Pauwels*\]
 
 #### Herbarium and types
 

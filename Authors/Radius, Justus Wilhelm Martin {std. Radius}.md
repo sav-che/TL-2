@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33190011) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33190011) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8086-1), [Wikidata](https://www.wikidata.org/wiki/Q1714544). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Radius, Justus Wilhelm Martin (1797-1884), German (Saxonian) physician and botanist; practicing physician and professor of medicine at the University of Leipzig, director of the "medicinische Gesellschaft" in Leipzig. 
-**Abbreviated name**: *Radius*
+**Abbreviated name**: *Radius* \[standard form in IPNI: *Radius*\]
 
 #### Herbarium and types
 

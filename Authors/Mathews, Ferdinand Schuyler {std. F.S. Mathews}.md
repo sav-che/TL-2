@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33355451) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33355451) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6211-1), [Wikidata](https://www.wikidata.org/wiki/Q18911230). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mathews, Ferdinand Schuyler (1845-1938), American botanist. 
-**Abbreviated name**: *F. S. Mathews*
+**Abbreviated name**: *F. S. Mathews* \[standard form in IPNI: *F.S.Mathews*\]
 
 #### Herbarium and types
 

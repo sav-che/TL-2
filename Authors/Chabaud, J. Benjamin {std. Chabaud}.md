@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33265707) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33265707) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1486-1), [Wikidata](https://www.wikidata.org/wiki/Q919432). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chabaud, J. Benjamin (1833-1915), French botanist and head of the botanical garden of the "Marine" at St.-Mandrier. 
-**Abbreviated name**: *Chabaud*
+**Abbreviated name**: *Chabaud* \[standard form in IPNI: *Chabaud*\]
 
 #### Herbarium and types
 

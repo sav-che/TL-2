@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33266192) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33266192) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17592-1), [Wikidata](https://www.wikidata.org/wiki/Q6376816). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Curtis, Kathleen Maisey (fl. 1900-1930), New Zealand botanist, B.A. and M.A. University of New Zealand, M.Sc. 1917 and D.Sc. 1921 University of London, working as mycologist at the Cawthorn Institute, Nelson (N.Z.) named after the founder Thomas Cawthorn. 
-**Abbreviated name**: *K.M. Curtis*
+**Abbreviated name**: *K.M. Curtis* \[standard form in IPNI: *K.M.Curtis*\]
 
 #### Herbarium and types
 

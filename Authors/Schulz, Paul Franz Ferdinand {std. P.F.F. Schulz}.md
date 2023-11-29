@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33333528) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33333528) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9312-1), [Wikidata](https://www.wikidata.org/wiki/Q21608488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schulz, Paul Franz Ferdinand (1872-1919), German (Berlin) botanist; teacher at various Berlin schools; popular writer on cultivated plants. 
-**Abbreviated name**: *P.F.F. Schulz*
+**Abbreviated name**: *P.F.F. Schulz* \[standard form in IPNI: *P.F.F.Schulz*\]
 
 #### Herbarium and types
 

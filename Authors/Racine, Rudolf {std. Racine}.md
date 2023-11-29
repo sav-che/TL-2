@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33190004) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33190004) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8072-1), [Wikidata](https://www.wikidata.org/wiki/Q36668389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Racine, Rudolf (*fl*. 1889), German botanist; Dr. phil. Rostock 1889. 
-**Abbreviated name**: *Racine*
+**Abbreviated name**: *Racine* \[standard form in IPNI: *Racine*\]
 
 #### Herbarium and types
 

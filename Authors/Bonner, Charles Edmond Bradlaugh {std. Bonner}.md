@@ -25,16 +25,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33120402) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33120402) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/957-1), [Wikidata](https://www.wikidata.org/wiki/Q21506294). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bonner, Charles Edmond Bradlaugh {std. Bonner} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bonner, Charles Edmond Bradlaugh (1915-x), English cryptogamist. 
-**Abbreviated name**: *Bonner*
+**Abbreviated name**: *Bonner* \[standard form in IPNI: *Bonner*\]
 
 #### Herbarium and types
 

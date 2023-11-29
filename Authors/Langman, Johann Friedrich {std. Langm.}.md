@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33068993) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33068993) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5270-1), [Wikidata](https://www.wikidata.org/wiki/Q36592962). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Langman, Johann Friedrich (*fl*. 1841), German high school teacher at Neustrelitz. 
-**Abbreviated name**: *Langm.*
+**Abbreviated name**: *Langm.* \[standard form in IPNI: *Langm.*\]
 
 #### Herbarium and types
 

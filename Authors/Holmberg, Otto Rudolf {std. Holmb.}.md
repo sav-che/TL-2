@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33068502) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33068502) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4050-1), [Wikidata](https://www.wikidata.org/wiki/Q6054738). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Holmberg, Otto Rudolf (1874-1930), Swedish botanist; curator at Lund from 1909. 
-**Abbreviated name**: *Holmb.*
+**Abbreviated name**: *Holmb.* \[standard form in IPNI: *Holmb.*\]
 
 #### Herbarium and types
 

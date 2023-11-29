@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33066780) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33066780) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11846-1), [Wikidata](https://www.wikidata.org/wiki/Q6283368). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wood, Joseph Garnett (1900-1959), Australian botanist; studied at Adelaide and Cambridge (U.K.); Dr. phil. 1932; assistant (demonstrator) Univ. Adelaide 1922-1927, lecturer in botany, Adelaide Univ. 1927-1934, professor in botany ib. 1935-1959. 
-**Abbreviated name**: *J.G. Wood*
+**Abbreviated name**: *J.G. Wood* \[standard form in IPNI: *J.G.Wood*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33355619) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33355619) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23502-1), [Wikidata](https://www.wikidata.org/wiki/Q2645535). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Möller, Friedrich Alfred Gustav Jobst ("Alfred") (1860-1922), German (Prussian) forester and mycologist; pupil of O. Brefeld; Dr. phil. Eberswalde 1887; visited Brazil as diplomatic courier and "naturalista viajante do museu nacional" (Blumenau, Santa Catarina 1890-1893); later teacher (1899) and director (1906) of the forestry college at Eberswalde (Brandenburg). 
-**Abbreviated name**: *A. Möller*
+**Abbreviated name**: *A. Möller* \[standard form in IPNI: *Möller*\]
 
 #### Herbarium and types
 

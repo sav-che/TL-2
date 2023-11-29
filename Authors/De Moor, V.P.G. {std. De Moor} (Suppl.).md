@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33259244) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33259244) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2122-1), [Wikidata](https://www.wikidata.org/wiki/Q3557502). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[De Moor, V. P. G. {std. De Moor}|first entry]] for this author
 
 ### Author
 
 \* De Moor, V.P.G. (1827-1895), Belgian government veterinarian living at Alost (E. Flandria), studying especially the Belgian grasses, born at Alost 25 Jul 1827, died ib. 25 Jan 1895. 
-**Abbreviated name**: *De Moor*
+**Abbreviated name**: *De Moor* \[standard form in IPNI: *De Moor*\]
 
 #### Herbarium and types
 

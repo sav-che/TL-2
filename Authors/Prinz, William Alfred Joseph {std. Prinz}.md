@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33189878) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33189878) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7968-1), [Wikidata](https://www.wikidata.org/wiki/Q1682470). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Prinz, William Alfred Joseph (1857-1910), Belgian diatomologist and astronomist. 
-**Abbreviated name**: *Prinz*
+**Abbreviated name**: *Prinz* \[standard form in IPNI: *Prinz*\]
 
 #### Herbarium and types
 

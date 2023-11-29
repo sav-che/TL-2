@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2005-05-18 14:48:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33120457) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33120457) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1148-1), [Wikidata](https://www.wikidata.org/wiki/Q5880193). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brignoli di Brunnhoff, Giovanni de {std. Brign.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Brignoli di Brunnhoff, Giovanni de (1774-1857), Italian botanist at Modena. 
-**Abbreviated name**: *Brign.*
+**Abbreviated name**: *Brign.* \[standard form in IPNI: *Brign.*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/page/33190109) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 638](https://www.biodiversitylibrary.org/page/33190109) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8237-1), [Wikidata](https://www.wikidata.org/wiki/Q62989). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Regel, Eduard \[August\] von (1815-1892), German (Thuringian) botanist; assistant at the botanical gardens of Göttingen 1833-1837, Bonn 1837-1839, Berlin 1839-1842; head gardener at the University botanical garden Zürich 1842-1855; Dr. phil. Zürich 1855; scientific director of the imperial botanical garden St. Petersburg \[1855-\]1857-1867, first botanist 1867-1875, director 1875-1892. 
-**Abbreviated name**: *Regel*
+**Abbreviated name**: *Regel* \[standard form in IPNI: *Regel*\]
 
 #### Herbarium and types
 

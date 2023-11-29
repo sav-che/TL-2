@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33066483) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33066483) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11483-1), [Wikidata](https://www.wikidata.org/wiki/Q4105915). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weese, Josef Karl (1888-1962), Austrian botanist; studied natural and agricultural sciences at the Technische Hochschule, Wien 1906; assistant with F.X.R. von Höhnel ib. 1908-1914; teacher's examination 1912, teacher at a state teacher's college Wien 1914-1920; id. at the Staats-Realschule, Wien 1920; Dr. phil. Univ. Graz; extra-ordinary professor at the Botanical Institute of the Technische Hochschule, Wien 1921-1925; regular professor ad director ib. 1925, dean of the faculty of technical chemistry ib. 1934-1936 
-**Abbreviated name**: *Weese*
+**Abbreviated name**: *Weese* \[standard form in IPNI: *Weese*\]
 
 #### Herbarium and types
 

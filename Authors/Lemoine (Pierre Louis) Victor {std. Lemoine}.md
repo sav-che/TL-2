@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-01-04 07:42:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33069083) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33069083) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5468-1), [Wikidata](https://www.wikidata.org/wiki/Q1974313). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lemoine (Pierre Louis) Victor (1823-1911), French horticulturist; trained e.g. at Gent by Louis Van Houtte; at Nancy from 1850; raised many new cultivars of *Begonia, Syringa, Clematis, Fuchsia* and *Deutzia*. 
-**Abbreviated name**: *Lemoine*
+**Abbreviated name**: *Lemoine* \[standard form in IPNI: *Lemoine*\]
 
 #### Herbarium and types
 

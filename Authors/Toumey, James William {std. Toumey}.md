@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33212452) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33212452) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10761-1), [Wikidata](https://www.wikidata.org/wiki/Q5558302). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Toumey, James William (1865-1932), United States forestry botanist; studied at Michigan Agricultural College; B.A. 1889, M.S. 1896; Dr. Sci. Syracuse 1920; instructor in botany Mich. Agr. Coll. 1890-1891; curator of botany State College and Experiment Station, Tucson, Arizona 1891-1898; superintendent of tree planting U.S.D.A. 1899-1900; asst. prof. forestry Yale 1901-1903, professor and director of the Marsh Botanical Garden, Yale 1903-1910; Moris K. Jesup professor of silviculture Forest School, Yale 1910-1932. 
-**Abbreviated name**: *Toumey*
+**Abbreviated name**: *Toumey* \[standard form in IPNI: *Toumey*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33068424) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33068424) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3908-1), [Wikidata](https://www.wikidata.org/wiki/Q36604822). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hessler, Karl (*fl*. 1822), German botanist; Dr. phil. Göttingen 1822. 
-**Abbreviated name**: *Hessl.*
+**Abbreviated name**: *Hessl.* \[standard form in IPNI: *Hessl.*\]
 
 #### Herbarium and types
 

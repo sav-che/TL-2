@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33120343) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33120343) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/776-1), [Wikidata](https://www.wikidata.org/wiki/Q21340159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Biehler, Johann Friedrich Theodor (*fl*. 1807), German physician, pupil of K. P. J. Sprengel. 
-**Abbreviated name**: *Biehler*
+**Abbreviated name**: *Biehler* \[standard form in IPNI: *Biehler*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33355858) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33355858) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7035-1), [Wikidata](https://www.wikidata.org/wiki/Q5542928). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Norman, George (1824-1882), British diatomologist and entomologist in Yorkshire. 
-**Abbreviated name**: *G. Norm.*
+**Abbreviated name**: *G. Norm.* \[standard form in IPNI: *G.Norman*\]
 
 #### Herbarium and types
 

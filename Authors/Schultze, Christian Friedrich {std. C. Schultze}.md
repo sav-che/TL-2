@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33333520) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33333520) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9300-1), [Wikidata](https://www.wikidata.org/wiki/Q21608477). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schultze, Christian Friedrich (1730-1755), German paleontologist. 
-**Abbreviated name**: *C. Schultze*
+**Abbreviated name**: *C. Schultze* \[standard form in IPNI: *C.Schultze*\]
 
 #### Herbarium and types
 

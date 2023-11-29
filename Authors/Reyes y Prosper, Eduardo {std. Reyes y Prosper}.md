@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33190220) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33190220) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8324-1), [Wikidata](https://www.wikidata.org/wiki/Q21607142). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reyes y Prosper, Eduardo (1860-1921), Spanish (Valencia-born) botanist; studied at Cordoba, Valencia and Madrid; Dr. Ci. Madrid. 
-**Abbreviated name**: *Reyes y Prosper*
+**Abbreviated name**: *Reyes y Prosper* \[standard form in IPNI: *Reyes y Prosper*\]
 
 #### Herbarium and types
 

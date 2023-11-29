@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33259206) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33259206) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2080-1), [Wikidata](https://www.wikidata.org/wiki/Q2040112). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Degener, Otto (1899-1988), American botanist, specialist of the flora of Hawaii, born at Orange, New Jersey 13 Mai 1899, at Massachusetts Agricultural College, laboratorium botanist 1919-1922, BS 1922, MS University of Hawaii 1923, graduate assistant 1923-1924, at Woods Hole 1924, botany instructor at the University of Hawaii 1925-1927, later naturalist at Hawaii, National Park, collaborator from 1935 of the New York Botanical Gardens, on the Archbold expedition to Melanesia 1940. 
-**Abbreviated name**: *O. Deg.*
+**Abbreviated name**: *O. Deg.* \[standard form in IPNI: *O.Deg.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33333651) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33333651) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9490-1), [Wikidata](https://www.wikidata.org/wiki/Q21608672). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Senni, Lorenzo (1879-1954), Italian forester and botanist who conducted forestry explorations and made botanical collections in Eritrea 1905-1907, 1929, 1937, and Somalia 1937; consul in the "Fascist forest militia" during the Mussolini era. 
-**Abbreviated name**: *Senni*
+**Abbreviated name**: *Senni* \[standard form in IPNI: *Senni*\]
 
 #### Herbarium and types
 

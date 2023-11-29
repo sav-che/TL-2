@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33212428) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33212428) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12938-1), [Wikidata](https://www.wikidata.org/wiki/Q1976970). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tolmachev, Alexsandr Innokent'evich (1903-1979), Russian botanist; with the Botanical Institute of the Academy of Sciences, Leningrad 1925; director of the Bureau for the Exploration of the Northern regions at Archangelsk 1934-1942; in Dushaube (Tadzhik branch of the Academy) 1942-1947; id. Sakhalin Branch 1947-1955, from 1955 again in Leningrad at the Komarov Botanical Institute; specialist on arctic-alpine research. 
-**Abbreviated name**: *Tolm.*
+**Abbreviated name**: *Tolm.* \[standard form in IPNI: *Tolm.*\]
 
 #### Herbarium and types
 

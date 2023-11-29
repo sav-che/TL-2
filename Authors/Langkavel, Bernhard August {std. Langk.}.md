@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33068993) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33068993) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5268-1), [Wikidata](https://www.wikidata.org/wiki/Q21518372). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Langkavel, Bernhard August (1825-1902), German teacher in classical languages; zoologist and botanist at the Friedrichwerderschen Gymnasium in Berlin. 
-**Abbreviated name**: *Langk.*
+**Abbreviated name**: *Langk.* \[standard form in IPNI: *Langk.*\]
 
 #### Herbarium and types
 

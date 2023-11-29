@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33120451) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33120451) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1128-1), [Wikidata](https://www.wikidata.org/wiki/Q21415674). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Breutel, Johann Christian (1788-1875), German Moravian bishop (1853-1875), botanist at Herrnhut, travelled in the West Indies and South Africa. 
-**Abbreviated name**: *Breut.*
+**Abbreviated name**: *Breut.* \[standard form in IPNI: *Breutel*\]
 
 #### Herbarium and types
 

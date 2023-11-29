@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33189531) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33189531) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7338-1), [Wikidata](https://www.wikidata.org/wiki/Q2423964). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parisot, Charles Louis (1820-1890), French botanist and pharmacist at Belfort. 
-**Abbreviated name**: *Parisot*
+**Abbreviated name**: *Parisot* \[standard form in IPNI: *Parisot*\]
 
 #### Herbarium and types
 

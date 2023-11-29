@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33355701) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33355701) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6727-1), [Wikidata](https://www.wikidata.org/wiki/Q16858069). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Muehlenbeck, Heinrich Gustav (1798-1845), Alsatian botanist and physician; Dr. med. Paris; practicing physician in Gebweiler 1822-1833; from then on at Mulhouse (Mühlhausen); friend of W. P. Schimper. 
-**Abbreviated name**: *Muehlenbeck*
+**Abbreviated name**: *Muehlenbeck* \[standard form in IPNI: *Muehlenbeck*\]
 
 #### Herbarium and types
 

@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33265364) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33265364) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/795-1), [Wikidata](https://www.wikidata.org/wiki/Q4086851). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Binnendijk, Simon {std. Binn.}|first entry]] for this author
 
 ### Author
 
 \* Binnendijk, Simon (1821-1883), Dutch gardener, trained in the Leiden Hortus botanicus by de Vriese, assistant curator in the Botanic garden at Buitenzorg (Bogor) 1850-1869, curator ib. 1869-1883, collected in Java, Borneo, and the Moluccas, published with J.E. Teijsmann. 
-**Abbreviated name**: *Binn.*
+**Abbreviated name**: *Binn.* \[standard form in IPNI: *Binn.*\]
 
 #### Herbarium and types
 

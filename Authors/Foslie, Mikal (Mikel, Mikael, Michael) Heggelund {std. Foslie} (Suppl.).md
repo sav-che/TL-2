@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33259847) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33259847) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2844-1), [Wikidata](https://www.wikidata.org/wiki/Q3290287). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Foslie, Michael (Mikal) Heggelund {std. Foslie}|first entry]] for this author
 
 ### Author
 
 \* Foslie, Mikal \[Mikel, Mikael, Michael\] Heggelund (1855-1909), Norwegian botanist, born 21 Oct 1855 in Borge, Lofoten Isls., attended schools in Borge and Tromsø, worked as a telegraphist in the Norwegian telegraphic Service in the Lofoten Isls. 1874-1876, in Lødingen 1876-1880 and then Kristiania (now Oslo) 1880-1885, inspired by F.C. Schübeler he collected algae along the Norwegian coast, visited Sweden and Denmark 1880, and England and France 1885-1886, conservator for botany, Tromsø Museum from 1 Jul 1885, dir., "Det Kongl. norske Videnskabers Selskab" (Royal Norwegian Society for Sciences and Letters Museum), Trondheim from Jan 1892, visited The Netherlands, England and Scotland 1892, Ireland and England 1899, and The Netherlands again 1901, died 9 Nov 1909 in Trondheim. 
-**Abbreviated name**: *Foslie*
+**Abbreviated name**: *Foslie* \[standard form in IPNI: *Foslie*\]
 
 #### Herbarium and types
 

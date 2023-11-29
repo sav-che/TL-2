@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33066883) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33066883) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12041-1), [Wikidata](https://www.wikidata.org/wiki/Q86493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zimmeter, Albert (1848-1897), Austrian high school teacher and botanist at Steyer, later at Innsbruck. 
-**Abbreviated name**: *Zimm.*
+**Abbreviated name**: *Zimm.* \[standard form in IPNI: *Zimmeter*\]
 
 #### Herbarium and types
 

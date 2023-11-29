@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33120095) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33120095) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/36-1), [Wikidata](https://www.wikidata.org/wiki/Q10381986). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Abeleven, Theodorus Hendrik Arnoldus Jacobus {std. Abeleven} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Abeleven, Theodoor Hendrik Arnoldus Jacobus (1822-1904), Dutch botanist, apothecary and high-school teacher at Nijmegen. 
-**Abbreviated name**: *Abeleven*
+**Abbreviated name**: *Abeleven* \[standard form in IPNI: *Abeleven*\]
 
 #### Herbarium and types
 

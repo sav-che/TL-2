@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33259811) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33259811) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/8264-1), [Wikidata](https://www.wikidata.org/wiki/Q21607090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fonvert, Amédée de \[full name: Alexandre Jean Baptiste Amédée Reinaud de Fonvert\] (1797-1872), French botanist, born 28 vêntose an V (=18 Mar 1797) in Aix-en-Provence (Bouches du Rhône), member of its scientific society, studied the local flora, died 28 Jan 1871 in Aix-en-Provence. 
-**Abbreviated name**: *Rein. Fonv.*
+**Abbreviated name**: *Rein. Fonv.* \[standard form in IPNI: *Rein.Fonv.*\]
 
 #### Herbarium and types
 

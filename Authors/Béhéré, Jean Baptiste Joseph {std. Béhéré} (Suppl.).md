@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33265246) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33265246) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/15880-1), [Wikidata](https://www.wikidata.org/wiki/Q21505879). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Béhéré, Jean Baptiste Joseph {std. Béhéré}|first entry]] for this author
 
 ### Author
 
 \* Béhéré, Jean Baptiste Joseph (1763-1840), French teacher of mathematics at Rouen, also active as botanist. 
-**Abbreviated name**: *Béhéré*
+**Abbreviated name**: *Béhéré* \[standard form in IPNI: *Béhéré*\]
 
 #### Herbarium and types
 

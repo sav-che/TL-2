@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33333325) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33333325) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9108-1), [Wikidata](https://www.wikidata.org/wiki/Q21608023). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schläpfer, Georg (1797-1835), Swiss botanist at Trogen. 
-**Abbreviated name**: *Schläpfer*
+**Abbreviated name**: *Schläpfer* \[standard form in IPNI: *Schläpfer*\]
 
 #### Herbarium and types
 

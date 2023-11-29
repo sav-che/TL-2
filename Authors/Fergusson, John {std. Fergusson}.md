@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33259647) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33259647) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18726-1), [Wikidata](https://www.wikidata.org/wiki/Q21512868). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fergusson, John (1834-1907), Scottish clergyman who studied bryophytes, born in Kerrow, Glen Shee, Perthshire, student, Univ. of St. Andrews, minister at Glen Prosen, Forfarshire 1867-1868, at New Pitsligo, Aberdeenshire 1869 and at Fearn \[or Fern\], Forfarshire 1875, LL.D. 1896 Univ. of St. Andrews, died 6 Aug 1907 in Edinburgh. 
-**Abbreviated name**: *Fergusson*
+**Abbreviated name**: *Fergusson* \[standard form in IPNI: *Fergusson*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33355351) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33355351) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22811-1), [Wikidata](https://www.wikidata.org/wiki/Q4277650). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Malençon, Georges Jean Louis (1898-x), French mycologist; long-time associate of the Institut scientifique Chérifien at Rabat. 
-**Abbreviated name**: *Malençon*
+**Abbreviated name**: *Malençon* \[standard form in IPNI: *Malençon*\]
 
 #### Herbarium and types
 

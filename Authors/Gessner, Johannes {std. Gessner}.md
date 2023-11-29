@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33121068) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33121068) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3113-1), [Wikidata](https://www.wikidata.org/wiki/Q117494). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gessner, Johannes (1709-1790), Swiss naturalist, correspondent of Linnaeus, friend of Haller. 
-**Abbreviated name**: *Gessner*
+**Abbreviated name**: *Gessner* \[standard form in IPNI: *Gessner*\]
 
 #### Herbarium and types
 

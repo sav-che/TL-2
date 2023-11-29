@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33189739) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33189739) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24876-1), [Wikidata](https://www.wikidata.org/wiki/Q21523019). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pinoy, Pierre Ernest (1873-1948), French physician and mycologist; Dr. med. Paris 1899, Dr. sci. Paris 1907; professor of microbiology and cryptogamy at the faculty of medecine of Algeria. 
-**Abbreviated name**: *Pinoy*
+**Abbreviated name**: *Pinoy* \[standard form in IPNI: *Pinoy*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33333716) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33333716) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9605-1), [Wikidata](https://www.wikidata.org/wiki/Q3143271). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sibthorp, Humphrey Waldo (1713-1797), British botanist; MA Oxford 1737, MD 1745; professor of botany Oxford 1747-1783; father of John Sibthorp; correspondent of Linnaeus. 
-**Abbreviated name**: *H. Sibth.*
+**Abbreviated name**: *H. Sibth.* \[standard form in IPNI: *H.Sibth.*\]
 
 #### Herbarium and types
 

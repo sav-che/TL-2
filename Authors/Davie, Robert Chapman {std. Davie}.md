@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33259144) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33259144) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/20045466-1), [Wikidata](https://www.wikidata.org/wiki/Q106889647). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Davie, Robert Chapman (1887-1919), Scottish botanist, born at Glasgow, M.A. Glasgow 1907, B.Sc. 1907, demonstrator for botany 1907-1909, D.Sc. 1915, assistant at the Botany Department of Glasgow University 1912, lecturer in botany Edinburgh 1912-1919, mainly working on ferns. 
-**Abbreviated name**: *Davie*
+**Abbreviated name**: *Davie* \[standard form in IPNI: *R.C.Davie*\]
 
 #### Herbarium and types
 

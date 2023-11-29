@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1021](https://www.biodiversitylibrary.org/page/33121152) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1021](https://www.biodiversitylibrary.org/page/33121152) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3465-1), [Wikidata](https://www.wikidata.org/wiki/Q2847911). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Guillaumin, André (Louis Joseph Edmond Armand) {std. Guillaumin} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Guillaumin, André (1885-1974), French botanist and explorer. 
-**Abbreviated name**: *Guillaumin*
+**Abbreviated name**: *Guillaumin* \[standard form in IPNI: *Guillaumin*\]
 
 #### Herbarium and types
 

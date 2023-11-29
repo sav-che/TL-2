@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33355762) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33355762) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6816-1), [Wikidata](https://www.wikidata.org/wiki/Q21521927). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Musset, Charles Raymond (1826-1892), French botanist at Toulouse; from 1878-1883 lecturer, 1883-1892 professor of botany at the Faculté des Sciences, Grenoble. 
-**Abbreviated name**: *Musset*
+**Abbreviated name**: *Musset* \[standard form in IPNI: *Musset*\]
 
 #### Herbarium and types
 

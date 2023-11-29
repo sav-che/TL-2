@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33121009) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33121009) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2913-1), [Wikidata](https://www.wikidata.org/wiki/Q15405). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fries, Elias Magnus {std. Fr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fries, Elias Magnus (1794-1878), Swedish botanist at Uppsala, one of the founders of taxonomic mycology. 
-**Abbreviated name**: *Fr.*
+**Abbreviated name**: *Fr.* \[standard form in IPNI: *Fr.*\]
 
 #### Herbarium and types
 

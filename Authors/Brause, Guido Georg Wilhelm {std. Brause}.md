@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33266348) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33266348) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1092-1), [Wikidata](https://www.wikidata.org/wiki/Q3119431). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brause, Guido Georg Wilhelm (1847-1922), German (Silesian) soldier and botanist, educated at the gymnasium at Neisse (Silesia), later at Oppeln, joined the Prussian army, officer in the German-French war, fought at Metz, Vionville Le Mans 1870-1871, subsequently stationed at Brandenburg a.H. and Potsdam, amateur botanist, after his retirement 1905 in connection with the Botanical Garden and Museum in Berlin as well as with the Botanical Verein der Provinz Brandenburg, mainly interested in Pteridophyta. 
-**Abbreviated name**: *Brause*
+**Abbreviated name**: *Brause* \[standard form in IPNI: *Brause*\]
 
 #### Herbarium and types
 

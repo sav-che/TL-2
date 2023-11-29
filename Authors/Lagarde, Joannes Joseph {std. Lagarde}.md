@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5203-1), [Wikidata](https://www.wikidata.org/wiki/Q21518301). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lagarde, Joannes Joseph (1866-?), Strassburg mycologist; Dr. sci. nat. Paris 1906. 
-**Abbreviated name**: *Lagarde*
+**Abbreviated name**: *Lagarde* \[standard form in IPNI: *Lagarde*\]
 
 #### Herbarium and types
 

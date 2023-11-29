@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33333528) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33333528) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9314-1), [Wikidata](https://www.wikidata.org/wiki/Q21608489). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schulz, Roman (1873-1926), German (Berlin) botanist; brother of O.E. Schulz; educated in Berlin at the "Kön. Seminar für Stadtschullehrer" and the "Lehrerseminar"; teacher at various Berlin schools; active populariser of mycology and specialist on the flora of the Mark Brandenburg. 
-**Abbreviated name**: *Ro. Schulz*
+**Abbreviated name**: *Ro. Schulz* \[standard form in IPNI: *R.Schulz*\]
 
 #### Herbarium and types
 

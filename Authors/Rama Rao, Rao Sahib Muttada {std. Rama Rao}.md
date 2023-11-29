@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33190040) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33190040) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8116-1), [Wikidata](https://www.wikidata.org/wiki/Q21606909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rama Rao, Rao Sahib Muttada (1865-?), Indian botanist, conservator of forests, Travancore. 
-**Abbreviated name**: *Rama Rao*
+**Abbreviated name**: *Rama Rao* \[standard form in IPNI: *Rama Rao*\]
 
 #### Herbarium and types
 

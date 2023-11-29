@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33069023) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33069023) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5384-1), [Wikidata](https://www.wikidata.org/wiki/Q21438796). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leclercq, Suzanne Céline Marie (1901-x), Belgian palaeobotanist, specialized in palaeozoic botany and palynology. 
-**Abbreviated name**: *Leclercq*
+**Abbreviated name**: *Leclercq* \[standard form in IPNI: *Leclercq*\]
 
 #### Herbarium and types
 

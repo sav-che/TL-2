@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33066824) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33066824) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11915-1), [Wikidata](https://www.wikidata.org/wiki/Q11584319). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Yabe, Hisakatsu (1878-1969), Japanese geologist and paleontologist; Grad. Tokyo Univ. 1901; at Graduate School Tokyo Imperial University 1901-1906; instructor of geological sciences ib. 1906-1908; studied in Germany, Australia and America 1906-1912; professor of geology at Tôhuku Imperial University 1911-1939. 
-**Abbreviated name**: *H. Yabe*
+**Abbreviated name**: *H. Yabe* \[standard form in IPNI: *H.Yabe*\]
 
 #### Herbarium and types
 

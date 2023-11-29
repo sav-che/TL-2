@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33355311) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33355311) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5930-1), [Wikidata](https://www.wikidata.org/wiki/Q21520248). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 McInteer, Berthus Boston (1887-1978), American algologist and ecologist in Kentukky; M. S. Univ. Kentucky 1926; Ph. D. Ohio State 1932; at the University of Kentucky as instructor in botany (1924-1925), asst. professor (1925-1933), assoc. prof. 1933-1957. 
-**Abbreviated name**: *McInteer*
+**Abbreviated name**: *McInteer* \[standard form in IPNI: *McInteer*\]
 
 #### Herbarium and types
 

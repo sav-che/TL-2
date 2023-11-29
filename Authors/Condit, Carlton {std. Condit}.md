@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33265976) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33265976) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/33979-1), [Wikidata](https://www.wikidata.org/wiki/Q36523548). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Condit, Carlton (1906-x), American geologist and paleobotanist, born 28 Mai 1906 at Oakland, California, A.B. California 1935, Ph.D. (paleobotany) 1939, teaching assistant paleobotany California University 1935-1939, teacher William College (Calif.) 1940-1941, assistant professor geology Iowa 1945-1950. 
-**Abbreviated name**: *Condit*
+**Abbreviated name**: *Condit* \[standard form in IPNI: *Condit*\]
 
 #### Herbarium and types
 

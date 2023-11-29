@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33333696) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33333696) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12863-1), [Wikidata](https://www.wikidata.org/wiki/Q21608771). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shecut, John \[Linnaeus Edward Whitridge\] (1770-1836), American botanist; Dr. med. Philadelphia 1791; practicing physician at Charleston, S.C. 1791-1836. 
-**Abbreviated name**: *Shecut*
+**Abbreviated name**: *Shecut* \[standard form in IPNI: *Shecut*\]
 
 #### Herbarium and types
 

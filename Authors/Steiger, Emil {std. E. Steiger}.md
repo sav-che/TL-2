@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/page/33334010) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/page/33334010) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10073-1), [Wikidata](https://www.wikidata.org/wiki/Q21609691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steiger, Emil (1861-1927), Swiss botanist and pharmacist at Basel; Dr. phil. h.c. Basel 1919. 
-**Abbreviated name**: *E. Steiger*
+**Abbreviated name**: *E. Steiger* \[standard form in IPNI: *E.Steiger*\]
 
 #### Herbarium and types
 

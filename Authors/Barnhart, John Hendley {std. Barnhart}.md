@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33120254) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33120254) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/492-1), [Wikidata](https://www.wikidata.org/wiki/Q3394812). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Barnhart, John Hendley {std. Barnhart} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Barnhart, John Hendley (1871-1949), American botanist and bibliographer at the New York Botanical Garden. 
-**Abbreviated name**: *Barnhart*
+**Abbreviated name**: *Barnhart* \[standard form in IPNI: *Barnhart*\]
 
 #### Herbarium and types
 

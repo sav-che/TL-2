@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 697](https://www.biodiversitylibrary.org/page/33355784) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 697](https://www.biodiversitylibrary.org/page/33355784) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6868-1), [Wikidata](https://www.wikidata.org/wiki/Q6118149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Naumburg, Samuel Johann (1768-1799), German botanist; professor of botany at Erfurt 
-**Abbreviated name**: *Naumb.*
+**Abbreviated name**: *Naumb.* \[standard form in IPNI: *Naumb.*\]
 
 #### Herbarium and types
 

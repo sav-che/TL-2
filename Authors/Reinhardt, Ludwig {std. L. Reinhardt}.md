@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33190172) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33190172) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/34973-1), [Wikidata](https://www.wikidata.org/wiki/Q47125092). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reinhardt, Ludwig (*fl*. 1910), Swiss or German botanist at Basel. 
-**Abbreviated name**: *L. Reinhardt*
+**Abbreviated name**: *L. Reinhardt* \[standard form in IPNI: *Ludw.Reinh.*\]
 
 #### Herbarium and types
 

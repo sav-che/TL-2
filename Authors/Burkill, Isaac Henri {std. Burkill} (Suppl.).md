@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-07-25 11:33:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33266551) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33266551) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1304-1), [Wikidata](https://www.wikidata.org/wiki/Q4084920). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Burkill, Isaac Henry {std. Burkill}|first entry]] for this author
 
 ### Author
 
 \* Burkill, Isaac Henri (1870-1965), British botanist, born at Leeds, Yorkshire, studied at the University of Cambridge, BA Cantab. 1891, MA 1895, assistant curator at the Cambridge herbarium (CGE) 1891-1896, assistant curator at the Kew herbarium 1897-1899, principal assistant in the Director's office (Kew) 1899-1901, assistant at the Indian Museum Calcutta and employed in the Botanic Garden Calcutta 1901-1912, director of the Botanic Gardens Singapore 1912-1925, from 1925 in retirement at Kew continuing his work on tropical botany. 
-**Abbreviated name**: *Burkill*
+**Abbreviated name**: *Burkill* \[standard form in IPNI: *Burkill*\]
 
 #### Herbarium and types
 

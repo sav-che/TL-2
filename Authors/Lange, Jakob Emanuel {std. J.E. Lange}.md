@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33068987) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33068987) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5260-1), [Wikidata](https://www.wikidata.org/wiki/Q2628991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lange, Jakob Emanuel (1864-1941), Danish mycologist; 1888-1924 teacher at the Danish agricultural Folk Highschool at Dalum near Odense; 1918-1934 principal of the Smallholders Agricultural School at Odense; active liberal politician. 
-**Abbreviated name**: *J. E. Lange*
+**Abbreviated name**: *J. E. Lange* \[standard form in IPNI: *J.E.Lange*\]
 
 #### Herbarium and types
 

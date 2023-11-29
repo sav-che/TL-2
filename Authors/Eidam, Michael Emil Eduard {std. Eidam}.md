@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33260272) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33260272) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18409-1), [Wikidata](https://www.wikidata.org/wiki/Q21338738). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eidam, Michael Emil Eduard (1845-1901), German physiologist and mycologist, born 6 Sep 1845 at Nürnberg, director at the agricultural institute at Breslau, died 1901. 
-**Abbreviated name**: *Eidam*
+**Abbreviated name**: *Eidam* \[standard form in IPNI: *Eidam*\]
 
 #### Herbarium and types
 

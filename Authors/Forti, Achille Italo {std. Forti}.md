@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/page/33120992) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/page/33120992) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2840-1), [Wikidata](https://www.wikidata.org/wiki/Q18758633). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Forti, Achille Italo {std. Forti} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Forti, Achille Italo (1878-1937), Italian botanist. 
-**Abbreviated name**: *Forti*
+**Abbreviated name**: *Forti* \[standard form in IPNI: *Forti*\]
 
 #### Herbarium and types
 

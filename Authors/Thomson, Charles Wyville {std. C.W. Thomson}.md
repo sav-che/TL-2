@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33212325) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33212325) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10614-1), [Wikidata](https://www.wikidata.org/wiki/Q945539). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomson, Charles Wyville (1830-1882), British marine zoologist and botanist; LLD Aberdeen 1853, knighted 1876; lecturer in botany Aberdeen 1850, professor id. 1851; professor of natural history, Cork 1853; professor of mineralogy and geology, Belfast 1854, of natural history ib. 1860; professor of natural history, Edinburgh 1870-1881; chief of the Challenger staff 1872-1876. 
-**Abbreviated name**: *C.W. Thomson*
+**Abbreviated name**: *C.W. Thomson* \[standard form in IPNI: *C.W.Thomson*\]
 
 #### Herbarium and types
 

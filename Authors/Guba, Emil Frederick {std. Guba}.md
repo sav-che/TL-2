@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33258911) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33258911) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19710-1), [Wikidata](https://www.wikidata.org/wiki/Q21514347). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Guba, Emil Frederick (1897-1999), American mycologist and plant pathologist, born 13 Mai 1897 in New Bedford, Mass., B.Sc. 1919 Mass. Agricultural College (now Univ. of Mass.), Amherst, Ph.D. 1923 Univ. of Illinois, plant pathologist, Cornell Univ., Ithaca, New York 1923-1925, asst. prof. 1925 and prof. 1939, Mass. Agricultural College Field Station (a.k.a. Market Garden Field Station), Waltham, Mass., retired 1962, died 16 Mar 1999 in Kingston, Mass. (buried in Waltham). 
-**Abbreviated name**: *Guba*
+**Abbreviated name**: *Guba* \[standard form in IPNI: *Guba*\]
 
 #### Herbarium and types
 

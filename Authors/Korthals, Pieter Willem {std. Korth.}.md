@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33068893) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33068893) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4975-1), [Wikidata](https://www.wikidata.org/wiki/Q442109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Korthals, Pieter Willem (1807-1892), Dutch botanist and traveller in the East Indies, member of the "Natuurkundige Commissie voor Nederlandsch-Indie" Mai 1831-Feb 1836. 
-**Abbreviated name**: *Korth.*
+**Abbreviated name**: *Korth.* \[standard form in IPNI: *Korth.*\]
 
 #### Herbarium and types
 

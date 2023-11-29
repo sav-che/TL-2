@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33355201) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33355201) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5640-1), [Wikidata](https://www.wikidata.org/wiki/Q2415371). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Linton, Rev. William Richardson (1850-1908), English botanist; ultimately vicar of Shirley (1886); brother of E. F. Linton. 
-**Abbreviated name**: *W. R. Linton*
+**Abbreviated name**: *W. R. Linton* \[standard form in IPNI: *W.R.Linton*\]
 
 #### Herbarium and types
 

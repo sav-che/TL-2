@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1022](https://www.biodiversitylibrary.org/page/33190493) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1022](https://www.biodiversitylibrary.org/page/33190493) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8781-1), [Wikidata](https://www.wikidata.org/wiki/Q1506178). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sabine, Joseph (1770-1837), British (English) barrister and horticulturist; inspector-general of assessed taxes 1808-1835; secretary of the Horticultural Society of London 1816-1830; elder brother of Edward Sabine, founder of the Transactions of the \[later Royal\] Horticultural Society. 
-**Abbreviated name**: *Sabine*
+**Abbreviated name**: *Sabine* \[standard form in IPNI: *Sabine*\]
 
 #### Herbarium and types
 

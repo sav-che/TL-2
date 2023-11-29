@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33355538) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33355538) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6424-1), [Wikidata](https://www.wikidata.org/wiki/Q65095). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mez, Carl Christian (1866-1944), German botanist; Dr. phil. Berlin 1888; habil. Breslau 1890; in München with Radlkofer 1888-1890; at the University of Breslau 1890-1899; 1899-1910 professor of botany at Halle; director of the Königsberg botanical garden 1910-1935, ultimately at Freiburg i.Br.; main promotor of serodiagnostics ("Königsberger Stammbaum") in systematic botany. 
-**Abbreviated name**: *Mez*
+**Abbreviated name**: *Mez* \[standard form in IPNI: *Mez*\]
 
 #### Herbarium and types
 

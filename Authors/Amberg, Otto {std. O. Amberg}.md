@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33264823) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33264823) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/32245-1), [Wikidata](https://www.wikidata.org/wiki/Q15301793). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Amberg, Otto (1875-1920), Swiss botanist, Dr. phil. Zürich 1900. 
-**Abbreviated name**: *O. Amberg*
+**Abbreviated name**: *O. Amberg* \[standard form in IPNI: *Amberg*\]
 
 #### Herbarium and types
 

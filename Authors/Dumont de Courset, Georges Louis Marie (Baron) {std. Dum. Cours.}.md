@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/page/33120827) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/page/33120827) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12415-1), [Wikidata](https://www.wikidata.org/wiki/Q2618729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dumont de Courset, Georges Louis Marie \[Baron\] (1746-1824), French agronomist. 
-**Abbreviated name**: *Dum. Cours.*
+**Abbreviated name**: *Dum. Cours.* \[standard form in IPNI: *Dum.Cours.*\]
 
 #### Herbarium and types
 

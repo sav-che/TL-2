@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33068388) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33068388) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3806-1), [Wikidata](https://www.wikidata.org/wiki/Q2373009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Heller, Amos Arthur (1867-1944), American plant collector; field agent for USDA 1872-1896; at the University of Minnesota 1896-1898, from 1908-1913 at the University of Nevada; from 1913-1938 teacher at Chico high school, Chico, California; founder and publisher of Muhlenbergia. 
-**Abbreviated name**: *A. Heller*
+**Abbreviated name**: *A. Heller* \[standard form in IPNI: *A.Heller*\]
 
 #### Herbarium and types
 

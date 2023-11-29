@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 914](https://www.biodiversitylibrary.org/page/33121045) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 914](https://www.biodiversitylibrary.org/page/33121045) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3024-1), [Wikidata](https://www.wikidata.org/wiki/Q6167634). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gardiner, William (1808-1852), Scottish umbrella-maker and amateur botanist. 
-**Abbreviated name**: *Gardiner*
+**Abbreviated name**: *Gardiner* \[standard form in IPNI: *Gardiner*\]
 
 #### Herbarium and types
 

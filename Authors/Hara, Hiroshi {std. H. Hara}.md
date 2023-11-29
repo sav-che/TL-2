@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3643-1), [Wikidata](https://www.wikidata.org/wiki/Q247149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hara, Hiroshi (1911-x), Japanese botanist at the University of Tokyo, explorer of the Himalaya and specialist on the Japanese phanerogamic flora. 
-**Abbreviated name**: *H. Hara*
+**Abbreviated name**: *H. Hara* \[standard form in IPNI: *H.Hara*\]
 
 #### Herbarium and types
 

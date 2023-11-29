@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33333554) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33333554) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9347-1), [Wikidata](https://www.wikidata.org/wiki/Q2938868). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwacke, \[Carl August\] Wilhelm (1848-1904), German (Hannover) botanist; studied botany at Göttingen and Bonn; on active service in the Franco-Prussian war; emigrated to Brazil 1872; "naturalista viajante" travelling scientist for the Rio de Janeiro National Museum 1874-1891; professor of botany at and later director of the School of Pharmacy in Ouro Preto 1891-1904; German vice-consul for Minas Geraes. 
-**Abbreviated name**: *Schwacke*
+**Abbreviated name**: *Schwacke* \[standard form in IPNI: *Schwacke*\]
 
 #### Herbarium and types
 

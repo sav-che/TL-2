@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33120278) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33120278) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/553-1), [Wikidata](https://www.wikidata.org/wiki/Q123612). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bauhin, Caspar (Gaspard) (1560-1624), Swiss physician and botanist, professor of anatomy and botany at Basel University 1588-1614. 
-**Abbreviated name**: *C Bauhin*
+**Abbreviated name**: *C Bauhin* \[standard form in IPNI: *C.Bauhin*\]
 
 #### Herbarium and types
 

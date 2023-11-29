@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33190228) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33190228) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8347-1), [Wikidata](https://www.wikidata.org/wiki/Q8017516). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rich, William (*fl*. 1830-1850), American botanist on the Wilkes Expedition (1838-1842); younger brother of Obadiah Rich. 
-**Abbreviated name**: *W. Rich*
+**Abbreviated name**: *W. Rich* \[standard form in IPNI: *W.Rich*\]
 
 #### Herbarium and types
 

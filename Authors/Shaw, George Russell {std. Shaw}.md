@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33333691) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33333691) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9550-1), [Wikidata](https://www.wikidata.org/wiki/Q16720867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shaw, George Russell (1848-1937), American architect and botanist; practicing architecture with Henry Hunnewell at Boston 1873-1902. 
-**Abbreviated name**: *Shaw*
+**Abbreviated name**: *Shaw* \[standard form in IPNI: *Shaw*\]
 
 #### Herbarium and types
 

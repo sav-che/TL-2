@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33190183) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33190183) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8280-1), [Wikidata](https://www.wikidata.org/wiki/Q21607103). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reitter, Johann Daniel von (1759-1811), German (Württemberg) botanist and forester ("Forstrath"), Württemberg "Hofjäger" 1780-1793 also teaching forestry at Hohenheim; forestry commisioner at Stuttgart 1794-1801; with the Württemberger forestry department 1803-1811. 
-**Abbreviated name**: *Reitter*
+**Abbreviated name**: *Reitter* \[standard form in IPNI: *Reitter*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 886](https://www.biodiversitylibrary.org/page/33334025) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 886](https://www.biodiversitylibrary.org/page/33334025) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10099-1), [Wikidata](https://www.wikidata.org/wiki/Q36568839). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stenzel, Georg (*fl*. 1893), German (Silesian) botanist; Dr. phil. Erlangen 1893. 
-**Abbreviated name**: *Geo. Stenzel*
+**Abbreviated name**: *Geo. Stenzel* \[standard form in IPNI: *G.Stenzel*\]
 
 #### Herbarium and types
 

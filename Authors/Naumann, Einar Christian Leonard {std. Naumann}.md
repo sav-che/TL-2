@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 697](https://www.biodiversitylibrary.org/page/33355784) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 697](https://www.biodiversitylibrary.org/page/33355784) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6869-1), [Wikidata](https://www.wikidata.org/wiki/Q2742465). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Naumann, Einar Christian Leonard (1891-1934), Swedish limnologist and algologist; Dr. phil. Lund 1917; lecturer (1917) and professor (1919) of limnology at Lund; one of the founders, with A. Thienemann, of the Soc. int. Limnol. 
-**Abbreviated name**: *Naumann*
+**Abbreviated name**: *Naumann* \[standard form in IPNI: *Naumann*\]
 
 #### Herbarium and types
 

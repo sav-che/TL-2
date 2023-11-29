@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33265110) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33265110) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/551-1), [Wikidata](https://www.wikidata.org/wiki/Q79012). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bauer, Ferdinand Lukas {std. F.L. Bauer}|first entry]] for this author
 
 ### Author
 
 \* Bauer, Ferdinand Lucas (1760-1826), Austrian botanical, zoological and landscape painter, born in Feldsberg (then Niederösterreich, from 1919 Valtice, Czechoslovakia), painting for J.C. Brund (court appointed painter), botanical instruction and assistance from N.J. von Jacquin, accompanied J. Sibthorp as botanical artist on a trip to the eastern mediterranean area, worked for Sibthorp in Oxford, with R. Brown on the Flinders expedition to Australia, returned to Vienna in 1812, continuing his work for Jacquin. 
-**Abbreviated name**: *F.L. Bauer*
+**Abbreviated name**: *F.L. Bauer* \[standard form in IPNI: *F.L.Bauer*\]
 
 #### Herbarium and types
 

@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33355506) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33355506) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/28284-1), [Wikidata](https://www.wikidata.org/wiki/Q3086016). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mérat de Vaumartoise, François Victor (1780-1851), French botanist and physician at Paris; Dr. méd. Paris 1803; at the Charité hospital 1803-1813; editor of the Dictionnaire des sciences médicales. 
-**Abbreviated name**: *Mérat*
+**Abbreviated name**: *Mérat* \[standard form in IPNI: *Mérat*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33212596) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33212596) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10929-1), [Wikidata](https://www.wikidata.org/wiki/Q4467716). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tussac, François Richard chevalier de (1751-1837), French colonial botanist; at Martinique 1786, subsequently in Haiti until 1802, at Jamaica 1802; returned to France late 1802, director of the Jardin botanique, Angers, while resident in Paris. 
-**Abbreviated name**: *Tussac*
+**Abbreviated name**: *Tussac* \[standard form in IPNI: *Tussac*\]
 
 #### Herbarium and types
 

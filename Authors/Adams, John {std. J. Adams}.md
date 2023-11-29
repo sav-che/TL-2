@@ -25,14 +25,13 @@ ipni_record_created: 2005-01-07 11:07:31.0
 ipni_record_modified: 2013-05-15 11:45:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33264751) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33264751) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/20002779-1), [Wikidata](https://www.wikidata.org/wiki/Q10307799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Adams, John (1872-1950), Irish botanist at Dublin, M.A. Cantab. \[Cambridge\], lecturer in botany at Dublin municipal technical school, assistant professor of botany, R. Veterinarian College Dublin; Dominion (economic) Botanist of Canada at Ottawa 1914-1938. 
-**Abbreviated name**: *J. Adams*
+**Abbreviated name**: *J. Adams* \[standard form in IPNI: *J.Adams*\]
 
 #### Herbarium and types
 

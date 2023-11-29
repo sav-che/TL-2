@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33265941) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33265941) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1732-1), [Wikidata](https://www.wikidata.org/wiki/Q237271). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Colebrooke, Henry Thomas {std. Colebr.}|first entry]] for this author
 
 ### Author
 
 \* Colebrook \[Colebrooke\], Henry Thomas (1765-1837), British colonial magistrate, Sanskrit scholar and amateur botanist, born at London, in India 1783-1815, chief judge in Bengal, president of the Asiatic Society of Bengal, stood in cooperation with W. Roxburgh, W.J. Hooker and A.B. Lambert, died in London. 
-**Abbreviated name**: *Colebr.*
+**Abbreviated name**: *Colebr.* \[standard form in IPNI: *Colebr.*\]
 
 #### Herbarium and types
 

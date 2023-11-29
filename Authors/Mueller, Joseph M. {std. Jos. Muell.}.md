@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33355724) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33355724) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6739-1), [Wikidata](https://www.wikidata.org/wiki/Q21521836). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mueller, Joseph M. (1802-1870), German botanist and high school teacher at Aachen (Aix-la-Chapelle). 
-**Abbreviated name**: *Jos. Muell.*
+**Abbreviated name**: *Jos. Muell.* \[standard form in IPNI: *J.M.Muell.*\]
 
 #### Herbarium and types
 

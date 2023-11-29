@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-12-09 09:26:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33266443) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33266443) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1191-1), [Wikidata](https://www.wikidata.org/wiki/Q721850). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brown, Nicholas Edward {std. N.E. Br.}|first entry]] for this author
 
 ### Author
 
 \* Brown, Nicholas Edward (1849-1934), British botanist, born at Redhill, Surrey, educated at the Grammar School of Reigate, curator of the private museum of William Wilson Saunders (1809-1879), assistant in the Herbarium at Kew 1873, in 1874 in addition commencing lecturing on geographical botany, participated in the compiling of various Kew Series, e.g. Flora capensis, assistant keeper of the Herbarium 1909-1914, Dr. Sci. hon. Witwatersrand 1932. 
-**Abbreviated name**: *N.E. Br.*
+**Abbreviated name**: *N.E. Br.* \[standard form in IPNI: *N.E.Br.*\]
 
 #### Herbarium and types
 

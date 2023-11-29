@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33189847) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33189847) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7925-1), [Wikidata](https://www.wikidata.org/wiki/Q689862). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Prain, Sir David (1857-1944), British botanist; MB Edinburgh 1882; Indian Medical Service 1884-1887; curator herb. Royal Botanic Garden, Calcutta 1887-1898; superintendent id. 1898-1905; professor of botany Calcutta Medical College 1898-1905; director R.B.G. Kew 1905-1922. 
-**Abbreviated name**: *Prain*
+**Abbreviated name**: *Prain* \[standard form in IPNI: *Prain*\]
 
 #### Herbarium and types
 

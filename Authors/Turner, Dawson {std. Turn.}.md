@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33212586) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33212586) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10916-1), [Wikidata](https://www.wikidata.org/wiki/Q2628753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Turner, Dawson (1775-1858), British banker and botanist; studied at Pembroke College, Cambridge 1793-1794; from 1796-1850 with the Yarmouth bank; from 1850-1853 in London and Barnes; from 1853 in Old Brompton. 
-**Abbreviated name**: *Turn.*
+**Abbreviated name**: *Turn.* \[standard form in IPNI: *Turner*\]
 
 #### Herbarium and types
 

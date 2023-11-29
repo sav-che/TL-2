@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-07-27 15:53:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33258906) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33258906) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19699-1), [Wikidata](https://www.wikidata.org/wiki/Q5973427). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gruner, Leopold Fedorovich (1839-x), Russian-born German field botanist, born 2/14 Oct 1839 in Livland (then a Russian province), collected plants with Eduard Lehmann. 
-**Abbreviated name**: *L. Gruner*
+**Abbreviated name**: *L. Gruner* \[standard form in IPNI: *Gruner*\]
 
 #### Herbarium and types
 

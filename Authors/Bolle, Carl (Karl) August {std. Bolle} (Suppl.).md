@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33265489) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33265489) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16300-1), [Wikidata](https://www.wikidata.org/wiki/Q63426). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bolle, Carl (Karl) August {std. Bolle}|first entry]] for this author
 
 ### Author
 
 \* Bolle, Carl \[Karl\] August (1821-1909), German (Berlin) botanist, ornithologist and dendrologist, independent scholar of private means, delegate in the board of the public parks of Berlin, collected widely in Europe, the Canary Islands and the Cape Verde Islands, close associate of Paul Ascherson, had an arboretum on the Insel Scharfenberg in the Tegeler See, "Kommerzienrat" of Prussia 1897. 
-**Abbreviated name**: *Bolle*
+**Abbreviated name**: *Bolle* \[standard form in IPNI: *Bolle*\]
 
 #### Herbarium and types
 

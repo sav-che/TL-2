@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 945](https://www.biodiversitylibrary.org/page/33190416) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 945](https://www.biodiversitylibrary.org/page/33190416) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8673-1), [Wikidata](https://www.wikidata.org/wiki/Q21607487). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roux, Nisius (1854-1923), French botanist at Lyon; employee at various sericultural enterprises from 1906 in retirement dedicating himself almost entirely to botany; general secretary of the Société linnéenne de Lyon. 
-**Abbreviated name**: *N. Roux*
+**Abbreviated name**: *N. Roux* \[standard form in IPNI: *N.Roux*\]
 
 #### Herbarium and types
 

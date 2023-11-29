@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33212071) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33212071) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10181-1), [Wikidata](https://www.wikidata.org/wiki/Q21609898). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stone, Herbert (1865-?), British author on timbers and woods; lecturer in forestry at the Wood Research Laboratory, Cambridge until 1924. 
-**Abbreviated name**: *H. Stone*
+**Abbreviated name**: *H. Stone* \[standard form in IPNI: *H.Stone*\]
 
 #### Herbarium and types
 

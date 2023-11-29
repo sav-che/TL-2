@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33068762) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33068762) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4716-1), [Wikidata](https://www.wikidata.org/wiki/Q21517415). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kelly, James Peter (1885-1955), Canadian-born American geneticist and botanist at Pennsylvania State College. 
-**Abbreviated name**: *J. Kelly*
+**Abbreviated name**: *J. Kelly* \[standard form in IPNI: *J.Kelly*\]
 
 #### Herbarium and types
 

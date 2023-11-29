@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33120444) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33120444) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1101-1), [Wikidata](https://www.wikidata.org/wiki/Q956848). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Breda, Jacob Gijsbert Samuel van (1788-1867), Dutch palaeontologist and botanist. 
-**Abbreviated name**: *Breda*
+**Abbreviated name**: *Breda* \[standard form in IPNI: *Breda*\]
 
 #### Herbarium and types
 

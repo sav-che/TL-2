@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33068494) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33068494) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4033-1), [Wikidata](https://www.wikidata.org/wiki/Q4140972). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hohenacker, Rudolf Friedrich (1798-1874), German missionary (1822-1830), physician, botanist and collector; collecting 1830-1841; from 1842-1858 at Esslingen, selling plant collections made by himself and others; from 1858 at Kirchheim/Teck. 
-**Abbreviated name**: *Hohen.*
+**Abbreviated name**: *Hohen.* \[standard form in IPNI: *Hohen.*\]
 
 #### Herbarium and types
 

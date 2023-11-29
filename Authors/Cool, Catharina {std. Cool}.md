@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33266008) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33266008) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17408-1), [Wikidata](https://www.wikidata.org/wiki/Q36523564). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cool, Catharina (1874-1928), Dutch mycologist, born 19 Aug 1874, followed the Colleges and practicum of Hugo de Vries at the University of Amsterdam, worked sometime at the Phytopathology Laboratory "Willie Commelin Scholten" at Amsterdam, became an assistant at the Rijks Herbarium, Leiden, died 21 Jun 1928. 
-**Abbreviated name**: *Cool*
+**Abbreviated name**: *Cool* \[standard form in IPNI: *Cool*\]
 
 #### Herbarium and types
 

@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33120540) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33120540) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1291-1), [Wikidata](https://www.wikidata.org/wiki/Q1397207). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Burchell, William John {std. Burch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Burchell, William John (1781-1863), British botanist and traveller in South Africa (1811-1815) and Brazil (1825-1829). 
-**Abbreviated name**: *Burch.*
+**Abbreviated name**: *Burch.* \[standard form in IPNI: *Burch.*\]
 
 #### Herbarium and types
 

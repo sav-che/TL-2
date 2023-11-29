@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/page/33190443) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/page/33190443) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8710-1), [Wikidata](https://www.wikidata.org/wiki/Q4399726). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rudolph, Johann Heinrich (1744-1809), German (Thuringian) botanist; Dr. med. Jena 1781, from 1783 at St. Petersburg as "professor of botany"; from 1804 member of the St. Petersburg Academy of Sciences. 
-**Abbreviated name**: *J.H. Rudolph*
+**Abbreviated name**: *J.H. Rudolph* \[standard form in IPNI: *Rudolph*\]
 
 #### Herbarium and types
 

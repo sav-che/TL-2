@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33333731) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33333731) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9618-1), [Wikidata](https://www.wikidata.org/wiki/Q21608859). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Siegers, Jean (1842-post 1904), German-born Malmédy botanist; studied at the Köln roman catholic gymnasium and at the universities of Münster and Bonn; high school teacher at Aachen and Düren and, from 1874-1903, professor at the progymnasium of Malmédy. 
-**Abbreviated name**: *Siegers*
+**Abbreviated name**: *Siegers* \[standard form in IPNI: *Siegers*\]
 
 #### Herbarium and types
 

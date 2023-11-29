@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/page/33333764) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 625](https://www.biodiversitylibrary.org/page/33333764) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9715-1), [Wikidata](https://www.wikidata.org/wiki/Q21609006). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Skene, Macgregor (1889-1973), British (Scottish) botanist; Dr. phil. Aberdeen 1906; continued his studies at Berlin, Strassburg and Montpellier; lecturer in plant physiology, Univ. Aberdeen; senior lecturer on botany 1925-1934; director of the botanic garden 1934-1955 and Melville Wills professor of botany in the University of Bristol 1935-1955. 
-**Abbreviated name**: *Skene*
+**Abbreviated name**: *Skene* \[standard form in IPNI: *Skene*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33334014) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33334014) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/27173-1), [Wikidata](https://www.wikidata.org/wiki/Q21510489). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steiner, Julius (1844-1918), Austrian botanist (lichenologist) and teacher at the k.k. Staatsgymnasium, Wien. 
-**Abbreviated name**: *J. Steiner*
+**Abbreviated name**: *J. Steiner* \[standard form in IPNI: *J.Steiner*\]
 
 #### Herbarium and types
 

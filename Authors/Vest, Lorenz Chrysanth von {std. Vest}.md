@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33212758) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33212758) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11149-1), [Wikidata](https://www.wikidata.org/wiki/Q85222). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vest, Lorenz Chrysanth von (1776-1840), Austrian physician, chemist and botanist; studied medicine in Vienna and Freiburg i.B.; Dr. med. Freiburg 1798; army physician 1799-1800; practicing physician at Klagenfurt 1800; professor of theoretical and practical medicine at the Klagenfurt Lyceum 1804-1812; professor of botany and chemistry at the Johanneum, Graz 1812; first state physician in Steyermark 1829. 
-**Abbreviated name**: *Vest*
+**Abbreviated name**: *Vest* \[standard form in IPNI: *Vest*\]
 
 #### Herbarium and types
 

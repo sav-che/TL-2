@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2015-10-16 22:10:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33266607) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33266607) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1351-1), [Wikidata](https://www.wikidata.org/wiki/Q21338925). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cain, Roy Franklin {std. Cain}|first entry]] for this author
 
 ### Author
 
 \* Cain, Roy Franklin (1906-x), Canadian botanist born near Paris, Ontario, studied botany at the University of Toronto, BA 1930, MA 1931, Ph. D. 1933, class assistant ib. 1928-1932, technical assistant, ulimately professor of botany at the cryptogamic herbarium of Toronto 1932-1975. 
-**Abbreviated name**: *Cain*
+**Abbreviated name**: *Cain* \[standard form in IPNI: *Cain*\]
 
 #### Herbarium and types
 

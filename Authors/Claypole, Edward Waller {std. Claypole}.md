@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33120640) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33120640) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1683-1), [Wikidata](https://www.wikidata.org/wiki/Q18910584). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Claypole, Edward Waller (1835-1901), American geologist and palaeobotanist in Ohio (1883-1898) and in California (Pasadena) (1898-1901). 
-**Abbreviated name**: *Claypole*
+**Abbreviated name**: *Claypole* \[standard form in IPNI: *Claypole*\]
 
 #### Collections
 

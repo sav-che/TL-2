@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33258681) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33258681) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3136-1), [Wikidata](https://www.wikidata.org/wiki/Q18984924). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Giesenhagen, Karl Friedrich Georg {std. Giesenh.}|first entry]] for this author
 
 ### Author
 
 \* Giesenhagen, Karl \[Carl\] Friedrich Georg (1860-1928), German botanist, born 18 Jun 1860 in Teterow (Mecklenburg), doctorate 1889 (thesis on cystoliths in *Ficus elastica*) and "Habilitation" 1890 Univ. of Marburg, asst., Munich botanical garden 1892, curator of cryptogams and botany instructor, recipient of Buitenzorg stipendium (600 Marks) and visited Malesia 1899, prof., Univ. of Munich 1901, prof. of botany, Munich Veterinary College (Hochschule) 1906, died 8 Apr 1928 in Munich. 
-**Abbreviated name**: *Giesenh.*
+**Abbreviated name**: *Giesenh.* \[standard form in IPNI: *Giesenh.*\]
 
 #### Herbarium and types
 

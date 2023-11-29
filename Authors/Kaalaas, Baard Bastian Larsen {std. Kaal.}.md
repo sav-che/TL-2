@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33068723) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33068723) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21113-1), [Wikidata](https://www.wikidata.org/wiki/Q11959947). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kaalaas, Baard Bastian Larsen (1851-1918), Norwegian bryologist and high school teacher at Oslo. 
-**Abbreviated name**: *Kaal.*
+**Abbreviated name**: *Kaal.* \[standard form in IPNI: *Kaal.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33068502) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33068502) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4053-1), [Wikidata](https://www.wikidata.org/wiki/Q18910510). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Holmes, Edward Morell (1843-1930), British pharmaceutical botanist and algologist, curator of the Museum of the Pharmaceutical Society of Great Britain (1872-1922). 
-**Abbreviated name**: *Holmes*
+**Abbreviated name**: *Holmes* \[standard form in IPNI: *Holmes*\]
 
 #### Herbarium and types
 

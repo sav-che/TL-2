@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33266767) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33266767) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1453-1), [Wikidata](https://www.wikidata.org/wiki/Q5479282). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Castracane degli Antelminelli, Francesco Saverio, Conte {std. Castracane}|first entry]] for this author
 
 ### Author
 
 \* Castracane degli Antelminelli, Francesco (1817-1899), Italian phycologist (diatomist), born at S. Cristoforo di Fano, count and abbot, interested in diatoms from 1865, member of the Accademia pontif. Nuovo Lincei. 
-**Abbreviated name**: *Castracane*
+**Abbreviated name**: *Castracane* \[standard form in IPNI: *Castrac.*\]
 
 #### Herbarium and types
 

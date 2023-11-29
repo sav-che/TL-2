@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33189870) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33189870) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/31990-1), [Wikidata](https://www.wikidata.org/wiki/Q47124707). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Price, Sarah (*fl*. 1864), British botanical illustrator. 
-**Abbreviated name**: *S. Price*
+**Abbreviated name**: *S. Price* \[standard form in IPNI: *S.Price*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33260286) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33260286) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18421-1), [Wikidata](https://www.wikidata.org/wiki/Q5830789). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ekstrand, Emil Viktor (1841-1884), Swedish botanist, born 21 Jan 1841 at Kalmar, studied at Uppsala from 1860, phil. dr. at Uppsala 1880, died 10 Nov 1884 Uppsala. 
-**Abbreviated name**: *Ekstr.*
+**Abbreviated name**: *Ekstr.* \[standard form in IPNI: *Ekstr.*\]
 
 #### Herbarium and types
 

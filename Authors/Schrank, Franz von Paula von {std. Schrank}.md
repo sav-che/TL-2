@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33333462) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33333462) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9254-1), [Wikidata](https://www.wikidata.org/wiki/Q62046). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schrank, Franz von Paula von (1747-1835), German (Bavarian) botanist and entomologist; Jesuit teacher until the abolition of the order; ord. 1774; dean in Passau (1774), Wien (1775); Dr. theol. Wien 1775 (or 1776); professor of physics and mathematics in Amberg (1776); professor of botany and agronomy at Ingolstadt, later Landshut (1784-1809); first director of the botanical garden at München 1809-1832. 
-**Abbreviated name**: *Schrank*
+**Abbreviated name**: *Schrank* \[standard form in IPNI: *Schrank*\]
 
 #### Herbarium and types
 

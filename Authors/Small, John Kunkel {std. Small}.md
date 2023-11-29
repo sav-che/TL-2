@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33333789) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33333789) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9754-1), [Wikidata](https://www.wikidata.org/wiki/Q2590065). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Small, John Kunkel (1869-1938), American botanist (of Pennsylvania-German origin); at Franklin and Marshall College, Lancaster 1888-1892; studied botany with N.L. Britton at Columbia College; Dr. phil. 1895; curator of the herbarium of Columbia College 1895-1898; curator of the Museums of the New York Botanical Garden 1898-1905; head-curator id. 1906-1933; chief research associate and curator 1934-1938; mainly interested in the flora of the southeastern United States, especially of Florida which he visited almost annually from 1901-1916; Dr. Sci. h.c. Franklin and Marshall College 1912. 
-**Abbreviated name**: *Small*
+**Abbreviated name**: *Small* \[standard form in IPNI: *Small*\]
 
 #### Herbarium and types
 

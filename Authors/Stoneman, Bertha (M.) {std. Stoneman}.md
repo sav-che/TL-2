@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33212069) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33212069) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10184-1), [Wikidata](https://www.wikidata.org/wiki/Q21609904). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stoneman, Bertha \[M.\] (1866-1943), American-born botanist; Dr. sci. Cornell Univ. 1896, settled in South Africa 1897; in charge of the Botany Dept. of the Huguenot College for Women, Wellington, Cape Prov. 1897-1921; president id. 1921-1933; from 1933 in retirement at Bainskloof. 
-**Abbreviated name**: *Stoneman*
+**Abbreviated name**: *Stoneman* \[standard form in IPNI: *Stoneman*\]
 
 #### Herbarium and types
 

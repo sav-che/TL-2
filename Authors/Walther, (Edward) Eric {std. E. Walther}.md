@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33066392) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33066392) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11371-1), [Wikidata](https://www.wikidata.org/wiki/Q1292134). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walther, \[Edward\] Eric (1892-1959), German (Saxonian), later American horticulturist; student of the Crassulaceae; to the United States 1909; connected with Golden Gate Park, San Francisco from 1918-1957; ultimately first director of the Strybing Arboretum. 
-**Abbreviated name**: *E. Walther*
+**Abbreviated name**: *E. Walther* \[standard form in IPNI: *E.Walther*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33265931) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33265931) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1723-1), [Wikidata](https://www.wikidata.org/wiki/Q5778844). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cohen Stuart, Combertus Pieter (1889-1945), Dutch botanist, Java born, Dr. phil. Utrecht 1916. 
-**Abbreviated name**: *Cohen Stuart*
+**Abbreviated name**: *Cohen Stuart* \[standard form in IPNI: *Cohen-Stuart*\]
 
 #### Herbarium and types
 

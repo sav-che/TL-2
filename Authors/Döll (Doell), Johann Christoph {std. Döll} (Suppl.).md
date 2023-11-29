@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33260009) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33260009) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/12410-1), [Wikidata](https://www.wikidata.org/wiki/Q86721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Döll, Johann Christoph {std. Döll}|first entry]] for this author
 
 ### Author
 
 \* Döll \[Doell\], Johann Christoph (1808-1885), German librarian and botanist, born Mannheim 21 Jul 1808, died 10 Mar 1885 Karlsruhe, Baden, 1840 in Mannheim at a "höhere Bürgerschule", 1843 "Oberbibliothekar", moved to the "Hofbibliothek" at Karlsruhe, 1858 "Grossherzogl. Oberstudienrath". 
-**Abbreviated name**: *Döll*
+**Abbreviated name**: *Döll* \[standard form in IPNI: *Döll*\]
 
 #### Herbarium and types
 

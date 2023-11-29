@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33068490) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33068490) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4024-1), [Wikidata](https://www.wikidata.org/wiki/Q20033347). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hofman Bang, Niels (1776-1855), Danish botanist, pupil of Vahl, landowner (Hofmannsgave) and agronomist. 
-**Abbreviated name**: *Hofm. B.*
+**Abbreviated name**: *Hofm. B.* \[standard form in IPNI: *Bang*\]
 
 #### Herbarium and types
 

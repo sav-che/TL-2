@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33265883) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33265883) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/13050-1), [Wikidata](https://www.wikidata.org/wiki/Q5818554). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clements, née Schwartz, Edith Gertrude \[Edith Schwartz\] (1877-1971), American botanist, ecologist, botanical artist, born 5 Oct 1877, Albany, N.Y., A.B. at Univ. Nebraska 1898, Ph.D. 1904 ib., instructor at Minnesota University 1909, married Frederic Edward Clements in Lincoln, Nebraska 1899, later at Carnegie Institution of Washington and Santa Barbara, Calif. and Alpine Laboratory Manitou, Colo. 
-**Abbreviated name**: *E.G. Clem.*
+**Abbreviated name**: *E.G. Clem.* \[standard form in IPNI: *E.G.Clem.*\]
 
 #### Herbarium and types
 

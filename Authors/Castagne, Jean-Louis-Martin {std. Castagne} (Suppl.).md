@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33266760) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33266760) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1444-1), [Wikidata](https://www.wikidata.org/wiki/Q5928778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Castagne, Jean Louis Martin {std. Castagne}|first entry]] for this author
 
 ### Author
 
 \* Castagne, Jean-Louis-Martin (1785-1858), French botanist and merchant, born at Marseille, went to Constantinople \[Istambul\] settled (ca. 1820-1830) with a business house, at first with the help of the French embassy, later idem with the Dutch embassy until 1833, settled at Miramar dedicating himself to botany. 
-**Abbreviated name**: *Castagne*
+**Abbreviated name**: *Castagne* \[standard form in IPNI: *Castagne*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33259054) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33259054) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17643-1), [Wikidata](https://www.wikidata.org/wiki/Q4154201). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dahl, Å. Eilif (1916-1993), Norwegian botanist (lichenologist), studied at the University of Oslo, cand.-real 1943, in Sweden and England 1943-1945, Univ.-Stipend. Univ. Oslo 1946-1951, at the Landbruksskole in Vollebekk 1953-1959, Dr. phil. Oslo 1957, docent in Vollebekk 1959, ib. Prof. 1966. 
-**Abbreviated name**: *Å.E. Dahl*
+**Abbreviated name**: *Å.E. Dahl* \[standard form in IPNI: *E.Dahl*\]
 
 #### Herbarium and types
 

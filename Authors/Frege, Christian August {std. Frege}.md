@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33259904) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33259904) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18964-1), [Wikidata](https://www.wikidata.org/wiki/Q21388721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Frege, Christian August (1759-1834), German priest, born 15 Sep 1759 in Zwochau nr. Delitzsch, priest in Laas nr. Schutz 1788, in Streignitz nr. Lommatsch 1800 and back in Zwochau 1805, died 23 Sep 1834 in Zwochau. 
-**Abbreviated name**: *Frege*
+**Abbreviated name**: *Frege* \[standard form in IPNI: *Frege*\]
 
 #### Herbarium and types
 

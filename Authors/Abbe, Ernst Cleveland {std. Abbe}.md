@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33264771) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33264771) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/26-1), [Wikidata](https://www.wikidata.org/wiki/Q10274118). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Abbe, Ernst Cleveland (1905-x), American botanist, B.S. Cornell Univ. 1928, M.S. ib. 1930, M.A. Harvard 1931; Dr. phil. Cornell (1933?) 1934; botanical assistant at Cornell 1927-1930, at Harvard Univ. 1931-1933, Natl. Res. council fellow in biology 1934-1935, from 1935 at Bot. Dept., University of Minnesota, 1959-1962 National Science Foundation fellow studying Fagaceae and Myricaceae in S.E. Asia. Collected in northern Labrador 1931, in N. Alberta and N.E. Brit. Columbia 1932, eastern Keewatin and Western Quebec 1939, \[in New Guinea 1962, Sarawak 1964\]. 
-**Abbreviated name**: *Abbe*
+**Abbreviated name**: *Abbe* \[standard form in IPNI: *Abbe*\]
 
 #### Herbarium and types
 

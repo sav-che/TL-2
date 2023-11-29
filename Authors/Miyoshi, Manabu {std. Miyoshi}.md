@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 528](https://www.biodiversitylibrary.org/page/33355615) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 528](https://www.biodiversitylibrary.org/page/33355615) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23494-1), [Wikidata](https://www.wikidata.org/wiki/Q11354871). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Miyoshi, Manabu (1861-1939), Japanese botanist; studied with Pfeffer 1891-1895; Dr. Sc. Tokyo 1895; professor of botany at Tokyo University from 1895; director of the Botanic gardens of Tokyo Univ. 1922-1924. 
-**Abbreviated name**: *Miyoshi*
+**Abbreviated name**: *Miyoshi* \[standard form in IPNI: *Miyoshi*\]
 
 #### Herbarium and types
 

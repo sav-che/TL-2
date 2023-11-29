@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33355607) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33355607) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6512-1), [Wikidata](https://www.wikidata.org/wiki/Q765542). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mirbel, Charles François Brisseau de (1776-1854), French botanist; in Paris 1798-1806 at the Muséum; from 1802-1806 head-gardener at Malmaison; in Holland with Louis Napoléon 1806-1810; from 1829 again attached to the Muséum (1829 professeur de culture); mainly plant anatomist and physiologist. 
-**Abbreviated name**: *Mirb.*
+**Abbreviated name**: *Mirb.* \[standard form in IPNI: *Mirb.*\]
 
 #### Herbarium and types
 

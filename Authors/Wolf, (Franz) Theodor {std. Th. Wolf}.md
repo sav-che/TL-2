@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33066762) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33066762) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11815-1), [Wikidata](https://www.wikidata.org/wiki/Q77894). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wolf, \[Franz\] Theodor (1841-1921), German (Württemberg) geologist and botanist; professor of geology and mineralogy Univ. Quito 1870, state geologist of Ecuador 1875; from 1891 private scientist at Dresden-Plauen. 
-**Abbreviated name**: *Th. Wolf*
+**Abbreviated name**: *Th. Wolf* \[standard form in IPNI: *Th.Wolf*\]
 
 #### Herbarium and types
 

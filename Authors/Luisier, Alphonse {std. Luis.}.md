@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33355278) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33355278) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22603-1), [Wikidata](https://www.wikidata.org/wiki/Q16488973). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Luisier, Alphonse (1872-1957), Swiss-born priest (entered S. J. in Portugal 1891) and bryologist; from 1932 at the Instituto Nun d'Alvres Caldas da Saude, Portugal. 
-**Abbreviated name**: *Luis.*
+**Abbreviated name**: *Luis.* \[standard form in IPNI: *Luisier*\]
 
 #### Herbarium and types
 

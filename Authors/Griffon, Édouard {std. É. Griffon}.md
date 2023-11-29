@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33258869) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33258869) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19635-1), [Wikidata](https://www.wikidata.org/wiki/Q21514283). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Griffon, Édouard (1869-1912), French phytopathologist, born 24 Jul 1869 in Vault-de-Lugny (Yonne), prof. of Natural History, then Botany, and Dir., Plant Pathology Station at Versailles and Botanic Garden of the National School of Agriculture at Grignon, died 28 Jun 1912 in Paris. 
-**Abbreviated name**: *É. Griffon*
+**Abbreviated name**: *É. Griffon* \[standard form in IPNI: *Griffon*\]
 
 #### Herbarium and types
 

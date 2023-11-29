@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33212697) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33212697) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11043-1), [Wikidata](https://www.wikidata.org/wiki/Q21611377). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Van Bambeke, Charles Eugène Marie (1829-1918), Belgian physician and botanist; Dr. med. Univ. Gent 1857; practicing physician in Gent 1857, also physician for the poor 1857-1863 and surgeon at various hospitals until 1880; assistant for comparative anatomy at the University, e.o. professor 1871-1876; regular professor at the Faculty of medicine 1876-1899, especially interested in mycology from ca. 1880-1918. 
-**Abbreviated name**: *Van Bambeke*
+**Abbreviated name**: *Van Bambeke* \[standard form in IPNI: *Van Bamb.*\]
 
 #### Herbarium and types
 

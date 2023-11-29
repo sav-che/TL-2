@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-07-10 11:30:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33265572) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33265572) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1015-1), [Wikidata](https://www.wikidata.org/wiki/Q71825). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bouché, Carl David (1809-1881), German (Berlin born) gardener and botanist, educated at the "Gymnasium zum grauen Kloster" until 1823, worked with his father Peter Carl Bouché at the Schöneberg garden school 1823-1831, from 1831-1839 employed at the Berlin Botanical Garden, at the Pfaueninsel as gardener 1839-1843, "inspector" \[director\] of the Botanical Garden from 1843-1881. 
-**Abbreviated name**: *C.D. Bouché*
+**Abbreviated name**: *C.D. Bouché* \[standard form in IPNI: *C.D.Bouché*\]
 
 #### Herbarium and types
 

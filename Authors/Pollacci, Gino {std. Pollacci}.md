@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33189800) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33189800) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24961-1), [Wikidata](https://www.wikidata.org/wiki/Q15686778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pollacci, Gino (1872-1963), Italian botanist; assistant at the Botanical Garden, Pavia (1896); habil. ib. 1903; lecturer at the botanical institute Pavia 1910-1913, at the cryptogamic laboratory ib. 1913-1915; in the Italian army 1915-1919; interim-director bot. inst. and garden 1919-1920; extraordinary professor of botany at Sassari 1920-1921; id. at Siena (also dir. bot. gard.) 1921-1927; from 1927-1942 director of the botanical institute and cryptogamic laboratory Pavia 
-**Abbreviated name**: *Pollacci*
+**Abbreviated name**: *Pollacci* \[standard form in IPNI: *Pollacci*\]
 
 #### Herbarium and types
 

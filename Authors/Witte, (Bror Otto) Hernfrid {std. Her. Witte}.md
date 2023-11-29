@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33066741) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33066741) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13027-1), [Wikidata](https://www.wikidata.org/wiki/Q20789817). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Witte, \[Bror Otto\] Hernfrid (1877-1945), Swedish agricultural botanist; Dr. phil. Uppsala 1906; with the Svalöv seed experiment station 1907-1921, with the Swedish "mosskulturföreningen" in Jönköping 1921-1925; with the Swedish State Seed Testing Station, Stocksund 1925-1944. 
-**Abbreviated name**: *Her. Witte*
+**Abbreviated name**: *Her. Witte* \[standard form in IPNI: *H.Witte*\]
 
 #### Herbarium and types
 

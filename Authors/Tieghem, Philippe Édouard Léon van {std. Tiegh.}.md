@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33212387) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33212387) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27724-1), [Wikidata](https://www.wikidata.org/wiki/Q2421500). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tieghem, Philippe Édouard Léon van (1839-1914), French botanist; at the École normale supérieure 1858-1861, aggr. ib. 1861; Dr. sci. nat. Paris 1867; "maître de conférences" in botany at the École normale supérieure 1864, professor of botany at the École des Arts et Métiers, at the Muséum d'Histoire naturelle 1879, at the École supérieure for female teachers; also active at the Agronomical Institute; originator of the stelar concept and of the floral vascular anatomy of the flower. 
-**Abbreviated name**: *Tiegh.*
+**Abbreviated name**: *Tiegh.* \[standard form in IPNI: *Tiegh.*\]
 
 #### Herbarium and types
 

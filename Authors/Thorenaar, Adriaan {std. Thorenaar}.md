@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33212334) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33212334) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10627-1), [Wikidata](https://www.wikidata.org/wiki/Q21610686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thorenaar, Adriaan (1894-1977), Dutch forest officer, silviculturist and soil scientist; entered the Dutch East Indies Forest Service 1919; in E. Java 1919-1920; 1920-1925 at Palembang; at Buitenzorg 1925-1937, from 1934 as teacher at the Buitenzorg \[Bogor\] Agricultural School; from 1937 at Poerworedja; ultimately at Voorburg nr The Hague; Dr. phil. Wageningen 1926. 
-**Abbreviated name**: *Thorenaar*
+**Abbreviated name**: *Thorenaar* \[standard form in IPNI: *Thorenaar*\]
 
 #### Herbarium and types
 

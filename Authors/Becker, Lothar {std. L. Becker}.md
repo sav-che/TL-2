@@ -22,14 +22,13 @@ ipni_record_created: 2005-01-07 06:07:26.0
 ipni_record_modified: 2005-01-07 06:07:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33265229) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33265229) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/20002761-1), [Wikidata](https://www.wikidata.org/wiki/Q47113951). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Becker, Lothar (fl. 1875), Private botanist at Breslau \[Wroclaw\]. 
-**Abbreviated name**: *L. Becker*
+**Abbreviated name**: *L. Becker* \[standard form in IPNI: *L.Becker*\]
 
 #### Herbarium and types
 

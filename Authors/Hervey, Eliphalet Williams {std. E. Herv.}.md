@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33068419) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33068419) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3891-1), [Wikidata](https://www.wikidata.org/wiki/Q21515758). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hervey, Eliphalet Williams (1834-1925), American botanist. 
-**Abbreviated name**: *E. Herv.*
+**Abbreviated name**: *E. Herv.* \[standard form in IPNI: *E.W.Herv.*\]
 
 #### Herbarium and types
 

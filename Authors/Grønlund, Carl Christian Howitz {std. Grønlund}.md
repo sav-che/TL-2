@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33121142) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33121142) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3403-1), [Wikidata](https://www.wikidata.org/wiki/Q5774578). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Grønlund (Groen., Grön.), (Carl) Christian (Howitz) {std. Grønlund} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Grønlund, Carl Christian Howitz (1825-1901), Danish botanist, and microscopist at the NyKarlsberg brewery. 
-**Abbreviated name**: *Grønlund*
+**Abbreviated name**: *Grønlund* \[standard form in IPNI: *Grønlund*\]
 
 #### Herbarium and types
 

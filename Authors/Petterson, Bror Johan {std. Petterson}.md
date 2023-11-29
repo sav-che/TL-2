@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33189683) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33189683) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7604-1), [Wikidata](https://www.wikidata.org/wiki/Q5734293). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petterson, Bror Johan (1895-x), Finnish botanist, curator at the Botanical Museum, University of Helsinki 1959-1965; travelled in the Canary Islands 1947, 1949, 1951 and Sudan & Egypt 1962. 
-**Abbreviated name**: *Petterson*
+**Abbreviated name**: *Petterson* \[standard form in IPNI: *Pett.*\]
 
 #### Herbarium and types
 

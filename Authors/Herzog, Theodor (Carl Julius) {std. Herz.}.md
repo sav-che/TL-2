@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33068420) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33068420) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3895-1), [Wikidata](https://www.wikidata.org/wiki/Q98278). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Herzog, Theodor \[Carl Julius\] (1880-1961), German bryologist who collected widely e.g. in Sardinia (1904, 1906), Ceylon (1905-1908) and Bolivia (1907-1912); Dr. phil. München 1903; Dr. phil. h.c. Greifswald 1955; professor of botany at München (1920-1925), at Jena (1925-1948). 
-**Abbreviated name**: *Herz.*
+**Abbreviated name**: *Herz.* \[standard form in IPNI: *Herzog*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33355265) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33355265) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5787-1), [Wikidata](https://www.wikidata.org/wiki/Q938919). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lowe, Richard Thomas (1802-1874), British clergyman and botanist; chaplain in Madeira 1832-1854; rector of Lea, Lincolnshire, ca. 1854; botanised in Orkney Isl., Canary Isl., Cape Verde Isl., Madeira, Marocco. 
-**Abbreviated name**: *R. Lowe*
+**Abbreviated name**: *R. Lowe* \[standard form in IPNI: *Lowe*\]
 
 #### Herbarium and types
 

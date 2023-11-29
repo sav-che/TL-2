@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33265357) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33265357) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16121-1), [Wikidata](https://www.wikidata.org/wiki/Q36648797). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Biers, \[Denis\] Paul \[M.\] (1867-1929), French mycologist, Licencié es sciences naturelles, sometime employed by the "Cabinet du Ministre de l'Instruction publique" until 1905, assistant at the Muséum d'Histoire naturelle, Paris 1905-1929, collaborator with Louis Mangin. 
-**Abbreviated name**: *Biers*
+**Abbreviated name**: *Biers* \[standard form in IPNI: *Biers*\]
 
 #### Herbarium and types
 

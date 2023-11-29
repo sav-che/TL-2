@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33355843) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33355843) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7002-1), [Wikidata](https://www.wikidata.org/wiki/Q13107636). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nitschke, Theodor Rudolf Joseph (1834-1883), German mycologist; Dr. phil. Breslau 1858; habil. Münster 1860; from 1867 professor of botany at the University of Münster. 
-**Abbreviated name**: *Nitschke*
+**Abbreviated name**: *Nitschke* \[standard form in IPNI: *Nitschke*\]
 
 #### Herbarium and types
 

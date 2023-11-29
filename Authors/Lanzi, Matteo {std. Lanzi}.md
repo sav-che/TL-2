@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33068996) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33068996) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/22059-1), [Wikidata](https://www.wikidata.org/wiki/Q21518381). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lanzi, Matteo (1824-1907), Italian physician, mycologist, and diatomologist; lecturer in mycology at Rome University. (
-**Abbreviated name**: *Lanzi*
+**Abbreviated name**: *Lanzi* \[standard form in IPNI: *Lanzi*\]
 
 #### Herbarium and types
 

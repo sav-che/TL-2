@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33333554) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33333554) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9346-1), [Wikidata](https://www.wikidata.org/wiki/Q77209). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwabe, Samuel Heinrich (1789-1875), German (Anhalt-Dessau) astronomer and botanist; trained as pharmacist; practicing pharmacist at Dessau 1812-1829; from then on active as botanical and astronomical "Privatgelehrter". 
-**Abbreviated name**: *Schwabe*
+**Abbreviated name**: *Schwabe* \[standard form in IPNI: *Schwabe*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 928](https://www.biodiversitylibrary.org/page/33121059) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 928](https://www.biodiversitylibrary.org/page/33121059) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3064-1), [Wikidata](https://www.wikidata.org/wiki/Q69278). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Geheeb, Adalbert (Adelbert) {std. Geh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Geheeb, Adalbert (1842-1909), German botanist and pharmacist at Geisa, Thuringia. 
-**Abbreviated name**: *Geh.*
+**Abbreviated name**: *Geh.* \[standard form in IPNI: *Geh.*\]
 
 #### Herbarium and types
 

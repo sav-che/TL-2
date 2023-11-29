@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 936](https://www.biodiversitylibrary.org/page/33121067) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 936](https://www.biodiversitylibrary.org/page/33121067) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3110-1), [Wikidata](https://www.wikidata.org/wiki/Q21513942). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gerth van Wijk, Hugo Leonardus (1849-1921), Dutch biologist, teacher and lexicographer. 
-**Abbreviated name**: *Gerth*
+**Abbreviated name**: *Gerth* \[standard form in IPNI: *Gerth*\]
 
 #### Herbarium and types
 

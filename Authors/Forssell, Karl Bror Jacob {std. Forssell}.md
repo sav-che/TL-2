@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/page/33120986) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/page/33120986) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18904-1), [Wikidata](https://www.wikidata.org/wiki/Q5737641). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Forssell, Karl (Carl) Bror Jakob {std. Forssell} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Forssell, Karl Bror Jacob (1856-1898), Swedish botanist at Uppsala and Karlstad. 
-**Abbreviated name**: *Forssell*
+**Abbreviated name**: *Forssell* \[standard form in IPNI: *Forssell*\]
 
 #### Herbarium and types
 

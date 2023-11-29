@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33068588) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33068588) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4158-1), [Wikidata](https://www.wikidata.org/wiki/Q21516422). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Howe, Clifton Durant (1874-?), American botanist; doctor's degree at Chicago 1904; instructor at Biltmore Forest School from 1905: later at the Faculty of Forestry, University of Toronto; brother of Marshall Avery Howe. 
-**Abbreviated name**: *C. Howe*
+**Abbreviated name**: *C. Howe* \[standard form in IPNI: *C.Howe*\]
 
 #### Herbarium and types
 

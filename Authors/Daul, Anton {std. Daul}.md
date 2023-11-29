@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33259132) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33259132) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/20016247-2), [Wikidata](https://www.wikidata.org/wiki/Q21509877). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Daul, Anton (1821-?), German botanist, born at Donauwörth, interested in Cactaceae and succulents, worked at Stuttgart. 
-**Abbreviated name**: *Daul*
+**Abbreviated name**: *Daul* \[standard form in IPNI: *Daul*\]
 
 #### Herbarium and types
 

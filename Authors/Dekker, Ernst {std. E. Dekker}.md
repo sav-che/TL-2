@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33259212) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33259212) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/32900-1), [Wikidata](https://www.wikidata.org/wiki/Q36544503). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dekker, Ernst (fl. 1929), German botanist in Königsberg, Preussen. 
-**Abbreviated name**: *E. Dekker*
+**Abbreviated name**: *E. Dekker* \[standard form in IPNI: *E.Dekker*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33333284) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33333284) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9070-1), [Wikidata](https://www.wikidata.org/wiki/Q21607900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schibler, Wilhelm (1861-1931), Swiss botanist; Dr. med. et phil. Bern 1887; from 1890 physician at Davos. 
-**Abbreviated name**: *Schibler*
+**Abbreviated name**: *Schibler* \[standard form in IPNI: *Schibler*\]
 
 #### Herbarium and types
 

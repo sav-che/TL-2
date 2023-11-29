@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33355742) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33355742) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6756-1), [Wikidata](https://www.wikidata.org/wiki/Q588256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Muhlenberg, Rev. Gotthilf Henry Ernest (1753-1815) (Mühlenberg), American botanist, native of Pennsylvania; educated in Germany (1763-1770), Lutheran clergyman at Lancaster, Pa. 1780-1815. 
-**Abbreviated name**: *Muhl.*
+**Abbreviated name**: *Muhl.* \[standard form in IPNI: *Muhl.*\]
 
 #### Herbarium and types
 

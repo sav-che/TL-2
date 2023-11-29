@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33355502) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33355502) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23266-1), [Wikidata](https://www.wikidata.org/wiki/Q66322). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Menge, Franz Anton (1808-1880), German high school teacher, palaeontologist, arachnologist and botanist; studied at Bonn 1828-1832; high school teacher at Graudenz 1833-1836, and at the Petrischule, Danzig 1836-1877; specialist on amber fossils. 
-**Abbreviated name**: *Menge*
+**Abbreviated name**: *Menge* \[standard form in IPNI: *Menge*\]
 
 #### Herbarium and types
 

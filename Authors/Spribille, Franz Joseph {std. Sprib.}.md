@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33333953) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33333953) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9993-1), [Wikidata](https://www.wikidata.org/wiki/Q21340776). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spribille, Franz Joseph (1841-1921), German (Silesian) botanist; studied theology and classical philology at Breslau 1861-1866; in various positions in the Silesian school system from 1868; teacher at the gymnasia at Schrimm and Inowrazlaw until 1907; professor's title 1897; in retirement in Breslau 1908-1921. 
-**Abbreviated name**: *Sprib.*
+**Abbreviated name**: *Sprib.* \[standard form in IPNI: *Sprib.*\]
 
 #### Herbarium and types
 

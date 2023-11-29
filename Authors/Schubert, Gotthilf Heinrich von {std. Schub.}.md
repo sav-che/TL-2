@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33333490) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33333490) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9277-1), [Wikidata](https://www.wikidata.org/wiki/Q66704). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schubert, Gotthilf Heinrich von (1780-1860), German (Saxonian) philosopher, physician and natural scientist; Dr. med. Jena 1803; practicing physician at Altenburg 1803-1805, in Freiberg 1805-1807, in Dresden 1807-1809; teacher at Nürnberg 1809-1816; private teacher at Ludwigslust 1816-1818; professor of general natural history and philosophy at Erlangen 1819-1827, id. at München, also curator of the zoological and mineralogical collections of the state of Bavaria ibid. 1828-1853; travelled in Egypt, Palestine, Lebanon and "Arabia petraea" in 1836-1837. 
-**Abbreviated name**: *Schub.*
+**Abbreviated name**: *Schub.* \[standard form in IPNI: *Schub.*\]
 
 #### Herbarium and types
 

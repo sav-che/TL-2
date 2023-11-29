@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33068959) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33068959) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5189-1), [Wikidata](https://www.wikidata.org/wiki/Q9014530). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lacoizqueta, José Maria de (1831-1891), Spanish clergyman and botanist at Navarte in Navarra. 
-**Abbreviated name**: *Lacoizq.*
+**Abbreviated name**: *Lacoizq.* \[standard form in IPNI: *Lacoizq.*\]
 
 #### Herbarium and types
 

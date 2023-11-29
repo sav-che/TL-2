@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33355454) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33355454) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23042-1), [Wikidata](https://www.wikidata.org/wiki/Q21338678). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Matouschek, Franz (1871-?), Bohemian bryologist; at the German University Praha 1893-1894; at the Geological Institute, Praha 1895-1897; high school teacher in Moravia, Bohemia and Austria; later lecturer at the University of Vienna and the Hochschule für Bodenkultur. 
-**Abbreviated name**: *Matousch.*
+**Abbreviated name**: *Matousch.* \[standard form in IPNI: *Matousch.*\]
 
 #### Herbarium and types
 

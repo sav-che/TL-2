@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33355316) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33355316) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5948-1), [Wikidata](https://www.wikidata.org/wiki/Q822624). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 M'Mahon \[McMahon\], Bernard (c. 1775-1816), Irish-born American horticulturist and seedsman at Philadelphia; author of the first American gardener's guide. 
-**Abbreviated name**: *M'Mahon*
+**Abbreviated name**: *M'Mahon* \[standard form in IPNI: *M'Mahon*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33266439) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33266439) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1187-1), [Wikidata](https://www.wikidata.org/wiki/Q1149854). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brown, Addison {std. A. Br.}|first entry]] for this author
 
 ### Author
 
 \* Brown, Addison (1830-1913), American judge and botanist, studied at Amherst College 1848-1849, at Harvard 1849-1852, graduated from Harvard Law School 1855, practising law in New York City 1866-1881, judge in the United States District Court 1881-1901, L.L.D. Harvard Univ. 1902, long time on the Board of Managers of the New York Botanical Garden, ultimately as its president. 
-**Abbreviated name**: *A. Br.*
+**Abbreviated name**: *A. Br.* \[standard form in IPNI: *A.Br.*\]
 
 #### Herbarium and types
 

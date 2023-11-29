@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33265997) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33265997) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17392-1), [Wikidata](https://www.wikidata.org/wiki/Q21508986). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cook, Melville Thurston (1869-1952), American botanist and entomologist, born at Coffeen, Illinois, educated at the DePauw University Greencastle, Indiana, 1888-1889, 1891-1893, A.B. Stanford University 1894, A.M. DePauw University 1901, fellow Ohio State University 1901-1902, Dr. Phil. 1904, at DePauw University 1895-1897, id. professor 1897-1904, chief departement plant pathology at Estacion Central Agron. Cuba, Santiago de las Vegas, Cuba 1904-1907, professor at Delaware College 1907-1911, plant pathologist New Jersey Exper. Station 1911 -1923, from 1923-1940 at Exper. Station Rio Piedras, Puerto Rico. 
-**Abbreviated name**: *M.T. Cook*
+**Abbreviated name**: *M.T. Cook* \[standard form in IPNI: *M.T.Cook*\]
 
 #### Herbarium and types
 

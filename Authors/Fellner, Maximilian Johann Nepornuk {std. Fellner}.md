@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33120953) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33120953) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2677-1), [Wikidata](https://www.wikidata.org/wiki/Q6007556). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fellner, Maximilian Johann Nepornuk (*fl*. 1775), Austrian mycologist. 
-**Abbreviated name**: *Fellner*
+**Abbreviated name**: *Fellner* \[standard form in IPNI: *Fellner*\]
 
 #### Herbarium and types
 

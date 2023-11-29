@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33333687) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33333687) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9533-1), [Wikidata](https://www.wikidata.org/wiki/Q263541). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shaler, Nathaniel Southgate (1841-1906), American geologist; student of L. Agassiz; D.Sc. Lawrence Scientific School, Cambridge 1865; instructor in zoology and geology ib. 1868-1872; professor of paleontology Harvard 1869-1888; professor of geology ib. 1888-1906; director of the second Kentucky Geological Survey 1873-1879; geologist U.S. Geol. Survey 1886-1900. 
-**Abbreviated name**: *Shaler*
+**Abbreviated name**: *Shaler* \[standard form in IPNI: *Shaler*\]
 
 #### Herbarium and types
 

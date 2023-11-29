@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33066692) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33066692) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11733-1), [Wikidata](https://www.wikidata.org/wiki/Q5482813). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilson, Francis Robert Muter (1832-1903), Australian clergyman and lichenologist; long time Presbyterian minister at Kew, Victoria. 
-**Abbreviated name**: *F. Wils.*
+**Abbreviated name**: *F. Wils.* \[standard form in IPNI: *F.Wilson*\]
 
 #### Herbarium and types
 

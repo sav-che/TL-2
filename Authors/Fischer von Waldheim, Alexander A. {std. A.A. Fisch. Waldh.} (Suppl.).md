@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33259723) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33259723) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18830-1), [Wikidata](https://www.wikidata.org/wiki/Q2833396). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fischer von Waldheim, Alexander Alexandrovitch {std. A.A. Fisch. Waldh.}|first entry]] for this author
 
 ### Author
 
 \* Fischer von Waldheim, Alexander \[Alexsandr\] Alexandrovitch \[Alexandrovich, Alexandrowitsch\] (1839-1920), Russian botanist, born 8 Apr 1839 in Moscow, educated at Moscow Univ., prof., Univ. of Warsaw 1869 and dir., Warsaw Botanic Garden 1878, returned to St. Petersburg 1897 as dir. of the Imperial Botanical Garden until 1917. 
-**Abbreviated name**: *A.A. Fisch.-Waldh.*
+**Abbreviated name**: *A.A. Fisch.-Waldh.* \[standard form in IPNI: *A.A.Fisch.Waldh.*\]
 
 #### Note
 

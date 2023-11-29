@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33189626) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33189626) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24707-1), [Wikidata](https://www.wikidata.org/wiki/Q20739478). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pennington, Leigh H \[Humboldt\] (1877-1929), American phytopathologist and mycologist; B.A. Univ. Mich. 1907, Dr. phil. 1909; from 1910 at Syracuse University as professor of botany, from 1914-1929 as head of the dept. of forest botany. 
-**Abbreviated name**: *Pennington*
+**Abbreviated name**: *Pennington* \[standard form in IPNI: *Penn.*\]
 
 #### Herbarium and types
 

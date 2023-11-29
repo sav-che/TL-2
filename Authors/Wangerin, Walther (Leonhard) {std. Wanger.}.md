@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33066396) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33066396) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11395-1), [Wikidata](https://www.wikidata.org/wiki/Q121519). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wangerin, Walther \[Leonhard\] (1884-1938), German (Prussian-Saxony) botanist; studied mathematics and natural sciences at Halle University; Dr. phil. ib. 1906; assistant to A. Engler in Berlin-Dahlem 1906; high school teacher at Burg in Magdeburg 1909, id. in Königsberg 1911; lecturer in botany at the Technical College of Danzig 1913, later extraordinary professor of botany ib. and, from 1920 divisional director of the Danzig Museum of Natural History and Prehistory. 
-**Abbreviated name**: *Wanger.*
+**Abbreviated name**: *Wanger.* \[standard form in IPNI: *Wangerin*\]
 
 #### Herbarium and types
 

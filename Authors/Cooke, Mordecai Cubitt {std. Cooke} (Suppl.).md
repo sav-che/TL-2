@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33266004) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33266004) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1783-1), [Wikidata](https://www.wikidata.org/wiki/Q2351239). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cooke, Mordecai Cubitt {std. Cooke}|first entry]] for this author
 
 ### Author
 
 \* Cooke, Mordecai Cubitt (1825-1914), British botanist and teacher, first education with a dame's school until 1834, to IIford with his nonconformist minister 1834-1838, at Norfolk and some time at Neatishead 1838-1845, in London 1845-1850 copying clerk in a solicitor's office, master of Trinity School Lambeth 1850-1860, at the Indian Museum, London 1861/2-1880, at Kew 1880-1892. 
-**Abbreviated name**: *Cooke*
+**Abbreviated name**: *Cooke* \[standard form in IPNI: *Cooke*\]
 
 #### Herbarium and types
 

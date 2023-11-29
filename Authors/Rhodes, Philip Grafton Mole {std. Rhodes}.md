@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33190226) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33190226) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8337-1), [Wikidata](https://www.wikidata.org/wiki/Q21607156). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rhodes, Philip Grafton Mole (1885-1934), British (Roman-catholic) clergyman, bryologist and mycologist; BA Cambridge, DD Fribourg; curate at Kidderminster, Worcs., professor of Ascott college, Birmingham; parish priest at Evensham. 
-**Abbreviated name**: *Rhodes*
+**Abbreviated name**: *Rhodes* \[standard form in IPNI: *Rhodes*\]
 
 #### Herbarium and types
 

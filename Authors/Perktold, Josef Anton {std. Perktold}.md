@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33189638) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33189638) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24736-1), [Wikidata](https://www.wikidata.org/wiki/Q21522832). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Perktold, Josef Anton (1804-1870), Austrian cryptogamist and clergyman; entered the Praemonstratenser Convent of Wilten 1825 (baptismal name Anton); ordained 1829; clergyman at Tarrenz 1829-1830, Ellbögen nr. Innsbruck 1830-1840, Tulfes 1834-1836, Vill 1836-1842, Igels 1842-1852, ultimately again at Wilten as canon of its Convent. 
-**Abbreviated name**: *Perktold*
+**Abbreviated name**: *Perktold* \[standard form in IPNI: *Perktold*\]
 
 #### Herbarium and types
 

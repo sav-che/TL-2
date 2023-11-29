@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265833) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265833) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1628-1), [Wikidata](https://www.wikidata.org/wiki/Q21508536). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Christener, Christian (1810-1872), Swiss botanist and school teacher (at the Kantonsschule) at Bern, botanized mainly in the Berner Alpen, especially in the area of Grindelwald, had a large herbarium acquired by Shuttleworth. 
-**Abbreviated name**: *Christener*
+**Abbreviated name**: *Christener* \[standard form in IPNI: *Christener*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33265589) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33265589) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1032-1), [Wikidata](https://www.wikidata.org/wiki/Q1276362). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bourgeau, Eugène {std. Bourg.}|first entry]] for this author
 
 ### Author
 
 \* Bourgeau, Eugène (1813-1877), French botanical traveller and collector, born at Brizon (Haute-Alpes), in his early years botanizing and working with N.C. Seringe, then director of the Botanical Garden of Lyon, moved to Paris, curator and traveller for Philip Barker Webb, travelled widely in South and Southwest France (including nine trips to Spain), in Algeria 1856, in North America at the instigation of William Hooker 1857-1861 (mainly in present Canada), continued his European and Near East explorations (for Boissier) 1861-1864, again to North America 1865-1866, in 1867 to Mexico. 
-**Abbreviated name**: *Bourg.*
+**Abbreviated name**: *Bourg.* \[standard form in IPNI: *Bourg.*\]
 
 #### Herbarium and types
 

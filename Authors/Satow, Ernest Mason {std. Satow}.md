@@ -28,14 +28,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33333202) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33333202) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8942-1), [Wikidata](https://www.wikidata.org/wiki/Q166598). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Satow, Ernest Mason (1843-1929), British botanist and diplomat; Japanese secretary to the British legation at Tokyo 1868-1884; minister resident and consul-general at Bangkok 1885-1888; in Uruguay 1888-1893, Marocco 1893-1895; minister plenipotentiary in Tokyo 1895-1900; id. Peking 190-1906; privy councillor from 1906. 
-**Abbreviated name**: *Satow*
+**Abbreviated name**: *Satow* \[standard form in IPNI: *Satow*\]
 
 #### Herbarium and types
 

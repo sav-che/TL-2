@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33120381) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33120381) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/34740-1), [Wikidata](https://www.wikidata.org/wiki/Q313093). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boerhaave, Herman (1668-1739), Dutch physician and botanist, "communis Europae praeceptor." 
-**Abbreviated name**: *Boerh.*
+**Abbreviated name**: *Boerh.* \[standard form in IPNI: *Boerh.*\]
 
 #### Herbarium and types
 

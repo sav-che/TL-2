@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33212565) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33212565) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10891-1), [Wikidata](https://www.wikidata.org/wiki/Q1293905). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tuckerman, Edward (1817-1886), American botanist, B.A. Union Coll. 1837; LL.D. Harvard College 1839; travelled in Europe 1841-1842; B.A. Harvard 1847; in Harvard Divinity School 1847-1852; lecturer in history at Amherst College 1854-1855; professor of oriental history 1855-1858; professor of botany ib. 1858-1886 (also lecturing in history 1858-1873); outstanding lichenologist. 
-**Abbreviated name**: *Tuck.*
+**Abbreviated name**: *Tuck.* \[standard form in IPNI: *Tuck.*\]
 
 #### Herbarium and types
 

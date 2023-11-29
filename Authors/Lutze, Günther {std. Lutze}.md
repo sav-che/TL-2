@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33355285) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33355285) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5855-1), [Wikidata](https://www.wikidata.org/wiki/Q21519668). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lutze, Günther (1840-1930) German botanist and high school teacher at Sondershausen 
-**Abbreviated name**: *Lutze*
+**Abbreviated name**: *Lutze* \[standard form in IPNI: *Lutze*\]
 
 #### Herbarium and types
 

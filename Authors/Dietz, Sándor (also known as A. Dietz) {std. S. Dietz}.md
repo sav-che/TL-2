@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33259383) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33259383) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/20010977-1), [Wikidata](https://www.wikidata.org/wiki/Q47116470). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dietz, Sándor (also known as A. Dietz) (fl. 1887), Hungarian botanist, assistant at the chair of botany of the university. 
-**Abbreviated name**: *S. Dietz*
+**Abbreviated name**: *S. Dietz* \[standard form in IPNI: *S.Dietz*\]
 
 #### Herbarium and types
 

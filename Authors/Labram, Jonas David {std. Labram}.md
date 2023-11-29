@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33068955) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33068955) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5177-1), [Wikidata](https://www.wikidata.org/wiki/Q21341225). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Labram, Jonas David (1785-1852), Swiss botanical artist at Basel 
-**Abbreviated name**: *Labram*
+**Abbreviated name**: *Labram* \[standard form in IPNI: *Labram*\]
 
 #### Herbarium and types
 

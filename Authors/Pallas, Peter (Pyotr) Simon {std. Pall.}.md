@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33189495) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33189495) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7276-1), [Wikidata](https://www.wikidata.org/wiki/Q155914). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pallas, Peter \[Pyotr\] Simon (1741-1811), German (Berlin) botanist and geographer; explorer of Russia and Siberia, pioneer naturalist of Northern Asia; Dr. med. Leiden 1759; 1761-1766 working in Holland and England; to Russia 1767; from 1768-1774 in the Ural Mts. and Western Siberia; 1774-1793 in St. Petersburg; 1793-1794 in S. Russia and the Crimea; settled later in the Crimea 1795-1810; retired to Berlin 1810-1811. 
-**Abbreviated name**: *Pall.*
+**Abbreviated name**: *Pall.* \[standard form in IPNI: *Pall.*\]
 
 #### Herbarium and types
 

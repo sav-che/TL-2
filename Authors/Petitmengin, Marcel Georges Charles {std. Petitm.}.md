@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33189673) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33189673) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7583-1), [Wikidata](https://www.wikidata.org/wiki/Q3288981). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petitmengin, Marcel Georges Charles (1881-1908), French botanist; curator of botany (préparateur) at the Pharmaceutical college of Nancy; travelled in Greece with R. Maire (1906). 
-**Abbreviated name**: *Petitm.*
+**Abbreviated name**: *Petitm.* \[standard form in IPNI: *Petitm.*\]
 
 #### Herbarium and types
 

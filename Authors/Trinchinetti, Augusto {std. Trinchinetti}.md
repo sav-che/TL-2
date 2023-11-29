@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33212535) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33212535) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10826-1), [Wikidata](https://www.wikidata.org/wiki/Q21610958). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trinchinetti, Augusto (1813-1847), Italian botanist; Dr. med. Pavia 1835, later sometime professor of botany in Pavia. 
-**Abbreviated name**: *Trinchinetti*
+**Abbreviated name**: *Trinchinetti* \[standard form in IPNI: *Trinch.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33068475) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33068475) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4006-1), [Wikidata](https://www.wikidata.org/wiki/Q21516097). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoess, Franz (1756-1840), Austrian botanist and forester, professor at the Mariabrunn school of forestry (nr. Wien), later at Windischmarchwitz in Schlesien. 
-**Abbreviated name**: *Hoess*
+**Abbreviated name**: *Hoess* \[standard form in IPNI: *Höss*\]
 
 #### Herbarium and types
 

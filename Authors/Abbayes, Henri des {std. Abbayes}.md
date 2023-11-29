@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33120094) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33120094) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/25-1), [Wikidata](https://www.wikidata.org/wiki/Q953305). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Abbayes, Henri (Robert) Nicollon des {std. Abbayes} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Abbayes, Henri des (1898-1974), French lichenologist and plant collector at Rennes. 
-**Abbreviated name**: *Abbayes*
+**Abbreviated name**: *Abbayes* \[standard form in IPNI: *Abbayes*\]
 
 #### Herbarium and types
 

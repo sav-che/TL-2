@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33260107) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33260107) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2334-1), [Wikidata](https://www.wikidata.org/wiki/Q4172133). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dubard, Marcel Marie Maurice (1873-1914), French botanist, studied at the Faculté des Sciences de Paris, théses 1912, professor "titulaire" of botany at the Faculté des Sciences de l'Université de Clermont-Ferrand 1912-1914. 
-**Abbreviated name**: *Dubard*
+**Abbreviated name**: *Dubard* \[standard form in IPNI: *Dubard*\]
 
 #### Herbarium and types
 

@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/page/33189917) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/page/33189917) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8035-1), [Wikidata](https://www.wikidata.org/wiki/Q67353). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pursh, Frederick Traugott \[originally Friedrich Traugott Pursch\] (1774-1820), German (Saxonian) botanist; studied botany and horticulture at Dresden; to America 1799 as traveller collector, gardener and landscape architect; from 1803-1805 \[?\] in charge of William Hamilton's estate nr Philadelphia (the Woodlands); from 1809-1810 id. of the Elgin Botanic Garden at New York; from 1810-1811 in the West Indies; from 1811 in England, working with A.B. Lambert; ultimately at Montreal. 
-**Abbreviated name**: *Pursh*
+**Abbreviated name**: *Pursh* \[standard form in IPNI: *Pursh*\]
 
 #### Herbarium and types
 

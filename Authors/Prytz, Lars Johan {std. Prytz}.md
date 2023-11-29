@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33189892) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33189892) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8003-1), [Wikidata](https://www.wikidata.org/wiki/Q17383242). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Prytz, Lars Johan (1789-1823), Finnish botanist. 
-**Abbreviated name**: *Prytz*
+**Abbreviated name**: *Prytz* \[standard form in IPNI: *Prytz*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33259721) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33259721) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18828-1), [Wikidata](https://www.wikidata.org/wiki/Q47117244). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fischer, Robert (1894-after 1950), Austrian botanist esp. interested in algae (and later in plant diseases), born in Neuhof nr. Auspitz (Mähren), studied at the Univ. of Vienna 1918-1922, Dr. phil. 1922, employed by the "Bundesanstalt" for plant protection in Vienna. 
-**Abbreviated name**: *R. Fisch.*
+**Abbreviated name**: *R. Fisch.* \[standard form in IPNI: *R.Fisch.*\]
 
 #### Herbarium and types
 

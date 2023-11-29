@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33333547) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33333547) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9335-1), [Wikidata](https://www.wikidata.org/wiki/Q71649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schur, \[Philipp Johann\] Ferdinand (1799-1878), German (Prussian) botanist; studied at Königsberg and Berlin; state examination pharmacy Berlin; Dr. phil. ib.; director of a chemical factory at Liesing (Wien); subsequently in similar factories in Austria, Hungary and Slowakia; in charge of a sulfuric acid factory in Hermannstadt 1845; devoting himself especially to botany; high school teacher at Kronstadt (Brasov) 1853-1854; director and owner of a girl's school (1854-1864) and private scientist in Wien 1854-1870; from 1870 in Brünn (Brno), ultimately in Bielitz (Silesia). 
-**Abbreviated name**: *Schur*
+**Abbreviated name**: *Schur* \[standard form in IPNI: *Schur*\]
 
 #### Herbarium and types
 

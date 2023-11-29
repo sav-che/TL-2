@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33260202) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33260202) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18314-1), [Wikidata](https://www.wikidata.org/wiki/Q21511219). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Duval, Charles Jeunet (1751-1828), French born botanist living in Germany, born at Roie (Somme) in 1751, had to leave France because he killed somebody in a duel, worked with the prince of Hohenlohe-Schillingsfürst, went to Regensburg earning a living as fencing-master, became later professor in mathematics with the prince of Thurn and Taxis, studied the flora around Regensburg, lived at the castle Irlbach, died 10 Sep 1828. 
-**Abbreviated name**: *C.-J. Duval*
+**Abbreviated name**: *C.-J. Duval* \[standard form in IPNI: *C.-J.Duval*\]
 
 #### Herbarium and types
 

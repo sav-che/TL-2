@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33120331) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33120331) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/715-1), [Wikidata](https://www.wikidata.org/wiki/Q121991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bernoulli, Karl (Carl) Gustav {std. Bernoulli} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bernoulli, Carl Gustav (1834-1878), Swiss naturalist, resident in Guatemala 1858-1878. 
-**Abbreviated name**: *Bernouilli*
+**Abbreviated name**: *Bernouilli* \[standard form in IPNI: *Bernoulli*\]
 
 #### Herbarium and types
 

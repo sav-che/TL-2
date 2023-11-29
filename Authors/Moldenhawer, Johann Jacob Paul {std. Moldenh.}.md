@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33355633) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33355633) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6568-1), [Wikidata](https://www.wikidata.org/wiki/Q89645). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moldenhawer, Johann Jacob Paul (1766-1827), German botanist; born at Hamburg; professor of botany at Kiel University and director of the Düsternbrook forestry school 
-**Abbreviated name**: *Moldenh.*
+**Abbreviated name**: *Moldenh.* \[standard form in IPNI: *Moldenh.*\]
 
 #### Herbarium and types
 

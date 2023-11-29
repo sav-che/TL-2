@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33266415) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33266415) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16557-1), [Wikidata](https://www.wikidata.org/wiki/Q4002757). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brizi, Ugo (1868-1949), Italian botanist and phytopathologist (Ancona born), assistant at the Stazione di patologia vegetale a Roma 1900, professor of physiology and phytopathology at the R. Scuola superiore d'Agricoltura at Milano, ordinary professor at the Agricultural University of Milano 1918, from 1937 director of the botanical garden Brera, Milano. 
-**Abbreviated name**: *Brizi*
+**Abbreviated name**: *Brizi* \[standard form in IPNI: *Brizi*\]
 
 #### Herbarium and types
 

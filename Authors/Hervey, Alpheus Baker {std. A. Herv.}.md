@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33068418) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33068418) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3890-1), [Wikidata](https://www.wikidata.org/wiki/Q5670534). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hervey, Alpheus Baker (1839-1931), American clergyman and algologist, educated at St. Lawrence University, pastor of Universalist Church 1861, president of St. Lawrence University 1888. 
-**Abbreviated name**: *A. Herv.*
+**Abbreviated name**: *A. Herv.* \[standard form in IPNI: *Herv.*\]
 
 #### Herbarium and types
 

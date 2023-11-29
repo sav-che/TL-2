@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33333690) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33333690) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9549-1), [Wikidata](https://www.wikidata.org/wiki/Q311097). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shaw, George (1751-1813), British naturalist; MD Oxford 1787; assistant lecturer in botany Oxford 1788; keeper of natural history collections British Museum 1807-1813. 
-**Abbreviated name**: *G. Shaw*
+**Abbreviated name**: *G. Shaw* \[standard form in IPNI: *G.Shaw*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33120262) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33120262) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/519-1), [Wikidata](https://www.wikidata.org/wiki/Q528476). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bartram, John {std. J. Bartram} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bartram, John (1699-1777), American pioneer botanist, Quaker, founder of the first botanical garden in America near Philadelphia in 1728, sent many living plants to England, "the earliest native-born American botanist." 
-**Abbreviated name**: *J. Bartram*
+**Abbreviated name**: *J. Bartram* \[standard form in IPNI: *Bartram*\]
 
 #### Herbarium
 

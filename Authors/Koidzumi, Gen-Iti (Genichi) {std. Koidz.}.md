@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33068850) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33068850) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4931-1), [Wikidata](https://www.wikidata.org/wiki/Q941892). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koidzumi, Gen-Iti (Gen'ichi) (1883-1953), Japanese botanist. 
-**Abbreviated name**: *Koidz.*
+**Abbreviated name**: *Koidz.* \[standard form in IPNI: *Koidz.*\]
 
 #### Herbarium and types
 

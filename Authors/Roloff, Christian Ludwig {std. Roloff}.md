@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33190345) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33190345) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8557-1), [Wikidata](https://www.wikidata.org/wiki/Q21607356). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roloff, Christian Ludwig (1726-1800), German (Prussian) botanist at Berlin. 
-**Abbreviated name**: *Roloff*
+**Abbreviated name**: *Roloff* \[standard form in IPNI: *Roloff*\]
 
 #### Herbarium and types
 

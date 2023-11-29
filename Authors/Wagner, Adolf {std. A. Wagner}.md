@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33066310) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33066310) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11303-1), [Wikidata](https://www.wikidata.org/wiki/Q21611962). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wagner, Adolf (1869-1940), Austrian botanist; Dr. phil. Innsbruck 1893; assistant at the Innsbruck botanical institute 1900-1906; Habil. Innsbruck 1901; extraordinary professor of botany Innsbruck 1909; ord. professor ib. 1918-1936. 
-**Abbreviated name**: *A. Wagner*
+**Abbreviated name**: *A. Wagner* \[standard form in IPNI: *A.Wagner*\]
 
 #### Herbarium and types
 

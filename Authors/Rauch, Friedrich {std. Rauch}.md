@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33190059) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33190059) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/35200-1), [Wikidata](https://www.wikidata.org/wiki/Q21606999). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rauch, Friedrich (1867-?), German botanist; Dr. phil. Erlangen 1895; later active as pharmacist. 
-**Abbreviated name**: *Rauch*
+**Abbreviated name**: *Rauch* \[standard form in IPNI: *Rauch*\]
 
 #### Herbarium and types
 

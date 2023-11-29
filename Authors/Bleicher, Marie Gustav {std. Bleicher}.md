@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33265408) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33265408) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/856-1), [Wikidata](https://www.wikidata.org/wiki/Q3121096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bleicher, Marie Gustav (1838-1901), French palaeobotanist, born at Colmar, Alsace, Dr. Sci., professor of Histoire naturelle at the École supérieure de Pharmacie de Nancy. 
-**Abbreviated name**: *Bleicher*
+**Abbreviated name**: *Bleicher* \[standard form in IPNI: *Bleicher*\]
 
 #### Herbarium and types
 

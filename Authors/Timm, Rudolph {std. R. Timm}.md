@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33212404) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33212404) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10677-1), [Wikidata](https://www.wikidata.org/wiki/Q21610753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Timm, Rudolph (1859-1936), German (Hamburg) bryologist and zoologist; son of Carl Theodor Timm; studied at Göttingen and Würzburg; Dr. phil. Würzburg 1883; high school teacher for natural sciences at the Realschule vor dem Lübecker Tor 1887-1890; working at Cuxhaven 1890-1892; again at the Hamburg school 1892-1924, from 1906 with the title professor. 
-**Abbreviated name**: *R. Timm*
+**Abbreviated name**: *R. Timm* \[standard form in IPNI: *R.Timm*\]
 
 #### Herbarium and types
 

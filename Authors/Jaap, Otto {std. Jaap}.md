@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33068635) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33068635) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4352-1), [Wikidata](https://www.wikidata.org/wiki/Q21392340). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jaap, Otto (1864-1922), German botanist and entomologist; from 1884-1887 high school teacher at Triglitz, from 1887-1912 at Hamburg. 
-**Abbreviated name**: *Jaap*
+**Abbreviated name**: *Jaap* \[standard form in IPNI: *Jaap*\]
 
 #### Herbarium and types
 

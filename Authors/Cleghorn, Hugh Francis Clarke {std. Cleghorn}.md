@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33265877) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33265877) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/20017177-1), [Wikidata](https://www.wikidata.org/wiki/Q5930356). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cleghorn, Hugh Francis Clarke (1820-1895), British medical practitioner and botanist, born at Madras, M.D. Edinburgh 1841, in the Madras medical service 1842, professor of botany at Madras 1852, first conservator of forests 1856, inspector-general 1867, settled in Scotland 1869, sometime professor of botany at the University of Edinburgh, died at Strathbithie, Fife 1895. 
-**Abbreviated name**: *Cleghorn*
+**Abbreviated name**: *Cleghorn* \[standard form in IPNI: *Cleghorn*\]
 
 #### Herbarium and types
 

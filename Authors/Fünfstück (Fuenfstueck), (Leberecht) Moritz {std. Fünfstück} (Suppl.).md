@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33258550) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33258550) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2951-1), [Wikidata](https://www.wikidata.org/wiki/Q1519120). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fünfstück, Leberecht Moritz {std. Fünfstück}|first entry]] for this author
 
 ### Author
 
 \* Fünfstück \[Fuenfstueck\], \[Leberecht\] Moritz (1856-1925), German botanist (lichenologist), born 23 Mar 1856 in Dittelsdorf (Saxony), attended Johanneum at Zittau until 1875, studied mathematics and natural history (esp. botany) at the universities of Leipzig, Würzburg, Tübingen and Berlin, Dr. sci. 1884, at the Technische Hochschule in Stuttgart 1885, extraord. prof. 1895 and prof. of botany and pharmacognosy 1900, died 18 Feb 1925 in Stuttgart. 
-**Abbreviated name**: *Fünfstück*
+**Abbreviated name**: *Fünfstück* \[standard form in IPNI: *Fünfstück*\]
 
 #### Herbarium and types
 

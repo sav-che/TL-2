@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33068752) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33068752) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4689-1), [Wikidata](https://www.wikidata.org/wiki/Q15726720). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kearney, Thomas Henry (1874-1956), American botanist at the Bureau for Plant Industry; in various functions at USDA 1894-1914; cotton breeder; explorer; from 1944 at CAS. 
-**Abbreviated name**: *Kearn.*
+**Abbreviated name**: *Kearn.* \[standard form in IPNI: *Kearney*\]
 
 #### Herbarium and types
 

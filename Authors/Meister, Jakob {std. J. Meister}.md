@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33355494) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33355494) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6324-1), [Wikidata](https://www.wikidata.org/wiki/Q21520338). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meister, Jakob (1850-1927), Swiss botanist and geologist; high school teacher at Zürich 1871-1880, at Schaffhausen 1880-1926. 
-**Abbreviated name**: *J. Meister*
+**Abbreviated name**: *J. Meister* \[standard form in IPNI: *J.Meister*\]
 
 #### Herbarium and types
 

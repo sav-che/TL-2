@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33265044) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33265044) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/12337-1), [Wikidata](https://www.wikidata.org/wiki/Q3568417). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Barbey, William {std. Barbey}|first entry]] for this author
 
 ### Author
 
 \* Barbey, William (1842-1914), Swiss philanthropist and botanist, attended secondary schools in Genève, studied at the École centrale des Arts et Manufactures in Paris 1862, joined the family firm Barbey, Richard et Cie (New York), travelling to and from New York, made a first trip to Buenos Aires 1868, married Caroline Boissier, daughter of Edmond Boissier 1896, from then on devoting himself to botany, travelled to the Balearic Islands and Valencia in 1880 with Boissier, Burnat and Leresche, the first of many botanical trips in the Mediterranean area, set up the Herbier Boissier as a research institute after the death of Boissier in 1885, located in Chambésy, promoting exploration and publication of systematic research in addition to his many non-botanical philanthropic enterprises as a deeply motivated protestant (Église évangélique libre). 
-**Abbreviated name**: *Barbey*
+**Abbreviated name**: *Barbey* \[standard form in IPNI: *Barbey*\]
 
 #### Herbarium and types
 

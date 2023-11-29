@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33189502) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33189502) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7268-1), [Wikidata](https://www.wikidata.org/wiki/Q9059089). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palézieux, Philippe de (1871-1957), Swiss botanist at Genève; student of L. Radlkofer; Dr. sci. nat. münchen 1899; from 1900-1939 as "Privatgelehrter" in Germany, often at Berlin-Dahlem, and traveling widely; returned to Genève 1939; curator of the Herbier Boissier 1943-1952. 
-**Abbreviated name**: *Paléz.*
+**Abbreviated name**: *Paléz.* \[standard form in IPNI: *Palez.*\]
 
 #### Herbarium and types
 

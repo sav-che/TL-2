@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33066410) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33066410) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11408-1), [Wikidata](https://www.wikidata.org/wiki/Q6219657). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Warder, John Aston (1812-1883), American forester, horticulturist and physician; grad. Jefferson Medical College, Philadelphia 1836; practicing physician in Cincinnati 1837-1855; from then onward living on a farm near North Bend, Ohio; longtime president of the Ohio Horticultural Society; member of the Ohio State Board of Agriculture 1871-1876. 
-**Abbreviated name**: *Warder*
+**Abbreviated name**: *Warder* \[standard form in IPNI: *Warder*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33120491) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33120491) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1181-1), [Wikidata](https://www.wikidata.org/wiki/Q36543851). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brouard, Edouard Jacques (*fl*. 1820), French physician and botanist at Évreux. 
-**Abbreviated name**: *Brouard*
+**Abbreviated name**: *Brouard* \[standard form in IPNI: *Brouard*\]
 
 #### Herbarium and types
 

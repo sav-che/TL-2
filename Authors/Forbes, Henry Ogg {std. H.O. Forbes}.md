@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33259816) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33259816) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2816-1), [Wikidata](https://www.wikidata.org/wiki/Q1349901). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Forbes, Henry Ogg (1851-1932), Scottish traveler, plant collector and naturalist, born 30 Jan 1851 in Drumblade (Aberdeenshire), educated at Aberdeen grammar school and at Aberdeen and Edinburgh universities where he studied medicine, the accidental loss of an eye made him turn to exploration, traveled in Portugal 1875-1877 and the Far East 1878-1886, deputy commissioner, British New Guinea 1886-1887, dir., Canterbury Museum, Christchurch, New Zealand 1890-1893, dir., Liverpool Museums 1894-1911 (consulting dir. 1911-1932), visited Socotra 1898-1899 and the Peruvian guano islands 1911-1913, hon. LL.D. Univ. of Aberdeen, F.R.G.S., F.Z.S., died 27 Oct 1932 in Selsey (Sussex). 
-**Abbreviated name**: *H.O. Forbes*
+**Abbreviated name**: *H.O. Forbes* \[standard form in IPNI: *H.O.Forbes*\]
 
 #### Herbarium and types
 

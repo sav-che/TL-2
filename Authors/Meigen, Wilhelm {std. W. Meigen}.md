@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33355488) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33355488) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6313-1), [Wikidata](https://www.wikidata.org/wiki/Q47122395). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meigen, Wilhelm (1826/7-x), German high school teacher and botanist at Wesel. 
-**Abbreviated name**: *W. Meigen*
+**Abbreviated name**: *W. Meigen* \[standard form in IPNI: *W.Meigen*\]
 
 #### Herbarium and types
 

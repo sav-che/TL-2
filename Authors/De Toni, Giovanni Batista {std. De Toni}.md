@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33120768) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33120768) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17850-1), [Wikidata](https://www.wikidata.org/wiki/Q1628506). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[De Toni, Giovanni Batista {std. De Toni} (Suppl.)|second entry]] for this author
 
 ### Author
 
 De Toni, Giovanni Batista (1864-1924), Italian phycologist. 
-**Abbreviated name**: *De Toni*
+**Abbreviated name**: *De Toni* \[standard form in IPNI: *De Toni*\]
 
 #### Herbarium and types
 

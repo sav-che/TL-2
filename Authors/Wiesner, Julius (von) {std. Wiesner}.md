@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33066608) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33066608) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11654-1), [Wikidata](https://www.wikidata.org/wiki/Q78958). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wiesner, Julius \[von\] (1838-1916), Austrian (Moravia-born) botanist; studied at the Brünn Polytechnic and University of Vienna; Dr. phil. Jena 1860; habil. Polytechnical Institute, Vienna 1861, lecturer 1861-1868; associate professor 1868-1870; e.o. professor of plant physiology at the Mariabrunn Forestry Institute 1870-1880; ord. professor of plant anatomy and physiology at the University of Vienna 1873-1909; Hofrat 1893; ennobled 1909; travelled in India and the Dutch East Indies 1893-1894, in Spitzbergen in N. America 1904. 
-**Abbreviated name**: *Wiesner*
+**Abbreviated name**: *Wiesner* \[standard form in IPNI: *Wiesner*\]
 
 #### Herbarium and types
 

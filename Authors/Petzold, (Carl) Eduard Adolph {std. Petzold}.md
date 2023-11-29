@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33189685) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33189685) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7608-1), [Wikidata](https://www.wikidata.org/wiki/Q68098). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petzold, \[Carl\] Eduard Adolph (1815-1891), German (Prussian) botanist and gardener; trained in practice at Matzdorf (1835-1838); and Neuenhof (1838-1840); at the forestry school of Eisenach 1840-1844; Hofgärtner at Ettersburg (1844-1848), and Weimar (1848-1852); from 1852-1881 director of the garden at Muskau (W. Schlesien); in retirement at Blasewitz (Sachsen) 1882-1891. 
-**Abbreviated name**: *Petzold*
+**Abbreviated name**: *Petzold* \[standard form in IPNI: *Petz.*\]
 
 #### Herbarium and types
 

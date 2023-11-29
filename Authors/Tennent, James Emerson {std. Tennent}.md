@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33212253) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33212253) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10506-1), [Wikidata](https://www.wikidata.org/wiki/Q3161065). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tennent, James Emerson (1804-1869), British (Belfast-born) politician and administrator; educated at Trinity College Dublin; called to the Bar (never practiced) at Lincoln's Inn 1831; M.P. for Belfast 1832, 1835, 1837, 1842-1845, for Lisburn 1851-1852; secretary to the India Board 1841-1845, civil secretary to the government of Ceylon 1845-1850; secretary to the Poor-Law Board 1850-1852, knighted 1867. 
-**Abbreviated name**: *Tennent*
+**Abbreviated name**: *Tennent* \[standard form in IPNI: *Tennent*\]
 
 #### Herbarium and types
 

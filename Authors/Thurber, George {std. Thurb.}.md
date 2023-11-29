@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/page/33212376) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 334](https://www.biodiversitylibrary.org/page/33212376) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10647-1), [Wikidata](https://www.wikidata.org/wiki/Q5877950). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thurber, George (1821-1890), American botanist and chemist; quartermaster and commissary on the United States Boundary Commission to settle the boundary between the United States and Mexico 1850-1853; with the United States Assay Office in New York 1853-1856; lecturer on botany and materia medica College of Pharmacy, New York, 1856-1860, 1865-1866; professor of botany and head of the Michigan Agricultural College 1859-1863; editor of the American Agriculturist 1863-1885; president of the Torrey Botanical Club succeeding J. Torrey 1873-1880. 
-**Abbreviated name**: *Thurb.*
+**Abbreviated name**: *Thurb.* \[standard form in IPNI: *Thurb.*\]
 
 #### Herbarium and types
 

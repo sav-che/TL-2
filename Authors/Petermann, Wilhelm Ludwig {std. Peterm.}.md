@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33189663) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33189663) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7565-1), [Wikidata](https://www.wikidata.org/wiki/Q2574012). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petermann, Wilhelm Ludwig (1806-1855), German (Saxonian) botanist; habil. Leipzig 1835; suceeded Kunze as professor of botany in 1851. 
-**Abbreviated name**: *Peterm.*
+**Abbreviated name**: *Peterm.* \[standard form in IPNI: *Peterm.*\]
 
 #### Herbarium and types
 

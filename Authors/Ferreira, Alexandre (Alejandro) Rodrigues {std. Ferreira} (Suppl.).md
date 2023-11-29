@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33259667) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33259667) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2702-1), [Wikidata](https://www.wikidata.org/wiki/Q188916). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ferreira, Alexandre (Alejandro) Rodrigues {std. Ferreira}|first entry]] for this author
 
 ### Author
 
 \* Ferreira, Alexandre \[Alejandro\]Rodrigues (1756-1815), Portuguese botanist and explorer, born 27 Apr 1756 in Bahia, Brazil, doctorate 1779 Univ. of Coimbra, Portugal, worked at the Museo da Ajuda, Lisbon 1778-1783, charged by the Portuguese government with a voyage of scientific exploration he traveled and collected extensively (1783-1792) in interior (esp. Amazonian) Brazil, dir., Gabinete de Historia Natural and of the Jardim Botanico, Lisbon 1793-1815, member, Real Academia de Ciências, Lisbon, died 23 Apr 1815 in Belem nr. Lisbon, the "Brazilian Humboldt". 
-**Abbreviated name**: *Ferreira*
+**Abbreviated name**: *Ferreira* \[standard form in IPNI: *Ferreira*\]
 
 #### Herbarium and types
 

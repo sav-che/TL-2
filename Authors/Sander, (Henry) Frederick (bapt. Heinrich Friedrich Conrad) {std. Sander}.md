@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33333131) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33333131) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8884-1), [Wikidata](https://www.wikidata.org/wiki/Q67113). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sander, \[Henry\] Frederick \[Conrad\] \[baptized Heinrich Friedrich Conrad\] (1847-1920), German (Bremen) horticulturist and orchidologist; to England 1865, working in nurseries at Forest Hill; independent seedsman from 1874, associated with B. Roezl; at St. Albans 1881, established an orchid nusery at Summit, New Jersey (sold 1896) and one at St. André, Bruges, Belgium 1894; outstanding grower, hybridizer and introducer of orchids. 
-**Abbreviated name**: *Sander*
+**Abbreviated name**: *Sander* \[standard form in IPNI: *Sander*\]
 
 #### Herbarium and types
 

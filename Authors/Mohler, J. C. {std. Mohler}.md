@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33355630) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33355630) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6561-1), [Wikidata](https://www.wikidata.org/wiki/Q36595366). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mohler, J. C. (*fl*. 1928), American botanist at Topeka, Kansas. 
-**Abbreviated name**: *Mohler*
+**Abbreviated name**: *Mohler* \[standard form in IPNI: *Mohler*\]
 
 #### Herbarium and types
 

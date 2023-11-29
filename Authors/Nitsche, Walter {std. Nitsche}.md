@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33355842) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33355842) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7001-1), [Wikidata](https://www.wikidata.org/wiki/Q21513436). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nitsche, Walter (1883-?), German agricultural botanist at Breslau (Wroclaw). 
-**Abbreviated name**: *Nitsche*
+**Abbreviated name**: *Nitsche* \[standard form in IPNI: *Nitsche*\]
 
 #### Herbarium and types
 

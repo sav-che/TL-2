@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33190328) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33190328) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8520-1), [Wikidata](https://www.wikidata.org/wiki/Q21607327). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rogers, Charles Gilbert (1864-1937), British (English) forester and botanist; in the Indian Forest Service as assistant conservator, Bengal 1888-1890; instructor Indian forestry school, Dehra Dun 1890-1906; conservator Central Provinces 1906-1910, chief conservator Burma 1913-1919; collected in India, Burma and East Africa. 
-**Abbreviated name**: *C.G. Rogers*
+**Abbreviated name**: *C.G. Rogers* \[standard form in IPNI: *C.G.Rogers*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33333723) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33333723) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9614-1), [Wikidata](https://www.wikidata.org/wiki/Q8209023). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Siebert, August (1854-1923), German (Pommeranian) botanist and gardener; with commercial garden firms at Erfurt and Wandsbeck-Hamburg; Obergärtner, subsequently director of the "Palmengarten" in Frankfurt a. Main 1886-1923. 
-**Abbreviated name**: *Siebert*
+**Abbreviated name**: *Siebert* \[standard form in IPNI: *Siebert*\]
 
 #### Herbarium and types
 

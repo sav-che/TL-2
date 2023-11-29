@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-09-27 13:49:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33264834) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33264834) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/188-1), [Wikidata](https://www.wikidata.org/wiki/Q6409941). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Anderson, Charles Lewis {std. C.L. Anderson}|first entry]] for this author
 
 ### Author
 
 \* Anderson, Charles Lewis (1827-1910), American practicing physician and naturalist, born at Salem, Roanoke (Virginia), moved ca. 1837 with his family to Indiana, Dr. med. 1852 at Indiana Asbury University, practiced in Hennipin Cy., Minnesota, moved to Carson City, Nevada Territory 1862, practicing 1862-1867, moved to Santa Cruz, California, again practicing medicine but devoting himself in addition to botany, zoology and geology, collecting widely, especially Algae. 
-**Abbreviated name**: *C.L. Anderson*
+**Abbreviated name**: *C.L. Anderson* \[standard form in IPNI: *C.L.Anderson*\]
 
 #### Herbarium and types
 

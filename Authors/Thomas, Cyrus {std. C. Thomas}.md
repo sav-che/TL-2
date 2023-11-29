@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33212313) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33212313) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10589-1), [Wikidata](https://www.wikidata.org/wiki/Q4460170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomas, Cyrus (1825-1910), American ethnologist, entomologist, plant collector and Lutheran minister; co-founder of the Illinois Natural History Society 1858; member of F.V. Hayden's Survey in Colorado and New Mexico 1869-1873; teacher at Carbondale 1873-1875; state entomologist of Illinois from 1874-1876; ultimately dedicating himself to ethnology in the U.S. Bureau of Ethnology. 
-**Abbreviated name**: *C. Thomas*
+**Abbreviated name**: *C. Thomas* \[standard form in IPNI: *C.Thomas*\]
 
 #### Herbarium and types
 

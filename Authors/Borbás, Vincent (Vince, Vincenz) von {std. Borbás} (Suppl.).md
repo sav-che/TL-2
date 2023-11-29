@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33265525) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33265525) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/977-1), [Wikidata](https://www.wikidata.org/wiki/Q584241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Borbás, Vincent (Vince) von {std. Borbás}|first entry]] for this author
 
 ### Author
 
 \* Borbás, Vincent \[Vince, Vincenz\] von (1844-1905), Hungarian botanist, studied at the Gymnasium of Erlau 1859, at the University of Budapest 1868, concurrently teacher at a commercial school, assistant with Ludwig Jurányi 1871-1872, Dr. phil. 1874, secondary school teacher in Budapest 1872-1874, leave of absence 1874-1875 studying in Innsbruck and Berlin, habil. as "Privatdocent" at the University of Budapest 1880, lecturer ib. 1881, extraordinary professor ib. 1898-1901, regular professor of botany at the University of Klausenburg/Cluj 1901-1905. 
-**Abbreviated name**: *Borbás*
+**Abbreviated name**: *Borbás* \[standard form in IPNI: *Borbás*\]
 
 #### Herbarium and types
 

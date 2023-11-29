@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33265438) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33265438) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/886-1), [Wikidata](https://www.wikidata.org/wiki/Q3130701). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bocquillon, Henri Théophile {std. Bocq.}|first entry]] for this author
 
 ### Author
 
 \* Bocquillon, Henri Théophile (1834-1883), French botanist, Dr. sci. 1868, Dr. méd. 1869, professor of natural history at the Lycée impérial Napoléon, the École centrale d'Architecture, later id. at the Faculté de Médecine, Paris. 
-**Abbreviated name**: *Bocq.*
+**Abbreviated name**: *Bocq.* \[standard form in IPNI: *Bocq.*\]
 
 #### Herbarium and types
 

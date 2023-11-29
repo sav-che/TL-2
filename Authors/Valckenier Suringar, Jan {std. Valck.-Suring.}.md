@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33212685) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33212685) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11028-1), [Wikidata](https://www.wikidata.org/wiki/Q5926028). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Valckenier Suringar, Jan (1864-1932), Dutch botanist (plant systematist, dendrologist, nomenclaturist); son of W.F.R. Suringar; Dr. phil. Leiden 1898; unofficial caretaker-director of the Leiden Rijksherbarum 1896-1899; teacher at the State agricultural, horticultural and forestry school at Wageningen 1899; from 1900 also director of the Wageningen botanical garden; from 1918, with the foundation of the Agricultural University (Landbouwhogeschool) at Wageningen, professor of dendrology until 1924; in retirement still actively publishing on dendrology and botanical nomenclature. 
-**Abbreviated name**: *Valck.-Suring.*
+**Abbreviated name**: *Valck.-Suring.* \[standard form in IPNI: *Valck.Sur.*\]
 
 #### Herbarium and types
 

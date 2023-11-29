@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33333697) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33333697) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9558-1), [Wikidata](https://www.wikidata.org/wiki/Q21608772). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sheldon, John Lewis (1865-1947), American botanist and phytopathologist; publicschool teacher in Connecticut 1885-1890; instructor at the Mt. Hermon School 1892-1894; B.S. Ohio Northern University ca. 1894; again teaching in Connecticut public schools 1895-1898; at a state normal school in Nebraska 1899-1900; instructor in botany at the University of Nebraska 1900-1903; Dr. phil. Univ. Nebraska 1903; professor of bacteriology West Virginia University 1903; professor of botany and bacteriology ib. 1907; from 1913-1917 professor of botany; collaborator USDA 1902-1904, 1905-1922. 
-**Abbreviated name**: *J. Sheld.*
+**Abbreviated name**: *J. Sheld.* \[standard form in IPNI: *J.Sheld.*\]
 
 #### Herbarium and types
 

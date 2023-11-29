@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33189583) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33189583) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7408-1), [Wikidata](https://www.wikidata.org/wiki/Q36528990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Paull, Charles Leslie Fairbanks (*fl*. 1904), American botanist, AM Brown Univ. 1898, assistant Kansas State College 1902-1904; from 1904 with the USDA Bureau of Plant Industry. 
-**Abbreviated name**: *Paull*
+**Abbreviated name**: *Paull* \[standard form in IPNI: *Paull*\]
 
 #### Herbarium and types
 

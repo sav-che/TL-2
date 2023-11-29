@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33068525) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33068525) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4085-1), [Wikidata](https://www.wikidata.org/wiki/Q3568709). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hooker, William (1779-1832), British botanical artist employed by the Horticultural Society of London. 
-**Abbreviated name**: *W. Hook.*
+**Abbreviated name**: *W. Hook.* \[standard form in IPNI: *W.Hook.*\]
 
 #### Original drawings
 

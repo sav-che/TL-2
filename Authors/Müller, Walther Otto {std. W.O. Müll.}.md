@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33355738) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33355738) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6749-1), [Wikidata](https://www.wikidata.org/wiki/Q21521878). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Müller, Walther Otto (1833-1887), German gardener and cryptogamist at Gera (Thüringen). 
-**Abbreviated name**: *W. O. Müll.*
+**Abbreviated name**: *W. O. Müll.* \[standard form in IPNI: *W.O.Müll.*\]
 
 #### Herbarium and types
 

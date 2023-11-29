@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33258671) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33258671) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3126-1), [Wikidata](https://www.wikidata.org/wiki/Q4007883). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Giacomini, Valerio (1914-1981), Italian bryogeographer, ecologist and conservationist, born 21 Jan 1914 in Fagagna (Udine), enrolled Univ. of Pavia 1933, postgraduate work in Jena, asst., agronomy faculty, Univ. of Florence 1940, imprisoned by the Wehrmacht in Poland and n. Germany, freed by British troops 1945, returned to Florence 1946 and then worked at a succession of Italian universities, died 6 Jan 1981 in Rome. 
-**Abbreviated name**: *Giacom.*
+**Abbreviated name**: *Giacom.* \[standard form in IPNI: *Giacom.*\]
 
 #### Herbarium and types
 

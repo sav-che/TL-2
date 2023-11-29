@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-01-31 17:05:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33266445) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33266445) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1192-1), [Wikidata](https://www.wikidata.org/wiki/Q155764). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brown, Robert {std. R. Br.}|first entry]] for this author
 
 ### Author
 
 \* Brown, Robert (1773-1858), British botanist, Scotland (Argus) born, studied medicine at the University of Edinburgh, assistant surgeon with the Fife Fencibles in Ireland 1795-1822, visited J. Banks 1798, on the Beagle with Flinders to survey New Holland 1801-1805, librarian Linnean Society 1805-1822, id. of J. Banks 1810-1820, first keeper of the newly set-up Botany Department of the British Museum 1827, president Linnean Society 1849-1853. 
-**Abbreviated name**: *R. Br.*
+**Abbreviated name**: *R. Br.* \[standard form in IPNI: *R.Br.*\]
 
 #### Herbarium and types
 

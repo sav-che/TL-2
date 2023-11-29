@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33189889) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33189889) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7998-1), [Wikidata](https://www.wikidata.org/wiki/Q21523295). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Protíc, Georg (Gjorgje) (1864-?), Bosnian cryptogamist (algologist); Dr. phil. Wien 1891. 
-**Abbreviated name**: *Protíc*
+**Abbreviated name**: *Protíc* \[standard form in IPNI: *Protíc*\]
 
 #### Herbarium and types
 

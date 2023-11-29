@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33068369) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33068369) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3777-1), [Wikidata](https://www.wikidata.org/wiki/Q20979844). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Heering, Christian August (1876-1916), German botanist and conservationist at Hamburg; fell at Verdun. 
-**Abbreviated name**: *Heering*
+**Abbreviated name**: *Heering* \[standard form in IPNI: *Heering*\]
 
 #### Herbarium and types
 

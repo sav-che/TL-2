@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33265307) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33265307) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16018-1), [Wikidata](https://www.wikidata.org/wiki/Q77669). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bernhardi, Johann Jakob {std. Bernh.}|first entry]] for this author
 
 ### Author
 
 \* Bernhardi, Johann Jakob (1774-1850), German botanist, born and died in Erfurt, studied at the University of Erfurt, privat dozent ib. 1800, ectraordinary professor 1805, regular professor 1809, also director of the Botanical Garden of Erfurt from 1799-1850, lectured on botany, zoology, mineralogy and materia medica at the medical faculty 1800-1850, editor of the Allgemeines teutsches Garten-Magazin. 
-**Abbreviated name**: *Bernh.*
+**Abbreviated name**: *Bernh.* \[standard form in IPNI: *Bernh.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33333936) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33333936) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9983-1), [Wikidata](https://www.wikidata.org/wiki/Q3154777). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sprague, Isaac (1811-1895), American botanical and zoological artist in Massachusetts, who worked for e.g. Audubon and Asa Gray. 
-**Abbreviated name**: *I. Sprague*
+**Abbreviated name**: *I. Sprague* \[standard form in IPNI: *I.Sprague*\]
 
 #### Herbarium and types
 

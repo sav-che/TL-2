@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33355765) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33355765) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6825-1), [Wikidata](https://www.wikidata.org/wiki/Q5868667). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nábelek, František (1884-1965), Moravian botanist; studied at Vienna University under R. v. Wettstein (1902-1907); Dr. phil. Wien 1907; from 1908-1920 high school teacher at Lipníka (Leipnik); visited Near East (1909-1911); from 1921-1928 id. at Brno, from 1925-1934 lecturer, from 1934-1939 professor of botany at Masaryk University, Brno; from 1939-1950 professor of botany and head of the Botanical Institute of Comenius University, Bratislava. 
-**Abbreviated name**: *Nábelek*
+**Abbreviated name**: *Nábelek* \[standard form in IPNI: *Nábělek*\]
 
 #### Herbarium and types
 

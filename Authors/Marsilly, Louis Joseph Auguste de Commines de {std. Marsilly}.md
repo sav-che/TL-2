@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33355398) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33355398) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6142-1), [Wikidata](https://www.wikidata.org/wiki/Q21519995). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marsilly, Louis Joseph Auguste de Commines de (1811 -1890), French army officer, mathematician and botanist. 
-**Abbreviated name**: *Marsilly*
+**Abbreviated name**: *Marsilly* \[standard form in IPNI: *Marsilly*\]
 
 #### Herbarium and types
 

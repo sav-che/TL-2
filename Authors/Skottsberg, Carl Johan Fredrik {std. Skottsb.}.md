@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 627](https://www.biodiversitylibrary.org/page/33333766) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 627](https://www.biodiversitylibrary.org/page/33333766) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9724-1), [Wikidata](https://www.wikidata.org/wiki/Q942078). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Skottsberg, Carl Johan Fredrik (1880-1963), Swedish botanist and botanical explorer; Dr. phil. Uppsala 1907; lecturer ib. 1907, curator at the Botanical Museum 1909-1914, in charge of the construction of the new botanical garden at Göteborg 1915; director of this garden 1919-1948 and professor of botany at Göteborg 1919-1947; travelled widely with special emphasis on the Antarctic, South America and the Pacific Islands. 
-**Abbreviated name**: *Skottsb.*
+**Abbreviated name**: *Skottsb.* \[standard form in IPNI: *Skottsb.*\]
 
 #### Herbarium and types
 

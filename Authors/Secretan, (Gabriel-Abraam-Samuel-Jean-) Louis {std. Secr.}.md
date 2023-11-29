@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 472](https://www.biodiversitylibrary.org/page/33333611) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 472](https://www.biodiversitylibrary.org/page/33333611) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9412-1), [Wikidata](https://www.wikidata.org/wiki/Q2612972). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Secretan, \[Gabriel-Abraam-Samuel-Jean-\] Louis (1758-1839), Swiss botanist, lawyer and statesman; Dr. jur. Tübingen 1780; lawyer at Lausanne; served in various political functions from 1798. 
-**Abbreviated name**: *Secr.*
+**Abbreviated name**: *Secr.* \[standard form in IPNI: *Secr.*\]
 
 #### Herbarium and types
 

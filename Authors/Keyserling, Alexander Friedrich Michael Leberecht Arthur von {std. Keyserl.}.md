@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33068774) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 532](https://www.biodiversitylibrary.org/page/33068774) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4756-1), [Wikidata](https://www.wikidata.org/wiki/Q63106). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Keyserling, Alexander Friedrich Michael Leberecht Arthur von, \[Andreëvich\]  (1815-1891), Latvian/Russian botanist, geologist and palaeontologist of Baltic German origin; educated at Berlin University; from 1840-1850 handling special missions in the Russian mining department and travelling in Northern and Eastern Russia; from 1850 on his Esthonian estate Raiküll. 
-**Abbreviated name**: *Keyserl.*
+**Abbreviated name**: *Keyserl.* \[standard form in IPNI: *Keyserl.*\]
 
 #### Herbarium and types
 

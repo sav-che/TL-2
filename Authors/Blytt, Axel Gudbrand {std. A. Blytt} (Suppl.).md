@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33265429) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33265429) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16236-1), [Wikidata](https://www.wikidata.org/wiki/Q610981). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Blytt, Axel Gudbrand {std. A. Blytt}|first entry]] for this author
 
 ### Author
 
 \* Blytt, Axel Gudbrand (1843-1898), Norwegian botanist, son of M.N. Blytt, studied at the University of Christiania \[Oslo\] 1860, curator of the botanical collections of the university 1865, scholarship at the university 1875, professor of botany ib. 1880. 
-**Abbreviated name**: *A. Blytt*
+**Abbreviated name**: *A. Blytt* \[standard form in IPNI: *A.Blytt*\]
 
 #### Herbarium and types
 

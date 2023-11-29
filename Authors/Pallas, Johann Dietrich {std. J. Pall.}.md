@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33189495) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33189495) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7275-1), [Wikidata](https://www.wikidata.org/wiki/Q36596523). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pallas, Johann Dietrich (*fl*. 1758), German botanist. 
-**Abbreviated name**: *J. Pall.*
+**Abbreviated name**: *J. Pall.* \[standard form in IPNI: *J.Pall.*\]
 
 #### Herbarium and types
 

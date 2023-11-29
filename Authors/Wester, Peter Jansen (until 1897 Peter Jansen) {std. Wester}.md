@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33066550) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33066550) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13004-1), [Wikidata](https://www.wikidata.org/wiki/Q9058762). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wester, Peter Jansen \[until 1897: Peter Jansen\] (1877-1931), Swedish agricultural botanist; educated at Gefleborgs Läns Folkhögskola, Bollnäs, Sweden; emigrated to the United States 1897; privately employed in various horticultural positions 1897-1903; special agent Bureau of Plant Industry, USDA, Miami, Florida and Washington 1904-1910; with the Philipplne Government Bureau of Agriculture in various functions 1911-1925. 1927-1931. 
-**Abbreviated name**: *Wester*
+**Abbreviated name**: *Wester* \[standard form in IPNI: *Wester*\]
 
 #### Herbarium and types
 

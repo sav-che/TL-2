@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33355692) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33355692) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23680-1), [Wikidata](https://www.wikidata.org/wiki/Q17199091). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Motyka, Józef (1900-x), Polish botanist (lichenologist); Dr. phil. 1925; professor of botany at the University of Lublin. 
-**Abbreviated name**: *Motyka*
+**Abbreviated name**: *Motyka* \[standard form in IPNI: *Motyka*\]
 
 #### Herbarium and types
 

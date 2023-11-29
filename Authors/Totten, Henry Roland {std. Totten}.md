@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33212451) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33212451) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10759-1), [Wikidata](https://www.wikidata.org/wiki/Q21610900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Totten, Henry Roland (1892-1974), American botanist; A.B. Univ. N. Carol. 1913, M.A. ib. 1914, Dr. phil. ib. 1923; from 1913-1963 with the Dept. of Botany, Univ. N. Carol., Chapel Hill, ultimately as professor of botany; from 1963 emeritus professor of botany ib., LL.D. Atlantic Christian College 1957. 
-**Abbreviated name**: *Totten*
+**Abbreviated name**: *Totten* \[standard form in IPNI: *Totten*\]
 
 #### Herbarium and types
 

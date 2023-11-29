@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33355511) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33355511) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6372-1), [Wikidata](https://www.wikidata.org/wiki/Q36555949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Merklein, Friedrich (*fl*. 1861), Swiss botanist at Schaffhausen. 
-**Abbreviated name**: *Merklein*
+**Abbreviated name**: *Merklein* \[standard form in IPNI: *Merklein*\]
 
 #### Herbarium and types
 

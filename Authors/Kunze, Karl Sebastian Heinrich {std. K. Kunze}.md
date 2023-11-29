@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33068947) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33068947) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5142-1), [Wikidata](https://www.wikidata.org/wiki/Q18910668). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kunze, Karl Sebastian Heinrich (1774-1820), German teacher and botanist at Flensburg. 
-**Abbreviated name**: *K. Kunze*
+**Abbreviated name**: *K. Kunze* \[standard form in IPNI: *K.Kunze*\]
 
 #### Herbarium and types
 

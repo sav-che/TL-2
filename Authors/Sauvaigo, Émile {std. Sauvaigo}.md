@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33333217) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33333217) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8964-1), [Wikidata](https://www.wikidata.org/wiki/Q3588748). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sauvaigo, Émile (1856-1927), French botanist and physician; worker on the spontaneous and cultivated mediterranean plants; curator of the library and archives of the town of Nice until 1897; director of the Museum of natural history, Nice 1897-1924. 
-**Abbreviated name**: *Sauvaigo*
+**Abbreviated name**: *Sauvaigo* \[standard form in IPNI: *Sauvaigo*\]
 
 #### Herbarium and types
 

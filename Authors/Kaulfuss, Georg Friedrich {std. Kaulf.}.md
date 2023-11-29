@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33068750) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33068750) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4673-1), [Wikidata](https://www.wikidata.org/wiki/Q102493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kaulfuss, Georg Friedrich (1786-1830), German botanist; Dr. jur. et phil. Halle 1816; extra-ord. prof. forestry at Halle 1823; ord. prof. of botany ib. 1818. 
-**Abbreviated name**: *Kaulf.*
+**Abbreviated name**: *Kaulf.* \[standard form in IPNI: *Kaulf.*\]
 
 #### Herbarium and types
 

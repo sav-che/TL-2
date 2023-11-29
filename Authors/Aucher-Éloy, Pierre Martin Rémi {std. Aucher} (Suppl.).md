@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-03-29 14:41:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33264934) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33264934) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/330-1), [Wikidata](https://www.wikidata.org/wiki/Q351508). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Aucher-Éloy, Pierre Martin Rémi {std. Aucher}|first entry]] for this author
 
 ### Author
 
 \* Aucher-Eloy, Pierre Martin Rémi (1793-1838), French botanical explorer of the Orient, educated at a gymnasium at Blois, studied pharmacy in Orléans and, from 1812, at Paris, travelled and collected in Spain and S. France 1813-1814, in the "armée du Nord" 1814, continued his pharmaceutical studies at Blois 1815-1817, added Eloy, his wife's family name, to his own (Aucher) 1817, had a book shop in Blois from 1817, from 1820 also a printing shop, moved to Paris 1826, again owning a printing shop, moved to St. Petersburg 1829, went with the Turkish ambassador to Constantinople (to set up a Turkish-French newspaper), from then on collecting widely in the Orient 1830-1838, died at Isphahan, Iran. 
-**Abbreviated name**: *Aucher*
+**Abbreviated name**: *Aucher* \[standard form in IPNI: *Aucher*\]
 
 #### Herbarium and types
 

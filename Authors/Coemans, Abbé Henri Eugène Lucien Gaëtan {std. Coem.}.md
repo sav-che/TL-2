@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33120648) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33120648) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1718-1), [Wikidata](https://www.wikidata.org/wiki/Q4251070). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Coemans, Eugène-Henri-Lucien Gaëtan {std. Coem.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Coemans, Abbé Henri Eugène Lucien Gaëtan (1825-1871), Belgian clergyman and botanist. 
-**Abbreviated name**: *Coem.*
+**Abbreviated name**: *Coem.* \[standard form in IPNI: *Coem.*\]
 
 #### Herbarium and types
 

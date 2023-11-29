@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33264814) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33264814) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/168-1), [Wikidata](https://www.wikidata.org/wiki/Q5675238). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Alschinger, Andreas {std. Alschinger}|first entry]] for this author
 
 ### Author
 
 \* Alschinger, Andreas (1791-1864), Austrian (Bohemia-born, Budweis) botanist and highschool teacher, educated at the Gymnasium at Linz ca. 1807-1810, studied theology ca. 1810-1813, with the Fiume Academy 1818, teacher at the Gymnasium of Fiume 1820-1821, history teacher at the Zara Gymnasium 1821-1824, id. Greek and Latin 1824-1855, id. Greek at the Zara Obergymnasium 1855-1858, in retirement in Vienna from 1859, specialized on the flora of Dalmatia. 
-**Abbreviated name**: *Alschinger*
+**Abbreviated name**: *Alschinger* \[standard form in IPNI: *Alsch.*\]
 
 #### Herbarium and types
 

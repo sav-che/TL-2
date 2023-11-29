@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33068451) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33068451) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/10979-1), [Wikidata](https://www.wikidata.org/wiki/Q2332382). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Unanue, José Hipólito {std. Unanue} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Hipólito Unanue, José (1755/8-1833), Spanish-Peruvian botanist and physician. 
-**Abbreviated name**: *Unanue*
+**Abbreviated name**: *Unanue* \[standard form in IPNI: *Unanue*\]
 
 #### Herbarium and types
 

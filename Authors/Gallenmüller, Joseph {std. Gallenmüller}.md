@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 906](https://www.biodiversitylibrary.org/page/33121037) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 906](https://www.biodiversitylibrary.org/page/33121037) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2995-1), [Wikidata](https://www.wikidata.org/wiki/Q36590308). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gallenmüller, Joseph (*fl*. 1876), German highschool teacher in Aschaffenburg. 
-**Abbreviated name**: *Gallenmüller*
+**Abbreviated name**: *Gallenmüller* \[standard form in IPNI: *Gallenm.*\]
 
 #### Herbarium and types
 

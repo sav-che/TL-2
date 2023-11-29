@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33355286) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33355286) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5856-1), [Wikidata](https://www.wikidata.org/wiki/Q18671314). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Luxford, George (1807-1854), British botanist, printer, editor and journalist in London; lecturer on botany at St. Thomas Hospital, 1846-1851. 
-**Abbreviated name**: *Luxf.*
+**Abbreviated name**: *Luxf.* \[standard form in IPNI: *Luxf.*\]
 
 #### Herbarium and types
 

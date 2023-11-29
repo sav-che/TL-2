@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33212209) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33212209) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/14178-1), [Wikidata](https://www.wikidata.org/wiki/Q2857465). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Targioni Tozzetti, Antonio (1785-1856), Italian botanist; professor of botany and materia medica at the S. Maria hospital of Firenze; also professor of chemistry at the Academy of fine arts and director of the medical garden; son of O. Targioni Tozzetti, uncle of Adolfo T.T. 
-**Abbreviated name**: *An. Targioni*
+**Abbreviated name**: *An. Targioni* \[standard form in IPNI: *Ant.Targ.Tozz.*\]
 
 #### Herbarium and types
 

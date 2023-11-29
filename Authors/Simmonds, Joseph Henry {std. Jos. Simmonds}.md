@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33333744) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33333744) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9663-1), [Wikidata](https://www.wikidata.org/wiki/Q21608912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Simmonds, Joseph Henry (1845-1936), New Zealand clergyman and botanist; minister of the Wesleyan Methodist church 1869; in Fiji 1871-1873; president of the Methodist Conference in New Zealand 1895; principal of Wesley Training College 1896-1923; governor of Trinity Methodist Theological College 1896-1911; especially interested in forest trees; correspondent of J.H. Maiden. 
-**Abbreviated name**: *Jos. Simmonds*
+**Abbreviated name**: *Jos. Simmonds* \[standard form in IPNI: *Simmonds*\]
 
 #### Herbarium and types
 

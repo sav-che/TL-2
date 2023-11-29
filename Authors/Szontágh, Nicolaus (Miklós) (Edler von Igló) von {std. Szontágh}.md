@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33212186) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33212186) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10373-1), [Wikidata](https://www.wikidata.org/wiki/Q1300034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Szontágh, Nicolaus \[Miklós\] (Edler von Igló) von (1843-1899), Hungarian botanist and physician; Dr. med. Wien; practicing physician in Pesth \[Budapest\]. 
-**Abbreviated name**: *Szontágh*
+**Abbreviated name**: *Szontágh* \[standard form in IPNI: *Szontágh*\]
 
 #### Herbarium and types
 

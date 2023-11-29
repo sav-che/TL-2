@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33355683) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33355683) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23659-1), [Wikidata](https://www.wikidata.org/wiki/Q21521762). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morse, Elizabeth Eaton (1864-1955), American Wellesley trained (School of Art 1891) art teacher (1891-1924), re-entered Wellesley 1924, B.A. 1926; subsequently with Lee Bonar at the University of California, Berkeley specializing in fleshy fungi of the Pacific Coast; sometimes temporarily working at the Farlow Herbarium; but in general living at Berkeley 1926-1955. 
-**Abbreviated name**: *Morse*
+**Abbreviated name**: *Morse* \[standard form in IPNI: *Morse*\]
 
 #### Herbarium and types
 

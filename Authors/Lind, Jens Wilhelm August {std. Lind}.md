@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33355072) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33355072) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22363-1), [Wikidata](https://www.wikidata.org/wiki/Q6179747). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lind, Jens Wilhelm August (1874-1939), Danish pharmacist and mycologist; assistant at the state phytopathological service 1913-1917; pharmacist at Østbirk 1919-1926, from then on id. at Viborg. 
-**Abbreviated name**: *Lind*
+**Abbreviated name**: *Lind* \[standard form in IPNI: *Lind*\]
 
 #### Herbarium and types
 

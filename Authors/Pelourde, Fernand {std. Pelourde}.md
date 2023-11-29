@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33189620) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33189620) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7477-1), [Wikidata](https://www.wikidata.org/wiki/Q21522784). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pelourde, Fernand (1884-1916), French palaeobotanist; Dr. phil. Paris 1907; "préparateur" at the Muséum d'Histoire naturelle, Paris 
-**Abbreviated name**: *Pelourde*
+**Abbreviated name**: *Pelourde* \[standard form in IPNI: *Pelourde*\]
 
 #### Herbarium and types
 

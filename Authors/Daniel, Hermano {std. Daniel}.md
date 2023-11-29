@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-02-11 20:40:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33259098) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33259098) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/13083-1), [Wikidata](https://www.wikidata.org/wiki/Q19277243). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Daniel, Hermano (fl. 1933-1949), Colombian priest, director of the herbario del Colegio de San José at Medellin. 
-**Abbreviated name**: *Daniel*
+**Abbreviated name**: *Daniel* \[standard form in IPNI: *Daniel*\]
 
 #### Herbarium and types
 

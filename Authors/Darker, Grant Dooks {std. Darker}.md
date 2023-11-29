@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33259115) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33259115) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17697-1), [Wikidata](https://www.wikidata.org/wiki/Q21509801). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Darker, Grant Dooks (1898-1979), Canadian mycologist, born 23 Dec 1898, Streetsville, Ontario, at the University of Toronto AB 1922, AM 1925, Harvard Ph.D. 1931, assistant in botany at the University of Toronto 1922-1928, at Harvard (Arnold Arboretum) 1928-1931, Toronto fellow traveller Europa 1931-1932, assistant 1932-1933, associate from 1933. 
-**Abbreviated name**: *Darker*
+**Abbreviated name**: *Darker* \[standard form in IPNI: *Darker*\]
 
 #### Herbarium and types
 

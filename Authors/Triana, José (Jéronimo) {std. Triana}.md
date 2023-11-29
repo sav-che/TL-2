@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33212528) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33212528) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10818-1), [Wikidata](https://www.wikidata.org/wiki/Q2495258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Triana, José \[Jéronimo\] (1834-1890), Columbian botanist; after studying medicine and being active as a journalist connected as botanist, from 1850-1855, with the Colombian chorographic commission (Comisión Corográfica) exploring the region between Bogota and the Venezuelan border; working on a Flora colombiana, from 1857 in France, at first with J.E. Planchon in Montpellier, later in Paris. 
-**Abbreviated name**: *Triana*
+**Abbreviated name**: *Triana* \[standard form in IPNI: *Triana*\]
 
 #### Herbarium and types
 

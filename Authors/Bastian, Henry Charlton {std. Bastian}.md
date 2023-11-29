@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33265095) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33265095) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/15763-1), [Wikidata](https://www.wikidata.org/wiki/Q718511). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bastian, Henry Charlton (1837-1915), British (Cornwall) physician and neurologist, adhered to the doctrine of abiogenesis (opponent of Pasteur), educated at University College, London, M.A. London 1861, M.B. 1866, Fellow Royal Society 1868, from 1887 professor of pathological anatomy at University College, sometime censor Roy. Coll. Physicians, London. 
-**Abbreviated name**: *Bastian*
+**Abbreviated name**: *Bastian* \[standard form in IPNI: *Bastian*\]
 
 #### Herbarium and types
 

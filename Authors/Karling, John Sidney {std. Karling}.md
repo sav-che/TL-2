@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33068740) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33068740) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4651-1), [Wikidata](https://www.wikidata.org/wiki/Q4215243). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Karling, John Sidney (1898-x), American algologist and mycologist at Columbia and Purdue Universities, Ph. D. Columbia Univ. 1926. 
-**Abbreviated name**: *Karling*
+**Abbreviated name**: *Karling* \[standard form in IPNI: *Karling*\]
 
 #### Herbarium and types
 

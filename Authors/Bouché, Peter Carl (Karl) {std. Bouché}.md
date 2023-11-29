@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-07-10 11:33:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265573) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265573) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1016-1), [Wikidata](https://www.wikidata.org/wiki/Q71571). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bouché, Peter Carl \[Karl\] (1784-1856), German institutional gardener at Schöneberg (Berlin), belonging to a Franch refugee gardeners family, father of Carl Daniel Bouché. 
-**Abbreviated name**: *Bouché*
+**Abbreviated name**: *Bouché* \[standard form in IPNI: *Bouché*\]
 
 #### Herbarium and types
 

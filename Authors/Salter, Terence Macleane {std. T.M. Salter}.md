@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33333168) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33333168) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8855-1), [Wikidata](https://www.wikidata.org/wiki/Q13503778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Salter, Terence Macleane (1883-1969), English amateur botanist; Royal navy paymaster 1904 (commander 1922) until 1931 (retired as paymaster captain); settled in Cape Town, S. Africa 1935, devoting himself to the study of the Cape flora; Honorary Reader in systematic botany, Bolus Herbarium 1930-1960; Dr. sci. h.c. Univ. Cape Town 1955; Bolus medal 1965; specialist on *Oxalis*. 
-**Abbreviated name**: *T.M. Salter*
+**Abbreviated name**: *T.M. Salter* \[standard form in IPNI: *T.M.Salter*\]
 
 #### Herbarium and types
 

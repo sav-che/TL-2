@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33068665) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33068665) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4419-1), [Wikidata](https://www.wikidata.org/wiki/Q2959440). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Janet, Charles (1849-1932), French phycologist. 
-**Abbreviated name**: *Janet*
+**Abbreviated name**: *Janet* \[standard form in IPNI: *Janet*\]
 
 #### Herbarium and types
 

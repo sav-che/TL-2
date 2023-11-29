@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33266386) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33266386) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1152-1), [Wikidata](https://www.wikidata.org/wiki/Q746034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Briquet, John Isaac {std. Briq.}|first entry]] for this author
 
 ### Author
 
 \* Briquet, John Isaac (1870-1931), Swiss botanist, born at Genève, educated ib., with stages in Scotland 1880-1882 and Heidelberg 1882-1884, at the classical gymnasium in Genève 1884-1888, studied at the University of Genève with M. Thury, J. Müller-Argoviensis and Alphonse de Candolle 1888-1889, "baccalauréat ès sciences physiques et naturelles" 1889, in Berlin with Engler and Schwendener 1889-1890, adjunct curator at the Herbarium Delessert 1890-1896, Dr. phil. Genève 1891, curator of the Herbarium Delessert and director of the Genève Botanical Garden 1896-1931, rapporteur-géneral for botanical nomenclature 1900-1931, travelled and collected widely in S. Europe and the Mediterranean area. 
-**Abbreviated name**: *Briq.*
+**Abbreviated name**: *Briq.* \[standard form in IPNI: *Briq.*\]
 
 #### Herbarium and types
 

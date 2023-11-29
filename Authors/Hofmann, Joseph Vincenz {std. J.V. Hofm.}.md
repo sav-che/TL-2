@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33068491) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33068491) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4029-1), [Wikidata](https://www.wikidata.org/wiki/Q21515941). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hofmann, Joseph Vincenz (1800-1863), Austrian clergyman ("Consistorialrath") and botanist at Brixen. 
-**Abbreviated name**: *J. V. Hofm.*
+**Abbreviated name**: *J. V. Hofm.* \[standard form in IPNI: *J.V.Hofm.*\]
 
 #### Herbarium and types
 

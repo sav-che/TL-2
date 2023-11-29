@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33333750) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33333750) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9680-1), [Wikidata](https://www.wikidata.org/wiki/Q256452). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Simpson, Charles Torrey (1826-1932), American malacologist and botanist; conchologist with the United States National Museum 1889-1902; collaborator USDA; retired to Florida, writing on Florida wild life. 
-**Abbreviated name**: *C. Simpson*
+**Abbreviated name**: *C. Simpson* \[standard form in IPNI: *Simpson*\]
 
 #### Herbarium and types
 

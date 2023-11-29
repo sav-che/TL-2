@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8068-1), [Wikidata](https://www.wikidata.org/wiki/Q65090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rabenhorst, Gottlob Ludwig (1806-1881), German (Brandenburg, Prussian) cryptogamist; founder of Hedwigia; studied pharmacy in Belzig and Berlin 1822-1830; pharmacist at Luckau 1831-1840; Dr. phil. Jena 1841; "Privatgelehrter" dedicating himself entirely to cryptogamy at Dresden 1840-1875, at Meissen 1875-1881; outstanding collector; published numerous extensive series of cryptogamae exsiccatae. 
-**Abbreviated name**: *Rabenh.*
+**Abbreviated name**: *Rabenh.* \[standard form in IPNI: *Rabenh.*\]
 
 #### Herbarium and types
 

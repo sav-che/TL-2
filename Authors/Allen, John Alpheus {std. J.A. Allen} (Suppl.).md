@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33264799) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33264799) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/149-1), [Wikidata](https://www.wikidata.org/wiki/Q21505086). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Allen, John Alphaeus {std. J.A. Allen}|first entry]] for this author
 
 ### Author
 
 \* Allen, John Alpheus (1863-1916), American bryologist, educated at New Haven, Conn., studied at Yale College, Ph.B. 1883, sometime curator of metallurgy at the National Museum, Washington, D.C., moved to California for a short time, employed as chemist in metallurgical plants in Ohio and Virginia, sometime assistant to Sereno Watson at the Gray Herbarium until 1891, unactive due to illness 1891-1899, again working at a chemical plant at Philadelphia from 1899, later idem in Ohio, moved to Oregon 1912 because of illness. 
-**Abbreviated name**: *J.A. Allen*
+**Abbreviated name**: *J.A. Allen* \[standard form in IPNI: *J.A.Allen*\]
 
 #### Herbarium and types
 

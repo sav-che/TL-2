@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-10-07 14:59:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33190185) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33190185) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8283-1), [Wikidata](https://www.wikidata.org/wiki/Q783425). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rémy, \[Ezechiel\] Jules (1826-1893), French botanist and traveller; high school teacher at Paris 1848-1851; from 1851-ca. 1861 travelling widely around the world; later living at Louvency (Marne). 
-**Abbreviated name**: *J. Rémy*
+**Abbreviated name**: *J. Rémy* \[standard form in IPNI: *J.Rémy*\]
 
 #### Herbarium and types
 

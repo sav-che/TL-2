@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 944](https://www.biodiversitylibrary.org/page/33190415) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 944](https://www.biodiversitylibrary.org/page/33190415) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8671-1), [Wikidata](https://www.wikidata.org/wiki/Q21607483). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roux, Honoré (1812-1892), French stevedore and naturalist at Marseille. 
-**Abbreviated name**: *Roux*
+**Abbreviated name**: *Roux* \[standard form in IPNI: *H.Roux*\]
 
 #### Herbarium and types
 

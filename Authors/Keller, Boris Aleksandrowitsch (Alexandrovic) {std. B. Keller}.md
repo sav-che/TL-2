@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33068756) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33068756) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4704-1), [Wikidata](https://www.wikidata.org/wiki/Q4219109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Keller, Boris Aleksandrowitsch (Alexandrovic) (1874-1945), Russian botanist, from 1913-1931 at Woronesch. 
-**Abbreviated name**: *B. Keller*
+**Abbreviated name**: *B. Keller* \[standard form in IPNI: *B.Keller*\]
 
 #### Herbarium and types
 

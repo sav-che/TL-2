@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33120412) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33120412) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/990-1), [Wikidata](https://www.wikidata.org/wiki/Q47114484). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bornemann, Felix (*fl*. 1887), German phycologist. 
-**Abbreviated name**: *F. Bornemann*
+**Abbreviated name**: *F. Bornemann* \[standard form in IPNI: *F.Bornem.*\]
 
 #### Herbarium and types
 

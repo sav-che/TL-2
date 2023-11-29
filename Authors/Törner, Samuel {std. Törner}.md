@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33212426) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33212426) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10711-1), [Wikidata](https://www.wikidata.org/wiki/Q21610883). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Törner, Samuel (1762-?), Swedish naturalist and librarian; studied in Uppsala with P. Thunberg; Dr. phil. ib., asst. to J. Dryander in Sir Joseph Banks's library 1792-1797. 
-**Abbreviated name**: *Törner*
+**Abbreviated name**: *Törner* \[standard form in IPNI: *Törner*\]
 
 #### Herbarium and types
 

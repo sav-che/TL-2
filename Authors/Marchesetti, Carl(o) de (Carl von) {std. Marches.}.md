@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33355376) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33355376) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6091-1), [Wikidata](https://www.wikidata.org/wiki/Q3659576). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marchesetti, Carl(o) de \[Carl von\] (1850-1926), Austro-Italian botanist at Trieste; Dr. med. Wien 1874; travelled in the East 1875-1876 and 1880-1881; director of the Trieste museum 1876; also director of the Trieste botanical garden, 1904. 
-**Abbreviated name**: *Marches.*
+**Abbreviated name**: *Marches.* \[standard form in IPNI: *Marches.*\]
 
 #### Herbarium and types
 

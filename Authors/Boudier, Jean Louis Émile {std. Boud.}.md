@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33120421) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33120421) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1019-1), [Wikidata](https://www.wikidata.org/wiki/Q374684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boudier, (Jean-Louis) Emile {std. Boud.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Boudier, Jean Louis Émile (1828-1920), French mycologist. 
-**Abbreviated name**: *Boud.*
+**Abbreviated name**: *Boud.* \[standard form in IPNI: *Boud.*\]
 
 #### Herbarium and types
 

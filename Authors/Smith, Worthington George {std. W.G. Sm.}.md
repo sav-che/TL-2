@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/page/33333845) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/page/33333845) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26951-1), [Wikidata](https://www.wikidata.org/wiki/Q387724). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Worthington George (1835-1917), British mycologist, antiquarian and botanical artist; artist for the Gardener's Chronicle 1869-1910 and of the Floral Magazine 1870-1876; Veitch Memorial Medal 1907. 
-**Abbreviated name**: *W.G. Sm.*
+**Abbreviated name**: *W.G. Sm.* \[standard form in IPNI: *W.G.Sm.*\]
 
 #### Herbarium and types
 

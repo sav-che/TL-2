@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33066370) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33066370) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11331-1), [Wikidata](https://www.wikidata.org/wiki/Q47128295). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Waldner, Martin (*fl*. 1887), Austrian botanist. 
-**Abbreviated name**: *M. Waldner*
+**Abbreviated name**: *M. Waldner* \[standard form in IPNI: *M.Waldner*\]
 
 #### Herbarium and types
 

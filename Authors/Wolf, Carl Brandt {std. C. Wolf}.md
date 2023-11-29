@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33066759) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33066759) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11812-1), [Wikidata](https://www.wikidata.org/wiki/Q5749273). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wolf, Carl Brandt (1905-1974), American botanist; studied at Occidental College 1921-1926 (and worked one year with the Theodore Payne Nursery, Los Angeles); A.B. 1926; M.Sc. Stanford 1927, Dr. phil. ib. 1930; teaching assistant Stanford 1927-1930; botanist at the Rancho Santa Ana Botanic Garden 1930-1945; manager of the Sespe Land and Water Company, Fillmore, Calif. 1945-1967. 
-**Abbreviated name**: *C. Wolf*
+**Abbreviated name**: *C. Wolf* \[standard form in IPNI: *C.B.Wolf*\]
 
 #### Herbarium and types
 

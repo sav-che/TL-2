@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33212753) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33212753) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11141-1), [Wikidata](https://www.wikidata.org/wiki/Q6075510). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Verlot, \[Pierre\] Bernard \[Lazare\] (1836-1897), French horticulturist, gardener at the Jardin botanique d'Orléans 1853; at the École de botanique du Muséum d'Histoire naturelle, Paris 1855; later in charge of the horticultural establishment of Vilmorin-Andrieux at Verrières-de-Buisson with H. de Vilmorin; sometime lecturer in floriculture at the École nationale d'Horticulture, Versailles. 
-**Abbreviated name**: *B. Verl.*
+**Abbreviated name**: *B. Verl.* \[standard form in IPNI: *B.Verl.*\]
 
 #### Herbarium and types
 

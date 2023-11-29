@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33355380) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33355380) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/14973-1), [Wikidata](https://www.wikidata.org/wiki/Q2596174). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marie-Victorin, Frère \[Joseph Louis Conrad Kirouac\] (1885-1944), Canadian clergyman and botanist; Dr. sci. Montréal 1922; high school teacher until 1920; at the Faculty of Sciences of the Université de Montréal 1920-1944. 
-**Abbreviated name**: *Marie-Vict.*
+**Abbreviated name**: *Marie-Vict.* \[standard form in IPNI: *Vict.*\]
 
 #### Herbarium and types
 

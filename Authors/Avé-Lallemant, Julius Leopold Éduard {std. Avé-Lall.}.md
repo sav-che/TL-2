@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33120213) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33120213) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/342-1), [Wikidata](https://www.wikidata.org/wiki/Q72901). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Avé-Lallemant, Julius Leopold Éduard {std. Avé-Lall.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Avé-Lallemant, Julius Leopold Éduard (1803-1867), German botanist who worked at the botanical garden in St. Petersburg from 1838-1855. 
-**Abbreviated name**: *Avé-Lall.*
+**Abbreviated name**: *Avé-Lall.* \[standard form in IPNI: *Avé-Lall.*\]
 
 #### Herbarium and types
 

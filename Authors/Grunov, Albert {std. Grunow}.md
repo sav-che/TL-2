@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1017](https://www.biodiversitylibrary.org/page/33121148) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1017](https://www.biodiversitylibrary.org/page/33121148) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/29387-1), [Wikidata](https://www.wikidata.org/wiki/Q15437983). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Grunow (Grunov), Albert {std. Grunow} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Grunov, Albert (1826-1914), German chemist working in Austria, amateur diatomologist. 
-**Abbreviated name**: *Grunov*
+**Abbreviated name**: *Grunov* \[standard form in IPNI: *Grunow*\]
 
 #### Herbarium and types
 

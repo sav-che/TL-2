@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33068719) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33068719) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4595-1), [Wikidata](https://www.wikidata.org/wiki/Q435674). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jussieu, Antoine de (1686-1758), French botanist, brother of Bernard and Joseph, uncle of Antoine Laurent de Jussieu. 
-**Abbreviated name**: *Ant. Juss.*
+**Abbreviated name**: *Ant. Juss.* \[standard form in IPNI: *Ant.Juss.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33068437) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33068437) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3935-1), [Wikidata](https://www.wikidata.org/wiki/Q21515799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Higley, William Kerr (1860-1908), American botanist, studied at the University of Michigan, later connected with the Chicago Academy of Sciences and editor of *Birds* and *Nature*. 
-**Abbreviated name**: *Higl.*
+**Abbreviated name**: *Higl.* \[standard form in IPNI: *Higley*\]
 
 #### Herbarium and types
 

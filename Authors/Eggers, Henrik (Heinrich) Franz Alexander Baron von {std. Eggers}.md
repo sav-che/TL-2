@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33120857) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33120857) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2474-1), [Wikidata](https://www.wikidata.org/wiki/Q5627792). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Eggers, Henrik (Heinrich) Franz Alexander (Baron) von {std. Eggers} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Eggers, Henrik \[Heinrich\] Franz Alexander Baron von (1844-1903), Danish soldier and botanist, resided 1869-1887 in the Danish Antilles. 
-**Abbreviated name**: *Eggers*
+**Abbreviated name**: *Eggers* \[standard form in IPNI: *Eggers*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33068706) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33068706) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/20009867-1), [Wikidata](https://www.wikidata.org/wiki/Q18985986). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jovet-Ast, Suzanne (née Ast, Mrs P. A. Jovet) (1914-x), French bryologist at the Muséum d'histoire naturelle. 
-**Abbreviated name**: *Jovet-Ast*
+**Abbreviated name**: *Jovet-Ast* \[standard form in IPNI: *Jovet-Ast*\]
 
 #### Herbarium and types
 

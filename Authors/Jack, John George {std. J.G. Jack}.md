@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33068637) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33068637) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4357-1), [Wikidata](https://www.wikidata.org/wiki/Q19874593). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jack, John George (1861-1949), American, largely self-taught, dendrologist; from 1891-1935 at the Arnold Arboretum; ultimately associate professor of dendrology. 
-**Abbreviated name**: *J. G. Jack*
+**Abbreviated name**: *J. G. Jack* \[standard form in IPNI: *J.G.Jack*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33259797) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33259797) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2806-1), [Wikidata](https://www.wikidata.org/wiki/Q555277). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fomin, Aleksandr Vasilievich {std. Fomin}|first entry]] for this author
 
 ### Author
 
 \* Fomin, Aleksandr \[Aleksander\] Vasilievich \[Vasiljevich, Vasilevich, Vasilevitch, Wasiljewitsch, Wassiljewitsch\] (1869-1935), Russian botanist (pteridologist), born 2 Mai 1869 in Yermolovka, Saratov, first asst., Botanical Garden, Univ. of Yuryev (or Dorpat) (now Univ. of Tartu, Estonia) 1896, Dr. Sci. Nat., prof. of botany 1913 and dir. of the botanic garden, both Kiev (now Ukraine), died 16 Oct 1935 in Kiev. 
-**Abbreviated name**: *Fomin*
+**Abbreviated name**: *Fomin* \[standard form in IPNI: *Fomin*\]
 
 #### Herbarium and types
 

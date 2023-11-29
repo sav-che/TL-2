@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33068716) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33068716) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4588-1), [Wikidata](https://www.wikidata.org/wiki/Q5924438). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Juratzka, Jakob (1821-1878), Austro-Hungarian, Moravia-born, bryologist and "Oberingenieur der Dicasterialgebäude-Direction" \[direction of the law-courts\] in Vienna. 
-**Abbreviated name**: *Jur.*
+**Abbreviated name**: *Jur.* \[standard form in IPNI: *Jur.*\]
 
 #### Herbarium and types
 

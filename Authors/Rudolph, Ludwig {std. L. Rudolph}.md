@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 973](https://www.biodiversitylibrary.org/page/33190444) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 973](https://www.biodiversitylibrary.org/page/33190444) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8712-1), [Wikidata](https://www.wikidata.org/wiki/Q21607524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rudolph, Ludwig (ca. 1813-1896), German (Prussian) high school teacher and botanist in Berlin. 
-**Abbreviated name**: *L. Rudolph*
+**Abbreviated name**: *L. Rudolph* \[standard form in IPNI: *L.Rudolph*\]
 
 #### Herbarium and types
 

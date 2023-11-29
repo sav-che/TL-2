@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33068544) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33068544) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4090-1), [Wikidata](https://www.wikidata.org/wiki/Q21516014). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoopes, Josiah (1832-1904), American nurseryman; popular author on gardening; ornithologist; at West Chester, Pa. 
-**Abbreviated name**: *Hoopes*
+**Abbreviated name**: *Hoopes* \[standard form in IPNI: *Hoopes*\]
 
 #### Herbarium and types
 

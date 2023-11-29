@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33068465) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33068465) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3986-1), [Wikidata](https://www.wikidata.org/wiki/Q6167453). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hochstetter, Wilhelm Christian (1825-1881), German garden inspector at Tübingen, son of C. F. Hochstetter. 
-**Abbreviated name**: *W. Hochst.*
+**Abbreviated name**: *W. Hochst.* \[standard form in IPNI: *W.Hochst.*\]
 
 #### Herbarium and types
 

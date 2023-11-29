@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33266373) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33266373) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16512-1), [Wikidata](https://www.wikidata.org/wiki/Q514358). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bresadola, Don Giacopo (Giacomo, abate) {std. Bres.}|first entry]] for this author
 
 ### Author
 
 \* Bresàdola, Giacomo (1847-1929), Italian mycologist and clergyman, born in Ortisei, Trento, primary schooling at Montichiari, subsequently at the Technical school at Rovereto 1859, entered the seminary in Trento 1863, ordination 1870, curate in various locations from 1864, ultimately 1887-1910 adminstrator of the cathedral chapter in Trento, lifelong dedicating himself also to mycology. 
-**Abbreviated name**: *Bres.*
+**Abbreviated name**: *Bres.* \[standard form in IPNI: *Bres.*\]
 
 #### Herbarium and types
 

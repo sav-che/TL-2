@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33212539) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33212539) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10828-1), [Wikidata](https://www.wikidata.org/wiki/Q36617778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trinkwalter, Leopold (*fl*. 1913), German botanist and high school teacher at Bromberg. 
-**Abbreviated name**: *Trinkwalter*
+**Abbreviated name**: *Trinkwalter* \[standard form in IPNI: *Trinkw.*\]
 
 #### Herbarium and types
 

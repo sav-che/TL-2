@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-11-17 05:29:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33260386) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33260386) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/14679-1), [Wikidata](https://www.wikidata.org/wiki/Q5820476). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Erlanson, Eileen Jessie \[née Whitehead\] (1899-?), born 1899 at Kingston-on-Thames (England), B.Sc. London 1919, married Earl Jerome Grimes in 1919, M.S. Michigan 1924, Emma J. Cole fellow 1925-1926, married after the death of Grimes (1921) Carl Oscar Erlanson, ecologist in Michigan, received her Ph.D. in 1928 and D.Sci. in London in 1934, that year she married James Borthwick Macfarlane, she was assistant professor in biology at Kent State University 1932-1933, collaborator in Asiatic research in Michigan from 1933. 
-**Abbreviated name**: *Erlanson*
+**Abbreviated name**: *Erlanson* \[standard form in IPNI: *Erlanson*\]
 
 #### Herbarium and types
 

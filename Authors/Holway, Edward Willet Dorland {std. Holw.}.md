@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33068506) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33068506) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4066-1), [Wikidata](https://www.wikidata.org/wiki/Q16509052). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Holway, Edward Willet Dorland (1853-1923), American banker, collector (coins, insects, plants, books), mountaineer, and mycologist at Decorah, Iowa until 1904; then at St. Paul, Minnesota; collected extensively in South America 1919-1920, 1921-1922. 
-**Abbreviated name**: *Holw.*
+**Abbreviated name**: *Holw.* \[standard form in IPNI: *Holw.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-02-22 14:57:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33212212) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33212212) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10430-1), [Wikidata](https://www.wikidata.org/wiki/Q2327338). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Targioni Tozzetti, Ottaviano (1755-1829), Italian (Firenze) botanist and physician; professor of botany at the Firenze Spedale Santa Maria Nuova until 1807; professor of botany and director of the botanical garden, the University of Pisa 1807-1829; son of Giovanni Targioni Tozzetti. 
-**Abbreviated name**: *O. Targioni*
+**Abbreviated name**: *O. Targioni* \[standard form in IPNI: *O.Targ.Tozz.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1021](https://www.biodiversitylibrary.org/page/33190492) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1021](https://www.biodiversitylibrary.org/page/33190492) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12806-1), [Wikidata](https://www.wikidata.org/wiki/Q311223). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sabine, \[Sir\] Edward (1788-1883), British (Dublin-born) astronomer, geophysicist, zoologist and explorer; brother of Joseph Sabine; astronomer to arctic expeditions led by J. Ross (1818) and W.E. Parry 1819-1820; collected plants in Melville Island and Greenland; president Royal Society 1861-1871. 
-**Abbreviated name**: *E. Sabine*
+**Abbreviated name**: *E. Sabine* \[standard form in IPNI: *E.Sabine*\]
 
 #### Herbarium and types
 

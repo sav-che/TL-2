@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33333391) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33333391) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9160-1), [Wikidata](https://www.wikidata.org/wiki/Q21608151). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidt, Hermann of Elberfeld (1821/2-1905), German botanist and high school teacher at Elberfeld (Rhine province, Prussia). 
-**Abbreviated name**: *H. Schmidt Elberf.*
+**Abbreviated name**: *H. Schmidt Elberf.* \[standard form in IPNI: *H.Schmidt Elberf.*\]
 
 #### Herbarium and types
 

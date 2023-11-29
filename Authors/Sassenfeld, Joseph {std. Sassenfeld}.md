@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33333202) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33333202) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8933-1), [Wikidata](https://www.wikidata.org/wiki/Q36598606). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sassenfeld, Joseph (*fl*. 1884), German (Prussian Rhineland) botanist at Trier. 
-**Abbreviated name**: *Sassenfeld*
+**Abbreviated name**: *Sassenfeld* \[standard form in IPNI: *Sassenf.*\]
 
 #### Herbarium and types
 

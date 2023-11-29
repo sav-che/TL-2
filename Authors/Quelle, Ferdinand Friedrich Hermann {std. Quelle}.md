@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33189926) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33189926) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8050-1), [Wikidata](https://www.wikidata.org/wiki/Q21606804). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Quelle, Ferdinand Friedrich Hermann (1876-1963), German botanist (bryologist) and entomologist; Dr. phil. Göttingen 1902; assistant Botanical Museum Göttingen 1904-1906; from 1908-1939 active as high school teacher (Studienrat). 
-**Abbreviated name**: *Quelle*
+**Abbreviated name**: *Quelle* \[standard form in IPNI: *Quelle*\]
 
 #### Herbarium and types
 

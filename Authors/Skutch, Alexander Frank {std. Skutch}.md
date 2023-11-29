@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 641](https://www.biodiversitylibrary.org/page/33333780) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 641](https://www.biodiversitylibrary.org/page/33333780) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9728-1), [Wikidata](https://www.wikidata.org/wiki/Q2833117). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Skutch, Alexander Frank (1904-x), American botanist; BA Johns Hopkins 1925, Dr. phil. 1928; assistant botanist ib. 1925-1928; Johnston scholar 1928-1930; Natl. Res. Counc. fellow 1930-1931; collected in Guatemala, Costa Rica and Ecuador. 
-**Abbreviated name**: *Skutch*
+**Abbreviated name**: *Skutch* \[standard form in IPNI: *Skutch*\]
 
 #### Herbarium and types
 

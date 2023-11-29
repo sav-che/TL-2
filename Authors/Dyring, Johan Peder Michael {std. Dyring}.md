@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33260218) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33260218) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2434-1), [Wikidata](https://www.wikidata.org/wiki/Q21511264). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dyring, Johan Peder Michael (1849-1930), Norwegian botanist, born 24 Jan 1849 at Porsgrund (Norway), studied in Kristiania (now Oslo) from 1866 until 1874, teacher at Holmestrands Laererskole from 1877, died 1930. 
-**Abbreviated name**: *Dyring*
+**Abbreviated name**: *Dyring* \[standard form in IPNI: *Dyring*\]
 
 #### Herbarium and types
 

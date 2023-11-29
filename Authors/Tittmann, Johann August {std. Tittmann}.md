@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33212414) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33212414) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10697-1), [Wikidata](https://www.wikidata.org/wiki/Q21610791). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tittmann, Johann August (1774-1840), German (Hannover) physician, botanist and agronomist; studied pharmacy at Elbingerode and Wernigerode; studied medicine at Leipzig 1794; "Privatdocent" ib. 1797; Dr. med. 1801; practicing physician at Dresden 1801-1813; in retirement nr Altenburg. 
-**Abbreviated name**: *Tittmann*
+**Abbreviated name**: *Tittmann* \[standard form in IPNI: *Tittmann*\]
 
 #### Herbarium and types
 

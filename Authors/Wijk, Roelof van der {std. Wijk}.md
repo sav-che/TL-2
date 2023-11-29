@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33066623) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33066623) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11662-1), [Wikidata](https://www.wikidata.org/wiki/Q21339565). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wijk, Roelof van der (1895-1981), Dutch bryologist; teacher at a primary school 1913-1916; id. at teachers colleges in Meppel and Groningen 1916-1947; Dr. phil. Univ. Groningen 1930 (with J.C. Schoute); professor of systematic botany Groningen 1947-1965; collected bryophytes in Indonesia 1952; senior and principal author of the *Index muscorum*. 
-**Abbreviated name**: *Wijk*
+**Abbreviated name**: *Wijk* \[standard form in IPNI: *Wijk*\]
 
 #### Herbarium and types
 

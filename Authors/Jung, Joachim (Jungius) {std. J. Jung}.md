@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33068711) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33068711) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4579-1), [Wikidata](https://www.wikidata.org/wiki/Q71026). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jung, Joachim \[Jungius\] (1587-1657), German physician and botanist at Hamburg. 
-**Abbreviated name**: *J. Jung*
+**Abbreviated name**: *J. Jung* \[standard form in IPNI: *Jung*\]
 
 #### Herbarium and types
 

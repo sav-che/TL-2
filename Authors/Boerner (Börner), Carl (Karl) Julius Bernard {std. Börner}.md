@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33120383) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33120383) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12350-1), [Wikidata](https://www.wikidata.org/wiki/Q69552). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Börner, Carl Julius Bernhard {std. Börner} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Boerner \[Börner\], Carl \[Karl\] Julius Bernard (1880-x), German botanist and entomologist. 
-**Abbreviated name**: *Boerner*
+**Abbreviated name**: *Boerner* \[standard form in IPNI: *Börner*\]
 
 #### Herbarium and types
 

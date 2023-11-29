@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33355343) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33355343) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5994-1), [Wikidata](https://www.wikidata.org/wiki/Q16065894). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Maille, Alphonse (1813-1865), French botanist. 
-**Abbreviated name**: *Maille*
+**Abbreviated name**: *Maille* \[standard form in IPNI: *Maille*\]
 
 #### Herbarium and types
 

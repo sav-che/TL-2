@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33212578) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33212578) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27982-1), [Wikidata](https://www.wikidata.org/wiki/Q11890938). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tuomikoski, Risto Kalevi (1911-x), Finnish botanist and entomologist; associate professor of botany at Helsinki University 1947-1961; professor of biotaxonomy 1961-1974. 
-**Abbreviated name**: *Tuom.*
+**Abbreviated name**: *Tuom.* \[standard form in IPNI: *Tuom.*\]
 
 #### Herbarium and types
 

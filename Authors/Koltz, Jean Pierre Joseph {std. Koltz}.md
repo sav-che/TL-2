@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33068852) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33068852) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4946-1), [Wikidata](https://www.wikidata.org/wiki/Q16439583). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koltz, Jean Pierre Joseph (1827-1907), Belgian/Luxemburg botanist; forester in Luxemburg, founder of the société botanique du G. D. de Luxemburg. 
-**Abbreviated name**: *Koltz*
+**Abbreviated name**: *Koltz* \[standard form in IPNI: *Koltz*\]
 
 #### Herbarium and types
 

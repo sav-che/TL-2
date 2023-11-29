@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33068818) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33068818) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4869-1), [Wikidata](https://www.wikidata.org/wiki/Q21517622). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Knieskern, Peter D. (1798-1871), American botanist and physician; resided in eastern New Jersey 1841-1871. 
-**Abbreviated name**: *Kniesk.*
+**Abbreviated name**: *Kniesk.* \[standard form in IPNI: *Kniesk.*\]
 
 #### Herbarium and types
 

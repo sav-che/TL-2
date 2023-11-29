@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33259078) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33259078) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/14660-1), [Wikidata](https://www.wikidata.org/wiki/Q21509738). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dallman, Arthur Augustine (1883-1963), British botanist, born in Cumberland, educated at the Harris Institute, Preston, moved to Liverpool 1901 as demonstrator in chemistry at Liverpool College 1901-1902, id. in physics 1902-1908, lecturer in chemistry at Port Sunlight, Technical School 1903, lecturer and demonstrator in botany at Liverpool Municipal Technical School 1903-1905, Bebington Coll. id. 1904-1906, Holt Municipal Techn. School 1908-1915, lecturer in botany Birkenhead 1912-1915, Science master at Greenock 1915-1920, moved to Doncater at Mexborough Grammar School 1920-1944. 
-**Abbreviated name**: *Dallman*
+**Abbreviated name**: *Dallman* \[standard form in IPNI: *Dallman*\]
 
 #### Herbarium and types
 

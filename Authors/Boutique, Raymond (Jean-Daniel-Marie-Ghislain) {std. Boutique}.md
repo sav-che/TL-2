@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33265590) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33265590) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1037-1), [Wikidata](https://www.wikidata.org/wiki/Q2883140). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boutique, Raymond (Jean-Daniel-Marie-Ghislain) (1906-1985), Belgian botanist, educated at the Institut Saint-Pierre at Jette until 1924, studied at the Université Catholique de Louvain 1924-1928, Ing. agric. ib. 1928, phytopathologist at the Jardin botanique de l'État 1930, aide-préparateur 1931-1935, préparateur 1935-1940, chef-préparateur 1940-1945, botanist at the Institut national pour l'Étude agronomique du Congo (INEAC) 1945-1961, with the Institut belge pour la Recherche scientifique Outre-Mer 1961-1963, subsequently assistant at the Institut Royal des Sciences naturelles 1963-1968, again with the Jardin botanique 1968-1971. 
-**Abbreviated name**: *Boutique*
+**Abbreviated name**: *Boutique* \[standard form in IPNI: *Boutique*\]
 
 #### Herbarium and types
 

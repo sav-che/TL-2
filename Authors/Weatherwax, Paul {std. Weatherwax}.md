@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33066456) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33066456) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11451-1), [Wikidata](https://www.wikidata.org/wiki/Q21612301). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weatherwax, Paul (1888-1976), American botanist; Dr. phil. Indiana Univ. 1918; assistant in botany ib. 1913-1915, instructor 1915-1918; associate professor Georgia 1919-1921; professor of botany Indiana Univ. 1921-1959; visiting professor Franklin College 1960-1963; emeritus professor Indiana Univ. 1959-1976. 
-**Abbreviated name**: *Weatherwax*
+**Abbreviated name**: *Weatherwax* \[standard form in IPNI: *Weatherwax*\]
 
 #### Herbarium and types
 

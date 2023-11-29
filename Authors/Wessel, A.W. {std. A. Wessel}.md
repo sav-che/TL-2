@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33066540) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33066540) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11571-1), [Wikidata](https://www.wikidata.org/wiki/Q47128732). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wessel, A.W. (*fl*. 1858), German (East-Frisian) botanist and high school teacher at Aurich. 
-**Abbreviated name**: *A.Wessel*
+**Abbreviated name**: *A.Wessel* \[standard form in IPNI: *A.Wessel*\]
 
 #### Herbarium and types
 

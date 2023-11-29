@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33333395) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33333395) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9163-1), [Wikidata](https://www.wikidata.org/wiki/Q5932899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidt, Johann August Friedrich (*fl*. 1832), German (Thuringian) clergyman and popular writer on botany; dean in Ilmenau. 
-**Abbreviated name**: *J.A.F. Schmidt*
+**Abbreviated name**: *J.A.F. Schmidt* \[standard form in IPNI: *J.A.F.Schmidt*\]
 
 #### Herbarium and types
 

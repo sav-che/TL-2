@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1015](https://www.biodiversitylibrary.org/page/33121146) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1015](https://www.biodiversitylibrary.org/page/33121146) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3421-1), [Wikidata](https://www.wikidata.org/wiki/Q19666664). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Grove, William Bywater {std. Grove} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Grove, William Bywater (1848-1938), British mycologist, headmaster later lecturer in botany, Birmingham. 
-**Abbreviated name**: *Grove*
+**Abbreviated name**: *Grove* \[standard form in IPNI: *Grove*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/page/33258910) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 432](https://www.biodiversitylibrary.org/page/33258910) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/14402-1), [Wikidata](https://www.wikidata.org/wiki/Q3856640). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Guadagno, Michele (1878-1930), Italian botanist, born 16 Oct 1878 in Naples, titled himself as "Ing." in early papers, esp. interested in the flora of the isl. of Capri, died 10 Sep 1930 in Naples. 
-**Abbreviated name**: *Guadagno*
+**Abbreviated name**: *Guadagno* \[standard form in IPNI: *Guadagno*\]
 
 #### Herbarium and types
 

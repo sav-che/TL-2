@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33068508) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33068508) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4077-1), [Wikidata](https://www.wikidata.org/wiki/Q4499766). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Honckeny, Gerhard August (1724-1805), German administrator and botanist. 
-**Abbreviated name**: *Honck.*
+**Abbreviated name**: *Honck.* \[standard form in IPNI: *Honck.*\]
 
 #### Herbarium and types
 

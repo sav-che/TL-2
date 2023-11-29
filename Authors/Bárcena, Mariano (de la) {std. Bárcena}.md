@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33265049) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33265049) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/472-1), [Wikidata](https://www.wikidata.org/wiki/Q6762425). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bárcena, Mariano \[de la\] (1842-1899), Mexican botanist, plant collector, studied at the escuela especial de ingenieros de México, later professor of paleontologica y geologia Museo Nacional, México, and Director of the Observatorio meteorólogico central, México. 
-**Abbreviated name**: *Bárcena*
+**Abbreviated name**: *Bárcena* \[standard form in IPNI: *Bárcena*\]
 
 #### Herbarium and types
 

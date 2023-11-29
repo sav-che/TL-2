@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33212788) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33212788) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11200-1), [Wikidata](https://www.wikidata.org/wiki/Q3381015). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vilmorin, \[Joseph Marie\] Philippe \[Levêque\] de (1872-1917), French botanist, geneticist and horticulturist; son of Henry de Vilmorin, fifth head of "Vilmorin-Andrieux et Cie". 1899-1917. 
-**Abbreviated name**: *Ph. Vilm.*
+**Abbreviated name**: *Ph. Vilm.* \[standard form in IPNI: *P.Vilm.*\]
 
 #### Herbarium and types
 

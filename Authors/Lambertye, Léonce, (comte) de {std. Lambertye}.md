@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33068980) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33068980) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5234-1), [Wikidata](https://www.wikidata.org/wiki/Q3271632). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lambertye, Léonce, \[comte\] de (1810-1877), French botanist and horticulturist, from 1834 at Chaltrait, Épernay, Marne. 
-**Abbreviated name**: *Lambertye*
+**Abbreviated name**: *Lambertye* \[standard form in IPNI: *Lambertye*\]
 
 #### Herbarium and types
 

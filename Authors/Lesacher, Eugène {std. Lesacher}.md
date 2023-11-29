@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 847](https://www.biodiversitylibrary.org/page/33069089) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 847](https://www.biodiversitylibrary.org/page/33069089) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5500-1), [Wikidata](https://www.wikidata.org/wiki/Q21518704). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lesacher, Eugène (1824-?), French botanist. 
-**Abbreviated name**: *Lesacher*
+**Abbreviated name**: *Lesacher* \[standard form in IPNI: *Lesacher*\]
 
 #### Herbarium and types
 

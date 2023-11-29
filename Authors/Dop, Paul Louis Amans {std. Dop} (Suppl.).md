@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33260042) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33260042) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2279-1), [Wikidata](https://www.wikidata.org/wiki/Q6067226). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dop, Paul Louis Amans {std. Dop}|first entry]] for this author
 
 ### Author
 
 \* Dop, Paul Louis Amans (1876-1954), French botanist, born at Toulouse 25 Feb 1876, died 19 Aug 1954 at Lectoure, student at the Lycée and the Faculté des Sciences de Toulouse, doctor's title 1903,"cours de botanique" at the Faculté de Toulouse 1903, professor títulaire 1927, Lauréat of the Institut (Paris) 1929 and "chevalier de la Légion d'Honneur" 1931. 
-**Abbreviated name**: *Dop*
+**Abbreviated name**: *Dop* \[standard form in IPNI: *Dop*\]
 
 #### Herbarium and types
 

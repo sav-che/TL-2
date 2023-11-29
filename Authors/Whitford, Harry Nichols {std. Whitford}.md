@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33066596) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33066596) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11629-1), [Wikidata](https://www.wikidata.org/wiki/Q18911341). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Whitford, Harry Nichols (1872-1941), American forester and botanist; M.S. Kansas State Agric. Coll. 1900; Dr. phil. Chicago 1903; instructor in biology Armour Inst. 1898-1900; assistant in botany Chicago 1900-1904; collector Bureau of Science, Philippine Isl. 1904-1906; chief div. investig. Bur. Forestry ib. 1906-1912; assistant professor of forestry ib. 1910-1912; forester in Canada 1913-1916; asst. professor of tropical forestry Yale 1916-1923; chief crude rubber Survey U.S. Dept. Commerce 1923-1925; manager crude rubber div., Rubber manuf. Ass. from 1925. 
-**Abbreviated name**: *Whitford*
+**Abbreviated name**: *Whitford* \[standard form in IPNI: *Whitford*\]
 
 #### Herbarium and types
 

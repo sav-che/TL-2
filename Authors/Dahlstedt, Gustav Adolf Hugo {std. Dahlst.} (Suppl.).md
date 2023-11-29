@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33259062) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33259062) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/12493-1), [Wikidata](https://www.wikidata.org/wiki/Q1937128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dahlstedt, Gustav Adolf Hugo {std. Dahlst.}|first entry]] for this author
 
 ### Author
 
 \* Dahlstedt, Gustav Adolf Hugo (1836-1934), Swedish botanist, born at S:t Lars, Östergötland, educated at the secondary school at Linköping and Uppsala, Dr. phil. h.c. Uppsala 1907, amanensis with the Stockholm Riksmuseum botanical collections from 1890, assistant from 1915, temporary assistant at the Bergius Bot. Garden 1900-1905. 
-**Abbreviated name**: *Dahlst.*
+**Abbreviated name**: *Dahlst.* \[standard form in IPNI: *Dahlst.*\]
 
 #### Herbarium and types
 

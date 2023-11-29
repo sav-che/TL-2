@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33258749) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33258749) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3227-1), [Wikidata](https://www.wikidata.org/wiki/Q14326929). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Görz, Rudolf (1879-1935), German salicologist, born 19 Nov 1879 in Rathanow, middle school teacher in Brandenburg (on the Havel), where he died 10 Mai 1935. 
-**Abbreviated name**: *Görz*
+**Abbreviated name**: *Görz* \[standard form in IPNI: *Goerz*\]
 
 #### Herbarium and types
 

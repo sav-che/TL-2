@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/page/33190263) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/page/33190263) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8396-1), [Wikidata](https://www.wikidata.org/wiki/Q6002235). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rikli, Martin Albert (1868-1951), Swiss botanist (plant geographer); studied at Basel, Berlin (with A. Engler and S. Schwendener) and Zürich; Dr. phil. Basel 1895; teacher at a teachers' college in Zürich-Unterstrass 1893-1905; curator of the Botanical Museum of the E.T.H. Zürich 1906-1930; habil. Zürich, E.T.H. 1900; titular professor 1909; travelled widely especially in the mediterranean area. 
-**Abbreviated name**: *Rikli*
+**Abbreviated name**: *Rikli* \[standard form in IPNI: *Rikli*\]
 
 #### Herbarium and types
 

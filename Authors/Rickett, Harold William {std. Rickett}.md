@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/page/33190253) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/page/33190253) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8377-1), [Wikidata](https://www.wikidata.org/wiki/Q16574083). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rickett, Harold William (1896-x), English-born American botanist; emigrated to the United States 1910; studied at Harvard Univ. 1913-1915 and Univ. of Wisconsin (Dr. phil. 1922); in France in World War I 1917-1918; instructor at Univ. Wisconsin 1922-1924; asst. professor of botany at Univ. of Missouri 1924-1928; assoc. professor 1928-1939 ; visiting lecturer Reed College 1937-1938; bibliographer at the New York Botanical Garden 1939-1964 (succeeding J.H. Barnhart in 1942), writing *Wild flowers of the United States* 1964-1973; in retirement at Carmel, California 1973-x. 
-**Abbreviated name**: *Rickett*
+**Abbreviated name**: *Rickett* \[standard form in IPNI: *Rickett*\]
 
 #### Herbarium and types
 

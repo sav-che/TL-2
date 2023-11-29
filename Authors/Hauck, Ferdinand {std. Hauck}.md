@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33068342) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33068342) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3728-1), [Wikidata](https://www.wikidata.org/wiki/Q21515580). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hauck, Ferdinand (1845-1889), Austrian algologist (born at Brünn, Brno); post office official stationed at Trieste 1866-1889; Dr. phil. h.c. Zürich 1883. 
-**Abbreviated name**: *Hauck*
+**Abbreviated name**: *Hauck* \[standard form in IPNI: *Hauck*\]
 
 #### Herbarium and types
 

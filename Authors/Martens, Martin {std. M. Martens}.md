@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33355404) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33355404) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6150-1), [Wikidata](https://www.wikidata.org/wiki/Q2292953). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Martens, Martin (1797-1863), Belgian botanist at Leuven and Brussels; born in Maastricht, Netherlands; studied medicine at Liège; from 1823-1835 practicing physician at Maastricht; professor of chemistry and botany at Louvain (Leuven) 1835-1863. 
-**Abbreviated name**: *M. Martens*
+**Abbreviated name**: *M. Martens* \[standard form in IPNI: *M.Martens*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33259532) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33259532) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2628-1), [Wikidata](https://www.wikidata.org/wiki/Q84485). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Falkenberg, Paul {std. Falkenb.}|first entry]] for this author
 
 ### Author
 
 \* Falkenberg, Paul (1848-1925), German botanist (algologist), born 2 Sep 1848 in Berlin, educated at the Kgl. Wilhelm-Gymnasium until 1866, studied natural sciences in Berlin, Heidelberg, and Göttingen, Dr. Phil. 1875 Göttingen, visited Naples 1877-1879, Prof. Extraord., Göttingen 1884, prof. at Rostock 1887 where he succeeded K.I. Goebel, retired 1922, died 1 Nov 1925 in Rostock. 
-**Abbreviated name**: *Falkenb.*
+**Abbreviated name**: *Falkenb.* \[standard form in IPNI: *Falkenb.*\]
 
 #### Herbarium and types
 

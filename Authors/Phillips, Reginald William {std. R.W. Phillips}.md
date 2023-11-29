@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33189714) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33189714) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7645-1), [Wikidata](https://www.wikidata.org/wiki/Q16872648). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Phillips, Reginald William (1854-1926), British botanist; B.A. Cambr. 1884; Dr. sci. 1898; head Dept. Biol. Bangor 1884; professor of botany ib. until 1922. 
-**Abbreviated name**: *R.W. Phillips*
+**Abbreviated name**: *R.W. Phillips* \[standard form in IPNI: *R.W.Phillips*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33120948) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33120948) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/13064-1), [Wikidata](https://www.wikidata.org/wiki/Q2910947). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fedtschenko (Fedchenko), Boris (Bos) A. {std. B. Fedtsch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fedchenko \[Fedtschenko\], Boris Alexsevič (1873-1947), Russian botanist at Leningrad, explorer of Pamir, son of Olga Fedchenko. 
-**Abbreviated name**: *Fedch.*
+**Abbreviated name**: *Fedch.* \[standard form in IPNI: *B.Fedtsch.*\]
 
 #### Herbarium and types
 

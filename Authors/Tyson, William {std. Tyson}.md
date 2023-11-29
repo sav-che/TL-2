@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/page/33212603) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/page/33212603) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10946-1), [Wikidata](https://www.wikidata.org/wiki/Q21611113). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tyson, William (1851-1920), Jamaica-born (British parents) South African teacher and plant collector; studied at Leeds; to S. Africa ca. 1874, teacher at various schools in S. Africa 1874-1888; with the South African Department of forestry, Kimberley, 1888-1893; librarian and editor with the Agricultural Department 1893-1904; ultimately, in retirement at Port Alfred. 
-**Abbreviated name**: *Tyson*
+**Abbreviated name**: *Tyson* \[standard form in IPNI: *Tyson*\]
 
 #### Herbarium and types
 

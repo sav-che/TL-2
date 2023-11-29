@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33265294) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33265294) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/14610-1), [Wikidata](https://www.wikidata.org/wiki/Q5475398). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Berher, Eugène-Laurent (1822-1900), French (Épinal, Vosges) physician, botanist and librarian, born at Épinal, studied at the University of Paris, Dr. med. ib. 1850, settled again in Épinal, later adjunct librarian at the municipal library. 
-**Abbreviated name**: *E.-L. Berher*
+**Abbreviated name**: *E.-L. Berher* \[standard form in IPNI: *Berher*\]
 
 #### Herbarium and types
 

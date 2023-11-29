@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33212494) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33212494) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10801-1), [Wikidata](https://www.wikidata.org/wiki/Q3766768). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Traverso, Giovanni Battista (1878-1955), Italian mycologist and phytopathologist; Dr. phil. Pavia 1900; assistant at the Botanical Institute of Padua; habil. Padua 1905; asst. director Phytopathological Station Roma 1915; professor of phytopathology at the R. Ist. superiore agrario di Milano 1925. 
-**Abbreviated name**: *Traverso*
+**Abbreviated name**: *Traverso* \[standard form in IPNI: *Traverso*\]
 
 #### Herbarium and types
 

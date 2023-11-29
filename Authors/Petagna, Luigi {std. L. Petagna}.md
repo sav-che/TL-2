@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33189658) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33189658) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7558-1), [Wikidata](https://www.wikidata.org/wiki/Q21522866). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petagna, Luigi (1779-1832), Italian botanist and entomologist at Napoli; from 1812 professor of zoology, from 1813 also director of the Museo zoologico Napoli of the University of Napoli. 
-**Abbreviated name**: *L. Petagna*
+**Abbreviated name**: *L. Petagna* \[standard form in IPNI: *L.Petagna*\]
 
 #### Herbarium and types
 

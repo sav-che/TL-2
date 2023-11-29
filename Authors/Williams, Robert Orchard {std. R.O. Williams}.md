@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33066662) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33066662) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11708-1), [Wikidata](https://www.wikidata.org/wiki/Q6109509). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Williams, Robert Orchard (1891-1967), British botanist; Kew gardener 1916; curator Royal Botanic Gardens Port of Spain, Trinidad 1916; director Bot. Gard. St. George's 1919-1921; director Royal bot. Gard. Port of Spain, Trinidad 1922-1934; economic botanist Trinidad 1932, asst. director of agriculture ib. 1934; chief horticultural officer, Palestine 1935; director agriculture, Zanzibar 1945-1948. 
-**Abbreviated name**: *R.O. Williams*
+**Abbreviated name**: *R.O. Williams* \[standard form in IPNI: *R.O.Williams*\]
 
 #### Herbarium and types
 

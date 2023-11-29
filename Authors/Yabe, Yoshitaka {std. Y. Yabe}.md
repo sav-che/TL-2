@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2018-04-09 11:18:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33066825) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33066825) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11916-1), [Wikidata](https://www.wikidata.org/wiki/Q23947122). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Yabe, Yoshitaka (1876-1931), Japanese botanist; professor of botany at the Tokyo College of Arts and Sciences. 
-**Abbreviated name**: *Y. Yabe*
+**Abbreviated name**: *Y. Yabe* \[standard form in IPNI: *Y.Yabe*\]
 
 #### Herbarium and types
 

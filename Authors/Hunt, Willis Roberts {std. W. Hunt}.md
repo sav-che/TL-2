@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33068614) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33068614) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4235-1), [Wikidata](https://www.wikidata.org/wiki/Q21516663). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hunt, Willis Roberts (1893-x), American botanist and phytopathologist; Dr. phil. Yale 1926. 
-**Abbreviated name**: *W. Hunt*
+**Abbreviated name**: *W. Hunt* \[standard form in IPNI: *W.R.Hunt*\]
 
 #### Herbarium and types
 

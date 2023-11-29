@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33260142) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33260142) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18256-1), [Wikidata](https://www.wikidata.org/wiki/Q21447623). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dughi, Raymond-Paul (fl. 1932-1963), French botanist (lichenologist), Licencié ès Sci. 1932, prof. École normale and conservateur of the Musée Hist. Nat. Aix-en-Provence, prix Jean Thore 1949, prix Gandoger 1958 (cryptogamy). 
-**Abbreviated name**: *Dughi*
+**Abbreviated name**: *Dughi* \[standard form in IPNI: *Dughi*\]
 
 #### Herbarium and types
 

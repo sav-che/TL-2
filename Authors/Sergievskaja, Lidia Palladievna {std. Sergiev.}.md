@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33333652) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33333652) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9498-1), [Wikidata](https://www.wikidata.org/wiki/Q4417055). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sergievskaja, Lidia Palladievna (1897-1970), Russian botanist at the P.N. Krilov Herbarium of the V.V. Kuibyshev State University of Tomsk. 
-**Abbreviated name**: *Sergiev.*
+**Abbreviated name**: *Sergiev.* \[standard form in IPNI: *Serg.*\]
 
 #### Herbarium and types
 

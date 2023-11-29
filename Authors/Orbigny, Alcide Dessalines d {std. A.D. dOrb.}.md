@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33355929) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33355929) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/31988-1), [Wikidata](https://www.wikidata.org/wiki/Q344661). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Orbigny, Alcide Dessalines d' (1802-1857), French traveller, palaeontologist and zoologist; travelled in South America 1826-1834; from then on in Paris as a private scientist; from 1856 as professor of paleontology at the Muséum d'Histoire naturelle. 
-**Abbreviated name**: *A.D. d'Orb.*
+**Abbreviated name**: *A.D. d'Orb.* \[standard form in IPNI: *A.D.Orb.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2019-02-25 10:51:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33066464) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33066464) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11462-1), [Wikidata](https://www.wikidata.org/wiki/Q1349350). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weber, \[Frédéric\] Albert \[Constantin\] (1830-1903), French military surgeon and amateur botanist; studied medicine at the Val-de-Grâce, Paris, graduating 1853; on active service in Algeria, Italy (e.g. Solférino), Indo-China (ca. 1860-1862) and Mexico 1865-1866; in the Metz hospltal and the Army of the Loire 1870-1871; subsequently in charge of various military hospitals in France, ultimately director of Val-de-Grâce. 
-**Abbreviated name**: *F.A.C. Weber*
+**Abbreviated name**: *F.A.C. Weber* \[standard form in IPNI: *F.A.C.Weber*\]
 
 #### Herbarium and types
 

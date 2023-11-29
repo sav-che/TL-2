@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/page/33333984) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/page/33333984) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10032-1), [Wikidata](https://www.wikidata.org/wiki/Q2089561). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Staring, Winand Carel Hugo (1808-1877), Dutch geologist and agronomist; Dr. phil. Leiden 1833; scientist of private means, founder of Dutch geology; secretary of the Dutch State Committee for geology from 1852-1855. 
-**Abbreviated name**: *Staring*
+**Abbreviated name**: *Staring* \[standard form in IPNI: *Staring*\]
 
 #### Herbarium and types
 

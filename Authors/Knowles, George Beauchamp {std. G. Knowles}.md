@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33068824) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33068824) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4881-1), [Wikidata](https://www.wikidata.org/wiki/Q3101418). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Knowles, George Beauchamp (*fl*. 1829-1852), British surgeon and botanist at the Brimingham School of Medicine. 
-**Abbreviated name**: *G. Knowles*
+**Abbreviated name**: *G. Knowles* \[standard form in IPNI: *Knowles*\]
 
 #### Herbarium and types
 

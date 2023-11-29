@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33212054) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33212054) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27288-1), [Wikidata](https://www.wikidata.org/wiki/Q21609956). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Strömbom, Nils Gustaf (1847-1897), Swedish clergyman and mycologist; ordained 1870. 
-**Abbreviated name**: *Strömbom*
+**Abbreviated name**: *Strömbom* \[standard form in IPNI: *Strömbom*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33333847) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33333847) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9829-1), [Wikidata](https://www.wikidata.org/wiki/Q214321). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smuts, Jan Christiaan (1870-1950), South-African statesman, soldier, philosopher and amateur botanist; studied literature and science at the University of Cape of Good Hope and law at Christ's College, Cambridge; lawyer at Cape Town 1895-1897; state attorney of the Transvaal 1898; later in the South African army, in politics and prime minister of S. Africa 1919-1924, deputy prime minister 1933-1939, prime minister 1939-1948. 
-**Abbreviated name**: *Smuts*
+**Abbreviated name**: *Smuts* \[standard form in IPNI: *Smuts*\]
 
 #### Herbarium and types
 

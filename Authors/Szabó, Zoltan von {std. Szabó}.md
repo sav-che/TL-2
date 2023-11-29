@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33212181) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33212181) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10362-1), [Wikidata](https://www.wikidata.org/wiki/Q6171475). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Szabó, Zoltan von (1882-1944), Hungarian botanist; Dr. phil. Breslau 1905, student of F. Pax; habil. Budapest 1958; lecturer at the R. Veterinary College, Budapest 1908-1918; professor of botany ib. 1918-1926; professor of agricultural botany at the University of Budapest 1926. 
-**Abbreviated name**: *Szabó*
+**Abbreviated name**: *Szabó* \[standard form in IPNI: *Szabó*\]
 
 #### Herbarium and types
 

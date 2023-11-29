@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33120220) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33120220) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/378-1), [Wikidata](https://www.wikidata.org/wiki/Q329835). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bäck, Abraham (1713-1795), Swedish amateur botanist, friend of Linnaeus and chief-physician to the king of Sweden who pronounced the funeral oration on Linnaeus at the Swedish Academy of Sciences 
-**Abbreviated name**: *Bäck*
+**Abbreviated name**: *Bäck* \[standard form in IPNI: *Bäck*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33068710) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33068710) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4575-1), [Wikidata](https://www.wikidata.org/wiki/Q4182034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jumelle, Henri (Lucien) (1866-1935), French botanist; pupil of Bonnier; Plant physiologist at Paris 1887-1894; later at Marseille; ultimately director of the Musée colonial. 
-**Abbreviated name**: *Jumelle*
+**Abbreviated name**: *Jumelle* \[standard form in IPNI: *Jum.*\]
 
 #### Herbarium and types
 

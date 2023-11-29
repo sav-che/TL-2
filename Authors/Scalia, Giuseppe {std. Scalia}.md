@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33333235) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33333235) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8992-1), [Wikidata](https://www.wikidata.org/wiki/Q21607830). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scalia, Giuseppe (1876-?), Italian mycologist; assistant at the college for viticulture at Catania, Sicilia. 
-**Abbreviated name**: *Scalia*
+**Abbreviated name**: *Scalia* \[standard form in IPNI: *Scalia*\]
 
 #### Herbarium and types
 

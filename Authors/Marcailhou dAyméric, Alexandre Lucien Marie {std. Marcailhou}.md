@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33355372) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33355372) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/34942-1), [Wikidata](https://www.wikidata.org/wiki/Q21519942). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marcailhou d'Ayméric, Alexandre Lucien Marie (1839-1897), French clergyman (ordin. 1865) and botanist; vicar at Foix, 1865-1869, and Miglos, 1869-1872; from 1871 "aumônier du couvent des Dominicaines" at Ax-les-Thermes. 
-**Abbreviated name**: *Marcailhou*
+**Abbreviated name**: *Marcailhou* \[standard form in IPNI: *Marcailhou*\]
 
 #### Herbarium and types
 

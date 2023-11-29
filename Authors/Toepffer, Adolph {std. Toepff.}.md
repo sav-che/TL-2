@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33212424) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33212424) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10710-1), [Wikidata](https://www.wikidata.org/wiki/Q21610820). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Toepffer, Adolph (1853-1931), German (Prussian/Brandenburg) botanist; originally in charge of a family mill; subsequently travelling in Europe and distributing exsiccatae ca. 1881-1886; in charge of a pharmacy in Schwerin 1887-1902; in retirement because of invalidity in München, fully dedicating himself to botany as volunteer in the (then) Royal Botanical Museum. 
-**Abbreviated name**: *Toepff.*
+**Abbreviated name**: *Toepff.* \[standard form in IPNI: *Toepff.*\]
 
 #### Herbarium and types
 

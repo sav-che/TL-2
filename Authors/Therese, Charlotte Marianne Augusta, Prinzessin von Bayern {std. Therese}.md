@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33212290) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33212290) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10558-1), [Wikidata](https://www.wikidata.org/wiki/Q68918). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Therese, Charlotte Marianne Augusta, Prinzessin von Bayern (1850-1925), German (Bavarian) princess; travelled in the Mediterranean region 1875-1876, in Scandinavia 1881, in Russia 1882, in S.E. Europe 1883, via Spain to Brasilia 1888, in the Balkan Peninsula 1890, in N. America and Mexico 1893, in S. America 1898, collecting natural history material; Dr. phil. h.c. München 1897. 
-**Abbreviated name**: *Therese*
+**Abbreviated name**: *Therese* \[standard form in IPNI: *Therese*\]
 
 #### Herbarium and types
 

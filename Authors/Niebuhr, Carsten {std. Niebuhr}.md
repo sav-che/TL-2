@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33355833) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33355833) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6972-1), [Wikidata](https://www.wikidata.org/wiki/Q57420). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Niebuhr, Carsten (1733-1815), Holstein-born Danish botanist; studied in Göttingen 1757-1761; with Forsskål on a Danish expedition to Arabia 1761-1763, India, Persia and Turkey 1763-1767; in Copenhagen until 1778; subsequently administrator at Ditmarsken, ultimately at Melsdorf. 
-**Abbreviated name**: *Niebuhr*
+**Abbreviated name**: *Niebuhr* \[standard form in IPNI: *Niebuhr*\]
 
 #### Herbarium and types
 

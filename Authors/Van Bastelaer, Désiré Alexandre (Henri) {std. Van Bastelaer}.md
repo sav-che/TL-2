@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 656](https://www.biodiversitylibrary.org/page/33212698) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 656](https://www.biodiversitylibrary.org/page/33212698) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12962-1), [Wikidata](https://www.wikidata.org/wiki/Q21611380). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Van Bastelaer, Désiré Alexandre \[Henri\] (1823-1907), Belgian botanist, pharmacist, archeologist and author on folklore; Dr. sci. nat. 1847; pharmacist at Charleroi 1847-1878, from 1883 in Bruxelles. 
-**Abbreviated name**: *Van Bastelaer*
+**Abbreviated name**: *Van Bastelaer* \[standard form in IPNI: *Van Bast.*\]
 
 #### Herbarium and types
 

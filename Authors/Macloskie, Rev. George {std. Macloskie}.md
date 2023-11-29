@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33355316) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33355316) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5946-1), [Wikidata](https://www.wikidata.org/wiki/Q8963834). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Macloskie, Rev. George (1834-1919), Irish-born botanist and clergyman; LL.D. London 1871, D.Sc. Belfast 1874, minister at Ballygoney 1861-1874; professor of natural history, Princeton, New Jersey 1874-1906. 
-**Abbreviated name**: *Macloskie*
+**Abbreviated name**: *Macloskie* \[standard form in IPNI: *Macloskie*\]
 
 #### Herbarium and types
 

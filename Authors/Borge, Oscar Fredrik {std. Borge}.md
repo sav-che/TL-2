@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33265533) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33265533) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/20026780-1), [Wikidata](https://www.wikidata.org/wiki/Q5582439). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Borge, Oscar Fredrik (1862-1938) \[until 28 Mar 1891 Andersson\], Swedish botanist (algologist), educated at the Latin School of Stockholm 1883, fil. kand. University of Uppsala 1888, fil. lic. ib. 1893, Dr. phil. ib. 1895, sometime botanist at Stockholm University, in charge of the archives of the Swedish labour movement. 
-**Abbreviated name**: *Borge*
+**Abbreviated name**: *Borge* \[standard form in IPNI: *Borge*\]
 
 #### Note
 

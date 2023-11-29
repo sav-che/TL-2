@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33212337) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33212337) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10632-1), [Wikidata](https://www.wikidata.org/wiki/Q3480131). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thoroddsen, Thorvaldur (1855-1921), Icelandic geologist, geographer and botanist; studied at the University of Copenhagen; high school teacher in Iceland 1880-1895; from 1895 private scientist in Copenhagen. 
-**Abbreviated name**: *Thoroddsen*
+**Abbreviated name**: *Thoroddsen* \[standard form in IPNI: *Thoroddsen*\]
 
 #### Herbarium and types
 

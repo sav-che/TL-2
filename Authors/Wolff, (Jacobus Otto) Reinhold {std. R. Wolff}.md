@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33066764) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33066764) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13029-1), [Wikidata](https://www.wikidata.org/wiki/Q21612918). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wolff, \[Jacobus Otto\] Reinhold (1845-?), German (Silesian), agriculturist and mycologist; Dr. phil. Halle 1874; habil. Halle 1875; attended agricultural schools in Würlitz nr Kreuzburg (Schles.) and Proskau (Schles.); studied at Halle with e.g. Knoblauch, de Bary, Solms-Laubach; ultimately teacher at the Polytechnical School of Riga, Latvia. 
-**Abbreviated name**: *R. Wolff*
+**Abbreviated name**: *R. Wolff* \[standard form in IPNI: *R.Wolff*\]
 
 #### Herbarium and types
 

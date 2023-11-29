@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33068947) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33068947) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12635-1), [Wikidata](https://www.wikidata.org/wiki/Q5441024). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kurtz, Fritz (Frederico) (1854-1920), German botanist; Dr. phil. Berlin 1879; from 1878-80 at Berlin-Dahlem under Eichler; to Argentina 1884, professor of botany at Cordoba 1884-1915. 
-**Abbreviated name**: *F.Kurtz*
+**Abbreviated name**: *F.Kurtz* \[standard form in IPNI: *Kurtz*\]
 
 #### Herbarium and types
 

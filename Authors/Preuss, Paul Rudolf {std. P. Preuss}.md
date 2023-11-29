@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33189868) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33189868) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/13687-1), [Wikidata](https://www.wikidata.org/wiki/Q21388687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Preuss, Paul Rudolf (1861-?), German (Prussian) botanist and explorer; in Sierra Leone 1886-1888; on the Zintgraff expedition at Kumba 1889-1892; founder and director of the Victoria botanic garden, Cameroon, 1892-1895(-1902); in tropical America 1899-1900; in S.E. Asia 1903-1904. 
-**Abbreviated name**: *P. Preuss*
+**Abbreviated name**: *P. Preuss* \[standard form in IPNI: *P.Preuss*\]
 
 #### Herbarium and types
 

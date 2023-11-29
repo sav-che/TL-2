@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33355657) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33355657) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6620-1), [Wikidata](https://www.wikidata.org/wiki/Q5982398). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moore, Lucy Beatrice (1906-x), New Zealand botanist; M. Sc. Auckland 1929; at the Botany Division, Dept. Scientific and Industrial Research, Wellington. 
-**Abbreviated name**: *L. B. Moore*
+**Abbreviated name**: *L. B. Moore* \[standard form in IPNI: *L.B.Moore*\]
 
 #### Herbarium and types
 

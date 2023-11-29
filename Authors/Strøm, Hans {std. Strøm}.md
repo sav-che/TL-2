@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2005-06-16 09:29:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33212052) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33212052) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12894-1), [Wikidata](https://www.wikidata.org/wiki/Q1284564). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Strøm, Hans (1726-1797), Norwegian botanist, entomologist and clergyman; cand. theol. 1745; stationed at Borgund 1750, at Volda 1764 and at Eger 1778; prof. theol. extraord. 1780; Dr. theol. 1790. 
-**Abbreviated name**: *Strøm*
+**Abbreviated name**: *Strøm* \[standard form in IPNI: *Strøm*\]
 
 #### Herbarium and types
 

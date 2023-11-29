@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33066688) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33066688) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11728-1), [Wikidata](https://www.wikidata.org/wiki/Q5503949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilms, Friedrich, Junior (1848-1919), German (Westphalian) pharmacist, botanist and plant collector; pharmacist in Münster until 1882; id. in S. Africa 1882-1896, e.g. at Lydenburg, Transvaal, later in Berlin, some time assistant (1904, 1910-1913) at the Botanical Museum and Herbarium. 
-**Abbreviated name**: *Wilms*
+**Abbreviated name**: *Wilms* \[standard form in IPNI: *F.Wilms*\]
 
 #### Herbarium and types
 

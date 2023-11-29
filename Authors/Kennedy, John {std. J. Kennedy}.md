@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33068763) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33068763) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4727-1), [Wikidata](https://www.wikidata.org/wiki/Q21517432). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kennedy, John (1759-1842), British nurseryman; partner of James Lee at the Vineyard Nursery, Hammersmith; advised Josephine on the Malmaison gardens. 
-**Abbreviated name**: *J. Kennedy*
+**Abbreviated name**: *J. Kennedy* \[standard form in IPNI: *J.Kenn.*\]
 
 #### Herbarium and types
 

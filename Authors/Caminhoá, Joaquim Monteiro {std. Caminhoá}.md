@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33266628) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33266628) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1372-1), [Wikidata](https://www.wikidata.org/wiki/Q10307320). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Caminhoá, Joaquim Monteiro (1835-?), Brasilian botanist at Rio de Janeiro. 
-**Abbreviated name**: *Caminhoá*
+**Abbreviated name**: *Caminhoá* \[standard form in IPNI: *Caminhoá*\]
 
 #### Herbarium and types
 

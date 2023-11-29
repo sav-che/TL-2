@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33355840) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33355840) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6991-1), [Wikidata](https://www.wikidata.org/wiki/Q5897484). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nilson, Birger (from 1909 Kajanus, Birger) (1882-1931), Swedish botanist; Dr. phil. Lund 1913. 
-**Abbreviated name**: *Nilson*
+**Abbreviated name**: *Nilson* \[standard form in IPNI: *Nilson*\]
 
 #### Herbarium and types
 

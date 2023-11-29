@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33333363) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33333363) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9127-1), [Wikidata](https://www.wikidata.org/wiki/Q21608066). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlim, Louis Joseph (*fl*. 1845), Belgian plant collector; half brother of J.J. Linden; collected in South and Central America 1841-1852. 
-**Abbreviated name**: *Schlim*
+**Abbreviated name**: *Schlim* \[standard form in IPNI: *Schlim*\]
 
 #### Herbarium and types
 

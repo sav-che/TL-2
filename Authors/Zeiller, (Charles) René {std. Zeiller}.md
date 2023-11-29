@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33066863) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33066863) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12003-1), [Wikidata](https://www.wikidata.org/wiki/Q5400253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zeiller, \[Charles\] René (1847-1915), French palaeobotanist; studied at the École polytechnique 1865-1867 and the École des mines 1867-1870; from 1871 with the Conseil général des mines; from 1878 as secretary; from 1878 also professor of palaeobotany at the École des mines; from 1911 vice-president of the Conseil général des Mines; Acad. Sci. 1901. 
-**Abbreviated name**: *Zeiller*
+**Abbreviated name**: *Zeiller* \[standard form in IPNI: *Zeiller*\]
 
 #### Herbarium and types
 

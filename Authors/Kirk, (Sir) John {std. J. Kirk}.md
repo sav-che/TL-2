@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33068792) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33068792) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4807-1), [Wikidata](https://www.wikidata.org/wiki/Q1700717). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kirk, \[Sir\] John (1832-1922), Scottish colonial administrator, explorer and botanist; mainly active in eastern Africa; M. D. Edinburgh 1854; physician and naturalist on Livingstone's second Zambesi expedition (1858-1863); in Zanzibar 1866-1881, 1883-1887; thence onward in England. 
-**Abbreviated name**: *J. Kirk*
+**Abbreviated name**: *J. Kirk* \[standard form in IPNI: *J.Kirk*\]
 
 #### Herbarium and types
 

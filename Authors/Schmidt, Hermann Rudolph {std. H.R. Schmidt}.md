@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33333391) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33333391) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9161-1), [Wikidata](https://www.wikidata.org/wiki/Q21608154). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidt, Hermann Rudolph (1814-1867), German (Prussian) high school teacher, botanist and entomologist at the St. Johannisschule in Danzig. 
-**Abbreviated name**: *H.R. Schmidt*
+**Abbreviated name**: *H.R. Schmidt* \[standard form in IPNI: *H.R.Schmidt*\]
 
 #### Herbarium and types
 

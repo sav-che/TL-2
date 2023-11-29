@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33189718) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33189718) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12242-1), [Wikidata](https://www.wikidata.org/wiki/Q2941057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Picard, Casimir (1806-1841), French botanist and physician; studied medicine at Amiens; practicing physician at Abbeville 1828-1841; "administrateur" of the museum of Abbeville; founder of the Société Linnéenne du Nord de la France, 1838. 
-**Abbreviated name**: *Picard*
+**Abbreviated name**: *Picard* \[standard form in IPNI: *Picard*\]
 
 #### Herbarium and types
 

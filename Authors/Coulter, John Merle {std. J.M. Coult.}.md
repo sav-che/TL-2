@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33120689) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33120689) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17472-1), [Wikidata](https://www.wikidata.org/wiki/Q1701075). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Coulter, John Merle {std. J.M. Coult.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Coulter, John Merle (1851-1928), American botanist. 
-**Abbreviated name**: *J. M. Coulter*
+**Abbreviated name**: *J. M. Coulter* \[standard form in IPNI: *J.M.Coult.*\]
 
 #### Herbarium and types
 

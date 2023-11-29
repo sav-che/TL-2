@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33068409) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33068409) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/20215-1), [Wikidata](https://www.wikidata.org/wiki/Q6167657). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Herbst, William (1833-1907), American physician and mycologist; M. D. Jefferson medical college 1855; practicing physician at Trexlertown, Lehigh Co., Pa., later also lectured at Muhlenberg College, Pa. 
-**Abbreviated name**: *Herbst*
+**Abbreviated name**: *Herbst* \[standard form in IPNI: *Herbst*\]
 
 #### Herbarium and types
 

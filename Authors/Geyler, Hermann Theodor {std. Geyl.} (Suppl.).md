@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33258669) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33258669) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3119-1), [Wikidata](https://www.wikidata.org/wiki/Q3134184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Geyler, Hermann Theodor {std. Geyl.}|first entry]] for this author
 
 ### Author
 
 \* Geyler, Hermann Theodor (1835-1889), German paleobotanist, born 15 Jan 1835 in Schwartzbach (Sachsen-Weimar-Eisenach), in Leipzig 1858-1861, dissertation 1860 Jena, to Zürich 1864, at the Senckenberg Inst., Frankfurt am Main from 1867 where he was curator of the herb. until his death, and in 1876 Dir. of the botanic garden in Frankfurt am Main, died 22 Mar 1889 in Frankfurt am Main. 
-**Abbreviated name**: *Geyl.*
+**Abbreviated name**: *Geyl.* \[standard form in IPNI: *Geyl.*\]
 
 #### Herbarium and types
 

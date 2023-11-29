@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33212516) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33212516) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12946-1), [Wikidata](https://www.wikidata.org/wiki/Q7964493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trevelyan, \[Sir\] Walter Calverley, 6th Baronet (1797-1879), British botanist, geologist and antiquarian; M.A. Univ. Coll. Oxford 1822; landlord, agriculturist and private scientist; travelled frequently in southern Europe. 
-**Abbreviated name**: *Trevelyan*
+**Abbreviated name**: *Trevelyan* \[standard form in IPNI: *Trevelyan*\]
 
 #### Herbarium and types
 

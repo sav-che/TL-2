@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33068602) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33068602) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4208-1), [Wikidata](https://www.wikidata.org/wiki/Q36592052). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Huette, John William (1832/3-?), Canadian botanist. 
-**Abbreviated name**: *Huett*
+**Abbreviated name**: *Huett* \[standard form in IPNI: *Huett*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33265981) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33265981) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/32800-1), [Wikidata](https://www.wikidata.org/wiki/Q21508959). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Conrad, Walter (1888-1943), German born hydrobiologist and phycologist, born 14 Apr at Lynchen, settled in Belgium, educated at the Koninklijke Atheneum of Antwerp until 1907, studied at the Vrije Universiteit Brussels, with J. Massart and Ch. Bommer, teacher at the Atheneum of St. Gilles, in the Netherlands 1914-1918 in industry, from 1918 again in Belgium, ultimately associated with the Royal natural-history museum in Brussels from 1938. 
-**Abbreviated name**: *W. Conrad*
+**Abbreviated name**: *W. Conrad* \[standard form in IPNI: *W.Conrad*\]
 
 #### Herbarium and types
 

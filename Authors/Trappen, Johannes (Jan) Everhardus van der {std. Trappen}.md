@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33212477) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33212477) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10792-1), [Wikidata](https://www.wikidata.org/wiki/Q36600759). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trappen, Johannes \[Jan\] Everhardus van der (*fl*. 1834-1849), Dutch botanist and physician; studied medicine at Utrecht University; Dr. med. Utrecht 1843; practicing physician at Naaldwijk (Westland, Holland). 
-**Abbreviated name**: *Trappen*
+**Abbreviated name**: *Trappen* \[standard form in IPNI: *Trappen*\]
 
 #### Herbarium and types
 

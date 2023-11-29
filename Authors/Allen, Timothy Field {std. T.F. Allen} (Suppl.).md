@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33264800) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33264800) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/152-1), [Wikidata](https://www.wikidata.org/wiki/Q6147077). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Allen, Timothy Field {std. T.F. Allen}|first entry]] for this author
 
 ### Author
 
 \* Allen, Timothy Field (1837-1902), American physician and algologist, studied at Amherst College, grad. 1858, specialized at the medical department of the University of New York 1858-1861, Dr. med. 1861, assistant surgeon in the United States Army 1862-1864, from 1864 active practitioner of homeopathy, longtime dean of the New York Homeopathic Medical College and Hospital; interested in botany from 1864 onward, founder member of the Torrey Botanical Club; specializing in Algae through his connection with D.C. Eaton, terminated his botanical activity in 1901 on account of failing health. 
-**Abbreviated name**: *T.F. Allen*
+**Abbreviated name**: *T.F. Allen* \[standard form in IPNI: *Allen*\]
 
 #### Herbarium and types
 

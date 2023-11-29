@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33355570) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33355570) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6460-1), [Wikidata](https://www.wikidata.org/wiki/Q3500567). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mikan, Joseph Gottfried (1743-1814), Bohemian (Czech) botanist at Praha; founder and director of the botanical garden in Smichow (Praha) 1775-1811; father of J. C. Mikan. 
-**Abbreviated name**: *J. G. Mikan*
+**Abbreviated name**: *J. G. Mikan* \[standard form in IPNI: *J.G.Mikan*\]
 
 #### Herbarium and types
 

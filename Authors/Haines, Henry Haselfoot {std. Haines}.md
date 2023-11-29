@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33068257) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33068257) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3559-1), [Wikidata](https://www.wikidata.org/wiki/Q5894532). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Haines, Henry Haselfoot (1867-1945), British forester in India; Indian Forest Service (1888), Imperial forest botanist (1906); at Imperial Forest College 1907; Conservator of forests (1909-1919). 
-**Abbreviated name**: *Haines*
+**Abbreviated name**: *Haines* \[standard form in IPNI: *Haines*\]
 
 #### Herbarium and types
 

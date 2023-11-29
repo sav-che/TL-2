@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/page/33212751) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/page/33212751) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11134-1), [Wikidata](https://www.wikidata.org/wiki/Q6028684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Verdoorn, Inez Glare (1896-x), South African botanist; herbarium assistant Division of Botany and Plant Pathology 1917; liaison officer for the National Herbarium at Kew 1925-1927; in charge of the National Herbarium from 1927-1951, from 1944-1951 as senior professional officer; in semi-retirement 1951-1968, from 1968 still actively engaged in systematic botany at Pretoria; Dr. phil. h.c. Univ. Natal 1967. 
-**Abbreviated name**: *I. Verd.*
+**Abbreviated name**: *I. Verd.* \[standard form in IPNI: *I.Verd.*\]
 
 #### Herbarium and types
 

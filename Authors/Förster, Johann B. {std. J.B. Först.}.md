@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33259793) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33259793) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/20043491-1), [Wikidata](https://www.wikidata.org/wiki/Q88830143). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Förster, Johann B. (1843/4-1907), Austrian bryologist, "Chemiker", resided in Rabenstein (Niederösterreich), died 5 Jun 1907 in Rabenstein. 
-**Abbreviated name**: *J.B. Först.*
+**Abbreviated name**: *J.B. Först.* \[standard form in IPNI: *J.B.Först.*\]
 
 #### Herbarium and types
 

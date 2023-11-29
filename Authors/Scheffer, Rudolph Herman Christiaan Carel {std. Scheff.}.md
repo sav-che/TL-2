@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33333262) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33333262) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9034-1), [Wikidata](https://www.wikidata.org/wiki/Q2120467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scheffer, Rudolph Herman Christiaan Carel (1844-1880), Dutch botanist; student of F.A.W. Miquel; Dr. phil. Utrecht 1867; director of the Botanic Gardens Buitenzorg (Bogor) 1868-1880; founder of the Economic Garden and the Agricultural School at Buitenzorg; id. of the mountain garden at Tjibodas. 
-**Abbreviated name**: *Scheff.*
+**Abbreviated name**: *Scheff.* \[standard form in IPNI: *Scheff.*\]
 
 #### Herbarium and types
 

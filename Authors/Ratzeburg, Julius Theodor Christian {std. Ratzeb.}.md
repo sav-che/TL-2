@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33190057) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33190057) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8161-1), [Wikidata](https://www.wikidata.org/wiki/Q64655). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ratzeburg, Julius Theodor Christian (1801-1871), German forester, forestry-botanist and zoologist; Dr. med. Berlin 1825; habil. Berlin 1828; professor of natural sciences at the forestry college of Neustadt 1840-1868; in retirement in Berlin 1868-1871; founder of forest entomology. 
-**Abbreviated name**: *Ratzeb.*
+**Abbreviated name**: *Ratzeb.* \[standard form in IPNI: *Ratzeb.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/page/33069087) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 845](https://www.biodiversitylibrary.org/page/33069087) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5480-1), [Wikidata](https://www.wikidata.org/wiki/Q5370979). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leonard, Emery Clarence (1892-1968), American botanist, at the Smithsonian Institution from 1918; specialist on Acanthaceae. 
-**Abbreviated name**: *E. Leonard*
+**Abbreviated name**: *E. Leonard* \[standard form in IPNI: *Leonard*\]
 
 #### Herbarium and types
 

@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33069108) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33069108) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5530-1), [Wikidata](https://www.wikidata.org/wiki/Q4256884). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Levier, Emile \[Emilio\] (1839-1911), Swiss-born physician, botanist and plant collector in Firenze; specialist on Ricciaceae. 
-**Abbreviated name**: *Levier*
+**Abbreviated name**: *Levier* \[standard form in IPNI: *Levier*\]
 
 #### Herbarium and types
 

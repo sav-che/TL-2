@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33190408) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33190408) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/13084-1), [Wikidata](https://www.wikidata.org/wiki/Q4783330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roupell, Arabella Elizabeth (née Pigott), (1817-1914), British (English) botanical artist; married Thomas Boone Roupell of the East India Company; travelled at the Cape (S. Africa) 1843-1845; back in England 1858. 
-**Abbreviated name**: *Roupell*
+**Abbreviated name**: *Roupell* \[standard form in IPNI: *Roupell*\]
 
 #### Herbarium and types
 

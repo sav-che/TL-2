@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265986) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265986) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1772-1), [Wikidata](https://www.wikidata.org/wiki/Q2959668). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Contejean, Charles Louis {std. Contejean}|first entry]] for this author
 
 ### Author
 
 \* Contejean, Charles \[-Louis\] (1824-1907), French (Doubs) botanist and geologist, born in Montbéliard, in Russia 1842-1846, returned to Montbéliard, book-keeper at the sous-préfecture of his town in addition to his interest in geology and botany, set up the Natural History Museum, gave courses in chemistry and botany, "licencié ès sciences naturelles" 1856, Dr. Sci. Besançon 1859, sometime "préparateur" of geology in the museum 1861-1862, with the Faculty of Sciences at Clermont-Ferrand 1864, id. at Poitiers 1865, stayed at Paris until 1890, lived in Paris 1900-1907. 
-**Abbreviated name**: *Contejean*
+**Abbreviated name**: *Contejean* \[standard form in IPNI: *Contejean*\]
 
 #### Herbarium and types
 

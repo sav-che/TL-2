@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33066689) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33066689) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/35138-1), [Wikidata](https://www.wikidata.org/wiki/Q21510506). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilson, Albert (1862-1949), British pharmaceutical chemist and botanist (bryologist, lichenologist) at Bradford, Yorkshire. 
-**Abbreviated name**: *A. Wils.*
+**Abbreviated name**: *A. Wils.* \[standard form in IPNI: *A.Wilson*\]
 
 #### Herbarium and types
 

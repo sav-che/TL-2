@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33212301) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33212301) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12929-1), [Wikidata](https://www.wikidata.org/wiki/Q1635774). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thiel, \[C.E.\] Hugo (1839-1918), German (Rheinland/Prussian) horticulturist and botanist; studied at the Agricultural College Poppelsdorf and the University of Bonn; Dr. phil. Bonn 1865; lecturer at these institutions 1865-1869; professor of agriculture at the Darmstadt Polytechnic 1869; on active service in the Franco-Prussian war 1870-1872; professor of agriculture at the Technical University of München 1872; general secretary of the "Kgl. Preuss. Landesökonomiekollegium" 1873 and counsel to (later director of) the Prussian ministry of agriculture, forestry and state domains; member of the Prussian Diet and the German parliament 1873-1876; founder, with Althoff, of the "Landhauskolonie Dahlem"; retirement from 1911. 
-**Abbreviated name**: *Thiel*
+**Abbreviated name**: *Thiel* \[standard form in IPNI: *Thiel*\]
 
 #### Herbarium and types
 

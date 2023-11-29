@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33120302) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33120302) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/15946-1), [Wikidata](https://www.wikidata.org/wiki/Q2635041). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bennett, Alfred William {std. A.W. Benn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bennett, Alfred William (1833-1902), British botanist. 
-**Abbreviated name**: *A. W. Benn.*
+**Abbreviated name**: *A. W. Benn.* \[standard form in IPNI: *A.W.Benn.*\]
 
 #### Herbarium and types
 

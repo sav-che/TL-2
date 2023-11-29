@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33259140) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33259140) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2014-1), [Wikidata](https://www.wikidata.org/wiki/Q5497956). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Davey, Frederick Hamilton {std. Davey}|first entry]] for this author
 
 ### Author
 
 \* Davey, Frederick Hamilton (1868-1915), British botanist, born at Ponsanooth, Cornwall 10 Sep 1868, student of Cornish plants, author of the *Flora of Cornwall* (1909), published also in Transactions of the Royal Cornwall Polytechnic Society, Henword Gold medal 1905, examiner in agricultural botany to the Cornwall County Council, died at Perrangwell, Cornwall 23 Sep 1915. 
-**Abbreviated name**: *Davey*
+**Abbreviated name**: *Davey* \[standard form in IPNI: *Davey*\]
 
 #### Herbarium and types
 

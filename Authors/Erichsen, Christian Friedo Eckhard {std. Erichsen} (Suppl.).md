@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33260374) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33260374) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18530-1), [Wikidata](https://www.wikidata.org/wiki/Q16022968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Erichsen, Christian Friedo Eckhard {std. Erichsen}|first entry]] for this author
 
 ### Author
 
 \* Erichsen, Christian Friedo Eckhard (1867-1945), German botanist (lichenologist), born 18 Oct 1867 at Knifzig near Rapstedt (Tondern, Schleswig), moved to Flensburg where he visited schools, later lived at Hamburg and became teacher until 1931, was in 1891 one of the founders of the Botanischer Verein at Hamburg, died 25 Jul 1945 at Hamburg. 
-**Abbreviated name**: *Erichsen*
+**Abbreviated name**: *Erichsen* \[standard form in IPNI: *Erichsen*\]
 
 #### Herbarium and types
 

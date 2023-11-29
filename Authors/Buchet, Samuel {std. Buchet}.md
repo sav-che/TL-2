@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33266501) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33266501) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1246-1), [Wikidata](https://www.wikidata.org/wiki/Q6118124). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buchet, Samuel (1875-1956), French student of myxomycetes and aroids, born in Roanne, Loire, studied medicine and botany at the University of Paris (Sorbonne), collected beetles and cryptogams, sometime teacher of botany at the Sorbonne, sometime president of the Société botanique de France. 
-**Abbreviated name**: *Buchet*
+**Abbreviated name**: *Buchet* \[standard form in IPNI: *Buchet*\]
 
 #### Herbarium and types
 

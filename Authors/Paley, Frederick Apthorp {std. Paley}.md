@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33189503) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33189503) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7267-1), [Wikidata](https://www.wikidata.org/wiki/Q5497260). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Paley, Frederick Apthorp (1815-1888), British Greek scholar and botanist; BA Cantab. 1838; LL.D. Aberdeen 1883. 
-**Abbreviated name**: *Paley*
+**Abbreviated name**: *Paley* \[standard form in IPNI: *Paley*\]
 
 #### Herbarium and types
 

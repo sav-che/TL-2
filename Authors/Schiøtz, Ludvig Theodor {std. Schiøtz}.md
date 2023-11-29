@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33333321) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33333321) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9101-1), [Wikidata](https://www.wikidata.org/wiki/Q12339165). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schiøtz, Ludvig Theodor (1821-1900), Danish pharmacist and amateur botanist; cand. pharm. 1844; high school teacher at Rödding 1851-1859; brewer at Odense 1859-1900. 
-**Abbreviated name**: *Schiötz*
+**Abbreviated name**: *Schiötz* \[standard form in IPNI: *Schiøtz*\]
 
 #### Herbarium and types
 

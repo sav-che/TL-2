@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33190215) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33190215) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12769-1), [Wikidata](https://www.wikidata.org/wiki/Q21607136). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Réveil, \[Pierre\] Oscar (1821-1865), French botanist and physician at Paris; head pharmacist of the Paris hospitals; professor at the "Faculté de médecine" and at the "École supérieure de pharmacie de Paris", specialist in phytochemistry. 
-**Abbreviated name**: *Réveil*
+**Abbreviated name**: *Réveil* \[standard form in IPNI: *Réveil*\]
 
 #### Herbarium and types
 

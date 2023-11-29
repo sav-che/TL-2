@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33068333) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33068333) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3709-1), [Wikidata](https://www.wikidata.org/wiki/Q21515554). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Harz, Kurt (*fl*. 1914), German botanist, high school teacher at Bamberg and München. 
-**Abbreviated name**: *K. Harz*
+**Abbreviated name**: *K. Harz* \[standard form in IPNI: *K.Harz*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33189505) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33189505) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7262-1), [Wikidata](https://www.wikidata.org/wiki/Q11706403). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palacký, Johann Baptist \[Jan\] (1830-1908), Bohemian politician, geographer, botanist and ichthyologist; Dr. phil. Praha 1850; lecturer in geography, later also in botany at Praha 1856-1866; 1878-1885; extraordinary professor 1885-1902; travelled widely mainly in Europe. 
-**Abbreviated name**: *Palacký*
+**Abbreviated name**: *Palacký* \[standard form in IPNI: *Palacký*\]
 
 #### Herbarium and types
 

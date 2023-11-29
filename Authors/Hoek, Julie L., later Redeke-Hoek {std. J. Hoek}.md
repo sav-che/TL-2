@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33068475) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33068475) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4003-1), [Wikidata](https://www.wikidata.org/wiki/Q36591762). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoek, Julie L., later Redeke-Hoek (*fl. 1901*), Dutch botanist at den Helder; married to H. C. Redeke. 
-**Abbreviated name**: *J. Hoek*
+**Abbreviated name**: *J. Hoek* \[standard form in IPNI: *J.L.Hoek*\]
 
 #### Herbarium and types
 

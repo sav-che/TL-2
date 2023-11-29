@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33355607) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33355607) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6510-1), [Wikidata](https://www.wikidata.org/wiki/Q5405844). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Miranda, González, Faustino (1905-1964), Spanish-born Mexican botanist, D. Ci. Madrid 1929; from 1933-1935 at the marine biological laboratory at Pontevedra, Spain; to Mexico 1939; naturalized 1941; director Instituto botánico de Chiapas at Tuxtla Gutiérrez 1949-1954, from 1941-1949 and from 1954 at the Instituto de Biologia, Mexico. 
-**Abbreviated name**: *Miranda*
+**Abbreviated name**: *Miranda* \[standard form in IPNI: *Miranda*\]
 
 #### Herbarium and types
 

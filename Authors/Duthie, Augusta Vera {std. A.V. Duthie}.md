@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33260195) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33260195) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18307-1), [Wikidata](https://www.wikidata.org/wiki/Q13034293). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Duthie, Augusta Vera (1881-1963), South African botanist, born 18 Jul 1881 Belvidere, Knysna, educated at the Huguenot College Wellington 1899-1901, B.A. and later M.A. at Cape Town 1910, D.Sci. University of South Africa in 1929, lecturer in Stellenbosch 1902, head of the departement until 1921, senior lecturer until 1939. 
-**Abbreviated name**: *A.V. Duthie*
+**Abbreviated name**: *A.V. Duthie* \[standard form in IPNI: *A.V.Duthie*\]
 
 #### Herbarium and types
 

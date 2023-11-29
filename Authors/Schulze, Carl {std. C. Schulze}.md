@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33333530) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33333530) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9318-1), [Wikidata](https://www.wikidata.org/wiki/Q21608492). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schulze, Carl (1865-?), German (Holstein) botanist and pharmacist; pharmaceutical state exam. 1891; Dr. phil. Erlangen 1895. 
-**Abbreviated name**: *C. Schulze*
+**Abbreviated name**: *C. Schulze* \[standard form in IPNI: *C.Schulze*\]
 
 #### Herbarium and types
 

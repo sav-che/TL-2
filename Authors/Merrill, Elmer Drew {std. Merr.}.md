@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33355512) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33355512) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6376-1), [Wikidata](https://www.wikidata.org/wiki/Q729926). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Merrill, Elmer Drew (1876-1956), American botanist; in the Philippines 1902-1924; at Berkeley 1924-1930; director of the New York Botanical Garden 1930-1935 succeeding N. L. Britton; at Harvard 1935-1948 (retirement as Arnold Professor); active until 1954; outstanding plant systematist ("get-the-job-done"). 
-**Abbreviated name**: *Merr.*
+**Abbreviated name**: *Merr.* \[standard form in IPNI: *Merr.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1007](https://www.biodiversitylibrary.org/page/33121138) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1007](https://www.biodiversitylibrary.org/page/33121138) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3392-1), [Wikidata](https://www.wikidata.org/wiki/Q15994471). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Grindon, Leopold Hartley (1818-1904), British naturalist. 
-**Abbreviated name**: *Grindon*
+**Abbreviated name**: *Grindon* \[standard form in IPNI: *Grindon*\]
 
 #### Herbarium and types
 

@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33333613) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33333613) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9417-1), [Wikidata](https://www.wikidata.org/wiki/Q64899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seemann, Berthold \[Carl\] (1825-1871), German (Hannover) botanist, publisher and traveller; trained to be a botanical collector at Kew 1844-1846; naturalist to the "Herald" 1847-1851; Dr. phil. h.c. Göttingen 1853; editor of "Bonplandia" 1853-1862; botanised in the Fiji Islands 1860; editor of the Journal of Botany 1863-1869 (1871); travelled in Venezuela 1864; in Nicaragua and Panama 1866-1871; died as director of a gold-mining company in Nicaragua. 
-**Abbreviated name**: *Seem.*
+**Abbreviated name**: *Seem.* \[standard form in IPNI: *Seem.*\]
 
 #### Herbarium and types
 

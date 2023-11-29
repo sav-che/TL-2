@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33355273) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33355273) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5820-1), [Wikidata](https://www.wikidata.org/wiki/Q70807). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Luerssen, Christian (1843-1916), German botanist; Dr. phil. Jena 1866; lecturer at Leipzig 1869-1884; at the forestry school of Eberswalde 1884-1888; professor of botany at Königsberg 1888-1910. 
-**Abbreviated name**: *Luerss.*
+**Abbreviated name**: *Luerss.* \[standard form in IPNI: *Luerss.*\]
 
 #### Herbarium and types
 

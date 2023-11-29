@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33212644) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33212644) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10986-1), [Wikidata](https://www.wikidata.org/wiki/Q47127806). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Unger, Michael (*fl*. 1806), German (Prussian) physician and botanist; Dr. phil. Halle 1806. 
-**Abbreviated name**: *M. Unger*
+**Abbreviated name**: *M. Unger* \[standard form in IPNI: *M.Unger*\]
 
 #### Herbarium and types
 

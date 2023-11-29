@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33068427) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33068427) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3912-1), [Wikidata](https://www.wikidata.org/wiki/Q13724262). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Heukels, Hendrik (1854-1936), Dutch botanist and high school teacher at Almelo, Nijmegen and Amsterdam. 
-**Abbreviated name**: *Heukels*
+**Abbreviated name**: *Heukels* \[standard form in IPNI: *Heukels*\]
 
 #### Herbarium and types
 

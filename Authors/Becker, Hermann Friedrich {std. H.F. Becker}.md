@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33265227) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33265227) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/20031078-1), [Wikidata](https://www.wikidata.org/wiki/Q21516329). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Becker, Hermann Friedrich (fl. 1791), German (Mecklenburg) forester and botanist at Rostock, later at Rövershagen. 
-**Abbreviated name**: *H.F. Becker*
+**Abbreviated name**: *H.F. Becker* \[standard form in IPNI: *H.F.Becker*\]
 
 #### Herbarium and types
 

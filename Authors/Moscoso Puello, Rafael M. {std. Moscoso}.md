@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33355686) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33355686) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6691-1), [Wikidata](https://www.wikidata.org/wiki/Q6097619). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moscoso Puello, Rafael M. (1874-1951), Dominican physician and amateur botanist; teacher at various high schools and teachers' colleges, serving also in administrative functions; first director of the Instituto de Botanica of the Universidad de Santo Domingo 1941; Dr. h.c. 1944. 
-**Abbreviated name**: *Moscoso*
+**Abbreviated name**: *Moscoso* \[standard form in IPNI: *Moscoso*\]
 
 #### Herbarium and types
 

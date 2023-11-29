@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33334011) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33334011) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/27168-1), [Wikidata](https://www.wikidata.org/wiki/Q5727141). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stein, Berthold (1847-1899), German (Silesian) botanist (lichenologist) and gardener; assistant curator of the Berlin botanical garden; curator of the Innsbruck botanical garden 1873; id. of the Breslau botanical garden 1880-1890. 
-**Abbreviated name**: *Stein*
+**Abbreviated name**: *Stein* \[standard form in IPNI: *Stein*\]
 
 #### Herbarium and types
 

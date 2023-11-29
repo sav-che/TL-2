@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33259989) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33259989) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18088-1), [Wikidata](https://www.wikidata.org/wiki/Q21510463). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Doassans, \[Jacques-\]Emíle (1852-1908), French "docteur en médecine" and "préparateur" at the Muséum d'Histoire naturelle and at the Faculté de Médecine at the Paris hospital, born 1852, died 23 Apr 1908, Nay, Basses-Pyrénées. 
-**Abbreviated name**: *Doass.*
+**Abbreviated name**: *Doass.* \[standard form in IPNI: *Doass.*\]
 
 #### Herbarium and types
 

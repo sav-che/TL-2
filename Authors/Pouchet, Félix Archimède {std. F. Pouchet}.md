@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33189836) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33189836) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7899-1), [Wikidata](https://www.wikidata.org/wiki/Q3090541). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pouchet, Félix Archimède (1800-1872), French naturalist and physician; Dr. med. Paris 1827; professor of botany at the Jardin des Plantes, and director of the Muséum d'Histoire naturelle, Rouen from 1821-1872. 
-**Abbreviated name**: *F. Pouchet*
+**Abbreviated name**: *F. Pouchet* \[standard form in IPNI: *Pouchet*\]
 
 #### Herbarium and types
 

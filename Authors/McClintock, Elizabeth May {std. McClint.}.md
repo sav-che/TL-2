@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33355301) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33355301) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5902-1), [Wikidata](https://www.wikidata.org/wiki/Q5363183). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 McClintock, Elizabeth May (1912-x), Californian botanist at the Californian Academy of Sciences, San Francisco. 
-**Abbreviated name**: *McClint.*
+**Abbreviated name**: *McClint.* \[standard form in IPNI: *E.M.McClint.*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33068304) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33068304) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3685-1), [Wikidata](https://www.wikidata.org/wiki/Q2328219). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Harting, Pieter (1812-1885), Dutch biologist, and microscopist; Dr. med. Utrecht 1835; practicing physician at Oudewater 1835-1841, from 1841-1843 at Franeker; from 1843 professor of natural philosophy, later of zoology at Utrecht University. 
-**Abbreviated name**: *Harting*
+**Abbreviated name**: *Harting* \[standard form in IPNI: *Harting*\]
 
 #### Herbarium and types
 

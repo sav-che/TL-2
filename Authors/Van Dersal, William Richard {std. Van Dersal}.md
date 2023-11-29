@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33212703) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33212703) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11054-1), [Wikidata](https://www.wikidata.org/wiki/Q21611404). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Van Dersal, William Richard (1907-x), American botanist and conservationist; B.A. Reed Coll. Portland Ore., 1929; MS Univ. Pittsburgh 1931, ib. Dr. phil. 1936; graduate assistant in botany Pittsburgh 1929-1934; with the U.S. Soil Conservation Service as forester 1938, biologist 1936-1942, principal admin, officer from 1942-1948; chief operations Pacific 1948-1953, administrator for management 1954-1972, consultant 1972-1974; dean Management College, Nat. grad. Univ. from 1974. 
-**Abbreviated name**: *Van Dersal*
+**Abbreviated name**: *Van Dersal* \[standard form in IPNI: *Van Dersal*\]
 
 #### Herbarium and types
 

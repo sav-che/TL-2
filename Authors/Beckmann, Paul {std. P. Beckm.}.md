@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33265234) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33265234) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/15867-1), [Wikidata](https://www.wikidata.org/wiki/Q21505863). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Beckmann, Paul (1881-?), German (Dessau) botanist, studied at the University of Berlin, Dr. phil. ib. 1906; lived in Dessau. 
-**Abbreviated name**: *P. Beckm.*
+**Abbreviated name**: *P. Beckm.* \[standard form in IPNI: *P.Beckm.*\]
 
 #### Herbarium and types
 

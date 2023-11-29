@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-02-15 00:41:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33333576) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33333576) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9368-1), [Wikidata](https://www.wikidata.org/wiki/Q1822110). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schweinitz, Lewis David von (1780-1835), American botanist; educated in the Moravian community at Nazareth, Pennsylvania, 1787-1798; with his family to Germany 1798; at the theological college of Niesky (Upper Lusatia) 1798-1801; teacher at the Niesky College 1801-1807; Moravian preacher at Gnadenburg (Silesia), 1807-1808, id. at Gnadau (Saxony) 1808-1812; Dr. phil. Kiel 1817; administrator of the church estates of the Moravian brethern in North Carolina; resident in Salem, North Carolina 1812-1821; "proprietor of the church estates in the North" at Bethlehem, Pennsylvania 1821-1835; "patron saint" of North American mycology. 
-**Abbreviated name**: *Schwein.*
+**Abbreviated name**: *Schwein.* \[standard form in IPNI: *Schwein.*\]
 
 #### Herbarium and types
 

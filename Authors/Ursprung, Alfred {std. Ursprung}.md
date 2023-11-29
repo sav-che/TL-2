@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33212663) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33212663) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11000-1), [Wikidata](https://www.wikidata.org/wiki/Q18616128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ursprung, Alfred (1876-1952), Swiss botanist; Dr. phil. Basel 1900; in Berlin with Schwendener 1900-1902; assistant at the University of Fribourg (Switzerland) 1902-1903, extraordinary professor of botany ib. 1903, regular professor 1907. 
-**Abbreviated name**: *Ursprung*
+**Abbreviated name**: *Ursprung* \[standard form in IPNI: *Ursprung*\]
 
 #### Herbarium and types
 

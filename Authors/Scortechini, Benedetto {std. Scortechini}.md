@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33333595) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33333595) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9386-1), [Wikidata](https://www.wikidata.org/wiki/Q5725585). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scortechini, Benedetto (1845-1886), Italian clergyman and botanist; in Queensland, Australia 1871-1884 as parish priest in Brisbane, Stanthorpe, Gympie and Roma; later resident in the Logan District; from 1884-1886 Government botanist of Perak, conducting a botanical survey of the Straits Settlements, Malay Peninsula. 
-**Abbreviated name**: *Scortechini*
+**Abbreviated name**: *Scortechini* \[standard form in IPNI: *Scort.*\]
 
 #### Herbarium and types
 

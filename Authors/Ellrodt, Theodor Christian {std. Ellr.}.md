@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33260303) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33260303) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18470-1), [Wikidata](https://www.wikidata.org/wiki/Q21511965). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ellrodt, Theodor Christian (1767-1804), German priest, born 28 Mar 1767 at Bayreuth, for some time librarian of the royal library in that town, from 1800 priest at St. Johannis near Bayreuth, from 1803 back to Bayreuth as sub-deacon and again as librarian, much interested in mycology, died 2 Aug 1804. 
-**Abbreviated name**: *Ellr.*
+**Abbreviated name**: *Ellr.* \[standard form in IPNI: *Ellr.*\]
 
 #### Herbarium and types
 

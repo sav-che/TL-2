@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33190284) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33190284) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8454-1), [Wikidata](https://www.wikidata.org/wiki/Q817600). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Robinson, Benjamin Lincoln (1864-1935), American botanist; Dr. phil. Strassburg 1889 with H. Solms Laubach; from 1890-1892 assistant to Sereno Watson at the Gray Herbarium, Cambridge, Mass.; curator from 1892-1935; Asa Gray professor of systematic botany 1899-1935. 
-**Abbreviated name**: *B.L. Robinson*
+**Abbreviated name**: *B.L. Robinson* \[standard form in IPNI: *B.L.Rob.*\]
 
 #### Herbarium and types
 

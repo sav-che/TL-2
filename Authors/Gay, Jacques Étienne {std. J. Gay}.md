@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 926](https://www.biodiversitylibrary.org/page/33121057) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 926](https://www.biodiversitylibrary.org/page/33121057) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3059-1), [Wikidata](https://www.wikidata.org/wiki/Q2336833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gay, Jacques Étienne {std. J. Gay} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gay, Jacques Étienne (1786-1864), French botanist of Swiss birth (Nyon), secretary of the Chambre des Pairs (senate) at Paris until 1848. 
-**Abbreviated name**: *J. Gay*
+**Abbreviated name**: *J. Gay* \[standard form in IPNI: *J.Gay*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 344](https://www.biodiversitylibrary.org/page/33189815) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 344](https://www.biodiversitylibrary.org/page/33189815) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12744-1), [Wikidata](https://www.wikidata.org/wiki/Q16687269). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Portenschlag-Ledermayer, Franz \[Edler\] von (1772-1822), Austrian botanist; studied law, abandoned his career as a lawyer to practice botany; botanical explorer of the Austrian empire. 
-**Abbreviated name**: *Portenschl.*
+**Abbreviated name**: *Portenschl.* \[standard form in IPNI: *Port.*\]
 
 #### Herbarium and types
 

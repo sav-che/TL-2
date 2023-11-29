@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33355829) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33355829) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24053-1), [Wikidata](https://www.wikidata.org/wiki/Q21522135). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nicholson, William Edward (1866-1945), British lawyer and bryologist at Lewes, Sussex. 
-**Abbreviated name**: *W. E. Nichols.*
+**Abbreviated name**: *W. E. Nichols.* \[standard form in IPNI: *W.E.Nicholson*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265987) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265987) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1773-1), [Wikidata](https://www.wikidata.org/wiki/Q18983906). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Conti, Pascal \[Pasquale\] (1874-1898), Swiss botanist, born at Lugano, studied at Lugano and at the University of Lausanne, from 1895 at the University of Genève, assistant of R.-H. Chodat, died at Genève 2 Aug 1898. 
-**Abbreviated name**: *Conti*
+**Abbreviated name**: *Conti* \[standard form in IPNI: *Conti*\]
 
 #### Herbarium and types
 

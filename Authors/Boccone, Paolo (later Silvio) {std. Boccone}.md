@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33120374) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33120374) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12348-1), [Wikidata](https://www.wikidata.org/wiki/Q1394922). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boccone, Paolo (later Silvio) (1633-1704), Italian botanist of the grand-duke of Tuscany, professor of Botany at Padua, who collected in Italy, Sicily, Corsica (1677), Malta and travelled in western Europe. 
-**Abbreviated name**: *Boccone*
+**Abbreviated name**: *Boccone* \[standard form in IPNI: *Boccone*\]
 
 #### Herbarium and types
 

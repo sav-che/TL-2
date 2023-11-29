@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33189825) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33189825) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7882-1), [Wikidata](https://www.wikidata.org/wiki/Q4170769). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Postels, Alexander Philipou (1801-1871), Esthonian-born geologist who collected plants on the voyage of the corvette *Seniavin* around the world. 
-**Abbreviated name**: *Postels*
+**Abbreviated name**: *Postels* \[standard form in IPNI: *Postels*\]
 
 #### Herbarium and types
 

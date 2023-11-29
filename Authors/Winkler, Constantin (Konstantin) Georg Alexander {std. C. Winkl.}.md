@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33066708) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33066708) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11755-1), [Wikidata](https://www.wikidata.org/wiki/Q1127852). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winkler, Constantin \[Konstantin\] Georg Alexander (1848-1900), Russian botanist of Baltic German origin; studied botany at Dorpat 1871-1874; assistant botanical garden Dorpat 1874-1879; curator of the herbarium of the St. Petersburg botanical garden 1879-1897; head botanist ib. 1897-1899; from 1899-1900 in Wesenberg. 
-**Abbreviated name**: *C. Winkl.*
+**Abbreviated name**: *C. Winkl.* \[standard form in IPNI: *C.Winkl.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33266740) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33266740) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/32647-1), [Wikidata](https://www.wikidata.org/wiki/Q21507051). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Carter, Nellie (1895-x), British botanist (algologist), studied at the University of Birmingham, B.Sc. 1915, M. Sc. 1915, Dr. Sci. 1919, FLS 1926. 
-**Abbreviated name**: *N. Carter*
+**Abbreviated name**: *N. Carter* \[standard form in IPNI: *N.Carter*\]
 
 #### Herbarium and types
 

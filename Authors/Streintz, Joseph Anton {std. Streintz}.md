@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33212049) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33212049) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10212-1), [Wikidata](https://www.wikidata.org/wiki/Q36599752). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Streintz, Joseph Anton (*fl*. 1843), Austrian physician; Dr. med. Wien 1843. 
-**Abbreviated name**: *Streintz*
+**Abbreviated name**: *Streintz* \[standard form in IPNI: *Streintz*\]
 
 #### Herbarium and types
 

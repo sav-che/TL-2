@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-04-04 00:31:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33355864) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33355864) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7045-1), [Wikidata](https://www.wikidata.org/wiki/Q6100404). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Noter, Raphaël de (1857-1936), Algeria-born French horticulturist. 
-**Abbreviated name**: *Noter*
+**Abbreviated name**: *Noter* \[standard form in IPNI: *Noter*\]
 
 #### Herbarium and types
 

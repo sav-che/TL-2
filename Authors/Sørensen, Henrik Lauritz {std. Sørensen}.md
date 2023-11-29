@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33333857) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33333857) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9860-1), [Wikidata](https://www.wikidata.org/wiki/Q11682437). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sørensen, Henrik Lauritz (1842-1903), Norwegian botanist and high school teacher; at Kristiania high school 1867-1871, from 1868-1874 also at Gjertsens school ib.; from 1871 in various functions at Kristiania Kathedralskole. 
-**Abbreviated name**: *Sørensen*
+**Abbreviated name**: *Sørensen* \[standard form in IPNI: *Sørensen*\]
 
 #### Herbarium and types
 

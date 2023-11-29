@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-02-05 07:23:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33258471) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33258471) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2917-1), [Wikidata](https://www.wikidata.org/wiki/Q15410). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fries, Theodor (Thore) Magnus {std. Th. Fr.}|first entry]] for this author
 
 ### Author
 
 \* Fries, Theodor \[Thore, Thorel\] Magnus (1832-1913), Swedish botanist, born 28 Oct 1832 in Femsjö (Småland), studied at Uppsala from 1851, Dr. Phil. and docent for botany 1857, asst. for botany and agricultural economics 1862, "Borgströmiansk" Prof. in botany 1862, dir. of Botanical Garden 1877-1899, rector of Uppsala Univ. 1893-1899, retired 1899, specialist on the history, life, publications and letters of Linnaeus, died 29 Mar 1913 in Uppsala. 
-**Abbreviated name**: *Th. Fr.*
+**Abbreviated name**: *Th. Fr.* \[standard form in IPNI: *Th.Fr.*\]
 
 #### Note
 

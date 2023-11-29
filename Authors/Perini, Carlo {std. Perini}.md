@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33189635) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33189635) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7517-1), [Wikidata](https://www.wikidata.org/wiki/Q2939234). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Perini, Carlo (1817-1883), Italian physician and botanist; Dr. med. Padua; practicing at Triest. 
-**Abbreviated name**: *Perini*
+**Abbreviated name**: *Perini* \[standard form in IPNI: *Perini*\]
 
 #### Herbarium and types
 

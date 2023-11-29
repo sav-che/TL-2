@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/page/33190280) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/page/33190280) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8438-1), [Wikidata](https://www.wikidata.org/wiki/Q55071968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roberg, Lars \[Laurentius\] (1664-1742), Swedish botanist and physician; Dr. med. Leiden 1689; professor of medicine Uppsala 1697-1740 (predecessor of Linnaeus), director of the Uppsala botanical garden 1740-1742. 
-**Abbreviated name**: *Roberg*
+**Abbreviated name**: *Roberg* \[standard form in IPNI: *Roberg*\]
 
 #### Herbarium and types
 

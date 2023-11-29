@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33190345) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33190345) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8558-1), [Wikidata](https://www.wikidata.org/wiki/Q631036). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Romagnesi, Henri Charles Louis (1912-x), French mycologist, associated with the Laboratoire de Cryptogamie du Muséum d'Histoire naturelle, Paris. 
-**Abbreviated name**: *Romagnesi*
+**Abbreviated name**: *Romagnesi* \[standard form in IPNI: *Romagn.*\]
 
 #### Herbarium and types
 

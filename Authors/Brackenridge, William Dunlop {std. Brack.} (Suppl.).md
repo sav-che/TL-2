@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33266309) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33266309) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1054-1), [Wikidata](https://www.wikidata.org/wiki/Q3568580). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brackenridge, William Dunlop {std. Brack.}|first entry]] for this author
 
 ### Author
 
 \* Brackenridge, William Dunlop (1810-1893), Scottish born horticulturist and botanist, settled in America ca. 1837, joined the Wilkes U.S. Exploring Expedition 1838-1842, charged with the living plants collected by the expedition, 1842-1854 at Washington D.C. (until 1852 horticulturist at the U.S. Bot. Garden), settled in Baltimore 1855 as floriculturist and garden architect. 
-**Abbreviated name**: *Brack.*
+**Abbreviated name**: *Brack.* \[standard form in IPNI: *Brack.*\]
 
 #### Herbarium and types
 

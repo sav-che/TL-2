@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/page/33069006) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/page/33069006) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5308-1), [Wikidata](https://www.wikidata.org/wiki/Q3287779). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Latourrette, Marc Antione Louis Claret de \[Fleurieude\] (1729-1793), French naturalist; judge at the Lyon fiscal court until 1771; permanent secretary of the Lyon Academy 1767-1793; founder of various botanic gardens in the Lyon area; active floristic botanist and popularizer of science. 
-**Abbreviated name**: *Latourr.*
+**Abbreviated name**: *Latourr.* \[standard form in IPNI: *Latourr.*\]
 
 #### Herbarium and types
 

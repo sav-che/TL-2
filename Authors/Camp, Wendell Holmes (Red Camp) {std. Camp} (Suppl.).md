@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33266632) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33266632) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1374-1), [Wikidata](https://www.wikidata.org/wiki/Q21506896). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Camp, Wendel Holmes {std. Camp}|first entry]] for this author
 
 ### Author
 
 \* Camp, Wendell Holmes \["Red Camp"\] (1904-1963), American botanist, born at Dayton, Ohio, studied at Ohio State University at Columbus, Ohio, with John Henry Schaffner, at the New York Botanical Garden 1936-1949, interested in economic botany and botanical nomenclature, collected in Ohio as a student, Virginia, Kentucky, Tennessee (S. Appalachians) 1936, Mexico 1936-1937, Central America 1943, on a United States mission searching for native Cinchona in Ecuador 1943-1945, left the New York Botanical Garden in 1949 travelling in North America for the industry as well as for Acad. nat. Sci. Philadelphia, at the same time curator of experimental botany, head of the department of botany at the University of Connecticut 1952-1963. 
-**Abbreviated name**: *Camp*
+**Abbreviated name**: *Camp* \[standard form in IPNI: *Camp*\]
 
 #### Herbarium and types
 

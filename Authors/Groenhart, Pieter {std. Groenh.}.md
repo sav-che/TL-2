@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33121142) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33121142) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3402-1), [Wikidata](https://www.wikidata.org/wiki/Q19560623). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Groenhart, Pieter {std. Groenh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Groenhart, Pieter (1894-1932), Dutch lichenologist. 
-**Abbreviated name**: *Groenh.*
+**Abbreviated name**: *Groenh.* \[standard form in IPNI: *Groenh.*\]
 
 #### Herbarium and types
 

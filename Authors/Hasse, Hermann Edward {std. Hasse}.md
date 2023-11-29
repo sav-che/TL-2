@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33068334) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33068334) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3715-1), [Wikidata](https://www.wikidata.org/wiki/Q18349258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hasse, Hermann Edward (1836-1915), German-born physician and botanist who studied at St. Louis and settled again in the United States in 1861; Dr. med. Würzburg 1861; serving as a surgeon during the Civil War; practicing medicine in Wisconsin, Arkansas and, ultimately (from 1879) in California, surgeon to the Soldier's Home near Santa Monica 1889-1905. 
-**Abbreviated name**: *Hasse*
+**Abbreviated name**: *Hasse* \[standard form in IPNI: *Hasse*\]
 
 #### Herbarium and types
 

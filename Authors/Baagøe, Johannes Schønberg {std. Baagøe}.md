@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2005-08-02 08:33:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33264948) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33264948) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/356-1), [Wikidata](https://www.wikidata.org/wiki/Q18982718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Baagøe, Johannes Schønberg (1838-1905), Danish pharmacist and botanist, student in the Kristianshavns pharmacy 1855-1859, id. at Rønne 1859-1862, cand. pharm. 1862, with the Silkeborg pharmacy 1865-1876, id. Naestved 1870-1890, from 1890 active as a mineral water distributor also in Naestved, specialist on Potamogeton. 
-**Abbreviated name**: *Baagøe*
+**Abbreviated name**: *Baagøe* \[standard form in IPNI: *Baagøe*\]
 
 #### Herbarium and types
 

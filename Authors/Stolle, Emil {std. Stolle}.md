@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33212076) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33212076) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27250-1), [Wikidata](https://www.wikidata.org/wiki/Q21609883). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stolle, Emil (1868-1940), German (Oberlausitz) botanist (bryologist and lichenologist); gardener in various places; from 1919 merchant (vegetables) (from 1921-ca. 1934 as street vendor) in Dresden. 
-**Abbreviated name**: *Stolle*
+**Abbreviated name**: *Stolle* \[standard form in IPNI: *Stolle*\]
 
 #### Herbarium and types
 

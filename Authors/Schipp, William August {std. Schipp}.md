@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33333321) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33333321) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9103-1), [Wikidata](https://www.wikidata.org/wiki/Q21607992). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schipp, William August (1891-1967), Australian-born explorer and plant collector; collected in N. Australia, New Guinea and Java; via San Francisco to British Honduras 1929; collected in British Honduras 1929-1935; returned to Australia because of failing health, living ultimately in New South Wales. 
-**Abbreviated name**: *Schipp*
+**Abbreviated name**: *Schipp* \[standard form in IPNI: *Schipp*\]
 
 #### Herbarium and types
 

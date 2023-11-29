@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33120642) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33120642) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1696-1), [Wikidata](https://www.wikidata.org/wiki/Q556591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clifford, George (1685-1760), Dutch banker, governor of the Dutch East Indian Company, trustee of the *Hortus medicus* in Amsterdam and owner of the estate De Hartecamp south of Haarlem (near Bennebroek). 
-**Abbreviated name**: *Clifford*
+**Abbreviated name**: *Clifford* \[standard form in IPNI: *G.Clifford*\]
 
 #### Herbarium and types
 

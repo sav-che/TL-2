@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-05-30 02:25:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33333858) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33333858) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/13105-1), [Wikidata](https://www.wikidata.org/wiki/Q7796792). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sørengen, Thorvald Julius (1902-1973), Danish botanist; Mag. Sci. Copenhagen 1929; Dr. phil. 1941; scientific assistant at the Botanical Museum ib. 1935-1943; id. at the Agricultural College 1943, lecturer 1948, professor of botany 1953; professor of botany at Copenhagen University, and director of the Botanical Garden and Museum 1955-1972. 
-**Abbreviated name**: *T. Sørensen*
+**Abbreviated name**: *T. Sørensen* \[standard form in IPNI: *T.J.Sørensen*\]
 
 #### Herbarium and types
 

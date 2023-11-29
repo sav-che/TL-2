@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33259108) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33259108) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/1993-1), [Wikidata](https://www.wikidata.org/wiki/Q531618). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dansereau, Pierre Mackay (1911-x), French botanist and ecologist, born at Montreal, Quebec 5 Oct 1911, A.B. 1931, B.Sc.Agr. 1936, studied in France, Switzerland, England, Germany and Italy 1936-1939, D.Sc. University of Genève 1939, at the Botanical Institute Montreal (Univ.) 1939, lector 1940, some time at Ann Arbor, Univ. Michigan, 1950-1955, director of Service de Biogéographie at Montreal 1955-1961, dean at Faculty of Science of University of Montreal, assistant director at New York 1961-1968, from 1968 in Montreal with the Institut d'Urbanisme (Univ. Montr.), retired in 1980. 
-**Abbreviated name**: *Dans.*
+**Abbreviated name**: *Dans.* \[standard form in IPNI: *Dans.*\]
 
 #### Herbarium and types
 

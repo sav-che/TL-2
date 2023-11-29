@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33212629) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33212629) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10980-1), [Wikidata](https://www.wikidata.org/wiki/Q19002815). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Underwood, John (x-1834), British gardener; superintendent of the Botanic Garden, Glasnevin, Dublin 1798-1833. 
-**Abbreviated name**: *J. Underw.*
+**Abbreviated name**: *J. Underw.* \[standard form in IPNI: *J.Underw.*\]
 
 #### Herbarium and types
 

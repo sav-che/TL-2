@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33120530) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33120530) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1265-1), [Wikidata](https://www.wikidata.org/wiki/Q126423). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buek, Johannes Nicolaus \[II\] (1779-1856), German pharmacist and horticulturist, uncle of Heinrich Wilhelm Buek (q.v.), "kommissarisch Medizinalassessor and Revisor der Apotheken des Frankfurter Regierungsbezirks". 
-**Abbreviated name**: *==Name in the standard form is not specified==.*
+**Abbreviated name**: *==Name in the standard form is not specified==.* \[standard form in IPNI: *J.N.Buek bis*\]
 
 #### Herbarium and types
 

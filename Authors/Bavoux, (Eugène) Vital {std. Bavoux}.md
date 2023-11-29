@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33265120) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33265120) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/37975-1), [Wikidata](https://www.wikidata.org/wiki/Q21505810). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bavoux, \[Eugène\] Vital (1821-1909), French botanist at Besançon. 
-**Abbreviated name**: *Bavoux*
+**Abbreviated name**: *Bavoux* \[standard form in IPNI: *Bavoux*\]
 
 #### Herbarium and types
 

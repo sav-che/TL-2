@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-04-05 14:13:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/page/33120986) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 855](https://www.biodiversitylibrary.org/page/33120986) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12502-1), [Wikidata](https://www.wikidata.org/wiki/Q27684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Forsskål (Forsskåhl, Forskål), Pehr (Per, Peter, ...) {std. Forssk.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Forsskål, Pehr (Peter) (1732-1763), Finnish born (Swedish parents) botanical traveller, pupil of Linnaeus, on the Danish expedition to Egypt and Arabia 1761-1763. 
-**Abbreviated name**: *Forssk.*
+**Abbreviated name**: *Forssk.* \[standard form in IPNI: *Forssk.*\]
 
 #### Herbarium and types
 

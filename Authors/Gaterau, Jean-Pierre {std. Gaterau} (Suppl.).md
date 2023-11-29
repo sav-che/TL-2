@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33258612) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33258612) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3040-1), [Wikidata](https://www.wikidata.org/wiki/Q5797016). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gaterau {std. Gaterau}|first entry]] for this author
 
 ### Author
 
 \* Gaterau, Jean-Pierre (1763-1794), French botanist, born 6 Sep 1763 in Montauban (now Dépt. Tarn-et-Garonne), Dr. en médecine 1786 Montpellier, worked at the hospital in Montauban, also a student of Antoine Gouan, died 2 Vend. an III \[i.e. 28 Sep 1794\]. 
-**Abbreviated name**: *Gaterau*
+**Abbreviated name**: *Gaterau* \[standard form in IPNI: *Gaterau*\]
 
 #### Herbarium and types
 

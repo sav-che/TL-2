@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33190338) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33190338) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8543-1), [Wikidata](https://www.wikidata.org/wiki/Q21607347). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roivainen, Heikki (1900-x), Finnish botanist (bryologist); collected in Tierra del Fuego, Patagonia and Chile 1928-1929; Dr. phil. Helsinki 1954; senior curator of cryptogams at Helsinki 1956-1968. 
-**Abbreviated name**: *Roivainen*
+**Abbreviated name**: *Roivainen* \[standard form in IPNI: *Roiv.*\]
 
 #### Herbarium and types
 

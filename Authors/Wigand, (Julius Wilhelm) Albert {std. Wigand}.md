@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33066612) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33066612) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13013-1), [Wikidata](https://www.wikidata.org/wiki/Q68148). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wigand, \[Julius Wilhelm\] Albert (1821-1886), German (Hessen) botanist at Marburg; studied at the University of Marburg 1840-1844; state teachers exam. 1844; studied botany and zoology in München and Berlin 1844-1845 and botany with M. Schleiden in Jena 1845-1846; Dr. phil. and habil. Marburg 1846; e.o. professor of botany 1851; director of the Marburg pharmacognostic institute 1854; ord. prof. of botany and director of the botanical garden 1861 (succeeding Wenderoth); Geheimrat 1885. 
-**Abbreviated name**: *Wigand*
+**Abbreviated name**: *Wigand* \[standard form in IPNI: *Wigand*\]
 
 #### Herbarium and types
 

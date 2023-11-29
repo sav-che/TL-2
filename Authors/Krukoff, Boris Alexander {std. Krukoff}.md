@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33068923) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33068923) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5087-1), [Wikidata](https://www.wikidata.org/wiki/Q5732192). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krukoff, Boris Alexander (1898-x), Russian-born American botanical explorer; honorary curator of economic botany at NY 1941-1950, honorary curator 1971-x. 
-**Abbreviated name**: *Krukoff*
+**Abbreviated name**: *Krukoff* \[standard form in IPNI: *Krukoff*\]
 
 #### Herbarium and types
 

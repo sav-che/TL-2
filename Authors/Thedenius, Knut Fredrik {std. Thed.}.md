@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33212278) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33212278) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27645-1), [Wikidata](https://www.wikidata.org/wiki/Q4453715). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thedenius, Knut Fredrik (1814-1894), Swedish botanist, entomologist, pharmacist and teacher; pharmacist's examination Stockholm 1840; pharmacist ib. 1843-1858, teacher for natural sciences at Stockholm's Gymnasium from 1844 (temporary), 1852 (regular) and as "lektor" 1859-1886; from 1880-1888 lecturer at a state high school in Stockholm. 
-**Abbreviated name**: *Thed.*
+**Abbreviated name**: *Thed.* \[standard form in IPNI: *Thed.*\]
 
 #### Herbarium and types
 

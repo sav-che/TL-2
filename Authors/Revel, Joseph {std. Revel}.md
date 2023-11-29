@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33190216) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33190216) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8315-1), [Wikidata](https://www.wikidata.org/wiki/Q19004116). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Revel, Joseph (1811-1883), French botanist and clergyman; school principal at Villefranche-de-Rouergue (Institution Saint-Joseph). 
-**Abbreviated name**: *Revel*
+**Abbreviated name**: *Revel* \[standard form in IPNI: *Revel*\]
 
 #### Herbarium and types
 

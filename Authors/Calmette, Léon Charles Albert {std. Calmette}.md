@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33120557) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33120557) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1364-1), [Wikidata](https://www.wikidata.org/wiki/Q437983). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Calmette, Léon Charles Albert (1863-1933), French microbiologist. 
-**Abbreviated name**: *Calmette*
+**Abbreviated name**: *Calmette* \[standard form in IPNI: *Calmette*\]
 
 #### Herbarium and types
 

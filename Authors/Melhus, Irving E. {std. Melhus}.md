@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33355496) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33355496) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23235-1), [Wikidata](https://www.wikidata.org/wiki/Q21520345). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Melhus, Irving E. (1881-1969), American phytopathologist and pteridologist; B. Sc. Iowa State 1906, Ph. D. Madison 1912; plant pathologist in the Agricultural Experiment Station and Botany Dept. of Iowa State University 1912-1946; director of the Iowa State University Guatemala Tropical Research Center 1946-1953. 
-**Abbreviated name**: *Melhus*
+**Abbreviated name**: *Melhus* \[standard form in IPNI: *Melhus*\]
 
 #### Herbarium and types
 

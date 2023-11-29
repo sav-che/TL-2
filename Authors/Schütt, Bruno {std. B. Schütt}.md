@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-11-16 13:29:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33333501) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33333501) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9282-1), [Wikidata](https://www.wikidata.org/wiki/Q9667736). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schütt, Bruno (1876-1956), German (Schleswig) botanist; Dr. phil. München 1900; further study in Göttingen; teacher's examination 1906; assistant at the botanical garden Göttingen 1906-1907; from 1908-1942 high school teacher at Bremen (on active service 1914-1918) collected in Yugoslavia and Albania 1927-1939; teacher at the Hermann Lietz-Schule, Bieberstein, Rhon 1939-1945; in retirement at Bieberstein and, from 1950, in Bremen. 
-**Abbreviated name**: *B. Schütt*
+**Abbreviated name**: *B. Schütt* \[standard form in IPNI: *B.Schütt*\]
 
 #### Herbarium and types
 

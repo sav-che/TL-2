@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33259208) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33259208) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2081-1), [Wikidata](https://www.wikidata.org/wiki/Q3170078). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Degland, Jean Vincent Yves (1773-1841), French botanist, born at Rennes 20 Jan 1773, died at Rennes 19 Feb 1841, professor of botany in Rennes. 
-**Abbreviated name**: *Degl.*
+**Abbreviated name**: *Degl.* \[standard form in IPNI: *Degl.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33355570) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33355570) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6464-1), [Wikidata](https://www.wikidata.org/wiki/Q21521482). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mikutowicz, Johann Mattias (1872-1951), Baltic German botanist in Livonia. 
-**Abbreviated name**: *Mikut.*
+**Abbreviated name**: *Mikut.* \[standard form in IPNI: *Mikut.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33212151) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33212151) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10325-1), [Wikidata](https://www.wikidata.org/wiki/Q13423965). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Svenson, Henry Knute \[Knut\] (1897-x), Swedish-born American botanist; Dr. phil. Harvard Univ. 1928; assistant Arnold Arb. 1920; instructor in biology, Union College 1922-1925; asst. prof. biology 1925-1927; asst. Gray herbarium 1928-1929; asst. curator Brooklyn Bot. Gard. 1930-1936, curator herbarium 1936-1946; curator and chairman Dept. Forestry and General Botany, Amer. Mus. nat. hist. 1946-1952; botanist U.S. Geol. Survey 1954-1966. 
-**Abbreviated name**: *Svens.*
+**Abbreviated name**: *Svens.* \[standard form in IPNI: *Svenson*\]
 
 #### Herbarium and types
 

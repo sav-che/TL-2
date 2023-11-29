@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33265065) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33265065) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/500-1), [Wikidata](https://www.wikidata.org/wiki/Q5936967). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Barratt, Joseph (1796-1882), English born American botanist, studied medicine in London 1810, practicing physician at Leicester 1819, emigrated to the United States 1819, settled at Philipstown, N.Y., as a physician, started botanizing, became acquainted with John Torrey in 1822 and became his correspondent and occasional visitor, taught at the Academy of Norwich, Vermont 1824-1825, resumed his practice in Philipstown 1825, professor of botany, chemistry and mineralogy at the Military Academy, Middletown, Connecticut 1826-1828, from then on practicing physician in Middletown, taught botany at Wesleyan University ca. 1835, turned to geology next to botany (Salix, Eupatorium) until ca. 1845. 
-**Abbreviated name**: *Barratt*
+**Abbreviated name**: *Barratt* \[standard form in IPNI: *Barratt*\]
 
 #### Herbarium and types
 

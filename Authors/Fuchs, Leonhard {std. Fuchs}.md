@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/page/33121025) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/page/33121025) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2949-1), [Wikidata](https://www.wikidata.org/wiki/Q60756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fuchs, Leonhard (1501-1566), German physician and botanist, professor of medicine at Tübingen, one of the German "fathers of botany." 
-**Abbreviated name**: *Fuchs*
+**Abbreviated name**: *Fuchs* \[standard form in IPNI: *L.Fuchs*\]
 
 #### Herbarium and types
 

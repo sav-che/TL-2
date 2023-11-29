@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33069110) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33069110) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5534-1), [Wikidata](https://www.wikidata.org/wiki/Q21518793). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lewis, Francis West (1825-1902), American diatomologist at Philadelphia. 
-**Abbreviated name**: *F. W. Lewis*
+**Abbreviated name**: *F. W. Lewis* \[standard form in IPNI: *F.W.Lewis*\]
 
 #### Herbarium and types
 

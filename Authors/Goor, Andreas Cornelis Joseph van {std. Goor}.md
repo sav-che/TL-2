@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 971](https://www.biodiversitylibrary.org/page/33121102) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 971](https://www.biodiversitylibrary.org/page/33121102) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3273-1), [Wikidata](https://www.wikidata.org/wiki/Q21514128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Goor, Andreas Cornelis Joseph van {std. Goor} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Goor, Andreas Cornelis Joseph van (1881-1925), Dutch algologist. 
-**Abbreviated name**: *Goor*
+**Abbreviated name**: *Goor* \[standard form in IPNI: *Goor*\]
 
 #### Herbarium and types
 

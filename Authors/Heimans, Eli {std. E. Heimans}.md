@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33068379) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33068379) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3787-1), [Wikidata](https://www.wikidata.org/wiki/Q2529493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Heimans, Eli (1861-1914), Dutch botanist; from 1882 teacher at Amsterdam; leading popularizer of biology; longtime editor of –De Levende Natuur.– 
-**Abbreviated name**: *E. Heimans*
+**Abbreviated name**: *E. Heimans* \[standard form in IPNI: *E.Heimans*\]
 
 #### Herbarium and types
 

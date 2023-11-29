@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-11-11 08:12:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33120427) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33120427) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12358-1), [Wikidata](https://www.wikidata.org/wiki/Q2375893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bowdich, Sarah (née Wallis; afterwards Lee) {std. Bowdich} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bowdich, Sarah (née Wallis; afterwards Lee) (1791-1856), British botanist. 
-**Abbreviated name**: *Bowdich*
+**Abbreviated name**: *Bowdich* \[standard form in IPNI: *Bowdich*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33355575) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33355575) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/35192-1), [Wikidata](https://www.wikidata.org/wiki/Q21521494). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Militzer, Max (1894-1971), German botanist, trained to be Volksschullchrer; in French captivity in Marocco after the Marne battle; exchange prisoner of war in Switzerland 1916-1917; teacher at Langebrück 1917-1919, Marienberg 1919-1921, Bautzen (Lutherschule) 1921-1945; from 1951-1959 with the nature conservancy at Dresden. 
-**Abbreviated name**: *Militzer*
+**Abbreviated name**: *Militzer* \[standard form in IPNI: *Militzer*\]
 
 #### Herbarium and types
 

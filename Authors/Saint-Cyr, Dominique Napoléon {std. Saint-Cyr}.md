@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1063](https://www.biodiversitylibrary.org/page/33190534) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1063](https://www.biodiversitylibrary.org/page/33190534) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8824-1), [Wikidata](https://www.wikidata.org/wiki/Q3035361). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saint-Cyr, Dominique Napoléon (1826-1899), Canadian (Quebec) botanist and entomologist; teacher at Lennoxville 1846-1850, at Ste-Anne de la Pérade 1850-1876; provincial administrator 1875-1881; from 1881 dedicating himself to the setting up of a public museum; curator of the Musée de l'Instruction publique (Provincial Government Museum) 1886-1899. 
-**Abbreviated name**: *Saint-Cyr*
+**Abbreviated name**: *Saint-Cyr* \[standard form in IPNI: *St.-Cyr*\]
 
 #### Herbarium and types
 

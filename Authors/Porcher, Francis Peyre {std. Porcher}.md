@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33189810) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33189810) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7855-1), [Wikidata](https://www.wikidata.org/wiki/Q18911454). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Porcher, Francis Peyre (1825-1895), American botanist; M.D. Univ. S. Carolina 1847; studied in Paris and Italy 1847-1849; practicing physician in Charleston 1849-1895. 
-**Abbreviated name**: *Porcher*
+**Abbreviated name**: *Porcher* \[standard form in IPNI: *Porcher*\]
 
 #### Herbarium and types
 

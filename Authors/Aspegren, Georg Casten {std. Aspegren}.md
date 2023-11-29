@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33120209) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33120209) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/316-1), [Wikidata](https://www.wikidata.org/wiki/Q5594759). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Aspegren, Georg Casten {std. Aspegren} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Aspegren, Georg Casten (1791-1828), Swedish botanist at Karlskrona. 
-**Abbreviated name**: *Aspegren*
+**Abbreviated name**: *Aspegren* \[standard form in IPNI: *Aspegren*\]
 
 #### Herbarium and types
 

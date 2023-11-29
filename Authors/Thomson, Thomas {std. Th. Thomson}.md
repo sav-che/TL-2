@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33212329) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33212329) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10621-1), [Wikidata](https://www.wikidata.org/wiki/Q2427703). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomson, Thomas (1817-1878), British physician and botanist; MD Glasgow 1839; student of W.J. Hooker; surgeon in the Bengal army 1839; superintendent, Botanic Garden, Calcutta 1854-1861; travelled in the W. Himalayas and Tibet 1847-1851 (with J.D. Hooker 1849). 
-**Abbreviated name**: *Th. Thomson*
+**Abbreviated name**: *Th. Thomson* \[standard form in IPNI: *Thomson*\]
 
 #### Herbarium and types
 

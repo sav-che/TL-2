@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33212577) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33212577) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10901-1), [Wikidata](https://www.wikidata.org/wiki/Q21611030). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tully, William (1785-1859), American botanist and philosopher; studied at Yale and Philadelphia; practicing physician in Enfield, Conn. 1811; Dr. med. Yale 1819; associated with Thomas Minor at Middleton, Conn. 1819-1824; president of the Vermont Medical College, Castleton 1824-1830; in private practice at Albany New York 1826-1829 continuing his lectures at Castleton; professor of materia medica and therapeutics Yale 1829-1841; in retirement at Springfield, Mass. 
-**Abbreviated name**: *Tully*
+**Abbreviated name**: *Tully* \[standard form in IPNI: *Tully*\]
 
 #### Herbarium and types
 

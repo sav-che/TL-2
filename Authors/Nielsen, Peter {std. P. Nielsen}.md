@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33355837) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33355837) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12233-1), [Wikidata](https://www.wikidata.org/wiki/Q4993222). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nielsen, Peter (1829-1897), Danish botanist, school master at Ørslev 1859-1888; in charge of the state experiments in plant culture 1877-1898; government consulting agriculturist from 1885. 
-**Abbreviated name**: *P. Nielsen*
+**Abbreviated name**: *P. Nielsen* \[standard form in IPNI: *Nielsen*\]
 
 #### Herbarium and types
 

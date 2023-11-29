@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33265323) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33265323) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16043-1), [Wikidata](https://www.wikidata.org/wiki/Q5565354). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bertoloni, Giuseppe (1804-1878), Italian botanist and entomologist, son of Antonio Bertoloni, professor of botany and 1869-1878 also director of the botanical garden of the University of Bologna. 
-**Abbreviated name**: *G. Bertol.*
+**Abbreviated name**: *G. Bertol.* \[standard form in IPNI: *G.Bertol.*\]
 
 #### Herbarium and types
 

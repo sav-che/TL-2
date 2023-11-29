@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33212588) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33212588) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10917-1), [Wikidata](https://www.wikidata.org/wiki/Q21611061). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Turner, Edward Phillips (1865-1937), British-born New Zealand botanist; came to New Zealand 1870, later at school in Tasmania and studying in England; again in New Zealand 1884; surveyor 1887; surveying Tasmanian silver fields 1891, with the Government Survey Dept. Auckland, N.Z. 1894-1907; inspector of scenic reserves N.Y. 1907, secretary of the R. Commission on Forestry 1913; in charge of the forest branch of the Lands Dept. 1918; Director of Forestry 1920-1931; in retirement at Hamilton 
-**Abbreviated name**: *E. Turn.*
+**Abbreviated name**: *E. Turn.* \[standard form in IPNI: *E.Turner*\]
 
 #### Herbarium and types
 

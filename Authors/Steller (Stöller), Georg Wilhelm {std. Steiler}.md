@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 881](https://www.biodiversitylibrary.org/page/33334020) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 881](https://www.biodiversitylibrary.org/page/33334020) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10088-1), [Wikidata](https://www.wikidata.org/wiki/Q57222). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steller \[Stöller\], Georg Wilhelm (1709-1746), German (Franconian) explorer, geographer and biologist; studied medicine in Halle 1731-1734; physician in the Russian army 1734, assistant to Johann Amman at the Academy of Sciences, St. Petersburg 1737; on the second Bering Expedition 1738-1742, with V. Bering in Kamchatka 1740, and on the St. Peter to Alaska 1741 ; worked in Petropavlovsk 1742-1744, died on the journey back to St. Petersburg. 
-**Abbreviated name**: *Steiler*
+**Abbreviated name**: *Steiler* \[standard form in IPNI: *Steller*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33259568) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33259568) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2644-1), [Wikidata](https://www.wikidata.org/wiki/Q21512667). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fauconnet, Charles Isaac {std. Fauc.}|first entry]] for this author
 
 ### Author
 
 \* Fauconnet, Charles-Isaac (1811-1876), Swiss physician and botanist, born 24 Apr 1811 in Geneva, studied in Geneva and then studied medicine in Paris 1830-1832, greatly interested in floristics, visited England, The Netherlands, Berlin, Vienna and Heidelberg 1836-1838, practiced medicine in Geneva until 1870, moved to Sadex nr. Nyon (Ct. Vaud), died 20 Jan 1876 in Geneva. 
-**Abbreviated name**: *Fauc.*
+**Abbreviated name**: *Fauc.* \[standard form in IPNI: *Fauc.*\]
 
 #### Herbarium and types
 

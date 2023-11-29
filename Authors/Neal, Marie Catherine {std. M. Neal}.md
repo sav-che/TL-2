@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33355788) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33355788) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6879-1), [Wikidata](https://www.wikidata.org/wiki/Q21522018). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Neal, Marie Catherine (1889-1965), American botanist; B. A. Smith Coll. 1912; M. Sc. Yale 1925; from 1920 at B. P. Bishop Museum, Honolulu; after 1930 in charge of the herbarium. 
-**Abbreviated name**: *M. Neal*
+**Abbreviated name**: *M. Neal* \[standard form in IPNI: *M.Neal*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 926](https://www.biodiversitylibrary.org/page/33121057) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 926](https://www.biodiversitylibrary.org/page/33121057) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3058-1), [Wikidata](https://www.wikidata.org/wiki/Q21513838). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gay, (Henri Félix) François {std. F. Gay} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gay, François (1857-1898), French algologist at Montpellier, pupil of Édouard Bornet. 
-**Abbreviated name**: *F. Gay*
+**Abbreviated name**: *F. Gay* \[standard form in IPNI: *F.Gay*\]
 
 #### Herbarium and types
 

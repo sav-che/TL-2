@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33259873) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33259873) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2867-1), [Wikidata](https://www.wikidata.org/wiki/Q88918). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Francé, Raoul Heinrich (Franzé, Reszö) {std. Francé}|first entry]] for this author
 
 ### Author
 
 \* Francé \[Franzé\], Raoul \[Rudolf, Reszö\] Heinrich (1874-1943), Austro-Hungarian biologist and botanist, born 20 Mai 1874 in Vienna (Bécs), lived from age ten in Budapest, attended business school but was introduced into the natural history society, studied medicine for a short time, but became a pupil of G. Entz, worked for F.J. Cohn in Breslau 1896, as an author on natural sciences moved to Munich, went to Dinkelsbühl after W.W.-I, Dr. h.c. 1928 Lincoln-Jefferson Univ., Hammond, Indiana, died of leukemia 3 Oct 1943 in Budapest. 
-**Abbreviated name**: *Francé*
+**Abbreviated name**: *Francé* \[standard form in IPNI: *Francé*\]
 
 #### Herbarium and types
 

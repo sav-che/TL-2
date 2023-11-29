@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33333901) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33333901) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/35147-1), [Wikidata](https://www.wikidata.org/wiki/Q21391147). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sowerby, James II (1815-1834), British botanical artist, grandson of James Sowerby, son of J. de Carle Sowerby. 
-**Abbreviated name**: *Js. Sowerby II*
+**Abbreviated name**: *Js. Sowerby II* \[standard form in IPNI: *J.Sowerby*\]
 
 #### Herbarium and types
 

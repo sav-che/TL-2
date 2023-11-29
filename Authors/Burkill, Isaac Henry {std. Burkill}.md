@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-07-25 11:33:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33120543) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33120543) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1304-1), [Wikidata](https://www.wikidata.org/wiki/Q4084920). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Burkill, Isaac Henri {std. Burkill} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Burkill, Isaac Henry (1870-1965), British botanist who resided in Malaya for many years. 
-**Abbreviated name**: *Burkill*
+**Abbreviated name**: *Burkill* \[standard form in IPNI: *Burkill*\]
 
 #### Herbarium and types
 

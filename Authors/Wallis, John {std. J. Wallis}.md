@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33066382) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33066382) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11351-1), [Wikidata](https://www.wikidata.org/wiki/Q17022927). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wallis, John (1714-1793), Britsh clergyman, county historian and naturalist; MA Oxford 1740, curate at Simonburn c. 1746-1772, at Billingham 1776-1792. 
-**Abbreviated name**: *J. Wallis*
+**Abbreviated name**: *J. Wallis* \[standard form in IPNI: *J.Wallis*\]
 
 #### Herbarium and types
 

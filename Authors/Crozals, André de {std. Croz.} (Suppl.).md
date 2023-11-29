@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33266160) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33266160) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17552-1), [Wikidata](https://www.wikidata.org/wiki/Q3616488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Crozals, André de {std. Croz.}|first entry]] for this author
 
 ### Author
 
 \* Crozals, André de (1861-1932), French botanist, born at Béziers 2 Jan 1862(?), educated at the Lycée of Toulon, at the naval school, "aspirant 1° classe" 1881, in the navy until 1890, from 1890 in the commerce of wines at Oran, Valence (Esp.) and from 1900 at Béziers, retired from business 1921, settled at Toulon mainly interested in botany, died 16 Oct 1932. 
-**Abbreviated name**: *Croz.*
+**Abbreviated name**: *Croz.* \[standard form in IPNI: *Croz.*\]
 
 #### Herbarium and types
 

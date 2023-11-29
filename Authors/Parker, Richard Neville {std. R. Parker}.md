@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33189532) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33189532) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7344-1), [Wikidata](https://www.wikidata.org/wiki/Q6108678). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parker, Richard Neville (1884-1958), British botanist in the Indian Forest Service 1905-1939, forest botanist Dehra Dun 1922-1932, conservator of forests Punjab, 1932. 
-**Abbreviated name**: *R. Parker*
+**Abbreviated name**: *R. Parker* \[standard form in IPNI: *R.Parker*\]
 
 #### Herbarium and types
 

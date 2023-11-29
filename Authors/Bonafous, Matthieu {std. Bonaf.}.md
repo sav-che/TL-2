@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33265501) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33265501) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/942-1), [Wikidata](https://www.wikidata.org/wiki/Q1107072). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bonafous, Matthieu (1793-1852), French agronomist and botanist, active on various agricultural establishments in France, sometime director of the Agronomic Institute in Torino, ultimately again France, dealt especially with the improvement of varieties of mulberry and maize (Indian corn). 
-**Abbreviated name**: *Bonaf.*
+**Abbreviated name**: *Bonaf.* \[standard form in IPNI: *Bonaf.*\]
 
 #### Herbarium and types
 

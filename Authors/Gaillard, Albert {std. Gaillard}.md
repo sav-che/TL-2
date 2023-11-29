@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 905](https://www.biodiversitylibrary.org/page/33121036) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 905](https://www.biodiversitylibrary.org/page/33121036) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2983-1), [Wikidata](https://www.wikidata.org/wiki/Q16030789). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gaillard, Albert {std. Gaillard} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gaillard, Albert (1858-1903), French mycologist, curator of the Lloyd herbarium. 
-**Abbreviated name**: *Gaillard*
+**Abbreviated name**: *Gaillard* \[standard form in IPNI: *Gaillard*\]
 
 #### Herbarium and types
 

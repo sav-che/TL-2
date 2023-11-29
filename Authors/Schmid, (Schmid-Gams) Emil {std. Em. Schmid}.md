@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33333374) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33333374) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9142-1), [Wikidata](https://www.wikidata.org/wiki/Q1336815). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmid, \[Schmid-Gams\] Emil (1891-x), German (Württemberg) botanist; Dr. phil. Zürich 1923; curator at the Botanical Museum, Univ. Zürich; professor of botany at the University of Zürich 1936-1961. 
-**Abbreviated name**: *Em. Schmid*
+**Abbreviated name**: *Em. Schmid* \[standard form in IPNI: *Em.Schmid*\]
 
 #### Herbarium and types
 

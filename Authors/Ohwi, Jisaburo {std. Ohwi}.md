@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33355901) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33355901) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7112-1), [Wikidata](https://www.wikidata.org/wiki/Q4332375). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ohwi, Jisaburo (1905-1977), Japanese botanist; Ph.D. Kyoto Univ. 1930; lecturer at Kyoto 1936-1943; at Buitenzorg 1943-1945; from 1946 at the Science Museum, Tokyo. 
-**Abbreviated name**: *Ohwi*
+**Abbreviated name**: *Ohwi* \[standard form in IPNI: *Ohwi*\]
 
 #### Herbarium and types
 

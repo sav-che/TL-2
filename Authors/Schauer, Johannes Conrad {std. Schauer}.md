@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33333258) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33333258) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9021-1), [Wikidata](https://www.wikidata.org/wiki/Q69408). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schauer, Johannes Conrad (1813-1848), German (Frankfurt a.M.) botanist; studied at the gymnasium of Mainz 1825-1827; in the "Hofgarten" of Würzburg 1828-1831 with Ant. Heller; assistant at the botanical garden of Bonn, 1831-1832; with C.G. Nees to Breslau in charge of the botanical garden 1832-1848; Dr. phil. Erlangen 1835; habil. Breslau 1841 ; professor of botany at the University of Greifswald and the Agricultural College of neighbouring Eldena 1843-1848. 
-**Abbreviated name**: *Schauer*
+**Abbreviated name**: *Schauer* \[standard form in IPNI: *Schauer*\]
 
 #### Herbarium and types
 

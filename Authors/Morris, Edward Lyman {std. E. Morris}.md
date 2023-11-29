@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33355681) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33355681) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6673-1), [Wikidata](https://www.wikidata.org/wiki/Q5820007). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morris, Edward Lyman (1870-1913), American botanist; M. A.Amherst 1895; instructor in botany at Amherst, Mass. 1893-1895; at Western High School, Washington, D. C. 1895-1896; head of the dept. of biology in the Washington high schools from 1896-1907; curator of natural sciences Brooklyn Institute of Arts 1907-1913; expert on Plantaginaceae. 
-**Abbreviated name**: *E. Morris*
+**Abbreviated name**: *E. Morris* \[standard form in IPNI: *E.Morris*\]
 
 #### Herbarium and types
 

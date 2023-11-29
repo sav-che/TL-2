@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2004-04-29 08:51:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33068952) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33068952) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5175-1), [Wikidata](https://www.wikidata.org/wiki/Q528925). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Labillardière, Jacques Julien Houttou de (1775-1834), French explorer and botanist; studied medicine at Montpellier; travelled in near East 1786; on expedition to find La Pérouse 1791-1795; from 1828 at Rouen. 
-**Abbreviated name**: *Labill.*
+**Abbreviated name**: *Labill.* \[standard form in IPNI: *Labill.*\]
 
 #### Herbarium and types
 

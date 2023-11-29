@@ -28,14 +28,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33355260) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33355260) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22557-1), [Wikidata](https://www.wikidata.org/wiki/Q729917). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Loureiro, João de (1717-1791), Portuguese missionary and naturalist in Moçambique, Goa, and Cochinchina. 
-**Abbreviated name**: *Lour.*
+**Abbreviated name**: *Lour.* \[standard form in IPNI: *Lour.*\]
 
 #### Herbarium and types
 

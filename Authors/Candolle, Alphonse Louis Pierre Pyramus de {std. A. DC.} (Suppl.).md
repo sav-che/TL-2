@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33266663) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33266663) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/2064-1), [Wikidata](https://www.wikidata.org/wiki/Q123807). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Candolle, Alphonse Louis Pierre Pyramus de {std. A. DC.}|first entry]] for this author
 
 ### Author
 
 Candolle, Alphonse Louis Pierre Pyramus de (1806-1893), Swiss botanist, son of A.P. de Candolle and Fanny née Forras, born at Paris, at Montpellier 1808-1816, at Geneva from 1816, Bachelier-ès lettres at the University of Geneva 1825, studied law, 'docteur en droit' 1829, professor at the Académie de Genève 1829-1835, succeeded his father as the director of the Botanical Garden of Genève1835-1850, from 1850 working privately. 
-**Abbreviated name**: *A. DC.*
+**Abbreviated name**: *A. DC.* \[standard form in IPNI: *A.DC.*\]
 
 #### Herbarium and types
 

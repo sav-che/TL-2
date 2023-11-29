@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-10-26 09:16:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33068984) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33068984) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/9397-1), [Wikidata](https://www.wikidata.org/wiki/Q2458459). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lamson-Scribner, Frank (originally Franklin Pierce Lamson) (1851-1938); American agrostologist; at Girard College, Philadelphia (1877-1885); from 1885 at the U.S. Dept. Agriculture; L.L.D. h.c. Univ. Maine 1920. 
-**Abbreviated name**: *Lams.-Scribn.*
+**Abbreviated name**: *Lams.-Scribn.* \[standard form in IPNI: *Scribn.*\]
 
 #### Herbarium and types
 

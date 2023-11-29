@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/page/33355740) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/page/33355740) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6752-1), [Wikidata](https://www.wikidata.org/wiki/Q63880). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Münchhausen, Otto, Freiherr von (1716-1774), German "Landdrost" (sheriff) at Hannover and Schwölbern where he created a large Landschaftspark. 
-**Abbreviated name**: *Münchh.*
+**Abbreviated name**: *Münchh.* \[standard form in IPNI: *Münchh.*\]
 
 #### Herbarium and types
 

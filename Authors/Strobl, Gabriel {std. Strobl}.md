@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33212050) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33212050) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10221-1), [Wikidata](https://www.wikidata.org/wiki/Q872700). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Strobl, Gabriel (1846-1925), Austrian botanist, zoologist and clergyman; educated in the Benedictine monastery at Admont; ordained 1870; studied natural sciences at Innsbruck as a student of A. Kerner 1872-1876; teacher at the Benedictine Gymnasium of Seitenstetten 1876-1880; idem at the Gymnasium of Melk 1880-1886; from 1887 idem at Admont. 
-**Abbreviated name**: *Strobl*
+**Abbreviated name**: *Strobl* \[standard form in IPNI: *Strobl*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 902](https://www.biodiversitylibrary.org/page/33190373) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 902](https://www.biodiversitylibrary.org/page/33190373) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8612-1), [Wikidata](https://www.wikidata.org/wiki/Q7349392). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ross, Robert (1912-x), British (English) botanist (diatomologist, nomenclaturist), educated at St. Paul's School, London and St. John's College, Cambridge, M.S. Cambridge 1934; on the Cambridge Botanical Expedition to West Africa 1935; with the British Museum (Natural History), Botany Dept., from 1936, in charge of Diatomaceae; deputy keeper Bot. Dept. 1962; keeper 1966; now retired; member of the editorial Committee for the International Code of Botanical Nomenclature 1954-1978. 
-**Abbreviated name**: *R. Ross*
+**Abbreviated name**: *R. Ross* \[standard form in IPNI: *R.Ross*\]
 
 #### Herbarium and types
 

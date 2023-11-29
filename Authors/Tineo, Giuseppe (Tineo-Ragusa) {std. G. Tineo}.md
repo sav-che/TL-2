@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33212406) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33212406) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10682-1), [Wikidata](https://www.wikidata.org/wiki/Q3771522). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tineo, Giuseppe ("Tineo-Ragusa") (1757-1812), Italian botanist; director of the Palermo botanic garden at Porta Carini 1780-1789, at id. Villa Giulia 1789-1812. 
-**Abbreviated name**: *G. Tineo*
+**Abbreviated name**: *G. Tineo* \[standard form in IPNI: *G.Tineo*\]
 
 #### Herbarium and types
 

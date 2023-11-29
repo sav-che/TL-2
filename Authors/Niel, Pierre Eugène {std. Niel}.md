@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33355837) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33355837) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6975-1), [Wikidata](https://www.wikidata.org/wiki/Q21522150). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Niel, Pierre Eugène (1836-1905), French banker, philanthropist and amateur botanist at Rouen. 
-**Abbreviated name**: *Niel*
+**Abbreviated name**: *Niel* \[standard form in IPNI: *Niel*\]
 
 #### Herbarium and types
 

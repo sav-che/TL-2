@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33265301) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33265301) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/702-1), [Wikidata](https://www.wikidata.org/wiki/Q5932836). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Berlin, \[Johan\] August (1851-1910), Swedish physician and botanist, educated at Stockholms gymnasium o.i. Uppsala 1871, studied at Lund 1876, med. cand. Karolinska Inst. Stockholm 1876, med. lic. ib. 1883, Dr. med. Uppsala 1888, provincial physician Stockholm district from 1892. 
-**Abbreviated name**: *Berlin*
+**Abbreviated name**: *Berlin* \[standard form in IPNI: *Berlin*\]
 
 #### Herbarium and types
 

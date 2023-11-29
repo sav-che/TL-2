@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/page/33121024) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/page/33121024) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2935-1), [Wikidata](https://www.wikidata.org/wiki/Q3263602). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fromentel, Louis Édouard Gourdan de (1824-x), French zoologist. 
-**Abbreviated name**: *Fromentel*
+**Abbreviated name**: *Fromentel* \[standard form in IPNI: *From.*\]
 
 #### Collections
 

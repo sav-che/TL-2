@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33066888) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33066888) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12054-1), [Wikidata](https://www.wikidata.org/wiki/Q1528738). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zodda, Giuseppe (1877-1968), Italian botanist; studied at the University of Messina; assistant for botany ib. 1900-1908; at Catania 1909; teacher at the Technical School of Messina 1909; subsequently at Portici, Potenza, Mantova, Napoli, Siracusa, Bari, finally president of the Istituto Tecnico at Teramo 1932-1947. 
-**Abbreviated name**: *Zodda*
+**Abbreviated name**: *Zodda* \[standard form in IPNI: *Zodda*\]
 
 #### Herbarium and types
 

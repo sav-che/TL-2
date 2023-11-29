@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33355477) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33355477) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/35190-1), [Wikidata](https://www.wikidata.org/wiki/Q21520177). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mayrhofer, Karl (x-1853), Austrian botanist 
-**Abbreviated name**: *Mayrhofer*
+**Abbreviated name**: *Mayrhofer* \[standard form in IPNI: *Mayrhofer*\]
 
 #### Herbarium and types
 

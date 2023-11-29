@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33333662) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33333662) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9508-1), [Wikidata](https://www.wikidata.org/wiki/Q1906999). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Serrurier, Lindor (1846-1901), Dutch sinologist; Dr. jur. Leiden 1877; curator of the Leiden Japanese Museum (later Ethnographic Museum) 1877; from 1881-1896 director; high school teacher of geography and ethnography in Batavia 1896-1901. 
-**Abbreviated name**: *Serrurier*
+**Abbreviated name**: *Serrurier* \[standard form in IPNI: *Serrurier*\]
 
 #### Herbarium and types
 

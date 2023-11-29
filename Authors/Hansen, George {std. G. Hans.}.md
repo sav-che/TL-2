@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33068289) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33068289) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3629-1), [Wikidata](https://www.wikidata.org/wiki/Q21514634). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hansen, George (1863-1908), German-born American horticulturist and botanist at the Sierra Foothill Experiment Station of UC in California. 
-**Abbreviated name**: *G. Hans.*
+**Abbreviated name**: *G. Hans.* \[standard form in IPNI: *G.Hansen*\]
 
 #### Herbarium and types
 

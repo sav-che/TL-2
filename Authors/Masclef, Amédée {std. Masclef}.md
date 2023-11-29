@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33355434) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33355434) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6188-1), [Wikidata](https://www.wikidata.org/wiki/Q18507759). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Masclef, Amédée (1858-?), French clergyman and botanist, teacher at the Petit-Séminaire of Arras 
-**Abbreviated name**: *Masclef*
+**Abbreviated name**: *Masclef* \[standard form in IPNI: *Masclef*\]
 
 #### Herbarium and types
 

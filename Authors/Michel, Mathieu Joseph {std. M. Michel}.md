@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33355551) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33355551) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6433-1), [Wikidata](https://www.wikidata.org/wiki/Q21520515). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Michel, Mathieu Joseph (1825-1890), Belgian self-taught botanist and workman at Fraipont; founder, 1876, of the "Société de Botanique de Fraipont et de Nessonvaux" consisting of workmen only. 
-**Abbreviated name**: *M. Michel*
+**Abbreviated name**: *M. Michel* \[standard form in IPNI: *M.Michel*\]
 
 #### Herbarium and types
 

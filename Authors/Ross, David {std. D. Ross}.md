@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 899](https://www.biodiversitylibrary.org/page/33190370) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 899](https://www.biodiversitylibrary.org/page/33190370) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/35157-1), [Wikidata](https://www.wikidata.org/wiki/Q21607427). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ross, David (ca. 1810-1881), British (Scottish) classics teacher in Edinburgh. 
-**Abbreviated name**: *D. Ross*
+**Abbreviated name**: *D. Ross* \[standard form in IPNI: *D.Ross*\]
 
 #### Herbarium and types
 

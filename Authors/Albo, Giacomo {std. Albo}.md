@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33264788) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33264788) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/34854-1), [Wikidata](https://www.wikidata.org/wiki/Q21505027). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Albo, Giacomo (1872-?), Italian botanist and biochemist, sometime connected as professor at the R. Istituto tecnico Messina, ultimately active in his private Laboratorio di Biochemica vegetale, Villa Albo, Modica, Sicilia; mainly interested in microbiochemistry and the Sicilian flora. 
-**Abbreviated name**: *Albo*
+**Abbreviated name**: *Albo* \[standard form in IPNI: *Albo*\]
 
 #### Herbarium and types
 

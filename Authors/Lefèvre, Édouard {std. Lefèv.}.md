@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33069056) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33069056) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5414-1), [Wikidata](https://www.wikidata.org/wiki/Q8078130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lefèvre, Édouard (1839-1894), French botanist and entomologist; born at Chartres; to Indo-China 1856-1858 as civil engineer; from 1858 in the central administration of French public works. 
-**Abbreviated name**: *Lefèv.*
+**Abbreviated name**: *Lefèv.* \[standard form in IPNI: *E.Lefèvre*\]
 
 #### Herbarium and types
 

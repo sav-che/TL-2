@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33190273) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33190273) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8416-1), [Wikidata](https://www.wikidata.org/wiki/Q21607240). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ritter, Johann Jakob (1714-1784), Swiss botanist; sometime professor at Franeker, Netherlands; ultimately at Gnadenfrei in Silezia. 
-**Abbreviated name**: *J. Ritter*
+**Abbreviated name**: *J. Ritter* \[standard form in IPNI: *J.Ritter*\]
 
 #### Herbarium and types
 

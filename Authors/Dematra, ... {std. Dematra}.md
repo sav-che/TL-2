@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33259242) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33259242) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2115-1), [Wikidata](https://www.wikidata.org/wiki/Q21510200). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dematra,... (1742-1824), Swiss clergyman and botanist, whose specialities were Rosa and the flora of the Canton of Fribourg. 
-**Abbreviated name**: *Dematra*
+**Abbreviated name**: *Dematra* \[standard form in IPNI: *Dematra*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 553](https://www.biodiversitylibrary.org/page/33066893) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 553](https://www.biodiversitylibrary.org/page/33066893) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/29184-1), [Wikidata](https://www.wikidata.org/wiki/Q68099). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zopf, \[Friedrich\] Wilhelm (1846-1909), German (Prussian) botanist; educated as primary school teacher at Eisleben 1864-1867; attended the Eislebener Gymnasium 1869-1874; studied natural sciences at the University of Berlin 1874-1877; Dr. phil. Halle 1878; habil. Berlin Univ. and Agric. College 1881; lecturer at Halle 1883-1887; e.o. professor of botany 1887-1899; professor of botany at Münster 1899-1909. 
-**Abbreviated name**: *Zopf*
+**Abbreviated name**: *Zopf* \[standard form in IPNI: *Zopf*\]
 
 #### Herbarium and types
 

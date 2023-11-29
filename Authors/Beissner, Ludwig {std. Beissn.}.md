@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33120298) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33120298) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/625-1), [Wikidata](https://www.wikidata.org/wiki/Q65688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Beissner, Ludwig {std. Beissn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Beissner, Ludwig (1843-1927), German dendrologist. 
-**Abbreviated name**: *Beissn.*
+**Abbreviated name**: *Beissn.* \[standard form in IPNI: *Beissn.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33068777) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33068777) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4769-1), [Wikidata](https://www.wikidata.org/wiki/Q323003). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kickx, Jean Jacques (1842-1887), Belgian botanist at Gent; son of Jean Kickx, Jr. (1803-1864); Dr. sci. Gent 1864; lecturer 1864, and professor of botany (1867, 1871) at the University of Gent. 
-**Abbreviated name**: *J. J. Kickx*
+**Abbreviated name**: *J. J. Kickx* \[standard form in IPNI: *J.J.Kickx*\]
 
 #### Herbarium and types
 

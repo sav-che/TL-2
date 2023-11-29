@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33120384) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33120384) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/910-1), [Wikidata](https://www.wikidata.org/wiki/Q21506249). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bohnstedt, Alexander Reinhold {std. Bohnst.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bohnstedt, Alexander Reinhold (1839-1903), German highschool teacher and botanist at Luckau. 
-**Abbreviated name**: *Bohnstedt*
+**Abbreviated name**: *Bohnstedt* \[standard form in IPNI: *Bohnst.*\]
 
 #### Herbarium and types
 

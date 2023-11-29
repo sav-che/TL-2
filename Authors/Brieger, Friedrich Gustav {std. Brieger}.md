@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33266380) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33266380) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1140-1), [Wikidata](https://www.wikidata.org/wiki/Q2314714). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brieger, Friedrich Gustav (1900-x), German geneticist, born at Breslau, studied at the Bussey Institution at Harvard University, later at the Kaiser-Wilhelm-Institut für Biologie in Berlin-Dahlem. 
-**Abbreviated name**: *Brieger*
+**Abbreviated name**: *Brieger* \[standard form in IPNI: *Brieger*\]
 
 #### Herbarium and types
 

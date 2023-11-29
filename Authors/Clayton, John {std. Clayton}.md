@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33120640) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33120640) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1684-1), [Wikidata](https://www.wikidata.org/wiki/Q17893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clayton, John (1686-1773), British physician in Virginia, correspondent of Gronovius. 
-**Abbreviated name**: *Clayton*
+**Abbreviated name**: *Clayton* \[standard form in IPNI: *J.Clayton*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33333180) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33333180) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12809-1), [Wikidata](https://www.wikidata.org/wiki/Q1358261). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Salisbury, Richard Anthony (né Markham) (1761-1829), British botanist, gardener and botanical artist; educated at Edinburgh Univ.; had a garden at Chapel Allerton, Yorkshire; later owner of P. Collinson's garden at Mill Hill, London; secretary Hort. Soc. London 1805-1816. 
-**Abbreviated name**: *Salisb.*
+**Abbreviated name**: *Salisb.* \[standard form in IPNI: *Salisb.*\]
 
 #### Herbarium and types
 

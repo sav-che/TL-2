@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33212542) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33212542) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10834-1), [Wikidata](https://www.wikidata.org/wiki/Q36569441). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Troeltzsch, Georgius Christianus (*fl*. 1751), German (Bavarian) physician; Dr. med. Erlangen 1751. 
-**Abbreviated name**: *Troeltzsch*
+**Abbreviated name**: *Troeltzsch* \[standard form in IPNI: *Troeltzsch*\]
 
 #### Herbarium and types
 

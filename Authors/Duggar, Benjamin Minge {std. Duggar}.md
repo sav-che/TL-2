@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33260140) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33260140) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18255-1), [Wikidata](https://www.wikidata.org/wiki/Q1609345). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Duggar, Benjamin Minge (1872-1956), American botanist, mycologist, plant physiologist, and microbiologist, born 1 Sep 1872 at Gallion, Alabama, studied at the University of Alabama 1887-1889, later at Mississippi State University, B.S. 1891, M.S. 1892 at Alabama Polytechnic Institute, A.B. in 1894 and M.A. in 1895 at Harvard, at Cornell University 1896-1901, Ph.D. 1898, with U.S.D.A. 1901, professor of botany Univ. Missouri 1902-1907, College of Agriculture Cornell University 1907-1912, Washington University 1912-1927, professor of plant physiology at the University of Wisconsin 1927 until his retirement in 1943, died 10 Sep 1956 at New Haven, Conn. 
-**Abbreviated name**: *Duggar*
+**Abbreviated name**: *Duggar* \[standard form in IPNI: *Duggar*\]
 
 #### Herbarium and types
 

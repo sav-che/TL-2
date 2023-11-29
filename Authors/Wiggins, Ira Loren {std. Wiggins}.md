@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33066616) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33066616) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11657-1), [Wikidata](https://www.wikidata.org/wiki/Q1817129). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wiggins, Ira Loren (1899-x), American botanist; A.B. phil. 1922 Occidental College, Calif.; M.A. bot. Stanford 1925; teacher at Durham Union High School 1923-1924; instructor in botany Occidental Coll. 1925-1927, asst. professor 1927-1929; assistant professor of botany at Stanford 1929-1936, assoc. prof. 1936-1940, professor of biology 1940-1964; emeritus professor 1965; explorer of the Sonoran desert 1929-1955; travelled e.g. in Ecuador 1944-1945, Alaska 1949, Mexico 1955. 
-**Abbreviated name**: *Wiggins*
+**Abbreviated name**: *Wiggins* \[standard form in IPNI: *Wiggins*\]
 
 #### Herbarium and types
 

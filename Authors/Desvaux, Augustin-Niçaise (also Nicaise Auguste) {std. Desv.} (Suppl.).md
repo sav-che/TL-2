@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33259280) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33259280) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17974-1), [Wikidata](https://www.wikidata.org/wiki/Q1354671). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Desvaux, Nicaise Auguste {std. Desv.}|first entry]] for this author
 
 ### Author
 
 \* Desvaux, Augustin-Niçaise \[also Nicaise Auguste\] (1784-1856), French botanist, born at Poitiers, Vienne 28 Aug 1784, died at his estate de Bellevue near Angers, Maine-et-Loire 12 Jul 1856, from 1813-1814 published by D. the Journal de Botanique rédigé par une Société de Botanistes, from 1817 director of the Botanical Garden at Angers. 
-**Abbreviated name**: *Desv.*
+**Abbreviated name**: *Desv.* \[standard form in IPNI: *Desv.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33190275) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 804](https://www.biodiversitylibrary.org/page/33190275) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8421-1), [Wikidata](https://www.wikidata.org/wiki/Q21607246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Riva, Domenico (ca. 1856-1895), Italian botanist and explorer of Africa with Schweinfurth (1892) and Ruspoli (1892-1893); botanical assistant at Bologna. 
-**Abbreviated name**: *Riva*
+**Abbreviated name**: *Riva* \[standard form in IPNI: *Riva*\]
 
 #### Herbarium and types
 

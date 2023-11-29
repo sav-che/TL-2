@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33189477) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33189477) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24504-1), [Wikidata](https://www.wikidata.org/wiki/Q21522594). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pandé, S.K. (1899-1960), Indian bryologist; D. Sc. Lucknow 1936; from 1899-1959, demonstrator, professor of botany at Lucknow and chairman of the Department of Botany of Saugar University. 
-**Abbreviated name**: *Pandé*
+**Abbreviated name**: *Pandé* \[standard form in IPNI: *Pandé*\]
 
 #### Herbarium and types
 

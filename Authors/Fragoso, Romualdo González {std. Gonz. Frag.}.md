@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33120999) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33120999) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2865-1), [Wikidata](https://www.wikidata.org/wiki/Q10364291). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[González Fragoso (Gonzales Fragoso), Romualdo {std. Gonz. Frag.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fragoso, Romualdo Gonzalez (1862-1928), Spanish mycologist at the Madrid botanical garden. 
-**Abbreviated name**: *Gonz. Frag.*
+**Abbreviated name**: *Gonz. Frag.* \[standard form in IPNI: *Gonz.Frag.*\]
 
 #### Herbarium and types
 

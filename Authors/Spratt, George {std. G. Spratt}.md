@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33333941) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33333941) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9986-1), [Wikidata](https://www.wikidata.org/wiki/Q47126616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spratt, George (*fl*. 1830), British surgeon-accoucheur; author of popular medical books. 
-**Abbreviated name**: *G. Spratt*
+**Abbreviated name**: *G. Spratt* \[standard form in IPNI: *G.Spratt*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33355698) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33355698) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6719-1), [Wikidata](https://www.wikidata.org/wiki/Q47123029). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moyen, J. (*fl*. 1889), French clergyman and botanist; spent some time in Canada; later "Prêtre de Saint-Sulpice, Professeur d'Histoire naturelle à la Maison d'Alix" (Lyon). 
-**Abbreviated name**: *Moyen*
+**Abbreviated name**: *Moyen* \[standard form in IPNI: *Moyen*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33333329) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33333329) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12827-1), [Wikidata](https://www.wikidata.org/wiki/Q21608030). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlauter, \[E.\] August (1803-1849), German (Hannover) gardener and botanist at Hildesheim nr. Celle; in the Hannoverian army 1824-1828; Dr. h.c. Bonn 1835; active as gardener in the family firm at Hildesheim 1828-1836; curator of the botanical garden at Erfurt 1836-1837, subsequently again at Hildesheim. 
-**Abbreviated name**: *Schlauter*
+**Abbreviated name**: *Schlauter* \[standard form in IPNI: *Schlauter*\]
 
 #### Herbarium and types
 

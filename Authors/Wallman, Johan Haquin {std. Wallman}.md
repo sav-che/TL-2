@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33066382) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33066382) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11352-1), [Wikidata](https://www.wikidata.org/wiki/Q21612077). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wallman, Johan Haquin (1792-1853), Swedish botanist, archaeologist and high school teacher; Dr. phil. Uppsala 1815; teacher in natural history at the gymnasium of Linköping 1822, lecturer in history ib. 1829. 
-**Abbreviated name**: *Wallman*
+**Abbreviated name**: *Wallman* \[standard form in IPNI: *Wallman*\]
 
 #### Herbarium and types
 

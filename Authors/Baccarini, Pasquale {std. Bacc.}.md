@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33264955) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33264955) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/14305-1), [Wikidata](https://www.wikidata.org/wiki/Q21341347). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Baccarini, Pasquale (1858-1919), Italian botanist, studied at the University of Roma and was assistant at the Botanical Institute, subsequently at Pavia, Avellina, Catania (1891, habil., 1892 director botanical garden), professor of botany at the R. Scuola di viticoltura, ultimately professor of botany and director of the botanical garden in Firenze 
-**Abbreviated name**: *Bacc.*
+**Abbreviated name**: *Bacc.* \[standard form in IPNI: *Bacc.*\]
 
 #### Herbarium and types
 

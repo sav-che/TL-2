@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33333272) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33333272) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9051-1), [Wikidata](https://www.wikidata.org/wiki/Q36598704). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schenckel, J. (*fl*. 1847), German botanist, high school teacher at Bad-Ems. 
-**Abbreviated name**: *Schenckel*
+**Abbreviated name**: *Schenckel* \[standard form in IPNI: *Schenckel*\]
 
 #### Herbarium and types
 

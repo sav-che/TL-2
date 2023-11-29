@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33333472) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33333472) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9263-1), [Wikidata](https://www.wikidata.org/wiki/Q519196). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schrenk \[Schrenck\], Alexander Gustav von (1816-1876), Baltic-German botanist; studied in Dorpat (Tartu) 1834-1837; traveller-botanist for the St. Petersburg botanical garden 1837-1844, in the arctic Ural, Lapponia and northern Finland, the Songarian Steppes and other parts of Central Asia; lecturer at the University of Dorpat 1846-1876. 
-**Abbreviated name**: *Schrenk*
+**Abbreviated name**: *Schrenk* \[standard form in IPNI: *Schrenk*\]
 
 #### Herbarium and types
 

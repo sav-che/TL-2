@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33333661) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33333661) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/13076-1), [Wikidata](https://www.wikidata.org/wiki/Q3387149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Serres, \[Pierre\] Marcel \[Toussaint\] de (1780/1783-1862), French naturalist; professor of mineralogy and geology at the University of Montpellier 1809-1814; "conseiller auditeur" at the "Cours royale" ib., "conseiller titulaire". 1819-1852. 
-**Abbreviated name**: *M. Serres*
+**Abbreviated name**: *M. Serres* \[standard form in IPNI: *M.Serres*\]
 
 #### Herbarium and types
 

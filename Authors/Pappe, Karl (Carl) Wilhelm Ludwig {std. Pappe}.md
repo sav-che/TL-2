@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33189486) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33189486) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7326-1), [Wikidata](https://www.wikidata.org/wiki/Q2339471). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pappe, Karl \[Carl\] Wilhelm Ludwig (1803-1862), German-born (Hamburg) South African botanist; Dr. med. Leipzig 1827; to South Africa 1835 as practicing physician; colonial botanist from 1848. 
-**Abbreviated name**: *Pappe*
+**Abbreviated name**: *Pappe* \[standard form in IPNI: *Pappe*\]
 
 #### Herbarium and types
 

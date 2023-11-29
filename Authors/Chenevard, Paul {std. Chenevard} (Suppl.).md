@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33265755) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33265755) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1573-1), [Wikidata](https://www.wikidata.org/wiki/Q6067136). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Chenevard, Paul {std. Chenevard}|first entry]] for this author
 
 ### Author
 
 \* Chenevard, Paul (1839-1919), Swiss (Genève born) botanist and businessman, educated at the Collège classique de Genève, from 1861-1901 in charge of a small ware shop (haberdashery) succeeding his parents as such, travelled for his shop combined with his botanical interests from 1868 especially in Ticino and in general in the Alps. 
-**Abbreviated name**: *Chenevard*
+**Abbreviated name**: *Chenevard* \[standard form in IPNI: *Chenevard*\]
 
 #### Herbarium and types
 

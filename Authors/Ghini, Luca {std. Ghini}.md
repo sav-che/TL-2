@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 939](https://www.biodiversitylibrary.org/page/33121070) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 939](https://www.biodiversitylibrary.org/page/33121070) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3122-1), [Wikidata](https://www.wikidata.org/wiki/Q613632). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ghini, Luca (1490-1556), Italian physician and botanist. 
-**Abbreviated name**: *Ghini*
+**Abbreviated name**: *Ghini* \[standard form in IPNI: *Ghini*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33068992) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33068992) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5267-1), [Wikidata](https://www.wikidata.org/wiki/Q67415). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Langethal, Christian Eduard (1806-1878), German botanist; high school teacher at Eldena 1835-1839; from 1839 professor of agriculture at Jena. 
-**Abbreviated name**: *Langeth.*
+**Abbreviated name**: *Langeth.* \[standard form in IPNI: *Langeth.*\]
 
 #### Herbarium and types
 

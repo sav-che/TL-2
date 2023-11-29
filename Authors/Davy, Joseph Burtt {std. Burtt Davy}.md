@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33120733) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33120733) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2039-1), [Wikidata](https://www.wikidata.org/wiki/Q513218). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Burtt Davy, Joseph {std. Burtt Davy} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Davy, Joseph Burtt (1870-1940), British botanist, founder of the Pretoria National Herbarium, student of the flora of California, agriculturist, sylviculturist and ecologist. 
-**Abbreviated name**: *J. B. Davy*
+**Abbreviated name**: *J. B. Davy* \[standard form in IPNI: *Burtt Davy*\]
 
 #### Herbarium and types
 

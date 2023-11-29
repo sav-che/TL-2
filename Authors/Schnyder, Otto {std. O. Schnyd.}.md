@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33333423) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33333423) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9207-1), [Wikidata](https://www.wikidata.org/wiki/Q47125817). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schnyder, Otto (*fl*. 1878), Argentine botanist; professor of botany at the University of Buenos Aires. 
-**Abbreviated name**: *O. Schnyd.*
+**Abbreviated name**: *O. Schnyd.* \[standard form in IPNI: *O.Schnyd.*\]
 
 #### Herbarium and types
 

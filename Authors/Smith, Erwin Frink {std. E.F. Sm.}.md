@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33333808) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33333808) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26923-1), [Wikidata](https://www.wikidata.org/wiki/Q5396128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Erwin Frink (1854-1927), American phytopathologist, mycologist and specialist on bacterial plant diseases; Dr. phil. Univ. Mich. 1889; with USDA, Washington D.C. 1886-1927 (pathologist Bureau of plant industry 1901; pathologist in charge ib. 1902-1927). 
-**Abbreviated name**: *E.F. Sm.*
+**Abbreviated name**: *E.F. Sm.* \[standard form in IPNI: *E.F.Sm.*\]
 
 #### Herbarium and types
 

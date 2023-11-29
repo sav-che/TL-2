@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33266769) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33266769) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1455-1), [Wikidata](https://www.wikidata.org/wiki/Q3770283). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Catalano, Giuseppe (1888-x), Italian botanist (morphology, physiology), director of the botanical institute and botanical garden of the agricultural faculty at Portici (Naples), chief interest in the morphology of leaves. 
-**Abbreviated name**: *Catal.*
+**Abbreviated name**: *Catal.* \[standard form in IPNI: *Catal.*\]
 
 #### Herbarium and types
 

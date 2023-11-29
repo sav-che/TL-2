@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33333164) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33333164) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8866-1), [Wikidata](https://www.wikidata.org/wiki/Q459037). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sampaio, Gonçalo António da Silva Ferreira (1865-1937), Portuguese botanist; studied at the Coimbra Polytechnic and the University of Coimbra; at the botanical department of the University of Porto (then "Academia polytechnica") from 1901 as "naturalista adjunto", from 1912-1935 as professor of botany. 
-**Abbreviated name**: *Samp.*
+**Abbreviated name**: *Samp.* \[standard form in IPNI: *Samp.*\]
 
 #### Herbarium and types
 

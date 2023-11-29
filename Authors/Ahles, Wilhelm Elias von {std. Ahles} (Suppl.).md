@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33264735) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33264735) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/95-1), [Wikidata](https://www.wikidata.org/wiki/Q9096002). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ahles, Wilhelm Elias von {std. Ahles}|first entry]] for this author
 
 ### Author
 
 \* Ahles, Wilhelm Elias von (1829-1900), German (Württemberg) botanist, Dr. phil. Jena 1853; high school teacher Heidelberg 1853, private lecturer ("Privatdozent") at the University of Heidelberg, 1859, professor of general and pharmaceutical botany at the technical University Stuttgart 1885-1899. 
-**Abbreviated name**: *Ahles*
+**Abbreviated name**: *Ahles* \[standard form in IPNI: *Ahles*\]
 
 #### Herbarium and types
 

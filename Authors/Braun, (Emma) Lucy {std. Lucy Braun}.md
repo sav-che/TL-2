@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33266342) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33266342) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1087-1), [Wikidata](https://www.wikidata.org/wiki/Q5372895). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Braun, \[Emma\] Lucy (1889-1971), American (Cincinnati, Ohio born) botanist, of a family of German-French (mother), English (father) descent, educated at Cincinnati public schools, studied at the University of Cincinnati, B.A. 1910, M.A. geol. 1912, Ph.D. bot. 1914, assistant in geology 1910-1913, id. botany 1914-1917, instructor in botany 1917-1923, assistant professor 1923-1926, associate professor of botany 1927-46, id. plant ecology 1946-1948, emeritus 1948-1971, all at Cincinnati. 
-**Abbreviated name**: *Lucy Braun*
+**Abbreviated name**: *Lucy Braun* \[standard form in IPNI: *E.L.Braun*\]
 
 #### Herbarium and types
 

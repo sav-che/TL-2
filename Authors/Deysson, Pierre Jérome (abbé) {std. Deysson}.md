@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33259329) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33259329) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/35824-1), [Wikidata](https://www.wikidata.org/wiki/Q5928586). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Deysson, Pierre Jérome (abbé) (fl. 1899), French botanist. 
-**Abbreviated name**: *Deysson*
+**Abbreviated name**: *Deysson* \[standard form in IPNI: *Deysson*\]
 
 #### Herbarium and types
 

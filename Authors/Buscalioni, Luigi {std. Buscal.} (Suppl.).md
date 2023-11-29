@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33266581) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33266581) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1316-1), [Wikidata](https://www.wikidata.org/wiki/Q3839401). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Buscalioni, Luigi {std. Buscal.}|first entry]] for this author
 
 ### Author
 
 \* Buscalioni, Luigi (1863-1954), Italian botanist, born in Torino, educated at the University of Torino, assistant at the Instituto Botanico dell'Università di Torino 1891-1892, idem in Parma 1892-1894, lecturer in botany 1894-1896, assistant with Berthold at Göttingen 1896-1897, assistant at the Instituto Botanico dell'Università di Roma 1897-1899, assistant with the Instituto Botanico dell'Università di Pavia 1900-1902, collected 1899-1900 in Amazonas, professor at the University at Sassari 1902-1906, id. and director of the Instituto Botanico dell'Università di Catania 1906-1923, collected in Eritrea and Ethiopia 1915-1916, id. at Palermo 1923-1928, director of the Instituto Botanico dell'Università di Bologna 1928-1933, director of the Bologna Botanical Garden 1929-1936, professor emeritus ibid. 1933-1954. 
-**Abbreviated name**: *Buscal.*
+**Abbreviated name**: *Buscal.* \[standard form in IPNI: *Buscal.*\]
 
 #### Herbarium and types
 

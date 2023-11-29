@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33355804) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33355804) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23987-1), [Wikidata](https://www.wikidata.org/wiki/Q21522037). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Negri, Giovanni (1877-1960), Italian botanist, Dr. phil. Torino 1925; assistant at the Istituto botanico Torino 1903-1924, at Cagliari 1925; from 1925-1947 professor of botany and director of the Istituto botanico, Firenze. 
-**Abbreviated name**: *G. Negri*
+**Abbreviated name**: *G. Negri* \[standard form in IPNI: *G.Negri*\]
 
 #### Herbarium and types
 

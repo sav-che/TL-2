@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33212047) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33212047) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10208-1), [Wikidata](https://www.wikidata.org/wiki/Q21609944). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Strauss, Theodor (1859-1911), German (Thuringian) merchant and plant collector; representative of an English export firm in Iran ca. 1881-1911, ultimately also vice-consul for England in Sultanabad. 
-**Abbreviated name**: *Th. Strauss*
+**Abbreviated name**: *Th. Strauss* \[standard form in IPNI: *T.Strauss*\]
 
 #### Herbarium and types
 

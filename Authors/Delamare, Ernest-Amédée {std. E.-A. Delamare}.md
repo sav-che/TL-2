@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33259217) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33259217) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/40208-1), [Wikidata](https://www.wikidata.org/wiki/Q21510153). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Delamare, Ernest-Amédée (1835-1888), French physician, born 26 Mar 1835, became employed by the French navy and stayed on the island Miquelon from 1858, where he made extensive botanical collections, died on that island 2 Jun 1888. 
-**Abbreviated name**: *E.-A. Delamare*
+**Abbreviated name**: *E.-A. Delamare* \[standard form in IPNI: *E.A.Delamare*\]
 
 #### Herbarium and types
 

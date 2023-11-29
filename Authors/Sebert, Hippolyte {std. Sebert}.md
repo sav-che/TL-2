@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33333607) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33333607) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9408-1), [Wikidata](https://www.wikidata.org/wiki/Q287244). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sebert, Hippolyte (1839-1930), French marine officer and wood technologist; educated at the École Polytechnique (1860); in New Caledonia before 1870; with the staff of the artillery of the Right Bank, Paris, 1870-1871; Inspector of various marine establishments in France from 1871. 
-**Abbreviated name**: *Sebert*
+**Abbreviated name**: *Sebert* \[standard form in IPNI: *Sebert*\]
 
 #### Herbarium and types
 

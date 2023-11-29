@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 883](https://www.biodiversitylibrary.org/page/33334022) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 883](https://www.biodiversitylibrary.org/page/33334022) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10095-1), [Wikidata](https://www.wikidata.org/wiki/Q6189095). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stenhammar, Christian (1783-1866), Swedish botanist (lichenologist), clergyman, politician and polyhistor; Dr. phil. Uppsala 1801; ordained 1813; Dr. theol. 1845, high school teacher history and geography at Linköping (1822) 1823-1830; from 1836 vicar at Häradshammar and Jonsberg in Östergötland; member of the Swedish Parliament 1834-1851. 
-**Abbreviated name**: *Stenh.*
+**Abbreviated name**: *Stenh.* \[standard form in IPNI: *Stenh.*\]
 
 #### Herbarium and types
 

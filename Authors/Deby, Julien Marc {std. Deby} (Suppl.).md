@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33259178) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33259178) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2062-1), [Wikidata](https://www.wikidata.org/wiki/Q21510108). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Deby, Julien Marc {std. Deby}|first entry]] for this author
 
 ### Author
 
 \* Deby, Julien Marc (1826-1895), Belgian botanist, microscopist, diatomist, studied at the University of Liège, ingénieur 1848, in Brussels 1848-1854, travelled in Central America as a young man, lived in Georgia 1854-1859, commissioner of the Belgian Government to the centennial Exposition at Philadelphia 1876, from then on settled in England. 
-**Abbreviated name**: *Deby*
+**Abbreviated name**: *Deby* \[standard form in IPNI: *Deby*\]
 
 #### Herbarium and types
 

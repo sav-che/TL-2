@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33120458) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33120458) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1152-1), [Wikidata](https://www.wikidata.org/wiki/Q746034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Briquet, John Isaac {std. Briq.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Briquet, John Isaac (1870-1931), Swiss botanist at Genève, rapporteur-général for botanical nomenclature 1900-1931. 
-**Abbreviated name**: *Briq.*
+**Abbreviated name**: *Briq.* \[standard form in IPNI: *Briq.*\]
 
 #### Herbarium and types
 

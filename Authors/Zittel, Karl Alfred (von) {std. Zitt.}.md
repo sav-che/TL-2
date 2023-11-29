@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33066886) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33066886) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12049-1), [Wikidata](https://www.wikidata.org/wiki/Q61904). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zittel, Karl Alfred \[von\] (1839-1904), German (Baden) palaeontologist; studied at the University of Heidelberg 1857-1861; at Paris 1861-1862; volunteer with the Geological Survey of Austria 1863; habil. Univ. Vienna 1863; professor of mineralogy at Karlsruhe 1863-1866; professor of palaeontology at München 1866, from 1890 also keeper of the Bavarian State Geological Collection. 
-**Abbreviated name**: *Zitt.*
+**Abbreviated name**: *Zitt.* \[standard form in IPNI: *Zitt.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 949](https://www.biodiversitylibrary.org/page/33121080) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 949](https://www.biodiversitylibrary.org/page/33121080) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3178-1), [Wikidata](https://www.wikidata.org/wiki/Q263505). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Girod-Chantrans, Justin (1750-1841), French soldier and botanist. 
-**Abbreviated name**: *Girod-Chantrans*
+**Abbreviated name**: *Girod-Chantrans* \[standard form in IPNI: *Gir.-Chantr.*\]
 
 #### Herbarium and types
 

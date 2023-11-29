@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33333719) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33333719) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12271-1), [Wikidata](https://www.wikidata.org/wiki/Q21608850). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sickenberger, Ernst (1831-1895), German (Baden) botanist and pharmacist; studied at Heidelberg University 1852-1853; pharm. exam. Stuttgart 1854; practicing pharmacist in Kirchgarten 1858-1865; in Freiburg i. Br. 1865-1872, as owner of a liquor store and (1872) in charge of the botanical garden; owner of a pharmacy in Lörrach 1873-1876; from 1876-1895 in Cairo in charge of the German pharmacy; exploring Egypt 1881-1885, professor of pharmacology (later chemistry) from 1889, member of the Egyptian Institute from 1890. 
-**Abbreviated name**: *Sickenb.*
+**Abbreviated name**: *Sickenb.* \[standard form in IPNI: *Sickenb.*\]
 
 #### Herbarium and types
 

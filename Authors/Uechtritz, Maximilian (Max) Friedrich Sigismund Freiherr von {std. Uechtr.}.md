@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33212604) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33212604) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10951-1), [Wikidata](https://www.wikidata.org/wiki/Q6007430). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Uechtritz, Maximilian \[Max\] Friedrich Sigismund Freiherr von (1785-1851), German (Silesian) soldier and "Privatgelehrter" especially interested in botany and entomology; sometime cavalry captain ("Rittmeister") in the Austrian army; stationed in Moravia ca. 1805; resident in Breslau; (father of Rudolf von Uechtritz). 
-**Abbreviated name**: *Uechtr.*
+**Abbreviated name**: *Uechtr.* \[standard form in IPNI: *Uechtr.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33266155) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33266155) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17542-1), [Wikidata](https://www.wikidata.org/wiki/Q5076566). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Crossland, Charles (1844-1916), British mycologist, born at Halifax Yorks, actively in business but found much time to spend on botany and bibliography, painted and drew 550 botanical specimens. 
-**Abbreviated name**: *Crossl.*
+**Abbreviated name**: *Crossl.* \[standard form in IPNI: *Crossl.*\]
 
 #### Herbarium and types
 

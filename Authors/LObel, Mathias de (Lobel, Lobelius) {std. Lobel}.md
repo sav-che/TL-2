@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33355217) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33355217) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5688-1), [Wikidata](https://www.wikidata.org/wiki/Q1860320). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 L'Obel, Mathias de \[Lobel, Lobelius\] (1538-1616), Flemish botanist; worked with Rondelet at Montpellier 1565-1566; from 1566-1572 in England; from 1572-1584 in the Netherlands, from 1584 again in England; botanist to James I; curator of Lord Edward Zouche's garden at Hackney. 
-**Abbreviated name**: *Lobel*
+**Abbreviated name**: *Lobel* \[standard form in IPNI: *Lobel*\]
 
 #### Herbarium and types
 

@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 942](https://www.biodiversitylibrary.org/page/33121073) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 942](https://www.biodiversitylibrary.org/page/33121073) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/19335-1), [Wikidata](https://www.wikidata.org/wiki/Q2621687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gilibert, Jean Emmanuel {std. Gilib.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gilibert, Jean Emmanuel (1741-1814), French botanist from Lyon who was for some time professor of botany at Wilna. 
-**Abbreviated name**: *Gilib.*
+**Abbreviated name**: *Gilib.* \[standard form in IPNI: *Gilib.*\]
 
 #### Herbarium and types
 

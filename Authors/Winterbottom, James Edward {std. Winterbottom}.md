@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33066724) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33066724) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11777-1), [Wikidata](https://www.wikidata.org/wiki/Q21612844). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winterbottom, James Edward (1803-1854), British botanist; studied at St. John's College, Oxford ca. 1821-1828; travelled on the Continent, in England, Scotland and Ireland 1834-1845; left England 1846 for an Indian tour, Java, Singapore, China, India and Tibet, part of the time accompanying Richard Strachey on the Tibetan Boundary Commission; in Great Britain 1849-1854; died on a trip in the Near East. 
-**Abbreviated name**: *Winterbottom*
+**Abbreviated name**: *Winterbottom* \[standard form in IPNI: *Winterb.*\]
 
 #### Herbarium and types
 

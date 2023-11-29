@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33212470) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 428](https://www.biodiversitylibrary.org/page/33212470) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10787-1), [Wikidata](https://www.wikidata.org/wiki/Q5925898). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trail (sometime Traill), James William Helenus (1851-1919), British botanist; MA Aberdeen 1870, MB 1876, MD 1879; assistant at the medical faculty, Univ. Aberdeen 1870-1873; on a South American exploring expedition 1873-1875; professor of botany, Univ. Aberdeen 1877-1919; director of the Cruickshank Botanic Garden 1898-1919; co-founder of the Aberdeen Working Men's Natural History Society 1886. 
-**Abbreviated name**: *Trail*
+**Abbreviated name**: *Trail* \[standard form in IPNI: *Trail*\]
 
 #### Herbarium and types
 

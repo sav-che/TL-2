@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2014-12-01 11:38:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33190300) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33190300) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/465-1), [Wikidata](https://www.wikidata.org/wiki/Q45374). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Barbosa Rodrigues, João {std. Barb. Rodr.}|first]] and [[Barbosa Rodrigues, João {std. Barb. Rodr.} (Suppl.)|third]] entries for this author
 
 ### Author
 
 Rodrigues, João Barbosa (1842-1909), Brazilian botanist and traveller, collected widely in Brazil between 1868 and 1897; teacher at the Imperial College Pedro II; associated with F. Freire Allemão 1868-1876; in charge of a chemical factory 1876-1883; director of the Manaos botanical museum 1883-1889; from 1889-1909 director of the botanical garden of Rio de Janeiro. 
-**Abbreviated name**: *Barb. Rodr.*
+**Abbreviated name**: *Barb. Rodr.* \[standard form in IPNI: *Barb.Rodr.*\]
 
 #### Herbarium and types
 

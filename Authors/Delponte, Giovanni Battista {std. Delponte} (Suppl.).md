@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33259238) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33259238) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2110-1), [Wikidata](https://www.wikidata.org/wiki/Q5880109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Delponte, Giovanni Battista {std. Delponte}|first entry]] for this author
 
 ### Author
 
 \* Delponte, Giovanni Battista (1812-1884), Italian botanist, born at Mombaruzzo, Piemont 2 Aug 1812, studied medicine at Torino, ib. dr. phil. 1832, repetitor for medical studies, 1839-1841 as assistant, latin thesis to become teacher 1841, substitute for Moris 1848-1869, took the place of Moris 1869-1879, died 19 Mai 1884 at Mombaruzzo. 
-**Abbreviated name**: *Delponte*
+**Abbreviated name**: *Delponte* \[standard form in IPNI: *Delponte*\]
 
 #### Herbarium and types
 

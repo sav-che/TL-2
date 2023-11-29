@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33264881) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33264881) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/30960-1), [Wikidata](https://www.wikidata.org/wiki/Q21505316). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Arens, Federico Mathias (1886-x), German (Prussian, born in Peru), educated at the Gymnasium in Bonn 1896-1906, studied at the University of Bonn 1906-1911, employed in the Dutch EastIndies sugar, rubber and oil palm industry until 1936, in charge of the Botanical Institute, Bonn 1936. 
-**Abbreviated name**: *Arens*
+**Abbreviated name**: *Arens* \[standard form in IPNI: *Arens*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2005-06-22 12:54:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33260273) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33260273) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2493-1), [Wikidata](https://www.wikidata.org/wiki/Q2622975). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Eig, Alexander {std. Eig}|first entry]] for this author
 
 ### Author
 
 \* Eig, Alexander (1894(1895?)-1938), Russian born Palestinian botanist, came to Palestine at the age of 14 to study at the agricultural school of Mikveh, joined the jewish legion during the war, assistant to Prof. O. Warburg in 1925, Dr. Sci. at Montpellier in 1931, travelled in Syria, Turkey and Iraq 1931-1933, founder of the botanical society of Palestine and the "Palestine journal of botany", died 30 Jul 1938 at Jerusalem. 
-**Abbreviated name**: *Eig*
+**Abbreviated name**: *Eig* \[standard form in IPNI: *Eig*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-09-20 20:24:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33259299) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33259299) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2176-1), [Wikidata](https://www.wikidata.org/wiki/Q18984207). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dewèvre, Alfred (1866-1897), Belgian botanist who worked on the Station Luebo nr. Kassai, born 20 Mar 1866, Brussels, died 27 Feb 1897, Leopoldville, Belgian Congo. 
-**Abbreviated name**: *Dewèvre*
+**Abbreviated name**: *Dewèvre* \[standard form in IPNI: *Dewèvre*\]
 
 #### Herbarium and types
 

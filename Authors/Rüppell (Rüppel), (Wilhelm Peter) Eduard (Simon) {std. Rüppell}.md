@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 978](https://www.biodiversitylibrary.org/page/33190449) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 978](https://www.biodiversitylibrary.org/page/33190449) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12799-1), [Wikidata](https://www.wikidata.org/wiki/Q60542). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rüppell \[Rüppel\], \[Wilhelm Peter\] Eduard \[Simon\] (1794-1884), German (Frankfurt) zoologist, mineralogist and explorer; studied at Pavia 1817-1821; Dr. med. h.c. Giessen 1827; travelled in Egypt and Nubia 1817, 1822-1827, and Arabia and Ethiopia 1831-1834, Italy 1816-1817, 1844 and Egypt 1850; donated his archeological, mineralogical and natural history collections to the Senckenbergische Gesellschaft at Frankfurt; curator of these collections 1841-1843, 1846-1847, 1854-1855 and 1858-1859; later especially active as numismatologist. 
-**Abbreviated name**: *Rüppell*
+**Abbreviated name**: *Rüppell* \[standard form in IPNI: *Rüppell*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33120191) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33120191) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/259-1), [Wikidata](https://www.wikidata.org/wiki/Q724785). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arechavaleta y Balpardo, José {std. Arechav.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Arechavaleta y Balpardo, José (1838-1912), Uruguayan botanist 
-**Abbreviated name**: *Arechav.*
+**Abbreviated name**: *Arechav.* \[standard form in IPNI: *Arechav.*\]
 
 #### Herbarium and types
 

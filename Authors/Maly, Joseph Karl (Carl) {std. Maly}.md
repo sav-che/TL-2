@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33355357) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33355357) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6044-1), [Wikidata](https://www.wikidata.org/wiki/Q5937032). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Maly, Joseph Karl \[Carl\] (1797-1866), Prague-born Austrian physician and botanist; Dr. med. Prague 1823; practicing at Graz from 1824. 
-**Abbreviated name**: *Maly*
+**Abbreviated name**: *Maly* \[standard form in IPNI: *Maly*\]
 
 #### Herbarium and types
 

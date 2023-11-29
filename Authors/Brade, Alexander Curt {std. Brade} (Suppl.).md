@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33266310) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33266310) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1056-1), [Wikidata](https://www.wikidata.org/wiki/Q5650096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brade, Alexander Curt {std. Brade}|first entry]] for this author
 
 ### Author
 
 \* Brade, Alexander Curt (1881-1971), German (Niederlausitz) botanist, educated at the Real-Progymnasium at Forst and at the Königl. preussische Baugewerkschule at Goerlitz, Schlesien, active in the building trade 1902-1907, at the same time interested in botany, in contact with the Berlin botanical professors Kny, Sorauer and Wittmack, went to Costa Rica to collect botanical material 1908-1910, settled in Brazil, building engineer in São Paulo 1910, settled at a farm in Iguape (S. Paulo) until 1928, 1928-1933 associated with the Museu nacional Rio de Janeiro, id. at the Inst. Biol. Vegetal as assistant in the Botanical Garden 1933-1938, subsequently biologist at the Serviço Florestal until 1952. 
-**Abbreviated name**: *Brade*
+**Abbreviated name**: *Brade* \[standard form in IPNI: *Brade*\]
 
 #### Herbarium and types
 

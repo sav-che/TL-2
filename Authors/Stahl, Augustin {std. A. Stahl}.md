@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33333966) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33333966) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10014-1), [Wikidata](https://www.wikidata.org/wiki/Q399442). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stahl, Augustin (1842-1917), Puerto Rican botanist, of German-Dutch parents; studied medicine at Würzburg 1861-1864; Dr. med. id. 1864; Puerto Rican government physician 1864-1865; practicing physician at Bayamón, P.R. from 1865, dedicating himself to botany in his spare time. 
-**Abbreviated name**: *A. Stahl*
+**Abbreviated name**: *A. Stahl* \[standard form in IPNI: *A.Stahl*\]
 
 #### Herbarium and types
 

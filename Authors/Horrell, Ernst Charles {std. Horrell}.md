@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33068578) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33068578) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4116-1), [Wikidata](https://www.wikidata.org/wiki/Q21516044). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Horrell, Ernst Charles (1870-1937), British botanist. 
-**Abbreviated name**: *Horrell*
+**Abbreviated name**: *Horrell* \[standard form in IPNI: *Horrell*\]
 
 #### Herbarium and types
 

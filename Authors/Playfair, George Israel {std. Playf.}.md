@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33189762) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33189762) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7749-1), [Wikidata](https://www.wikidata.org/wiki/Q21523051). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Playfair, George Israel (1871-1922), Australian algologist; honorary curator of freshwater algae at the National Herbarium, Sydney, Australia. 
-**Abbreviated name**: *Playf.*
+**Abbreviated name**: *Playf.* \[standard form in IPNI: *Playfair*\]
 
 #### Herbarium and types
 

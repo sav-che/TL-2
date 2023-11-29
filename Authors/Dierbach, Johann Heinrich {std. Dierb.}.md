@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 647](https://www.biodiversitylibrary.org/page/33120778) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 647](https://www.biodiversitylibrary.org/page/33120778) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2201-1), [Wikidata](https://www.wikidata.org/wiki/Q5932956). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dierbach, Johann Heinrich {std. Dierb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dierbach, Johann Heinrich (1788-1845), German botanist at Heidelberg, botanical historian. 
-**Abbreviated name**: *Dierb.*
+**Abbreviated name**: *Dierb.* \[standard form in IPNI: *Dierb.*\]
 
 #### Herbarium and types
 

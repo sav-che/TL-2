@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33189895) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33189895) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8014-1), [Wikidata](https://www.wikidata.org/wiki/Q204035). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pugsley, Herbert William (1868-1948), British botanist; BA London 1889; civil servant in the Admiralty, 1896-1928. 
-**Abbreviated name**: *Pugsl.*
+**Abbreviated name**: *Pugsl.* \[standard form in IPNI: *Pugsley*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-01-10 11:45:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33120988) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33120988) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2835-1), [Wikidata](https://www.wikidata.org/wiki/Q58062). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Forster, Johann Georg (b. George) Adam {std. G. Forster} (Suppl.)|second entry]] for Forsters
 
 ### Author
 
 Forster, Johann Georg Adam (1754-1794), German explorer and botanist, son of J. R. Forster whom he accompanied to England, Russia and on Cook's second voyage. 
-**Abbreviated name**: *G. Forster*
+**Abbreviated name**: *G. Forster* \[standard form in IPNI: *G.Forst.*\]
 
 #### Herbarium and types
 

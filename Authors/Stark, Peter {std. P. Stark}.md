@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33333985) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33333985) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10033-1), [Wikidata](https://www.wikidata.org/wiki/Q21609556). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stark, Peter (1888-1932), German (Baden) botanist; Dr. phil. Freiburg i. Br. 1911; assistant botanist ib. 1912-1913 (with Oltmanns); with L. Jost in Strassburg 1914; with W. Pfeffer in Leipzig 1915-1921; habil. Leipzig 1917; extraordinary professor of forest botany Freiburg i. Br. 1921-1926; successor to F. Pax as professor of botany at Breslau, specially dedicating himself to palaeobotanical and palynological studies 1926-1928; successor to M. Möbius at Frankfurt a.M. 1928-1932. 
-**Abbreviated name**: *P. Stark*
+**Abbreviated name**: *P. Stark* \[standard form in IPNI: *P.Stark*\]
 
 #### Herbarium and types
 

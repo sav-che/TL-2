@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 940](https://www.biodiversitylibrary.org/page/33121071) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 940](https://www.biodiversitylibrary.org/page/33121071) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3128-1), [Wikidata](https://www.wikidata.org/wiki/Q1153115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gibbs, Lilian Suzette (Susette) {std. Gibbs} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gibbs, Lilian Suzette (1870-1925), British botanist. 
-**Abbreviated name**: *Gibbs*
+**Abbreviated name**: *Gibbs* \[standard form in IPNI: *Gibbs*\]
 
 #### Herbarium and types
 

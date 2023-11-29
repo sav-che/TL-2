@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1078](https://www.biodiversitylibrary.org/page/33190549) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1078](https://www.biodiversitylibrary.org/page/33190549) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8833-1), [Wikidata](https://www.wikidata.org/wiki/Q21607623). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saint-Moulin, Vincentius Josephus de (1804-1837), Belgian (Hainaut) botanist; studied at the University of Gent; Dr. med. Univ. Liège 1831; practicing physician at Houdeng-Aimeries 1831-1837. 
-**Abbreviated name**: *Saint-Moulin*
+**Abbreviated name**: *Saint-Moulin* \[standard form in IPNI: *St.-Moul.*\]
 
 #### Herbarium and types
 

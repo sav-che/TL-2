@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33066492) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33066492) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11506-1), [Wikidata](https://www.wikidata.org/wiki/Q6234591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weimarck, \[August\] Hennig (1903-1980), Swedish botanist; studied at the University of Lund 1924-1928; assistant Botanical Museum, Lund 1928; travelled in Africa 1930-1931; Dr. phil. Lund 1935; lecturer in botany ib. 1935, curator of the Botanical Museum 1945, director of the botanical garden Gothenburg 1949; professor of systematic botany, Univ. Lund 1950-1969. 
-**Abbreviated name**: *Weim.*
+**Abbreviated name**: *Weim.* \[standard form in IPNI: *Weim.*\]
 
 #### Herbarium and types
 

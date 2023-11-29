@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33068380) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33068380) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3788-1), [Wikidata](https://www.wikidata.org/wiki/Q2287453). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Heimans, Jacobus (1889-1978), Dutch botanist; son of Eli Heimans; specialized on Desmidiaceae, the genus *Mentha* and the phytogeography of the Netherlands. 
-**Abbreviated name**: *J. Heimans*
+**Abbreviated name**: *J. Heimans* \[standard form in IPNI: *J.Heimans*\]
 
 #### Herbarium and types
 

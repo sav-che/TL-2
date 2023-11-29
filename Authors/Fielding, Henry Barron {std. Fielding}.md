@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33120960) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33120960) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2718-1), [Wikidata](https://www.wikidata.org/wiki/Q5718388). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fielding, Henry Barron (1805-1851), British botanist who assembled an important herbarium. 
-**Abbreviated name**: *Fielding*
+**Abbreviated name**: *Fielding* \[standard form in IPNI: *Fielding*\]
 
 #### Herbarium and types
 

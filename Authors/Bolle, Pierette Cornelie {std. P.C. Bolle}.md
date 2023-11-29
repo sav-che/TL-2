@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265493) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265493) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16301-1), [Wikidata](https://www.wikidata.org/wiki/Q6075431). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bolle, Pierette Cornelie (1893-1945), Dutch phytopathologist, studied at the University of Utrecht, Dr. phil. ib. 1924, assistant at the Centraalbureau voor Schimmelcultures, Baarn, Netherlands 1924-1925, scientist with the Java Sugar Experiment Station at Cheribon 1925-1930, id. with the Java Sugar Experiment Station at Pasuruan, E. Java 1930-ca. 1943, died in a concentration camp at Semarang, Java 1945. 
-**Abbreviated name**: *P.C. Bolle*
+**Abbreviated name**: *P.C. Bolle* \[standard form in IPNI: *P.C.Bolle*\]
 
 #### Herbarium and types
 

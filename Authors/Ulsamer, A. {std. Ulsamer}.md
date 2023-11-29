@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33212627) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33212627) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10976-1), [Wikidata](https://www.wikidata.org/wiki/Q47127786). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ulsamer, A. (*fl*. 1895), German high school teacher at Dillingen. 
-**Abbreviated name**: *Ulsamer*
+**Abbreviated name**: *Ulsamer* \[standard form in IPNI: *Ulsamer*\]
 
 #### Herbarium and types
 

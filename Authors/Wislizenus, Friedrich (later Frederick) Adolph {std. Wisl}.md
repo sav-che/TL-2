@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33066731) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33066731) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13022-1), [Wikidata](https://www.wikidata.org/wiki/Q1458035). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wislizenus, Friedrich \[later: Frederick\] Adolph (1810-1889), German-born (Schwarzburg-Rudolstadt/Thuringian) American traveller, physician and author; studied natural sciences at Jena, Göttingen, Zürich and Paris; to the United States in 1835; settling as country physician at Mascoutah, Illinois; travelled in the Middle West 1839; settling as physician in partnership with Georg Engelmann in St. Louis 1839; travelled to Northern Mexico and the Gulf region 1846-1847; from 1850-1852 in Europe and California, again in St. Louis from 1852. 
-**Abbreviated name**: *Wisl*
+**Abbreviated name**: *Wisl* \[standard form in IPNI: *Wisl.*\]
 
 #### Herbarium and types
 

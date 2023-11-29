@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33355251) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33355251) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12666-1), [Wikidata](https://www.wikidata.org/wiki/Q21519514). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lortet, Mme. Clémence, née Richard (1772-1835), French botanist at Lyon; pupil and botanical companion of Gilibert, one of the founders of the Société linnéenne de Lyon. 
-**Abbreviated name**: *C. Lortet*
+**Abbreviated name**: *C. Lortet* \[standard form in IPNI: *Lortet*\]
 
 #### Herbarium and types
 

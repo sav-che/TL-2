@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33333744) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33333744) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9662-1), [Wikidata](https://www.wikidata.org/wiki/Q21338250). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Simmonds, Arthur (1892-1968), British botanist, assistant horticultural superintendent, Kew 1919-1923; assistant director R.H.S. gardens Wisley 1923-1925; assistant secretary, Royal Horticultural Society 1925-1956; secretary 1956-1962. 
-**Abbreviated name**: *A. Simmonds*
+**Abbreviated name**: *A. Simmonds* \[standard form in IPNI: *A.Simmonds*\]
 
 #### Herbarium and types
 

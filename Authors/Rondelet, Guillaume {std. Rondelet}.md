@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33190348) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33190348) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8571-1), [Wikidata](https://www.wikidata.org/wiki/Q960658). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rondelet, Guillaume (1507-1566), French ichthyologist, botanist and physician; MD Montpellier 1537, practicing physician at Maringues and Montpellier; from 1545 regius profesor of medicine at Montpellier; from 1540 also personal physician to François Cardinal Tournon; chancellor of Montpellier 1556-1566. 
-**Abbreviated name**: *Rondelet*
+**Abbreviated name**: *Rondelet* \[standard form in IPNI: *Rondelet*\]
 
 #### Herbarium and types
 

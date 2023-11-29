@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-02-02 01:45:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33212466) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33212466) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12942-1), [Wikidata](https://www.wikidata.org/wiki/Q21610922). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tracy, Clarissa, née Tucker (1818-1905), American botanist; married Horace Tracy 1844, widowed 1848; operated private schools at Honesdale 1851-1856 and Neenah, Wisc. 1856-1859; matron in charge of domestic operations and teacher at Ripon College, Wisc., retired 1893. 
-**Abbreviated name**: *Cl. Tracy*
+**Abbreviated name**: *Cl. Tracy* \[standard form in IPNI: *C.Tracy*\]
 
 #### Herbarium and types
 

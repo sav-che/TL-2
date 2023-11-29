@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33066353) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33066353) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11308-1), [Wikidata](https://www.wikidata.org/wiki/Q99736256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wagner, Rudolf (1872-?), German (Baden) botanist; Dr. phil. 1895 Strassburg; assistant at the Institute for Plant Physiology, München 1896-1898; id. Botanical Institute Heidelberg 1898-1899; id. Karlsruhe 1899-1900; id. with R. v. Wettstein 1900-1901; id. Botanical Garden Vienna 1901-1903; at the regional office for Vienna of the Internationale Wissenschaftliche Bibliographie 1903-1915; "Privatgelehrter" from 1916. 
-**Abbreviated name**: *R. Wagner*
+**Abbreviated name**: *R. Wagner* \[standard form in IPNI: *R.Wagner*\]
 
 #### Herbarium and types
 

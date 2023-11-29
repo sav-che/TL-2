@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33120529) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33120529) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1262-1), [Wikidata](https://www.wikidata.org/wiki/Q3774295). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buddle, Rev. Adam (*c*. 1660-1715), English botanist, M. A. Cambridge 1685, rector of North Fambridge, Essex. 
-**Abbreviated name**: *Buddle*
+**Abbreviated name**: *Buddle* \[standard form in IPNI: *Buddle*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33068980) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33068980) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5236-1), [Wikidata](https://www.wikidata.org/wiki/Q17361894). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lambotte, Jean Baptiste Émile (1832-1905), Belgian physician and mycologist; teacher at the state teachers college of Verviers. 
-**Abbreviated name**: *Lambotte*
+**Abbreviated name**: *Lambotte* \[standard form in IPNI: *Lambotte*\]
 
 #### Herbarium and types
 

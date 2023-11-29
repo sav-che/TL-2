@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33259277) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33259277) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17968-1), [Wikidata](https://www.wikidata.org/wiki/Q3261721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Despréaux, J.M. (1794-1843), French physician and botanist, born at Fougères, France 25 Dec 1794, studied in Paris, came in the French marine, studied further medicine, went as botanist with Bory de Saint-Vincent to Morea, collected in the Canary Islands, went to Cuba 1841, Mexico 1842, died in Mexico 27 Nov 1843. 
-**Abbreviated name**: *Despr.*
+**Abbreviated name**: *Despr.* \[standard form in IPNI: *Despr.*\]
 
 #### Herbarium and types
 

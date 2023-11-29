@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33333201) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33333201) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8929-1), [Wikidata](https://www.wikidata.org/wiki/Q18155169). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sartwell, Henry Parker (1792-1867), American botanist and physician; lic. med. Oneida County Med. Soc. 1811; practicing at New Hartford, New York 1811-1812, after the 1812 war at Springfield, N.Y. and Bethel; ultimately (1832-1867) at Penn Yang, N.Y.; Dr. phil. h.c. Hamilton College, Clinton, N.Y. 1864. 
-**Abbreviated name**: *Sartwell*
+**Abbreviated name**: *Sartwell* \[standard form in IPNI: *Sartwell*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33212385) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33212385) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10655-1), [Wikidata](https://www.wikidata.org/wiki/Q21610717). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thyssen, Paul (1891-1974), German (Preuss.-Rheinland) horticulturist and bryologist; studied at the Berlin-Dahlem Gartenbauhochschule; on active service in World War I, assistant horticulturist at Köln 1922, "Gartendirector" ib. 1931. 
-**Abbreviated name**: *Thyssen*
+**Abbreviated name**: *Thyssen* \[standard form in IPNI: *Thyssen*\]
 
 #### Herbarium and types
 

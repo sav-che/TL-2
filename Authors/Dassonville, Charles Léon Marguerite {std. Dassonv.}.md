@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33259129) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33259129) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17714-1), [Wikidata](https://www.wikidata.org/wiki/Q36523797). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dassonville, Charles Léon Marguerite (1864-?), French botanist, born 20 Nov 1864 at Poitiers, Vienne, France, studied biology at Paris. 
-**Abbreviated name**: *Dassonv.*
+**Abbreviated name**: *Dassonv.* \[standard form in IPNI: *Dassonv.*\]
 
 #### Herbarium and types
 

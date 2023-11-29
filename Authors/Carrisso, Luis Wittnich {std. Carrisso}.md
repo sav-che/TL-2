@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-09-18 09:59:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266732) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266732) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1421-1), [Wikidata](https://www.wikidata.org/wiki/Q10321691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Carrisso, Luis Wittnich (1886-1937), Portuguese botanist, studied at the University of Coimbra, Dr. nat. Phil. 1911, worked some time with R. Chodat in Genève, assistant professor at Coimbra, succeeded Julio Henriques, as full professor ib. 1928, explored the botany of the Portuguese possessions, started in collaboration with the Botanical Departement of the British Museum (BM) a flora of Angola, died on a botanical mission to Angola 
-**Abbreviated name**: *Carrisso*
+**Abbreviated name**: *Carrisso* \[standard form in IPNI: *Carrisso*\]
 
 #### Herbarium and types
 

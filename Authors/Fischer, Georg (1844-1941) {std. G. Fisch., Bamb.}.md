@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33259716) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33259716) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2745-1), [Wikidata](https://www.wikidata.org/wiki/Q21513146). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fischer, Georg (1844-1941), German botanist who studied aquatic flowering plants, prof. at Lyceum in Bamberg. 
-**Abbreviated name**: *G. Fisch., Bamb.*
+**Abbreviated name**: *G. Fisch., Bamb.* \[standard form in IPNI: *G.Fisch.*\]
 
 #### Herbarium and types
 

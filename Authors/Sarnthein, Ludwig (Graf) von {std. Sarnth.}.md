@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33333158) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33333158) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8922-1), [Wikidata](https://www.wikidata.org/wiki/Q56175). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sarnthein, Ludwig (Graf) *von* (1861-1914), Transsilvania-born Austrian botanist; government administrator in Brixen, Triest (1892), Innsbruck (1905) and Ampezzo (S.Tirol) (1906), ultimately as "Bezirkshauptman" (district governor). 
-**Abbreviated name**: *Sarnth.*
+**Abbreviated name**: *Sarnth.* \[standard form in IPNI: *Sarnth.*\]
 
 #### Herbarium and types
 

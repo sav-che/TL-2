@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33333798) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33333798) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9767-1), [Wikidata](https://www.wikidata.org/wiki/Q21609068). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smirnova, Zoya \[Zoë\] Nikolayevna (1898-1979), Russian bryologist; at the Botanical Institute V.L. Komarov of the Academy of Sciences, Leningrad. 
-**Abbreviated name**: *Smirn.*
+**Abbreviated name**: *Smirn.* \[standard form in IPNI: *Smirnova*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33120292) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33120292) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/601-1), [Wikidata](https://www.wikidata.org/wiki/Q6167449). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Becker, Wilhelm {std. W. Becker} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Becker, Wilhelm (1874-1928), German teacher and botanist. 
-**Abbreviated name**: *W. Becker*
+**Abbreviated name**: *W. Becker* \[standard form in IPNI: *W.Becker*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33212215) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33212215) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10434-1), [Wikidata](https://www.wikidata.org/wiki/Q21610211). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Taschner, Christian Friedrich (1817-?), German (Thuringian) physician and botanist; Dr. med. Jena 1843; practicing physician at Eisenach, Thuringia. 
-**Abbreviated name**: *Taschner*
+**Abbreviated name**: *Taschner* \[standard form in IPNI: *Taschner*\]
 
 #### Herbarium and types
 

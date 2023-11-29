@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33333885) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33333885) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9895-1), [Wikidata](https://www.wikidata.org/wiki/Q2459283). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sonnini de Manoncour, Charles Nicolas Sigisbert (1751-1812), French naturalist and traveller; in Guyana 1772-1776; in the eastern Mediterranean area 1777-1780;judge and provincial administrator dépt. Meurthe 1793; later director of a college in Vienne. 
-**Abbreviated name**: *Sonnini*
+**Abbreviated name**: *Sonnini* \[standard form in IPNI: *Sonnini*\]
 
 #### Herbarium and types
 

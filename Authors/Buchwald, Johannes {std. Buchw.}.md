@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33266506) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33266506) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/13897-1), [Wikidata](https://www.wikidata.org/wiki/Q21506609). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buchwald, Johannes (1869-1927), German botanist, born in Berlin, educated at the Königsstädtische Gymnasium of Berlin, studied at the University of Berlin, Dr. phil. ib. 31 Oct 1894, with A. Engler in East Africa, in charge of the establishment of the Usambara research institute 1895, returned to Berlin, with the imperial State health office in Berlin, assistant with Wittmack at the Landwirtschaftliche Hochschule Berlin, from 1913 director of the Versuchsanstalt für Getreideverwertung, died on a visit to North America. 
-**Abbreviated name**: *Buchw.*
+**Abbreviated name**: *Buchw.* \[standard form in IPNI: *Buchw.*\]
 
 #### Herbarium and types
 

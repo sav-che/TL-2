@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-07-26 12:24:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33266172) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33266172) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1909-1), [Wikidata](https://www.wikidata.org/wiki/Q21509617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cugnac, Antoine de (1895-?), French botanist, born 20 Jul 1895 at La Rochelle, at the École speciale militaire de Saint Cyr Jul 1914, in the 113ème Régiment d’Infanterie Aug 1914, invalidated 100% 1919, licencié-ès-sciences naturelles, Paris 1922, assistant Fac. Sciences, Paris 1927, Dr. ès Sci. 1930, chaire d’agriculture Conserv. natl. Arts Métiers 1937, maître de recherches 1941. 
-**Abbreviated name**: *Cugnac*
+**Abbreviated name**: *Cugnac* \[standard form in IPNI: *Cugnac*\]
 
 #### Herbarium and types
 

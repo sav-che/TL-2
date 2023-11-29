@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33068432) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33068432) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3928-1), [Wikidata](https://www.wikidata.org/wiki/Q21515782). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hick, Thomas (1840-1896), British botanist who studied and lectured (1861-1876) at the Lancasterian School at Leeds; from 1876-1886 science master at Pannall College, Harrogate, 1886-1896 lecturer at Owens College, Manchester. 
-**Abbreviated name**: *Hick*
+**Abbreviated name**: *Hick* \[standard form in IPNI: *Hick*\]
 
 #### Herbarium and types
 

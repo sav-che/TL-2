@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33066783) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33066783) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11854-1), [Wikidata](https://www.wikidata.org/wiki/Q21612970). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Woodhead, Thomas William (1863-1940), British ecologist; Dr. phil. Zürich 1906; lecturer Huddersfield Technical College 1891; later head of the Biological Dept. ib. 
-**Abbreviated name**: *T.W. Woodhead*
+**Abbreviated name**: *T.W. Woodhead* \[standard form in IPNI: *T.W.Woodhead*\]
 
 #### Herbarium and types
 

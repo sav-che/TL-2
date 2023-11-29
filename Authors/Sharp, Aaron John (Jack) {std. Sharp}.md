@@ -28,14 +28,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33333690) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33333690) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9544-1), [Wikidata](https://www.wikidata.org/wiki/Q21339496). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sharp, Aaron John \["Jack"\] (1904-x), American botanist; MS Univ. Oklahoma 1929; Dr. phil. Ohio State Univ. 1938; instructor in botany, University of Tennessee 1929-1937; professor of botany ib. 1937-1965; alumni distinguished service professor 1965-x; curator of the herbarium 1949-1967. 
-**Abbreviated name**: *Sharp*
+**Abbreviated name**: *Sharp* \[standard form in IPNI: *Sharp*\]
 
 #### Herbarium and types
 

@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33120198) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33120198) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/281-1), [Wikidata](https://www.wikidata.org/wiki/Q730292). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arnott, George Arnott (sometimes Arnold) Walker {std. Arnott} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Arnott, George Arnott \[sometimes: Arnold\] Walker (1799-1868), Scottish botanist. 
-**Abbreviated name**: *Arnott*
+**Abbreviated name**: *Arnott* \[standard form in IPNI: *Arn.*\]
 
 #### Herbarium and types
 

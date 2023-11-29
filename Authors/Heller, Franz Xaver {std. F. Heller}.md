@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33068390) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33068390) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3809-1), [Wikidata](https://www.wikidata.org/wiki/Q15989569). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Heller, Franz Xaver (1775-1840), German botanist; Dr. med. Würzburg 1800; from 1803 extra-ordinary, from 1805 regular professor of botany at Würzburg University. 
-**Abbreviated name**: *F. Heller*
+**Abbreviated name**: *F. Heller* \[standard form in IPNI: *F.Heller*\]
 
 #### Herbarium and types
 

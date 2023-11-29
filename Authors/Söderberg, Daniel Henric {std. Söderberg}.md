@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33333856) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33333856) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9852-1), [Wikidata](https://www.wikidata.org/wiki/Q5798433). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Söderberg, Daniel Henric (1750-1781), Swedish physician and botanist; student in Uppsala (1767, with Linnaeus) and Lund (1772); Dr. med. Lund 1778; physician at Eskilstuna. 
-**Abbreviated name**: *Söderberg*
+**Abbreviated name**: *Söderberg* \[standard form in IPNI: *Söderb.*\]
 
 #### Herbarium and types
 

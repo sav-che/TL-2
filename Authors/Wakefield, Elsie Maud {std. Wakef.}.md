@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33066364) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33066364) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11323-1), [Wikidata](https://www.wikidata.org/wiki/Q5367615). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wakefield, Elsie Maud (1886-1972), British botanist (mycologist); studied at Oxford and München (with Tubeuf); assistant Herbarium, Royal Botanic Gardens Kew 1910; temporarily mycologist at Imp. Dept. Agric. W. Indies, Barbados 1920-1921 while Mary Ewart Travelling Scholar; deputy keeper Kew 1945-1951. 
-**Abbreviated name**: *Wakef.*
+**Abbreviated name**: *Wakef.* \[standard form in IPNI: *Wakef.*\]
 
 #### Herbarium and types
 

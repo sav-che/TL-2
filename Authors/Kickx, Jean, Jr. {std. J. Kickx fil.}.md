@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33068776) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33068776) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12605-1), [Wikidata](https://www.wikidata.org/wiki/Q1685616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kickx, Jean, Jr. (1803-1864), Belgian botanist and malacologist, son of Jean Kickx (1775-1831); Ph. D. Leuven 1830; professor of botany at Brussels 1831-1835, at Gent 1835-1864; one of the founders of the Société de Botanique de Belgique. 
-**Abbreviated name**: *J. Kickx fil.*
+**Abbreviated name**: *J. Kickx fil.* \[standard form in IPNI: *J.Kickx f.*\]
 
 #### Herbarium and types
 

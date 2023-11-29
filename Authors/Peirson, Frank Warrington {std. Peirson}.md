@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33189617) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33189617) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7470-1), [Wikidata](https://www.wikidata.org/wiki/Q4363492). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Peirson, Frank Warrington (1865-1951), American botanist and plant collector, from 1902 realtor at Altadena, Calif.; AB Haverford 1889, AM ib. 1890; plant collector in the Pacific States. 
-**Abbreviated name**: *Peirson*
+**Abbreviated name**: *Peirson* \[standard form in IPNI: *Peirson*\]
 
 #### Herbarium and types
 

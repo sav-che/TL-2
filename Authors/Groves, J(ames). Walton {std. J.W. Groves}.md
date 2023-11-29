@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33258904) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33258904) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19684-1), [Wikidata](https://www.wikidata.org/wiki/Q21389009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Groves, J\[ames\]. Walton (1906-1970), Canadian mycologist, born 18 Oct 1906 in Kinburn, Ontario, graduated from Ottawa Normal School, taught public school in Ottawa 1926-1928, B.A. 1930 Queens' Univ., Kingston, Ontario, M.A. 1932 and Ph.D. 1935 Univ. of Toronto, mycologist, Dept. of Agriculture, Ottawa 1936-1970, incl. chief, Mycology Sect. 1951-1967, Fellow Royal Soc. Canada 1951, founding member I.A.P.T. and served on special committee on Fungi and Lichens 1950-1970, died 6 Mai 1970 in Ottawa. 
-**Abbreviated name**: *J.W. Groves*
+**Abbreviated name**: *J.W. Groves* \[standard form in IPNI: *J.W.Groves*\]
 
 #### Herbarium and types
 

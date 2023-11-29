@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33264750) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33264750) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/68-1), [Wikidata](https://www.wikidata.org/wiki/Q3436355). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 \* Adamson, Robert Stephen (1885-1965), British botanist, educated Kelvinside Academy, Glasgow, studied at Univ. Edinburgh 1902-1907 (M.A. and D.Sc.), at Emmanuel College, Cambridge 1907-1912, M.A. Cant. 1912, lecturer at Manchester Univ. 1907-1923, second Harry Bolus Professor at Cape Town University 1923-1950, retired 1950 and settled again in Great Britain 1955. 
-**Abbreviated name**: *Adamson*
+**Abbreviated name**: *Adamson* \[standard form in IPNI: *Adamson*\]
 
 #### Herbarium and types
 

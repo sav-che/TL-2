@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33355890) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33355890) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7083-1), [Wikidata](https://www.wikidata.org/wiki/Q21522296). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 O'Connor, Patrick (1889-1969), Irish botanist; Ph. D. Dublin 1929; keeper, natural history division, National Museum of Ireland (1929). 
-**Abbreviated name**: *O'Connor*
+**Abbreviated name**: *O'Connor* \[standard form in IPNI: *O'Connor*\]
 
 #### Herbarium and types
 

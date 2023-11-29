@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33120341) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33120341) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/755-1), [Wikidata](https://www.wikidata.org/wiki/Q21506055). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Beyschlag, Franz Heinrich August (1856-?), German palaeobiologist. 
-**Abbreviated name**: *Beyschlag*
+**Abbreviated name**: *Beyschlag* \[standard form in IPNI: *Beyschl.*\]
 
 #### Collections
 

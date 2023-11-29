@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33333514) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33333514) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9295-1), [Wikidata](https://www.wikidata.org/wiki/Q36557351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schultz, Franz Johann (*fl*. 1785-1847), Austrian botanist and artist. 
-**Abbreviated name**: *F.J. Schultz*
+**Abbreviated name**: *F.J. Schultz* \[standard form in IPNI: *F.J.Schultz*\]
 
 #### Herbarium and types
 

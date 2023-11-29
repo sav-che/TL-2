@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33355233) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33355233) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5714-1), [Wikidata](https://www.wikidata.org/wiki/Q8209021). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Loher, August (x-1930), German botanist; wholesale dealer in pharmaceuticals; from 1889 resident in the Philippines. 
-**Abbreviated name**: *Loher*
+**Abbreviated name**: *Loher* \[standard form in IPNI: *Loher*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33120222) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33120222) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/31179-1), [Wikidata](https://www.wikidata.org/wiki/Q9010691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bagnall, James Eustace {std. Bagn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bagnall, James Eustace (1830-1918), British bryologist. 
-**Abbreviated name**: *Bagn.*
+**Abbreviated name**: *Bagn.* \[standard form in IPNI: *Bagn.*\]
 
 #### Herbarium and types
 

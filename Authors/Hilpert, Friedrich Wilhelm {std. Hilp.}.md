@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33068448) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33068448) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3953-1), [Wikidata](https://www.wikidata.org/wiki/Q19410338). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hilpert, Friedrich Wilhelm (1907-X), German botanist; pupil of Herzog; educated at München (1929-1930) and Jena (1930-1933). 
-**Abbreviated name**: *Hilp.*
+**Abbreviated name**: *Hilp.* \[standard form in IPNI: *Hilp.*\]
 
 #### Herbarium and types
 

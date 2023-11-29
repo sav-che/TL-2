@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33190040) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33190040) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8120-1), [Wikidata](https://www.wikidata.org/wiki/Q3060130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rambert, Eugène (1810-1886), Swiss literary critic and amateur botanist. 
-**Abbreviated name**: *Rambert*
+**Abbreviated name**: *Rambert* \[standard form in IPNI: *Rambert*\]
 
 #### Herbarium and types
 

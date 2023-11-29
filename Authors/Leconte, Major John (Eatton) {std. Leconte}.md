@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/page/33069024) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 782](https://www.biodiversitylibrary.org/page/33069024) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5390-1), [Wikidata](https://www.wikidata.org/wiki/Q1376182). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leconte, Major John \[Eatton\] (1784-1860), American topographical engineer, soldier, botanical and entomological collector, author and artist. 
-**Abbreviated name**: *Leconte*
+**Abbreviated name**: *Leconte* \[standard form in IPNI: *Leconte*\]
 
 #### Herbarium and types
 

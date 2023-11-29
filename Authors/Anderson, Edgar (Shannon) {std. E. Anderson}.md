@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33264835) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33264835) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/191-1), [Wikidata](https://www.wikidata.org/wiki/Q2411272). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Anderson, Edgar \[Shannon\], (1897-1969), American biosystematist and geneticist, studied at Michigan Agricultural College \[h.t. State Univ.\], and at Harvard University, at Bussey Institution 1919-1922, Dr. Sc. Harvard 1922, with the Missouri Botanical Garden and the Henry Shaw School of Botany, Washington University, St. Louis 1922, studied at the John Innes Institution (England) 1929-1930 with J.B.S. Haldane and R.A. Fisher, returned to St. Louis 1930, "Arborist" at the Arnold Arboretum, Jamaica Plain, Mass. 1930-1935; from 1935 definitively at the Missouri Botanical Garden, 1954-1957 as director. 
-**Abbreviated name**: *E. Anderson*
+**Abbreviated name**: *E. Anderson* \[standard form in IPNI: *E.S.Anderson*\]
 
 #### Herbarium and types
 

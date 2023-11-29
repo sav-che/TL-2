@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33355684) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33355684) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6683-1), [Wikidata](https://www.wikidata.org/wiki/Q21521765). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mortensen, Morten Larsen (1881-1911), Danish botanist and phytopathologist. 
-**Abbreviated name**: *M. Mortensen*
+**Abbreviated name**: *M. Mortensen* \[standard form in IPNI: *M.Mort.*\]
 
 #### Herbarium and types
 

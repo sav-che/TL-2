@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33212330) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33212330) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10622-1), [Wikidata](https://www.wikidata.org/wiki/Q3083161). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thornier, Franz (1863-1928), Austrian botanist; studied natural sciences in Vienna and Berlin; scientist of private means in Dresden 1887-1902, in Vienna 1903-1920, in Prague (Smichov) 1920-1928; travelled in the Belgian Congo 1896 and 1909. 
-**Abbreviated name**: *Thonner*
+**Abbreviated name**: *Thonner* \[standard form in IPNI: *Thonner*\]
 
 #### Herbarium and types
 

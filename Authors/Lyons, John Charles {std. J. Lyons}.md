@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33355292) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33355292) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5872-1), [Wikidata](https://www.wikidata.org/wiki/Q18731332). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lyons, John Charles (1792-1874), British botanist and orchid grower at Ladiston. 
-**Abbreviated name**: *J. Lyons*
+**Abbreviated name**: *J. Lyons* \[standard form in IPNI: *J.Lyons*\]
 
 #### Herbarium and types
 

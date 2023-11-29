@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33266034) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33266034) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/4373-1), [Wikidata](https://www.wikidata.org/wiki/Q21509049). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 \* Cordemoy, Hubert Louis Philippe Eugène Jacob de (1866-1927), French physician and botanist, born at Réunion, teacher at the "École de plein exercice de médecine et de pharmacie" and "chef des travaux pratiques de botanique à la Faculté des Sciences de Marseille". 
-**Abbreviated name**: *H.L. Cordem.*
+**Abbreviated name**: *H.L. Cordem.* \[standard form in IPNI: *H.L.Cordem.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33355361) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33355361) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22841-1), [Wikidata](https://www.wikidata.org/wiki/Q21519887). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Maneval, Willis Edgar (1877-1956), American mycologist; Ph. D. Johns Hopkins 1912; at the University of Missouri, Columbia, 1915-1947. 
-**Abbreviated name**: *Maneval*
+**Abbreviated name**: *Maneval* \[standard form in IPNI: *Maneval*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33264719) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33264719) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/74-1), [Wikidata](https://www.wikidata.org/wiki/Q5542908). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Adlerz, Ernst {std. Adlerz}|first entry]] for this author
 
 ### Author
 
 \* Adlerz, Ernst (1854-1918), Swedish botanist (bryologist) and teacher, educated at Linköping and Uppsala, fil. kand. Uppsala 1878, fil. lic. 1881, fil. dr. 1882, lecturer natural history and chemistry at a highschool in Örebro from 1885. 
-**Abbreviated name**: *Adlerz*
+**Abbreviated name**: *Adlerz* \[standard form in IPNI: *Adlerz*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33068411) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33068411) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3870-1), [Wikidata](https://www.wikidata.org/wiki/Q36591553). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hergt, Johann Ludwig (*fl*. 1822), German botanist at Hadamar. 
-**Abbreviated name**: *Hergt*
+**Abbreviated name**: *Hergt* \[standard form in IPNI: *Hergt*\]
 
 #### Herbarium and types
 

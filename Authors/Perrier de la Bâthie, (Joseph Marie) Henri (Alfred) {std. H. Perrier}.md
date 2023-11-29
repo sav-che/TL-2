@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33189642) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33189642) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7533-1), [Wikidata](https://www.wikidata.org/wiki/Q2564623). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Perrier de la Bâthie, \[Joseph Marie\] Henri \[Alfred\] (1873-1958), French botanist; nephew of E. Perrier; soldier in Indochina (Tonkin), from 1896-1933 living in Madagascar (1914-1918 in the French army in Europe), later in Paris. 
-**Abbreviated name**: *H. Perrier*
+**Abbreviated name**: *H. Perrier* \[standard form in IPNI: *H.Perrier*\]
 
 #### Herbarium and types
 

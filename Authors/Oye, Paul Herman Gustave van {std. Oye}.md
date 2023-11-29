@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33355954) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33355954) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7221-1), [Wikidata](https://www.wikidata.org/wiki/Q21522490). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Oye, Paul Herman Gustave van (1886-1969), Belgian zoologist, hydrobiologist and botanist at Gent; Dr. phil. Gent 1911, MD. Gent 1924; at the Tasikmalaya fisheries station (Java) 1918-1922; professor of zoology at the State University of Gent 1926-1956; president of Dodonaea 1937-1969; specialist on Desmidiaceae and history of botany. 
-**Abbreviated name**: *Oye*
+**Abbreviated name**: *Oye* \[standard form in IPNI: *Oye*\]
 
 #### Herbarium and types
 

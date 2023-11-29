@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33066603) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33066603) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13012-1), [Wikidata](https://www.wikidata.org/wiki/Q90016). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wiegmann, Arend \[Joachim\] Friedrich (1770-1853), German (Schleswig) pharmacist; pharmaceutical training in Braunschweig 1784-1788; assistant pharmacist Blankenburg 1788-1789; id. in various other places 1789-1794; in charge of his uncle's pharmacy in Braunschweig 1796-1820; "Privatdozent" for natural sciences at a college in Braunschweig from 1821; Dr. med. h.c. Marburg 1832; professor's title 1832; follower of F. Unger on the origin of life; early plant hybridiser. 
-**Abbreviated name**: *Wiegmann*
+**Abbreviated name**: *Wiegmann* \[standard form in IPNI: *Wiegmann*\]
 
 #### Herbarium and types
 

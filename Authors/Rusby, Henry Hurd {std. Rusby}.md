@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 997](https://www.biodiversitylibrary.org/page/33190468) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 997](https://www.biodiversitylibrary.org/page/33190468) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8747-1), [Wikidata](https://www.wikidata.org/wiki/Q2611285). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rusby, Henry Hurd (1855-1940), American botanist, physician and plant explorer; collected in New Mexico and Arizona before going to medical school; Dr. med. New York 1884; to South America for Parke-Davis Co. in search of cocaine in Bolivia and Peru and subsequently crossing the Amazon region from west to east 1884-1886; professor of botany and materia medica, New York College of Pharmacy (the later Dept. Pharmacy, Columbia Univ.) 1888-1905; dean of the faculty ib. 1905-1933; dean emeritus 1933-1940; one of the incorporators of the New York Botanical Garden and associated with it from its organization in 1898; curator of economic collections 1900-1911; honorary curator id. 1912-1940; member of the board of scientific directors 1900-1933; in later years travelling in Venezuela, Columbia, Mexico and again in Brazil, as well as throughout the United States; intrepid collector, "always... an amazing story to tell,... always in trouble". 
-**Abbreviated name**: *Rusby*
+**Abbreviated name**: *Rusby* \[standard form in IPNI: *Rusby*\]
 
 #### Herbarium and types
 

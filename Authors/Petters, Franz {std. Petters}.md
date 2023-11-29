@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33189683) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33189683) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7601-1), [Wikidata](https://www.wikidata.org/wiki/Q21522914). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petters, Franz (1784-1866), Bohemian botanist and clergyman; ordin. 1807; in various clergical positions at Schönwalde and Kratzau (Kragau); correspondent of Opiz. 
-**Abbreviated name**: *Petters*
+**Abbreviated name**: *Petters* \[standard form in IPNI: *Petters*\]
 
 #### Herbarium and types
 

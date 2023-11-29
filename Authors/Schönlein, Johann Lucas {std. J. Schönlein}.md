@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33333430) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33333430) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9220-1), [Wikidata](https://www.wikidata.org/wiki/Q61678). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schönlein, Johann Lucas (1793-1864), German (Bavarian) physician and palaeobotanist; studied natural sciences and medicine at Landshut and Würzburg; Dr. med. 1816; lecturer in pathological anatomy at Würzburg 1817-1824, provisional head (1819), subs, head (1824) of the medical clinic of the Julius Hospital; regular professor of medicine 1824-1833, id. at Zürich (1833-1839) and Berlin 1839-1859; first physician in ordinary to the King of Prussia. 
-**Abbreviated name**: *J. Schönlein*
+**Abbreviated name**: *J. Schönlein* \[standard form in IPNI: *Schönl.*\]
 
 #### Herbarium and types
 

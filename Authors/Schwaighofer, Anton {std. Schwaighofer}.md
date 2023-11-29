@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33333558) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33333558) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9348-1), [Wikidata](https://www.wikidata.org/wiki/Q36510280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwaighofer, Anton (*fl*. 1892), Austrian botanist. 
-**Abbreviated name**: *Schwaighofer*
+**Abbreviated name**: *Schwaighofer* \[standard form in IPNI: *Schwaigh.*\]
 
 #### Herbarium and types
 

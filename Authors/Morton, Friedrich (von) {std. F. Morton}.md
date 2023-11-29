@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33355686) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33355686) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6686-1), [Wikidata](https://www.wikidata.org/wiki/Q90100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morton, Friedrich \[von\] (1890-1969), Austrian botanist; Dr. phil. Wien 1916; high school teacher at Wien; from 1925 curator at the Botanical Station of Hallstatt. 
-**Abbreviated name**: *F. Morton*
+**Abbreviated name**: *F. Morton* \[standard form in IPNI: *F.Morton*\]
 
 #### Herbarium and types
 

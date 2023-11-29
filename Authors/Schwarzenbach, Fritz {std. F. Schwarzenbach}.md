@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33333565) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33333565) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9358-1), [Wikidata](https://www.wikidata.org/wiki/Q21608534). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwarzenbach, Fritz (1894-x), Swiss botanist and high school teacher; Dr. phil. Zürich 1922. 
-**Abbreviated name**: *F. Schwarzenbach*
+**Abbreviated name**: *F. Schwarzenbach* \[standard form in IPNI: *F.Schwarzenb.*\]
 
 #### Herbarium and types
 

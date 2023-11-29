@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 958](https://www.biodiversitylibrary.org/page/33190429) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 958](https://www.biodiversitylibrary.org/page/33190429) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8683-1), [Wikidata](https://www.wikidata.org/wiki/Q21607497). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roy, John (1826-1893), Scottish botanist (desmidiologist); educated in the Normal College of the Church of Scotland, Edinburgh; school teacher at Brackmuirhill and at Old Bridge of Don nr. Aberdeen; from 1863 in charge of the Skene Square Public School at Aberdeen; LL.D.h.c. Aberdeen 1889. 
-**Abbreviated name**: *Roy*
+**Abbreviated name**: *Roy* \[standard form in IPNI: *J.Roy*\]
 
 #### Herbarium and types
 

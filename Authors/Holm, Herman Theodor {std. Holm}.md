@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33068500) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33068500) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4046-1), [Wikidata](https://www.wikidata.org/wiki/Q7781460). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Holm, Herman Theodor (1854-1932), Danish born botanist; pupil of Warming; on the Denmark North Polar Expedition (1882-1884); settled in the U.S.A. in 1888; at the U.S. National Museum 1888-1893; pathologist in the U.S.D.A. 1893-1897; later associated with the Catholic University (LCU). 
-**Abbreviated name**: *Holm*
+**Abbreviated name**: *Holm* \[standard form in IPNI: *Holm*\]
 
 #### Herbarium and types
 

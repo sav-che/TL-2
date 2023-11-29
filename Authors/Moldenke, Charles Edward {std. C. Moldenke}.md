@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33355633) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33355633) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6569-1), [Wikidata](https://www.wikidata.org/wiki/Q5077288). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moldenke, Charles Edward (1860-1935), German-born American clergyman, egyptologist and botanist; emigrated to U.S. in early youth; B. A. Columbia college 1879, M. A. id. 1883; Dr. phil Strasbourg 1886; ordained 7 Oct 1885; pastor at Jersey City 1885-1890; in New York City 1890-1896, at Mt. Vernon 1897-1909; retired 1909 to Watchung, N.J. to engage in travelling and private study. 
-**Abbreviated name**: *C. Moldenke*
+**Abbreviated name**: *C. Moldenke* \[standard form in IPNI: *C.Moldenke*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33333297) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33333297) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9080-1), [Wikidata](https://www.wikidata.org/wiki/Q47125727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schiller, Eduard (*fl*. 1886), German physician and botanist at Breslau. 
-**Abbreviated name**: *E. Schiller*
+**Abbreviated name**: *E. Schiller* \[standard form in IPNI: *E.Schiller*\]
 
 #### Herbarium and types
 

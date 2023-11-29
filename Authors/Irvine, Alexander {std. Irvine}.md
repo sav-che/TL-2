@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33068630) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33068630) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4309-1), [Wikidata](https://www.wikidata.org/wiki/Q18670678). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Irvine, Alexander (1793-1873), Scottish schoolmaster; educated at Aberdeen University; from 1851 at Chelsea. 
-**Abbreviated name**: *Irvine*
+**Abbreviated name**: *Irvine* \[standard form in IPNI: *Irvine*\]
 
 #### Herbarium and types
 

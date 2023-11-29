@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33068668) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33068668) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4440-1), [Wikidata](https://www.wikidata.org/wiki/Q3619721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jatta, Antonio (1852-1912), Italian lichenologist. 
-**Abbreviated name**: *Jatta*
+**Abbreviated name**: *Jatta* \[standard form in IPNI: *Jatta*\]
 
 #### Herbarium and types
 

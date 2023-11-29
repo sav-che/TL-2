@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33189485) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33189485) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7325-1), [Wikidata](https://www.wikidata.org/wiki/Q18545180). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Papp, Constantin (1896-1972), Roumanian botanist; Dr. phil. Iasi 1926; in various functions at Iasi University 1920-1964. 
-**Abbreviated name**: *Papp*
+**Abbreviated name**: *Papp* \[standard form in IPNI: *Papp*\]
 
 #### Herbarium and types
 

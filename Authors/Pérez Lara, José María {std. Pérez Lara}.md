@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33189635) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33189635) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7512-1), [Wikidata](https://www.wikidata.org/wiki/Q5943370). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pérez Lara, José María (1841-1918), Spanish botanist, studied at Sevilla; B.A. 1862; expelled from the University 1863; henceforth living on his ample private means at Jerez. 
-**Abbreviated name**: *Pérez Lara*
+**Abbreviated name**: *Pérez Lara* \[standard form in IPNI: *Pérez Lara*\]
 
 #### Herbarium and types
 

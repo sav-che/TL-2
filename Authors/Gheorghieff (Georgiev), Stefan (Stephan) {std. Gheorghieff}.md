@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33258671) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33258671) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3095-1), [Wikidata](https://www.wikidata.org/wiki/Q12295170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gheorghieff \[Georgiev\], Stefan \[Stephan\] (1859-1900), Russian-born Bulgarian botanist, born 1 Aug 1859 in Bolgrad (Bessarabia), entered Prague Univ. in 1881, Leipzig in 1883, Ph.D. 1887 Leipzig, prof. of botany, Sofia Univ., died 22 Mai 1900 in Sofia (Görbersdorf). 
-**Abbreviated name**: *Gheorghieff*
+**Abbreviated name**: *Gheorghieff* \[standard form in IPNI: *Georgiev*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 542](https://www.biodiversitylibrary.org/page/33068784) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 542](https://www.biodiversitylibrary.org/page/33068784) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4795-1), [Wikidata](https://www.wikidata.org/wiki/Q1992294). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kindberg, Nils Conrad (1832-1910), Swedish bryologist; Dr. phil. Uppsala 1857; High school teacher at Linköping (1862-1901). 
-**Abbreviated name**: *Kindb.*
+**Abbreviated name**: *Kindb.* \[standard form in IPNI: *Kindb.*\]
 
 #### Herbarium and types
 

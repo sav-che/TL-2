@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33120298) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33120298) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/15887-1), [Wikidata](https://www.wikidata.org/wiki/Q3658812). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Beilschmied, Carl (Karl) Traugott {std. Beilschm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Beilschmied, Carl \[Karl\] Traugott (1793-1848), German botanist and apothecary at Ohlau. 
-**Abbreviated name**: *Beilschm.*
+**Abbreviated name**: *Beilschm.* \[standard form in IPNI: *Beilschm.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33068738) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33068738) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4645-1), [Wikidata](https://www.wikidata.org/wiki/Q97066). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kappler, August (1815-1887), German soldier and naturalist; from 1836-1879 in Suriname and the West Indies; travelled around the world in 1883; the most important author on Suriname of the mid-nineteenth century. 
-**Abbreviated name**: *Kappl.*
+**Abbreviated name**: *Kappl.* \[standard form in IPNI: *Kappl.*\]
 
 #### Herbarium and types
 

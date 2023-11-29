@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33333797) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33333797) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9762-1), [Wikidata](https://www.wikidata.org/wiki/Q21341021). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smiley, Frank Jason (1880-?), American botanist; A.B. Stanford 1913; Dr. phil. Harvard 1917; assistant for botany Stanford 1913-1914, id. Gray Herbarium, Harvard 1915; instructor in botany Univ. California, Berkeley 1915-1916; asst. prof. economic botany ib. 1919-1920; also asst. prof. botany at Occidental College 1916-1919, regular prof. 1920-1945. 
-**Abbreviated name**: *Smiley*
+**Abbreviated name**: *Smiley* \[standard form in IPNI: *Smiley*\]
 
 #### Herbarium and types
 

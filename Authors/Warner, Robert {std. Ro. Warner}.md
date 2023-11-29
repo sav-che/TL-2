@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33066422) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33066422) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11413-1), [Wikidata](https://www.wikidata.org/wiki/Q2885507). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Warner, Robert (c. 1815-1896), British orchid grower at Chelmsford. 
-**Abbreviated name**: *Ro. Warner*
+**Abbreviated name**: *Ro. Warner* \[standard form in IPNI: *R.Warner*\]
 
 #### Herbarium and types
 

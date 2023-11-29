@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/page/33120803) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/page/33120803) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2274-1), [Wikidata](https://www.wikidata.org/wiki/Q36501058). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Donkin, Arthur Scott, (*fl*. 1858-1873), British diatomologist and lecturer in medical jurisprudence at Durham. 
-**Abbreviated name**: *Donkin*
+**Abbreviated name**: *Donkin* \[standard form in IPNI: *Donkin*\]
 
 #### Collections
 

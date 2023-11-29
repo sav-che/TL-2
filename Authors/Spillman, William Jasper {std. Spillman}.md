@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/page/33333930) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/page/33333930) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9971-1), [Wikidata](https://www.wikidata.org/wiki/Q8013515). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spillman, William Jasper (1863-1931), American botanist and geneticist; BS. Univ. Missouri 1886; MS. ib. 1889; Dr. sci. Temple Univ., Philadelphia 1890; professor of agriculture at the Washington State Experimental Station, Pullman 1894-1901; agrostologist at the Bureau of Plant Industry, USDA, Washington, D.C. from 1902-1915; from 1915 in various other functions at USDA, from 1928 principal agricultural economist; originator of the first hybrid wheats grown in the U.S. 
-**Abbreviated name**: *Spillman*
+**Abbreviated name**: *Spillman* \[standard form in IPNI: *Spillman*\]
 
 #### Herbarium and types
 

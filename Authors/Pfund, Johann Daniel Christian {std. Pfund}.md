@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33189700) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33189700) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7627-1), [Wikidata](https://www.wikidata.org/wiki/Q21522934). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pfund, Johann Daniel Christian (1813-1876), German botanist; born in Hamburg; practicing physician in Prague, from 1842-1845 also custos at PR; later physician in Alexandria, Egypt; collected in the Nile valley; died on a trip to Nubia, Kordofan and Darfur 1874-1876. 
-**Abbreviated name**: *Pfund*
+**Abbreviated name**: *Pfund* \[standard form in IPNI: *Pfund*\]
 
 #### Herbarium and types
 

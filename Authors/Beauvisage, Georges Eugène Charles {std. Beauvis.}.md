@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33265205) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33265205) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/591-1), [Wikidata](https://www.wikidata.org/wiki/Q3102691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Beauvisage, Georges Eugène Charles (1852-1925), French medical botanist; employed with the "Caisses des Dépôts et Consignations" 1869-1875, Paris, Dr. med. Paris 1881, lecturer at the Medical and Pharmaceutical Faculty at Lyon 1883, teaching botany; set up a botanical garden 1887, professor h.c. at this faculty 1903; alderman at Lyon from 1895, member of the senate of the Dépt. du Rhône. 
-**Abbreviated name**: *Beauvis.*
+**Abbreviated name**: *Beauvis.* \[standard form in IPNI: *Beauvis.*\]
 
 #### Herbarium and types
 

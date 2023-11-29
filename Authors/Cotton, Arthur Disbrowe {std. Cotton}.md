@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33266085) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33266085) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1833-1), [Wikidata](https://www.wikidata.org/wiki/Q4798468). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cotton, Arthur Disbrowe (1879-1962), British botanist, born in London, early education at King's College School, London, attended courses at Chelsea Physic Garden, took botany at the Royal College of Science, London, assistant with John Farmer at the Owen College, Manchester, assistant at the Kew Herbarium 1903, from 1904 in the cryptogamic section, asst. 1. class 1915 in Charge of mycology, later at a new laboratory at Harpenden (Herts.), keeper of Kew Royal Botanic Gardens 1922-1946. 
-**Abbreviated name**: *Cotton*
+**Abbreviated name**: *Cotton* \[standard form in IPNI: *Cotton*\]
 
 #### Herbarium and types
 

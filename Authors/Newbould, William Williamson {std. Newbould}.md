@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33355822) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33355822) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6946-1), [Wikidata](https://www.wikidata.org/wiki/Q18736114). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Newbould, William Williamson (1819-1886), British botanist and clergyman; BA Cantab 1842; Curate Bluntisham, Hunts, 1845; id. Camberton, Cambr. 1846; later living at Turnham Green and Kew. 
-**Abbreviated name**: *Newbould*
+**Abbreviated name**: *Newbould* \[standard form in IPNI: *Newbould*\]
 
 #### Herbarium and types
 

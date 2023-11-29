@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 925](https://www.biodiversitylibrary.org/page/33334064) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 925](https://www.biodiversitylibrary.org/page/33334064) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10143-1), [Wikidata](https://www.wikidata.org/wiki/Q250148). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steyermark, Julian Alfred (1909-x), American botanist and botanical explorer; studied at Washington University, St. Louis, AB 1929; Dr. phil. 1933; with the Missouri botanical Garden 1934-1935; with the Field Museum of Natural history 1937-1958 (asst. cur. 1937, assoc. cur. 1948, cur. 1950); at the Instituto botanico Caracas, Venezuela from 1959-1984; research associate Missouri botanical Garden 1984. 
-**Abbreviated name**: *Steyerm.*
+**Abbreviated name**: *Steyerm.* \[standard form in IPNI: *Steyerm.*\]
 
 #### Herbarium and types
 

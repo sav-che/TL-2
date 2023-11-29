@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33190246) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33190246) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8366-1), [Wikidata](https://www.wikidata.org/wiki/Q21607196). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Richter, Berthold (1834-?), German (Silesian) botanist; Dr. med. Breslau 1860. 
-**Abbreviated name**: *B. Richt.*
+**Abbreviated name**: *B. Richt.* \[standard form in IPNI: *B.Richt.*\]
 
 #### Herbarium and types
 

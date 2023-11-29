@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-03-15 08:18:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33068603) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33068603) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4219-1), [Wikidata](https://www.wikidata.org/wiki/Q380741). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hultén, Eric Oskar Gunnar (1894-x), Swedish explorer and botanist; specialist on the flora of N. E. Asia and on the distribution of arctic and boreal plants; explorer of Alaska, Yukon and N. E. Asia. 
-**Abbreviated name**: *Hultén*
+**Abbreviated name**: *Hultén* \[standard form in IPNI: *Hultén*\]
 
 #### Herbarium and types
 

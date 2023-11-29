@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33333417) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33333417) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9200-1), [Wikidata](https://www.wikidata.org/wiki/Q3568233). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schneider, Wilhelm Gottlieb (1814-1889), German (Silesian) mycologist and entomologist; Dr. phil. Breslau 1843; private scientist dedicating himself to entomology from 1843 and to mycology from 1864. 
-**Abbreviated name**: *W.G. Schneid.*
+**Abbreviated name**: *W.G. Schneid.* \[standard form in IPNI: *W.G.Schneid.*\]
 
 #### Herbarium and types
 

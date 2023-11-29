@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/page/33355773) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/page/33355773) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6841-1), [Wikidata](https://www.wikidata.org/wiki/Q36506671). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nairne, Alexander Kyd (*fl*. 1880s), British botanist; clergyman in the Bombay Civil Service 
-**Abbreviated name**: *Nairne*
+**Abbreviated name**: *Nairne* \[standard form in IPNI: *Nairne*\]
 
 #### Herbarium and types
 

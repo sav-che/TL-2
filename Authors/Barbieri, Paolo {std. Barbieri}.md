@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33265048) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33265048) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/34859-1), [Wikidata](https://www.wikidata.org/wiki/Q21505649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Barbieri, Paolo (1789-1875), Italian botanist, curator of the botanical garden of Mantua, later id. in Pavia, professor of botany and agriculture at the Lyceum in Mantua. 
-**Abbreviated name**: *Barbieri*
+**Abbreviated name**: *Barbieri* \[standard form in IPNI: *Barbieri*\]
 
 #### Herbarium and types
 

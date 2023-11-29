@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33333634) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33333634) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9451-1), [Wikidata](https://www.wikidata.org/wiki/Q36530691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Selbstherr, Carl (*fl*. 1832), German (Silesian) rhodologist in Breslau. 
-**Abbreviated name**: *Selbstherr*
+**Abbreviated name**: *Selbstherr* \[standard form in IPNI: *Selbsth.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33265102) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33265102) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/540-1), [Wikidata](https://www.wikidata.org/wiki/Q36586622). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Batka, Johann Baptista (fl. 1823-1872), Czech business-man (with the Wenzel Batka firm) and amateur botanist at Praha. 
-**Abbreviated name**: *Batka*
+**Abbreviated name**: *Batka* \[standard form in IPNI: *Batka*\]
 
 #### Herbarium and types
 

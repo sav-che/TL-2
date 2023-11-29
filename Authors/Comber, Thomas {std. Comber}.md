@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33265959) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33265959) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/32786-1), [Wikidata](https://www.wikidata.org/wiki/Q18521231). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Comber, Thomas (1837-1902), British merchant and botanist, born at Pernambuco, Brazil, settled in Liverpool, Manchester and Parkgate-Cheshire. 
-**Abbreviated name**: *Comber*
+**Abbreviated name**: *Comber* \[standard form in IPNI: *Comber*\]
 
 #### Herbarium and types
 

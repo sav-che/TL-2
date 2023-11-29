@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33066482) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33066482) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11481-1), [Wikidata](https://www.wikidata.org/wiki/Q21612344). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weeber, Gustav (1857-1943), Moravian high school teacher at the Obergymnasium of Friedek \[Friedeck, Frydek\] 1896-1917. 
-**Abbreviated name**: *Weeber*
+**Abbreviated name**: *Weeber* \[standard form in IPNI: *Weeber*\]
 
 #### Herbarium and types
 

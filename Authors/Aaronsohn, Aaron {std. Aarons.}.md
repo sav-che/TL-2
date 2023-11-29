@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33264774) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33264774) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/23-1), [Wikidata](https://www.wikidata.org/wiki/Q2086130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Aaronsohn, Aaron (1876/1877-1919), American agriculturist, later resident in Haifa as technical advisor of the United States Department of Agriculture. 
-**Abbreviated name**: *Aarons.*
+**Abbreviated name**: *Aarons.* \[standard form in IPNI: *Aarons.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33069009) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33069009) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5326-1), [Wikidata](https://www.wikidata.org/wiki/Q17370842). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Laurent, Louis Aimé Alexandre (1873-1947), French palaeobotanist at the Institut Colonial, Marseilles. 
-**Abbreviated name**: *L. Laurent*
+**Abbreviated name**: *L. Laurent* \[standard form in IPNI: *L.Laurent*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33212074) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33212074) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27251-1), [Wikidata](https://www.wikidata.org/wiki/Q21609894). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stolz, Friedrich (1878-1899), Austrian botanist; studied natural sciences in Innsbrück and München; active collector of Tirol cryptogams. 
-**Abbreviated name**: *F. Stolz*
+**Abbreviated name**: *F. Stolz* \[standard form in IPNI: *F.Stolz*\]
 
 #### Herbarium and types
 

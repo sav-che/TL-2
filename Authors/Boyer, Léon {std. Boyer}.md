@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33120429) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33120429) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1050-1), [Wikidata](https://www.wikidata.org/wiki/Q47114571). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boyer, Léon (*fl*. 1890), French mycologist. 
-**Abbreviated name**: *Boyer*
+**Abbreviated name**: *Boyer* \[standard form in IPNI: *Boyer*\]
 
 #### Herbarium and types
 

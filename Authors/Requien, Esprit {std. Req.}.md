@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 733](https://www.biodiversitylibrary.org/page/33190204) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 733](https://www.biodiversitylibrary.org/page/33190204) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8299-1), [Wikidata](https://www.wikidata.org/wiki/Q663914). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Requien, Esprit (1788-1851), French botanist, malacologist and palaeontologist at Avignon; from 1809 director of the Avignon botanical garden, from 1840 curator of the "Musée d'histoire naturelle"; botanical explorer of the Provence and Corsica. (*Requien*) 
-**Abbreviated name**: *Req.*
+**Abbreviated name**: *Req.* \[standard form in IPNI: *Req.*\]
 
 #### Herbarium and types
 

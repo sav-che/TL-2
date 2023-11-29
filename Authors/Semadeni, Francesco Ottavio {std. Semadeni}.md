@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33333641) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33333641) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9466-1), [Wikidata](https://www.wikidata.org/wiki/Q36557445). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Semadeni, Francesco Ottavio (*fl*. 1904), Swiss mycologist; Dr. phil. Bern 1904. 
-**Abbreviated name**: *Semadeni*
+**Abbreviated name**: *Semadeni* \[standard form in IPNI: *Semadeni*\]
 
 #### Herbarium and types
 

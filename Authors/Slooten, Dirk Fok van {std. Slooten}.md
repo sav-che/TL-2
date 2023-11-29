@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33333787) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33333787) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9749-1), [Wikidata](https://www.wikidata.org/wiki/Q1848229). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Slooten, Dirk Fok van (1891-1953), Dutch botanist; Dr. phil. 1919 Univ. Utrecht (student of A.A. Pulle), assistant at the Department of systematic botany of the University of Utrecht 1914-1918; botanist at the Herbarium and Museum of the botanic Garden Buitenzorg (Bogor, Indonesia) 1919-1931; keeper of the herbarium ib. 1931-1943 and 1946-1949; director of the Royal Botanical Garden of Indonesia 1949-1950; from 1950-1951 advisor ib., in retirement in Amsterdam 1952-1953. 
-**Abbreviated name**: *Slooten*
+**Abbreviated name**: *Slooten* \[standard form in IPNI: *Slooten*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33189922) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33189922) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8038-1), [Wikidata](https://www.wikidata.org/wiki/Q21606790). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Puymaly, André Henri Laurent de (1883-?), French lichenologist; Dr. med. Bordeaux 1912, Dr. sci. nat. 1925; teaching at the University of Bordeaux. 
-**Abbreviated name**: *Puym.*
+**Abbreviated name**: *Puym.* \[standard form in IPNI: *Puym.*\]
 
 #### Herbarium and types
 

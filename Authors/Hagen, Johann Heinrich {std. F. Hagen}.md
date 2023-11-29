@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33068253) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33068253) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3545-1), [Wikidata](https://www.wikidata.org/wiki/Q21514487). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hagen, Johann Heinrich (1738-1775), German pharmacist and botanist at Königsberg i. Pr. 
-**Abbreviated name**: *F. Hagen*
+**Abbreviated name**: *F. Hagen* \[standard form in IPNI: *Hagen*\]
 
 #### Herbarium and types
 

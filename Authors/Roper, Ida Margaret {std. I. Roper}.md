@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 879](https://www.biodiversitylibrary.org/page/33190350) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 879](https://www.biodiversitylibrary.org/page/33190350) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8578-1), [Wikidata](https://www.wikidata.org/wiki/Q21607397). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roper, Ida Margaret (1865-1935), British (English) botanist at Bristol; long time secretary and editor of the Bristol Naturalist's Society, president id. 1913-1916. 
-**Abbreviated name**: *I. Roper*
+**Abbreviated name**: *I. Roper* \[standard form in IPNI: *I.Roper*\]
 
 #### Herbarium and types
 

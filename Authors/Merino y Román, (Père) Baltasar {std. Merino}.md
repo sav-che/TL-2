@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-08-11 14:53:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33355510) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33355510) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6370-1), [Wikidata](https://www.wikidata.org/wiki/Q8240970). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Merino y Román, \[Père\] Baltasar (1845-1917), Spanish jesuit and botanist in Galicia. 
-**Abbreviated name**: *Merino*
+**Abbreviated name**: *Merino* \[standard form in IPNI: *Merino*\]
 
 #### Herbarium and types
 

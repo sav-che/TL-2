@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33068999) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33068999) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5280-1), [Wikidata](https://www.wikidata.org/wiki/Q11926090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lapham, Increase Allen (1811-1875), American pioneer naturalist and botanist; from 1836 businessman at Milwaukee; state geologist of Wisconsin 1873-1875. 
-**Abbreviated name**: *Laph.*
+**Abbreviated name**: *Laph.* \[standard form in IPNI: *Lapham*\]
 
 #### Herbarium and types
 

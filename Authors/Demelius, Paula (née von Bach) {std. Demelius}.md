@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33259243) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33259243) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17920-1), [Wikidata](https://www.wikidata.org/wiki/Q36649733). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Demelius, Paula (née von Bach) (1862-1923), Austrian, later German botanist (mycologist), born 1862 at Vienna, married to Demelius and moved to Planegg near Munich, died 23 Mai 1923. 
-**Abbreviated name**: *Demelius*
+**Abbreviated name**: *Demelius* \[standard form in IPNI: *Demelius*\]
 
 #### Herbarium and types
 

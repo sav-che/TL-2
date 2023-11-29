@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33264937) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33264937) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31082-1), [Wikidata](https://www.wikidata.org/wiki/Q5727033). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Auerswald, Bernhard {std. Auersw.}|first entry]] for this author
 
 ### Author
 
 \* Auerswald, Bernhard (1818-1870), German (Saxonian) botanist (mycologist) in Leipzig, educated at the Fürstenschule, Meissen, studied medicine (1839), subsequently paedagogics and botany (with G. Kunze) at the University of Leipzig; private teacher and later highschool teacher in Leipzig, from ca. 1850 mainly active as a botanist. 
-**Abbreviated name**: *Auersw.*
+**Abbreviated name**: *Auersw.* \[standard form in IPNI: *Auersw.*\]
 
 #### Herbarium and types
 

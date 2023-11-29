@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33120414) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33120414) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16356-1), [Wikidata](https://www.wikidata.org/wiki/Q68637). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bornmüller, Joseph (Friedrich Nicolaus) {std. Bornm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bornmüller, Joseph Friedrich Nicolaus (1862-1948), German botanical explorer of the Orient, curator of the Haussknecht herbarium at Weimar. 
-**Abbreviated name**: *Bornm.*
+**Abbreviated name**: *Bornm.* \[standard form in IPNI: *Bornm.*\]
 
 #### Herbarium and types
 

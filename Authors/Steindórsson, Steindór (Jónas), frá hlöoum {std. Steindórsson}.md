@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33334013) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33334013) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12884-1), [Wikidata](https://www.wikidata.org/wiki/Q21609709). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steindórsson, Steindór \[Jónas\], frá hlöoum (1902-x), Icelandic botanist; teacher nat. sci. (1930-1973) and rector (1967-1972) of Akureyri College; member of Althing 1947, 1949; Dr. phil. Univ. Iceland 1981. 
-**Abbreviated name**: *Steindórsson*
+**Abbreviated name**: *Steindórsson* \[standard form in IPNI: *Steind.*\]
 
 #### Herbarium and types
 

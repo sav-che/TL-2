@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33212126) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33212126) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10281-1), [Wikidata](https://www.wikidata.org/wiki/Q21610016). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Suhr, Johannes Nicolaus von (1792-1847), German/Danish (Danish Holstein) algologist and soldier in the Danish army in Schleswig; from 1834 as captain; from 1842 in Rendsburg. 
-**Abbreviated name**: *Suhr*
+**Abbreviated name**: *Suhr* \[standard form in IPNI: *Suhr*\]
 
 #### Herbarium and types
 

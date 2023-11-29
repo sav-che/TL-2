@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33189843) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33189843) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7914-1), [Wikidata](https://www.wikidata.org/wiki/Q47124647). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Power, Thomas (*fl*. 1845), Irish physician and botanist at the Cork school of medicine. 
-**Abbreviated name**: *Power*
+**Abbreviated name**: *Power* \[standard form in IPNI: *Power*\]
 
 #### Herbarium and types
 

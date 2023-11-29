@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33068390) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33068390) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3814-1), [Wikidata](https://www.wikidata.org/wiki/Q21515676). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hellwig, Franz Carl (1861-1889), German botanist; Dr. phil. Breslau (now Wroclaw) 1886; at Karlsruhe with Just 1886-1887; to German New Guinea 1888 as botanist of the New Guinea Company and head of Kelaua Station. 
-**Abbreviated name**: *Hellw.*
+**Abbreviated name**: *Hellw.* \[standard form in IPNI: *Hellw.*\]
 
 #### Herbarium and types
 

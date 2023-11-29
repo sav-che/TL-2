@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33120767) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33120767) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2162-1), [Wikidata](https://www.wikidata.org/wiki/Q20171567). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Detharding, Georg Gustav {std. Dethard.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Detharding, Georg Gustav (1765-1838), German botanist at Rostock. 
-**Abbreviated name**: *Dethard.*
+**Abbreviated name**: *Dethard.* \[standard form in IPNI: *Dethard.*\]
 
 #### Herbarium and types
 

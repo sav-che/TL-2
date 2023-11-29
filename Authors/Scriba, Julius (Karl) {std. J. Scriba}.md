@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33333602) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33333602) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12857-1), [Wikidata](https://www.wikidata.org/wiki/Q67734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scriba, Julius \[Karl\] (1848-1905), German (Hessen) physician and botanist; Dr. med. Heidelberg 1875; assistant at Freiburg i. Br. 1875-1879; lecturer ib. 1879-1881 (1870-1871 on active service); professor of surgery at the university of Tokyo 1881-1905. 
-**Abbreviated name**: *J. Scriba*
+**Abbreviated name**: *J. Scriba* \[standard form in IPNI: *J.Scriba*\]
 
 #### Herbarium and types
 

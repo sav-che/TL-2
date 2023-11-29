@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33120155) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33120155) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/108-1), [Wikidata](https://www.wikidata.org/wiki/Q1680330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Aitchison, James Edward Tierney {std. Aitch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Aitchison, James Edward Tierney (1836-1898), British botanist and physician who joined the Bengal Medical Service in 1858 and collected in India, 1861-1872, and in Afghanistan 1879-1883. 
-**Abbreviated name**: *Aitch.*
+**Abbreviated name**: *Aitch.* \[standard form in IPNI: *Aitch.*\]
 
 #### Herbarium and types
 

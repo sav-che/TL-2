@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33265732) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33265732) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17094-1), [Wikidata](https://www.wikidata.org/wiki/Q16750975). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Charles, Vera K. (1877-1954), American, Pennsylvania born (Erie, Pa.) mycologist, at Mt. Holyoke College, subsequently at Cornell University (A.B. 1903), employed by the Bureau of Plant Industry, Washington D.C., 1903-1942, continued as a collaborator of the USDA, div. mycology and disease survey. 
-**Abbreviated name**: *Charles*
+**Abbreviated name**: *Charles* \[standard form in IPNI: *Charles*\]
 
 #### Herbarium and types
 

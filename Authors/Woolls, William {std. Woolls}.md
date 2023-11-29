@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33066790) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33066790) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11862-1), [Wikidata](https://www.wikidata.org/wiki/Q1375232). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Woolls, William (1814-1893), British-born Australian school teacher, journalist and botanist; Dr. phil. Göttingen 1870 (in absentia, not h.c); emigrated to Australia 1832; assistant master at The King's School, Parramatta 1832-1836, journalist and private teacher at Sydney 1836; classical master at Sydney College, later in charge of a private school at Parramatta until 1865; took holy orders in the Church of England 1873; episcopal minister, later dean at Richmond 1873-1883; retirement at Sydney. 
-**Abbreviated name**: *Woolls*
+**Abbreviated name**: *Woolls* \[standard form in IPNI: *Woolls*\]
 
 #### Herbarium and types
 

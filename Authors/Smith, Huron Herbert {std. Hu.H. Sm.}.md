@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 677](https://www.biodiversitylibrary.org/page/33333816) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 677](https://www.biodiversitylibrary.org/page/33333816) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9801-1), [Wikidata](https://www.wikidata.org/wiki/Q21609113). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Huron Herbert (1883-1933), American botanist; B.S. De Pauw Univ. 1905; at Cornell Univ. 1905-1907; dendrologist Field Mus., Chicago, 1907-1917, asst. curator of botany 1911-1917; curator of botany of the Milwaukee Public Museum 1917-1933. 
-**Abbreviated name**: *Hu.H. Sm.*
+**Abbreviated name**: *Hu.H. Sm.* \[standard form in IPNI: *Hur.H.Sm.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33068750) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33068750) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4674-1), [Wikidata](https://www.wikidata.org/wiki/Q21340599). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kaurin, Christian (1831-1898), Norwegian bryologist and clergyman at Opdal and Ager o. Sand vid Drammen. 
-**Abbreviated name**: *Kaur.*
+**Abbreviated name**: *Kaur.* \[standard form in IPNI: *Kaurin*\]
 
 #### Herbarium and types
 

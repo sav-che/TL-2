@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33189601) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33189601) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24671-1), [Wikidata](https://www.wikidata.org/wiki/Q4647487). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pearson, Arthur Anselm (1874-1954), British businessman and mycologist at Cleckheaton; authority on agarics; treasurer of the British mycological Society 1919-1946, president 1931, 1952. 
-**Abbreviated name**: *A. Pearson*
+**Abbreviated name**: *A. Pearson* \[standard form in IPNI: *A.Pearson*\]
 
 #### Herbarium and types
 

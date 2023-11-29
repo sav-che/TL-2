@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33068490) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33068490) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4025-1), [Wikidata](https://www.wikidata.org/wiki/Q15479847). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hofmann, Adolf (1853-1913), Bohemian (b. at Žebrák) palaeobotanist; studied at Praha and at the mining college of Leoben; from 1888 assistant, from 1893-1909 professor of geology and palaeontology at the mining college at Príbram; from 1909 at the mineralogical institute at Praha. 
-**Abbreviated name**: *A. Hofm.*
+**Abbreviated name**: *A. Hofm.* \[standard form in IPNI: *A.Hofm.*\]
 
 #### Collections
 

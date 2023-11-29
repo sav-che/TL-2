@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33355524) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33355524) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6403-1), [Wikidata](https://www.wikidata.org/wiki/Q36653463). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meurling, Petrus (*fl*. 1820), Swedish physician. 
-**Abbreviated name**: *Meurling*
+**Abbreviated name**: *Meurling* \[standard form in IPNI: *Meurling*\]
 
 #### Herbarium and types
 

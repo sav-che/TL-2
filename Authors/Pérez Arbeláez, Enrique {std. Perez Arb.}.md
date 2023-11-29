@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33189634) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33189634) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7510-1), [Wikidata](https://www.wikidata.org/wiki/Q21522815). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pérez Arbeláez, Enrique (1896-1972), Colombian botanist; Dr. phil. Burgos 1918; Dr. theol. ib. 1926; Dr. Sci. München 1928. 
-**Abbreviated name**: *Perez Arb.*
+**Abbreviated name**: *Perez Arb.* \[standard form in IPNI: *Pérez Arbel.*\]
 
 #### Herbarium and types
 

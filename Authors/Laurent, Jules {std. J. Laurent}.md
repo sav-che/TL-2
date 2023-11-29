@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33069009) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33069009) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5325-1), [Wikidata](https://www.wikidata.org/wiki/Q21518422). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Laurent, Jules (1860-1918), French botanist. 
-**Abbreviated name**: *J. Laurent*
+**Abbreviated name**: *J. Laurent* \[standard form in IPNI: *J.Laurent*\]
 
 #### Herbarium and types
 

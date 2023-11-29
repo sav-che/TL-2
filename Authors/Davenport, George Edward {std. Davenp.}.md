@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33259138) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33259138) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2013-1), [Wikidata](https://www.wikidata.org/wiki/Q5877805). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Davenport, George Edward (1833-1907), American botanist (pteridologist) and plant collector, born at Boston, Mass., 3 Aug 1833, 1892 member of the Massachusetts Horticultural Society, worked mainly on Pteridophyta, died 29 Nov 1907 at Medford (Mass.). 
-**Abbreviated name**: *Davenp.*
+**Abbreviated name**: *Davenp.* \[standard form in IPNI: *Davenp.*\]
 
 #### Herbarium and types
 

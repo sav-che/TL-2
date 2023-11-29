@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33066702) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33066702) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11753-1), [Wikidata](https://www.wikidata.org/wiki/Q15987208). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winch, Nathaniel John (1768-1838), British botanist; in Newcastle from 1786; longtime secretary to the Newcastle Infirmary in Newcastle; travelled in France and S. Europe 1790-1791. 
-**Abbreviated name**: *Winch*
+**Abbreviated name**: *Winch* \[standard form in IPNI: *Winch*\]
 
 #### Herbarium and types
 

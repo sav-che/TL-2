@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33189623) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33189623) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7487-1), [Wikidata](https://www.wikidata.org/wiki/Q5238323). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Penhallow, Davis Pearce (1854-1910), American actuo– and palaeobotanist; B.S. Amherst Agr. Coll. 1873; professor of botany and chemistry at the College of Agriculture, Sapporo (Japan) 1876-1880; at Harvard 1880-1882; at the Houghton Experimental Farm, N.Y., 1882-1883; from 1883-1910 professor of botany at McGill University, Montreal; D.Sc. Montreal 1904. 
-**Abbreviated name**: *Penh.*
+**Abbreviated name**: *Penh.* \[standard form in IPNI: *Penh.*\]
 
 #### Herbarium and types
 

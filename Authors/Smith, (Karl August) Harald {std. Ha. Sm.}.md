@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33333814) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33333814) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12872-1), [Wikidata](https://www.wikidata.org/wiki/Q5958234). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, \[Karl August\] Harald ("Harry"), 1889-1971, Swedish botanist; Dr. phil. Uppsala 1920; lecturer plant biology 1920; travelled in China 1921-1924 and 1934-1935; curator Uppsala 1926; from 1947 superintendent of the Botanical Museum. 
-**Abbreviated name**: *Ha. Sm.*
+**Abbreviated name**: *Ha. Sm.* \[standard form in IPNI: *Harry Sm.*\]
 
 #### Herbarium and types
 

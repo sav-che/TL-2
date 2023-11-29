@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33190339) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33190339) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8548-1), [Wikidata](https://www.wikidata.org/wiki/Q1162358). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rolander, Daniel (1725-1793), Swedish botanist; student of Linnaeus in Uppsala 1744-1754; tutor of Linnaeus fil., 1751-1754; travelled and collected in Suriname 1755-1756 at the invitation of C.G. Dahlberg; returned to Sweden in poor health; died destitute. 
-**Abbreviated name**: *Rolander*
+**Abbreviated name**: *Rolander* \[standard form in IPNI: *Rol.*\]
 
 #### Herbarium and types
 

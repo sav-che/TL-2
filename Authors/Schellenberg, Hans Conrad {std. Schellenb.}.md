@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33333266) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33333266) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26247-1), [Wikidata](https://www.wikidata.org/wiki/Q1579059). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schellenberg, Hans Conrad (1872-1923), Swiss botanist; studied agronomy at the ETH, Zürich; with S. Schwendener in Berlin; Dr. phil. Univ. Zürich 1896; assistant at the national Swiss seed-control station; teacher at the agricultural college "im Strickhof'; habil. ETH Zürich 1901; lecturer ib. in plant pathology and viticulture 1903; extraordinary professor 1907; professor of agriculture ib. 1908. 
-**Abbreviated name**: *Schellenb.*
+**Abbreviated name**: *Schellenb.* \[standard form in IPNI: *Schellenb.*\]
 
 #### Herbarium and types
 

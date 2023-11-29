@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-02-18 11:51:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33120158) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33120158) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12323-1), [Wikidata](https://www.wikidata.org/wiki/Q724538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Alboff, Nicolas Michailowitch {std. Alboff} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Alboff \[Albov\], Nicolai Michailowitch (1866-1897), Russian botanist, traveller in the Causasus, the Alps, Argentina and Tierra del Fuego. 
-**Abbreviated name**: *Alboff*
+**Abbreviated name**: *Alboff* \[standard form in IPNI: *Albov*\]
 
 #### Herbarium and types
 

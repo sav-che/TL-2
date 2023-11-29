@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33333283) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33333283) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9066-1), [Wikidata](https://www.wikidata.org/wiki/Q21607896). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scheutz, Nils Johan Wilhelm (1836-1889), Swedish botanist; Dr. phil. Uppsala 1857; high school teacher at Västervik (1859) and Växjö (1862); lecturer in natural history and Latin Växjö 1872; especially interested in rhodology and bryology. 
-**Abbreviated name**: *Scheutz*
+**Abbreviated name**: *Scheutz* \[standard form in IPNI: *Scheutz*\]
 
 #### Herbarium and types
 

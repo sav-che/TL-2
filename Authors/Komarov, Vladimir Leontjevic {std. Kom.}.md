@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33068853) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33068853) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4948-1), [Wikidata](https://www.wikidata.org/wiki/Q1319463). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Komarov, Vladimir Leontjevic (1869-1945), Russian botanist. 
-**Abbreviated name**: *Kom.*
+**Abbreviated name**: *Kom.* \[standard form in IPNI: *Kom.*\]
 
 #### Herbarium and types
 

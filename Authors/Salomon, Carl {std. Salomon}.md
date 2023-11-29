@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33333171) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33333171) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8851-1), [Wikidata](https://www.wikidata.org/wiki/Q6403624). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Salomon, Carl (1829-1899), German botanist, royal Bavarian gardener at Würzburg; popular author on botany. 
-**Abbreviated name**: *Salomon*
+**Abbreviated name**: *Salomon* \[standard form in IPNI: *Salomon*\]
 
 #### Herbarium and types
 

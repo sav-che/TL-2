@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33266616) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33266616) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/20005048-2), [Wikidata](https://www.wikidata.org/wiki/Q21505762). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Calderon, Salvador (1884-1940), Salvadorian botanist, chief of the Agricultural botany of Salvador, collected large sets of Salvador plants in collaboration with Paul C. Standley of the Field Museum for the Flora of El Salvador. 
-**Abbreviated name**: *S. Calderon*
+**Abbreviated name**: *S. Calderon* \[standard form in IPNI: *S.Calderón*\]
 
 #### Herbarium and types
 

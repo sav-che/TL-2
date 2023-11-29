@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33190452) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33190452) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8728-1), [Wikidata](https://www.wikidata.org/wiki/Q5889380). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ruhmer, Gustav \[Gustaf\] Ferdinand (1853-1883), German (Oberschlesien) botanist; "Hilfsarbeiter" at the Botanical Museum Berlin-Dahlem 1877-1883; collected in Lybia 1882-1883; studied the flora of Brandenburg and Thüringen. 
-**Abbreviated name**: *Ruhmer*
+**Abbreviated name**: *Ruhmer* \[standard form in IPNI: *Ruhmer*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33355643) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33355643) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6589-1), [Wikidata](https://www.wikidata.org/wiki/Q21521649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Monnard, Jean Pierre (1791-?), Swiss botanist and high school teacher at Nyon. 
-**Abbreviated name**: *Monnard*
+**Abbreviated name**: *Monnard* \[standard form in IPNI: *Monnard*\]
 
 #### Herbarium and types
 

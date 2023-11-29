@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33189894) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33189894) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8009-1), [Wikidata](https://www.wikidata.org/wiki/Q16062567). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Puel, Timothée (1812-1890), French botanist; practicing physician at Paris; worked mainly on the flora of the dépt. Lot. 
-**Abbreviated name**: *Puel*
+**Abbreviated name**: *Puel* \[standard form in IPNI: *Puel*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33066688) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33066688) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11729-1), [Wikidata](https://www.wikidata.org/wiki/Q21612752). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilpert, Hubert (1901-x), German (Silesian) botanist and pharmacist; studied at the University of Breslau; pharm. state exam. 1927; Dr. phil. Breslau 1928; assistant at the Pharmaceutical Institute, Breslau from 1928. 
-**Abbreviated name**: *Wilpert*
+**Abbreviated name**: *Wilpert* \[standard form in IPNI: *Wilpert*\]
 
 #### Herbarium and types
 

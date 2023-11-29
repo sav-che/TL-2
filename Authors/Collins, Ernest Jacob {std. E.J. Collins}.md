@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33265948) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33265948) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/13388-1), [Wikidata](https://www.wikidata.org/wiki/Q47115700). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Collins, Ernest Jacob (1877-1939), British botanist, B.Sc. London University 1908, Fellow Linnean Society 1903, botanist at the John Innes Institution 1915-1939, D.Sc. 1926. 
-**Abbreviated name**: *E.J. Collins*
+**Abbreviated name**: *E.J. Collins* \[standard form in IPNI: *E.J.Collins*\]
 
 #### Herbarium and types
 

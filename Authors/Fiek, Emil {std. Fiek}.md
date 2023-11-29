@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33120959) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33120959) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2714-1), [Wikidata](https://www.wikidata.org/wiki/Q5830772). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fiek, Emil {std. Fiek} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fiek, Emil (1840-1897), German botanist, traveller and apothecary, later civil servant (Amtsvorsteher) in Kunnersdorf nr. Hischberg in German Silesia. 
-**Abbreviated name**: *Fiek*
+**Abbreviated name**: *Fiek* \[standard form in IPNI: *Fiek*\]
 
 #### Herbarium and types
 

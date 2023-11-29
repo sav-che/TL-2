@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33120433) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33120433) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12335-1), [Wikidata](https://www.wikidata.org/wiki/Q451753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brandegee, Mary Katherine (Layne, later Curran) {std. K. Brandegee} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Brandegee, Mary Katherine Layne Curran (1844-1920), American botanist in California, wife of T. S. Brandegee. 
-**Abbreviated name**: *K. Brandegee*
+**Abbreviated name**: *K. Brandegee* \[standard form in IPNI: *K.Brandegee*\]
 
 #### Herbarium and types
 

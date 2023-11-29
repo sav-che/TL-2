@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2015-12-19 15:41:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33333176) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33333176) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8846-1), [Wikidata](https://www.wikidata.org/wiki/Q62938). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Salm-Reifferscheid-Dyck, Joseph Maria Franz Anton Hubert Ignaz, Fürst und Altgraf zu (1773-1861), German (Prussian) botanist, botanical artist and horticulturist; closely associated with the French botanists and botanical artists of the Napoleonic period, subsequently building up a rich collection of succulent plants on his estate Dyck nr. Düsseldorf through his close connections with most of Europe's established botanical gardens and botanists; died at Nice. 
-**Abbreviated name**: *Salm-Dyck*
+**Abbreviated name**: *Salm-Dyck* \[standard form in IPNI: *Salm-Dyck*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 928](https://www.biodiversitylibrary.org/page/33190399) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 928](https://www.biodiversitylibrary.org/page/33190399) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8650-1), [Wikidata](https://www.wikidata.org/wiki/Q6286659). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rothrock, Joseph Trimble (1839-1922), American surgeon, botanist, explorer and forester; B.Sc. Harvard 1864; on R. Kennicotts Alaskan exp. 1865-1866; Dr. med. Univ. Pennsylvania 1867; professor of botany in the State Agricultural College of Pennsylvania 1867-1869; practicing physician in Wilkes-Barre; surgeon and botanist to G.N. Wheeler's Exploring Expeditions west of the 100th meridian 1873-1875; professor of botany Univ. Pennsylvania 1877-1891 (-1904); in the West Indies on the "White Cap" 1889-1890; Forestry Commisioner of the State of Pennsylvania 1895-1904; erected a home for open air treatment of tuberculosis at Mont Alto 1902. 
-**Abbreviated name**: *Rothr.*
+**Abbreviated name**: *Rothr.* \[standard form in IPNI: *Rothr.*\]
 
 #### Herbarium and types
 

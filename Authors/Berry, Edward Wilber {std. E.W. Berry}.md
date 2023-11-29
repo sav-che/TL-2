@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33265310) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33265310) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16026-1), [Wikidata](https://www.wikidata.org/wiki/Q3048727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Berry, Edward Wilber (1875-1945), American palaeobotanist, born in Newark, New Jersey, at Johns Hopkins University 1905-1945, at first as student 1905-1906, assistant for palaeontology 1906-1908, instructor 1908-1910, associate 1910-1913, associate professor 1913-1917, professor from 1917, dean 1929, provost 1935. 
-**Abbreviated name**: *E.W. Berry*
+**Abbreviated name**: *E.W. Berry* \[standard form in IPNI: *E.W.Berry*\]
 
 #### Herbarium and types
 

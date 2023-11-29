@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33333813) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33333813) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9796-1), [Wikidata](https://www.wikidata.org/wiki/Q5645042). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Hamilton Lanphere (1819-1903), American educator, physicist, astronomer, diatomologist and microscopist; A.M. Yale 1839; professor of astronomy and natural philosophy, Kenyon Coll. 1849-1867; professor of physics and astronomy at Hobart College, N.Y. 1867-1900; in retirement 1900-1903 at Yonkers, N.Y. and New London; LL.D. Trinity 1871. 
-**Abbreviated name**: *H.L. Sm.*
+**Abbreviated name**: *H.L. Sm.* \[standard form in IPNI: *H.L.Sm.*\]
 
 #### Herbarium and types
 

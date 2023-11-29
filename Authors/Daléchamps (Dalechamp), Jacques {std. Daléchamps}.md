@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33120721) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33120721) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1963-1), [Wikidata](https://www.wikidata.org/wiki/Q1230960). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Daléchamps (Dalechamp), Jacques (1513-1588), French medical humanist, physician and botanist at Lyon. 
-**Abbreviated name**: *Daléchamps*
+**Abbreviated name**: *Daléchamps* \[standard form in IPNI: *Daléchamps*\]
 
 #### Herbarium and types
 

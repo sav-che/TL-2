@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33212227) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33212227) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12920-1), [Wikidata](https://www.wikidata.org/wiki/Q21610280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tavel, \[Rudolf\] Franz von (1863-1941), Swiss mycologist; studied in Genève, Bern and Strassburg; Dr. phil. Strassburg 1886 (with A. de Bary); in Münster with Brefeld; appointed extraordinary professor of bacteriology at the University of Bern 1892; habil. Zürich 1892; lecturer ETH Zürich 1892-1895; curator at the Botanical Museum of the ETH Zürich 1895; from ca. 1908 active in the Salvation Army and studying ferns. 
-**Abbreviated name**: *Tavel*
+**Abbreviated name**: *Tavel* \[standard form in IPNI: *Tavel*\]
 
 #### Herbarium and types
 

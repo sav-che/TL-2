@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33120821) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33120821) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2356-1), [Wikidata](https://www.wikidata.org/wiki/Q21511008). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dufft, Adolf {std. Dufft} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dufft, Adolf (1803-1875), German industrialist and lichenologist. 
-**Abbreviated name**: *Dufft*
+**Abbreviated name**: *Dufft* \[standard form in IPNI: *Dufft*\]
 
 #### Herbarium and types
 

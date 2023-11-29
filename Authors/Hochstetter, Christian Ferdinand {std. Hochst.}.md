@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33068462) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33068462) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3983-1), [Wikidata](https://www.wikidata.org/wiki/Q64983). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hochstetter, Christian Ferdinand (1787-1860), German botanist, clergyman (Stadtpfarrer), and professor at the teacher's college at Esslingen; founded and led the Esslinger Reiseverein (Unio itineraria) with E. G. Steudel. 
-**Abbreviated name**: *Hochst.*
+**Abbreviated name**: *Hochst.* \[standard form in IPNI: *Hochst.*\]
 
 #### Herbarium and types
 

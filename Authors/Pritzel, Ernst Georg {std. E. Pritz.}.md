@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33189880) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33189880) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7974-1), [Wikidata](https://www.wikidata.org/wiki/Q3057340). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pritzel, Ernst Georg (1875-1946), German botanist; with L. Diels in W. Australia 1900-1901. 
-**Abbreviated name**: *E. Pritz.*
+**Abbreviated name**: *E. Pritz.* \[standard form in IPNI: *E.Pritz.*\]
 
 #### Herbarium and types
 

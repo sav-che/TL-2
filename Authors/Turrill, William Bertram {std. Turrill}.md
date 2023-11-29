@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33212594) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33212594) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10927-1), [Wikidata](https://www.wikidata.org/wiki/Q2351077). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Turrill, William Bertram (1890-1961), British botanist; assistant with G.C. Druce at Oxford 1906-1909; temporary assistant Herbarium Royal Botanic Gardens, Kew 1909, permanent assistant ("botanist") 1914; B.Sc. London 1915, (M.Sc. 1922, D.Sc. 1928), on active service with the Royal Army medical Corps in Macedonia 1916-1918; from 1916 again with Kew, lecturing at the Chelsea Polytechnic 1918-1939; in Oxford 1939-1945 in charge of part of the Kew library and herbarium transferred to the New Bodleian Library; keeper of the herbarium and library at Kew 1946-1957; in retirement 1957-1961, still working at Kew; leading authority on the flora of the Balkan Peninsula. 
-**Abbreviated name**: *Turrill*
+**Abbreviated name**: *Turrill* \[standard form in IPNI: *Turrill*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33069090) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33069090) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5501-1), [Wikidata](https://www.wikidata.org/wiki/Q1684666). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leschenault de la Tour, Jean Baptiste Louis \[Claude\] Théodore (1773-1826), French botanical explorer, e.g. on Le Naturaliste and Le Géographe (1801-1804) with Baudin; in India 1816-1821, Brazil 1823-1824. 
-**Abbreviated name**: *Lesch.*
+**Abbreviated name**: *Lesch.* \[standard form in IPNI: *Lesch.*\]
 
 #### Herbarium and types
 

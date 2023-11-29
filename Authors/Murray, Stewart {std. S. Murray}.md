@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33355758) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33355758) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6811-1), [Wikidata](https://www.wikidata.org/wiki/Q21521916). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Murray, Stewart (1789?-1858), Scottish botanist, superintendent of the Glasgow botanic Garden. 
-**Abbreviated name**: *S. Murray*
+**Abbreviated name**: *S. Murray* \[standard form in IPNI: *S.Murray*\]
 
 #### Herbarium and types
 

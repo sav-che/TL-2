@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33066389) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33066389) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11364-1), [Wikidata](https://www.wikidata.org/wiki/Q1581631). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walter, Hans Paul Heinrich (1882-x), German (Prussian) botanist; studied at Halle 1902-1904, Freiburg i.Br. 1904, Halle 1904-1906; Dr. phil. Erlangen 1906; collaborator of A. Engler 1906-1909. 
-**Abbreviated name**: *Ha. Walter*
+**Abbreviated name**: *Ha. Walter* \[standard form in IPNI: *H.Walter*\]
 
 #### Herbarium and types
 

@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/page/33190387) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/page/33190387) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8637-1), [Wikidata](https://www.wikidata.org/wiki/Q64246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roth, Albrecht Wilhelm (1757-1834), German (Oldenburg) physician and botanist; studied medicine at Halle 1775-1778 and Erlangen 1778; Dr. med. Erlangen 1778; practicing physician at Vegesack nr. Bremen from 1779; regional physician from 1781. 
-**Abbreviated name**: *Rath*
+**Abbreviated name**: *Rath* \[standard form in IPNI: *Roth*\]
 
 #### Herbarium and types
 

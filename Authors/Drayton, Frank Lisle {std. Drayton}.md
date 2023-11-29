@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33260078) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33260078) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18192-1), [Wikidata](https://www.wikidata.org/wiki/Q21510894). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Drayton, Frank Lisle (1892-?), American botanist, born 13 Aug 1892 on Barbados, B.W.I., B.S.A. McGill University 1914, Ph.D. (plant pathology) Cornell 1932, went to the Canadian Dept. of Agriculture, Division of Botany 1914-1918, plant pathologist 1919-1933, princ. plant pathologist 1933-1946, assoc. Dominion Botanist from 1946. 
-**Abbreviated name**: *Drayton*
+**Abbreviated name**: *Drayton* \[standard form in IPNI: *Drayton*\]
 
 #### Herbarium and types
 

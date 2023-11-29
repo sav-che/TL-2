@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33265867) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33265867) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1675-1), [Wikidata](https://www.wikidata.org/wiki/Q1687144). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clausen, Jens \[Christian\] (1891-1969), Danish botanist and geneticist, born near Tølløse (Seeland), educated at the secondary school at Tølløse, studied at the University of Copenhagen, with the staff of the Dept. Genetics Royal Veterinary and Agricultural High School, Copenhagen 1921-1931 with Ø. Winge, Dr. phil. ib. 1926, head of the division of plant biology of the Carnegie Institution of Washington in Stanford, Calif. 1931 (from 1932 for experimental taxonomy), professor of biology at Stanford University 1951-1969. 
-**Abbreviated name**: *J.C. Clausen*
+**Abbreviated name**: *J.C. Clausen* \[standard form in IPNI: *J.C.Clausen*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33189615) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33189615) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7459-1), [Wikidata](https://www.wikidata.org/wiki/Q21522750). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pedicino, Nicola Antonio (1839-1883), Italian diatomologist; teacher at a technical college at Napoli; from 1872-1877 at the agricultural college and director of its botanical garden at Portici nr. Napoli; from 1877-1883 professor of botany and director of the botanical garden at Roma, succeeding De Notaris. 
-**Abbreviated name**: *Pedicino*
+**Abbreviated name**: *Pedicino* \[standard form in IPNI: *Pedicino*\]
 
 #### Herbarium and types
 

@@ -21,14 +21,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-01-13 11:12:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33355746) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33355746) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6770-1), [Wikidata](https://www.wikidata.org/wiki/Q21521863). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Muller, (Pierre) Félix (Müller) (1818-1896), Belgian botanist. 
-**Abbreviated name**: *F. Mull.*
+**Abbreviated name**: *F. Mull.* \[standard form in IPNI: *F.Mull.*\]
 
 #### Herbarium and types
 

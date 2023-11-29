@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33068352) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33068352) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12534-1), [Wikidata](https://www.wikidata.org/wiki/Q78951). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hayek, August (Edler) von (1871-1928), Austrian botanist and physician; dr. med. Wien 1895; dr. phil. Wien 1905, from 1912 at the Universität Wien. 
-**Abbreviated name**: *Hayek*
+**Abbreviated name**: *Hayek* \[standard form in IPNI: *Hayek*\]
 
 #### Herbarium and types
 

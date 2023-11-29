@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33355943) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33355943) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7197-1), [Wikidata](https://www.wikidata.org/wiki/Q21522473). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Otero Jañez, José Idilio (1893-x), Porto-Rican botanist; librarian and botanical bibliographer at the Insular Exp. Sta., Porto-Rico. 
-**Abbreviated name**: *Otero*
+**Abbreviated name**: *Otero* \[standard form in IPNI: *Otero*\]
 
 #### Herbarium and types
 

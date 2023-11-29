@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33264900) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33264900) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31004-1), [Wikidata](https://www.wikidata.org/wiki/Q4070146). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Artari, Alexander Petrowitsch (1858-1919), Russian botanist (algologist), studied at Basel, Dr. phil. ib. 1892, worked with W.E.P. Pfeffer in Leipzig 1899, mainly in Moscow. 
-**Abbreviated name**: *Artari*
+**Abbreviated name**: *Artari* \[standard form in IPNI: *Artari*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33258709) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33258709) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3190-1), [Wikidata](https://www.wikidata.org/wiki/Q1360735). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gleason, Henry Allan {std. Gleason}|first entry]] for this author
 
 ### Author
 
 \* Gleason, Henry Allan (1882-1975), American botanist, pioneer ecologist and plant geographer, born 2 Jan 1882 in Dalton City, Illinois, published his first paper at age 13, B.Sc. 1901 and M.A. 1904 Univ. of Illinois (and teaching there 1906-1910), Ph.D. 1906 Columbia Univ., New York, New York (under N.L. Britton), taught at Univ. of Michigan 1910-1919, traveled to Philippines, Java and Ceylon 1913-1914, held various research and administrative positions at New York Botanical Garden from 1919 until his retirement Dec 1950, first president (and one of the organizers) of A.S.P.T. 1937, president B.S.A. 1948, specialist on Melastomataceae, died 21 Apr 1975 at the home of his son in Toronto, Canada. 
-**Abbreviated name**: *Gleason*
+**Abbreviated name**: *Gleason* \[standard form in IPNI: *Gleason*\]
 
 #### Note
 

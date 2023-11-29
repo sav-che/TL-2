@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33265889) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33265889) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/32762-1), [Wikidata](https://www.wikidata.org/wiki/Q4811427). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cleve von Euler, Astrid Maria (1875-1968), Swedish phycologist, born in Uppsala, 22 Jan 1875, educated and studied at her parent's house, baccalaureat 1891 as external student at "Uppsala högre allmänna läroverk", studied at the University of Uppsala 1891-1898, candidate 1894, Dr. phil. 1898 ib., married to Hans von Euler-Chelpin 1902-1912 (from 1902 Cleve von Euler), teacher at a seminary at Stockholm 1911-1917 and also at other secondary schools, biology assistant with the Hydrographic Biol. Commission 1917-1923 at Skoghall, again teaching at Uppsala 1926-1929, from 1930 living at Lindesberg, ultimately settled at Uppsala, Dr. philos. 1948, titular professor 1955, died 8 Apr 1968. 
-**Abbreviated name**: *A. Cleve*
+**Abbreviated name**: *A. Cleve* \[standard form in IPNI: *A.Cleve*\]
 
 #### Herbarium and types
 

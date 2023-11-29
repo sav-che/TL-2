@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 578](https://www.biodiversitylibrary.org/page/33212620) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 578](https://www.biodiversitylibrary.org/page/33212620) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10968-1), [Wikidata](https://www.wikidata.org/wiki/Q72701). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ule, Ernst Heinrich Georg (1854-1915), German (Prussian) botanist and botanical explorer of the Amazonas and the Brazilian highlands; studied at the Proskau horticultural college 1874-1876; gardener in Halle and Berlin 1876-1879; prepared himself for the qualification to attend a University 1879-1880; inactive because of illness 1880-1883; to Brazil 1883, private teacher and collector in Santa Catharina 1883-1891; to Rio de Janeiro as travelling naturalist with the National Museum 1891, collected in Southern and Central Brazil, assistant-director 1895-1900, in 1898-1899 working on his collections in Brazil; independent explorer from 1900; in the Amazonian region on a privately sponsored caoutchouc expedition 1900-1903, in Bahia 1906-1907, again in the Amazonas region 1908-1932; in Berlin from 1912; assistant at the Botanical Museum Berlin 1913-1914. 
-**Abbreviated name**: *Ule*
+**Abbreviated name**: *Ule* \[standard form in IPNI: *Ule*\]
 
 #### Herbarium and types
 

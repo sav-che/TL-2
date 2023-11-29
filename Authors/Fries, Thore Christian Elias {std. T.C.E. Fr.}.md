@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33121020) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33121020) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2918-1), [Wikidata](https://www.wikidata.org/wiki/Q15417). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fries, Thore Christian Elias {std. T.C.E. Fr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fries, Thore Christian Elias (1886-1930), Swedish botanist, son of Theodor Magnus Fries, grandson of Elias Magnus Fries. 
-**Abbreviated name**: *T. C. E. Fr.*
+**Abbreviated name**: *T. C. E. Fr.* \[standard form in IPNI: *T.C.E.Fr.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33333697) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33333697) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9561-1), [Wikidata](https://www.wikidata.org/wiki/Q21608783). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shepherd, John (1764-1836), British botanist; first curator of the Liverpool Botanic Garden 1802-1836. 
-**Abbreviated name**: *J. Sheph.*
+**Abbreviated name**: *J. Sheph.* \[standard form in IPNI: *Sheph.*\]
 
 #### Herbarium and types
 

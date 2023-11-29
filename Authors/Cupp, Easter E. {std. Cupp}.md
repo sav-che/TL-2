@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33266188) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33266188) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/32846-1), [Wikidata](https://www.wikidata.org/wiki/Q21509657). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cupp, Easter E. (1904-?), American diatomist at Scripps Institution of Oceanography, University of California, La Jolla, California. 
-**Abbreviated name**: *Cupp*
+**Abbreviated name**: *Cupp* \[standard form in IPNI: *Cupp*\]
 
 #### Herbarium and types
 

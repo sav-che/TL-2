@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/page/33069018) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/page/33069018) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5362-1), [Wikidata](https://www.wikidata.org/wiki/Q4254726). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lázaro é Ibiza, Blas (1858-1921), Spanish botanist, from 1882 at the Jardín botanico de Madrid. 
-**Abbreviated name**: *Lazaro*
+**Abbreviated name**: *Lazaro* \[standard form in IPNI: *Lázaro Ibiza*\]
 
 #### Herbarium and types
 

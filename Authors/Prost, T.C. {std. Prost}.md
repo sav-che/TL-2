@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33189889) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33189889) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25125-1), [Wikidata](https://www.wikidata.org/wiki/Q21523293). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Prost, T.C. (x-1848), French postal director and bryologist at Mende (Lozère). 
-**Abbreviated name**: *Prost*
+**Abbreviated name**: *Prost* \[standard form in IPNI: *Prost*\]
 
 #### Herbarium and types
 

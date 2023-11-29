@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33190056) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33190056) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8160-1), [Wikidata](https://www.wikidata.org/wiki/Q21606995). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rattray, John (1858-1900), Scottish diatomist; MA. Aberdeen 1880. 
-**Abbreviated name**: *Rattray*
+**Abbreviated name**: *Rattray* \[standard form in IPNI: *Rattray*\]
 
 #### Herbarium and types
 

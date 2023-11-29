@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33120780) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33120780) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2206-1), [Wikidata](https://www.wikidata.org/wiki/Q67968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dietrich, Albert Gottfried {std. A. Dietr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dietrich, Albert Gottfried (1795-1856), German gardener, curator of the Berlin botanical garden, editor (with Otto) of the Allgemeine Gartenzeitung. 
-**Abbreviated name**: *A. Dietr.*
+**Abbreviated name**: *A. Dietr.* \[standard form in IPNI: *A.Dietr.*\]
 
 #### Herbarium and types
 

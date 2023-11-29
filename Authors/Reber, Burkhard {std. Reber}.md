@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33190086) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33190086) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8208-1), [Wikidata](https://www.wikidata.org/wiki/Q19001567). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reber, Burkhard (1848-1926), Swiss (Aargau-born) pharmacist and botanist; chief pharmacist at the departmental hospital at Genève 1879-1885; later lecturer for Swiss archeology at the University of Genève. 
-**Abbreviated name**: *Reber*
+**Abbreviated name**: *Reber* \[standard form in IPNI: *Reber*\]
 
 #### Herbarium and types
 

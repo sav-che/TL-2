@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33259575) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33259575) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2650-1), [Wikidata](https://www.wikidata.org/wiki/Q3261879). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Favrat, Louis (1827-1893), Swiss botanist, writer and poet, born 23 \[27?\] Jul 1827 in Lausanne (Ct. Vaud), studied at the academy of Lausanne, then studied philology at the universities of Munich, Erlangen and Leipzig, taught in various secondary schools 1852-1867, active in Swiss botanical societies, prof. extraord. 1883, then conservator of the Musée botanique 1887, both Univ. of Lausanne, died after a long illness on 27 Jan 1893 in Lausanne. 
-**Abbreviated name**: *Favrat*
+**Abbreviated name**: *Favrat* \[standard form in IPNI: *Favrat*\]
 
 #### Note
 

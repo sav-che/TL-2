@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33355777) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33355777) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6857-1), [Wikidata](https://www.wikidata.org/wiki/Q55069062). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nardo, Giovanni Domenico (Giandomenico) (1802-1877), Italian botanist; Dr. med. Padua; practicing physician and director of the orphanage at Venetia and director of the cholera hospital at S. Alviso. 
-**Abbreviated name**: *Nardo*
+**Abbreviated name**: *Nardo* \[standard form in IPNI: *Nardo*\]
 
 #### Herbarium and types
 

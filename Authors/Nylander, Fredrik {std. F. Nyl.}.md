@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33355875) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 788](https://www.biodiversitylibrary.org/page/33355875) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7066-1), [Wikidata](https://www.wikidata.org/wiki/Q6437103). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nylander, Fredrik (1820-1880), Finnish botanist and physician; Dr. phil. Helsinki 1844; M. D. Helsinki 1853; from 1865 town surgeon of Oulu; brother of William Nylander. 
-**Abbreviated name**: *F. Nyl.*
+**Abbreviated name**: *F. Nyl.* \[standard form in IPNI: *F.Nyl.*\]
 
 #### Herbarium and types
 

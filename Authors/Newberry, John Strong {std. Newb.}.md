@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 733](https://www.biodiversitylibrary.org/page/33355820) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 733](https://www.biodiversitylibrary.org/page/33355820) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6944-1), [Wikidata](https://www.wikidata.org/wiki/Q3822582). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Newberry, John Strong (1822-1892), American botanist and palaeontologist; trained as a physician at Western Reserve College and Cleveland Medical College (M.D. 1848); in Paris 1849-1850; practicing medicine in Cleveland 1851-1855; surgeon and geologist on various transcontinental exploring expeditions into the American West; professor of Geology at Columbia College 1866-1892; LL.D.h.c. Columbia 1867; chief geologist to the Geological Survey of Ohio 1869-1872. 
-**Abbreviated name**: *Newb.*
+**Abbreviated name**: *Newb.* \[standard form in IPNI: *Newb.*\]
 
 #### Herbarium and types
 

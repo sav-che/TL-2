@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33066633) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33066633) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11685-1), [Wikidata](https://www.wikidata.org/wiki/Q55074155). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilhelm, Gottlieb Tobias (1758-1811), German (Bavarian) clergyman and naturalist in Augsburg. 
-**Abbreviated name**: *G. Wilh.*
+**Abbreviated name**: *G. Wilh.* \[standard form in IPNI: *Wilh.*\]
 
 #### Herbarium and types
 

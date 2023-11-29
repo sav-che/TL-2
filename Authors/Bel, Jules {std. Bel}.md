@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33265258) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33265258) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/20018981-1), [Wikidata](https://www.wikidata.org/wiki/Q21505895). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bel, Jules (fl. 1880-1900), French botanist and highschool teacher at the Pensionat Stanislas Saint Sulpice, Tarn (S.W. France). 
-**Abbreviated name**: *Bel*
+**Abbreviated name**: *Bel* \[standard form in IPNI: *Bel*\]
 
 #### Herbarium and types
 

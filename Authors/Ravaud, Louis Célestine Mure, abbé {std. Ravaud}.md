@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33190067) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33190067) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8176-1), [Wikidata](https://www.wikidata.org/wiki/Q21607007). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ravaud, Louis Célestine Mure, abbé (1822-1898), French clergyman and botanist; educated, later teacher, at the Dauphiné seminary of Rondeau; ultimately "curéarchiprêtre" at Villars-de-Lans (Isère). 
-**Abbreviated name**: *Ravaud*
+**Abbreviated name**: *Ravaud* \[standard form in IPNI: *Ravaud*\]
 
 #### Herbarium and types
 

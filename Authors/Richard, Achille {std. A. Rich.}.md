@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/page/33190229) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/page/33190229) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8349-1), [Wikidata](https://www.wikidata.org/wiki/Q340247). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Richard, Achille (1794-1852), French botanist at Paris; Dr. med. Paris 1820; son of L.C.M. Richard; aide-démonstrateur (1817-1821) and aide-naturaliste (1821-1831) at the Muséum d'Histoire naturelle; professor of botany at the Paris Faculté de médecine in 1831; member Acad. Sci. from 1834. 
-**Abbreviated name**: *A. Rich.*
+**Abbreviated name**: *A. Rich.* \[standard form in IPNI: *A.Rich.*\]
 
 #### Herbarium and types
 

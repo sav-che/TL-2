@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33068707) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33068707) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4568-1), [Wikidata](https://www.wikidata.org/wiki/Q5893615). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Juel, Hans Oscar (1863-1931), Swedish botanist at Stockholm and Uppsala, Linnaean scholar; Dr. phil. Uppsala 1889; outstanding cytologist and mycologist. 
-**Abbreviated name**: *Juel*
+**Abbreviated name**: *Juel* \[standard form in IPNI: *Juel*\]
 
 #### Herbarium and types
 

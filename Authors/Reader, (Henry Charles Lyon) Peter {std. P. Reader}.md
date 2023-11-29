@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33190085) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33190085) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12759-1), [Wikidata](https://www.wikidata.org/wiki/Q21607039). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reader, \[Henry Charles Lyon\] Peter (1850-1929), British clergyman (Dominican priest) and botanist; MA Oxford (Merton College); admitted to the Dominican order 1876, ordained 1878, professed 1881; had various assignations at London, Leicester, Hinckley and Woodchester; from 1926 again at Hinckley. 
-**Abbreviated name**: *P. Reader*
+**Abbreviated name**: *P. Reader* \[standard form in IPNI: *P.Reader*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33066590) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33066590) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11617-1), [Wikidata](https://www.wikidata.org/wiki/Q769117). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 White, Francis Buchanan \[White\] (1842-1894), British naturalist; MD Edinburgh 1864; founder of the Scottish Naturalist 1871; lived and worked at Perth, being independent devoting himself entirely to botany and entomology. 
-**Abbreviated name**: *F.B. White*
+**Abbreviated name**: *F.B. White* \[standard form in IPNI: *F.B.White*\]
 
 #### Herbarium and types
 

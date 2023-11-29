@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33189606) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 135](https://www.biodiversitylibrary.org/page/33189606) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24675-1), [Wikidata](https://www.wikidata.org/wiki/Q1064899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Peck, Charles Horton (1833-1917), American botanist; A.B. Union Coll. (Schenectady, N.Y.) 1859, M.A. ib. 1862, D. Sc. hon. ib. 1908; high school teacher at Sandlake Collegiate Inst. 1852-1855 and 1859-1862; id. at Albany 1862; Botanist at the State Cabinet of natural History of New York 1867-1883; State Botanist of New York 1883-1915. 
-**Abbreviated name**: *Peck*
+**Abbreviated name**: *Peck* \[standard form in IPNI: *Peck*\]
 
 #### Herbarium and types
 

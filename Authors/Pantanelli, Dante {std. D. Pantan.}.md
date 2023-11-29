@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33189478) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33189478) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7311-1), [Wikidata](https://www.wikidata.org/wiki/Q3702382). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pantanelli, Dante (1844-1913), Italian palaeontologist and geologist; Dr. math. phys. Pisa 1865; from 1882-1913 professor of mineralogy and geology at the University of Modena; student of Meneghini. 
-**Abbreviated name**: *D. Pantan.*
+**Abbreviated name**: *D. Pantan.* \[standard form in IPNI: *Pantan.*\]
 
 #### Herbarium and types
 

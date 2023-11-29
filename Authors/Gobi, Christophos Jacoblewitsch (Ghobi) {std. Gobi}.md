@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 959](https://www.biodiversitylibrary.org/page/33121090) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 959](https://www.biodiversitylibrary.org/page/33121090) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3209-1), [Wikidata](https://www.wikidata.org/wiki/Q21514061). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gobi (Ghobi), Christoph Iakovlevich {std. Gobi} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gobi, Christophos Jacoblewitsch (Ghobi) (1847-1919), Russian algologist. 
-**Abbreviated name**: *Gobi*
+**Abbreviated name**: *Gobi* \[standard form in IPNI: *Gobi*\]
 
 #### Herbarium and types
 

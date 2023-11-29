@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1080](https://www.biodiversitylibrary.org/page/33190551) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1080](https://www.biodiversitylibrary.org/page/33190551) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8839-1), [Wikidata](https://www.wikidata.org/wiki/Q19001625). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sakurai, Kyuichi (1889-1963), Japanese bryologist. 
-**Abbreviated name**: *Sakurai*
+**Abbreviated name**: *Sakurai* \[standard form in IPNI: *Sakurai*\]
 
 #### Herbarium and types
 

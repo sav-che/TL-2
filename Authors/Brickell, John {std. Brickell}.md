@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33120454) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33120454) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1136-1), [Wikidata](https://www.wikidata.org/wiki/Q5933114). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brickell, John (1748-1809), Irish born botanist and physician who settled in Georgia (1779). 
-**Abbreviated name**: *Brickell*
+**Abbreviated name**: *Brickell* \[standard form in IPNI: *Brickell*\]
 
 #### Herbarium and types
 

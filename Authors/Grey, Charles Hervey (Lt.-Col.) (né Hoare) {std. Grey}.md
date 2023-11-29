@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33258861) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33258861) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3382-1), [Wikidata](https://www.wikidata.org/wiki/Q5764898). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Grey, Charles Hervey (Lt.-Col.) (né Hoare) (1875-1955), British banker, soldier and nurseryman, educated at Eton and New College, Oxford, entered the family's banking business, volunteered and served in the Boer War, afterwards settled in Kent, mobilized and served in the Dardanelles and France during W.W.-I (five times wounded and awarded Distinguished Service Order), adopted the surname "Grey" to comply with "testamentary obligations" 1927, established Hocke Edge (Kent) nurseries in late 1920s, served as commandant of an R.A.F. aerodrome in W.W.-II, moved to Malton (Yorks.) 1945, founded Northern Horticultural Society's garden at Harlow Car nr. Harrogate 1950, died 24 Jul 1955 in Malton. 
-**Abbreviated name**: *Grey*
+**Abbreviated name**: *Grey* \[standard form in IPNI: *Grey*\]
 
 #### Herbarium and types
 

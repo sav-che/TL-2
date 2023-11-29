@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33212070) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33212070) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10182-1), [Wikidata](https://www.wikidata.org/wiki/Q21609901). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stone, Roland Elisha (1881-1939), American mycologist; Dr. phil. Cornell 1913; assistant in botany, Purdue Univ. 1906-1907; instructor Alabama Polytechn. 1907-1908; professor of agricultural botany, Univ. Nebraska, Lincoln, 1908-1909; lecturer in botany Cornell University 1909-1912; associate professor of botany at Ontario Agricultural College, Guelph, Ont. from 1912. 
-**Abbreviated name**: *R. Stone*
+**Abbreviated name**: *R. Stone* \[standard form in IPNI: *R.Stone*\]
 
 #### Herbarium and types
 

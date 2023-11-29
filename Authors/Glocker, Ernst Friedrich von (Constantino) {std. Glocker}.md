@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 953](https://www.biodiversitylibrary.org/page/33121084) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 953](https://www.biodiversitylibrary.org/page/33121084) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3196-1), [Wikidata](https://www.wikidata.org/wiki/Q74474). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Glocker, Ernst Friedrich von ("Constantino") (1793-1858), German mineralogist and palaeobiologist at Stuttgart. 
-**Abbreviated name**: *Glocker*
+**Abbreviated name**: *Glocker* \[standard form in IPNI: *Glocker*\]
 
 #### Collections
 

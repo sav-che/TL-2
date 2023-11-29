@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33260165) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33260165) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/14940-1), [Wikidata](https://www.wikidata.org/wiki/Q5291126). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dupuy, Dominique (1812-1885), French priest interested in botany and malacology, born 16 Mai 1812 at Lectoure (Gers), natural history teacher at the college of Gimont and the seminary of Auch, died 23 Sep 1885 at Lectoure. 
-**Abbreviated name**: *D. Dupuy*
+**Abbreviated name**: *D. Dupuy* \[standard form in IPNI: *Dupuy*\]
 
 #### Herbarium and types
 

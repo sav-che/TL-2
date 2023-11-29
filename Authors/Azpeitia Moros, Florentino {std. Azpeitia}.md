@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33120213) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33120213) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/353-1), [Wikidata](https://www.wikidata.org/wiki/Q8961857). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Azpeitia Moros, Florentino (1859-?), Spanish diatomologist. 
-**Abbreviated name**: *Azpeitia*
+**Abbreviated name**: *Azpeitia* \[standard form in IPNI: *Azpeitia*\]
 
 #### Herbarium and types
 

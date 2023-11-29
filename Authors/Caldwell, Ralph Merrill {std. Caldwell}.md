@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33266618) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33266618) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16811-1), [Wikidata](https://www.wikidata.org/wiki/Q9066198). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Caldwell, Ralph Merrill (1903-x), American botanist and phytopathologist at the Division of Cereal Crops and Diseases, Bureau of Plant Industry, USDA. 
-**Abbreviated name**: *Caldwell*
+**Abbreviated name**: *Caldwell* \[standard form in IPNI: *Caldwell*\]
 
 #### Herbarium and types
 

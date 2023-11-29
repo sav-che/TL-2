@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33355522) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33355522) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6394-1), [Wikidata](https://www.wikidata.org/wiki/Q6003174). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Metz, Sister Mary Clare (1907-x), American botanist and nun at the Congregation of the Sisters of Divine Providence San Antonio, Texas; Ph. D. Cathol. Univ. Amer. 1934; later at Our Lady of the Lake College. 
-**Abbreviated name**: *Metz*
+**Abbreviated name**: *Metz* \[standard form in IPNI: *Metz*\]
 
 #### Herbarium and types
 

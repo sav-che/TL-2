@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33068264) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33068264) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3576-1), [Wikidata](https://www.wikidata.org/wiki/Q970914). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hall, James (of Albany) (1811-1898), American geologist and palaeobiologist; pupil of Amos Eaton; leader of the New York Geological Survey 1843-1898. 
-**Abbreviated name**: *J. Hall*
+**Abbreviated name**: *J. Hall* \[standard form in IPNI: *J.Hall*\]
 
 #### Collections
 

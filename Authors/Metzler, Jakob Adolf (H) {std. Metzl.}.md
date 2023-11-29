@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33355523) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33355523) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6397-1), [Wikidata](https://www.wikidata.org/wiki/Q21388926). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Metzler, Jakob Adolf ("H") (1812-1883), German banker, landowner and cryptogamist at Frankfurt a. M. 
-**Abbreviated name**: *Metzl.*
+**Abbreviated name**: *Metzl.* \[standard form in IPNI: *Metzler*\]
 
 #### Herbarium and types
 

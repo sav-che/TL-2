@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33066595) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33066595) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11624-1), [Wikidata](https://www.wikidata.org/wiki/Q21612598). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 White, Violetta Susan Elizabeth (1875-1949), American botanist; married John Ross Delafield 1904; associated with the New York Bot. Gard. 1901-1902. 
-**Abbreviated name**: *V.S. White*
+**Abbreviated name**: *V.S. White* \[standard form in IPNI: *V.S.White*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33266083) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33266083) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1831-1), [Wikidata](https://www.wikidata.org/wiki/Q21509145). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cottam, Walter Pace (1894-x), American botanist, born at St. George, Utah, B.A. Brigham Young University 1916, M.S. 1919, teacher highschool Utah 1918-1919, Ph.D. at Chicago 1926, assistant professor of botany at Brigham Young 1920-1925, full professor 1925-1931, ass. professor University of Utah 1931-1935, professor 1935-1962, emer. since 1962. 
-**Abbreviated name**: *Cottam*
+**Abbreviated name**: *Cottam* \[standard form in IPNI: *Cottam*\]
 
 #### Herbarium and types
 

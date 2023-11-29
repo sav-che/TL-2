@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33265064) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33265064) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/20008027-1), [Wikidata](https://www.wikidata.org/wiki/Q3430500). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Baron, \[Rev.\] Richard (1847-1907), British missionary and botanist, theological training at the Lancashire Independent College, in Madagascar under the auspices of the London Missionary Society 1872-1907. 
-**Abbreviated name**: *R. Baron*
+**Abbreviated name**: *R. Baron* \[standard form in IPNI: *R.Baron*\]
 
 #### Herbarium and types
 

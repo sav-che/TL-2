@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 793](https://www.biodiversitylibrary.org/page/33333932) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 793](https://www.biodiversitylibrary.org/page/33333932) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9975-1), [Wikidata](https://www.wikidata.org/wiki/Q2935073). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spire, Camille Joseph (*fl*. 1903), French military colonial physician and botanist; in Indochina ca. 1903. 
-**Abbreviated name**: *Spire*
+**Abbreviated name**: *Spire* \[standard form in IPNI: *Spire*\]
 
 #### Herbarium and types
 

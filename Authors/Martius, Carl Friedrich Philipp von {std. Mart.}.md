@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33355412) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33355412) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22979-1), [Wikidata](https://www.wikidata.org/wiki/Q77131). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Martius, Carl Friedrich Philipp von (1794-1868), German botanical traveller, ethnologist and botanist; M. D. Erlangen 1814, from then on at München; in Brazil 1817-1820; founder of the *Flora brasiliensis*. 
-**Abbreviated name**: *Mart.*
+**Abbreviated name**: *Mart.* \[standard form in IPNI: *Mart.*\]
 
 #### Herbarium and types
 

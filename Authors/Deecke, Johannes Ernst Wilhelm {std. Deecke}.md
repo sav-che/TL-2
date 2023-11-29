@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33120741) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33120741) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2074-1), [Wikidata](https://www.wikidata.org/wiki/Q98276). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Deecke, Johannes Ernst Wilhelm (1862-1934), German geologist and palaeobiologist at Freiburg i. Br. 
-**Abbreviated name**: *Deecke*
+**Abbreviated name**: *Deecke* \[standard form in IPNI: *Deecke*\]
 
 #### Collections
 

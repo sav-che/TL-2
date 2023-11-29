@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33355497) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33355497) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6337-1), [Wikidata](https://www.wikidata.org/wiki/Q21520352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Melsheimer, Marcellus (1827-1920), German botanist and forester; studied at the Eisenach forestry college 1852-1854; from 1856-1896 Oberförster at Linz a. Rhein; in retirement ibid, until 1920. 
-**Abbreviated name**: *Melsheimer*
+**Abbreviated name**: *Melsheimer* \[standard form in IPNI: *Melsh.*\]
 
 #### Herbarium and types
 

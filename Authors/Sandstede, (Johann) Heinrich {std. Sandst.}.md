@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33333134) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33333134) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12810-1), [Wikidata](https://www.wikidata.org/wiki/Q15814842). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sandstede, \[Johann\] Heinrich (1859-1951), German (Oldenburg) botanist; trained as a baker in his father's bakery which he took over and managed until 1912; from then on in retirement dedicating himself part of the time to lichenology; Dr. phil. h.c. Univ. Münster 1930. 
-**Abbreviated name**: *Sandst.*
+**Abbreviated name**: *Sandst.* \[standard form in IPNI: *Sandst.*\]
 
 #### Herbarium and types
 

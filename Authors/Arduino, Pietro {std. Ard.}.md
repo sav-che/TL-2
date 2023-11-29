@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33120191) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33120191) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/258-1), [Wikidata](https://www.wikidata.org/wiki/Q1244985). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arduino, Pietro {std. Ard.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Arduino, Pietro (1728-1805), Italian botanist and agriculturist, curator of the Padua botanic garden. 
-**Abbreviated name**: *Ard.*
+**Abbreviated name**: *Ard.* \[standard form in IPNI: *Ard.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33266354) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33266354) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/32533-1), [Wikidata](https://www.wikidata.org/wiki/Q36649040). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Breemen, Pieter Johan (1875-?), Dutch biologist, studied at the University of Amsterdam, Dr. phil. ib. 1905, employed in Curaçao at the Inspections of Fisheries and Agriculture until 1920, chief field experiment service of the Pasuruan Experiment Station of the Java Sugar Industry 1921-1927, retired to The Hague. 
-**Abbreviated name**: *P.J. Breemen*
+**Abbreviated name**: *P.J. Breemen* \[standard form in IPNI: *P.J.Breemen*\]
 
 #### Herbarium and types
 

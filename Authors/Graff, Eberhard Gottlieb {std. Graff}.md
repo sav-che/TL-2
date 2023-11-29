@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 978](https://www.biodiversitylibrary.org/page/33121109) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 978](https://www.biodiversitylibrary.org/page/33121109) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3315-1), [Wikidata](https://www.wikidata.org/wiki/Q88718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Graff, Eberhard Gottlieb (1780-1841), German highschool teacher and botanist at Elbing. 
-**Abbreviated name**: *Graff*
+**Abbreviated name**: *Graff* \[standard form in IPNI: *Graff*\]
 
 #### Herbarium and types
 

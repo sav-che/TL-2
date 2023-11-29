@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33212722) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33212722) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11091-1), [Wikidata](https://www.wikidata.org/wiki/Q117200). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vaucher, Jean Pierre Etienne (1763-1841), Swiss clergyman and botanist; Dr. theol. 1787, ordained 1787; in charge of a private school until 1828; pastor of St. Gervais at Genève 1795-1821; honorary professor of botany Genève 1802; professor of ecclesiastical history at the Theological Faculty 1808-1841. 
-**Abbreviated name**: *Vauch.*
+**Abbreviated name**: *Vauch.* \[standard form in IPNI: *Vaucher*\]
 
 #### Herbarium and types
 

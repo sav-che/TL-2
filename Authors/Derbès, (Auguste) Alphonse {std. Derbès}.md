@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33259257) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33259257) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2136-1), [Wikidata](https://www.wikidata.org/wiki/Q4820636). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Derbès, \[Auguste\] Alphonse (1818-1894), French botanist, at Marseille, at the Faculté des Sciences de Marseille, born at Marseille 8 Mai 1818, died 6 Mai 1894 also at Marseille. 
-**Abbreviated name**: *Derbès*
+**Abbreviated name**: *Derbès* \[standard form in IPNI: *Derbès*\]
 
 #### Herbarium and types
 

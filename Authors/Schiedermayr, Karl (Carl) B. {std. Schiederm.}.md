@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33333286) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33333286) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26261-1), [Wikidata](https://www.wikidata.org/wiki/Q21337644). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schiedermayr, Karl \[Carl\] B. (1818-1895), Austrian physician and botanist; Dr. med. Wien 1843; Chir. Dr. ib. 1844; practicing physician at Linz, 1845 and Kirchdorf 1849-1871; regional physician for Kirchdorf and Steyr 1871; id. Linz 1874; "Statthaltereirath" (medical adviser to the government of Upper Austria) 1875; ultimately again at Kirchdorf 
-**Abbreviated name**: *Schiederm.*
+**Abbreviated name**: *Schiederm.* \[standard form in IPNI: *Schied.*\]
 
 #### Herbarium and types
 

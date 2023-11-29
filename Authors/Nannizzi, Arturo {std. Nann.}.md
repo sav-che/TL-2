@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33355777) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33355777) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23899-1), [Wikidata](https://www.wikidata.org/wiki/Q21391771). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nannizzi, Arturo (1877-1961), Italian botanist; lecturer in mycology at the University of Siena; from 1935 also director of the Siena botanical garden. 
-**Abbreviated name**: *Nann.*
+**Abbreviated name**: *Nann.* \[standard form in IPNI: *Nann.*\]
 
 #### Herbarium and types
 

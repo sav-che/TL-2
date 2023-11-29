@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33355517) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33355517) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6378-1), [Wikidata](https://www.wikidata.org/wiki/Q68470). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mertens, Franz Karl (Carl) (1764-1831), German botanist, director of a business school in Bremen. 
-**Abbreviated name**: *Mert.*
+**Abbreviated name**: *Mert.* \[standard form in IPNI: *Mert.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33189944) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33189944) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8069-1), [Wikidata](https://www.wikidata.org/wiki/Q111057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rabinowitsch, Lydia (1871-1935), Russian-born mycologist and bacteriologist; Dr. phil. Bern 1894; married the bacteriologist W. Kempner 1898; professor and director of the Bacteriological Institute of the Moabit Hospital, Berlin-Lichtenfeld. 
-**Abbreviated name**: *Rabinowitsch*
+**Abbreviated name**: *Rabinowitsch* \[standard form in IPNI: *Rabin.*\]
 
 #### Herbarium and types
 

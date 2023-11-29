@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33333298) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33333298) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9083-1), [Wikidata](https://www.wikidata.org/wiki/Q21607958). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schiller, Sigismund (1847-1920), Austro-Hungarian botanist and journalist; from 1881-1884 at Presburg (Bratislava, now Czecho-Slovakia); later editor of the "Pester Lloyd" at Budapest. 
-**Abbreviated name**: *S. Schiller*
+**Abbreviated name**: *S. Schiller* \[standard form in IPNI: *Schiller*\]
 
 #### Herbarium and types
 

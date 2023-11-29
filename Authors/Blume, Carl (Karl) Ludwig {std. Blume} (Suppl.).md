@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33265423) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33265423) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16230-1), [Wikidata](https://www.wikidata.org/wiki/Q76816). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Blume, Carl (Karl) Ludwig {std. Blume}|first entry]] for this author
 
 ### Author
 
 \* Blume, Carl \[Karl\] Ludwig (1796-1862), German born Dutch botanist, lived in Braunschweig and Bremen until 1814, came to the Netherlands 1814, employed by the Medical Board of the Dutch army 1814, military apothecary at Den Helder and Leiden 1814-1817, studied natural history and medicine at Leiden University, Dr. med. 1817 ib., health-officer to the forces in the Netherlands East Indies 1818, with the medical service and organization of agriculture and sciences at Buitenzorg (Bogor) 1819-1826 with an emphasis on botanical research and exploration, director of the Botanical Gardens at Buitenzorg 1822-1826, returned to the Netherlands 1826, director of the Rijksherbarium at Brussels 1829-1830, and with the transfer of this institution to Leiden in 1830 director until 1862. 
-**Abbreviated name**: *Blume*
+**Abbreviated name**: *Blume* \[standard form in IPNI: *Blume*\]
 
 #### Herbarium and types
 

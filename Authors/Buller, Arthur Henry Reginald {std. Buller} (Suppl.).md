@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33266524) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33266524) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1280-1), [Wikidata](https://www.wikidata.org/wiki/Q4799048). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Buller, Arthur Henry Reginald {std. Buller}|first entry]] for this author
 
 ### Author
 
 \* Buller, Arthur Henry Reginald (1874-1944), British-born mycologist, educated at Queen's college, Taunton, Mason College Birmingham, B.Sc. London 1896, worked with W.F.P. Pfeffer at Leipzig 1897-1899, Ph.D. Leipzig 1899, with H.J.A.R. Hartig at München 1899-1901, summers of 1900 and 1901 at the Marine Biological Station at Naples, lecturer and demonstrator at Birmingham University 1901-1904, D.Sc. Birmingham, professor of botany at the University of Manitoba, Canada 1904-1936. 
-**Abbreviated name**: *Buller*
+**Abbreviated name**: *Buller* \[standard form in IPNI: *Buller*\]
 
 #### Herbarium and types
 

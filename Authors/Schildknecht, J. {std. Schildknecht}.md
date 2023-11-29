@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33333297) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33333297) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/35154-1), [Wikidata](https://www.wikidata.org/wiki/Q36598717). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schildknecht, J. (*fl*. 1863), German botanist; high school teacher at Freiburg i. Br. 
-**Abbreviated name**: *Schildknecht*
+**Abbreviated name**: *Schildknecht* \[standard form in IPNI: *Schildkn.*\]
 
 #### Herbarium and types
 

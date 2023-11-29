@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33355392) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33355392) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6129-1), [Wikidata](https://www.wikidata.org/wiki/Q66612). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marschall von Bieberstein, Friedrich August, Freiherr (1768-1826), German explorer and author on the Russian flora. 
-**Abbreviated name**: *M.-Bieb.*
+**Abbreviated name**: *M.-Bieb.* \[standard form in IPNI: *M.Bieb.*\]
 
 #### Herbarium and types
 

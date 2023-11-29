@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 591](https://www.biodiversitylibrary.org/page/33355678) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 591](https://www.biodiversitylibrary.org/page/33355678) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6668-1), [Wikidata](https://www.wikidata.org/wiki/Q16593609). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morot, Louis René Marie François (1854-1915), French botanist and editor; préparateur at the École des Hautes Études, Paris 1883; Dr. sci. Paris 1885; assistant at the Muséum d'Histoire naturelle 1889. 
-**Abbreviated name**: *Morot*
+**Abbreviated name**: *Morot* \[standard form in IPNI: *Morot*\]
 
 #### Herbarium and types
 

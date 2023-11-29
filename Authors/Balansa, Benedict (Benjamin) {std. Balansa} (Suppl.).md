@@ -29,16 +29,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-01-19 09:14:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33265013) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33265013) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/416-1), [Wikidata](https://www.wikidata.org/wiki/Q536946). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Balansa, Benedict (Benjamin) {std. Balansa}|first entry]] for this author
 
 ### Author
 
 Balansa, Benedict ("Benjamin") (1825-1891), French botanical explorer, born on a ship in the Canal du Midi, S. France, on the way to Narbonne, life-long traveller, first trip to Algeria (1847-1848), again Algeria 1850-1853, first trip to the orient (Smyrna, western Anatolia) 1854-1855, again in the Orient (Cappadoce) 1856, and 1857-1865 (collecting with Smyrna as base), Lazistan 1866, Morocco 1867, New Caledonia 1868-1872, to Paraguay 1873-1877 and 1878-1884, Tonkin and Java 1885-1889, and 1890-1891; died in Tonkin. 
-**Abbreviated name**: *Balansa*
+**Abbreviated name**: *Balansa* \[standard form in IPNI: *Balansa*\]
 
 #### Herbarium and types
 

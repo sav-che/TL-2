@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-04-27 14:30:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33189760) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33189760) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7741-1), [Wikidata](https://www.wikidata.org/wiki/Q21523046). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Planellas Giralt, José (1850-1886), Spanish botanist; studied at Santiago; Dr. sci. nat. Madrid 1879; until 1883 professor of natural history at Barcelona; later director of the botanical garden and professor of botany at Habana, Cuba (1883-1886). 
-**Abbreviated name**: *Planellas*
+**Abbreviated name**: *Planellas* \[standard form in IPNI: *Planellas*\]
 
 #### Herbarium and types
 

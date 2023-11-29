@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33068980) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33068980) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5233-1), [Wikidata](https://www.wikidata.org/wiki/Q21518332). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lambert, Wilhelm (1827-1860), German physician and botanist at Iserlohn; Dr. med. Berlin 1849. 
-**Abbreviated name**: *W. Lamb.*
+**Abbreviated name**: *W. Lamb.* \[standard form in IPNI: *W.Lamb.*\]
 
 #### Herbarium and types
 

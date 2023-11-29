@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33333406) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33333406) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12835-1), [Wikidata](https://www.wikidata.org/wiki/Q21340911). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schneevoogt, George Voorhelm (1775-1850), Dutch gardener and botanist. 
-**Abbreviated name**: *Schneev.*
+**Abbreviated name**: *Schneev.* \[standard form in IPNI: *Schneev.*\]
 
 #### Herbarium and types
 

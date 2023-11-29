@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 944](https://www.biodiversitylibrary.org/page/33121075) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 944](https://www.biodiversitylibrary.org/page/33121075) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/19344-1), [Wikidata](https://www.wikidata.org/wiki/Q2701424). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gillet, Claude (Casimir) {std. Gill.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gillet, Claude Casimir (1806-1896), French mycologist and veterinary surgeon at Alençon. 
-**Abbreviated name**: *Gill.*
+**Abbreviated name**: *Gill.* \[standard form in IPNI: *Gillet*\]
 
 #### Herbarium and types
 

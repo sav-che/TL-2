@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33333359) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33333359) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9120-1), [Wikidata](https://www.wikidata.org/wiki/Q21608041). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlenker, Georg (1847-1932), German (Schwaben) botanist, high school teacher at Cannstadt, Württemberg from 1877; Dr. h.c. Stuttgart 1925. 
-**Abbreviated name**: *Schlenker*
+**Abbreviated name**: *Schlenker* \[standard form in IPNI: *Schlenker*\]
 
 #### Herbarium and types
 

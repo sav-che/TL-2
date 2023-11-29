@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33190374) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33190374) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8615-1), [Wikidata](https://www.wikidata.org/wiki/Q4815103). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ross-Craig, Stella (Mrs. J.R. Sealy) (1906-x), British botanical artist; contributed to Botanical Magazine, Hooker's Icones plantarum, and Kew Bulletin; artist for the Royal Horticultural Society 1929-1960, and on the staff of the R.B.G. Kew. 
-**Abbreviated name**: *Ross-Craig*
+**Abbreviated name**: *Ross-Craig* \[standard form in IPNI: *Ross-Craig*\]
 
 #### Herbarium and types
 

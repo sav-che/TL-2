@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 956](https://www.biodiversitylibrary.org/page/33121087) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 956](https://www.biodiversitylibrary.org/page/33121087) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3204-1), [Wikidata](https://www.wikidata.org/wiki/Q58068). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gmelin, Johann Georg (1709-1755), German botanist and geographer who travelled in Siberia between 1733 and 1743, professor at Tübingen 1749-1755; nephew of J. F. Gmelin. 
-**Abbreviated name**: *J. G. Gmelin*
+**Abbreviated name**: *J. G. Gmelin* \[standard form in IPNI: *J.G.Gmel.*\]
 
 #### Herbarium and types
 

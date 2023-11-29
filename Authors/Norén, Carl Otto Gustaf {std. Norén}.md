@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33355857) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33355857) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7031-1), [Wikidata](https://www.wikidata.org/wiki/Q21522229). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Norén, Carl Otto Gustaf (1876-1914), Swedish botanist; Dr. phil. Uppsala 1907; high school teacher in Stockholm (1910), Karlskrona (1911), and Vänersborg (1914). 
-**Abbreviated name**: *Norén*
+**Abbreviated name**: *Norén* \[standard form in IPNI: *Norén*\]
 
 #### Herbarium and types
 

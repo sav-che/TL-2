@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33068659) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33068659) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4400-1), [Wikidata](https://www.wikidata.org/wiki/Q3647966). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jahn Jr., Alfredo (1867-1940), Venezuelan botanist. 
-**Abbreviated name**: *Al. Jahn*
+**Abbreviated name**: *Al. Jahn* \[standard form in IPNI: *Al.Jahn*\]
 
 #### Herbarium and types
 

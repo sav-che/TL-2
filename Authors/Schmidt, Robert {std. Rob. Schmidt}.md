@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33333399) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33333399) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9169-1), [Wikidata](https://www.wikidata.org/wiki/Q21608173). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidt, Robert (1826-1890), German teacher, meteorologist and botanist at Gera (Thuringia/Reuss). 
-**Abbreviated name**: *Rob. Schmidt*
+**Abbreviated name**: *Rob. Schmidt* \[standard form in IPNI: *R.Schmidt*\]
 
 #### Herbarium and types
 

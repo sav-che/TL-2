@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33212510) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33212510) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27898-1), [Wikidata](https://www.wikidata.org/wiki/Q21610948). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trentepohl, Johann Friedrich (1748-1806), German (Oldenburg) clergyman and botanist; studied theology at Leipzig; private teacher at Dötlingen and Rodenkirchen; pastor at Eckwarden 1781-1789, from 1789-1806 at Oldenbrok. 
-**Abbreviated name**: *Trentep.*
+**Abbreviated name**: *Trentep.* \[standard form in IPNI: *Trentep.*\]
 
 #### Herbarium and types
 

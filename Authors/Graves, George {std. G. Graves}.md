@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 982](https://www.biodiversitylibrary.org/page/33121113) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 982](https://www.biodiversitylibrary.org/page/33121113) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3347-1), [Wikidata](https://www.wikidata.org/wiki/Q5539867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Graves, George (1784-1839), British botanical artist. 
-**Abbreviated name**: *G. Graves*
+**Abbreviated name**: *G. Graves* \[standard form in IPNI: *Graves*\]
 
 #### Herbarium and types
 

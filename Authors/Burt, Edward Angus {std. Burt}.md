@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33266575) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33266575) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16749-1), [Wikidata](https://www.wikidata.org/wiki/Q3048438). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Burt, Edward Angus (1859-1939), American (Athens, Pa. born) mycologist, grew up on a dairy farm near Middle Grove, Saratoga County, N.Y., educated at the State Normal School at Albany (N.Y.) in winters, teaching penmanship, bookkeeping and english at the Albany Academy 1880, teaching natural history at the State Normal School at Albany 1885-1890, entered the junior class at Harvard University 1891 studying with Roland Thaxter and William G. Farlow, AM 1894, Dr. phil. 1895, professor of natural history at Middlebury College (with Ezra Brainerd) 1895-1913, librarian and mycologist at the Henry Shaw School of Botany of Washington University, St. Louis 1913-1933. 
-**Abbreviated name**: *Burt*
+**Abbreviated name**: *Burt* \[standard form in IPNI: *Burt*\]
 
 #### Herbarium and types
 

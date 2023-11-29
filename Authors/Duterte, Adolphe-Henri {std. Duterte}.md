@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33260195) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33260195) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/20024702-1), [Wikidata](https://www.wikidata.org/wiki/Q21511187). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Duterte, Adolphe-Henri (1847-1887), French pharmacist and florist, born 17 Jan 1847 at Fyé (Sarthe), went to school at Fresnay-sur-Sarthe and started to study pharmacy at the age of 16, at the same time botanizing around Alençon, went to the school of pharmacy at Paris in 1868, finished his study in 1871 and started a pharmacy at Alençon, but retired already because of ill health in 1880, died at Alençon 3 Oct 1887. 
-**Abbreviated name**: *Duterte*
+**Abbreviated name**: *Duterte* \[standard form in IPNI: *Duterte*\]
 
 #### Herbarium and types
 

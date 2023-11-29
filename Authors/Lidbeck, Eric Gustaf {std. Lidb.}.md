@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33355117) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33355117) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5572-1), [Wikidata](https://www.wikidata.org/wiki/Q1353945). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lidbeck, Eric Gustaf (1724-1803), Swedish botanist at Lund; Dr. phil. Uppsala 1749; adjunct nat. hist. Lund 1750, curator ("prefekt") of the botanical garden 1752; professor of natural history at Lund University 1756-1795. 
-**Abbreviated name**: *Lidb.*
+**Abbreviated name**: *Lidb.* \[standard form in IPNI: *Lidb.*\]
 
 #### Herbarium and types
 

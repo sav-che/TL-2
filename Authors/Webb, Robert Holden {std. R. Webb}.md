@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33066462) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33066462) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11455-1), [Wikidata](https://www.wikidata.org/wiki/Q21612307). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Webb, Robert Holden (1806-1880), British clergyman and botanist; B.A. Cambridge 1829, M.A. 1834; ordained deacon 1829, priest 1830; curate of Essendon nr. Hatfield, Herts. 1830, rector ib. 1843-1880. 
-**Abbreviated name**: *R. Webb*
+**Abbreviated name**: *R. Webb* \[standard form in IPNI: *R.Webb*\]
 
 #### Herbarium and types
 

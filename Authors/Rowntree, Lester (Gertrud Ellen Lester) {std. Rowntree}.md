@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 952](https://www.biodiversitylibrary.org/page/33190423) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 952](https://www.biodiversitylibrary.org/page/33190423) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8680-1), [Wikidata](https://www.wikidata.org/wiki/Q16749847). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rowntree, Lester (Gertrud Ellen Lester) (1879-1979), British-born (Cumberland) naturalist, horticulturist and writer; emigrated to America 1889; married to Bernard Rowntree 1908-1930; settled in California where she ran a wild flower firm. 
-**Abbreviated name**: *Rowntree*
+**Abbreviated name**: *Rowntree* \[standard form in IPNI: *Rowntree*\]
 
 #### Herbarium and types
 

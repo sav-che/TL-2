@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33259760) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33259760) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2784-1), [Wikidata](https://www.wikidata.org/wiki/Q2377559). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fliche, Paul Henri Maria Thérèse André {std. Fliche}|first entry]] for this author
 
 ### Author
 
 \* Fliche, Paul \[Henri Marie Thérèse André\] (1836-1908), French forester and paleobotanist, born 8 Jun 1836 in Rambouillet, attended schools in Troyes and Nancy, studied at the forestry school 1857-1859, initially in Nancy, then Gannat and Mouzon 1860, member "Commission d'aménagement forestier", Gérardmer 1862-1865, returned to Nancy as an instructor, then inspector 1878 and prof. 1880 of forest botany, Légion d'honneur 1893, retired 1902, corr., Académie des Sciences 1904, died 28 Nov 1908 in Nancy. 
-**Abbreviated name**: *Fliche*
+**Abbreviated name**: *Fliche* \[standard form in IPNI: *Fliche*\]
 
 #### Herbarium and types
 

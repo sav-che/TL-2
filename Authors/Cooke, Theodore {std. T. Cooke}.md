@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33120674) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33120674) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1784-1), [Wikidata](https://www.wikidata.org/wiki/Q13232734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cooke, Theodore (1836-1910), British botanist in India 1860-1893, principal at Poona college 1865-1893. 
-**Abbreviated name**: *T. Cooke*
+**Abbreviated name**: *T. Cooke* \[standard form in IPNI: *T.Cooke*\]
 
 #### Herbarium and types
 

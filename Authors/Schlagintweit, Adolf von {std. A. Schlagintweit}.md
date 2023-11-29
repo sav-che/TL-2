@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33333326) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33333326) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9110-1), [Wikidata](https://www.wikidata.org/wiki/Q67442). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlagintweit, Adolf von (1829-1857), German (Bavarian) traveller, geologist and plant collector; brother of Robert and Hermann Alfred Rudolph von Schlagintweit-Sakünlünski; studied at München; habil. ib. 1853 for geognostics; explorer of the Himalaya, Karakoram, Tibet, N. India and other parts of Central Asia; killed by religious fanatics at Kashgar, Turkestan. 
-**Abbreviated name**: *A. Schlagintweit*
+**Abbreviated name**: *A. Schlagintweit* \[standard form in IPNI: *A.Schlag.*\]
 
 #### Herbarium and types
 

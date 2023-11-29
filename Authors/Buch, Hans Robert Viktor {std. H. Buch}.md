@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33120520) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33120520) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1240-1), [Wikidata](https://www.wikidata.org/wiki/Q194214). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Buch, Hans Robert Viktor {std. H. Buch} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Buch, Hans Robert Viktor (1883-1964), Finnish bryologist. 
-**Abbreviated name**: *H. Buch*
+**Abbreviated name**: *H. Buch* \[standard form in IPNI: *H.Buch*\]
 
 #### Herbarium and types
 

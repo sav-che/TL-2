@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33189808) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33189808) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12742-1), [Wikidata](https://www.wikidata.org/wiki/Q18985687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Popenoe, Dorothy Kate (née Hughes) (1899-1932), British-born botanist; assistant at Kew 1918-1923 as collaborator of O. Stapf; to USDA Washington 1923; married Frederick Wilson Popenoe (17 Nov 1923). 
-**Abbreviated name**: *D. Popenoe*
+**Abbreviated name**: *D. Popenoe* \[standard form in IPNI: *D.Popenoe*\]
 
 #### Herbarium and types
 

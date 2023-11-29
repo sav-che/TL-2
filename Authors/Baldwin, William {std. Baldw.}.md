@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33120241) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33120241) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/421-1), [Wikidata](https://www.wikidata.org/wiki/Q787698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baldwin, William {std. Baldw.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Baldwin, William (1779-1819), United States physician and botanist, plant collector in the southeastern United States and in South America. 
-**Abbreviated name**: *Baldw.*
+**Abbreviated name**: *Baldw.* \[standard form in IPNI: *Baldwin*\]
 
 #### Herbarium and types
 

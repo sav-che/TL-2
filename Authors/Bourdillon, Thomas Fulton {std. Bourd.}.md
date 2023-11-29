@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33265588) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33265588) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1028-1), [Wikidata](https://www.wikidata.org/wiki/Q3525143). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bourdillon, Thomas Fulton (1849-1930), British (Indian born) coffee planter, forest officer, Travancore 1886, conservator of forests ib. 1891-1908. 
-**Abbreviated name**: *Bourd.*
+**Abbreviated name**: *Bourd.* \[standard form in IPNI: *Bourd.*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33068993) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33068993) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/22051-1), [Wikidata](https://www.wikidata.org/wiki/Q2871046). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Langlois, Auguste Barthélemy (1832-1900), French-born clergyman and botanist who settled in the United States in 1855, at Point-à-la-Hache and St. Martinsville, Louisiana. 
-**Abbreviated name**: *Langl.*
+**Abbreviated name**: *Langl.* \[standard form in IPNI: *Langl.*\]
 
 #### Herbarium and types
 

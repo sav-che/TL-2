@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33333720) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33333720) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9609-1), [Wikidata](https://www.wikidata.org/wiki/Q21608851). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sickmann, Johann Rudolph (1779-1849), German (Osnabrück)/Hannover) botanist; ultimately assistant at the Botanical Garden, Hamburg. 
-**Abbreviated name**: *Sickmann*
+**Abbreviated name**: *Sickmann* \[standard form in IPNI: *Sickmann*\]
 
 #### Herbarium and types
 

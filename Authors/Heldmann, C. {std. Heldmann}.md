@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33068384) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33068384) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3802-1), [Wikidata](https://www.wikidata.org/wiki/Q980331). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Heldmann, C. (*fl*. 1837), German botanist. 
-**Abbreviated name**: *Heldmann*
+**Abbreviated name**: *Heldmann* \[standard form in IPNI: *Heldmann*\]
 
 #### Herbarium and types
 

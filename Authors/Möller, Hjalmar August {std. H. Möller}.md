@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-07-16 11:09:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33355621) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33355621) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6547-1), [Wikidata](https://www.wikidata.org/wiki/Q6001018). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Möller, Hjalmar August (1866-1941), Swedish botanist; lecturer at a teachers college at Kalmar; from 1917 at the Riksmuseum, Stockholm. 
-**Abbreviated name**: *H. Möller*
+**Abbreviated name**: *H. Möller* \[standard form in IPNI: *H.A.Möller*\]
 
 #### Herbarium and types
 

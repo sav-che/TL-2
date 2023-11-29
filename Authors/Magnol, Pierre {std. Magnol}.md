@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33355330) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33355330) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5982-1), [Wikidata](https://www.wikidata.org/wiki/Q522664). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Magnol, Pierre (1638-1715), French physician and botanist at Montpellier. 
-**Abbreviated name**: *Magnol*
+**Abbreviated name**: *Magnol* \[standard form in IPNI: *Magnol*\]
 
 #### Herbarium and types
 

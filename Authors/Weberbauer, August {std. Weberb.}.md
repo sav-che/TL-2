@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33066474) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33066474) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11473-1), [Wikidata](https://www.wikidata.org/wiki/Q216034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weberbauer, August (1871-1948), German (Silesian) botanist and explorer; son of Otto Weberbauer; Dr. phil. Berlin (student of A. Engler) 1894; habil. Univ. Breslau 1898; collected in Peru 1901-1905, returned to Breslau 1905; director of the botanical garden and agricultural station at Victoria, Cameroon 1906-1907; director of the Parque zoológico y botánico de Lima, Peru 1908; professor of botany Universidad Nacional Mayor de San Marcos 1925, Botanico adscrito a la Estación experimental agrícola de la Molina 1932; professor of pharmaceutical botany, faculty of medical sciences Univ. San Marcos 1934. 
-**Abbreviated name**: *Weberb.*
+**Abbreviated name**: *Weberb.* \[standard form in IPNI: *Weberb.*\]
 
 #### Herbarium and types
 

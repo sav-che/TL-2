@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/page/33266116) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 439](https://www.biodiversitylibrary.org/page/33266116) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/20043537-1), [Wikidata](https://www.wikidata.org/wiki/Q18546921). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Coyte, William Beeston (1741-1810), British physician, clergyman and botanist, studied at the University of Cambridge, MA Cantab. 1763, practised medicine at Ipswich. 
-**Abbreviated name**: *Coyte*
+**Abbreviated name**: *Coyte* \[standard form in IPNI: *Coyte*\]
 
 #### Herbarium and types
 

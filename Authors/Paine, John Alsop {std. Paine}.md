@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33189506) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33189506) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7253-1), [Wikidata](https://www.wikidata.org/wiki/Q4348021). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Paine, John Alsop (1840-1912), American botanist; M.A. Hamilton College 1862; Dr. phil. id. 1874; employed by the board of regents of the State of New York in connection with the flora of the State in 1862-1867; teaching at various colleges and editing journals from 1868; in Eastern Palestine for the Palestine Exploration Society 1872-1873; curator at the Metropolitan Museum of Art, New York, from 1889. 
-**Abbreviated name**: *Paine*
+**Abbreviated name**: *Paine* \[standard form in IPNI: *Paine*\]
 
 #### Herbarium and types
 

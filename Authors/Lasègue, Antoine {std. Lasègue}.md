@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33069004) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 762](https://www.biodiversitylibrary.org/page/33069004) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5301-1), [Wikidata](https://www.wikidata.org/wiki/Q5697409). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lasègue, Antoine (1793-1873), French librarian to Benjamin Delessert. 
-**Abbreviated name**: *Lasègue*
+**Abbreviated name**: *Lasègue* \[standard form in IPNI: *Lasègue*\]
 
 #### Herbarium and types
 

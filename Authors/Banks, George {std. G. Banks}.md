@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33120246) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33120246) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/447-1), [Wikidata](https://www.wikidata.org/wiki/Q47113644). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Banks, George {std. G. Banks} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Banks, George (*fl*. 1823-1832), British silversmith and engraver, amateur botanist at Devonport. 
-**Abbreviated name**: *G. Banks*
+**Abbreviated name**: *G. Banks* \[standard form in IPNI: *G.Banks*\]
 
 #### Herbarium and types
 

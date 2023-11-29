@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33333736) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33333736) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9635-1), [Wikidata](https://www.wikidata.org/wiki/Q21608882). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Siim-Jensen, Johannes (1870-1921), Danish pharmacist; Dr. phil. Marburg 1900; librarian at the Pharmaceutical School in Copenhagen as well as pharmacist at the military hospital. 
-**Abbreviated name**: *Siim-Jensen*
+**Abbreviated name**: *Siim-Jensen* \[standard form in IPNI: *Siim-Jensen*\]
 
 #### Herbarium and types
 

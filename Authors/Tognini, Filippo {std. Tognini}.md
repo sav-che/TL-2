@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33212426) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33212426) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10713-1), [Wikidata](https://www.wikidata.org/wiki/Q21610824). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tognini, Filippo (1868-1896), Italian botanist (mycologist); studied at the Istituto superiore, Facoltà di Scienze, Firenze 1885-1886; assistant with Briosi at Pavia 1886; Dr. phil. ib. 1889; curator of the Botanical Garden Pavia 1896. 
-**Abbreviated name**: *Tognini*
+**Abbreviated name**: *Tognini* \[standard form in IPNI: *Tognini*\]
 
 #### Herbarium and types
 

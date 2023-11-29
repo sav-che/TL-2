@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33066390) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33066390) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11367-1), [Wikidata](https://www.wikidata.org/wiki/Q1366734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walter, Thomas (1740-1789), British-born botanist in North America; emigrated to South Carolina 1768; planter, merchant and politician. 
-**Abbreviated name**: *Walter*
+**Abbreviated name**: *Walter* \[standard form in IPNI: *Walter*\]
 
 #### Herbarium and types
 

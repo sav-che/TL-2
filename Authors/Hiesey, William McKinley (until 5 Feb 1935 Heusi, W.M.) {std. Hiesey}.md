@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33068436) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33068436) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12549-1), [Wikidata](https://www.wikidata.org/wiki/Q8012318). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hiesey, William McKinley \[until 5 Feb 1935: Heusi, W.M.\] (1903-x), American experimental systematist and plant physiologist; with H. M. Hall, J. Clausen and D. D. Keck founder of the California school of multidisplinary plant systematics; employed by the Carnegie Institution, Stanford, in various capacities from 1926-1969; currently emeritus staff member. 
-**Abbreviated name**: *Hiesey*
+**Abbreviated name**: *Hiesey* \[standard form in IPNI: *Hiesey*\]
 
 #### Herbarium and types
 

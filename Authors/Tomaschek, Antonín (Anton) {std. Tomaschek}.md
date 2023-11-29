@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33212429) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33212429) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10723-1), [Wikidata](https://www.wikidata.org/wiki/Q21610836). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tomaschek, Antonín \[Anton\] (1826-1891), Moravian botanist and high school teacher; studied at the University of Olmiiütz; assistant teacher at the state gymnasium of Pressburg (Bratislava) 1850-1852; at the University of Vienna 1852-1853; assistant teacher at Görz and Cilly 1854-1856; at the Gymnasium of Lemberg 1856-1863; in charge of the Institute for Meteorology and Terrestrial Magnetism, Vienna 1863-1865; again in Lemberg 1865-1870; professor at the gymnasium and at the Technical University of Brünn from 1870. 
-**Abbreviated name**: *Tomaschek*
+**Abbreviated name**: *Tomaschek* \[standard form in IPNI: *Tomaschek*\]
 
 #### Herbarium and types
 

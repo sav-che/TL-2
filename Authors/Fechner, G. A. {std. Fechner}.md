@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33120947) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33120947) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2659-1), [Wikidata](https://www.wikidata.org/wiki/Q36561851). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fechner, G. A. (*fl*. 1849), German highschool teacher and botanist at Görlitz 
-**Abbreviated name**: *Fechner*
+**Abbreviated name**: *Fechner* \[standard form in IPNI: *Fechner*\]
 
 #### Herbarium and types
 

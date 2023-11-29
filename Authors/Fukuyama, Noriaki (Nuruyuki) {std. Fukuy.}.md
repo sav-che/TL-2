@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33258554) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33258554) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2956-1), [Wikidata](https://www.wikidata.org/wiki/Q2035489). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fukuyama, Noriaki \[Nuruyuki\] (1912-1946), Japanese botanist, student of G. Masamune, specialized in the orchids of Taiwan, the Ryukyus and Micronesia, died in Taiwan. 
-**Abbreviated name**: *Fukuy.*
+**Abbreviated name**: *Fukuy.* \[standard form in IPNI: *Fukuy.*\]
 
 #### Herbarium and types
 

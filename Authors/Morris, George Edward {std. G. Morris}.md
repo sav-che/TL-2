@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33355682) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33355682) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6674-1), [Wikidata](https://www.wikidata.org/wiki/Q21521756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morris, George Edward (1853-1916), British-born American mycologist; drawing-master in the public schools of Waltham, Mass. 
-**Abbreviated name**: *G. Morris*
+**Abbreviated name**: *G. Morris* \[standard form in IPNI: *G.Morris*\]
 
 #### Herbarium and types
 

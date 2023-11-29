@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33333582) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33333582) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9371-1), [Wikidata](https://www.wikidata.org/wiki/Q115641). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwendener, Simon (1829-1919), Swiss (St. Gallen) botanist; Dr. phil. Zürich 1856; assistant with Carl Nägeli in Zürich 1856-1857; habil. Zürich 1857; with Nägeli to München 1857; habil. München 1860; lecturer (Privatdocent) 1860-1867; professor of botany at Basel 1867-1877; id. Tübingen 1877-1878; id. Berlin 1878-1909, as first professor of general botany and director of the Botanical Institute; outstanding morphologist and physiologist; originator of the theory of the lichen symbiosis, the "mechanical principle" in physiological plant anatomy and the mechanical theory of phyllotaxis. 
-**Abbreviated name**: *Schwend.*
+**Abbreviated name**: *Schwend.* \[standard form in IPNI: *Schwend.*\]
 
 #### Herbarium and types
 

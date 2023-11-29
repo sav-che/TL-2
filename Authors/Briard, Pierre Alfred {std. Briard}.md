@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33120454) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33120454) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/31986-1), [Wikidata](https://www.wikidata.org/wiki/Q21506476). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Briard, Pierre-Alfred {std. Briard} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Briard, Pierre Alfred (1811-1896), French botanist and soldier. 
-**Abbreviated name**: *Briard*
+**Abbreviated name**: *Briard* \[standard form in IPNI: *Briard*\]
 
 #### Herbarium and types
 

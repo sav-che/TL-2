@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33190172) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33190172) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8271-1), [Wikidata](https://www.wikidata.org/wiki/Q4392648). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reinhard, Ludwig (Vasilievic) (1846-1922), Ukrainian algologist; director of the Museum and Garden and extraord. prof. of botany at Odessa University; from 1885/6-1903 director of the botanical garden and morphological department of the Botanical Institute of Charkow Univerity; from 1903 continuing as professor of botany. 
-**Abbreviated name**: *Reinhard*
+**Abbreviated name**: *Reinhard* \[standard form in IPNI: *Reinhard*\]
 
 #### Herbarium and types
 

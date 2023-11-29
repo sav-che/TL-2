@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33265737) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33265737) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1544-1), [Wikidata](https://www.wikidata.org/wiki/Q16027635). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chassagne, Maurice (fl. 1904-1957), French botanist at Lezoux, Puy-de-Dôme, issued an Herbarium Salicum. 
-**Abbreviated name**: *Chass.*
+**Abbreviated name**: *Chass.* \[standard form in IPNI: *Chass.*\]
 
 #### Herbarium and types
 

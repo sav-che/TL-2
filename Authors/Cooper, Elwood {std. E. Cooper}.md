@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266014) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266014) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1788-1), [Wikidata](https://www.wikidata.org/wiki/Q18983937). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cooper, Elwood (1829-1918), American horticulturist, botanist and entomologist, born in Bart, County of Lancaster, Pennsylvania, U.S.A., was in a Philadelphia counting house and engaged in the shipping business in Haiti, moved to California 1870, purchasing 810 hectares near Santa Barbara with which he produced olive oil until 1912, president of the State Board of Horticulture 1885-1908, principal of Santa Barbara College 1873-1877 and State Horticultural Commissioner 1903-1909. 
-**Abbreviated name**: *E. Cooper*
+**Abbreviated name**: *E. Cooper* \[standard form in IPNI: *E.Cooper*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33355201) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33355201) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5639-1), [Wikidata](https://www.wikidata.org/wiki/Q2066530). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Linton, William James (1812-1898), British engraver, botanist and political reformer; to United States, at Appledore nr. New Haven, Conn. from 1866 as private printer and publisher. 
-**Abbreviated name**: *W. J. Linton*
+**Abbreviated name**: *W. J. Linton* \[standard form in IPNI: *Linton*\]
 
 #### Herbarium and types
 

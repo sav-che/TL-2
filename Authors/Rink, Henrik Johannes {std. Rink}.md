@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 796](https://www.biodiversitylibrary.org/page/33190267) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 796](https://www.biodiversitylibrary.org/page/33190267) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8403-1), [Wikidata](https://www.wikidata.org/wiki/Q1619503). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rink, Henrik Johannes (1819-1893), Danish (of German parents) geographer, geologist and explorer; Dr. phil. Kiel 1844; participated in the circumnavigation of the *Galathea* 1845-1846 (until Penang), surveying the Nicobars; in Northern Greenland 1848-1855; Royal Inspector (Governor) of South Greenland 1855-1868; Director of the Royal Greenland Board of Trade (Kön. Grönl. Handel) 1871-1882; retired to Christiania (Oslo). 
-**Abbreviated name**: *Rink*
+**Abbreviated name**: *Rink* \[standard form in IPNI: *Rink*\]
 
 #### Herbarium and types
 

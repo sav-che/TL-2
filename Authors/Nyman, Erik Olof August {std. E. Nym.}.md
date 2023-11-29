@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33355886) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33355886) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24208-1), [Wikidata](https://www.wikidata.org/wiki/Q15732417). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nyman, Erik Olof August (1866-1900), Swedish botanist; Dr. phil. Uppsala 1896; travelled in Java and New Guinea, 1897-1900. 
-**Abbreviated name**: *E. Nym.*
+**Abbreviated name**: *E. Nym.* \[standard form in IPNI: *E.Nyman*\]
 
 #### Herbarium and types
 

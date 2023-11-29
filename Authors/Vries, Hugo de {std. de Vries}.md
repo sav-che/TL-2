@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33212829) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33212829) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11273-1), [Wikidata](https://www.wikidata.org/wiki/Q160192). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vries, Hugo de (1848-1935), Dutch botanist (plant physiologist and geneticist); studied natural sciences at Leiden University 1866-1870; Dr. phil. 1870; high school teacher at Assen 1870; with Wilhelm Hofmeister at Heidelberg 1870-1871, with J. Sachs at Würzburg 1871; high school teacher at Amsterdam 1871-1875; working at Würzburg on publications on agricultural plants 1875-1877; "Privatdozent" Halle 1877; lecturer (1877) and professor of botany at the University of Amsterdam 1878-1918; in retirement working on Oenothera at Lunteren 1918-1935; drew attention to the Mendel laws concurrently with C.F.J.E. Correns and E. von Tschermak (1900); visited the United States in 1904, 1906 and 1912. 
-**Abbreviated name**: *de Vries*
+**Abbreviated name**: *de Vries* \[standard form in IPNI: *de Vries*\]
 
 #### Herbarium and types
 

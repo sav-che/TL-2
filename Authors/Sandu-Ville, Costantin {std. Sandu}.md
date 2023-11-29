@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33333136) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33333136) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26097-1), [Wikidata](https://www.wikidata.org/wiki/Q18549706). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sandu-Ville, Costantin (*fl*. 1929), Roumanian botanist. 
-**Abbreviated name**: *Sandu*
+**Abbreviated name**: *Sandu* \[standard form in IPNI: *Sandu*\]
 
 #### Herbarium and types
 

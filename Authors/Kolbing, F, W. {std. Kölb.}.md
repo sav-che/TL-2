@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33068839) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33068839) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4914-1), [Wikidata](https://www.wikidata.org/wiki/Q21517694). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kolbing, F, W. (x-1840), German bishop of the Herrnhut Moravian society at Gnadenfeld, Schlesien. 
-**Abbreviated name**: *Kölb.*
+**Abbreviated name**: *Kölb.* \[standard form in IPNI: *Kölbing*\]
 
 #### Herbarium and types
 

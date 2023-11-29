@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33068701) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33068701) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4546-1), [Wikidata](https://www.wikidata.org/wiki/Q36574416). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jonkman, Hendricus Franciscus (*fl*. 1879), Dutch botanist, Ph. D. Utrecht 1879. 
-**Abbreviated name**: *Jonkman*
+**Abbreviated name**: *Jonkman* \[standard form in IPNI: *Jonkman*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33120364) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33120364) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/856-1), [Wikidata](https://www.wikidata.org/wiki/Q3121096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bleicher, Marie Gustave (1838-1901), French geologist and pharmacist, director of the Ecole de Pharmacie at Nancy. 
-**Abbreviated name**: *M. G. Bleicher*
+**Abbreviated name**: *M. G. Bleicher* \[standard form in IPNI: *Bleicher*\]
 
 #### Collections
 

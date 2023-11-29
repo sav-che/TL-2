@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33259279) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33259279) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/16313-1), [Wikidata](https://www.wikidata.org/wiki/Q5361352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bommer, (Mme) Elisa Caroline, née Destrée {std. E. Bommer}|first entry]] for this author
 
 ### Author
 
 \* Destrée, Caroline Élisa (1832-1910), Belgian mycologist, born 19 Jan 1832, Laeken, married Joseph-Éduard Bommer, died 17 Jan 1910. 
-**Abbreviated name**: *E. Bommer*
+**Abbreviated name**: *E. Bommer* \[standard form in IPNI: *E.Bommer*\]
 
 #### Note
 

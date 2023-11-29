@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33355671) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33355671) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6657-1), [Wikidata](https://www.wikidata.org/wiki/Q21521735). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morin, François Malat Marie (1856-1900(?)), French clergyman and botanist; Dr. Sci. Rennes 1893; high school teacher at Dinan; from 1895-1897 professor of botany at the free University of Lyon. 
-**Abbreviated name**: *F. Morin*
+**Abbreviated name**: *F. Morin* \[standard form in IPNI: *F.Morin*\]
 
 #### Herbarium and types
 

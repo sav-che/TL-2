@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33066491) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33066491) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11500-1), [Wikidata](https://www.wikidata.org/wiki/Q5040104). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weihe, Carl Ernst August (1779-1834), German (Westphalen) physician and botanist (batologist); studied pharmacy in pharmacies at Melle (1798-1799) and Bielefeld (1799-1800); studied medicine at Halle 1800-1802; Dr. med. ib. 1802; practicing physician at Lüttringhausen 1803-1806, in Biinde 1807-ca. 1811, in Mennighüffen 1811-1824; from 1825-1834 in Herford. 
-**Abbreviated name**: *Weihe*
+**Abbreviated name**: *Weihe* \[standard form in IPNI: *Weihe*\]
 
 #### Herbarium and types
 

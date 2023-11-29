@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/page/33190403) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/page/33190403) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8655-1), [Wikidata](https://www.wikidata.org/wiki/Q21607467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rottenbach, Heinrich (1835-1917), German (Thuringian) botanist; high school teacher at Meiningen 1871-1895 (from 1877 with professor's title); in retirement in Berlin 1895-1915; ultimately at Einhausen nr Meiningen. 
-**Abbreviated name**: *Rottenbach*
+**Abbreviated name**: *Rottenbach* \[standard form in IPNI: *Rottenb.*\]
 
 #### Herbarium and types
 

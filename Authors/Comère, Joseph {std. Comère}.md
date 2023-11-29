@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33265961) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33265961) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/32788-1), [Wikidata](https://www.wikidata.org/wiki/Q21508909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Comère, Joseph (1854-1932), French pharmacist and algologist, born at Toulouse, studied at the Faculté de Bordeaux, "diplôme de pharmacien de 1re classe" 1881, interested in algology from 1880, especially working on diatoms 1897-1920, from 1899 publishing in Toulouse, died in Colomiers-Las planes (Haute-Garonne). 
-**Abbreviated name**: *Comère*
+**Abbreviated name**: *Comère* \[standard form in IPNI: *Comère*\]
 
 #### Herbarium and types
 

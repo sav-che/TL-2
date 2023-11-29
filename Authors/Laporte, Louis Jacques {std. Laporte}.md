@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33069001) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33069001) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5285-1), [Wikidata](https://www.wikidata.org/wiki/Q36614823). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Laporte, Louis Jacques (*fl*. 1930), French algologist. 
-**Abbreviated name**: *Laporte*
+**Abbreviated name**: *Laporte* \[standard form in IPNI: *Laporte*\]
 
 #### Herbarium and types
 

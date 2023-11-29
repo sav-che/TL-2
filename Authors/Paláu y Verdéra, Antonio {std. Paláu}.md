@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-07-08 13:14:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33189503) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33189503) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7266-1), [Wikidata](https://www.wikidata.org/wiki/Q548758). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Paláu y Verdéra, Antonio (x-1793), Spanish botanist at the Madrid botanical garden. 
-**Abbreviated name**: *Paláu*
+**Abbreviated name**: *Paláu* \[standard form in IPNI: *Paláu*\]
 
 #### Herbarium and types
 

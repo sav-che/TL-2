@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33066395) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33066395) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11380-1), [Wikidata](https://www.wikidata.org/wiki/Q20481239). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walz, Lajos \[Ludwig\] (1845-1914), Hungarian botanist; studied at the Vienna Polytechnic 1864; gardener at the Graz Johanneum 1865-1868, idem in Körmend 1868-1870; assistant gardener at the botanical garden of Budapest University 1870-1873, at the botanical garden of Klausenburg (Kolozsvár, Cluj) 1873-1914, from 1901 as inspector. 
-**Abbreviated name**: *L. Walz*
+**Abbreviated name**: *L. Walz* \[standard form in IPNI: *L.Walz*\]
 
 #### Herbarium and types
 

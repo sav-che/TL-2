@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33355375) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33355375) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6089-1), [Wikidata](https://www.wikidata.org/wiki/Q6998001). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marchand, Nestor Léon (1833-1911), French pharmacist and botanist; Dr. med. Paris 1861; at the Faculté de Médecine 1861-1869; Dr. Sci. Caen 1867; at the École supérieure de Pharmacie, Paris, 1869-1897; staunch and late defender of the theory of spontaneous generation. 
-**Abbreviated name**: *Marchand*
+**Abbreviated name**: *Marchand* \[standard form in IPNI: *Marchand*\]
 
 #### Herbarium and types
 

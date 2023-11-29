@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33068905) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33068905) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5026-1), [Wikidata](https://www.wikidata.org/wiki/Q21517890). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krašan, Franz (1840-1907), Austrian botanist, high school teacher at Graz. 
-**Abbreviated name**: *Krašan*
+**Abbreviated name**: *Krašan* \[standard form in IPNI: *Krašan*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33066791) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33066791) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11863-1), [Wikidata](https://www.wikidata.org/wiki/Q7782028). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Woolsey, Theodore Salisbury, Jr. (1880-1933), United States forester and botanist; AB Yale Univ. 1901, Master of Forestry Yale 1903; with the United States Forestry Service 1908-1915; lecturer in forestry Yale ca. 1912, 1916-1917; on active service in Europe 1917-1919; from 1919 consulting forester in New Haven. 
-**Abbreviated name**: *Woolsey*
+**Abbreviated name**: *Woolsey* \[standard form in IPNI: *Woolsey*\]
 
 #### Herbarium and types
 

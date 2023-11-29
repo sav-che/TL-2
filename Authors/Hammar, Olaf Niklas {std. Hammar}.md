@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33068278) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33068278) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3601-1), [Wikidata](https://www.wikidata.org/wiki/Q21514596). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hammar, Olaf Niklas (1821-1875), Swedish botanist; Dr. phil. Lund 1847, lecturer ib. 1849-1859; later "telegrafkommissarie" at Ronneby. 
-**Abbreviated name**: *Hammar*
+**Abbreviated name**: *Hammar* \[standard form in IPNI: *Hammar*\]
 
 #### Herbarium and types
 

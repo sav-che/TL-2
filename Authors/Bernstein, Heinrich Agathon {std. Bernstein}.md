@@ -25,16 +25,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33120331) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33120331) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/716-1), [Wikidata](https://www.wikidata.org/wiki/Q73244). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bernstein, Heinrich Agathon {std. Bernstein} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bernstein, Heinrich Agathon (1822-1865), German botanist from Silesia. 
-**Abbreviated name**: *Bernstein*
+**Abbreviated name**: *Bernstein* \[standard form in IPNI: *Bernstein*\]
 
 #### Herbarium and types
 

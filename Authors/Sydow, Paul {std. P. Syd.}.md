@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33212174) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33212174) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/13431-1), [Wikidata](https://www.wikidata.org/wiki/Q7153889). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sydow, Paul (1851-1925), German (Pommeranian) botanist (cryptogamist), bibliographer and schoolmaster at Berlin. 
-**Abbreviated name**: *P. Syd.*
+**Abbreviated name**: *P. Syd.* \[standard form in IPNI: *P.Syd.*\]
 
 #### Herbarium and types
 

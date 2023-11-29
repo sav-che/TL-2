@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33068922) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33068922) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5086-1), [Wikidata](https://www.wikidata.org/wiki/Q2939018). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krug, Carl Wilhelm Leopold (1833-1898), German botanist, businessman and consular official; in Puerto Rico 1857-1876; later working with I. Urban on a flora of the West Indies. 
-**Abbreviated name**: *Krug*
+**Abbreviated name**: *Krug* \[standard form in IPNI: *Krug*\]
 
 #### Herbarium and types
 

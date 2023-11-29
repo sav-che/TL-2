@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33190306) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33190306) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8495-1), [Wikidata](https://www.wikidata.org/wiki/Q1701718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roe, John Septimus (1797-1878), English naval officer in the Royal Navy 1813-1827; surveyor general, W. Australia, 1829-1870; explorer and naturalist. 
-**Abbreviated name**: *Roe*
+**Abbreviated name**: *Roe* \[standard form in IPNI: *Roe*\]
 
 #### Herbarium and types
 

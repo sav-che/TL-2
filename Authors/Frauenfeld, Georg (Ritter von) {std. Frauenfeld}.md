@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 873](https://www.biodiversitylibrary.org/page/33121004) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 873](https://www.biodiversitylibrary.org/page/33121004) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2889-1), [Wikidata](https://www.wikidata.org/wiki/Q78681). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Frauenfeld, Georg \[Ritter von\] (1807-1873), Austrian zoologist, curator of the Vienna Zoological Museum, participated in the voyage of the Novarra. 
-**Abbreviated name**: *Frauenfeld*
+**Abbreviated name**: *Frauenfeld* \[standard form in IPNI: *Frauenf.*\]
 
 #### Herbarium and types
 

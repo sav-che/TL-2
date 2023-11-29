@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33333591) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33333591) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9382-1), [Wikidata](https://www.wikidata.org/wiki/Q21608557). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scoffern, John (1814-1882), British physician, botanist and chemist; professor of chemistry at Aldersgate st. college 1840; involved in the Franco-Prussian war 1870-1871; author on chemistry, explosives, sugar-technology, botany and folklore. 
-**Abbreviated name**: *Scoffern*
+**Abbreviated name**: *Scoffern* \[standard form in IPNI: *Scoffern*\]
 
 #### Herbarium and types
 

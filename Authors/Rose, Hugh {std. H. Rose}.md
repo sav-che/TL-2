@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 884](https://www.biodiversitylibrary.org/page/33190355) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 884](https://www.biodiversitylibrary.org/page/33190355) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8585-1), [Wikidata](https://www.wikidata.org/wiki/Q18534182). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rose, Hugh (ca. 1717-1792), British (English) apothecary and botanist at Norwich; teacher of J.E. Smith; associate of W. Hudson. 
-**Abbreviated name**: *H. Rose*
+**Abbreviated name**: *H. Rose* \[standard form in IPNI: *H.Rose*\]
 
 #### Herbarium and types
 

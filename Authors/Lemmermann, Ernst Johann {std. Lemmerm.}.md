@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33069082) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33069082) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5464-1), [Wikidata](https://www.wikidata.org/wiki/Q5395066). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lemmermann, Ernst Johann (1867-1915), German algologist at Bremen. 
-**Abbreviated name**: *Lemmerm.*
+**Abbreviated name**: *Lemmerm.* \[standard form in IPNI: *Lemmerm.*\]
 
 #### Herbarium and types
 

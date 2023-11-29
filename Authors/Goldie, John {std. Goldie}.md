@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33258760) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33258760) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3238-1), [Wikidata](https://www.wikidata.org/wiki/Q6235633). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Goldie, John (1793-1886), Scottish gardener and traveler, born 21 Mar 1793 in Kirkoswald, (Ayrshire), apprenticed as a gardener, W.J. Hooker who met Goldie at Glasgow Gardens encouraged him to travel, Goldie then visited N. America 1817-1819 and 1833, and Russia 1824 and 1830, and emigrated to Canada in 1844, died 23 Jul 1886 in Ayr, Ontario. 
-**Abbreviated name**: *Goldie*
+**Abbreviated name**: *Goldie* \[standard form in IPNI: *Goldie*\]
 
 #### Note
 

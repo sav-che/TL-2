@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 607](https://www.biodiversitylibrary.org/page/33120738) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 607](https://www.biodiversitylibrary.org/page/33120738) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2062-1), [Wikidata](https://www.wikidata.org/wiki/Q21510108). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Deby, Julien Marc {std. Deby} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Deby, Julien Marc (1826-1895), Belgian diatomist who settled in London about 1877. 
-**Abbreviated name**: *Deby*
+**Abbreviated name**: *Deby* \[standard form in IPNI: *Deby*\]
 
 #### Herbarium and types
 

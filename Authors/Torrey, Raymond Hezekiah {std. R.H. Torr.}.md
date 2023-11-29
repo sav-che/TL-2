@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33212450) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33212450) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10756-1), [Wikidata](https://www.wikidata.org/wiki/Q7298827). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Torrey, Raymond Hezekiah (1880-1938), American journalist, amateur botanist and conservationist; journalist with various newspapers 1896-1938. 
-**Abbreviated name**: *R.H. Torr.*
+**Abbreviated name**: *R.H. Torr.* \[standard form in IPNI: *R.H.Torr.*\]
 
 #### Herbarium and types
 

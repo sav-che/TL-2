@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33259081) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33259081) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/1971-1), [Wikidata](https://www.wikidata.org/wiki/Q21509758). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Damazio, Léonidas Bothelo (1854-1922), Brazilian botanist, born in S. Salvador in Bahia, from 1876 repetitor and schoolmaster, later at Ouro Preta (Minas Gerais) teaching physics, chemistry, zoology and botany, from 1887 only zoological and botanical teacher. 
-**Abbreviated name**: *Damazio*
+**Abbreviated name**: *Damazio* \[standard form in IPNI: *Damazio*\]
 
 #### Herbarium and types
 

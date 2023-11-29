@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-03-29 14:41:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33120211) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33120211) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/330-1), [Wikidata](https://www.wikidata.org/wiki/Q351508). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Aucher-Éloy, Pierre Martin Rémi {std. Aucher} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Aucher-Éloy, Pierre Martin Rémi (1793-1838), French explorer of the Orient. 
-**Abbreviated name**: *Aucher*
+**Abbreviated name**: *Aucher* \[standard form in IPNI: *Aucher*\]
 
 #### Herbarium and types
 

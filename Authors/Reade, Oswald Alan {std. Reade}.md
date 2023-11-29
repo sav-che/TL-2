@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33190084) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33190084) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8204-1), [Wikidata](https://www.wikidata.org/wiki/Q21607038). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reade, Oswald Alan (1848-1929), British botanist and pharmaceutical chemist; dispenser in the Royal Navy 1873-1908; stationed at Ascension, Bermuda, Plymouth, Malta and Haslar; collected extensively in Bermuda 1878-1886; in retirement at Lowestoft. 
-**Abbreviated name**: *Reade*
+**Abbreviated name**: *Reade* \[standard form in IPNI: *Reade*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33068574) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33068574) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4102-1), [Wikidata](https://www.wikidata.org/wiki/Q719091). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Horaninov (Ghoryaninov, Gorianinov), Paul Fedorowitsch (1796-1865), Russian botanist. 
-**Abbreviated name**: *Horan.*
+**Abbreviated name**: *Horan.* \[standard form in IPNI: *Horan.*\]
 
 #### Herbarium and types
 

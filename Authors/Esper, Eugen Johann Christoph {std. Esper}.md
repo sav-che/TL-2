@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/page/33120932) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 801](https://www.biodiversitylibrary.org/page/33120932) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2577-1), [Wikidata](https://www.wikidata.org/wiki/Q62300). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Esper, Eugen Johann Christoph (1742-1810). German zoologist and phycologist. 
-**Abbreviated name**: *Esper*
+**Abbreviated name**: *Esper* \[standard form in IPNI: *Esper*\]
 
 #### Herbarium and types
 

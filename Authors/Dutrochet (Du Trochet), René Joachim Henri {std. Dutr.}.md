@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33260200) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33260200) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/12416-1), [Wikidata](https://www.wikidata.org/wiki/Q1191107). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dutrochet \[Du Trochet\], René Joachim Henri (1776-1847), French physician, zoologist, and botanist (marquis de Néons), born 14 Nov 1776 at Néon (Indre), fought for the royalty in 1799, studied medicine at Paris from 1802, Dr. med. in 1806, sent to Madrid as military physician in 1808, chief physician at Burgos hospital, returned to France to study natural sciences, 1817 elected correspondent to the Acad. Sci., settled at Paris in 1831, died 4 Feb 1847. 
-**Abbreviated name**: *Dutr.*
+**Abbreviated name**: *Dutr.* \[standard form in IPNI: *Dutr.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265740) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265740) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1546-1), [Wikidata](https://www.wikidata.org/wiki/Q2753223). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Châtelain, Jean Jacques (1736-1822), Swiss botanist, born in Bern, Dr. med. 13 Mai 1760. 
-**Abbreviated name**: *Châtel.*
+**Abbreviated name**: *Châtel.* \[standard form in IPNI: *Châtel.*\]
 
 #### Herbarium and types
 

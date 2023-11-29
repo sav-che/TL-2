@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33190121) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 650](https://www.biodiversitylibrary.org/page/33190121) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8241-1), [Wikidata](https://www.wikidata.org/wiki/Q21607069). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reguis, J. Marius F. (1850-?), French physician and mycologist at Allauch nr Marseille, later at Avignon. 
-**Abbreviated name**: *Reguis*
+**Abbreviated name**: *Reguis* \[standard form in IPNI: *Réguis*\]
 
 #### Herbarium and types
 

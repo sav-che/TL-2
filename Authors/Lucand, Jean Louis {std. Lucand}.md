@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33355266) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33355266) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22584-1), [Wikidata](https://www.wikidata.org/wiki/Q16059888). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lucand, Jean Louis (1821-1896), French soldier and botanist; army officer in the 29th infantry regiment 1842-1873; from 1874 retired at Autun. 
-**Abbreviated name**: *Lucand*
+**Abbreviated name**: *Lucand* \[standard form in IPNI: *Lucand*\]
 
 #### Herbarium and types
 

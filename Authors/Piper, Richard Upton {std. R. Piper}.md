@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33189743) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33189743) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7721-1), [Wikidata](https://www.wikidata.org/wiki/Q6108718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Piper, Richard Upton (1818-1897), American physician and botanist, MD Dartmouth 1840; practicing physician at Boston and Chicago. 
-**Abbreviated name**: *R. Piper*
+**Abbreviated name**: *R. Piper* \[standard form in IPNI: *R.Piper*\]
 
 #### Herbarium and types
 

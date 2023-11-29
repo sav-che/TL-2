@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33066734) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33066734) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11792-1), [Wikidata](https://www.wikidata.org/wiki/Q21612872). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wiström, Per Wilhelm (1865-1926), Swedish botanist and educator; Fil. kand. Uppsala 1888; with the Ultuna agricultural station 1888, later teacher at elementary and agricultural schools in Södrar Vi, 1890-1897, Fornby 1898-1908 and Svalov 1908-1926; nephew of J.A. Wiström. 
-**Abbreviated name**: *P. Wiström*
+**Abbreviated name**: *P. Wiström* \[standard form in IPNI: *P.Wiström*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33258695) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33258695) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/35054-1), [Wikidata](https://www.wikidata.org/wiki/Q47117861). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gilkinet, \[Charles\] Alfred (1845-1926), Belgian mycologist and paleobotanist, born 21 Mai 1845 in Ensival, Dr. en sciences naturelles, prof. of pharmacy, Liége Univ. 1884, died 30 Sep 1926. 
-**Abbreviated name**: *Gilkinet*
+**Abbreviated name**: *Gilkinet* \[standard form in IPNI: *Gilkinet*\]
 
 #### Herbarium and types
 

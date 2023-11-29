@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33120600) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33120600) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1453-1), [Wikidata](https://www.wikidata.org/wiki/Q5479282). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Castracane degli Antelminelli, Francesco {std. Castracane} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Castracane degli Antelminelli, Francesco Saverio, Conte (1817-1899), Italian algologist. 
-**Abbreviated name**: *Castracane*
+**Abbreviated name**: *Castracane* \[standard form in IPNI: *Castrac.*\]
 
 #### Herbarium and types
 

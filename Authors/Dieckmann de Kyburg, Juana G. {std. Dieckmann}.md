@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33259340) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33259340) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/20011717-2), [Wikidata](https://www.wikidata.org/wiki/Q5953793). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dieckmann de Kyburg, Juana G. (fl. 1916), Argentine botanist. 
-**Abbreviated name**: *Dieckmann*
+**Abbreviated name**: *Dieckmann* \[standard form in IPNI: *Dieckmann*\]
 
 #### Herbarium and types
 

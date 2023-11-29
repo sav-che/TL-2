@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33066586) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33066586) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11612-1), [Wikidata](https://www.wikidata.org/wiki/Q21612581). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Whistling, Christian Gottfried (1757-1807), German physician and botanist. 
-**Abbreviated name**: *Whistling*
+**Abbreviated name**: *Whistling* \[standard form in IPNI: *Whistling*\]
 
 #### Herbarium and types
 

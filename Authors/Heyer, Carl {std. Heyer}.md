@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33068429) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33068429) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3921-1), [Wikidata](https://www.wikidata.org/wiki/Q102556). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Heyer, Carl (1797-1856), German botanist and professor of forestry at Giessen. 
-**Abbreviated name**: *Heyer*
+**Abbreviated name**: *Heyer* \[standard form in IPNI: *Heyer*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33120252) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33120252) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/473-1), [Wikidata](https://www.wikidata.org/wiki/Q36559839). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Barckhausen, Justus Christian Gottlieb Willibald {std. Barckhausen} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Barckhausen, Gottlieb (*fl*. 1775), German physician and botanist. 
-**Abbreviated name**: *Barckhausen*
+**Abbreviated name**: *Barckhausen* \[standard form in IPNI: *Barckh.*\]
 
 #### Herbarium and types
 

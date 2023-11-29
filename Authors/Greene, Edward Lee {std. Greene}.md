@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 995](https://www.biodiversitylibrary.org/page/33121126) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 995](https://www.biodiversitylibrary.org/page/33121126) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3366-1), [Wikidata](https://www.wikidata.org/wiki/Q2661665). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Greene, Edward Lee (later Rev.) {std. Greene} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Greene, Edward Lee (1843-1915), American botanist and clergyman, 
-**Abbreviated name**: *Greene*
+**Abbreviated name**: *Greene* \[standard form in IPNI: *Greene*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33066518) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33066518) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11544-1), [Wikidata](https://www.wikidata.org/wiki/Q90018). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wenderoth, Georg Wilhelm Franz (1774-1861), German (Hessen) botanist; studied pharmacy at pharmacies in Marburg and Schweinfurth, id. medicine at Univ. Marburg; Dr. med. 1801; lecturer ("Privatdozent") Marburg 1802-1806; professor of medecine in Rinteln 1806-1810; professor of botany and pharmacology at Marburg 1810-1861; founder of the Marburg botanical garden. 
-**Abbreviated name**: *Wender.*
+**Abbreviated name**: *Wender.* \[standard form in IPNI: *Wender.*\]
 
 #### Herbarium and types
 

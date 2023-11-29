@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33258583) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33258583) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2986-1), [Wikidata](https://www.wikidata.org/wiki/Q21341419). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gaiser, Lulu Odell (1896-1965), Canadian plant cytologist and taxonomist, born 1 Jun 1896 in Crediton, Ontario, A.B. 1916 Univ. of Western Ontario, London, Ontario, A.M. 1921 and Ph.D. 1927 Columbia Univ., New York, New York, asst., Dept. of Botany, Barnard College, New York, New York 1921-1923, Junior Pathologist, U.S.D.A., Washington, D.C. 1924-1925, lecturer then Prof. of Biology, McMaster Univ., Hamilton, Ontario 1925-1949, Gray Herb., Harvard Univ., Cambridge, Mass. 1949-1954, died 7 Apr 1965 in Crediton. 
-**Abbreviated name**: *Gaiser*
+**Abbreviated name**: *Gaiser* \[standard form in IPNI: *Gaiser*\]
 
 #### Herbarium and types
 

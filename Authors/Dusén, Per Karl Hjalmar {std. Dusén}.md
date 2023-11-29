@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33120843) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33120843) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18304-1), [Wikidata](https://www.wikidata.org/wiki/Q5625930). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dusén, Per Karl Hjalmar {std. Dusén} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dusén, Per Karl Hjalmar (1855-1926), Swedish botanist, palaeobotanist and explorer, originally civil engineer. 
-**Abbreviated name**: *Dusén*
+**Abbreviated name**: *Dusén* \[standard form in IPNI: *Dusén*\]
 
 #### Herbarium, types and collections
 

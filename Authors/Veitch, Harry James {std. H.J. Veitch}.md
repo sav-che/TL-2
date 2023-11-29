@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 688](https://www.biodiversitylibrary.org/page/33212730) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 688](https://www.biodiversitylibrary.org/page/33212730) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11107-1), [Wikidata](https://www.wikidata.org/wiki/Q5673040). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Veitch, Harry James (1840-1924), British horticulturist; second son of James Veitch (1815-1869), from 1858 with the Chelsea nurseries of James Veitch, main promoter of the Chelsea flower shows; leading spirit and most enterprising member of the Veitch family in the firm "James Veitch & Sons"; knighted 1912. 
-**Abbreviated name**: *H.J. Veitch*
+**Abbreviated name**: *H.J. Veitch* \[standard form in IPNI: *H.J.Veitch*\]
 
 #### Herbarium and types
 

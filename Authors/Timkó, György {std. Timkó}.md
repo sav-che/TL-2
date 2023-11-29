@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33212403) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33212403) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27741-1), [Wikidata](https://www.wikidata.org/wiki/Q21512726). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Timkó, György (1881-1945), Hungarian lichenologist; in charge of the lichen collections of the Botanical Department of the Museum of Natural Sciences, Budapest. 
-**Abbreviated name**: *Timkó*
+**Abbreviated name**: *Timkó* \[standard form in IPNI: *Timkó*\]
 
 #### Herbarium and types
 

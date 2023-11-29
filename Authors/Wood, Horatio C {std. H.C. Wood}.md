@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33066777) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33066777) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11842-1), [Wikidata](https://www.wikidata.org/wiki/Q3140505). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wood, Horatio C (1841-1920), American physician, entomologist and botanist; M.D. Pennsylvania Univ., Philadelphia 1862; practicing physician from 1865; professor of botany Pennsylvania 1866-1876; professor of diseases of the nervous system 1875-1902, id. of materia medica & therapeutics 1876-1906; emeritus professor from 1906. 
-**Abbreviated name**: *H.C. Wood*
+**Abbreviated name**: *H.C. Wood* \[standard form in IPNI: *H.C.Wood*\]
 
 #### Herbarium and types
 

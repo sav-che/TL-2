@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33264996) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33264996) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/396-1), [Wikidata](https://www.wikidata.org/wiki/Q21505557). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Baillet, Casimir Célestin (1820-1900), French veterinarian, botanist and highschool teacher, studied at the veterinary École d'Alfort until 1847, army veterinarian 1847-1849, professor of natural history at the École vétérinaire de Toulouse 1849, id. at the École d'Alfort 1865, ultimately director of the École vétérinaire de Toulouse 1878-1888. 
-**Abbreviated name**: *Baillet*
+**Abbreviated name**: *Baillet* \[standard form in IPNI: *Baillet*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33259053) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33259053) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/1952-1), [Wikidata](https://www.wikidata.org/wiki/Q496775). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dahl, Andreas {std. Dahl}|first entry]] for this author
 
 ### Author
 
 \* Dahl, Andreas (1751-1789), Swedish physician and botanist, born at Warnhelm, Västergötland, studied at Uppsala 1770, "med. filos. kand." 1776, at Kiel 1786, "demonstrator" and medical adjunct at Åbo (Turku) 1787-1789. 
-**Abbreviated name**: *Dahl*
+**Abbreviated name**: *Dahl* \[standard form in IPNI: *Dahl*\]
 
 #### Herbarium and types
 

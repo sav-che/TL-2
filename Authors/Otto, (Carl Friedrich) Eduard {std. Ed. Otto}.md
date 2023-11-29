@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33355946) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33355946) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7205-1), [Wikidata](https://www.wikidata.org/wiki/Q5749284). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Otto, \[Carl Friedrich\] Eduard (1812-1885), German botanist and horticulturist at Hamburg; son of C. F. Otto; collected in Cuba, North America and Venezuela 1838-1841; curator of the Hamburg botanical garden 1844-1866; later commercial nurseryman at Altona. 
-**Abbreviated name**: *Ed. Otto*
+**Abbreviated name**: *Ed. Otto* \[standard form in IPNI: *Ed.Otto*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33259101) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33259101) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/1986-1), [Wikidata](https://www.wikidata.org/wiki/Q21509778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Daniels, Francis Potter {std. Daniels}|first entry]] for this author
 
 ### Author
 
 \* Daniels, Francis Potter (1869-1947), American botanist and minister, born at Ionia, Mich. 1869, A.B. at Michigan 1895, A.M. Missouri 1897, Harvard 1897-1898, Ph.D. 1905, professor of romance languages Cornell Coll. (Iowa) 1906-1909, at Wabash College 1909-1916, taught in summer session at Univ. Colorado 1906, was assistant curator US 1911, professor of romance languages at Georgia State College for women from 1923. 
-**Abbreviated name**: *Daniels*
+**Abbreviated name**: *Daniels* \[standard form in IPNI: *Daniels*\]
 
 #### Herbarium and types
 

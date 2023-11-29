@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33212484) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33212484) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10794-1), [Wikidata](https://www.wikidata.org/wiki/Q2613347). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Traub, Hamilton Paul (1890-1983), American botanist and plant breeder of German descent; on active service in World War I 1917-1919; Dr. phil. Univ. Minnesota 1927; chief division of horticulture, Texas Agr. Exp. Station at Bryan, Texas 1928-1930, at Austin, Texas 1930-1931; horticulturist at Gainesville, Florida 1932; with USDA at Orlando, Florida 1933-1940, with USDA Beltsville 1940-1952; in retirement at Arcadia and La Jolla, California continuing his work on Amaryllidaceae until 1983; founder of the American Amaryllis Society and American Plant Life Society. 
-**Abbreviated name**: *Traub*
+**Abbreviated name**: *Traub* \[standard form in IPNI: *Traub*\]
 
 #### Herbarium and types
 

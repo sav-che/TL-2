@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 721](https://www.biodiversitylibrary.org/page/33355808) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 721](https://www.biodiversitylibrary.org/page/33355808) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6901-1), [Wikidata](https://www.wikidata.org/wiki/Q1515170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nel, Gert Cornelius (1885-1950), South African botanist; Dr. phil. Berlin 1914 (under Engler); professor of botany at Stellenbosch, South Africa 1921-1950. 
-**Abbreviated name**: *Nel*
+**Abbreviated name**: *Nel* \[standard form in IPNI: *Nel*\]
 
 #### Herbarium and types
 

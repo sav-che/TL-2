@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33066441) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33066441) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11434-1), [Wikidata](https://www.wikidata.org/wiki/Q18917507). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Watson, John Forbes (1827-1892), Scottish physician and economic botanist; M.D. Aberdeen 1847; assistant surgeon Bombay medical service 1850; lecturer in physiology at Grant medical college; on sick leave to England 1853; reporter on economic products of India, keeper of the India office Museum 1858-1879. 
-**Abbreviated name**: *J.F. Wats.*
+**Abbreviated name**: *J.F. Wats.* \[standard form in IPNI: *J.F.Watson*\]
 
 #### Herbarium and types
 

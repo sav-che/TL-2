@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33265864) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33265864) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/20012695-2), [Wikidata](https://www.wikidata.org/wiki/Q21508691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clarke, William Ambrose (1841-1911), British solicitor and botanist, born in Hinckley, Leicestershire, practised as a solicitor at Chippenham, mayor of the town 1879, became interested in botany and wrote in the Journal of Botany 1887, went to live at Oxford 1892-1911. 
-**Abbreviated name**: *W.A. Clarke*
+**Abbreviated name**: *W.A. Clarke* \[standard form in IPNI: *W.A.Clarke*\]
 
 #### Herbarium and types
 

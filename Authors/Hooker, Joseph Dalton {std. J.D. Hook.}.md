@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33068509) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33068509) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4084-1), [Wikidata](https://www.wikidata.org/wiki/Q157501). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hooker, Joseph Dalton (1817-1911), British botanist and explorer; pioneer plant geographer; son of William Jackson Hooker; graduated from Glasgow 1839; to Antarctic 1839-1843 on Ross's expedition; contact with Darwin 1843; botanist to Geological Survey 1846; assistant director Kew 1855; director id. 1865; president Royal Society 1873-1878; retirement from directorship Kew 1885; last publ. (Bot. Mag. pl. 8396) 1911. 
-**Abbreviated name**: *J. D. Hook.*
+**Abbreviated name**: *J. D. Hook.* \[standard form in IPNI: *Hook.f.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33190082) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33190082) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8199-1), [Wikidata](https://www.wikidata.org/wiki/Q3745304). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Re, Filippo (1763-1817), Italian economic botanist and phytopathologist; professor of agriculture at Bologna; subsequently professor of botany and agriculture and director of the botanical garden at Modena 1814-1817. 
-**Abbreviated name**: *F. Re*
+**Abbreviated name**: *F. Re* \[standard form in IPNI: *F.Re*\]
 
 #### Herbarium and types
 

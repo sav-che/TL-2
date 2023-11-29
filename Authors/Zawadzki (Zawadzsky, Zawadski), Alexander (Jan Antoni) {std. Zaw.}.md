@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-12-29 15:37:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33066861) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33066861) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11996-1), [Wikidata](https://www.wikidata.org/wiki/Q2355765). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zawadzki \[Zawadzsky, Zawadski\], Alexander \[Jan Antoni\] (1798-1868), Austrian-Silesian botanist; studied at the Universities of Ölmütz 1819-1820 and Lemberg 1821; botanical assistant at Lemberg 1822; high school teacher at Lemberg 1824; assistant for mathematics and physics Univ. Lemberg 1830-1837; regular professor id. Przemysl 1837; professor of physics Univ. Lemberg 1849; teacher for natural history at the k.k. Oberrealschule, Brünn 1850-1867. 
-**Abbreviated name**: *Zaw.*
+**Abbreviated name**: *Zaw.* \[standard form in IPNI: *Zaw.*\]
 
 #### Herbarium and types
 

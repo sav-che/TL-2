@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33189738) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33189738) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7706-1), [Wikidata](https://www.wikidata.org/wiki/Q21523015). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pilous, Zdnek (1912-x), Czechoslavak bryologist, Privatgelehrter at Hostinné. 
-**Abbreviated name**: *Pilous*
+**Abbreviated name**: *Pilous* \[standard form in IPNI: *Pilous*\]
 
 #### Herbarium and types
 

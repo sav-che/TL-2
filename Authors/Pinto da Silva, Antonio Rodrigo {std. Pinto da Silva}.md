@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33189740) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33189740) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7715-1), [Wikidata](https://www.wikidata.org/wiki/Q4246858). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pinto da Silva, Antonio Rodrigo (1912-x), Portugese agronomic engineer and botanist; at the Estação agronómica nacional, scientific officer from 1937 (at Bélem-Lisboa 1937-1941, Sacavém 1942-1964, at Oeiras 1964-x), lately as investigador-coordenador; member (and chairman) of the Special Committee for Pteridophytes and Phanerogams, later Committee for Spermatophyta 1950-1969). 
-**Abbreviated name**: *Pinto da Silva*
+**Abbreviated name**: *Pinto da Silva* \[standard form in IPNI: *P.Silva*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33266773) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33266773) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1465-1), [Wikidata](https://www.wikidata.org/wiki/Q545430). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cavanilles, Antonio José {std. Cav.}|first entry]] for this author
 
 ### Author
 
 \* Cavanilles, Antonio José (1745-1804), Spanish clergyman and botanist, educated with the Jesuits at the Valencia Gymnasium and the University of Valencia, studying philosophy and related sciences, tutor to the son of the Duque del Infantada, with his pupil to Paris 1777-1781, studying with Thouin at the Paris botanical garden, subsequently with de Jussieu from1779 and later also with Desfontaines, returned to Madrid 1789, worked in the Madrid botanical garden, joined with the Malaspina expedition, from 1801 in charge of the Madrid botanical garden. 
-**Abbreviated name**: *Cav.*
+**Abbreviated name**: *Cav.* \[standard form in IPNI: *Cav.*\]
 
 #### Herbarium and types
 

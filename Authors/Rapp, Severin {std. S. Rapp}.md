@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33190052) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33190052) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8146-1), [Wikidata](https://www.wikidata.org/wiki/Q21606975). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rapp, Severin (1853-1941), German (Württemberg) shoemaker; emigrated to the United States in 1883; settled at Sanford, Florida 1884; from 1907 interested in botany and an active bryological collector who contributed to exsiccatae issued by A. J. Grout and F. Verdoorn; died in an automobile accident. 
-**Abbreviated name**: *S. Rapp*
+**Abbreviated name**: *S. Rapp* \[standard form in IPNI: *S.Rapp*\]
 
 #### Herbarium and types
 

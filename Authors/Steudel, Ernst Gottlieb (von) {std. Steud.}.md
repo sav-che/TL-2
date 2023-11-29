@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33334046) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33334046) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10122-1), [Wikidata](https://www.wikidata.org/wiki/Q62821). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steudel, Ernst Gottlieb \[von\] (1783-1856), German (Württemberg) botanist and physician; studied medicine at Tübingen University; Dr. med. ib. 1805; from 1806 practicing physician at Esslingen, from 1826 as Königlich Würtembergischer Ober-Amts-Physikus; founder, with C.F. Hochstetter, of the "Botanischer Reiseverein", Esslingen 1825. 
-**Abbreviated name**: *Steud.*
+**Abbreviated name**: *Steud.* \[standard form in IPNI: *Steud.*\]
 
 #### Herbarium and types
 

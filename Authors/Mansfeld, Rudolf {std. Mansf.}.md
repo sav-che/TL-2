@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33355368) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33355368) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6077-1), [Wikidata](https://www.wikidata.org/wiki/Q1870718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mansfeld, Rudolf (1901-1960), German botanist; student of A. Engler; Dr. phil. Berlin 1924; from 1926-1943 at Berlin-Dahlem; in war service 1943-1946; from 1946-1960 at the Institut für Kulturpflanzenforschung Gatersleben, DDR. 
-**Abbreviated name**: *Mansf.*
+**Abbreviated name**: *Mansf.* \[standard form in IPNI: *Mansf.*\]
 
 #### Herbarium and types
 

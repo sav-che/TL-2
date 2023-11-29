@@ -27,14 +27,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33189460) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33189460) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7278-1), [Wikidata](https://www.wikidata.org/wiki/Q16650116). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palm, Björn Torvald (1887-1956), Swedish botanist and traveller; Dr. phil. Stockholm, lecturer at the University of Stockholm 1915-1918 and 1932-1939, assistant for plant pathology at Buitenzorg, Java, 1916, director at a plant-breeding station for tobacco at Deli, Sumatra, 1920, on plantations in Guatemala 1926-1929; professor at the University of Illinois, Urbana, 1930-1932; expert of plant-pathology at Stockholm 1945-1947; travelled in Madagascar 1912-1914, in Dutch East Indies 1915-1926, in Central America and the West Indies 1926-1930. 
-**Abbreviated name**: *Palm*
+**Abbreviated name**: *Palm* \[standard form in IPNI: *Palm*\]
 
 #### Herbarium and types
 

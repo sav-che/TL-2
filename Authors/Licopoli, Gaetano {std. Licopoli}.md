@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33355118) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33355118) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22328-1), [Wikidata](https://www.wikidata.org/wiki/Q21519041). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Licopoli, Gaetano (1833-1897), Italian botanist at Napoli; high school teacher and assistant at the Napoli botanical garden; student of Gasparrini 
-**Abbreviated name**: *Licopoli*
+**Abbreviated name**: *Licopoli* \[standard form in IPNI: *Licop.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33355940) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33355940) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7183-1), [Wikidata](https://www.wikidata.org/wiki/Q21522455). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Oskamp, Dirk Leonard (1768-?), Dutch botanist and physician at Utrecht. 
-**Abbreviated name**: *Oskamp*
+**Abbreviated name**: *Oskamp* \[standard form in IPNI: *Oskamp*\]
 
 #### Herbarium and types
 

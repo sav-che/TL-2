@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33212076) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33212076) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10172-1), [Wikidata](https://www.wikidata.org/wiki/Q19279295). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stolley, Ernst (1869-?), German (Schleswig-Holstein) botanist and palaeontologist; Dr. phil. München 1891; assistant at the Mineral. Mus. Kiel 1891-1901; habil. 1894; professor of geology and mineralogy at the Technische Hochschule, Braunschweig from 1891. 
-**Abbreviated name**: *Stolley*
+**Abbreviated name**: *Stolley* \[standard form in IPNI: *Stolley*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33212164) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33212164) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10341-1), [Wikidata](https://www.wikidata.org/wiki/Q2003356). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sweet, Robert (1783-1835), British horticulturist, botanist and ornithologist; nurseryman at Stockwell 1810-1815, Fulham 1815-1819, Chelsea 1819-1826. 
-**Abbreviated name**: *Sweet*
+**Abbreviated name**: *Sweet* \[standard form in IPNI: *Sweet*\]
 
 #### Herbarium and types
 

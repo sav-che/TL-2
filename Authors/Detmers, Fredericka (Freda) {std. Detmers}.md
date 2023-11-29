@@ -23,14 +23,13 @@ ipni_record_created: 2011-02-24 11:07:54.0
 ipni_record_modified: 2013-05-15 11:41:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33259285) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33259285) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/20017439-1), [Wikidata](https://www.wikidata.org/wiki/Q16856167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Detmers, Fredericka \[Freda\] (1867-1934), American botanist, pathologist and educator, born 16 Jan 1867, Dixon, Illinois, died 5 Sep 1934, Los Angeles, California, M.S. 1891, Ph.D. 1912 both from the Ohio State University, with the Ohio Agricultural Experiment Station 1889-1892, 1918-1929. 
-**Abbreviated name**: *Detmers*
+**Abbreviated name**: *Detmers* \[standard form in IPNI: *Detmers*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33120845) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33120845) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2411-1), [Wikidata](https://www.wikidata.org/wiki/Q11925800). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Duthie, John Firminger {std. Duthie} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Duthie, John Firmimger (1845-1922), British botanist in India. 
-**Abbreviated name**: *Duthie*
+**Abbreviated name**: *Duthie* \[standard form in IPNI: *Duthie*\]
 
 #### Herbarium and types
 

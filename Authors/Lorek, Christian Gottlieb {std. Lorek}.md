@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33355243) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33355243) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5746-1), [Wikidata](https://www.wikidata.org/wiki/Q21519496). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lorek, Christian Gottlieb (1788-1871), German botanist and high school teacher at Königsberg; Dr. phil. Königsberg 1812; taught at the Burgschule 1811-1850, retired because of increasing loss of eye-sight. 
-**Abbreviated name**: *Lorek*
+**Abbreviated name**: *Lorek* \[standard form in IPNI: *Lorek*\]
 
 #### Herbarium and types
 

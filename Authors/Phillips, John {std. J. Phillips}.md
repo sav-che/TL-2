@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33189713) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33189713) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7643-1), [Wikidata](https://www.wikidata.org/wiki/Q1701428). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Phillips, John (1800-1874), British geologist and palaeobotanist; curator of the York Museum 1824-1840; professor of geology, Trinity Coll., Dublin 1844-1853; keeper Ashmolean museum, Oxford 1854-1870. 
-**Abbreviated name**: *J. Phillips*
+**Abbreviated name**: *J. Phillips* \[standard form in IPNI: *J.Phillips*\]
 
 #### Collections and types
 

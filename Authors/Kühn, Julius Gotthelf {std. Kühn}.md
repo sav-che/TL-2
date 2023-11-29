@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/page/33068924) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 682](https://www.biodiversitylibrary.org/page/33068924) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21787-1), [Wikidata](https://www.wikidata.org/wiki/Q66206). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kühn, Julius Gotthelf (1825-1910), German phytopathologist at Halle, Preussischer Geheimer Ober-Regierungsrat. 
-**Abbreviated name**: *Kühn*
+**Abbreviated name**: *Kühn* \[standard form in IPNI: *J.G.Kühn*\]
 
 #### Herbarium and types
 

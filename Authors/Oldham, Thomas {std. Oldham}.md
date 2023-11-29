@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33355905) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33355905) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7123-1), [Wikidata](https://www.wikidata.org/wiki/Q7792882). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Oldham, Thomas (1816-1878), British geologist, paleontologist and botanist; B. A. Dublin 1836; director of the Irish Geological Survey (1840-1850), of the Indian Geological Survey 1850-1876. 
-**Abbreviated name**: *Oldham*
+**Abbreviated name**: *Oldham* \[standard form in IPNI: *Oldham*\]
 
 #### Herbarium and types
 

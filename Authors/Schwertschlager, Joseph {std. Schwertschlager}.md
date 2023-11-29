@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33333588) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33333588) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9376-1), [Wikidata](https://www.wikidata.org/wiki/Q21608550). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwertschlager, Joseph (1853-1924), German (Bavarian) geologist, botanist, high school teacher and clergyman; ordained 1877; town chaplain of Monheim ca. 1877-1880; studied philosophy and natural sciences at Würzburg; Dr. phil. ib. 1882; professor of natural sciences at the episcopal Lyceum of Eichstätt 1882-1923. 
-**Abbreviated name**: *Schwertschlager*
+**Abbreviated name**: *Schwertschlager* \[standard form in IPNI: *Schwertschl.*\]
 
 #### Herbarium and types
 

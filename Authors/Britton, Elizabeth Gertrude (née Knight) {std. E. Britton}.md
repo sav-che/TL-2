@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33120462) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33120462) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12361-1), [Wikidata](https://www.wikidata.org/wiki/Q2567402). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Britton, Elizabeth Gertrude (née Knight) {std. E. Britton} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Britton, Elizabeth Gertrude (née Knight) (1858-1934), American botanist, married Nathaniel Lord Britton, 27 Aug 1885. 
-**Abbreviated name**: *E. Britton*
+**Abbreviated name**: *E. Britton* \[standard form in IPNI: *E.Britton*\]
 
 #### Herbarium and types
 

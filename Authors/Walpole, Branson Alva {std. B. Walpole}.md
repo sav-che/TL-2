@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33066388) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33066388) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11357-1), [Wikidata](https://www.wikidata.org/wiki/Q21612081). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walpole, Branson Alva (1890-1952), American botanist and teacher; teacher of agriculture, high school, Ypsilanti, Michigan 1915-1921, asst. professor of vocational education Michigan State College 1921. 
-**Abbreviated name**: *B. Walpole*
+**Abbreviated name**: *B. Walpole* \[standard form in IPNI: *Walpole*\]
 
 #### Herbarium and types
 

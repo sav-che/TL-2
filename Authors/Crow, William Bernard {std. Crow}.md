@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33266158) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33266158) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/32843-1), [Wikidata](https://www.wikidata.org/wiki/Q21509566). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Crow, William Bernard (1895-?), British algologist, studied at London, Ph.D., D.Sc., senior lecturer in biology South West Essex Technical College, from 1918 at Botanical Dept. East London College, from ca. 1922 at University College Cardiff, S. Wales and Monmouthshire, from ca. 1929 Head of the Dept. of Biology, The Technical College, Huddersfield, Thesis for Doctor of Science at University London 1929. 
-**Abbreviated name**: *Crow*
+**Abbreviated name**: *Crow* \[standard form in IPNI: *Crow*\]
 
 #### Herbarium and types
 

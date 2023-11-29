@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/page/33190404) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/page/33190404) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8656-1), [Wikidata](https://www.wikidata.org/wiki/Q2615068). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rottler, Johan Peter (1749-1836), Strassburg (Alsatia) born Danish missionary, traveller, orientalist and botanist; Dr. phil. Wien 1795; at Tranquebar (South of Madras on Coromandel Coast) 1776-1806; subsequently with English missionaries at Madras, travelling in the Ganges region and Ceylon (1788, 1795). 
-**Abbreviated name**: *Rottler*
+**Abbreviated name**: *Rottler* \[standard form in IPNI: *Rottler*\]
 
 #### Herbarium and types
 

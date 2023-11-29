@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/page/33190364) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/page/33190364) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8600-1), [Wikidata](https://www.wikidata.org/wiki/Q2883617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rosenstock, Eduard (1856-post 1928), German (Kurhessen) pteridologist; owner of large fern collections; high school teacher at Gotha from ca. 1889. 
-**Abbreviated name**: *Rosenstock*
+**Abbreviated name**: *Rosenstock* \[standard form in IPNI: *Rosenst.*\]
 
 #### Herbarium and types
 

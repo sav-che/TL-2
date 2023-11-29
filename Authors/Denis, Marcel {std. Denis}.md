@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33259249) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33259249) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2127-1), [Wikidata](https://www.wikidata.org/wiki/Q5995459). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Denis, Marcel (1897-1929), French botanist, assistant at the Botanical Laboratory of the Sorbonne, Dr. ès-Sci. 1921, assistant at the Faculté des Sciences de Clermont-Ferrand, id. as "professeur suppléant à l'École de Médecine", Clermont-Ferrand. 
-**Abbreviated name**: *Denis*
+**Abbreviated name**: *Denis* \[standard form in IPNI: *Denis*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33120679) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33120679) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/4372-1), [Wikidata](https://www.wikidata.org/wiki/Q2618977). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cordemoy, Eugène Jacob de (1835-1911), botanist on Réunion. 
-**Abbreviated name**: *Cordem.*
+**Abbreviated name**: *Cordem.* \[standard form in IPNI: *Cordem.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33212411) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33212411) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10692-1), [Wikidata](https://www.wikidata.org/wiki/Q21610779). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tita, Antonius (x-1729), Italian botanist at Padua, travelled and botanised in the southern Alps. 
-**Abbreviated name**: *Tita*
+**Abbreviated name**: *Tita* \[standard form in IPNI: *Tita*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33066632) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33066632) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11682-1), [Wikidata](https://www.wikidata.org/wiki/Q21612692). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wildt, Albin (1845-1927), Moravian mining engineer; studied at Brünn (Brno) and Leoben; with mines in Stanz (Steiermark), from 1868 with the Austrian railroads, from 1869-1882 as such in Roschitza and Quina in the Banat; in Kladno 1882-1889; from 1889-1892 in Oravica, Banat; with various mines in Zöptau, Keltschau and Gaya from 1892-1901; in retirement living in Brünn. 
-**Abbreviated name**: *A. Wildt*
+**Abbreviated name**: *A. Wildt* \[standard form in IPNI: *A.Wildt*\]
 
 #### Herbarium and types
 

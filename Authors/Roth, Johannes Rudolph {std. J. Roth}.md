@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 922](https://www.biodiversitylibrary.org/page/33190393) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 922](https://www.biodiversitylibrary.org/page/33190393) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8639-1), [Wikidata](https://www.wikidata.org/wiki/Q111301). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roth, Johannes Rudolph (1814-1858), German zoologist and explorer; professor of zoology München 1843; travelled to Arabia petraea, Palestine, the Libanon and Egypt with M. Erdle and G.H. von Schubert 1836-1837; with W.C. Harris to Schoa (Ethiopia) 1841-1843; in Aden 1847; in Greece and Palestine 1852-1853; ultimately in Palestine, Lebanon and Syria 1856-1858; died of malaria in the Antilibanon. 
-**Abbreviated name**: *J. Roth*
+**Abbreviated name**: *J. Roth* \[standard form in IPNI: *J.Roth*\]
 
 #### Herbarium and types
 

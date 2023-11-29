@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33266177) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33266177) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17576-1), [Wikidata](https://www.wikidata.org/wiki/Q16066497). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cummings, Clara Eaton {std. Cumm.}|first entry]] for this author
 
 ### Author
 
 \* Cummings, Clara Eaton (1855-1906), American botanist (lichenologist) and teacher in botany, born in Plymouth, N.H., educated on New Hampshire normal School in Plymouth, N.H., studied at Wellesley College 1876-1880, curator of the museum of the college 1878-1879, instructor in botany 1879-1886, studied at the University of Zürich 1886-1887 (with Arnold Dodel), returned to Wellesley 1887, associate professor of cryptogamic botany, temporary chairman of the department, was relieved of administrative duties in 1906. 
-**Abbreviated name**: *Cumm.*
+**Abbreviated name**: *Cumm.* \[standard form in IPNI: *Cumm.*\]
 
 #### Herbarium and types
 

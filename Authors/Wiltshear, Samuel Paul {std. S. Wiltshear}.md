@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33066697) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33066697) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11750-1), [Wikidata](https://www.wikidata.org/wiki/Q21612803). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wiltshear, Samuel Paul (1891-1967), British mycologist; M.A. Cambridge; Dr. phil. Bristol 1913; mycologist Long Ashton Research Station 1919-1922; assistant director, Imperial Bureau of Mycology, Kew 1924-1939, director 1940-1956. 
-**Abbreviated name**: *S. Wiltshear*
+**Abbreviated name**: *S. Wiltshear* \[standard form in IPNI: *Wiltshire*\]
 
 #### Herbarium and types
 

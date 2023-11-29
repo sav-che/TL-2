@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 796](https://www.biodiversitylibrary.org/page/33190267) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 796](https://www.biodiversitylibrary.org/page/33190267) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8402-1), [Wikidata](https://www.wikidata.org/wiki/Q5891892). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ringius, Hans Henric \[Henrik\] (1808-1874), Swedish clergyman and botanist in Skåne; Dr. phil. Lund 1838; ultimately rector at Silvåkra and Revinge. 
-**Abbreviated name**: *Ringius*
+**Abbreviated name**: *Ringius* \[standard form in IPNI: *Ringius*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33355271) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33355271) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5805-1), [Wikidata](https://www.wikidata.org/wiki/Q21519571). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ludwig, Clinton Albert (1886-1941), American mycologist and phytopathologist; studied at Purdue University (M. Sc. 1914); Dr. phil. Univ. Mich. 1917; plant pathologist at the South Carolina Experiment Station, Clemson College until 1928; from then on plant pathologist with USDA, Washington, D. C. 
-**Abbreviated name**: *C. A. Ludw.*
+**Abbreviated name**: *C. A. Ludw.* \[standard form in IPNI: *C.A.Ludw.*\]
 
 #### Herbarium and types
 

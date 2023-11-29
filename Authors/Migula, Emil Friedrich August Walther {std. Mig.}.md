@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33355561) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33355561) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23368-1), [Wikidata](https://www.wikidata.org/wiki/Q73247). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Migula, Emil Friedrich August Walther (1863-1938), German botanist; Dr. phil. Breslau 1888; lecturer, from 1893 professor of botany at the Technical University of Karlsruhe (1888-1904) and at the Forestry School of Eisenach (1904-1915). 
-**Abbreviated name**: *Mig.*
+**Abbreviated name**: *Mig.* \[standard form in IPNI: *Mig.*\]
 
 #### Herbarium and types
 

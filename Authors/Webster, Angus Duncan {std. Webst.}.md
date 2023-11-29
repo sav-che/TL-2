@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33066476) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33066476) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11478-1), [Wikidata](https://www.wikidata.org/wiki/Q36512970). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Webster, Angus Duncan (*fl*. 1890-1920), British (Scottish) horticulturist; manager of private woodlands; from 1896-1920 park superintendent Regents Park, London. 
-**Abbreviated name**: *Webst.*
+**Abbreviated name**: *Webst.* \[standard form in IPNI: *Webster*\]
 
 #### Herbarium and types
 

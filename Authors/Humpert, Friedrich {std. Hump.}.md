@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33068614) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33068614) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4229-1), [Wikidata](https://www.wikidata.org/wiki/Q36554835). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Humpert, Friedrich (*fl*. 1887), German botanist and high school teacher at Bochum. 
-**Abbreviated name**: *Hump.*
+**Abbreviated name**: *Hump.* \[standard form in IPNI: *Hump.*\]
 
 #### Herbarium and types
 

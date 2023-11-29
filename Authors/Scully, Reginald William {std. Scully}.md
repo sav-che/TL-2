@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33333603) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33333603) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9398-1), [Wikidata](https://www.wikidata.org/wiki/Q21608576). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scully, Reginald William (1858-1935), Irish botanist; studied medicine but never practiced, dedicating himself to botany. 
-**Abbreviated name**: *Scully*
+**Abbreviated name**: *Scully* \[standard form in IPNI: *Scully*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33068728) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33068728) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4621-1), [Wikidata](https://www.wikidata.org/wiki/Q21517234). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kalm, Matthias (1793-1833), Finnish botanist. 
-**Abbreviated name**: *M. Kalm*
+**Abbreviated name**: *M. Kalm* \[standard form in IPNI: *M.Kalm*\]
 
 #### Herbarium and types
 

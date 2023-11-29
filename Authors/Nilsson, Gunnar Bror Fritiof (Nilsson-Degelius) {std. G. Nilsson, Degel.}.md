@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33355841) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33355841) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/35133-1), [Wikidata](https://www.wikidata.org/wiki/Q21339039). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nilsson, Gunnar Bror Fritiof (from 1932: Nilsson-Degelius, G. B. F., from 1933 Degelius, G. B. F.) (1903-x), Swedish botanist; Dr. phil. Uppsala 1935; physiologist and lichenologist at the plant physiological institute of Uppsala University. 
-**Abbreviated name**: *G. Nilsson*, *Degel.*
+**Abbreviated name**: *G. Nilsson*, *Degel.* \[standard form in IPNI: *G.B.F.Nilsson*\]
 
 #### Herbarium and types
 

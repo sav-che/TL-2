@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33068299) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33068299) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3673-1), [Wikidata](https://www.wikidata.org/wiki/Q6111184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Harper, Roland McMillan (1878-1966), American botanist from Georgia; Ph. D. Columbia Univ. 1905; associated with the Geological Surveys of Georgia (1903-1904), Alabama (1905 and later), Florida (1903 and at intervals to 1931). 
-**Abbreviated name**: *R. M. Harper*
+**Abbreviated name**: *R. M. Harper* \[standard form in IPNI: *R.M.Harper*\]
 
 #### Herbarium and types
 

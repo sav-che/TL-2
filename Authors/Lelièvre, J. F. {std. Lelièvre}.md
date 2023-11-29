@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 833](https://www.biodiversitylibrary.org/page/33069075) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 833](https://www.biodiversitylibrary.org/page/33069075) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5581-1), [Wikidata](https://www.wikidata.org/wiki/Q36593077). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lelièvre, J. F. (*fl*. 1838), French gardener, book-seller and seed merchant at New Orleans. 
-**Abbreviated name**: *Lelièvre*
+**Abbreviated name**: *Lelièvre* \[standard form in IPNI: *Le Lièvre*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33266737) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33266737) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1425-1), [Wikidata](https://www.wikidata.org/wiki/Q18983548). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Carse, Harry (1857-1930), British teacher and amateur botanist, England born, moved to Auckland, N.Z., collected plants in Auckland, especially interested in Filices and Cyperaceae. 
-**Abbreviated name**: *Carse*
+**Abbreviated name**: *Carse* \[standard form in IPNI: *Carse*\]
 
 #### Herbarium and types
 

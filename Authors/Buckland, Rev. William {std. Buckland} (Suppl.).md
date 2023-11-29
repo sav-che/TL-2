@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33266508) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33266508) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1256-1), [Wikidata](https://www.wikidata.org/wiki/Q312389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Buckland, William {std. Buckland}|first entry]] for this author
 
 ### Author
 
 \* Buckland, Rev. William (1784-1856), British geologist and mineralogist, born in Axminster, Devonshire, educated at Winchester School, studied at Oxford, at Corpus Christi College 1801, graduated 1804, admitted to holy orders 1809, reader in mineralogy 1813, reader in geology 1818, lectured also in London, dean of Westminster 1845. 
-**Abbreviated name**: *Buckland*
+**Abbreviated name**: *Buckland* \[standard form in IPNI: *Buckland*\]
 
 #### Herbarium and types
 

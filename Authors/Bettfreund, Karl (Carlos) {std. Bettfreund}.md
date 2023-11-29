@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33120340) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33120340) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/742-1), [Wikidata](https://www.wikidata.org/wiki/Q36603151). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bettfreund, Karl \[Carlos\] (*fl*. 1887-1901), botanist of German origin in Argentina. 
-**Abbreviated name**: *Bettfreund*
+**Abbreviated name**: *Bettfreund* \[standard form in IPNI: *Bettfr.*\]
 
 #### Herbarium and types
 

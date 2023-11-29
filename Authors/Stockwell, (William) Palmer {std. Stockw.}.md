@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33212083) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33212083) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10155-1), [Wikidata](https://www.wikidata.org/wiki/Q6167701). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stockwell, \[William\] Palmer (1898-1950), American botanist, MS (Bot.) Univ. Arizona 1932; Dr. phil. Stanford 1940; technical assistant Carnegie Institution of Washington at Stanford 1932-1935; with Inst. Forest Genetics, Calif. Forest & Range Exp. Sta. until 1950, director from 1940. 
-**Abbreviated name**: *Stockw.*
+**Abbreviated name**: *Stockw.* \[standard form in IPNI: *Stockw.*\]
 
 #### Herbarium and types
 

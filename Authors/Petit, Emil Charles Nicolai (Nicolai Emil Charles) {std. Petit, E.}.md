@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33189671) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33189671) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7579-1), [Wikidata](https://www.wikidata.org/wiki/Q21522893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petit, Emil Charles Nicolai \[Nicolai Emil Charles\] (1817-1893), Danish botanist and physician; one of the founders of "Det Naturhistoriske Selskab" (later Botanisk Forening); schoolteacher from 1843-1848; military physician 1841-1852; practicing physician 1848-1852; id. in Fredensborg 1852-1873; living at Copenhagen from 1878. 
-**Abbreviated name**: *Petit, E.*
+**Abbreviated name**: *Petit, E.* \[standard form in IPNI: *E.Petit*\]
 
 #### Herbarium and types
 

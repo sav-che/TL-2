@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33190346) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33190346) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8565-1), [Wikidata](https://www.wikidata.org/wiki/Q21607370). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rombouts, Johannes Godfried Hendrik (x-1889), Dutch botanist; Dr. med. Leiden 1843. 
-**Abbreviated name**: *Rombouts*
+**Abbreviated name**: *Rombouts* \[standard form in IPNI: *Rombouts*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33265038) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33265038) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/443-1), [Wikidata](https://www.wikidata.org/wiki/Q21505621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bang, Miguel {std. Bang}|first entry]] for this author
 
 ### Author
 
 \* Bang, Miguel (1853-1936), Danish-born botanical collector, educated in gardening at the Royal Botanical Gardens Kew, to Bolivia 1883 to collect living orchids, also sets of herbarium specimens 1889-1894, later active as a gardener, collecting again, with M. Cardenas, on the Mulford Biological Exploration of the Amazon basin. 
-**Abbreviated name**: *Bang*
+**Abbreviated name**: *Bang* \[standard form in IPNI: *M.Bang*\]
 
 #### Herbarium and types
 

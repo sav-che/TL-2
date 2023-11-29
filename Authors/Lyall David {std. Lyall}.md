@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33355286) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33355286) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5861-1), [Wikidata](https://www.wikidata.org/wiki/Q5236843). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lyall David (1817-1895), British surgeon, naturalist and explorer; on Ross's Antarctic Voyage (1839-1842); in New Zealand 1847; in the Arctic with Belcher 1852; on Oregon Boundary Commission 1858-1861. 
-**Abbreviated name**: *Lyall*
+**Abbreviated name**: *Lyall* \[standard form in IPNI: *Lyall*\]
 
 #### Herbarium and types
 

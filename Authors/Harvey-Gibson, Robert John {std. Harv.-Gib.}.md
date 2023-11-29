@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33068332) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33068332) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3706-1), [Wikidata](https://www.wikidata.org/wiki/Q21515549). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Harvey-Gibson, Robert John (1860-1929), Scottish marine algologist; at Edinburgh 1882-1883; at Liverpool 1883-1921 (professor of botany 1894-1921; organizer of the Hartley Botanical Laboratory). 
-**Abbreviated name**: *Harv.-Gib.*
+**Abbreviated name**: *Harv.-Gib.* \[standard form in IPNI: *Harv.-Gibs.*\]
 
 #### Herbarium and types
 

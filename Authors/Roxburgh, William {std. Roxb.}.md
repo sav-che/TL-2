@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 954](https://www.biodiversitylibrary.org/page/33190425) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 954](https://www.biodiversitylibrary.org/page/33190425) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8682-1), [Wikidata](https://www.wikidata.org/wiki/Q748967). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roxburgh, William (1751-1815), British (Scottish) botanist and physician; MD Edinburgh 1876; with the East India Company in the Madras Medical Service 1776-1780; superintendent Samalkot (Samul Cattah) botanic garden 1781-1793; superintendant of the Calcutta botanic garden 1793-1813; in London 1806-1813; travelled to the Cape of Good Hope (1798, 1799, 1813-1814) and St. Helena 1814; died at Edinburgh. 
-**Abbreviated name**: *Roxb.*
+**Abbreviated name**: *Roxb.* \[standard form in IPNI: *Roxb.*\]
 
 #### Herbarium and types
 

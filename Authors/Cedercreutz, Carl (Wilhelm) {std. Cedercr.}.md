@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33265678) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33265678) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1473-1), [Wikidata](https://www.wikidata.org/wiki/Q21508077). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cedercreutz, Carl \[Wilhelm\] (1893-1968), Finnish phycologist at the Botanical Museum Helsinki, collected in Finland from 1916, and on the Azores 1938, Dr. phil. University of Helsinki 1927. 
-**Abbreviated name**: *Cedercr.*
+**Abbreviated name**: *Cedercr.* \[standard form in IPNI: *Cedercr.*\]
 
 #### Herbarium and types
 

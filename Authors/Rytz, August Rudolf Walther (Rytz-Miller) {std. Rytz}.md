@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1020](https://www.biodiversitylibrary.org/page/33190491) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1020](https://www.biodiversitylibrary.org/page/33190491) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8773-1), [Wikidata](https://www.wikidata.org/wiki/Q2547407). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rytz, August Rudolf Walther (Rytz-Miller) (1882-1966), Swiss botanist; Dr. phil. Bern 1907; habil. Bern 1911; curator of botanical collections Bot. Inst. Bern, 1915-1920; extraordinary professor of botany Univ. Bern 1920-1952; moving force in setting up the alpine garden Schynige Platte, nr. Interlaken; vice-director University Botanical Garden Bern 1952-1966; co-founder of the Bernische Botanische Gesellschaft (1918); outstanding worker on the flora of the Bernese Alps and historian of botany. 
-**Abbreviated name**: *Rytz*
+**Abbreviated name**: *Rytz* \[standard form in IPNI: *Rytz*\]
 
 #### Herbarium and types
 

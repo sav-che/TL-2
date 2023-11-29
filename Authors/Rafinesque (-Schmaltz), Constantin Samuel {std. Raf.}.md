@@ -29,14 +29,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-10-16 07:49:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33190020) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33190020) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8096-1), [Wikidata](https://www.wikidata.org/wiki/Q364857). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rafinesque \[-Schmaltz\], Constantin Samuel (1783-1840), Constantinople-born (French father, Greek mother of German extraction) naturalist and author; in Italy 1795-1802, in the United States 1802-1804(?), in Sicily 1804-1815; settling in the United States in 1815. 
-**Abbreviated name**: *Raf.*
+**Abbreviated name**: *Raf.* \[standard form in IPNI: *Raf.*\]
 
 #### Herbarium and types
 

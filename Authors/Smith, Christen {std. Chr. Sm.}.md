@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/page/33333807) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/page/33333807) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9779-1), [Wikidata](https://www.wikidata.org/wiki/Q1078398). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Christen (1785-1816), Norwegian botanist and physician; professor of botany at the University of Christiania (Oslo) 1814; travelled to Madeira and the Canary Islands 1815; botanist and geologist on the British expedition to the Congo under J.K. Tuckey 1816. 
-**Abbreviated name**: *Chr. Sm.*
+**Abbreviated name**: *Chr. Sm.* \[standard form in IPNI: *C.Sm.*\]
 
 #### Herbarium and types
 

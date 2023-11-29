@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33265487) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33265487) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/32481-1), [Wikidata](https://www.wikidata.org/wiki/Q5409215). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boldt, Johan Georg Robert (1861-1923), Finnish phycologist and teacher, studied at the University of Helsinki 1878, fil. kand. 1881, fil. lic. 1891, teacher at various schools in Finland. 
-**Abbreviated name**: *Boldt*
+**Abbreviated name**: *Boldt* \[standard form in IPNI: *Boldt*\]
 
 #### Herbarium and types
 

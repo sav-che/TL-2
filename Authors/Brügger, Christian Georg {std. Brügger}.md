@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33266459) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33266459) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/12364-1), [Wikidata](https://www.wikidata.org/wiki/Q5767436). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brügger, Christian Georg (1833-1899), Swiss (Churwalden nr. Chur born) biologist and geographer, attended schools in Brig, Chur and St. Gallen, studied at the University of München with e.g. Otto Sendtner, and at Innsbruck, curator of the botanical museum at the botanical garden of the Zürich Polytechnic 1859-1870, professor of natural history and geography at the Kantonschule of Chur as well as director of the natural history collections of the Rhätischen Museum 1870-1899. 
-**Abbreviated name**: *Brügger*
+**Abbreviated name**: *Brügger* \[standard form in IPNI: *Brügger*\]
 
 #### Herbarium and types
 

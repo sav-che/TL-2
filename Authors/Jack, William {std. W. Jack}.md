@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33068637) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33068637) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4358-1), [Wikidata](https://www.wikidata.org/wiki/Q15482). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jack, William (1795-1822), British botanist; educated at Aberdeen; surgeon in the Bengal medical service (1813); to Sumatra with Raffles (1818); died at sea near S. Sumatra. 
-**Abbreviated name**: *W. Jack*
+**Abbreviated name**: *W. Jack* \[standard form in IPNI: *Jack*\]
 
 #### Herbarium and types
 

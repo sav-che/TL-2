@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33264931) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33264931) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/327-1), [Wikidata](https://www.wikidata.org/wiki/Q721482). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Aublet, Jean Baptiste Christophe Fusée {std. Aubl.}|first entry]] for this author
 
 ### Author
 
 \* Aublet, Jean Baptiste Christophe Fusée (1720-1778), French botanist, studied botany and pharmacy at the University of Montpellier, went to Lyon and entered the service of the army hospitals, later in Paris studying chemistry and botany (with Bernard de Jussieu), accepted a State appointment 1752 as pharmacist stationed at Mauritius (Île de France) arriving 1753 and leaving for Paris 1761, sent to Guyana 1762-1764, briefly staying at St. Domingo 1764, returning to France 1765, working on his *Histoire des Plantes de la Guiane françoise* 1765-1775. 
-**Abbreviated name**: *Aubl.*
+**Abbreviated name**: *Aubl.* \[standard form in IPNI: *Aubl.*\]
 
 #### Herbarium and types
 

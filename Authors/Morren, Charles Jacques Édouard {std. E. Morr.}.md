@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-12-21 14:48:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33355679) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33355679) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6670-1), [Wikidata](https://www.wikidata.org/wiki/Q1065034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morren, Charles Jacques Édouard (1833-1886), Belgian botanist; professor of botany and director of the botanical garden at Liège 1857-1886; Dr. sci. Liège 1855; Dr. spéc. sci. bot. Gent 1858; son of C. F. A. Morren; specialist on Bromeliaceae. 
-**Abbreviated name**: *E. Morr.*
+**Abbreviated name**: *E. Morr.* \[standard form in IPNI: *É.Morren*\]
 
 #### Herbarium and types
 

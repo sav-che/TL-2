@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33190046) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33190046) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8131-1), [Wikidata](https://www.wikidata.org/wiki/Q20828375). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rand, Edward Lothrop (1859-1924), American botanist and lawyer; BA Harvard College 1881; LL.B and A.M. 1884; admitted to the Massachusetts bar at Boston 1885; one of the founders of the New England Botanical Club and its first corresponding secretary 1895-1921. 
-**Abbreviated name**: *E.L. Rand*
+**Abbreviated name**: *E.L. Rand* \[standard form in IPNI: *E.L.Rand*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33068272) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33068272) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3590-1), [Wikidata](https://www.wikidata.org/wiki/Q73100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hallier, Ernst Hans (1831-1904), German botanist and parasitologist, professor of botany at Jena but mostly living in Münich; nephew and pupil of Schleiden. 
-**Abbreviated name**: *Hallier*
+**Abbreviated name**: *Hallier* \[standard form in IPNI: *Hallier*\]
 
 #### Herbarium and types
 

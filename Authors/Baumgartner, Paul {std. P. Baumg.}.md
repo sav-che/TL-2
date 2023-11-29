@@ -20,9 +20,8 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33265117) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33265117) of TL-2 Suppl. I
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 

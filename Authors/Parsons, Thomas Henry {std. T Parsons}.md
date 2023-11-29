@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33189554) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33189554) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7371-1), [Wikidata](https://www.wikidata.org/wiki/Q36690630). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parsons, Thomas Henry (*fl*. 1926), British gardener, trained at Kew; from 1913 curator of the Peradeniya botanical Garden. 
-**Abbreviated name**: *T Parsons*
+**Abbreviated name**: *T Parsons* \[standard form in IPNI: *T.Parsons*\]
 
 #### Herbarium and types
 

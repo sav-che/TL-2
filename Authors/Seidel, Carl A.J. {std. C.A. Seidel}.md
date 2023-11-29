@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33333628) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33333628) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9432-1), [Wikidata](https://www.wikidata.org/wiki/Q21608624). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seidel, Carl A.J. (1858-?), German (Kiel) botanist and high school teacher; studied at Kiel, Halle and München; state teacher's examination Kiel 1882; teacher at various gymnasia in northern Germany; Dr. phil. Kiel 1890. 
-**Abbreviated name**: *C.A. Seidel*
+**Abbreviated name**: *C.A. Seidel* \[standard form in IPNI: *C.A.Seidel*\]
 
 #### Herbarium and types
 

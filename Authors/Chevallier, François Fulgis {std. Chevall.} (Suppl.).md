@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33265774) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33265774) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1586-1), [Wikidata](https://www.wikidata.org/wiki/Q2701338). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Chevallier, François Fulgis {std. Chevall.}|first entry]] for this author
 
 ### Author
 
 \* Chevallier, François Fulgis (1796-1840), French physicain and botanist, born at Paris, studied and received the Dr. méd. at the Faculté de Paris, after 1832 at the Faculté de Médecine at Strasbourg, died at Freiburg im Breisgau 
-**Abbreviated name**: *Chevall.*
+**Abbreviated name**: *Chevall.* \[standard form in IPNI: *Chevall.*\]
 
 #### Herbarium and types
 

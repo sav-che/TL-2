@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33120255) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33120255) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/498-1), [Wikidata](https://www.wikidata.org/wiki/Q547714). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Barrande, Joachim (1799-1883), French palaeontologist. 
-**Abbreviated name**: *Barrande*
+**Abbreviated name**: *Barrande* \[standard form in IPNI: *Barrande*\]
 
 #### Collections
 

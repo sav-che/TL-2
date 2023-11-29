@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33333874) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33333874) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9882-1), [Wikidata](https://www.wikidata.org/wiki/Q21609199). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Somerville, Alexander (1842-1907), British (Scottish) malacologist and botanist at Glasgow; merchant in Calcutta for 15 years; B.Sc. Univ. Glasgow. 
-**Abbreviated name**: *Somerville*
+**Abbreviated name**: *Somerville* \[standard form in IPNI: *Somerv.*\]
 
 #### Herbarium and types
 

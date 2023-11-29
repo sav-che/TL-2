@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 910](https://www.biodiversitylibrary.org/page/33190381) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 910](https://www.biodiversitylibrary.org/page/33190381) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8630-1), [Wikidata](https://www.wikidata.org/wiki/Q21607449). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roster, Giorgio (x-1968), Italian botanist and horticulturist. 
-**Abbreviated name**: *Roster*
+**Abbreviated name**: *Roster* \[standard form in IPNI: *Roster*\]
 
 #### Herbarium and types
 

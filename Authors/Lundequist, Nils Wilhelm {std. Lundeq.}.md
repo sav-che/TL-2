@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33355283) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33355283) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5841-1), [Wikidata](https://www.wikidata.org/wiki/Q5966451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lundequist, Nils Wilhelm (1804-1863), Swedish botanist; Dr. phil. Uppsala 1827; bookseller in Stockholm until 1834; from then on in various functions at Uppsala. 
-**Abbreviated name**: *Lundeq.*
+**Abbreviated name**: *Lundeq.* \[standard form in IPNI: *Lundeq.*\]
 
 #### Herbarium and types
 

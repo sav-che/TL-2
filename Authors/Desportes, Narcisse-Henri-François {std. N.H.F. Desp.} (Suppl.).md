@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33259277) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33259277) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2158-1), [Wikidata](https://www.wikidata.org/wiki/Q1098151). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Desportes, Narcisse Henri François {std. N.H.F. Desp.}|first entry]] for this author
 
 ### Author
 
 \* Desportes, Narcisse-Henri-François (1776-1856), French botanist, born at Champroud, Sarthe 1776, died at Le Mans 1856, member of the Soc. Royale d'Agriculture... du Mans, correspondant des Sociétés Linnéennes de Paris et le Normandie. 
-**Abbreviated name**: *N.H.F. Desp.*
+**Abbreviated name**: *N.H.F. Desp.* \[standard form in IPNI: *N.H.F.Desp.*\]
 
 #### Herbarium and types
 

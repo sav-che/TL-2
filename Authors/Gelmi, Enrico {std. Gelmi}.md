@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33258649) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33258649) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/34883-1), [Wikidata](https://www.wikidata.org/wiki/Q21513861). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gelmi, Enrico (1855-1901), Italian/Austrian botanist, born 1 Feb 1858 in Trento, died 5 Jan 1901 in Trento (part of the Austro-Hungarian Empire during Gelmi's lifetime). 
-**Abbreviated name**: *Gelmi*
+**Abbreviated name**: *Gelmi* \[standard form in IPNI: *Gelmi*\]
 
 #### Herbarium and types
 

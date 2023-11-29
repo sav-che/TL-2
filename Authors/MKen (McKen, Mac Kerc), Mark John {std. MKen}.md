@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33355313) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33355313) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5936-1), [Wikidata](https://www.wikidata.org/wiki/Q21520260). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 M'Ken \[McKen, Mac Kerc\], Mark John (1823-1872), Scottish gardener and plant collector; in Jamaica 1847; curator Natal botanical garden 1851-1853, 1860-1872; with the Tongut (Tongaart) Sugar Estate 1853-1860 as pioneer of the S. Afr. sugar industry. 
-**Abbreviated name**: *M'Ken*
+**Abbreviated name**: *M'Ken* \[standard form in IPNI: *McKen*\]
 
 #### Herbarium and types
 

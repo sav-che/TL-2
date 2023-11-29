@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 873](https://www.biodiversitylibrary.org/page/33190344) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 873](https://www.biodiversitylibrary.org/page/33190344) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8556-1), [Wikidata](https://www.wikidata.org/wiki/Q3423003). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rollins, Reed Clarke (1911-x), American botanist; B.A. Univ. Wyoming 1933; M.S. State College Washington 1936; Dr. phil. Harvard 1941; curator of the Dudley Herbarium of Stanford University 1940-1948; asst. prof. ib. 1940-1941, assoc. prof. ib. 1947-1948; director of the Gray Herbarium of Harvard University 1948-1979, from 1954 Asa Gray professor of systematic botany at Harvard University; specialist on Cruciferae; president of the International Association for Plant Taxonomy 1954-1959; member of the editorial committee for botanical nomenclature 1954-x. 
-**Abbreviated name**: *Rollins*
+**Abbreviated name**: *Rollins* \[standard form in IPNI: *Rollins*\]
 
 #### Herbarium and types
 

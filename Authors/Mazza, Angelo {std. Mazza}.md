@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33355479) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33355479) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6288-1), [Wikidata](https://www.wikidata.org/wiki/Q21520191). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mazza, Angelo (1844-1929), Italian algologist. 
-**Abbreviated name**: *Mazza*
+**Abbreviated name**: *Mazza* \[standard form in IPNI: *Mazza*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33121009) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33121009) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2907-1), [Wikidata](https://www.wikidata.org/wiki/Q21513537). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Frickhinger, Hermann (*fl*. 1911), German apothecary and botanist at Nördlingen. 
-**Abbreviated name**: *Frickhinger*
+**Abbreviated name**: *Frickhinger* \[standard form in IPNI: *H.Frickh.*\]
 
 #### Herbarium and types
 

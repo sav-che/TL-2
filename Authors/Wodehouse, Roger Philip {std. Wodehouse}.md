@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33066754) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33066754) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11805-1), [Wikidata](https://www.wikidata.org/wiki/Q9070396). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wodehouse, Roger Philip (1889-1978), Canadian botanist, palynologist and allergist; A.B. Univ. Toronto 1913, A.M. Harvard 1916; Dr. phil. Columbia 1927; came to the U.S.A. 1930; naturalized U.S. citizen 1942; protein chemist with J.L. Goodale in Boston 1915-1916; botanist on hayfever and asthma P.B. Brigham Hosp., Boston 1916-1917; director Hayfever Lab., Arlington Chem. Co. Yonkers, N.Y. 1911-1944; id. Lederle Laboratories, Pearl River 1944-1957; on active service in Royal Air Force in World War I. 
-**Abbreviated name**: *Wodehouse*
+**Abbreviated name**: *Wodehouse* \[standard form in IPNI: *Wodehouse*\]
 
 #### Herbarium and types
 

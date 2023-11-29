@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33068631) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33068631) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4319-1), [Wikidata](https://www.wikidata.org/wiki/Q67873). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Isert, Paul Erdmann (1756-1789), German explorer and colonial administrator in the Danish possessions in Guinea (1783-1786) and the West Indies (1786-1787). 
-**Abbreviated name**: *Isert*
+**Abbreviated name**: *Isert* \[standard form in IPNI: *Isert*\]
 
 #### Herbarium and types
 

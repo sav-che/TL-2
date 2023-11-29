@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33266204) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33266204) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/22024-1), [Wikidata](https://www.wikidata.org/wiki/Q21509684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cypers von Landrecy, Viktor (1857-1930), German/Bohemian botanist born at Harta near Hohenelbe, educated at the Realschule in Böhm.-Leipa, studied at the technical "Hochschule" in Wien, studying chemistry, published 1877 on plant geography of the Riesengebirge, as well as mycological treatises especially. 
-**Abbreviated name**: *Cypers*
+**Abbreviated name**: *Cypers* \[standard form in IPNI: *Cypers*\]
 
 #### Herbarium and types
 

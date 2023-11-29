@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33355268) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33355268) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5801-1), [Wikidata](https://www.wikidata.org/wiki/Q221912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ludlow, Frank (1886-1972), British explorer of Bhutan, Tibet and the inner Himalaya. 
-**Abbreviated name**: *Ludlow*
+**Abbreviated name**: *Ludlow* \[standard form in IPNI: *Ludlow*\]
 
 #### Herbarium and types
 

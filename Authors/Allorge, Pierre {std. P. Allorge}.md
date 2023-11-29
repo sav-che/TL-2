@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33120167) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33120167) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/157-1), [Wikidata](https://www.wikidata.org/wiki/Q3110572). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Allorge, Pierre {std. P. Allorge} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Allorge, Pierre (1891-1944), French botanist and ecologist. 
-**Abbreviated name**: *P. Allorge*
+**Abbreviated name**: *P. Allorge* \[standard form in IPNI: *P.Allorge*\]
 
 #### Herbarium and types
 

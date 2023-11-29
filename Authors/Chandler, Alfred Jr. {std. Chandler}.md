@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33265725) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33265725) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1508-1), [Wikidata](https://www.wikidata.org/wiki/Q5667424). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chandler, Alfred Jr. (1804-1896), British nurseryman, succeeded his father as nurseryman at Vauxhall. 
-**Abbreviated name**: *Chandler*
+**Abbreviated name**: *Chandler* \[standard form in IPNI: *Chandler*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33066875) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33066875) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12022-1), [Wikidata](https://www.wikidata.org/wiki/Q107991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zeyher, Johann Michael (1770-1843), German (Bavarian) botanist and horticulturist; educated at Ansbach (Bavaria), spent some time in Basel; head-gardener at the garden of the grand-duke of Baden at Schwetzingen 1804, director ib. 1806-1843. 
-**Abbreviated name**: *J. Zeyh.*
+**Abbreviated name**: *J. Zeyh.* \[standard form in IPNI: *J.Zeyh.*\]
 
 #### Herbarium and types
 

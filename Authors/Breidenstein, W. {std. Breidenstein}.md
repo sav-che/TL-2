@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33120446) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33120446) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1107-1), [Wikidata](https://www.wikidata.org/wiki/Q47114634). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Breidenstein, W. (*fl*. 1856), Geiman botanist. 
-**Abbreviated name**: *Breidenstein*
+**Abbreviated name**: *Breidenstein* \[standard form in IPNI: *Breid.*\]
 
 #### Herbarium and types
 

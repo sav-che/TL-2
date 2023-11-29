@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33333252) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33333252) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12821-1), [Wikidata](https://www.wikidata.org/wiki/Q1360026). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schaffnit, \[Johannes Martin\] Ernst \[Christian Otto\] (1878-?), German (Hessen) botanist; head of the Phytopathological Institute of the Agricultural College Poppelsdorf-Bonn from 1914-1937. 
-**Abbreviated name**: *Schaffnit*
+**Abbreviated name**: *Schaffnit* \[standard form in IPNI: *Schaffnit*\]
 
 #### Herbarium and types
 

@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265308) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33265308) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/715-1), [Wikidata](https://www.wikidata.org/wiki/Q121991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bernoulli, Carl Gustav {std. Bernoulli}|first entry]] for this author
 
 ### Author
 
 \* Bernoulli, Karl \[Carl\] Gustav (1834-1878), Swiss (Basel-born) physician and naturalist, studied medicine at the University of Basel 1852, id. at Würzburg, Berlin and Paris, practicing in Basel until 1858; moved to Central America at the instigation of Alexander von Humboldt, settled in Guatemala 1858 as physician and coffee planter, explored Guatemala, died on his way back to Switzerland in San Francisco. 
-**Abbreviated name**: *Bernoulli*
+**Abbreviated name**: *Bernoulli* \[standard form in IPNI: *Bernoulli*\]
 
 #### Herbarium and types
 

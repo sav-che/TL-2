@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33333209) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33333209) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8959-1), [Wikidata](https://www.wikidata.org/wiki/Q115525). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saussure, Horace Bénédict de (1740-1799), Swiss (Genève) naturalist; professor of philosophy at Genève 1762-1786; travelled extensively in the Alps and other parts of Central and Southern Europe between 1758 and 1779, especially interested in geology and meteorology; ascended Mont Blanc 1787. 
-**Abbreviated name**: *Saussure*
+**Abbreviated name**: *Saussure* \[standard form in IPNI: *Sauss.*\]
 
 #### Herbarium and types
 

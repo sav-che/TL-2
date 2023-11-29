@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33355110) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33355110) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22346-1), [Wikidata](https://www.wikidata.org/wiki/Q4261626). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Liljeblad, Samuel (1761-1815), Swedish botanist and rural economist; Dr. phil. Uppsala 1788; Dr. med. ib. 1793; amanuensis at the Uppsala nat. hist. museum 1789; "Borgströmiansk adjunkt" 1790; keeper of the library and collections of the Uppsala Vetenskapssocietet (1793-1802); from 1802 professor Borgströmianus. 
-**Abbreviated name**: *Liljebl.*
+**Abbreviated name**: *Liljebl.* \[standard form in IPNI: *Lilj.*\]
 
 #### Herbarium and types
 

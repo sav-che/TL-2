@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33333693) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33333693) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9552-1), [Wikidata](https://www.wikidata.org/wiki/Q21608761). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shaw, John (1837-1890), Scottish geologist and bryologist; educated at Free Church Training College, Glasgow ca. 1857-1860; teacher at this college until 1867; headmaster of the Colesberg Collegiate School, South Africa 1867-1874; headmaster of the South African College School, Cape Town 1874-1876; professor of physical science at the South African College 1876. 
-**Abbreviated name**: *J. Shaw*
+**Abbreviated name**: *J. Shaw* \[standard form in IPNI: *J.Shaw*\]
 
 #### Herbarium and types
 

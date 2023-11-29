@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33333837) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33333837) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9806-1), [Wikidata](https://www.wikidata.org/wiki/Q368277). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, John Donnell (1829-1928), American botanist; graduated from Yale University 1847; captain of cavalry in the confederate army during the U.S. Civil War; from then on dedicating himself to botany, bringing together a sizeable herbarium and library with special emphasis on Central America; collected in Central America (especially Guatemala) 1900-1906. 
-**Abbreviated name**: *J.D. Sm.*
+**Abbreviated name**: *J.D. Sm.* \[standard form in IPNI: *Donn.Sm.*\]
 
 #### Herbarium and types
 

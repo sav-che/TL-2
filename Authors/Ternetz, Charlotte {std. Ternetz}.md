@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33212265) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33212265) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10522-1), [Wikidata](https://www.wikidata.org/wiki/Q36531684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ternetz, Charlotte (*fl*. 1900), Swiss high school teacher and botanist; Dr. phil. Zürich 1900; teacher at Basel. 
-**Abbreviated name**: *Ternetz*
+**Abbreviated name**: *Ternetz* \[standard form in IPNI: *Ternetz*\]
 
 #### Herbarium and types
 

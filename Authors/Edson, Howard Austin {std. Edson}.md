@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33260248) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33260248) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18371-1), [Wikidata](https://www.wikidata.org/wiki/Q21511403). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Edson, Howard Austin (1875-1960), American phytopathologist, born 14 Aug 1875 at Randolph (Vermont), educated in Vermont public schools, University of Vermont, B.S. in 1906 and M.S. in 1910, Ph.D. in 1913 from University of Wisconsin, was employed by the Department of Agriculture, 1924 Senior Pathologist until his retirement in 1945, died 29 Feb 1960 in Washington (D.C.). 
-**Abbreviated name**: *Edson*
+**Abbreviated name**: *Edson* \[standard form in IPNI: *Edson*\]
 
 #### Herbarium and types
 

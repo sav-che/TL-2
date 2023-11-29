@@ -26,16 +26,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33264861) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33264861) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/241-1), [Wikidata](https://www.wikidata.org/wiki/Q3850235). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Anzi, Martino {std. Anzi}|first entry]] for this author
 
 ### Author
 
 \* Anzi, Martino (1812-1883), Italian cryptogamist and canon at Como, editor of various important series of cryptogams exsiccatae, educated at the Bormio gymnasium, ordained priest 1835 at the episcopal see at Como, subsequently "canonicus ecclesiae cathedr. Novo-Comensis". 
-**Abbreviated name**: *Anzi*
+**Abbreviated name**: *Anzi* \[standard form in IPNI: *Anzi*\]
 
 #### Herbarium and types
 

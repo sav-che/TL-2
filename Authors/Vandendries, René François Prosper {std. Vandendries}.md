@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33212701) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33212701) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11049-1), [Wikidata](https://www.wikidata.org/wiki/Q21611449). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vandendries, René François Prosper (1874-1952); studied natural sciences at the University of Louvain (Leuven); Dr. sci. nat. ib. 1897, student of J.B. Carnoy; high school teacher at the Athenaeum of Chimay, later idem at the Royal Athenaeum Antwerp, ultimately at a Lyceum for girls in Brussels; at the same time continuing his work at the Laboratory of Cytology at Louvain; from 1939 in retirement and "Inspecteur honoraire" of the school system; in Portugal 1950. 
-**Abbreviated name**: *Vandendries*
+**Abbreviated name**: *Vandendries* \[standard form in IPNI: *Vandendr.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33189724) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33189724) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7670-1), [Wikidata](https://www.wikidata.org/wiki/Q21522982). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pickard, Joseph Fry (1876-1943), British draper, tea merchant and botanist in Yorkshire (Leeds). 
-**Abbreviated name**: *Pickard*
+**Abbreviated name**: *Pickard* \[standard form in IPNI: *Pickard*\]
 
 #### Herbarium and types
 

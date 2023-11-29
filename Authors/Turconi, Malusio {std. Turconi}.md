@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33212579) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33212579) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10908-1), [Wikidata](https://www.wikidata.org/wiki/Q21611048). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Turconi, Malusio (1879-1929), Italian mycologist at the Laboratorio crittogamico di Pavia from 1899. 
-**Abbreviated name**: *Turconi*
+**Abbreviated name**: *Turconi* \[standard form in IPNI: *Turconi*\]
 
 #### Herbarium and types
 

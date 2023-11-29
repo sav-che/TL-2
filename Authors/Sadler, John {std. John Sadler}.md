@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1047](https://www.biodiversitylibrary.org/page/33190518) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1047](https://www.biodiversitylibrary.org/page/33190518) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8796-1), [Wikidata](https://www.wikidata.org/wiki/Q21607602). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sadler, John (1837-1882), Scottish botanist at Edinburgh; assistant to J.H. Balfour 1854; acting secretary Botanical Society of Edinburgh 1858-1879; curator Royal Botanic Garden 1879-1882. 
-**Abbreviated name**: *John Sadler*
+**Abbreviated name**: *John Sadler* \[standard form in IPNI: *J.Sadler*\]
 
 #### Herbarium and types
 

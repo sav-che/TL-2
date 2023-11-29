@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-11-25 14:43:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33068792) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33068792) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4806-1), [Wikidata](https://www.wikidata.org/wiki/Q4221435). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kirilow, Iwan Petrovic ("Johann"), (1821-1842), Russian botanist. 
-**Abbreviated name**: *Kir.*
+**Abbreviated name**: *Kir.* \[standard form in IPNI: *Kir.*\]
 
 #### Herbarium and types
 

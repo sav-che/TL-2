@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33069013) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33069013) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5335-1), [Wikidata](https://www.wikidata.org/wiki/Q21518435). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Laval, Edouard (1871-x), French botanist. 
-**Abbreviated name**: *Laval*
+**Abbreviated name**: *Laval* \[standard form in IPNI: *Laval*\]
 
 #### Herbarium and types
 

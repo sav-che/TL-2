@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33212610) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33212610) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10964-1), [Wikidata](https://www.wikidata.org/wiki/Q19668161). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Uittien, Hendrik (1898-1944), Dutch botanist; studied biology in Utrecht; assistant for systematic botany at the University of Utrecht 1921-1923, curator 1923-1926; Dr. phil. ib. 1929 (student of F.A.F.W. Went); lecturer at the College of Colonial Agriculture (Middelbare Koloniale Landbouwschool) Deventer 1926-1933 and 1937-1941; assistant again in Utrecht 1933-1937, from 1936-1937 lecturer (privaat-docent) in the history of botany; from 1941-1944 actively engaged in the underground movement against the German occupation; executed 1944. 
-**Abbreviated name**: *Uittien*
+**Abbreviated name**: *Uittien* \[standard form in IPNI: *Uittien*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33120547) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33120547) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12368-1), [Wikidata](https://www.wikidata.org/wiki/Q716978). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Burman, Nicolaas Laurens {std. Burm. f.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Burman, Nicolaas Laurens (1773-1793). Dutch physician and botanist at Amsterdam, son of Johannes Burman, correspondent of Linnaeus, professor of botany at the Amsterdam *Athenaeum illustre* 1769-1793. 
-**Abbreviated name**: *N. L. Burm.*
+**Abbreviated name**: *N. L. Burm.* \[standard form in IPNI: *Burm.f.*\]
 
 #### Herbarium and types
 

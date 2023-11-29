@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33189829) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33189829) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7888-1), [Wikidata](https://www.wikidata.org/wiki/Q97218). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Potonié, Henry (1857-1913), German palaeo– and actuo-botanist of French origin; studied botany in Berlin 1878-1881; assistant to Eichler 1880-1883; Dr. phil. Freiburg i.B. 1884; lecturer on palaeobotany at the royal mining institute 1891; district geologist 1898; professor's title 1900; habil. Berlin 1901, Königl. Landesgeologe 1901, Geheimer Bergrat 1913. 
-**Abbreviated name**: *Potonié*
+**Abbreviated name**: *Potonié* \[standard form in IPNI: *Potonié*\]
 
 #### Herbarium and types
 

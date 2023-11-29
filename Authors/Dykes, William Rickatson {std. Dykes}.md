@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33260216) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33260216) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2432-1), [Wikidata](https://www.wikidata.org/wiki/Q5649235). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dykes, William Rickatson (1877-1925), British schoolmaster and botanist, born 4 Nov 1877, educated at the City of London School, went to Wadham College, Oxford, B.A. 1900, at the Sorbonne in Paris for a year, received the L.-ès-Lettres, modern languages, master at Charterhouse School 1903-1919, secretary Roy. Hort. Soc. 1920-1925, worked on Iris and Tulipa, died 1 Dec 1925 as a result of a motor accident, recieved a week before his death the Victoria Medal of Honour of the Royal Horticultural Society. 
-**Abbreviated name**: *Dykes*
+**Abbreviated name**: *Dykes* \[standard form in IPNI: *Dykes*\]
 
 #### Herbarium and types
 

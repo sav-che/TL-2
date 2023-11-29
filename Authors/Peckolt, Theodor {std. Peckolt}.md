@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33189614) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33189614) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12728-1), [Wikidata](https://www.wikidata.org/wiki/Q3523676). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Peckolt, Theodor (1822-1912), German (Niederlausitz) botanist; trained as a pharmacist in Triebel, 1837-1841; settled in Brazil 1847; practicing pharmacist in Rio de Janeiro 1848; exploring the province of Rio de Janeiro 1848-1850; pharmacist at Cantagallo 1851-1867; id. again in Rio de Janeiro from 1868 ("pharmacia e drugeria Peckolt"). 
-**Abbreviated name**: *Peckolt*
+**Abbreviated name**: *Peckolt* \[standard form in IPNI: *Peckolt*\]
 
 #### Herbarium and types
 

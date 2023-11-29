@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33355915) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33355915) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7130-1), [Wikidata](https://www.wikidata.org/wiki/Q5482698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Oliver, Francis Wall (1864-1951), British ecologist and palaeobotanist; lecturer in (1888) and professor (1890-1929) at University College, London; professor of botany at Cairo University 1929-1935; son of Daniel Oliver. 
-**Abbreviated name**: *F. Oliver*
+**Abbreviated name**: *F. Oliver* \[standard form in IPNI: *F.Oliv.*\]
 
 #### Herbarium and types
 

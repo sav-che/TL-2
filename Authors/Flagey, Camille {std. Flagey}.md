@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33120973) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33120973) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2768-1), [Wikidata](https://www.wikidata.org/wiki/Q21339591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Flagey, Camille (Jean Pierre) {std. Flagey} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Flagey, Camille (1837-1898), French botanist and civil engineer. 
-**Abbreviated name**: *Flag.*
+**Abbreviated name**: *Flag.* \[standard form in IPNI: *Flagey*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33212392) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33212392) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10662-1), [Wikidata](https://www.wikidata.org/wiki/Q21610728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tiffany, Lewis Hanford (1894-1965), American botanist (phycologist); Dr. phil. Ohio State University 1923; instructor and ass. professor at Ohio State Univ., Columbia 1923-1932, professor of botany 1932-1937; prof. of botany at Northwestern University, Evanston, Ill. 1937-1959. 
-**Abbreviated name**: *Tiffany*
+**Abbreviated name**: *Tiffany* \[standard form in IPNI: *Tiffany*\]
 
 #### Herbarium and types
 

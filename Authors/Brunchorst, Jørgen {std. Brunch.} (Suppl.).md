@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33266467) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33266467) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1224-1), [Wikidata](https://www.wikidata.org/wiki/Q3352322). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brunchorst, Jörgen {std. Brunch.}|first entry]] for this author
 
 ### Author
 
 \* Brunchorst, Jørgen (1862-1917), Norwegian botanist, museum director, politician and diplomate, born in Bergen, studied at Kristiania (Oslo) and continued his University studies at Würzburg 1880-1882 with Julius Sachs, in Berlin 1883, assistant with Pfeffer at Tübingen until 1886, Dr. phil. Tübingen 1886, curator of the Bergen Museum 1886, director ib. until 1906, director of the botanical garden ib. 1897-1906, in diplomatic service from 1906, consul at Havana 1907-1908, ultimately at Stockholm 1916 and Rome 1916-1917. 
-**Abbreviated name**: *Brunch.*
+**Abbreviated name**: *Brunch.* \[standard form in IPNI: *Brunch.*\]
 
 #### Herbarium and types
 

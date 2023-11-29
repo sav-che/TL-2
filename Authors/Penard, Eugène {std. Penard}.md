@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33189621) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33189621) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7483-1), [Wikidata](https://www.wikidata.org/wiki/Q3060090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Penard, Eugène (1855-1954), Swiss protozoologist, botanist and author of children's books; bank employee at Genève 1872-1881; studied at Edinburgh, Heidelberg and Genève; Dr. Sci. Genève 1888; in Colorado 1891; from 1892-1898 private tutor in Germany and Russia; from 1898 private scientist in Genève; one of the founders of the Société botanique de Genève. 
-**Abbreviated name**: *Penard*
+**Abbreviated name**: *Penard* \[standard form in IPNI: *Penard*\]
 
 #### Herbarium and types
 

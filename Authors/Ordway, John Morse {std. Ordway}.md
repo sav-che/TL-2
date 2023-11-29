@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33355933) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33355933) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/35196-1), [Wikidata](https://www.wikidata.org/wiki/Q18912005). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ordway, John Morse (1823-1909), American chemist and botanist; A. M. Dartmouth 1847, later at Tulane University, New Orleans. 
-**Abbreviated name**: *Ordway*
+**Abbreviated name**: *Ordway* \[standard form in IPNI: *Ordway*\]
 
 #### Herbarium and types
 

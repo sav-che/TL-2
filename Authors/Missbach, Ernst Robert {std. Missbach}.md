@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33355609) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33355609) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6519-1), [Wikidata](https://www.wikidata.org/wiki/Q5837098). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Missbach, Ernst Robert (1864-1938), German botanist and teacher at Dresden, after his retirement curator of the botanical garden of the Landesverein Sächsischer Heimatschutz in Schellerhau; early promotor of school gardens. 
-**Abbreviated name**: *Missbach*
+**Abbreviated name**: *Missbach* \[standard form in IPNI: *Missbach*\]
 
 #### Herbarium and types
 

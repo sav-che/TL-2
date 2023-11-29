@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33265968) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33265968) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1757-1), [Wikidata](https://www.wikidata.org/wiki/Q4230109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Compton, Robert Harold (1886-1979), British botanist who settled in South Africa 1919, educated at Cambridge University 1905-1909, demonstrator in botany at id. 1911-1913, in a field expedition to New Caledonia 1914, on active service 1915-1918, moved to South Africa 1919 as director of the National Botanical Gardens of S. Africa at Kirstenbosch ("the Garden of a Nation"), professor of botany at the University of Cape Town 1919-1953, retired and settled in Swaziland, D. Sc. hon. Univ. Cape Town 1968. 
-**Abbreviated name**: *Compton*
+**Abbreviated name**: *Compton* \[standard form in IPNI: *Compton*\]
 
 #### Herbarium and types
 

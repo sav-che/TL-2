@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33260002) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33260002) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18103-1), [Wikidata](https://www.wikidata.org/wiki/Q2397814). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dodge, Bernard Ogilvie {std. B.O. Dodge}|first entry]] for this author
 
 ### Author
 
 \* Dodge, Bernard Ogilvie (1872-1960), American botanist, born 18 Apr 1872 at Manston, Wisconsin, died 9 Aug 1960, New York, grew up on a Wisconsin farm, enrolled in the University of Wisconsin 1895 for a single year, later teaching and studying, graduated from Milwaukee Normal School 1901, some time at Madison, assistant at Columbia (N.Y.), Ph.D. 1912, 1909-1920 at Columbia, instructor, since 1928 as plant pathologist at the New York Botanical Garden. 
-**Abbreviated name**: *B.O. Dodge*
+**Abbreviated name**: *B.O. Dodge* \[standard form in IPNI: *B.O.Dodge*\]
 
 #### Herbarium and types
 

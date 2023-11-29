@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33266596) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33266596) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1333-1), [Wikidata](https://www.wikidata.org/wiki/Q21506765). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buwalda, Pieter (1909-1947), Dutch botanist born in Exmorra, Friesland, studied at the University of Groningen, graduated (Ph. D.) 1936, assistant at the rubber plantation Bantardjaga near Rangkasbitoeng in Batam, Java, Indonesia 1937, later in 1937 employed by the Dutch East Indian Forest Service at the disposal of the Director of the Forest Research Institute, Buitenzorg/Bogor 1937-1939, stationed at Rengat, Indragiri, Sumatra 1939, in the Dutch East Indian Army 1941, to be transferred to Buitenzorg/Bogor Herbarium, but died on leave of absence at Haren, Groningen, Netherlands. 
-**Abbreviated name**: *Buwalda*
+**Abbreviated name**: *Buwalda* \[standard form in IPNI: *Buwalda*\]
 
 #### Herbarium and types
 

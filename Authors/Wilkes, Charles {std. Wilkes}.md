@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33066635) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33066635) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11688-1), [Wikidata](https://www.wikidata.org/wiki/Q119329). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilkes, Charles (1798-1877), American naval officer and explorer; in the merchant navy 1815-1818, in the U.S. navy as midshipman 1818, lieutenant 1826, surveyed Narragansett Bay 1832-1833; in charge of the Washington Depot of Charts and Instruments 1833; in command of the *Porpoise* in the survey of St. George's Bank and of the Savannah River; commander of the U.S. Exploring Expedition 1838-1842, from 1843-1861 on special service in charge of the publication of the results of the Expedition; in command of the *San Jacinto* 1861 of the James River flotilla and the Potomac flotilla 1862; on retirement as captain 1862, as commander 1863, as rear-admiral 1866. 
-**Abbreviated name**: *Wilkes*
+**Abbreviated name**: *Wilkes* \[standard form in IPNI: *Wilkes*\]
 
 #### Herbarium and types
 

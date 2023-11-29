@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33120641) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33120641) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12384-1), [Wikidata](https://www.wikidata.org/wiki/Q2983280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Clemente y Rubio, Simón de Roxas {std. Clemente} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Clemente y Rubio, Simon de Rojas (1777-1827), Spanish botanist. 
-**Abbreviated name**: *Clemente*
+**Abbreviated name**: *Clemente* \[standard form in IPNI: *Clemente*\]
 
 #### Herbarium and types
 

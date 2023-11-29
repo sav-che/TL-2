@@ -23,14 +23,13 @@ ipni_record_created: 2003-11-17 06:24:48.0
 ipni_record_modified: 2010-03-15 09:19:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33264899) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33264899) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/20000190-1), [Wikidata](https://www.wikidata.org/wiki/Q21505357). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Arsène, Frère Louis, né Jean Marie Bizeul (1875-1959), French clergyman and botanist, longtime in the service of the Institut des Frères de l' Instruction Chrétienne (FIC), collected extensively in Southern Quebec, Bretagne, Jersey Islands and Saint Pierre-et-Miquelon, teacher at FIC St. Pierre 1895-1903, La Prairie, Québec 1903-1908, Montreal 1908-1910, La Prairy as provincial of his order 1910-1921, Highlands, St. Jersey assistant general of his order from 1921. 
-**Abbreviated name**: *L. Arsène*
+**Abbreviated name**: *L. Arsène* \[standard form in IPNI: *L.Arsène*\]
 
 #### Herbarium and types
 

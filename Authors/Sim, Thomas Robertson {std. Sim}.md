@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33333741) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33333741) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26761-1), [Wikidata](https://www.wikidata.org/wiki/Q7793599). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sim, Thomas Robertson (1856-1938), Scottish botanist; gardener in the Royal Horticultural Society's garden at Chiswick 1874, at the Royal Gardens Kew 1878; worked in the Harvard botanical garden, Cambridge, Mass. 1879-1880 and in a garden at Milton, Mass. 1880-1881; fruit grower at Inchmark, Scotland 1884-1888; to South Africa 1889; curator of the King William's Town botanical garden 1889-1894; government forester in the Cape Forestry Department 1894-1902; organised a forest department for Natai 1902; conservator of forests Natal 1903-1907; nurseryman in Pietermaritzburg 1908; D.Sc. h.c. Univ. S. Afr. 1919. 
-**Abbreviated name**: *Sim*
+**Abbreviated name**: *Sim* \[standard form in IPNI: *Sim*\]
 
 #### Herbarium and types
 

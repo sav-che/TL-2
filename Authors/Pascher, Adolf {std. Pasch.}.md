@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33189555) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33189555) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24578-1), [Wikidata](https://www.wikidata.org/wiki/Q931532). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pascher, Adolf (1881-1945), Bohemia-born German botanist; studied at Praha with Beck von Mannagetta; Dr. phil. Praha 1905; habil. Praha 1909; assistant at the Praha botanical institute 1904-1912, extra-ordinary professor of pharmaceutical botany from 1912, of systematic botany (ordinary) from 1927, director of the botanical institute and garden 1933-1945. 
-**Abbreviated name**: *Pasch.*
+**Abbreviated name**: *Pasch.* \[standard form in IPNI: *Pascher*\]
 
 #### Herbarium and types
 

@@ -26,16 +26,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33120186) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 55](https://www.biodiversitylibrary.org/page/33120186) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/241-1), [Wikidata](https://www.wikidata.org/wiki/Q3850235). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Anzi, Martino {std. Anzi} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Anzi, Martino (1812-1883), Italian cryptogamist. 
-**Abbreviated name**: *Anzi*
+**Abbreviated name**: *Anzi* \[standard form in IPNI: *Anzi*\]
 
 #### Herbarium and types
 

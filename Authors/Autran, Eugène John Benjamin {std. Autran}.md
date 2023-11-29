@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33120213) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33120213) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/340-1), [Wikidata](https://www.wikidata.org/wiki/Q21395077). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Autran, Eugène (John Benjamin) {std. Autran} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Autran, Eugène John Benjamin (1855-1912), Swiss botanist, curator of the Boissier herbarium, later in Argentina (1901-1912). 
-**Abbreviated name**: *Autran*
+**Abbreviated name**: *Autran* \[standard form in IPNI: *Autran*\]
 
 #### Herbarium and types
 

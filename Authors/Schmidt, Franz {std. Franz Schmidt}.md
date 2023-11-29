@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33333387) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33333387) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9157-1), [Wikidata](https://www.wikidata.org/wiki/Q3083149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidt, Franz (1751-1835), Austrian (Moravian-born) botanist and gardener; gardener at Mariahilf; from 1779 teacher of botany and forestry at the k.k. Theresianische Ritterakademie, Wien. 
-**Abbreviated name**: *Franz Schmidt*
+**Abbreviated name**: *Franz Schmidt* \[standard form in IPNI: *Schmidt*\]
 
 #### Herbarium and types
 

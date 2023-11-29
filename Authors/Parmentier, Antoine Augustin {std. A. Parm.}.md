@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33189543) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33189543) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7356-1), [Wikidata](https://www.wikidata.org/wiki/Q360312). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parmentier, Antoine Augustin (1737-1813), French economic botanist and military pharmacist, especially active in promoting the potato and, later, the sugar beet in France; "apothicaire aide-major" at the Invalides 1766; member of the Conseil de Santé 1782-1813; first army pharmacist 1800; inspector general of the health service 1805-1813. 
-**Abbreviated name**: *A. Parm.*
+**Abbreviated name**: *A. Parm.* \[standard form in IPNI: *Parm.*\]
 
 #### Herbarium and types
 

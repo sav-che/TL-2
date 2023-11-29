@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33266604) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33266604) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1347-1), [Wikidata](https://www.wikidata.org/wiki/Q21506815). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Caels, Theodor Peter {std. Caels}|first entry]] for this author
 
 ### Author
 
 \* Caels, Theodor Peter (1739-1819), Belgian physician and botanist, born at Louvain \[Leuven\], Dr. med. Bruxelles 1774. 
-**Abbreviated name**: *Caels*
+**Abbreviated name**: *Caels* \[standard form in IPNI: *Caels*\]
 
 #### Herbarium and types
 

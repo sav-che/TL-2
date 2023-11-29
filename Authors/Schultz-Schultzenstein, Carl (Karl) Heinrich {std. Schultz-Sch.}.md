@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33333513) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33333513) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9293-1), [Wikidata](https://www.wikidata.org/wiki/Q99616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schultz-Schultzenstein, Carl \[Karl\] Heinrich (1798-1871), German (Prussian) botanist at Berlin; habil. Berlin 1822; with the University of Berlin as lecturer ("Privatdozent") 1822, later as professor of botany. 
-**Abbreviated name**: *Schultz-Sch.*
+**Abbreviated name**: *Schultz-Sch.* \[standard form in IPNI: *Schultz Sch.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33120552) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33120552) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1336-1), [Wikidata](https://www.wikidata.org/wiki/Q7324509). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buxton, Richard (1786-1865), British shoemaker, newsman (fide BB) and botanist at Manchester. 
-**Abbreviated name**: *Buxton*
+**Abbreviated name**: *Buxton* \[standard form in IPNI: *Buxton*\]
 
 #### Herbarium and types
 

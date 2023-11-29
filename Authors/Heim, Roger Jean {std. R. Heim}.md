@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33068379) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33068379) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3786-1), [Wikidata](https://www.wikidata.org/wiki/Q2582566). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Heim, Roger Jean (1900-x), French mycologist at the Muséum d'histoire naturelle, Paris. 
-**Abbreviated name**: *R. Heim*
+**Abbreviated name**: *R. Heim* \[standard form in IPNI: *R.Heim*\]
 
 #### Herbarium and types
 

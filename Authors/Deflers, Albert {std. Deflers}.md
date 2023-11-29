@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33259193) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33259193) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17881-1), [Wikidata](https://www.wikidata.org/wiki/Q5687736). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Deflers, Albert (1841-1921), French officer and forester, some time with the École forestière until 1880, explorer and traveller in Egypt, Arabia and Yemen (1887-1889), long time living in Cairo, ultimately in Nancy, France, member of the Société botanique de France from 1883. 
-**Abbreviated name**: *Deflers*
+**Abbreviated name**: *Deflers* \[standard form in IPNI: *Deflers*\]
 
 #### Herbarium and types
 

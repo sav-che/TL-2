@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33212648) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33212648) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10993-1), [Wikidata](https://www.wikidata.org/wiki/Q64845). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Urban, Ignatz (1848-1931), German (Westphalian/Prussian) botanist; studied in Bonn 1866 and at the University of Berlin 1866-1869, 1872-1873; student of A. Braun, P. Ascherson, L. Kny; military service 1869-1870; on active service in the Franco-Prussian war 1870-1871 (Reserve officer, Kaiser Alexander Garde-Grenadierregiment); Dr. phil. Berlin 1873; teacher at the Pädagogium, Lichterfelde (Berlin) 1873-1878; assistant at the Botanical Garden, Berlin 1878-1883, curator ("Kustos") ib. 1883-1889; second director and titular professor 1889-1913; Geheimer Regierungsrath 1903; in "retirement" remaining at the Botanical Garden and Museum Berlin-Dahlem, fully dedicating himself to plant systematics, especially the study of the flora of the West Indies; historian of the Berlin Botanical Garden and Museum and initiator of its move to Berlin-Dahlem. 
-**Abbreviated name**: *Urb.*
+**Abbreviated name**: *Urb.* \[standard form in IPNI: *Urb.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/page/33333930) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/page/33333930) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9970-1), [Wikidata](https://www.wikidata.org/wiki/Q21609302). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spilger, Ludwig (1881-1941), German (Hessen) botanist and historian of botany; Dr. phil. Giessen 1903; teacher at the Bentheim teacher's college 1909-1927; "Oberstudienrat" at the Pädagogische Akademie, Technische Hochschule Darmstadt, 1927. 
-**Abbreviated name**: *Spilger*
+**Abbreviated name**: *Spilger* \[standard form in IPNI: *Spilger*\]
 
 #### Herbarium and types
 

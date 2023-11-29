@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-02-07 11:28:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33355503) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33355503) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6360-1), [Wikidata](https://www.wikidata.org/wiki/Q16059798). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Menyhárth, Lászlò (Ladislav), S. J. (1849-1897), Austro-Hungarian missionary and botanist; originally at Innsbruck; later at Kalocsa; travelled in the Zambesi region. 
-**Abbreviated name**: *Menyh.*
+**Abbreviated name**: *Menyh.* \[standard form in IPNI: *Menyh.*\]
 
 #### Herbarium and types
 

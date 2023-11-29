@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33212167) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33212167) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10342-1), [Wikidata](https://www.wikidata.org/wiki/Q21610106). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sweetser, Albert Raddin (1861-1940), American botanist; M.A. Wesleyan Univ. 1887; Dr. phil. h.c. Univ. Oregon 1931; Harvard graduate School of Botany 1893-1897; botanist at Pacific University, Forest Grove, Oregon 1897-1902; professor of biology, University of Oregon 1902-1909; head Botany Dept. ib. 1909-1931; emeritus professor ib. from 1931. 
-**Abbreviated name**: *Sweetser*
+**Abbreviated name**: *Sweetser* \[standard form in IPNI: *Sweetser*\]
 
 #### Herbarium and types
 

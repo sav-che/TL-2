@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33066904) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33066904) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13048-1), [Wikidata](https://www.wikidata.org/wiki/Q4506169). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zundel, George \[Lorenzo Ingram\] (1885-1950), American botanist (mycologist and plant pathologist); B.S. Utah Coll. 1911; M.S. Cornell 1915; Dr. phil. Yale 1919; instructor in horticulture and botany, Utah Coll. 1911-1912; high school teacher Utah 1912-1913; assistant professor of biology Brigham Young College 1915-1917; assistant pathologist U.S.D.A. 1917-1919; plant pathologist State Coll. Washington 1919-1926; at Connecticut Experiment Station 1926-1928; assistant professor plant pathology Pennsylvania State College 1928-1947, id. assoc. prof. 1947-1949. 
-**Abbreviated name**: *Zundel*
+**Abbreviated name**: *Zundel* \[standard form in IPNI: *Zundel*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33333687) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33333687) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9530-1), [Wikidata](https://www.wikidata.org/wiki/Q615605). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shafer, John Adolf (1863-1918), American botanist, pharmacist and plant collector; Dr. pharm. h.c. Univ. W. Pennsylvania 1904; curator of botany Carnegie Museum, Pittsburgh 1897-1903; collected in Cuba with N.L. Britton 1903; museum custodian New York Botanical Garden 1904-1910; collected in Montserrat 1907 and Cuba 1909, 1910, 1911, 1912; with Britton in the West Indies 1913, at Vieques (Puerto Rico) 1914; collecting Cactaceae for Britton and Rose in South America 1916-1917. 
-**Abbreviated name**: *Shafer*
+**Abbreviated name**: *Shafer* \[standard form in IPNI: *Shafer*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33259083) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33259083) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/1974-1), [Wikidata](https://www.wikidata.org/wiki/Q5897858). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dammann, Hildegard (1900-x), German botanist, born at Berlin 11 Jul 1900, \[daughter of Ernst Dammann (veterinary surgeon)\], at the Plehn'sche höhere Mädchenschule, final examination 1917, at the Oberlyzeum zu Neukölln 1917-1921, "Lehrbefähigung" 1922 for Zemke'sches Lyzeum as teacher, at the Friedrich-Wilhelms-Universität Berlin 1924-1927, thesis in 1930. 
-**Abbreviated name**: *Dammann*
+**Abbreviated name**: *Dammann* \[standard form in IPNI: *Dammann*\]
 
 #### Herbarium and types
 

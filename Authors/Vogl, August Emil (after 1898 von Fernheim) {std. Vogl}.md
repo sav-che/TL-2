@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/page/33212811) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 769](https://www.biodiversitylibrary.org/page/33212811) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12975-1), [Wikidata](https://www.wikidata.org/wiki/Q21611837). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vogl, August Emil \[after 1898: von Fernheim\] (1833-1909), Austrian (Moravian-born) pharmacologist and botanist; studied medicine in Vienna 1854, military surgeon in the Austro-Italian war; Dr. med. Wien; assistant with C. von Ettingshausen with the chair of natural history at the Josefinum(k.k. Josefsakademie) ca. 1862-1866; habil. univ. Wien 1864; regular military physician 1866, librarian at the Josefinum 1867, assistant at the state chemical laboratory 1869; professor of botany and zoology at the Prague Polytechnic 1870; ordinary professor of pharmacology Univ. Wien 1874. 
-**Abbreviated name**: *Vogl*
+**Abbreviated name**: *Vogl* \[standard form in IPNI: *Vogl*\]
 
 #### Herbarium and types
 

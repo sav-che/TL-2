@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33190348) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33190348) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8570-1), [Wikidata](https://www.wikidata.org/wiki/Q21607386). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ronceray, Paul-Louis (1875-1953 (?)), French pharmacist; Dr. pharm. Univ. Paris 1904; Dr. med. ibid. 1911. 
-**Abbreviated name**: *Ronceray*
+**Abbreviated name**: *Ronceray* \[standard form in IPNI: *Ronceray*\]
 
 #### Herbarium and types
 

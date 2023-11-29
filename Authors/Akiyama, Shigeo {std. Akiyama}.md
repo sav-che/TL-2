@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33264747) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33264747) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/118-1), [Wikidata](https://www.wikidata.org/wiki/Q10371059). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Akiyama, Shigeo (1906-x), Japanese botanist at the Botanical Institute, Faculty of Science, Hokkaido University, Sapporo, specialist in Carex. 
-**Abbreviated name**: *Akiyama*
+**Abbreviated name**: *Akiyama* \[standard form in IPNI: *Akiyama*\]
 
 #### Herbarium and types
 

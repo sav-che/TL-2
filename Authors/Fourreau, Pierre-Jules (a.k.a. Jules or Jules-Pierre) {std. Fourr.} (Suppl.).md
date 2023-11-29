@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33259866) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33259866) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2859-1), [Wikidata](https://www.wikidata.org/wiki/Q925866). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fourreau, Jules-Pierre {std. Fourr.}|first entry]] for this author
 
 ### Author
 
 \* Fourreau, Pierre-Jules \[a.k.a. Jules or Jules-Pierre\] (1844-1871), French botanist, born 25 Aug 1844 in Lyon, elementary education at Inst. Pictet, then attended the Collège des Minimes 1858-1862, became, after a short career in business, a pupil of Alexis Jordan, beginning in 1864 collected extensively along the Rhône, joined the French army in 1870 during the Franco-Prussian War, wounded 18 Dec 1870 at Nuits and died of his wounds 16 Jan 1871 in Beaume (Côte-d'Or), buried in Lyon. 
-**Abbreviated name**: *Fourr.*
+**Abbreviated name**: *Fourr.* \[standard form in IPNI: *Fourr.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33258854) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33258854) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19617-1), [Wikidata](https://www.wikidata.org/wiki/Q21514269). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Greter, Fintan (Pater) (1899-1984), Swiss bryologist and priest, born 21 Mar 1899 in Ebikon (Kt. Luzern), studied theology and became a Benedictine priest, also studied botany, Univ. of Freiburg, died 14 Mai 1984 in Priesterseminar Luzern. 
-**Abbreviated name**: *Greter*
+**Abbreviated name**: *Greter* \[standard form in IPNI: *Greter*\]
 
 #### Herbarium and types
 

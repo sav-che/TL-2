@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-03-06 13:11:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33212579) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33212579) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10909-1), [Wikidata](https://www.wikidata.org/wiki/Q2640364). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Turczaninow, Nicolai Stepanowitsch \[von\] (1796-1863) \[n.s. 1864\], Russian botanist and administrator; civil servant in the departments of justice and finances 1814-1828; on a government mission to Irkutsk 1828 (from 1832 in the service of the Academy of Sciences)-1835; civil servant in Krasnoyarsk 1835-1837; president of the civil council of the Jenisei government 1835-1845; actively collecting in these areas and bringing together a large herbarium; in retirement at Taganrog 1845-1847 and Charkow 1847-1863; botanical explorer of the Baikal and Dahurical region 1828-1835 and the Jenisei region 1835-1845. 
-**Abbreviated name**: *Turcz.*
+**Abbreviated name**: *Turcz.* \[standard form in IPNI: *Turcz.*\]
 
 #### Herbarium and types
 

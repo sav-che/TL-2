@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 917](https://www.biodiversitylibrary.org/page/33334056) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 917](https://www.biodiversitylibrary.org/page/33334056) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10128-1), [Wikidata](https://www.wikidata.org/wiki/Q21609841). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stevens, Neil Everett (1887-1949), American mycologist and plant pathologist; Dr. phil. Yale Univ. 1911; with Kansas State College 1911-1912; plant pathologist in the Bureau of Plant Industry 1912-1936, associated with C.L. Shear; adjunct professor of botany at George Washington University 1931-1936; professor of botany, University of Illinois, Urbana 1936-1949. 
-**Abbreviated name**: *N. Stevens*
+**Abbreviated name**: *N. Stevens* \[standard form in IPNI: *N.E.Stevens*\]
 
 #### Herbarium and types
 

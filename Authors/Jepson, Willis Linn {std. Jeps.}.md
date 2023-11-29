@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33068682) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33068682) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4476-1), [Wikidata](https://www.wikidata.org/wiki/Q324259). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jepson, Willis Linn (1867-1946), Californian botanist, in various functions at the Dept. of Botany, Univ. of Calif. (Berkeley) 1887-1947, founder of the California botanical Society (1913), founder and editor of Madroño (1916-1934). 
-**Abbreviated name**: *Jeps.*
+**Abbreviated name**: *Jeps.* \[standard form in IPNI: *Jeps.*\]
 
 #### Herbarium and types
 

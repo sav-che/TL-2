@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 833](https://www.biodiversitylibrary.org/page/33355920) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 833](https://www.biodiversitylibrary.org/page/33355920) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7136-1), [Wikidata](https://www.wikidata.org/wiki/Q364187). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Olmsted, Frederick Law (1822-1903), American horticulturist and landscape architect; designed Central Park, Manhattan; superintendent Central Park 1857-1895. 
-**Abbreviated name**: *Olmsted*
+**Abbreviated name**: *Olmsted* \[standard form in IPNI: *Olmsted*\]
 
 #### Herbarium and types
 

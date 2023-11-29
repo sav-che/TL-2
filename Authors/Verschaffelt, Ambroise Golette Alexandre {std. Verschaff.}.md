@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33212756) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33212756) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11145-1), [Wikidata](https://www.wikidata.org/wiki/Q458992). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Verschaffelt, Ambroise Golette Alexandre (1825-1886), Belgian horticulturist at Gent \[Gand\]; from 1850 in charge of the horticultural firm founded by his grandfather Pierre Antoine and his father Alexandre Jacques Verschaffelt; sold his firm to Jean Linden 1869, remaining active as private and consulting horticulturist. 
-**Abbreviated name**: *Verschaff.*
+**Abbreviated name**: *Verschaff.* \[standard form in IPNI: *Verschaff.*\]
 
 #### Herbarium and types
 

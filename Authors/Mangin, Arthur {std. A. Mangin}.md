@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33355362) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33355362) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6064-1), [Wikidata](https://www.wikidata.org/wiki/Q20081059). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mangin, Arthur (1824-1887), French botanist and historian of science. 
-**Abbreviated name**: *A. Mangin*
+**Abbreviated name**: *A. Mangin* \[standard form in IPNI: *A.Mangin*\]
 
 #### Herbarium and types
 

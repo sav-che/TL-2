@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33265469) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33265469) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/905-1), [Wikidata](https://www.wikidata.org/wiki/Q5749270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bogenhard, Carl {std. Bogenh.}|first entry]] for this author
 
 ### Author
 
 \* Bogenhard, Carl (1811-1853\[?\]), German botanist and pharmacist, born at Magdala nr. Jena, Thüringen, pharmacist in Sobernheim ca. 1840, lived in Jena and Rudolfstadt 1844-1852, emigrated to the United States 1852, died in New York City 1853\[?\]. 
-**Abbreviated name**: *Bogenh.*
+**Abbreviated name**: *Bogenh.* \[standard form in IPNI: *Bogenh.*\]
 
 #### Herbarium and types
 

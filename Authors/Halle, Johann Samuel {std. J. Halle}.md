@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33068265) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33068265) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3583-1), [Wikidata](https://www.wikidata.org/wiki/Q1696079). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Halle, Johann Samuel (1727-1810), German botanist, professor at the military school at Berlin. 
-**Abbreviated name**: *J. Halle*
+**Abbreviated name**: *J. Halle* \[standard form in IPNI: *Halle*\]
 
 #### Herbarium and types
 

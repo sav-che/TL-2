@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33265520) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33265520) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/964-1), [Wikidata](https://www.wikidata.org/wiki/Q21506301). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boodle, Leonard Alfred (1865-1941), British (London born) botanist, demonstrator at the Royal College of Science with D.H. Scott, assistant 1904, from 1909-1930, assistant keeper of the Jodrell Laboratory at Kew. 
-**Abbreviated name**: *Boodle*
+**Abbreviated name**: *Boodle* \[standard form in IPNI: *Boodle*\]
 
 #### Herbarium and types
 

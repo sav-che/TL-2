@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 646](https://www.biodiversitylibrary.org/page/33120777) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 646](https://www.biodiversitylibrary.org/page/33120777) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18028-1), [Wikidata](https://www.wikidata.org/wiki/Q21392335). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Diedicke, Hermann {std. Died.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Diedicke, Hermann (1865-1940), German mycologist. 
-**Abbreviated name**: *Died.*
+**Abbreviated name**: *Died.* \[standard form in IPNI: *Died.*\]
 
 #### Herbarium and types
 

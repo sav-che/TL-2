@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33068977) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33068977) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5230-1), [Wikidata](https://www.wikidata.org/wiki/Q16003604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lamb, Ivan Mackenzie, later Elke Mackenzie (1911-x), British botanist; at the British Museum 1935-1943; in 1947 in Argentina; 1950 in Canada; 1953-1974 director of the Farlow Herbarium at Cambridge, Mass. 
-**Abbreviated name**: *Lamb*
+**Abbreviated name**: *Lamb* \[standard form in IPNI: *I.M.Lamb*\]
 
 #### Herbarium and types
 

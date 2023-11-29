@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33333969) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33333969) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/27120-1), [Wikidata](https://www.wikidata.org/wiki/Q374025). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stakman, Elvin Charles (1885-1979), American mycologist, palynologist and phytopathologist; studied at the University of Minnesota; B.A. ib. 1906; with Minnesota public schools 1906-1909; instructor in plant pathology Univ. Minnesota 1909; Dr. phil. ib. 1913; asst. professor ib. 1913-1916, assoc. professor 1916-1918; regular professor 1918-1953; head of the section of plant pathology, Univ. Minnesota and pathologist at the office of cereal investigations, U.S.D.A. at St. Paul. Minnesota 1940-1953; emeritus professor 1953-1979; specialist on cereal rusts and smuts. 
-**Abbreviated name**: *Stakman*
+**Abbreviated name**: *Stakman* \[standard form in IPNI: *Stakman*\]
 
 #### Herbarium and types
 

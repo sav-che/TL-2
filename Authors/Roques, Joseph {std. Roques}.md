@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 880](https://www.biodiversitylibrary.org/page/33190351) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 880](https://www.biodiversitylibrary.org/page/33190351) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8579-1), [Wikidata](https://www.wikidata.org/wiki/Q16066417). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roques, Joseph (1772-1850), French botanist and physician; connected with the military hospitals and faculty of medicine, Montpellier; later at Paris. 
-**Abbreviated name**: *Roques*
+**Abbreviated name**: *Roques* \[standard form in IPNI: *Roques*\]
 
 #### Herbarium and types
 

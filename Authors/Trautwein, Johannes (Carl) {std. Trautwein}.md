@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33212494) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33212494) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10799-1), [Wikidata](https://www.wikidata.org/wiki/Q21610938). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trautwein, Johannes \[Carl\] (1858-?), German (Saxonian) botanist; studied at the Universities of Leipzig, Halle and Tübingen; Dr. phil. Halle 1885. 
-**Abbreviated name**: *Trautwein*
+**Abbreviated name**: *Trautwein* \[standard form in IPNI: *Trautwein*\]
 
 #### Herbarium and types
 

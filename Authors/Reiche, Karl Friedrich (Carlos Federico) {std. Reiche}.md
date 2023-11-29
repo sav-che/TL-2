@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33190132) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33190132) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8249-1), [Wikidata](https://www.wikidata.org/wiki/Q77134). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reiche, Karl Friedrich (Carlos Federico) (1860-1929), German (Saxonian) botanist; Dr. phil. Leipzig 1885; high school teacher Dresden, 1886-1889; at the same time assistant to O. Drude at the university; to Chile 1889; high school teacher Concepcion 1889-1896; head of the botany dept. National Museum Santiago 1896-1911, concurrently professor of botany at the Medical faculty, Santiago; in Mexico professor of botany and head of the botany dept. Instituto medico nacional 1911-1923; in München 1924-1929 (with trip to Mexico 1926-1927), ultimately at the Botanische Staatssammlungen. 
-**Abbreviated name**: *Reiche*
+**Abbreviated name**: *Reiche* \[standard form in IPNI: *Reiche*\]
 
 #### Herbarium and types
 

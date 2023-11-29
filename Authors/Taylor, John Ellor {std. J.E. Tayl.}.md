@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33212230) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33212230) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10465-1), [Wikidata](https://www.wikidata.org/wiki/Q6231692). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Taylor, John Ellor (1837-1895), British geologist, editor and botanist; sub-editor Norwich Mercury 1863; editor Hardwicke's Science Gossip 1872-1893; curator Ipswich Museum 1872-1893; lectured in Australia 1885. 
-**Abbreviated name**: *J.E. Tayl.*
+**Abbreviated name**: *J.E. Tayl.* \[standard form in IPNI: *J.E.Taylor*\]
 
 #### Herbarium and types
 

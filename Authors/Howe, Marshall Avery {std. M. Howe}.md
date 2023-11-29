@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33068589) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33068589) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4160-1), [Wikidata](https://www.wikidata.org/wiki/Q2715058). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Howe, Marshall Avery (1867-1936), American botanist; specialist on hepatics, marine algae and dahlias; instructor in cryptogamic botany at Berkeley 1891-1896; curator of the herbarium of Columbia college 1899-1901; Ph. D. Columbia 1898; subsequently curator (1902-1922), assistant director (1923-1935) and director (July 1935) of the New York Botanical Garden. 
-**Abbreviated name**: *M. Howe*
+**Abbreviated name**: *M. Howe* \[standard form in IPNI: *M.Howe*\]
 
 #### Herbarium and types
 

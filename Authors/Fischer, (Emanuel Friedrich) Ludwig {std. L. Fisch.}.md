@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/page/33120969) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/page/33120969) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2749-1), [Wikidata](https://www.wikidata.org/wiki/Q122537). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fischer, (Emmanuel Friedrich) Ludwig (Louis) {std. L. Fisch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fischer, \[Emanuel Friedrich\] Ludwig (1828-1907), Swiss botanist, father of Eduard Fischer, director botanic garden Bern 1860-1897. 
-**Abbreviated name**: *L. Fisch.*
+**Abbreviated name**: *L. Fisch.* \[standard form in IPNI: *L.Fisch.*\]
 
 #### Herbarium and types
 

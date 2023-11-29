@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33120731) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33120731) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2001-1), [Wikidata](https://www.wikidata.org/wiki/Q1035). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Darwin, Charles Robert {std. Darwin} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Darwin, Charles Robert (1809-1882), British evolutionary biologist. 
-**Abbreviated name**: *Darwin*
+**Abbreviated name**: *Darwin* \[standard form in IPNI: *Darwin*\]
 
 #### Herbarium and types
 

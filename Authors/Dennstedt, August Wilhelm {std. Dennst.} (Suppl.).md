@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33259252) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33259252) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2130-1), [Wikidata](https://www.wikidata.org/wiki/Q5711541). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dennstedt, August Wilhelm {std. Dennst.}|first entry]] for this author
 
 ### Author
 
 \* Dennstedt, August Wilhelm (1776-1826), German physician and botanist in Magdala (Thüringen), director of the Belvedere Garden near Weimar and professor in Weimar. 
-**Abbreviated name**: *Dennst.*
+**Abbreviated name**: *Dennst.* \[standard form in IPNI: *Dennst.*\]
 
 #### Herbarium and types
 

@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33212218) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 176](https://www.biodiversitylibrary.org/page/33212218) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10443-1), [Wikidata](https://www.wikidata.org/wiki/Q7288153). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tate, Ralph (1840-1901), British naturalist; science teacher at the Trade and Mining School Belfast; assistant curator of the Geological Society, London 1864-1867; visited Venezuela and Nicaragua 1867 as a mining expert; director of mining schools in Bristol, Darlington and Redcar ca. 1868-1874; Elder professor of Natural Science, Adelaide University 1875-1901; nephew of George Tate (1805-1866). 
-**Abbreviated name**: *Tate*
+**Abbreviated name**: *Tate* \[standard form in IPNI: *Tate*\]
 
 #### Herbarium and types
 

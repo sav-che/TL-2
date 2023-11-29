@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33260292) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33260292) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18440-1), [Wikidata](https://www.wikidata.org/wiki/Q21511816). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eliasson, Albin Gottfrid (1860-1933), Swedish botanist, born 3 Oct at Vänersborg, went to schools at Vånersborg and started to study at Uppsala 1881, fil. cand. 1886, fil. lic. 1892, dr. phil. 1894, also cand. in chemistry 1899, was teacher at several schools, lector in biology and chemistry at Visby 1906, died 14 Nov 1933 at Vånersborg. 
-**Abbreviated name**: *A.G. Eliasson*
+**Abbreviated name**: *A.G. Eliasson* \[standard form in IPNI: *A.G.Eliasson*\]
 
 #### Herbarium and types
 

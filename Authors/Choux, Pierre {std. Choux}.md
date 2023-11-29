@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33265815) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33265815) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1620-1), [Wikidata](https://www.wikidata.org/wiki/Q6075520). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Choux, Pierre (1890-1983), French botanist, prix Coincy 1915, "préparateur de botanique à la Faculté des Sciences de Marseille" ca. 1924, director of the Jardin Botanique de la Ville de Caen 1932-1936. 
-**Abbreviated name**: *Choux*
+**Abbreviated name**: *Choux* \[standard form in IPNI: *Choux*\]
 
 #### Herbarium and types
 

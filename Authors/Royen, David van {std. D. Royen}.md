@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 960](https://www.biodiversitylibrary.org/page/33190431) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 960](https://www.biodiversitylibrary.org/page/33190431) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8685-1), [Wikidata](https://www.wikidata.org/wiki/Q938934). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Royen, David van (1727-1799), Dutch botanist and physician; succeeded his uncle Adriaan van Royen as professor of botany at the University of Leiden and director of its botanical garden 1754 (official appointment 1756)-1786. 
-**Abbreviated name**: *D. Royen*
+**Abbreviated name**: *D. Royen* \[standard form in IPNI: *D.Royen*\]
 
 #### Herbarium and types
 

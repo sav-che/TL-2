@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33121038) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33121038) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3003-1), [Wikidata](https://www.wikidata.org/wiki/Q1461150). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gamble, James Sykes {std. Gamble} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gamble, James Sykes (1847-1925), British forester and botanist in India. 
-**Abbreviated name**: *Gamble*
+**Abbreviated name**: *Gamble* \[standard form in IPNI: *Gamble*\]
 
 #### Herbarium and types
 

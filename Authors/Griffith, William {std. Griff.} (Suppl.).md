@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33258863) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33258863) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3387-1), [Wikidata](https://www.wikidata.org/wiki/Q11705310). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Griffith, William {std. Griff.}|first entry]] for this author
 
 ### Author
 
 \* Griffith, William (1810-1845), British colonial physician, botanist and "man of genius" (*teste* Sir George King), born 4 Mar 1810 in Ham (Surrey), studied under J. Lindley and graduated from London Univ., went to Madras in 1832 as asst. surgeon, in Assam with N. Wallich 1835-1836, in Bhutan 1837-1838, Afghanistan 1839-1841 and Malacca (now Malaysia) in mid-1841, Superindendent, Calcutta Botanic Gardens 1842-1843, returned to Malacca where he died 9 Feb 1845 of an abscess of the liver (malaria & hepatitis?). 
-**Abbreviated name**: *Griff.*
+**Abbreviated name**: *Griff.* \[standard form in IPNI: *Griff.*\]
 
 #### Herbarium and types
 

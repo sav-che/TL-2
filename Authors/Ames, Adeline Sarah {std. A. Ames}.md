@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33264824) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33264824) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/30830-1), [Wikidata](https://www.wikidata.org/wiki/Q17478945). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ames, Adeline Sarah (1879-?), American botanist (mycologist), B.Sc. Univ. Nebraska 1903, A.M. id. 1904, Dr. phil. 1913 Cornell University. 
-**Abbreviated name**: *A. Ames*
+**Abbreviated name**: *A. Ames* \[standard form in IPNI: *A.Ames*\]
 
 #### Herbarium and types
 

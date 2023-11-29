@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33189836) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33189836) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7896-1), [Wikidata](https://www.wikidata.org/wiki/Q21523153). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Potzger, John Ernest (1886-1955), American botanist and ecologist (palynologist); Dr. phil. Butler Univ. 1932; at Dept. of Botany, Butler Univ., Indianapolis, from 1932-1955 (full professor 1948-1955). 
-**Abbreviated name**: *Potzger*
+**Abbreviated name**: *Potzger* \[standard form in IPNI: *Potzger*\]
 
 #### Herbarium and types
 

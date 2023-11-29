@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33333559) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33333559) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9349-1), [Wikidata](https://www.wikidata.org/wiki/Q21608523). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwalb, Karl Josef W. (1842-?), Austrian mycologist. 
-**Abbreviated name**: *Schwalb*
+**Abbreviated name**: *Schwalb* \[standard form in IPNI: *Schwalb*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 974](https://www.biodiversitylibrary.org/page/33190445) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 974](https://www.biodiversitylibrary.org/page/33190445) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8713-1), [Wikidata](https://www.wikidata.org/wiki/Q3087740). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rudolphi, Friedrich \[Karl Ludwig\] (1801-1849), German (Schleswig-Holstein, then Danish) botanist and physician; studied pharmacy in Neustrelitz, Stralsund and Hamburg; from 1826 medicine at the University of Greifswald; Dr. phil. Rostock 1829; Dr. med. Greifswald 1830; from 1830 practicing at Ratzeburg; from 1837 regional physician of the Lauenburg district. 
-**Abbreviated name**: *F. Rudolphi*
+**Abbreviated name**: *F. Rudolphi* \[standard form in IPNI: *F.Rudolphi*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33189927) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33189927) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8052-1), [Wikidata](https://www.wikidata.org/wiki/Q21606806). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Quesné, François Alexandre (1742-1820), French author; translator of Linnaeus's Philosophia botanica. 
-**Abbreviated name**: *Quesné*
+**Abbreviated name**: *Quesné* \[standard form in IPNI: *Quesné*\]
 
 #### Herbarium and types
 

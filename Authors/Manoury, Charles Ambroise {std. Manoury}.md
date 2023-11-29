@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33355368) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33355368) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6076-1), [Wikidata](https://www.wikidata.org/wiki/Q36527167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Manoury, Charles Ambroise (*fl*. 1869), French algologist. 
-**Abbreviated name**: *Manoury*
+**Abbreviated name**: *Manoury* \[standard form in IPNI: *Manoury*\]
 
 #### Herbarium and types
 

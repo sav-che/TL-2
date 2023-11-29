@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33259535) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33259535) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18640-1), [Wikidata](https://www.wikidata.org/wiki/Q21512574). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Familler, Ignaz (1863-1923), German priest and cryptogamic botanist, born 15 Sep 1863 in Puchhausen nr. Straubing, attended elementary school and gymnasium in Metten and Straubing, studied theology in Regensburg, ordained 1887, appointed curate 1892, Ph.D. 1896 Munich (under K.I. Goebel), priest at Regensburg 1910, died 26 Feb 1923 in Karthaus-Prüll nr. Regensburg. 
-**Abbreviated name**: *Fam.*
+**Abbreviated name**: *Fam.* \[standard form in IPNI: *Fam.*\]
 
 #### Herbarium and types
 

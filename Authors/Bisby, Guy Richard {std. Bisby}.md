@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33120350) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33120350) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16154-1), [Wikidata](https://www.wikidata.org/wiki/Q15977605). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bisby, Guy Richard {std. Bisby} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bisby, Guy Richard (1889-1958), British-Canadian mycologist, plant pathologist at Winnipeg 1919-1936, mycologist at CMI 1936-1954. 
-**Abbreviated name**: *Bisby*
+**Abbreviated name**: *Bisby* \[standard form in IPNI: *Bisby*\]
 
 #### Herbarium and types
 

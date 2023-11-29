@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33212427) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33212427) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10718-1), [Wikidata](https://www.wikidata.org/wiki/Q47127493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tollard, Claude (*fl*. 1805), French soldier and botanist; professor of botany at the Military hospital at Strasbourg. 
-**Abbreviated name**: *Tollard*
+**Abbreviated name**: *Tollard* \[standard form in IPNI: *Tollard*\]
 
 #### Herbarium and types
 

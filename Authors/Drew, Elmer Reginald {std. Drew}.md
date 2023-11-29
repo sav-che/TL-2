@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33260083) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33260083) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/13576-1), [Wikidata](https://www.wikidata.org/wiki/Q21340166). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Drew, Elmer Reginald (1865-1930), American physicist and botanist, born 17 Dec 1865 (Calif.), B.S. California Univ. 1880, Ph.D. Cornell 1903, instructor in physics California Univ. 1890-1902, assist. professor Stanford Univ. 1905-1923, assoc. professor 1923-1928, died 1930. 
-**Abbreviated name**: *Drew*
+**Abbreviated name**: *Drew* \[standard form in IPNI: *Drew*\]
 
 #### Herbarium and types
 

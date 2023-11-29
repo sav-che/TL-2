@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33120410) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33120410) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/981-1), [Wikidata](https://www.wikidata.org/wiki/Q2833488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boreau, Alexandre {std. Boreau} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Boreau, Alexandre (1801-1875), French botanist, director of the botanical garden of Angers. 
-**Abbreviated name**: *Boreau*
+**Abbreviated name**: *Boreau* \[standard form in IPNI: *Boreau*\]
 
 #### Herbarium and types
 

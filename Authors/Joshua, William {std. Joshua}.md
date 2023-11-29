@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33068705) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33068705) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4558-1), [Wikidata](https://www.wikidata.org/wiki/Q21517154). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Joshua, William (1828-1898), British lichenologist and algologist. 
-**Abbreviated name**: *Joshua*
+**Abbreviated name**: *Joshua* \[standard form in IPNI: *Joshua*\]
 
 #### Herbarium and types
 

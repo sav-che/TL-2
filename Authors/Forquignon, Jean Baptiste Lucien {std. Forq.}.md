@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33259823) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33259823) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18903-1), [Wikidata](https://www.wikidata.org/wiki/Q36612739). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Forquignon, Jean Baptiste Lucien (1847-1888), French civil engineer and amateur mycologist, born 31 Mai 1847 in Pont-à-Mousson (Meurthe-et-Moselle), studied literature and science in Fontenay-aux-Roses and Sainte-Barbe, entered the "École des Mines" 1867, military service 1870, Dr. ès-sciences physiques 1881 Paris, adjunct prof. of chemistry, Faculty of Sciences, Dijon 1884, one of the founders of the Société Mycologique de France, died 13 Jun 1888 in Bolle nr. St. Dié (Vosges). 
-**Abbreviated name**: *Forq.*
+**Abbreviated name**: *Forq.* \[standard form in IPNI: *Forq.*\]
 
 #### Herbarium and types
 

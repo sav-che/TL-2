@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33190039) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33190039) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8114-1), [Wikidata](https://www.wikidata.org/wiki/Q21606918). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ramaley, Francis (1870-1942), American botanist and ecologist; M.Sc. Minnesota 1896; Dr. phil. ib. 1899; instructor in botany Univ. Minnesota 1895-1898, ass. prof. biology University of Colorado, Boulder; regular prof. biology and head of the department of biology University of Colorado 1899-1939. 
-**Abbreviated name**: *Ramaley*
+**Abbreviated name**: *Ramaley* \[standard form in IPNI: *Ramaley*\]
 
 #### Herbarium and types
 

@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 925](https://www.biodiversitylibrary.org/page/33121056) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 925](https://www.biodiversitylibrary.org/page/33121056) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3057-1), [Wikidata](https://www.wikidata.org/wiki/Q1096785). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gay, Claude (1800-1873), French botanist and traveller. 
-**Abbreviated name**: *Gay*
+**Abbreviated name**: *Gay* \[standard form in IPNI: *Gay*\]
 
 #### Herbarium and types
 

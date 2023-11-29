@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33189768) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33189768) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24920-1), [Wikidata](https://www.wikidata.org/wiki/Q5075359). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Plowright, Charles Bagge (1849-1910); British botanist and physician; MD Durham 1890; medical officer of health, Freebridge Lynn Rural District Council; from 1892-1894 Hunterian professor of comparative anatomy and physiology at the London Royal College of Surgeons. 
-**Abbreviated name**: *Plowr.*
+**Abbreviated name**: *Plowr.* \[standard form in IPNI: *Plowr.*\]
 
 #### Herbarium and types
 

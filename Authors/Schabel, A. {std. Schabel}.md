@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33333237) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33333237) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8998-1), [Wikidata](https://www.wikidata.org/wiki/Q21607844). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schabel, A. (1792-1836), German botanist and high school teacher at the "Gymnasium" at Ellwangen. 
-**Abbreviated name**: *Schabel*
+**Abbreviated name**: *Schabel* \[standard form in IPNI: *Schabel*\]
 
 #### Herbarium and types
 

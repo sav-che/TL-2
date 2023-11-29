@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-07-31 09:24:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33120441) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33120441) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1090-1), [Wikidata](https://www.wikidata.org/wiki/Q124075). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Braun-Blanquet, Josias (early Josias Braun) {std. Braun-Blanq.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Braun-Blanquet, Josias (1884-x), Swiss born phytosociologist at Montpellier, founder of the French-Swiss school of phytosociologists and of SIGMA. 
-**Abbreviated name**: *Braun-Blanq.*
+**Abbreviated name**: *Braun-Blanq.* \[standard form in IPNI: *Braun-Blanq.*\]
 **Alternate abbreviation:** (*Br. Bl.*)
 
 #### Herbarium and types

@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33120333) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33120333) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16042-1), [Wikidata](https://www.wikidata.org/wiki/Q599936). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bertoloni, Antonio {std. Bertol.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bertoloni, Antonio (1775-1869), Italian botanist, professor of botany at Bologna 1816-1869. 
-**Abbreviated name**: *Bertol.*
+**Abbreviated name**: *Bertol.* \[standard form in IPNI: *Bertol.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33355926) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33355926) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7152-1), [Wikidata](https://www.wikidata.org/wiki/Q21522398). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Opatowski, Heinrich (1812-?), German physician and botanist in Saalfeld; Dr. med. Berlin 1838. 
-**Abbreviated name**: *H. Opat.*
+**Abbreviated name**: *H. Opat.* \[standard form in IPNI: *H.Opat.*\]
 
 #### Herbarium and types
 

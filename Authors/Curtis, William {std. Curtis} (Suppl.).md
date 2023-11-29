@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33266194) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33266194) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1927-1), [Wikidata](https://www.wikidata.org/wiki/Q460867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Curtis, William {std. Curtis}|first entry]] for this author
 
 ### Author
 
 \* Curtis, William (1746-1799), British botanist, on leaving school apprenticed to his grandfather, a surgeon-apothecary at Alton, ca. 1766 apprenticed to George Vaux, an apothecary in Pudding Lane in the City of London, 1772-1777 in charge of Chelsea garden, founded the Botanical Gardens at Lambeth and Brompton, had a nursery at Queen’s Elm, Brompton 1789, at Sloane Street Chelsea. 
-**Abbreviated name**: *Curtis*
+**Abbreviated name**: *Curtis* \[standard form in IPNI: *Curtis*\]
 
 #### Herbarium and types
 

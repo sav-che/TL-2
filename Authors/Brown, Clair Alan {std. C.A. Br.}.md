@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33266440) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33266440) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16593-1), [Wikidata](https://www.wikidata.org/wiki/Q2974959). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brown, Clair Alan (1903-x), American botanist, born at Port Allegany, Pennsylvania, worked mainly on the flora of Louisiana, B.S. 1925 St. Coll. Forestry N.Y., Univ. Michigan M.A. 1926, Ph. D.\[?\] 1933, instructor of botany, Louisiana University ca. 1926, professor ib. 1943. 
-**Abbreviated name**: *C.A. Br.*
+**Abbreviated name**: *C.A. Br.* \[standard form in IPNI: *C.A.Br.*\]
 
 #### Herbarium and types
 

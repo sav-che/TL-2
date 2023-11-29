@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33189500) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33189500) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7271-1), [Wikidata](https://www.wikidata.org/wiki/Q458941). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palisot de Beauvois, Ambroise Marie François Joseph (1752-1820), French traveller and botanist; from 1786-1787 in Oware and Bénin; 1788-1791 on Haiti; 1791-1798 in the United States (briefly in Haiti again 1793); back in Paris as teacher at the Athenée des Étrangers; member Institut de France 1806; councillor Université de Paris 1815. 
-**Abbreviated name**: *P. Beauv.*
+**Abbreviated name**: *P. Beauv.* \[standard form in IPNI: *P.Beauv.*\]
 
 #### Herbarium and types
 

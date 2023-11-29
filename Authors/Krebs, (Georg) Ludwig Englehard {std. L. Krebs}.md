@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33068911) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33068911) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5053-1), [Wikidata](https://www.wikidata.org/wiki/Q5982493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krebs, (Georg) Ludwig Englehard (1792-1844), German naturalist; at the Cape 1817-1844. 
-**Abbreviated name**: *L. Krebs*
+**Abbreviated name**: *L. Krebs* \[standard form in IPNI: *Krebs*\]
 
 #### Herbarium and types
 

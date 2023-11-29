@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33120364) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33120364) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/855-1), [Wikidata](https://www.wikidata.org/wiki/Q36587061). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bleicher, Joseph {std. J. Bleicher} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bleicher, Joseph (*fl*. 1899), German highschool teacher and botanist at Ingolstadt. 
-**Abbreviated name**: *J. Bleicher*
+**Abbreviated name**: *J. Bleicher* \[standard form in IPNI: *J.Bleicher*\]
 
 #### Herbarium and types
 

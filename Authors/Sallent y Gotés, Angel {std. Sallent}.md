@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33333177) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33333177) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8845-1), [Wikidata](https://www.wikidata.org/wiki/Q21607648). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sallent y Gotés, Angel (1857-1934), Catalonian philologist and botanist; collaborator of Cadeval y Diars. 
-**Abbreviated name**: *Sallent*
+**Abbreviated name**: *Sallent* \[standard form in IPNI: *Sallent*\]
 
 #### Herbarium and types
 

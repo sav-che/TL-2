@@ -26,16 +26,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33265262) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33265262) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/639-1), [Wikidata](https://www.wikidata.org/wiki/Q2871059). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bellynck, August Alexis Adolphe Alexandre {std. Bellynck}|first entry]] for this author
 
 ### Author
 
 \* Bellynck, Auguste Alexis Adolphe Alexandre (1814-1877), Belgian (Wallonian) jesuit and cryptogamist, studied at the college of Bergues, the petit-séminaire de St.-Omer and the grand séminaire de Cambrai; ordained priest 1837, vicar at the parish of Quesnoy-sur-Deub near Lille, id. Duinkerken (Dunkerque) 1838, later chaplain at a convent at Gravelines; entered the Soc. Jésus 1840, stationed at Katwijk (Netherlands) 1841-1842, bursar at the Collège de Notre-Dame de la Paix, Namur 1842. 
-**Abbreviated name**: *Bellynck*
+**Abbreviated name**: *Bellynck* \[standard form in IPNI: *Bellynck*\]
 
 #### Herbarium and types
 

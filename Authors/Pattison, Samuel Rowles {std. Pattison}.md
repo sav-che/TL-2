@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33189577) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33189577) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7396-1), [Wikidata](https://www.wikidata.org/wiki/Q21522693). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pattison, Samuel Rowles (1809-1901), British palaeobotanist of Launceston, Cornwall. 
-**Abbreviated name**: *Pattison*
+**Abbreviated name**: *Pattison* \[standard form in IPNI: *Pattison*\]
 
 #### Herbarium and types
 

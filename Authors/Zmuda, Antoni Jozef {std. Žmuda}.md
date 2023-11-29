@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33066887) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33066887) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12052-1), [Wikidata](https://www.wikidata.org/wiki/Q9156888). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zmuda, Antoni Jozef (1889-1916), Polish botanist; botanical assistant in Krakow. 
-**Abbreviated name**: *Žmuda*
+**Abbreviated name**: *Žmuda* \[standard form in IPNI: *Żmuda*\]
 
 #### Herbarium and types
 

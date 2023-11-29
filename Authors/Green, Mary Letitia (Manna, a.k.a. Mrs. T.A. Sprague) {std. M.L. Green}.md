@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33258833) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33258833) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3363-1), [Wikidata](https://www.wikidata.org/wiki/Q13423692). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Green, Mary Letitia \['Manna', a.k.a. Mrs. Thomas Archibald Sprague\] (1886-1978), Welsh botanist, bibliographer and botanical artist, born 27 Nov 1886 in Breconshire, Wales, graduated Univ. College, Aberystwyth 1912 and went to Kew, where she compiled supplements to *Index Kewensis* and what is now known as *Index Londinensis*, F.L.S. 1925, Asst. in the Kew Herb. 1929, retired 1945, died 15 Jan 1978 in Cheltenham (Gloucs.), England. 
-**Abbreviated name**: *M.L. Green*
+**Abbreviated name**: *M.L. Green* \[standard form in IPNI: *M.L.Green*\]
 
 #### Herbarium and types
 

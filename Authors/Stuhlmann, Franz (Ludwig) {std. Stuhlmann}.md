@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33212063) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33212063) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12897-1), [Wikidata](https://www.wikidata.org/wiki/Q107750). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stuhlmann, Franz \[Ludwig\] (1863-1928), German (Hamburg) zoologist and collector; with the German army in East Africa 1888; with Emin Pasja to Central Africa but returned to the East coast 1891; in Europe 1892-1893; in various functions in East Africa 1893-1903; in the Dutch East Indies 1900-1901; director of the Biological-agricultural institute at Amani 1903-1908; secretary of the Colonial institute at Hamburg 1909-1921; director of an institute for world trade ib. 1921. 
-**Abbreviated name**: *Stuhlmann*
+**Abbreviated name**: *Stuhlmann* \[standard form in IPNI: *Stuhlmann*\]
 
 #### Herbarium and types
 

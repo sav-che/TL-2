@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33355359) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33355359) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6050-1), [Wikidata](https://www.wikidata.org/wiki/Q21519874). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Malzine, Omer de Pierre Antoine Hyacinthe Recq de (1820-1881), Belgian traveller in Mexico. 
-**Abbreviated name**: *Malzine*
+**Abbreviated name**: *Malzine* \[standard form in IPNI: *Malzine*\]
 
 #### Herbarium and types
 

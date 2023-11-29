@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33265279) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33265279) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/20058940-1), [Wikidata](https://www.wikidata.org/wiki/Q2141330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Berens, Reinhold von (1745-1823), Latvian (Riga born) physician, educated at the Domschule and Lyceum in Riga 1756-1764, studied at the Collegium med.-chir. Berlin 1768-1770, id. at Göttingen 1768-1770, Dr. med. Göttingen 1770; license St. Petersburg 1771, practicing in Moscow 1771-1773, military physician in Omsk 1773-1780, living in Moscow 1780-1784, from 1784 in Riga. 
-**Abbreviated name**: *Berens*
+**Abbreviated name**: *Berens* \[standard form in IPNI: *Berens*\]
 
 #### Herbarium and types
 

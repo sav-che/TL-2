@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33333467) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33333467) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9255-1), [Wikidata](https://www.wikidata.org/wiki/Q162688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schreber, Johann Christian Daniel von (1739-1810), German (Thüringian) botanist and zoologist; studied medicine, natural sciences and theology at Halle; Dr. med. Uppsala 1760 (with C. Linnaeus), practicing physician at Bützow, Mecklenburg with a readership at the University 1761; secretary of the "Oekonomische Gesellschaft" Leipzig 1764; third professor of medicine (incl. botany) ar Erlangen 1770; director of the Erlangen botanical garden 1773; professor of natural history ib. 1776; 1791 second, 1793 first professor of medicine; president of the Leopoldina 1791-1810. 
-**Abbreviated name**: *Schreb.*
+**Abbreviated name**: *Schreb.* \[standard form in IPNI: *Schreb.*\]
 
 #### Herbarium and types
 

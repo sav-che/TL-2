@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33189894) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33189894) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8010-1), [Wikidata](https://www.wikidata.org/wiki/Q3288287). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Puerari, Marc Nicolas (1766-1845), Swiss botanist; pupil of Vahl in Copenhagen, teacher in Denmark. 
-**Abbreviated name**: *Puerari*
+**Abbreviated name**: *Puerari* \[standard form in IPNI: *Puerari*\]
 
 #### Herbarium and types
 

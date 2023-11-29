@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33066897) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33066897) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12062-1), [Wikidata](https://www.wikidata.org/wiki/Q21613716). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zornow, Robert (1842-1873), German (Prussian) high school teacher and botanist; teacher's examination Königsberg 1867, teacher at the high school at Gumbinnen; on active service 1870-1871. 
-**Abbreviated name**: *Zornow*
+**Abbreviated name**: *Zornow* \[standard form in IPNI: *Zornow*\]
 
 #### Herbarium and types
 

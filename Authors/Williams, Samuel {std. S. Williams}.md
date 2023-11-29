@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33066665) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33066665) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11710-1), [Wikidata](https://www.wikidata.org/wiki/Q21612735). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Williams, Samuel (1743-1817), American historian, naturalist and clergyman; minister at Bradford, Mass. 1765-1780; Hollis professor of mathematics and natural philosophy Harvard University 1780-1788; minister at Rutland, Vt. 1789-1795, editor of the Rutland Herald 1795-1804. 
-**Abbreviated name**: *S. Williams*
+**Abbreviated name**: *S. Williams* \[standard form in IPNI: *Williams*\]
 
 #### Herbarium and types
 

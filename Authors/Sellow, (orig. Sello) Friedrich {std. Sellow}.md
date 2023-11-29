@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33333639) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33333639) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9464-1), [Wikidata](https://www.wikidata.org/wiki/Q76159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sellow, \[orig.: Sello\] Friedrich (1789-1831), German gardener and botanical explorer; worked in the Berlin and Paris (1810-1811) botanical gardens and studied botany with Willdenow, Desfontaines and A.L. de Jussieu as well as in London (sponsored by A. v. Humboldt 1811-1813); from 1814 in Brazil, collecting widely from 1815-1817 with Maximilian zu Wied-Neuwied; with Ignaz Franz Werner von Olfers \[1793-1871\] in 1819; continued to collect 1819-1831 in Brazil and Uruguay. 
-**Abbreviated name**: *Sellow*
+**Abbreviated name**: *Sellow* \[standard form in IPNI: *Sellow*\]
 
 #### Herbarium and types
 

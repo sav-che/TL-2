@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33266032) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33266032) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17426-1), [Wikidata](https://www.wikidata.org/wiki/Q624998). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Corda, August Karl Joseph {std. Corda}|first entry]] for this author
 
 ### Author
 
 \* Corda, August Karl Joseph (1809-1849), Czech taxonomist, mycologist, palaeontologist, and traveller, born 22 October 1809 at Liberec (Reichenberg) in Bohemia, custos of the zoological collections of the national museum of Bohemia, travelled for a year in Texas, payed for by Fürst Colloredo, left Europe 15 October 1848 from Bremen, left New Orleans 25 Aug 1849 to return to Europe but died on the Caribbean Sea at circa 16 September 1849, was some time custos of the zoological collections at the National Museum. 
-**Abbreviated name**: *Corda*
+**Abbreviated name**: *Corda* \[standard form in IPNI: *Corda*\]
 
 #### Herbarium and types
 

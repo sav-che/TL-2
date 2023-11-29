@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33120516) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33120516) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1234-1), [Wikidata](https://www.wikidata.org/wiki/Q5588668). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bruzelius, Arvid Sture {std. Bruzelius} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bruzelius, Arvid Sture (1799-1865), Swedish botanist and physician. 
-**Abbreviated name**: *Bruzelius*
+**Abbreviated name**: *Bruzelius* \[standard form in IPNI: *Bruzelius*\]
 
 #### Herbarium and types
 

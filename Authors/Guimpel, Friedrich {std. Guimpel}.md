@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1023](https://www.biodiversitylibrary.org/page/33121154) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1023](https://www.biodiversitylibrary.org/page/33121154) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3471-1), [Wikidata](https://www.wikidata.org/wiki/Q8962854). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Guimpel, Friedrich (1774-1839), German botanical artist and engraver, professor at the Academy of Arts in Berlin. 
-**Abbreviated name**: *Guimpel*
+**Abbreviated name**: *Guimpel* \[standard form in IPNI: *Guimpel*\]
 
 #### Originals
 

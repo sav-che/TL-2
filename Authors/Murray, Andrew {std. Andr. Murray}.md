@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-09-10 16:56:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/page/33355754) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 667](https://www.biodiversitylibrary.org/page/33355754) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6806-1), [Wikidata](https://www.wikidata.org/wiki/Q506448). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Murray, Andrew (1812-1878), Scottish entomologist and botanist; trained to be a lawyer and practicing at Edinburgh until 1860; from 1861-1864 assistant-secretary to the Royal Horticultural Society in London. 
-**Abbreviated name**: *Andr. Murray*
+**Abbreviated name**: *Andr. Murray* \[standard form in IPNI: *A.Murray bis*\]
 
 #### Herbarium and types
 

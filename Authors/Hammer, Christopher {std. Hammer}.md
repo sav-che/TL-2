@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33068278) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33068278) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3602-1), [Wikidata](https://www.wikidata.org/wiki/Q11963793). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hammer, Christopher (1720-1804), Norwegian botanist and administrator; studied theology and law at Copenhagen; from 1752 "General-Konduktor for Landet og Kjøbstaederne i Aggerhus Stift", from 1758 "Kancelliraad"; from 1778 "Justitsraad". 
-**Abbreviated name**: *Hammer*
+**Abbreviated name**: *Hammer* \[standard form in IPNI: *Hammer*\]
 
 #### Herbarium and types
 

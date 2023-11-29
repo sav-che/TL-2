@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-01-08 11:35:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33212313) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33212313) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10590-1), [Wikidata](https://www.wikidata.org/wiki/Q21610612). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomas \[Abraham Louis\] Emmanuel \[Emanuel\] (1788-1859), Swiss plant collector, plant dealer and forester at Bex \[Vaud\]. 
-**Abbreviated name**: *Em. Thomas*
+**Abbreviated name**: *Em. Thomas* \[standard form in IPNI: *E.Thomas*\]
 
 #### Herbarium and types
 

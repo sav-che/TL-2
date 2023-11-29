@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33266003) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33266003) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17397-1), [Wikidata](https://www.wikidata.org/wiki/Q21516834). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cook, Walter Robert Ivimey (1901-1952), British mycologist, B.Sc. London 1923, FLS 1927, demonstrator King's College, London 1923-1928, lecturer Bristol University 1928-1931, Senior lecturer in botany, University of Wales, Cardiff 1931-1952. 
-**Abbreviated name**: *Ivimey Cook*
+**Abbreviated name**: *Ivimey Cook* \[standard form in IPNI: *Ivimey Cook*\]
 
 #### Herbarium and types
 

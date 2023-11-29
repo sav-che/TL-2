@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33333705) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33333705) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9582-1), [Wikidata](https://www.wikidata.org/wiki/Q5926602). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shirai, Mitsutaro ("Kotaro") (1863-1962), Japanese botanist (mycologist); studied in Germany; ultimately at the Agronomical Institute of the University of Tokyo. 
-**Abbreviated name**: *Shirai*
+**Abbreviated name**: *Shirai* \[standard form in IPNI: *Shirai*\]
 
 #### Herbarium and types
 

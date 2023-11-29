@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33066438) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33066438) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11433-1), [Wikidata](https://www.wikidata.org/wiki/Q1616636). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Watson, Hewett Cottrell (1804-1881), British botanist and phrenologist of independent means; studied medicine at Edinburgh 1828-1832 without taking a degree; from 1833 living at Thames Ditton near London; collected in the Azores in 1843; published on phrenology and on evolution in plants; from 1859 mainly dedicating himself to the distribution of British plants. 
-**Abbreviated name**: *H. Wats.*
+**Abbreviated name**: *H. Wats.* \[standard form in IPNI: *H.C.Watson*\]
 
 #### Herbarium and types
 

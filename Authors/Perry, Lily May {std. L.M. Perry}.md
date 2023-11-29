@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33189648) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33189648) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7544-1), [Wikidata](https://www.wikidata.org/wiki/Q5395639). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Perry, Lily May (1895-x), Canadian-born American botanist; Dr. phil. Wash. Univ., St. Louis 1932; at Gray Herbarium 1925-1932, University of Georgia 1932-1934, Sweet Briar College 1934-1935; later at Arnold Arboretum 
-**Abbreviated name**: *L.M. Perry*
+**Abbreviated name**: *L.M. Perry* \[standard form in IPNI: *L.M.Perry*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33068413) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33068413) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3877-1), [Wikidata](https://www.wikidata.org/wiki/Q66569). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hermann, Paul (1646-1695), Dutch botanist and explorer of German birth, travelled in Africa, India and Ceylon, professor of botany at Leiden 1680-1695. 
-**Abbreviated name**: *P. Herm.*
+**Abbreviated name**: *P. Herm.* \[standard form in IPNI: *Herm.*\]
 
 #### Herbarium
 

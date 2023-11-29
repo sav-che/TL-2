@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33066832) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33066832) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11949-1), [Wikidata](https://www.wikidata.org/wiki/Q16043849). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Young, Mary Sophie (1872-1919), American teacher and botanist; BA Wellesley Coll. 1895; Dr. phil. Univ. Chicago 1910; teacher at Sullivan, Mo., 1895-1897; high school teacher Dundee Ill. 1897-1898; id. Grafton Hall, Fond du Lac, Wisc. 1898-1906; at Waterman Hall, Sycamore, Ill. 1907-1908; fellow in botany, Univ. Chicago 1908-1910; instructor in botany, Univ. Texas 1910-1919. 
-**Abbreviated name**: *M.S. Young*
+**Abbreviated name**: *M.S. Young* \[standard form in IPNI: *M.S.Young*\]
 
 #### Herbarium and types
 

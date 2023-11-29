@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33212478) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33212478) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10793-1), [Wikidata](https://www.wikidata.org/wiki/Q698461). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trattinnick, Leopold (1764-1849), Austrian botanist of private means in Wien, dedicating himself almost exclusively to natural-history; Austrian "Landschafts-Phytograph" (title), curator of the united k.k. Hof-Naturaliencabinete 1809-1835. 
-**Abbreviated name**: *Tratt.*
+**Abbreviated name**: *Tratt.* \[standard form in IPNI: *Tratt.*\]
 
 #### Herbarium and types
 

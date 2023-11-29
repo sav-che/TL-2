@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33265342) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33265342) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/13879-1), [Wikidata](https://www.wikidata.org/wiki/Q21387713). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Best, George Newton (1846-1926), American physician and bryologist, New Jersey born, school teacher 1867-1870 in the region of Pittstown, N.J., teacher in natural sciences and mathematics in Rugby Academy 1872-1873, graduated from the Medical Dept. University of Pennsylvania 1875, practicing physician at Rosemont, New Jersey 1875-1926. 
-**Abbreviated name**: *Best*
+**Abbreviated name**: *Best* \[standard form in IPNI: *Best*\]
 
 #### Herbarium and types
 

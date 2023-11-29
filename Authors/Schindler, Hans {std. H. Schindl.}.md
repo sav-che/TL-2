@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33333312) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33333312) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9093-1), [Wikidata](https://www.wikidata.org/wiki/Q47125729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schindler, Hans (*fl*. 1917-1925), Austrian botanist, assistant, later head inspector at the Vienna Seed-testing Station, later "Bundesanstalt für Pflanzenbau und Samenprüfung". 
-**Abbreviated name**: *H. Schindl.*
+**Abbreviated name**: *H. Schindl.* \[standard form in IPNI: *H.Schindl.*\]
 
 #### Herbarium and types
 

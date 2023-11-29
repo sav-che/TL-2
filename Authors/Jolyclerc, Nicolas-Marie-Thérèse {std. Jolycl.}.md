@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33068695) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33068695) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21041-1), [Wikidata](https://www.wikidata.org/wiki/Q3340570). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jolyclerc, Nicolas-Marie-Thérèse (1746-1817), French clergyman and botanist; for some time at Lyon; later teaching at the École centrale de l'Oise. 
-**Abbreviated name**: *Jolycl.*
+**Abbreviated name**: *Jolycl.* \[standard form in IPNI: *Jolycl.*\]
 
 #### Herbarium and types
 

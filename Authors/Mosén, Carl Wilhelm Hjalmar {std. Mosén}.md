@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33355687) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33355687) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23667-1), [Wikidata](https://www.wikidata.org/wiki/Q5994869). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mosén, Carl Wilhelm Hjalmar (1841-1887), Swedish botanist; Dr. phil. Uppsala 1875; collector on Regnell's expedition (1873-1876), curator of the Brazilian collections of the Stockholm Riksmuseum 1872-1873, 1876-1883. 
-**Abbreviated name**: *Mosén*
+**Abbreviated name**: *Mosén* \[standard form in IPNI: *Mosén*\]
 
 #### Herbarium and types
 

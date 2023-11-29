@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33189673) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33189673) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7584-1), [Wikidata](https://www.wikidata.org/wiki/Q17352286). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petit-Radel, Philippe (1749-1815), French botanist. 
-**Abbreviated name**: *Petit-Radel*
+**Abbreviated name**: *Petit-Radel* \[standard form in IPNI: *Petit-Radel*\]
 
 #### Herbarium and types
 

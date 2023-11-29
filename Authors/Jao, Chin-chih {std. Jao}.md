@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33068666) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33068666) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4429-1), [Wikidata](https://www.wikidata.org/wiki/Q21516937). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jao, Ch'in-chih (1900-x), Chinese botanist who studied at Ann Arbor, Mich.; later professor of biology at Peking. 
-**Abbreviated name**: *Jao*
+**Abbreviated name**: *Jao* \[standard form in IPNI: *C.C.Jao*\]
 
 #### Herbarium and types
 

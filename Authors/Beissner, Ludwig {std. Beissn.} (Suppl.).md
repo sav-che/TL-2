@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33265257) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33265257) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/625-1), [Wikidata](https://www.wikidata.org/wiki/Q65688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Beissner, Ludwig {std. Beissn.}|first entry]] for this author
 
 ### Author
 
 \* Beissner, Ludwig (1843-1927), German (Mecklenburg) gardener and dendrologist, trained at Eisenach, Erfurt, Klein-Glienicke and Potsdam; gardener at the Botanical Garden Breslau 1865 (also studying with Göppert on the university); travelled to various botanical gardens in France 1867, stayed 1867-1869 at Hyères, Riviera, with the horticultural establishment of Huber & Co., returned to Germany 1870, gardener at Naples 1871-1882; garden inspector at the Braunschweig Botanical Garden 1882-1887, royal garden inspector at the botanical garden in Bonn-Poppelsdorf 1887-1913, in retirement in Wörrstadt, Rheinhessen 1913-1937. 
-**Abbreviated name**: *Beissn.*
+**Abbreviated name**: *Beissn.* \[standard form in IPNI: *Beissn.*\]
 
 #### Herbarium and types
 

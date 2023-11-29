@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33068765) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33068765) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4736-1), [Wikidata](https://www.wikidata.org/wiki/Q945098). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kerchove de Denterghem, Oswald Charles Eugène Marie Ghislain de (1844-1906), Belgian horticulturist, botanist, politician and administrator. 
-**Abbreviated name**: *Kerch.*
+**Abbreviated name**: *Kerch.* \[standard form in IPNI: *Kerch.*\]
 
 #### Herbarium and types
 

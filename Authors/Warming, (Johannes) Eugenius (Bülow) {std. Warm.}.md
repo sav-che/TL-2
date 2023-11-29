@@ -29,14 +29,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33066411) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33066411) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11411-1), [Wikidata](https://www.wikidata.org/wiki/Q355888). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Warming, \[Johannes\] Eugenius \[Bülow\] (1841-1924), Danish botanist (taxonomist, morphologist, ecological plant geographer); studied natural sciences; secretary with P.W. Lund in Lagoa Santa, Brazil 1863-1866; Mag. Bot. 1869; Dr. Phil. Copenhagen 1871; studied in München and Bonn; lecturer in botany at Copenhagen University 1874-1882; professor of botany at Stockholm Högskola 1882; on expeditions to Greenland, 1884, and Lapmark (Norway) 1885; professor of botany and director of the botanical garden at Copenhagen 1885-1911. 
-**Abbreviated name**: *Warm.*
+**Abbreviated name**: *Warm.* \[standard form in IPNI: *Warm.*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33265544) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33265544) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16356-1), [Wikidata](https://www.wikidata.org/wiki/Q68637). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bornmüller, Joseph Friedrich Nicolaus {std. Bornm.}|first entry]] for this author
 
 ### Author
 
 \* Bornmüller, Joseph \[Friedrich Nicolaus\] (1862-1948), German (Thüringen) botanist, educated at the Gymnasium of Leipzig, at the horticultural school at Potsdam 1880, first major botanical collecting trip to the Balkan 1886, inspector at the Botanical Garden of Belgrado 1886-1888, continued collecting in the Balkan and Turkey 1889-1890, came from 1893 in contact with H.C. Haussknecht at Weimar, continued collecting, curator at the Herbarium Haussknecht, Jena 1904-1938, Dr. rer. nat. h.c. University of Jena 1943. 
-**Abbreviated name**: *Bornm.*
+**Abbreviated name**: *Bornm.* \[standard form in IPNI: *Bornm.*\]
 
 #### Herbarium and types
 

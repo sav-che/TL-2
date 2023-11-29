@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33333590) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33333590) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9378-1), [Wikidata](https://www.wikidata.org/wiki/Q16719754). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwier, Heinz (1881-1955), German (Prussian) musician, composer and botanist; high school teacher at Schweicheln 1901-1905; attended the Sondershausen music school 1905; subsequently conductor of theatre orchestras in Celle and Hannover, ultimately music director in Göttingen; in retirement at Petershagen. 
-**Abbreviated name**: *Schwier*
+**Abbreviated name**: *Schwier* \[standard form in IPNI: *Schwier*\]
 
 #### Herbarium and types
 

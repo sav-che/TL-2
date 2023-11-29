@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33068738) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33068738) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4639-1), [Wikidata](https://www.wikidata.org/wiki/Q21517273). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kanouse, Bessie Bernice (1889-1969), American mycologist; Ph. D. Univ. Mich. 1926; specialist on watermolds and discomycetes; at the Ann Arbor University Herbarium of the University of Michigan (1926-1960). 
-**Abbreviated name**: *Kanouse*
+**Abbreviated name**: *Kanouse* \[standard form in IPNI: *Kanouse*\]
 
 #### Herbarium and types
 

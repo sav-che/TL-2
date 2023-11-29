@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33068631) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33068631) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4323-1), [Wikidata](https://www.wikidata.org/wiki/Q585551). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Isnard, Antoine-Tristan Danty d' (1663-1743), French botanist at the Jardin du Roi at Paris; established the genus *Euphorbia*. 
-**Abbreviated name**: *Isnard*
+**Abbreviated name**: *Isnard* \[standard form in IPNI: *Isnard*\]
 
 #### Herbarium and types
 

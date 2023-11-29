@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33189484) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33189484) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7318-1), [Wikidata](https://www.wikidata.org/wiki/Q3839973). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Paolucci, Luigi (1849-1935), Italian zoologist and botanist; professor of natural history at the Ancona technical School. 
-**Abbreviated name**: *Paolucci*
+**Abbreviated name**: *Paolucci* \[standard form in IPNI: *Paolucci*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33068636) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33068636) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4356-1), [Wikidata](https://www.wikidata.org/wiki/Q21516847). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jack, Joseph Bernhard (1818-1901), German pharmacist at Salem in Baden (1848-1874); later retired at Konstanz; Dr. h.c. Freiburg 1898. 
-**Abbreviated name**: *J. B. Jack*
+**Abbreviated name**: *J. B. Jack* \[standard form in IPNI: *J.B.Jack*\]
 
 #### Herbarium and types
 

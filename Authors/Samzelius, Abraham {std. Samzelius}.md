@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33333126) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33333126) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8870-1), [Wikidata](https://www.wikidata.org/wiki/Q21607670). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Samzelius, Abraham (1723-1773), Swedish clergyman and botanist; studied at Uppsala 1745; ordained 1752; stationed at Örebro and Bodarne, Närke. 
-**Abbreviated name**: *Samzelius*
+**Abbreviated name**: *Samzelius* \[standard form in IPNI: *Samzelius*\]
 
 #### Herbarium and types
 

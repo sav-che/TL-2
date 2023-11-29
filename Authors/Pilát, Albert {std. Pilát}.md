@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33189734) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33189734) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24865-1), [Wikidata](https://www.wikidata.org/wiki/Q329324). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pilát, Albert (1903-1974), Czechoslovakian mycologist; Dr. sci. Praha 1926 (with J. Velenovský); from 1930 at the National Museum, Praha, from 1948 as head of the botanical department, from 1965 idem of the mycological department; rad práce (labor medal) CSSR 1969; corr. memb. Czechosl. Acad. Sci. 1959. 
-**Abbreviated name**: *Pilát*
+**Abbreviated name**: *Pilát* \[standard form in IPNI: *Pilát*\]
 
 #### Herbarium and types
 

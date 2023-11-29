@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33189656) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33189656) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7551-1), [Wikidata](https://www.wikidata.org/wiki/Q19832536). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Persson, Nathan Petter Herman (1893-1978), Swedish physician and bryologist; Dr. phil. h.c. Stockholm 1945; in various functions (1947-1969 as curator) at the Naturhistoriska Riksmuseum, Stockholm. 
-**Abbreviated name**: *Perss.*
+**Abbreviated name**: *Perss.* \[standard form in IPNI: *Perss.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33066370) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33066370) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12989-1), [Wikidata](https://www.wikidata.org/wiki/Q78816). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Waldstein, Franz de Paula Adam \[Graf\] (1759-1823), Austrian soldier and botanist; in campaigns against the Turks and North African states as Maltese knight 1777-1781; in the Austrian-Turkish war and the Prussian campaign 1787-1789; dedicating himself to botany from 1789 together with Paul Kitaibel, mainly travelling in historical Hungary; in the Austro-French war in Italy 1797; continued his botanical studies from Vedröd near Pressburg (Bratislava), again in active service in the Austrian army 1809; from 1814 in possession of the family estate in Bohemia (nr Oberleutensdorf). 
-**Abbreviated name**: *Waldst.*
+**Abbreviated name**: *Waldst.* \[standard form in IPNI: *Waldst.*\]
 
 #### Herbarium and types
 

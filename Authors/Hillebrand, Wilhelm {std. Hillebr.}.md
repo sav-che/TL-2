@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33068447) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33068447) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3948-1), [Wikidata](https://www.wikidata.org/wiki/Q77663). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hillebrand, Wilhelm (1821-1886), German physician, botanist, and traveller who lived for twenty years in the Hawaiian Islands (1851-1871). 
-**Abbreviated name**: *Hillebr.*
+**Abbreviated name**: *Hillebr.* \[standard form in IPNI: *Hillebr.*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33259145) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33259145) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2025-1), [Wikidata](https://www.wikidata.org/wiki/Q56170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Davies, (Rev.) Hugh (1739-1821), British born on Anglesey, educated at Beaumaris Grammar School and Jesus College at Oxford, 1763 M.A. Oxford, 1787-1816 Rector of Aber, F.L.S. 1790. 
-**Abbreviated name**: *Davies*
+**Abbreviated name**: *Davies* \[standard form in IPNI: *Davies*\]
 
 #### Herbarium and types
 

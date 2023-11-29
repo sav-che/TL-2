@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33212413) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33212413) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10695-1), [Wikidata](https://www.wikidata.org/wiki/Q21610783). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Titius, Pius \[Pio\] Vendei (1801-1884), Hungaran botanist and clergyman; Franciscan priest from Arad; teacher at Löcse (Levoca) 1828, later in Kézdivásárhely; from 1838-1852 army chaplain; from 1860 living in Pirano (Istria); collected algae in the Adriatic. 
-**Abbreviated name**: *P. Titius*
+**Abbreviated name**: *P. Titius* \[standard form in IPNI: *P.Titius*\]
 
 #### Herbarium and types
 

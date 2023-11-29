@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33333993) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33333993) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10048-1), [Wikidata](https://www.wikidata.org/wiki/Q5344828). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stebbing, Edward Percy (1870-1960), British botanist, zoologist and forester; in the Indian Forest Service 1893-1906; forest zoologist at the Forest Research Institute, Dehra Dun 1906-1910; lecturer in forestry, Edinburgh University 1910-1920, professor id. 1920-1951. 
-**Abbreviated name**: *Stebbing*
+**Abbreviated name**: *Stebbing* \[standard form in IPNI: *Stebbing*\]
 
 #### Herbarium and types
 

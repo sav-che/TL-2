@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33355555) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33355555) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6439-1), [Wikidata](https://www.wikidata.org/wiki/Q1461156). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Michelis, Friedrich Bernard Ferdinand (1818-1886), German clergyman and botanist; priest at Albachten 1855-1864; subsequently professor of philosophy at the Braunsberg Lyceum. 
-**Abbreviated name**: *Michelis*
+**Abbreviated name**: *Michelis* \[standard form in IPNI: *Michelis*\]
 
 #### Herbarium and types
 

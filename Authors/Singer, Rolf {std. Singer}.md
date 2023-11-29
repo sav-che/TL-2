@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33333755) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33333755) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9693-1), [Wikidata](https://www.wikidata.org/wiki/Q64091). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Singer, Rolf (1906-x), German mycologist; Dr. phil. Univ. Wien 1931 (student of R. Wettstein); emigrated to Barcelona, Spain 1933; Komarov botanical Institue, Leningrad 1935-1940; curator at the Farlow Herbarium 1941-1948, at the Instituto Miguel Lillo, Tucuman, Argentina 1948-1962; from 1962-1967 in Buenos Aires, 1967-1968 in Chile; from 1968 in Chicago. 
-**Abbreviated name**: *Singer*
+**Abbreviated name**: *Singer* \[standard form in IPNI: *Singer*\]
 
 #### Herbarium and types
 

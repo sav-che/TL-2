@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33066506) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33066506) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11522-1), [Wikidata](https://www.wikidata.org/wiki/Q5497728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weiss, Frederick Ernest (1865-1953), British botanist; B.Sci. London 1888; studied botany and zoology at University College, London 1884; Quain student and lecturer of botany ib. 1889-1892; professor of botany Univ. Manchester 1892-1930; R.H.S. Victoria Medal of Honour 1947, Linnean medal 1949; travelled in S. Africa 1905. 
-**Abbreviated name**: *F.E. Weiss*
+**Abbreviated name**: *F.E. Weiss* \[standard form in IPNI: *F.E.Weiss*\]
 
 #### Herbarium and types
 

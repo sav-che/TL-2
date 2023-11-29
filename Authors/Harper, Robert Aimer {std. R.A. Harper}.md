@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33068299) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33068299) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3672-1), [Wikidata](https://www.wikidata.org/wiki/Q15997345). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Harper, Robert Aimer (1862-1946), American botanist; pupil of Brefeld and Strasburger; professor of botany at Madison (Wisc.) (1898-1911); Torrey professor at Columbia University (1911-1930); specialist on the cytology of fungi and on phytopathology. 
-**Abbreviated name**: *R. A. Harper*
+**Abbreviated name**: *R. A. Harper* \[standard form in IPNI: *R.A.Harper*\]
 
 #### Herbarium and types
 

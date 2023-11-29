@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33333652) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33333652) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9500-1), [Wikidata](https://www.wikidata.org/wiki/Q1385633). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seringe, Nicolas Charles (1776-1858), French botanist; studied medicine at the Faculté de Paris; army-surgeon 1796-1801; teacher (French language) in Bern 1801-1820, in Genève 1820-1830; professor of botany and director of the botanical garden at Lyon 1830-1858. 
-**Abbreviated name**: *Ser.*
+**Abbreviated name**: *Ser.* \[standard form in IPNI: *Ser.*\]
 
 #### Herbarium and types
 

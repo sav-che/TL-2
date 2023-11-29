@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33069013) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33069013) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5337-1), [Wikidata](https://www.wikidata.org/wiki/Q2093144). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lavallée, Pierre Alphonse Martin (1836-1884), French botanist and horticulturist at Segrez near Paris, "a gentleman of abundant means and of great public spirit". 
-**Abbreviated name**: *Lavall.*
+**Abbreviated name**: *Lavall.* \[standard form in IPNI: *Lavallée*\]
 
 #### Herbarium and types
 

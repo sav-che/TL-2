@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33265040) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33265040) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/451-1), [Wikidata](https://www.wikidata.org/wiki/Q4077675). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baranetzky, Joseph (Osip) Wasiljewitsch {std. Baranetzky}|first entry]] for this author
 
 ### Author
 
 \* Baranetzky, Joseph \[Osip, Iosif\] Wasiljewitsch (1843-1905), Russian lichenologist and plant physiologist, educated at the Gymnasium of Belostock, studied at the University of Moscow c. 1860, at the University of St. Petersburg 1861-1866, curator Botanical Cabinet Univ. St. Petersburg 1867-1869, studied in Germany with De Bary and Sachs 1870-1872, Dr. phil. 1873, professor of botany at the University of Kiew from 1873. 
-**Abbreviated name**: *Baranetzky*
+**Abbreviated name**: *Baranetzky* \[standard form in IPNI: *Baran.*\]
 
 #### Herbarium and types
 

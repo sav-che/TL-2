@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33333233) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33333233) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8986-1), [Wikidata](https://www.wikidata.org/wiki/Q17383673). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saxén, Uno Alfons (1863-1948), Finnish high school teacher and amateur botanist; Dr. phil. Helsinki 1892 
-**Abbreviated name**: *Saxén*
+**Abbreviated name**: *Saxén* \[standard form in IPNI: *Saxén*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33068309) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33068309) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3692-1), [Wikidata](https://www.wikidata.org/wiki/Q5006910). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hartman, Carl Vilhelm (1862-1941), Swedish botanist, ethnographer and archeologist, son of Carl Hartman; curator at the Carnegie Museum at Pittsburgh 1903-1908, later at the Stockholm Riksmuseum. 
-**Abbreviated name**: *C. V. Hartm.*
+**Abbreviated name**: *C. V. Hartm.* \[standard form in IPNI: *C.V.Hartm.*\]
 
 #### Herbarium and types
 

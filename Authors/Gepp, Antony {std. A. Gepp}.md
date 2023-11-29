@@ -25,16 +25,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/page/33121063) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/page/33121063) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3097-1), [Wikidata](https://www.wikidata.org/wiki/Q21341604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gepp, Antony (Anthony) {std. A. Gepp} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gepp, Antony (1862-1955), British botanist. 
-**Abbreviated name**: *A. Gepp*
+**Abbreviated name**: *A. Gepp* \[standard form in IPNI: *A.Gepp*\]
 
 #### Herbarium and types
 

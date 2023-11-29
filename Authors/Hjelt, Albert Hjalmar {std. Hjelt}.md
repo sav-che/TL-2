@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33068459) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33068459) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3977-1), [Wikidata](https://www.wikidata.org/wiki/Q3450215). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hjelt, Albert Hjalmar (1851-1925), Finnish botanist and high school teacher; Dr. phil. Helsinki 1892; high school teacher at Helsinki 1877-1878, lecturer at Nykarleby 1878-1879, from 1879-1909 idem at the lyceum of Vasa; from 1911-1917 school inspector. 
-**Abbreviated name**: *Hjelt*
+**Abbreviated name**: *Hjelt* \[standard form in IPNI: *Hjelt*\]
 
 #### Herbarium and types
 

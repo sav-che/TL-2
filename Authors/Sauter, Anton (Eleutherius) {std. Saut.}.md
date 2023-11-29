@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33333212) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 73](https://www.biodiversitylibrary.org/page/33333212) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8961-1), [Wikidata](https://www.wikidata.org/wiki/Q29885). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sauter, Anton \[Eleutherius\] (1800-1881), Austrian botanist and physician at Salzburg; Dr. med. Wien 1826; physician in the St. Johannes hospital at Salzburg 1826-1828; practicing physician at Kitzbühel 1828-1830; at Bregenz (city physician) 1830-1831; regional physician at Zell am See 1831-1836, in Mittersill 1836-1839, Reid 1839-1840 and from 1840-1848 in Steyr; from 1848-1871 regional physician at Salzburg. 
-**Abbreviated name**: *Saut.*
+**Abbreviated name**: *Saut.* \[standard form in IPNI: *Saut.*\]
 
 #### Herbarium and types
 

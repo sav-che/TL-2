@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33068776) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33068776) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4768-1), [Wikidata](https://www.wikidata.org/wiki/Q1685618). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kickx, Jean, Sr. (1775-1831), Belgian botanist and mineralogist, professor of botany, pharmacy and mineralogy at the Brussels medical school. 
-**Abbreviated name**: *J. Kickx*
+**Abbreviated name**: *J. Kickx* \[standard form in IPNI: *J.Kickx*\]
 
 #### Herbarium and types
 

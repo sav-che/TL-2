@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33259875) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33259875) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2868-1), [Wikidata](https://www.wikidata.org/wiki/Q6075540). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Francey, Pierre (1910-1944), Swiss botanist, born in Lausanne, studied at the Univ. of Lausanne, "lauré de l'Université" 1933, successor to Florian Cosandey (1897-1982) at Ste.-Croix (Vaud) 1934, worked on *Cestrum* in Berlin-Dahlem, returned to Lausanne in 1939, died 13 Jan 1944. 
-**Abbreviated name**: *Francey*
+**Abbreviated name**: *Francey* \[standard form in IPNI: *Francey*\]
 
 #### Herbarium and types
 

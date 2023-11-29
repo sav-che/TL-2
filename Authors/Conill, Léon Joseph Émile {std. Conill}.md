@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33265977) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33265977) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/35630-1), [Wikidata](https://www.wikidata.org/wiki/Q19288701). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Conill, Léon Joseph Émile (fl. 1909-1938), French botanist, teacher in Sorède (Pyrénées-Orientales), student of the flora of the Pyrenées. 
-**Abbreviated name**: *Conill*
+**Abbreviated name**: *Conill* \[standard form in IPNI: *Conill*\]
 
 #### Herbarium and types
 

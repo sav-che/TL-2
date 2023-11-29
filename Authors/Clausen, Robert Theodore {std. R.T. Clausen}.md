@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33265872) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33265872) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1677-1), [Wikidata](https://www.wikidata.org/wiki/Q6109537). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clausen, Robert Theodore (1911-1981), American botanist, born in New York City, graduated from high school in Passaic, New Jersey 1929, at Cornell University 1929-1981 \[sic\], B.A. 1933, worked with Karl M. Wiegand, M.A. 1934, Dr. phil. 1937 with his "Monograph of the Ophioglossaceae", assistant in botany 1933-1934, research assistant with L.H. Bailey Hortorium 1935-1937, instructor 1937-1939, asst. professor of botany 1939-1944, associate professor 1944, professor 1949, curator of the Wiegand Herbarium 1954-1977 (retirement), continued an "emeritus status", died 31 Dec 1981. 
-**Abbreviated name**: *R.T. Clausen*
+**Abbreviated name**: *R.T. Clausen* \[standard form in IPNI: *R.T.Clausen*\]
 
 #### Herbarium and types
 

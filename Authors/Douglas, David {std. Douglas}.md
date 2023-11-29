@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-09-18 10:01:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33120805) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33120805) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2290-1), [Wikidata](https://www.wikidata.org/wiki/Q669028). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Douglas, David {std. Douglas} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Douglas, David (1798-1834), Scottish botanical explorer of North America and China, who imported many ornamental plants into Europe. 
-**Abbreviated name**: *Douglas*
+**Abbreviated name**: *Douglas* \[standard form in IPNI: *Douglas*\]
 
 #### Herbarium and types
 

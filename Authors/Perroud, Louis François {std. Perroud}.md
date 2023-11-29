@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33189648) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33189648) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7542-1), [Wikidata](https://www.wikidata.org/wiki/Q21522847). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Perroud, Louis François (1833-1889), French botanist; Dr. med. Paris 1858; connected with the Faculté de Médecine and hospital physician at Lyon from 1860-1889. 
-**Abbreviated name**: *Perroud*
+**Abbreviated name**: *Perroud* \[standard form in IPNI: *Perroud*\]
 
 #### Herbarium and types
 

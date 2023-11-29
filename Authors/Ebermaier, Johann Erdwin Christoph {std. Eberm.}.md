@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33260237) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33260237) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2454-1), [Wikidata](https://www.wikidata.org/wiki/Q16857300). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ebermaier, Johann Erdwin Christoph (1768-1825), German pharmacist and physician, father of Carl Heinrich Ebermaier (see above), born 19 Apr 1768 at Melle near Osnabrück, studied pharmacy in Bremen and medicine in Göttingen, Dr. med. Göttingen 1797, "Hofrat" in Rheda, lived in Göttingen, Dortmund, Cleve and Düsseldorf, died 21 Feb 1825 at Düsseldorf. 
-**Abbreviated name**: *Eberm.*
+**Abbreviated name**: *Eberm.* \[standard form in IPNI: *Eberm.*\]
 
 #### Herbarium and types
 

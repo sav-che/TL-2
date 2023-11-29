@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33333622) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33333622) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9421-1), [Wikidata](https://www.wikidata.org/wiki/Q215751). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seetzen, Ulrich Jasper (1767-1811), German (Oldenburg) naturalist and traveller at Jever; Dr. phil. Göttingen 1789; traveller in the Orient and Africa 1802-1811. 
-**Abbreviated name**: *Seetzen*
+**Abbreviated name**: *Seetzen* \[standard form in IPNI: *Seetzen*\]
 
 #### Herbarium and types
 

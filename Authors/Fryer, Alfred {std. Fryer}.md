@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/page/33121025) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 894](https://www.biodiversitylibrary.org/page/33121025) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/19019-1), [Wikidata](https://www.wikidata.org/wiki/Q4722695). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fryer, Alfred {std. Fryer} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fryer, Alfred (1826-1912), British botanist. 
-**Abbreviated name**: *Fryer*
+**Abbreviated name**: *Fryer* \[standard form in IPNI: *Fryer*\]
 
 #### Herbarium and types
 

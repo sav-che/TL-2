@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33333504) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33333504) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9288-1), [Wikidata](https://www.wikidata.org/wiki/Q78881). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schultes, Josef August (1773-1831), Austrian botanist; Dr. med. Wien 1796; professor of zoology, botany and mineralogy at the Theresianum, Wien 1797; from 1806 id. of chemistry and botany at Cracow; from 1808 of natural history and chemistry at Innsbruck; from 1809-1831 professor of general natural history and botany at the University of Landshut, Bavaria, as well as director of its surgical school. 
-**Abbreviated name**: *Schult.*
+**Abbreviated name**: *Schult.* \[standard form in IPNI: *Schult.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33066305) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33066305) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11288-1), [Wikidata](https://www.wikidata.org/wiki/Q2725684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Waddell, Coslett Herbert (1858-1919), British clergyman and botanist; studied at Trinity College, Dublin; ordained 1880; rector Saintfield and Grey Abbey (County Down); secretary Moss Exchange Club 1896-1903. 
-**Abbreviated name**: *Waddell*
+**Abbreviated name**: *Waddell* \[standard form in IPNI: *Waddell*\]
 
 #### Herbarium and types
 

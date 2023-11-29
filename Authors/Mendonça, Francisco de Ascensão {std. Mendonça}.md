@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33355500) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33355500) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6347-1), [Wikidata](https://www.wikidata.org/wiki/Q4290420). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mendonça, Francisco de Ascensão (1889-?), Portuguese botanist; specialist on Capparidaceae and Malvaceae; travelled in Angola 1927, 1937, 1955, in Moçambique 1942-1948. 
-**Abbreviated name**: *Mendonça*
+**Abbreviated name**: *Mendonça* \[standard form in IPNI: *Mendonça*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 938](https://www.biodiversitylibrary.org/page/33190409) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 938](https://www.biodiversitylibrary.org/page/33190409) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8662-1), [Wikidata](https://www.wikidata.org/wiki/Q11738286). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rouppert, Kazimierz (Stefan) (1885-1963), Polish botanist; Dr. phil. Krakow 1909; professor of botany at Krakow until 1939; at the Treub Laboratory Buitenzorg (Bogor), Java 1926; from 1939 at the University of Budapest. 
-**Abbreviated name**: *Rouppert*
+**Abbreviated name**: *Rouppert* \[standard form in IPNI: *Rouppert*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33190348) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33190348) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8568-1), [Wikidata](https://www.wikidata.org/wiki/Q21607381). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Romieux, Henri (1857-1937), Swiss (Genevese) botanist and administrator; bank employee at Genève 1878-1887; with the federal finance department at Bern 1887-1892; industrial consultant at Genève 1892-1900; member of the "Conseil d'État" (de Genève) from 1900 as head of the public works department; collected extensively in Switzerland as well as in Algeria (1904) and Tunesia (1906). 
-**Abbreviated name**: *Romieux*
+**Abbreviated name**: *Romieux* \[standard form in IPNI: *Romieux*\]
 
 #### Herbarium and types
 

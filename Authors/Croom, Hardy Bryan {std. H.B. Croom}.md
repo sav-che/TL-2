@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33266154) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33266154) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1887-1), [Wikidata](https://www.wikidata.org/wiki/Q5640675). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Croom, Hardy Bryan (1797-1837), American lawyer and botanist, born at Lenoir Co., North Carolina, studied at the University of North Carolina, graduated 1817, studied law and was admitted to the bar, lived at New Bern, N.C., had a plantation in Leon Co., Florida \[text by Barnhart\], died by shipwreck off Ocracoke Island, N.C. 
-**Abbreviated name**: *H.B. Croom*
+**Abbreviated name**: *H.B. Croom* \[standard form in IPNI: *Croom*\]
 
 #### Herbarium and types
 

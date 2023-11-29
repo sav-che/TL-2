@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33266317) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33266317) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1071-1), [Wikidata](https://www.wikidata.org/wiki/Q1002345). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brandegee, Townsend Stith {std. Brandegee}|first entry]] for this author
 
 ### Author
 
 \* Brandegee, Towns===h===end Stith (1843-1925), American botanist and civil engineer with Atchison, Topeka and Santa Fe Rail Road and Denver and South Park Rail Road, county surveyor of Fremont Company, Colorado 1871-1878, assistant topographer and botanical collector with the Hayden Survey, for many years honorary curator of the herbarium of the University of California, married its curator of botany, M.K. Curran (Layne). 
-**Abbreviated name**: *Brandegee*
+**Abbreviated name**: *Brandegee* \[standard form in IPNI: *Brandegee*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33121006) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33121006) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/33144-1), [Wikidata](https://www.wikidata.org/wiki/Q21513524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Frémy, Pierre (Abbé) {std. Frémy} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Frémy, Pierre (abbé) (1880-1944), French algologist. 
-**Abbreviated name**: *Frémy*
+**Abbreviated name**: *Frémy* \[standard form in IPNI: *Frémy*\]
 
 #### Herbarium and types
 

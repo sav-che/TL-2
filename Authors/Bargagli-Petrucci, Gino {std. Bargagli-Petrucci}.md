@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33265052) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33265052) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/475-1), [Wikidata](https://www.wikidata.org/wiki/Q18982862). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bargagli-Petrucci, Gino (1878-?), Italian botanist, acting director of the Giardino dei Semplici, Firenze 1919-1922. 
-**Abbreviated name**: *Bargagli-Petrucci*
+**Abbreviated name**: *Bargagli-Petrucci* \[standard form in IPNI: *Barg.-Petr.*\]
 
 #### Herbarium and types
 

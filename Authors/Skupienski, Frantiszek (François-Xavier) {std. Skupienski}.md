@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 641](https://www.biodiversitylibrary.org/page/33333780) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 641](https://www.biodiversitylibrary.org/page/33333780) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9727-1), [Wikidata](https://www.wikidata.org/wiki/Q21609021). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Skupienski, Frantiszek \[François-Xavier\] (1888-x), Polish botanist; Dr. phil. Univ. Paris 1920; with the Department of general botany of the Warsaw Polytechnic. 
-**Abbreviated name**: *Skupienski*
+**Abbreviated name**: *Skupienski* \[standard form in IPNI: *Skup.*\]
 
 #### Herbarium and types
 

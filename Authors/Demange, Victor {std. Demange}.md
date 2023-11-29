@@ -22,14 +22,13 @@ ipni_record_created: 2005-01-07 06:05:10.0
 ipni_record_modified: 2005-01-07 06:05:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33259240) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33259240) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/20002221-1), [Wikidata](https://www.wikidata.org/wiki/Q21510192). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Demange, Victor (active 1900-1928), French mycologist, lichenologist and bryologist, collected in Indochina 1903-1912, in China 1913-1914. 
-**Abbreviated name**: *Demange*
+**Abbreviated name**: *Demange* \[standard form in IPNI: *Demange*\]
 
 #### Herbarium and types
 

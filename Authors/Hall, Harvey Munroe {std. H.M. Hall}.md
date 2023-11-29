@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33068260) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33068260) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3572-1), [Wikidata](https://www.wikidata.org/wiki/Q4499088). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hall, Harvey Munroe (1874-1932), Californian pioneer biosystematist, at Berkeley, later at Carnegie Institution of Washington at Stanford; inspired the work of Clausen, Keck and Hiesey; took the first initiatives (1930) towards the establishment of an International Bureau of Plant Taxonomy and the compilation of the Index Herbariorum and type registers. 
-**Abbreviated name**: *H. M.Hall*
+**Abbreviated name**: *H. M.Hall* \[standard form in IPNI: *H.M.Hall*\]
 
 #### Herbarium and types
 

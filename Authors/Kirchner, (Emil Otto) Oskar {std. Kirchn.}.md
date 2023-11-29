@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33068790) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33068790) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4804-1), [Wikidata](https://www.wikidata.org/wiki/Q104617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kirchner, \[Emil Otto\] Oskar (1851-1925), German botanist and flower-biologist; Dr. phil. Breslau 1874; from 1873-1877 at Breslau; from 1877-1917 assistant, from 1881 professor of botany at the Landwirtschaftliche Akademie, Hohenheim; from 1917-1925 living at München. 
-**Abbreviated name**: *Kirchn.*
+**Abbreviated name**: *Kirchn.* \[standard form in IPNI: *Kirchn.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33333663) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33333663) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9512-1), [Wikidata](https://www.wikidata.org/wiki/Q20901815). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Servít, Miroslav (1886-1959), Moravian botanist (lichenologist); studied at the Charles University and Agricultural College Praha; assistant at the Agricultural College of Tabor 1910-1914; Dr. phil. 1915; from 1920 professor, from 1923 director of the state agricultural experimental station and college at Horice, from 1936 id. at the Agricultural college, Königgrätz (Hradec Kralové); retired 1943 but from 1945-1950 director of the Agricultural college at Kaaden (Kadan); in retirement at Bettlern nr Klösterle (Klašterce nad Ohre). 
-**Abbreviated name**: *Servít*
+**Abbreviated name**: *Servít* \[standard form in IPNI: *Servít*\]
 
 #### Herbarium and types
 

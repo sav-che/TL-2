@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33259048) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33259048) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17636-1), [Wikidata](https://www.wikidata.org/wiki/Q5892497). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dade, Harry Arthur (1895-1978), British mycologist, assistant mycologist in the Department of Agriculture, Gold Coast. 
-**Abbreviated name**: *Dade*
+**Abbreviated name**: *Dade* \[standard form in IPNI: *Dade*\]
 
 #### Herbarium and types
 

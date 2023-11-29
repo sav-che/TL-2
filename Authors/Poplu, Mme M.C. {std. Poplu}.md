@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33189809) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33189809) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7845-1), [Wikidata](https://www.wikidata.org/wiki/Q36633773). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Poplu, Mme M.C. (*fl*. 1873), French botanist. 
-**Abbreviated name**: *Poplu*
+**Abbreviated name**: *Poplu* \[standard form in IPNI: *Poplu*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33189691) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33189691) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7619-1), [Wikidata](https://www.wikidata.org/wiki/Q21522926). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pfeiffer, Johan Philip (1888-1947), Dutch chemical engineer, botanist and forester; Dr. phil. 1917; wood technologist at Semarang, Java 1912-1920; manager of an oil factory at Kediri, Java, 1920-1922; lecturer and professor at Delft technical College 1922-1929; from 1929 with the Batavian Oil Company at Amsterdam. 
-**Abbreviated name**: *J. Pfeiff.*
+**Abbreviated name**: *J. Pfeiff.* \[standard form in IPNI: *J.Pfeiff.*\]
 
 #### Herbarium and types
 

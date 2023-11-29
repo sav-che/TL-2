@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2019-04-08 19:24:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33066743) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33066743) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11798-1), [Wikidata](https://www.wikidata.org/wiki/Q1599341). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Witte, Heinrich (1825-1917), Dutch gardener; student gardener in the Hortus botanicus Rotterdam; subsequently assistant curator at the Leiden botanical garden; head-curator ib. 1855-1898. 
-**Abbreviated name**: *Witte*
+**Abbreviated name**: *Witte* \[standard form in IPNI: *Witte*\]
 
 #### Herbarium and types
 

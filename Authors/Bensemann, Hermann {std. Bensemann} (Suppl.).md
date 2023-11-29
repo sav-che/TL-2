@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33265273) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33265273) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/660-1), [Wikidata](https://www.wikidata.org/wiki/Q21505965). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bensemann, Hermann {std. Bensemann}|first entry]] for this author
 
 ### Author
 
 \* Bensemann, Hermann (1858-?), German teacher and botanist born at Köslin (Pommern), active at the Herzogliches Ludwigs-Gymnasium in Cöthen (Pommern) around 1896-1908. 
-**Abbreviated name**: *Bensemann*
+**Abbreviated name**: *Bensemann* \[standard form in IPNI: *Bensemann*\]
 
 #### Herbarium and types
 

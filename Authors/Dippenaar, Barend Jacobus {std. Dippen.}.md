@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33259396) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33259396) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/18062-1), [Wikidata](https://www.wikidata.org/wiki/Q5653966). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dippenaar, Barend Jacobus (1902-x), South-African mycologist and plant pathologist, born 14 Apr 1902 Malmesbury distr. (Cape Province), at the Stellenbosch University 1924-1929, B.Sc. Agr., 1927, M.Sc. Agric. 1929, id. at University of Wisconsin 1931-1933, later D.C. Agric. 1933 Stellenbosch, lecturer plant pathology 1928-1944, professor of plant pathology, Pretoria University 1944-1959, chief of Div. Commodity Service 1959-1967, retired 1967. 
-**Abbreviated name**: *Dippen.*
+**Abbreviated name**: *Dippen.* \[standard form in IPNI: *Dippen.*\]
 
 #### Herbarium and types
 

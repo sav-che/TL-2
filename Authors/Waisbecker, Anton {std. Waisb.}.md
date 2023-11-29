@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33066363) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33066363) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11319-1), [Wikidata](https://www.wikidata.org/wiki/Q5697511). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Waisbecker, Anton (1835-1916), Hungarian botanist; practicing physician, later also regional physician in Güns (Köszeg). 
-**Abbreviated name**: *Waisb.*
+**Abbreviated name**: *Waisb.* \[standard form in IPNI: *Waisb.*\]
 
 #### Herbarium and types
 

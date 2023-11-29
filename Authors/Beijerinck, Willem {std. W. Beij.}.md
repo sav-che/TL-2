@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33120298) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33120298) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/622-1), [Wikidata](https://www.wikidata.org/wiki/Q21505890). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Beijerinck, Willem {std. W. Beij.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Beijerinck, Willem (1891-1960), Dutch botanist, founder of the Biological Station at Wijster (Drente). 
-**Abbreviated name**: *W. Beijerinck*
+**Abbreviated name**: *W. Beijerinck* \[standard form in IPNI: *W.Beij.*\]
 
 #### Types
 

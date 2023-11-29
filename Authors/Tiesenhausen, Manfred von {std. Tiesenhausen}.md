@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33212391) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33212391) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27726-1), [Wikidata](https://www.wikidata.org/wiki/Q21610726). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tiesenhausen, Manfred von (1875-?), Austrian botanist; studied at Genève 1907-1908; Dr. phil. Bern 1912; later with the Institute of general botany at Cluj, Roumania. 
-**Abbreviated name**: *Tiesenhausen*
+**Abbreviated name**: *Tiesenhausen* \[standard form in IPNI: *Tiesenh.*\]
 
 #### Herbarium and types
 

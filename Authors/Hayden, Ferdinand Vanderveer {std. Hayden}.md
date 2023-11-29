@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2014-03-21 15:14:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33068351) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33068351) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3745-1), [Wikidata](https://www.wikidata.org/wiki/Q951629). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hayden, Ferdinand Vanderveer (1829-1887), American geologist and explorer; leader of the "Hayden Survey" of the U.S. Geological Survey in the Rocky Mountains, and of the Western U.S. Expedition (1871-1873); professor of mineralogy Univ. Pennsylvania 1856-1872; L.L.D. h.c. Univ. Rochester 1876, id. h.c. Univ. Penn. 1886, "the-man-who-picks-up-stones-running" (Sioux name). 
-**Abbreviated name**: *Hayden*
+**Abbreviated name**: *Hayden* \[standard form in IPNI: *Hayden*\]
 
 #### Herbarium and types
 

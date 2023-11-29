@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33266662) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33266662) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/32623-1), [Wikidata](https://www.wikidata.org/wiki/Q36611548). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Canabaeus, Lotte (1904-x), German botanist (phycologist), born in Danzig-Langfuhr, moved 1907 with her parents to Berlin, educated at the "Lyzeum der Gemeinde Lichterfelde" (later Gretheschule), studied at the "Studienanstalt" in Berlin-Steglitz (later Auguste-Viktoria-Schule), matriculation ("Abitur") Feb 1924, at the Friedrich-Wilhelms-Universität 1924-1929, Dr. phil. ib. 1929. 
-**Abbreviated name**: *Canabaeus*
+**Abbreviated name**: *Canabaeus* \[standard form in IPNI: *Canab.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33260272) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33260272) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18410-1), [Wikidata](https://www.wikidata.org/wiki/Q36572358). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eifrig, Helmut Ernst (1911-x), German botanist, born 24 Apr 1911 at Rasberg near Zeitz (Sachsen), visited schools at Zeitz 1917-1922 and 1922-1931, studied natural sciences at Jena 1931-1936. 
-**Abbreviated name**: *Eifrig*
+**Abbreviated name**: *Eifrig* \[standard form in IPNI: *Eifrig*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33190321) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33190321) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8509-1), [Wikidata](https://www.wikidata.org/wiki/Q21607391). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rönn, Hans Ludwig Karl (1886-?), German (Hamburg) botanist; Dr. phil. Kiel 1910. 
-**Abbreviated name**: *Rönn*
+**Abbreviated name**: *Rönn* \[standard form in IPNI: *Rönn*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33069009) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33069009) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5328-1), [Wikidata](https://www.wikidata.org/wiki/Q21341241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Laurer, Johann Friedrich (1798-1873), German pharmacist, physician and lichenologist; Dr. med. Greifswald 1830; from 1836 professor of medicine (extraord.; from 1863 ord.) at Greifswald; pupil of Hoppe. 
-**Abbreviated name**: *Laurer*
+**Abbreviated name**: *Laurer* \[standard form in IPNI: *Laurer*\]
 
 #### Herbarium and types
 

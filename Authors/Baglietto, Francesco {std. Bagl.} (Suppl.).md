@@ -25,16 +25,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33264978) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33264978) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31177-1), [Wikidata](https://www.wikidata.org/wiki/Q3749589). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baglietto, Francesco {std. Bagl.}|first entry]] for this author
 
 ### Author
 
 \* Baglietto, Francesco (1826-1916), Italian physician and lichenologist, professional physician but dedicating much of his time to lichenology; some time lecturer in botany at the University of Genova, connected with the botanical department of the University 1839-1872; issuing, with G. de Notaris and V. de Cesati the Erbario crittogamico italiano 1858-1885. 
-**Abbreviated name**: *Bagl.*
+**Abbreviated name**: *Bagl.* \[standard form in IPNI: *Bagl.*\]
 
 #### Herbarium and types
 

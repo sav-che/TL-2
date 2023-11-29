@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33258764) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33258764) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3248-1), [Wikidata](https://www.wikidata.org/wiki/Q6105714). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gombault, René (1871-1971), French bureaucrat and botanist, French Customs Inspector-Gén. of Syria and Lebanon in 1930s, resided in Versailles (Seine-et-Oise) ca. 1939. 
-**Abbreviated name**: *Gombault*
+**Abbreviated name**: *Gombault* \[standard form in IPNI: *Gomb.*\]
 
 #### Herbarium and types
 

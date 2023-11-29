@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33120720) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33120720) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12493-1), [Wikidata](https://www.wikidata.org/wiki/Q1937128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dahlstedt, Gustav Adolf Hugo {std. Dahlst.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dahlstedt, Gustav Adolf Hugo (1856-1934), Swedish botanist specialized in *Hieracium *and *Taraxacum*. 
-**Abbreviated name**: *Dahlst.*
+**Abbreviated name**: *Dahlst.* \[standard form in IPNI: *Dahlst.*\]
 
 #### Herbarium and types
 

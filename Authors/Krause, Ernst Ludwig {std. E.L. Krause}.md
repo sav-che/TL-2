@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33068908) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33068908) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5042-1), [Wikidata](https://www.wikidata.org/wiki/Q3057362). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krause, Ernst Ludwig (1839-1903), German botanist; popular writer on botany; used the pseudonym Carus Sterne. 
-**Abbreviated name**: *E. L. Krause*
+**Abbreviated name**: *E. L. Krause* \[standard form in IPNI: *E.L.Krause*\]
 
 #### Herbarium and types
 

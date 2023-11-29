@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33121008) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33121008) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2901-1), [Wikidata](https://www.wikidata.org/wiki/Q2502575). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Freyn, Josef (József, Joseph) Franz (František) {std. Freyn} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Freyn, Josef Franz (1845-1903), Bohemian engineer, botanist and "Fürstlich colloredo'scher Baurath" (AG) in Prague. 
-**Abbreviated name**: *Freyn*
+**Abbreviated name**: *Freyn* \[standard form in IPNI: *Freyn*\]
 
 #### Herbarium and types
 

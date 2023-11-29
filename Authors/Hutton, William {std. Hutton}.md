@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33068622) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33068622) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/20654-1), [Wikidata](https://www.wikidata.org/wiki/Q8012751). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hutton, William (1798-1860), British palaeobotanist at Durham. 
-**Abbreviated name**: *Hutton*
+**Abbreviated name**: *Hutton* \[standard form in IPNI: *Hutton*\]
 
 #### Collections
 

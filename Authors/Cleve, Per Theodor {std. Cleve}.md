@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33120642) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33120642) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1693-1), [Wikidata](https://www.wikidata.org/wiki/Q377822). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cleve, Per Theodor {std. Cleve} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Cleve, Per Theodor (1840-1905), Swedish algologist. 
-**Abbreviated name**: *Cleve*
+**Abbreviated name**: *Cleve* \[standard form in IPNI: *Cleve*\]
 
 #### Herbarium and types
 

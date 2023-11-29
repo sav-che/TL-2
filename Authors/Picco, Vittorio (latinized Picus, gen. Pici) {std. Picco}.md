@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33189721) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33189721) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7665-1), [Wikidata](https://www.wikidata.org/wiki/Q36697985). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Picco, Vittorio (latinized: *Picus*, gen. *Pici*) (*fl*. 1788), Italian botanist and physician at Torino. 
-**Abbreviated name**: *Picco*
+**Abbreviated name**: *Picco* \[standard form in IPNI: *Picco*\]
 
 #### Herbarium and types
 

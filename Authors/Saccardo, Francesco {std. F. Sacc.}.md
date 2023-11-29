@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1024](https://www.biodiversitylibrary.org/page/33190495) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1024](https://www.biodiversitylibrary.org/page/33190495) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8787-1), [Wikidata](https://www.wikidata.org/wiki/Q17140072). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saccardo, Francesco (1869-1896), Italian botanist; studied at the University of Padova; Mag. sci. nat. 1892; assistant at the school of ecology and viticulture at Avellino 1895-1896; nephew of P.A. Saccardo. 
-**Abbreviated name**: *F. Sacc.*
+**Abbreviated name**: *F. Sacc.* \[standard form in IPNI: *F.Sacc.*\]
 
 #### Herbarium and types
 

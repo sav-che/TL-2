@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33068382) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33068382) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3796-1), [Wikidata](https://www.wikidata.org/wiki/Q86112). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Heinricher, Emil Johann Lambert (1856-1934), Austrian botanist; Dr. phil. Graz 1879; from 1889 director of the botanical garden and professor of botany at Innsbruck University. 
-**Abbreviated name**: *Heinr.*
+**Abbreviated name**: *Heinr.* \[standard form in IPNI: *Heinr.*\]
 
 #### Herbarium and types
 

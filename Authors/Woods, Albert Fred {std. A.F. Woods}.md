@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33066784) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33066784) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11855-1), [Wikidata](https://www.wikidata.org/wiki/Q21612978). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Woods, Albert Fred (1866-1948), American botanist; B.Sc. Univ. Nebraska 1890, M.A. ib. 1892; assistant ib. 1890-1893; with USDA as pathologist in the Division of vegetable Physiology and Pathology 1893-1900, and the Bureau of Plant Industry 1900-1910; dean of Minnesota State Agricultural College and director of its Experimental Station 1901-1917; president of Maryland State College 1917, from 1920-1926 id. of the University of Maryland; director of scientific work USDA 1926-1934, director of its graduate school 1926-1941, educational adviser 1941-1947. 
-**Abbreviated name**: *A.F. Woods*
+**Abbreviated name**: *A.F. Woods* \[standard form in IPNI: *A.F.Woods*\]
 
 #### Herbarium and types
 

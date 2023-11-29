@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33120303) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33120303) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/660-1), [Wikidata](https://www.wikidata.org/wiki/Q21505965). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bensemann, Hermann {std. Bensemann} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bensemann, Hermann (1858-?), German highschool teacher at Cöthen. 
-**Abbreviated name**: *Bensemann*
+**Abbreviated name**: *Bensemann* \[standard form in IPNI: *Bensemann*\]
 
 #### Herbarium and types
 

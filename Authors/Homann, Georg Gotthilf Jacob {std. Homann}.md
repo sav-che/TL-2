@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33068507) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33068507) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4073-1), [Wikidata](https://www.wikidata.org/wiki/Q36563068). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Homann, Georg Gotthilf Jacob (*fl*. 1828-1835), German clergyman and botanist at Budow near Stolp in Pommerania. 
-**Abbreviated name**: *Homann*
+**Abbreviated name**: *Homann* \[standard form in IPNI: *Homann*\]
 
 #### Herbarium and types
 

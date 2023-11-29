@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33068986) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33068986) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5249-1), [Wikidata](https://www.wikidata.org/wiki/Q5236326). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Landsborough, David (1779-1854), Scottish clergyman and botanist; minister of Stevenson, Ayrshire 1811, at Saltcoats 1843; died of cholera. 
-**Abbreviated name**: *Landsb.*
+**Abbreviated name**: *Landsb.* \[standard form in IPNI: *Landsb.*\]
 
 #### Herbarium and types
 

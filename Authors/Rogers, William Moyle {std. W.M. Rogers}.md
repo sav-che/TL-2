@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33190331) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33190331) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8529-1), [Wikidata](https://www.wikidata.org/wiki/Q21387727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rogers, William Moyle (1835-1920), British (English) botanist (batologist) and clergyman, vice principal Theological College Cape Town 1860-1862; curate at various locations in Devon, Isle of Wight, Worcestershire and Dorset; ultimately Vicar of Bridgerule Devon 1882-1885; retired to Bournemouth for health reasons. 
-**Abbreviated name**: *W.M. Rogers*
+**Abbreviated name**: *W.M. Rogers* \[standard form in IPNI: *W.M.Rogers*\]
 
 #### Herbarium and types
 

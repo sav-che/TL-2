@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-11-10 15:00:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33258739) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33258739) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3221-1), [Wikidata](https://www.wikidata.org/wiki/Q62756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Goebel, Karl Immanuel Eberhard (later Ritter von) {std. K.I. Goebel}|first entry]] for this author
 
 ### Author
 
 \* Goebel, Karl \[Immanuel Eberhard\] (later Ritter von) (1855-1932), German morphologist, born 8 Mar 1855 in Billigheim nr. Heilbronn (Baden) but family from Reutlingen, studied in Tübingen 1873-1876 (under W.F.B. Hofmeister), Strassburg 1876 (under H.A. de Bary) and Würzburg 1877-1880 (under J. von Sachs), habilitation 1880, studies briefly interrupted by military service, botanical asst., Leipzig 1881, assoc. prof., Strassburg 1881 and then Rostock 1882-1887 (traveled to India, Ceylon and Java 1885-1886), prof., Marburg 1887-1891, traveled to South America 1890-1891, settled in Munich 1891, traveled to Australia and New Zealand 1898-1899, prof., Munich 1907, knighted 1909, traveled to Brazil 1913, prorector at Erlangen 1916, traveled to Pacific 1924-1925, F.R.S. 1926, Corr. Member B.S.A., F.L.S., died 9 Oct 1932 in Munich. 
-**Abbreviated name**: *K.I. Goebel*
+**Abbreviated name**: *K.I. Goebel* \[standard form in IPNI: *K.I.Goebel*\]
 
 #### Herbarium and types
 

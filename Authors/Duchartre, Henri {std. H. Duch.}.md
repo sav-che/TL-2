@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33260115) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33260115) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2343-1), [Wikidata](https://www.wikidata.org/wiki/Q36572215). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Duchartre, Henri (fl. 1889-1892), French botanist, licencié ès sciences naturelles, as well as "répétiteur" of botany at the Faculté des Sciences de Paris, worked with Ch. Flahault. 
-**Abbreviated name**: *H. Duch.*
+**Abbreviated name**: *H. Duch.* \[standard form in IPNI: *H.Duch.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33265118) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33265118) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/15816-1), [Wikidata](https://www.wikidata.org/wiki/Q2575794). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bausch, Wilhelm (1804-1873), German (Baden) lawyer and amateur cryptogamist, studied law at Freiburg and Göttingen, practicing from 1829, bailiff in various cities in Baden, ultimately in Karlsruhe as head of an administrative court. 
-**Abbreviated name**: *Bausch*
+**Abbreviated name**: *Bausch* \[standard form in IPNI: *Bausch*\]
 
 #### Herbarium and types
 

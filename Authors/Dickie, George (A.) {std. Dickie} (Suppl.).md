@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33259331) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33259331) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/18018-1), [Wikidata](https://www.wikidata.org/wiki/Q13108100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dickie, George {std. Dickie}|first entry]] for this author
 
 ### Author
 
 \* Dickie, George \[A.\] (1812-1882), Scottish botanist, born in Aberdeen 23 Nov 1812, died ib. 15 Jul 1882, educated in Aberdeen at school and at Marischal College, M.A. Aberdeen 1830, studied medicine in Aberdeen 1831-1832, id. in Edinburgh 1833-1834, M.R.C.S. of London, lectured on botany in King's College, Old Aberdeen 1839-1849, degree MD 1842, appointed Prof. Natural History in Belfast 1849-1860, id. at the University of Aberdeen 1860-1877. 
-**Abbreviated name**: *Dickie*
+**Abbreviated name**: *Dickie* \[standard form in IPNI: *Dickie*\]
 
 #### Herbarium and types
 

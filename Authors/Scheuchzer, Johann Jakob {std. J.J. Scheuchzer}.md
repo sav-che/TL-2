@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33333281) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33333281) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9063-1), [Wikidata](https://www.wikidata.org/wiki/Q123900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scheuchzer, Johann Jakob (1672-1733), Swiss naturalist, physician and historian; studied at Altdorf 1692; Dr. med. Univ. Utrecht 1694; second town physician at Zürich 1704; professor of mathematics at the Zürich Carolinum 1710 (? 1716), first town physician 1733; explorer of the Alps and founder of palaeobotany and palaeontology. 
-**Abbreviated name**: *J.J. Scheuchzer*
+**Abbreviated name**: *J.J. Scheuchzer* \[standard form in IPNI: *J.J.Scheuchzer*\]
 
 #### Herbarium and types
 

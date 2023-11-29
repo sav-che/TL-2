@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33068830) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33068830) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4898-1), [Wikidata](https://www.wikidata.org/wiki/Q21517648). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koch, Heinrich (*fl*. 1774), Swiss dendrologist. 
-**Abbreviated name**: *H. Koch*
+**Abbreviated name**: *H. Koch* \[standard form in IPNI: *H.Koch*\]
 
 #### Herbarium and types
 

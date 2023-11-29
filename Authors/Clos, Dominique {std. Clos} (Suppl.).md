@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33265900) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33265900) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1703-1), [Wikidata](https://www.wikidata.org/wiki/Q3035078). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Clos, Dominique {std. Clos}|first entry]] for this author
 
 ### Author
 
 \* Clos, Dominique (1821-1908), French born botanist, born and died at Sorèze, Tarn, educated at the lyceum of Toulouse, studied medicine and natural sciences at the University of Paris, Dr. med. 1845, Dr. ès sciences 1848, succeeded Moquin Tandon as professor of botany at the Faculté des Sciences of Toulouse 1853-1889. 
-**Abbreviated name**: *Clos*
+**Abbreviated name**: *Clos* \[standard form in IPNI: *Clos*\]
 
 #### Herbarium and types
 

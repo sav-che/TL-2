@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33333329) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33333329) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9114-1), [Wikidata](https://www.wikidata.org/wiki/Q62826). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlechtendal, Diederich Franz Leonhard von (1794-1866), German (Cleve-born, Prussian) botanist; studied medicine and natural sciences at the Friedrich-Wilhelm-University of Berlin 1813-1819; Dr. med. ib. 1819; curator at the Royal Herbarium, Berlin 1819-1833, from 1822 in close association with A. von Chamisso; Dr. phil. h.c. Univ. Bonn 1823; habil. Berlin 1826, extraord. prof. of. botany 1827; successor to Kurt Sprengel as professor of botany and director of the botanical garden of Halle university 1833-1866; editor of Linnaea 1826-1866 and co-editor with H. Mohl of the Botanische Zeitung 1843-1866. 
-**Abbreviated name**: *Schlechtend.*
+**Abbreviated name**: *Schlechtend.* \[standard form in IPNI: *Schltdl.*\]
 
 #### Herbarium and types
 

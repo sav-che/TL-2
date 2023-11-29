@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33266701) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33266701) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1389-1), [Wikidata](https://www.wikidata.org/wiki/Q18983518). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Capitaine, Louis (1883-1923), French geographer and botanist, born in Paris, studied natural sciences at the Faculté des sciences of Paris, worked in the laboratory of Gaston Bonnier, Dr. phil. 1912, collaborator with L. Marret for *Icones florae alpinae plantarum*, employed by the Paris Laboratoire d'Agronomie coloniale 1912. 
-**Abbreviated name**: *Capitaine*
+**Abbreviated name**: *Capitaine* \[standard form in IPNI: *Capit.*\]
 
 #### Herbarium and types
 

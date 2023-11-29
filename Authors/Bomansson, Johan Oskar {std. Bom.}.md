@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33265498) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33265498) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16312-1), [Wikidata](https://www.wikidata.org/wiki/Q21506270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bomansson, Johan Oskar (1838-1906), Finnish botanist, sheriff's clerk and landowner in the Åland Islands, specialized in the bryology of Åland. 
-**Abbreviated name**: *Bom.*
+**Abbreviated name**: *Bom.* \[standard form in IPNI: *Bom.*\]
 
 #### Herbarium and types
 

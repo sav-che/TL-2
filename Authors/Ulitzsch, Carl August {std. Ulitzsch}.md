@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33212625) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33212625) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10970-1), [Wikidata](https://www.wikidata.org/wiki/Q36531940). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ulitzsch, Carl August (*fl*. 1796), German senator and pharmacist at Torgau. 
-**Abbreviated name**: *Ulitzsch*
+**Abbreviated name**: *Ulitzsch* \[standard form in IPNI: *Ulitzsch*\]
 
 #### Herbarium and types
 

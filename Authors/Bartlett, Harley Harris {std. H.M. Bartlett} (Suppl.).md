@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 344](https://www.biodiversitylibrary.org/page/33265071) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 344](https://www.biodiversitylibrary.org/page/33265071) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/513-1), [Wikidata](https://www.wikidata.org/wiki/Q5892357). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 \* Bartlett, Harley Harris (1886-1960), American botanist studied at Shortridge High School, Indianapolis, after graduation assistant ib. in biology and chemistry, entered Harvard University 1904, A.B. cum laude in chemistry 1908, 1905-1908 assistant to B.L. Robinson and M.L. Fernald, in graduate school 1908-1909; chemical biologist with Bureau of Plant Industry, USDA, Washington D.C.; assistant professor of botany at the University of Michigan 1915, full professor 1921, head of the Department of Botany 1922-1947, Director of the Botanical Gardens 1919-1955; explored and botanized in Sumatra, Formosa, Mexico, Guatemala, British Honduras, the Philippines, Panama, Haiti, Argentina, Uruguay and Chile. 
-**Abbreviated name**: *H.M. Bartlett*
+**Abbreviated name**: *H.M. Bartlett* \[standard form in IPNI: *Bartlett*\]
 
 #### Herbarium and types
 

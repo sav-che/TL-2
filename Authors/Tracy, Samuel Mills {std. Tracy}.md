@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33212467) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33212467) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10784-1), [Wikidata](https://www.wikidata.org/wiki/Q6118176). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tracy, Samuel Mills (1847-1920), American botanist and agronomist; MS Mich. Agric. Coll. 1873; professor of botany, Missouri State Univ. 1877-1887; associated with USDA in various functions; director of the USDA Experimental Station, Starkville, Miss., 1887-1897; special agent 1897-1914; agronomist from 1914. 
-**Abbreviated name**: *Tracy*
+**Abbreviated name**: *Tracy* \[standard form in IPNI: *Tracy*\]
 
 #### Herbarium and types
 

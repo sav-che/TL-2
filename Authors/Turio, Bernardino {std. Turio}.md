@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33212585) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33212585) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10912-1), [Wikidata](https://www.wikidata.org/wiki/Q21611054). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Turio, Bernardino (*fl*. 1806), Italian botanist at Chiavari. 
-**Abbreviated name**: *Turio*
+**Abbreviated name**: *Turio* \[standard form in IPNI: *Turio*\]
 
 #### Herbarium and types
 

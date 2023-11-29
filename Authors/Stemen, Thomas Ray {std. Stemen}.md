@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/page/33334021) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/page/33334021) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10090-1), [Wikidata](https://www.wikidata.org/wiki/Q21609751). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stemen, Thomas Ray (1892-1968), American botanist; AB Huntington Coll. (Ind.) 1914, MA Univ. Okla. 1922; instructor in biology, Central High School, Oklahoma City 1915-1935, head science department 1935. 
-**Abbreviated name**: *Stemen*
+**Abbreviated name**: *Stemen* \[standard form in IPNI: *Stemen*\]
 
 #### Herbarium and types
 

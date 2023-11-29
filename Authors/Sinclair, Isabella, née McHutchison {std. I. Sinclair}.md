@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33333753) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 614](https://www.biodiversitylibrary.org/page/33333753) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12867-1), [Wikidata](https://www.wikidata.org/wiki/Q21608950). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sinclair, Isabella, née McHutchison (1842-1900), British-born botanist; to New Zealand with her family 1862; married Francis Sinclair 1866; at Christchurch 1863-1864, at Blenheim N.Z. 1865-1866, from 1866 living in Hawaii (Niihau); died in San José, California. 
-**Abbreviated name**: *I. Sinclair*
+**Abbreviated name**: *I. Sinclair* \[standard form in IPNI: *I.Sinclair*\]
 
 #### Herbarium and types
 

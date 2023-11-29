@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33189706) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33189706) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12735-1), [Wikidata](https://www.wikidata.org/wiki/Q214994). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Philippi, Rudolph \[Rudolf; later called Rodolfo Amando\] Amandus (1808-1904), German (Prussian) botanist, studied in Berlin, Dr. phil. 1830, teacher at the technical school at Kassel 1835-1838, 1840-1851; in Italy 1830-1832, 1838-1840; emigrated to Chile 1851; at first as farmer and teacher at Valdivia; professor of botany and zoology at Santiago from 1853-1874, until 1897 director of the Museo nacional (de Chile). 
-**Abbreviated name**: *Phil.*
+**Abbreviated name**: *Phil.* \[standard form in IPNI: *Phil.*\]
 
 #### Herbarium and types
 

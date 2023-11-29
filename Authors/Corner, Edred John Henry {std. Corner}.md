@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2014-01-06 15:53:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33266039) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33266039) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17439-1), [Wikidata](https://www.wikidata.org/wiki/Q4233315). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Corner, Edred John Henry (1906-x), British botanist, born in London, at University of Cambridge res. grad. 1927-1929, MA 1930, assistant director at the Singapore Botanical Garden 1929-1945, Principal Field Scientific Officer in Latin America (Unesco program) 1947-1948, lecturer in botany at Cambridge University 1949-1959, id. as reader in plant taxonomy 1959-1965, professor of botany 1966-1973. 
-**Abbreviated name**: *Corner*
+**Abbreviated name**: *Corner* \[standard form in IPNI: *Corner*\]
 
 #### Herbarium and types
 

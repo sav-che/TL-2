@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33355113) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33355113) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5579-1), [Wikidata](https://www.wikidata.org/wiki/Q36702045). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lienau, W., (*fl*. 1863), German pharmacist and botanist at Eutin, later court chemist at Rendsburg. 
-**Abbreviated name**: *Lienau*
+**Abbreviated name**: *Lienau* \[standard form in IPNI: *Lienau*\]
 
 #### Herbarium and types
 

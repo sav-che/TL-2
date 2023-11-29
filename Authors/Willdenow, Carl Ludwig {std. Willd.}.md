@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-08-21 23:28:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33066638) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33066638) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11692-1), [Wikidata](https://www.wikidata.org/wiki/Q76353). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Willdenow, Carl Ludwig (1765-1812), German (Berlin) botanist; studied medicine at the University of Halle 1785-1789; Dr. med. 1789; in charge of the family pharmacy "Apotheke Unter den Linden" 1790-1798; professor of natural history at the Berlin Collegium medico-chirurgicum 1798; director of the Berlin Botanical Garden 1801; Botanist at the Academy of Sciences and public teacher of botany 1801; professor of botany at the newly founded University of Berlin 1810. 
-**Abbreviated name**: *Willd.*
+**Abbreviated name**: *Willd.* \[standard form in IPNI: *Willd.*\]
 
 #### Herbarium and types
 

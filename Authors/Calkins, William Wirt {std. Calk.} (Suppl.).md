@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33266619) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33266619) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16814-1), [Wikidata](https://www.wikidata.org/wiki/Q21388469). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Calkins, Col. William Wirt {std. Calk.}|first entry]] for this author
 
 ### Author
 
 \* Calkins, William Wirt (1842-1914), American amateur mycologist, bryologist and lichenologist, born in Farm Ridge, La Salle County, Illinois, served in the civil war, entered business and law. 
-**Abbreviated name**: *Calk.*
+**Abbreviated name**: *Calk.* \[standard form in IPNI: *Calk.*\]
 
 #### Herbarium and types
 

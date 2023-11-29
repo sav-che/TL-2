@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 899](https://www.biodiversitylibrary.org/page/33334038) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 899](https://www.biodiversitylibrary.org/page/33334038) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12887-1), [Wikidata](https://www.wikidata.org/wiki/Q78564). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sternberg, Kaspar \[Caspar\] Maria (Graf) von (1761-1838), Bohemian botanist; studied theology privately and in Rome; Theologus absolutus 1782; prebendary, from 1788 canon at the court of the prince-bishop of Regensburg and, from 1791, also canon at the court at Freising 1791-1810; from 1810 head of the family estate at Radnice devoting himself to management, botany and to the promotion of the natural sciences in Bohemia; co-founder of the Bohemian Natural Museum, president of the museum 1822-1838; outstanding palaeobotanist. 
-**Abbreviated name**: *Sternb.*
+**Abbreviated name**: *Sternb.* \[standard form in IPNI: *Sternb.*\]
 
 #### Herbarium and types
 

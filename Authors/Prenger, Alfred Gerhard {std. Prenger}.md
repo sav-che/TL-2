@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33189858) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33189858) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7940-1), [Wikidata](https://www.wikidata.org/wiki/Q21523215). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Prenger, Alfred Gerhard (1860-?), German botanist and pharmacist; Dr. phil. Erlangen 1901; student of H. Solederer. 
-**Abbreviated name**: *Prenger*
+**Abbreviated name**: *Prenger* \[standard form in IPNI: *Prenger*\]
 
 #### Herbarium and types
 

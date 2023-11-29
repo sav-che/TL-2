@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33120698) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33120698) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17513-1), [Wikidata](https://www.wikidata.org/wiki/Q6067147). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cretzoiu, Paul {std. Cretz.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Cretzoiu, Paul (1909-1946), Roumanian botanist and conservator of forests. 
-**Abbreviated name**: *Cretz.*
+**Abbreviated name**: *Cretz.* \[standard form in IPNI: *Cretz.*\]
 
 #### Herbarium and types
 

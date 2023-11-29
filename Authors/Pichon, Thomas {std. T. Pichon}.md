@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33189724) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33189724) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7669-1), [Wikidata](https://www.wikidata.org/wiki/Q47124445). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pichon, Thomas (*fl*. 1811), French botanist. 
-**Abbreviated name**: *T. Pichon*
+**Abbreviated name**: *T. Pichon* \[standard form in IPNI: *T.Pichon*\]
 
 #### Herbarium and types
 

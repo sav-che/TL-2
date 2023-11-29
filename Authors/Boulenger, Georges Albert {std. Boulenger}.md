@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33265581) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33265581) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1022-1), [Wikidata](https://www.wikidata.org/wiki/Q435731). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boulenger, Georges Albert (1858-1937), Belgian botanist and zoologist, Brussels born, studied at the Université Libre de Bruxelles, Aide-naturaliste at the Musée Royal d'Histoire naturelle de Belgique 1880, assistant first class at the British Museum as herpetologist and ichthyologist 1877-1920, also active as botanist (esp. rhodology) from 1907. 
-**Abbreviated name**: *Boulenger*
+**Abbreviated name**: *Boulenger* \[standard form in IPNI: *Boulenger*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33120330) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33120330) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16009-1), [Wikidata](https://www.wikidata.org/wiki/Q21506008). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bernard, Georges (Eugène) {std. G. Bernard} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bernard, Georges Eugène (x-1925), French mycologist, "pharmacien major de Ire classe à l'hôpital militaire d'Aufrédi." 
-**Abbreviated name**: *G. Bernard*
+**Abbreviated name**: *G. Bernard* \[standard form in IPNI: *G.E.Bernard*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33355232) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33355232) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5712-1), [Wikidata](https://www.wikidata.org/wiki/Q434073). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Löw, Immanuel (1854-1944), Hungarian rabbi and scholar; rabbi of Szeged 1878-1944; specialist in talmudic and rabbinic lexicography. 
-**Abbreviated name**: *I. Löw*
+**Abbreviated name**: *I. Löw* \[standard form in IPNI: *I.Löw*\]
 
 #### Herbarium and types
 

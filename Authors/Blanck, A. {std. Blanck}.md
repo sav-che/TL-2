@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33120359) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33120359) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/846-1), [Wikidata](https://www.wikidata.org/wiki/Q47114274). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Blanck, A. (*fl*. 1884), German physician and naturalist at Schwerin. 
-**Abbreviated name**: *Blanck*
+**Abbreviated name**: *Blanck* \[standard form in IPNI: *Blanck*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33259091) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33259091) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/1979-1), [Wikidata](https://www.wikidata.org/wiki/Q345866). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dandy, James Elgar (1903-1976), British botanist, born at Preston, Lancashire 24 Sep 1903, educated at Preston Grammar School and Downing College, Cambridge, with the Royal Bot. Gardens, Kew 1925-1927 as assistant to John Hutchinson, moved to British Museum (Natural History), from 1927, keeper of botany 1956-1966, retired 1966. 
-**Abbreviated name**: *Dandy*
+**Abbreviated name**: *Dandy* \[standard form in IPNI: *Dandy*\]
 
 #### Herbarium and types
 

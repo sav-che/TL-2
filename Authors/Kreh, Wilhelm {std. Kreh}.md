@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33068912) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33068912) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5056-1), [Wikidata](https://www.wikidata.org/wiki/Q21517918). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kreh, Wilhelm (1884-1954), German botanist and phytosociologist at Stuttgart. 
-**Abbreviated name**: *Kreh*
+**Abbreviated name**: *Kreh* \[standard form in IPNI: *Kreh*\]
 
 #### Herbarium and types
 

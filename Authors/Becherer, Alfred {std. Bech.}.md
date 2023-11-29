@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33265213) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33265213) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/594-1), [Wikidata](https://www.wikidata.org/wiki/Q5667420). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Becherer, Alfred (1897-1977), Suisse (Basel-born) botanist, educated at the Basel "Humanistisches Gymnasium", dipl. 1916, studied natural sciences at the University of Basel, Dr. phil. 1924; subsequently assistant with Senn, Basel; in 1928 studying at the Royal Botanical Gardens, Kew; assistant at the Conservatoire botanique de Genève, with Briquet, 1929; lecturer at the University of Genève 1934, curator at the Conservatoire 1943; retired to Lugano 1957 continuing his botanical work, curator of the herbarium of the Museo cantonale di storia naturale, Liceo Lugano 1961. 
-**Abbreviated name**: *Bech.*
+**Abbreviated name**: *Bech.* \[standard form in IPNI: *Bech.*\]
 
 #### Herbarium and types
 

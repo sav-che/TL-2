@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33259549) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33259549) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/12137-1), [Wikidata](https://www.wikidata.org/wiki/Q65679776). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Farmar, Leopold ('Leo') (1878-1907), British botanist, born 20 Feb 1878, gardener in Manchester, student apprentice, Royal Botanic Gardens, Glasnevin, Dublin, Ireland 1900-1901, gardener, Royal Botanic Gardens, Kew from Mar 1903 and then in Kew Herb. 1903-1906, Liverpool Univ. W. Afr. Exped. 1906, died 6 Apr 1907 by suicide at Southsea (Hants.). 
-**Abbreviated name**: *Farmar*
+**Abbreviated name**: *Farmar* \[standard form in IPNI: *Farmar*\]
 
 #### Herbarium and types
 

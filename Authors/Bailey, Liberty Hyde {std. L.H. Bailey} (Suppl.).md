@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-12-01 06:57:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33264992) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33264992) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/395-1), [Wikidata](https://www.wikidata.org/wiki/Q152366). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bailey, Liberty Hyde {std. L.H. Bailey}|first entry]] for this author
 
 ### Author
 
 \* Bailey, Liberty Hyde (1858-1954), American horticulturist and botanist, educated at Michigan Agricultural College; B.S. 1882, professor of horticulture and landscape gardening at Michigan State (Agricult.) College 1885, M.S. ib. 1886, professor of practical and experimental horticulture at Cornell University, Ithaca, N.Y. 1888-1903, second director of the College of Agriculture ib. 1903, dean of the New York State College of Agriculture and director of ib. experiment station 1904, founder, and donor of the Bailey Hortorium. 
-**Abbreviated name**: *L.H. Bailey*
+**Abbreviated name**: *L.H. Bailey* \[standard form in IPNI: *L.H.Bailey*\]
 
 #### Herbarium and types
 

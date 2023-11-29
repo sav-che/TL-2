@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-14 13:28:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33259180) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33259180) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2063-1), [Wikidata](https://www.wikidata.org/wiki/Q966069). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Decaisne, Joseph {std. Decne.}|first entry]] for this author
 
 ### Author
 
 \* Decaisne, Joseph (1807-1882), Belgian botanist, born at Brussels, moved early to Paris, 1824 becoming gardener in the Jardin des Plantes, in 1832 Chef des Semis du Muséum, in the herbarium 1833, Dr.-ès-Sci. 1837, Membre de l'Institut 1847, professor of culture at the Museum 1851, later also president of the Académie des Sciences. 
-**Abbreviated name**: *Decne.*
+**Abbreviated name**: *Decne.* \[standard form in IPNI: *Decne.*\]
 
 #### Herbarium and types
 

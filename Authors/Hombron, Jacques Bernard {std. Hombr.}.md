@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33068508) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33068508) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4074-1), [Wikidata](https://www.wikidata.org/wiki/Q1342637). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hombron, Jacques Bernard (1800-1852), French explorer on the voyage of the Astrolabe and Zelée (1837-1840); surgeon-botanist; later stationed at Senegal. 
-**Abbreviated name**: *Hombr.*
+**Abbreviated name**: *Hombr.* \[standard form in IPNI: *Hombr.*\]
 
 #### Herbarium and types
 

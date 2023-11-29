@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33355868) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33355868) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24197-1), [Wikidata](https://www.wikidata.org/wiki/Q5971940). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nuttall, Lawrence William (1857-1933), American mine-owner, botanist and plant collector at Nuttallburg, Fayette County, West Virginia; in San Diego from 1927. 
-**Abbreviated name**: *L. Nutt.*
+**Abbreviated name**: *L. Nutt.* \[standard form in IPNI: *L.Nutt.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-04-27 10:37:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33266101) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33266101) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/13925-1), [Wikidata](https://www.wikidata.org/wiki/Q21509169). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Courtin, Albert (fl. 1850-1864), German horticulturist, "Hofgärtner" at Ludwigsburg, from 1864 with the Prince of Würtemberg as gardener with the Villa in Cannstadt near Stuttgart. 
-**Abbreviated name**: *Courtin*
+**Abbreviated name**: *Courtin* \[standard form in IPNI: *Courtin*\]
 
 #### Herbarium and types
 

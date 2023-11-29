@@ -28,14 +28,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33068649) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33068649) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12576-1), [Wikidata](https://www.wikidata.org/wiki/Q84497). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jacquin, Nikolaus Joseph, Baron von (1727-1817), Dutch born Austrian botanist; to Paris 1750-1752; from 1752 in Austria; to the West Indies 1755-1759; at Schemnitz 1763-1769; from 1769 professor of botany and chemistry at the University of Vienna; ennobled 1806. 
-**Abbreviated name**: *Jacq.*
+**Abbreviated name**: *Jacq.* \[standard form in IPNI: *Jacq.*\]
 
 #### Herbarium and types
 

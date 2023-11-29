@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33333629) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33333629) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9435-1), [Wikidata](https://www.wikidata.org/wiki/Q36647716). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seidel, Otto (*fl*. 1890), German (Silesian) botanist and high school teacher in Frankenstein i. Schlesien. 
-**Abbreviated name**: *O. Seidel*
+**Abbreviated name**: *O. Seidel* \[standard form in IPNI: *O.Seidel*\]
 
 #### Herbarium and types
 

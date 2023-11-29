@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33355894) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33355894) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7089-1), [Wikidata](https://www.wikidata.org/wiki/Q21522325). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Oelhafen von Schoellenbach, Carl Christoph (1709-1783), German botanist and royal forestry agent (Wald-Amtmann) at Nürnberg. 
-**Abbreviated name**: *Oelhafen*
+**Abbreviated name**: *Oelhafen* \[standard form in IPNI: *Oelhafen*\]
 
 #### Herbarium and types
 

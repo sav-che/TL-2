@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33355860) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33355860) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7038-1), [Wikidata](https://www.wikidata.org/wiki/Q332408). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Noroña, Francisco (Noronha, François; also err. Fernando) (ca. 1748-1788), Spanish physician and botanist who travelled to the Philippines and Java 1786-1787. 
-**Abbreviated name**: *Noroña*
+**Abbreviated name**: *Noroña* \[standard form in IPNI: *Noronha*\]
 
 #### Herbarium and types
 

@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33068755) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33068755) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4698-1), [Wikidata](https://www.wikidata.org/wiki/Q5958333). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Keissler, Karl von (1872-1965), Austrian lichenologist at Vienna; Dr. phil. Vienna 1895; at the Botanical Garden 1895-1899; in various functions at the Botanische Abteilung des Naturhistorischen Hofmuseums 1899-1938; pupil of A. Zahlbrückner; from 1924 with the title Hofrat. 
-**Abbreviated name**: *Keissl.*
+**Abbreviated name**: *Keissl.* \[standard form in IPNI: *Keissl.*\]
 
 #### Herbarium and types
 

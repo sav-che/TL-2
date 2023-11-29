@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33258675) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33258675) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/12149-1), [Wikidata](https://www.wikidata.org/wiki/Q3237312). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gibbes, Lewis \[Louis\] Reeve (1810-1894), American mathematician and naturalist, born 14 Aug 1810 in Charleston, South Carolina, attended Pendleton Academy, Pendleton, South Carolina 1823-1827, graduated 1829 South Carolina College (now Univ. of South Carolina, Columbia), held various teaching appointments while studying medicine, M.D. 1836 Medical College of the State, studied in Paris 1836-1837, prof. of mathematics and later astronomy and physics, College of Charleston from 1838 (and for 54 years!), emeritus 1892, died 21 Nov 1894 in Charleston. 
-**Abbreviated name**: *Gibbes*
+**Abbreviated name**: *Gibbes* \[standard form in IPNI: *Gibbes*\]
 
 #### Herbarium and types
 

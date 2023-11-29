@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33265909) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33265909) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1709-1), [Wikidata](https://www.wikidata.org/wiki/Q21508773). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cocconi, Girolamo (1822-1904), Italian mycologist, hygienist and dealing with materia medica and veterinaria at the University of Bologna. 
-**Abbreviated name**: *Cocc.*
+**Abbreviated name**: *Cocc.* \[standard form in IPNI: *Cocc.*\]
 
 #### Herbarium and types
 

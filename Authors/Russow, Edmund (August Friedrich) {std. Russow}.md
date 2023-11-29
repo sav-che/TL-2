@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/page/33190476) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/page/33190476) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12804-1), [Wikidata](https://www.wikidata.org/wiki/Q1964746). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Russow, Edmund \[August Friedrich\] (1841-1897), Esthonian botanist (of Baltic German origin); studied at Dorpat (Tartu) University 1860-1865; Dr. phil. 1871; habil. Dorpat 1865; lecturer plant anatomy and physiology ib. 1867; succeeding M. Willkomm as professor of botany and director of the botanical garden at Dorpat 1874-1895; professor emeritus 1895-1897; specialist on *Sphagnum*, the Esthonian flora and on the plant morphology of vascular cryptogams. 
-**Abbreviated name**: *Russow*
+**Abbreviated name**: *Russow* \[standard form in IPNI: *Russow*\]
 
 #### Herbarium and types
 

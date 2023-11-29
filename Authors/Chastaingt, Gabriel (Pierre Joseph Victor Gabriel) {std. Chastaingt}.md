@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33265739) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33265739) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/40377-1), [Wikidata](https://www.wikidata.org/wiki/Q21508271). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chastaingt, Gabriel (Pierre Joseph Victor Gabriel) (1831-1892), French botanist, born 11 Dec 1883, Limoges, Haute-Vienne, France, died 31 Mar 1892, Tours, "conducteur des Ponts et Chaussées, l'Indre, l'Aveyron et l'Indre-et-Loire", explorer of l'Indre in the vicinity of la Châtre 1857-1873, in l'Aveyron d'Aubin 1873-1877, and in Indre-et-Loire in the arrondissement of Tours 1877-1892. 
-**Abbreviated name**: *Chastaingt*
+**Abbreviated name**: *Chastaingt* \[standard form in IPNI: *Chast.*\]
 
 #### Herbarium and types
 

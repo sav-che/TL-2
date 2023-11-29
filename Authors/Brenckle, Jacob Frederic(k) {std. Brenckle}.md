@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33120447) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33120447) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1119-1), [Wikidata](https://www.wikidata.org/wiki/Q21506463). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brenckle, Jacob Frederic(k) {std. Brenckle} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Brenckle, Jacob Frederic\[k\] (1875-1958), American physician, amateur botanist and plant collector at Kulm, North Dakota and Northville, South Dakota. 
-**Abbreviated name**: *Brenckle*
+**Abbreviated name**: *Brenckle* \[standard form in IPNI: *Brenckle*\]
 
 #### Herbarium and types
 

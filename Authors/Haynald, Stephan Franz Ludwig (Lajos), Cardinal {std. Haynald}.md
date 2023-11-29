@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33068353) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33068353) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3749-1), [Wikidata](https://www.wikidata.org/wiki/Q948995). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Haynald, Stephan Franz Ludwig \[Lajos\], Cardinal (1816-1891), Hungarian botanist and clergyman, coadjutor, later bishop, of Siebenbürgen (1851-1867); from 1867 archbishop of Kalocsa; cardinal from 1879. 
-**Abbreviated name**: *Haynald*
+**Abbreviated name**: *Haynald* \[standard form in IPNI: *Haynald*\]
 
 #### Herbarium and types
 

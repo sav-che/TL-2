@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1017](https://www.biodiversitylibrary.org/page/33121148) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1017](https://www.biodiversitylibrary.org/page/33121148) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3430-1), [Wikidata](https://www.wikidata.org/wiki/Q21338949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Grummann, Vitus Johannes {std. Grumm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Grumman, Vitus Johannes (1899-1967), German lichenologist. 
-**Abbreviated name**: *Grumm.*
+**Abbreviated name**: *Grumm.* \[standard form in IPNI: *Grummann*\]
 
 #### Herbarium and types
 

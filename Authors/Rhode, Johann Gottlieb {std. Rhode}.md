@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33190226) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33190226) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8335-1), [Wikidata](https://www.wikidata.org/wiki/Q21607154). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rhode, Johann Gottlieb (1762-1827), German (Prussian Saxony) palaeobotanist; Dr. phil. Breslau 1821; private teacher in Braunschweig, "Hofmeister" in Esthland, later in Berlin, theater director in Breslau, ultimately professor of geography and German language at the military school of Breslau. 
-**Abbreviated name**: *Rhode*
+**Abbreviated name**: *Rhode* \[standard form in IPNI: *Rhode*\]
 
 #### Herbarium and types
 

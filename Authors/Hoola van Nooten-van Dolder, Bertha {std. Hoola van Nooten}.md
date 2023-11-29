@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-02-03 15:38:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33068543) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33068543) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/13367-1), [Wikidata](https://www.wikidata.org/wiki/Q4895535). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoola van Nooten-van Dolder, Bertha (*fl*. 1863), Dutch botanical artist. 
-**Abbreviated name**: *Hoola van Nooten*
+**Abbreviated name**: *Hoola van Nooten* \[standard form in IPNI: *Hoola van Nooten*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33120736) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 605](https://www.biodiversitylibrary.org/page/33120736) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2052-1), [Wikidata](https://www.wikidata.org/wiki/Q5720270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Deane, Henry {std. H. Deane} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Deane, Henry (1847-1924), British born Australian railway engineer, palaeobotanist and botanist in New South Wales (from 1880). 
-**Abbreviated name**: *H. Deane*
+**Abbreviated name**: *H. Deane* \[standard form in IPNI: *H.Deane*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33189812) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33189812) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7858-1), [Wikidata](https://www.wikidata.org/wiki/Q7109785). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Forsch, Otto (1875-1959), Austrian botanist (flower biologist); Student of R. Wettstein; Dr. phil. Wien 1901; at the Botanical Institute, Graz 1900-1903 (with Haberlandt); 1903-1911 at the Botanical Institute of Vienna Univ.; habil. Wien 1906; from 1911-1919 at the University of Czernowitz (Cernæuti); from 1919 at the Hochschule für Bodenkultur, Wien (from 1938 full professor); in Java Jan-Jun 1914. 
-**Abbreviated name**: *Porsch*
+**Abbreviated name**: *Porsch* \[standard form in IPNI: *Porsch*\]
 
 #### Herbarium and types
 

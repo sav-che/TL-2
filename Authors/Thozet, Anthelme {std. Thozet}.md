@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33212342) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33212342) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10641-1), [Wikidata](https://www.wikidata.org/wiki/Q4771567). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thozet, Anthelme (1826-1878), French-born Australian plant collector and gardener; with the Sydney Botanic Gardens 1856-1858; to the Port Curtis goldfields, Queensland 1858; later cultivating economic plants on his property "Muellerville" at Rockhampton, Queensland. 
-**Abbreviated name**: *Thozet*
+**Abbreviated name**: *Thozet* \[standard form in IPNI: *Thozet*\]
 
 #### Herbarium and types
 

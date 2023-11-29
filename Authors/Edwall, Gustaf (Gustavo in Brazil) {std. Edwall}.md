@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33260248) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33260248) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/12421-1), [Wikidata](https://www.wikidata.org/wiki/Q5889359). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Edwall, Gustaf ("Gustavo" in Brazil) (1862-1946), Swedish botanist, born 7 Jun 1862 at Karlstad, at the gymnasium until 1883, studied at the agricultural academy at Stockholm, travelled in Central Europe from 1889, went to Brazil in 1891 settling in São Paulo, as secretary for agriculture, collected plants around São Paulo until 1905, died 1946. 
-**Abbreviated name**: *Edwall*
+**Abbreviated name**: *Edwall* \[standard form in IPNI: *Edwall*\]
 
 #### Herbarium and types
 

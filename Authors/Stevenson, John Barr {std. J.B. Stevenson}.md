@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/page/33334059) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/page/33334059) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10134-1), [Wikidata](https://www.wikidata.org/wiki/Q21609846). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stevenson, John Barr (1882-1950), British horticulturist who owned a large collection of rhododendrons at Tower Court, Ascot. 
-**Abbreviated name**: *J.B. Stevenson*
+**Abbreviated name**: *J.B. Stevenson* \[standard form in IPNI: *J.B.Stev.*\]
 
 #### Herbarium and types
 

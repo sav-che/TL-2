@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33266416) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33266416) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1164-1), [Wikidata](https://www.wikidata.org/wiki/Q84447476). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Broadhurst, Jean Alice (1873-1954), American teacher of biology and botanist, born at Stockton, New Jersey, at the New Jersey State Normal School, Trenton 1892, B.S. Teachers College Columbia University 1903, A.M. 1908, at New York Botanical Garden 1901-1902, assistant at Barnard College 1902-1903, instructor in biology at New Jersey State Normal School 1903-1906, id. at Teachers College 1906, at id. as professor of biology 1914. 
-**Abbreviated name**: *Broadh.*
+**Abbreviated name**: *Broadh.* \[standard form in IPNI: *Broadh.*\]
 
 #### Herbarium and types
 

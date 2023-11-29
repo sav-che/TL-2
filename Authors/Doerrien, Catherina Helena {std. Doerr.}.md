@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33120797) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33120797) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2251-1), [Wikidata](https://www.wikidata.org/wiki/Q1050781). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Doerrien, Catharina (Katharina) Helena {std. Doerr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Doerrien, Catherina Helena (1717-1795), German teacher and botanist. 
-**Abbreviated name**: *Doerrien*
+**Abbreviated name**: *Doerrien* \[standard form in IPNI: *Doerr.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33355518) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33355518) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6379-1), [Wikidata](https://www.wikidata.org/wiki/Q1731499). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mertens, Karl (Carl) Heinrich (1796-1830), German botanist at St. Petersburg; son of F. K. Mertens. 
-**Abbreviated name**: *K. Mert.*
+**Abbreviated name**: *K. Mert.* \[standard form in IPNI: *K.Mert.*\]
 
 #### Herbarium and types
 

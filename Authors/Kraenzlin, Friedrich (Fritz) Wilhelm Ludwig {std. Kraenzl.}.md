@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33068900) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33068900) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5013-1), [Wikidata](https://www.wikidata.org/wiki/Q542327). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kraenzlin, Friedrich (Fritz) Wilhelm Ludwig (1847-1934), German orchidologist. 
-**Abbreviated name**: *Kraenzl.*
+**Abbreviated name**: *Kraenzl.* \[standard form in IPNI: *Kraenzl.*\]
 
 #### Herbarium and types
 

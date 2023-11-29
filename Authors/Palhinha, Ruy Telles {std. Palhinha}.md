@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33189502) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33189502) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7269-1), [Wikidata](https://www.wikidata.org/wiki/Q2892677). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palhinha, Ruy Telles (1871-1957), Azores-born Portugese botanist; high school teacher at Lisbon, later at the Botanical Institute of the University of Lisbon (director 1921-1941). 
-**Abbreviated name**: *Palhinha*
+**Abbreviated name**: *Palhinha* \[standard form in IPNI: *Palhinha*\]
 
 #### Herbarium and types
 

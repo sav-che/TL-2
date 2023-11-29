@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33190052) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33190052) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8149-1), [Wikidata](https://www.wikidata.org/wiki/Q979933). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rasmussen, Rasmus (1871-1962), Danish botanist of the Faroe Islands, born in Midvåg, carpenter, teacher, writer. 
-**Abbreviated name**: *Rasmussen*
+**Abbreviated name**: *Rasmussen* \[standard form in IPNI: *Rasm.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33120974) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33120974) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2776-1), [Wikidata](https://www.wikidata.org/wiki/Q6215912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fleischer, Johann Gottlieb (Theophilus) (1797-1838), German physician and botanist at Mitau. 
-**Abbreviated name**: *J. Fleisch.*
+**Abbreviated name**: *J. Fleisch.* \[standard form in IPNI: *J.Fleisch.*\]
 
 #### Herbarium and types
 

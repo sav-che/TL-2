@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33212712) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33212712) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/4091-1), [Wikidata](https://www.wikidata.org/wiki/Q21611416). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Van Hoorebeke, Charles Joseph (1790-1821), Belgian pharmacist and botanist at Gent (Gand). 
-**Abbreviated name**: *Van Hoorebeke*
+**Abbreviated name**: *Van Hoorebeke* \[standard form in IPNI: *Van Hooreb.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33333478) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33333478) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12847-1), [Wikidata](https://www.wikidata.org/wiki/Q87046). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schröter, Carl \[Joseph\] (1855-1939), German-born (Silesian origin) Swiss botanist; from 1865 in Zürich (Swiss citizen from 1867); studied at the Zürich Polytechnic (later E.T.H.); botanical assistant 1878; Dr. phil. Zürich 1880 with Oswald Heer; professor of systematic botany 1884-1926; widely travelled leading plant-geographer; co-founder Schweizerische botanische Gesellschaft. 
-**Abbreviated name**: *Schröt.*
+**Abbreviated name**: *Schröt.* \[standard form in IPNI: *Schröt.*\]
 
 #### Herbarium and types
 

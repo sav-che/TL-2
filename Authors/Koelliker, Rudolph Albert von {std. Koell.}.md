@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33068840) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33068840) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12618-1), [Wikidata](https://www.wikidata.org/wiki/Q123528). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koelliker, Rudolph Albert von (1817-1905), Swiss human anatomist and botanist; Dr. phil. Zürich 1841; Dr. med. Heidelberg 1842; professor of anatomy at Heidelberg 1844-1847; id. at Würzburg from 1847. 
-**Abbreviated name**: *Koell.*
+**Abbreviated name**: *Koell.* \[standard form in IPNI: *Koell.*\]
 
 #### Herbarium and types
 

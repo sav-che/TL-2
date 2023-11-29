@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33068789) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33068789) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4800-1), [Wikidata](https://www.wikidata.org/wiki/Q4664207). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kinney, Abbot (1850-1920), American popular writer on botany 
-**Abbreviated name**: *Kinney*
+**Abbreviated name**: *Kinney* \[standard form in IPNI: *Kinney*\]
 
 #### Herbarium and types
 

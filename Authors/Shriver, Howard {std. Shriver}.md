@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33333711) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33333711) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9595-1), [Wikidata](https://www.wikidata.org/wiki/Q21608830). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shriver, Howard (1824-1901), American botanist. 
-**Abbreviated name**: *Shriver*
+**Abbreviated name**: *Shriver* \[standard form in IPNI: *Shriver*\]
 
 #### Herbarium and types
 

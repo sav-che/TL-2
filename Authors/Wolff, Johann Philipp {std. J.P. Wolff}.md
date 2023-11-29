@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33066764) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33066764) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11822-1), [Wikidata](https://www.wikidata.org/wiki/Q21391676). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wolff, Johann Philipp (1743-1825), German (Bavarian) physician and botanist at Schweinfurt. 
-**Abbreviated name**: *J.P. Wolff*
+**Abbreviated name**: *J.P. Wolff* \[standard form in IPNI: *J.P.Wolff*\]
 
 #### Herbarium and types
 

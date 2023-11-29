@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33189675) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33189675) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7586-1), [Wikidata](https://www.wikidata.org/wiki/Q12295269). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petkoff \[Petkov\], Stefan Pavlikianoff (1866-1956), Bulgarian botanist; habil. Sofia 1901; from 1906 professor of botany and director of the botanical garden of Sofia, ord. prof. 1911-1936. 
-**Abbreviated name**: *Petkoff*
+**Abbreviated name**: *Petkoff* \[standard form in IPNI: *Petkoff*\]
 
 #### Herbarium and types
 

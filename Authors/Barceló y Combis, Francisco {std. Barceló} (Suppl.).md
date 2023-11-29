@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33265049) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33265049) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/471-1), [Wikidata](https://www.wikidata.org/wiki/Q21505652). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Barceló y Combis, Francisco {std. Barceló}|first entry]] for this author
 
 ### Author
 
 \* Barceló y Combis, Francisco (1820-1889), Spanish zoologist and botanist; studied medicine, physics and chemistry, "catedrático" in physics and chemistry at the Instituto Balear. (Palma). 
-**Abbreviated name**: *Barceló*
+**Abbreviated name**: *Barceló* \[standard form in IPNI: *Barceló*\]
 
 #### Herbarium and types
 

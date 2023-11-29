@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33120617) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33120617) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/32688-1), [Wikidata](https://www.wikidata.org/wiki/Q5497505). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chapman, Frederick (1864-1943), British palaeobiologist who worked in Australia. 
-**Abbreviated name**: *F. Chapman*
+**Abbreviated name**: *F. Chapman* \[standard form in IPNI: *F.Chapm.*\]
 
 #### Collections
 

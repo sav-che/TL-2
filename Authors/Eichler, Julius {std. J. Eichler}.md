@@ -22,14 +22,13 @@ ipni_record_created: 2003-12-23 09:04:31.0
 ipni_record_modified: 2013-05-15 11:31:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33260270) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33260270) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/20000048-2), [Wikidata](https://www.wikidata.org/wiki/Q21511599). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eichler, Julius (1859-1929), German botanist, born in Eschwege near Kassel 1859, died in Stuttgart 1929, came to Stuttgart 1883, conservator botanic department, 1892 with title of professor of floristics. 
-**Abbreviated name**: *J. Eichler*
+**Abbreviated name**: *J. Eichler* \[standard form in IPNI: *J.Eichler*\]
 
 #### Herbarium and types
 

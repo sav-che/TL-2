@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33265882) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33265882) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1688-1), [Wikidata](https://www.wikidata.org/wiki/Q1528198). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clementi, Giuseppe (1812-1873), Italian botanist, born at Alcenago in Pogano, Verona, professor in physics and biology at the Lyceum of Bergama, subsequently at Padua and Genova, ultimately (from 1855) professor of natural sciences at Torino, collected in Greece and Turkey ca. 1852. 
-**Abbreviated name**: *Clementi*
+**Abbreviated name**: *Clementi* \[standard form in IPNI: *Clementi*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/page/33120455) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/page/33120455) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12360-1), [Wikidata](https://www.wikidata.org/wiki/Q946113). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bridel (-Brideri), Samuel-Elisée de {std. Brid.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bridel (-Brideri), Samuel-Elisée de (1761-1828), Swiss bryologist who lived for the greater part of his life in Gotha. 
-**Abbreviated name**: *Brid.*
+**Abbreviated name**: *Brid.* \[standard form in IPNI: *Brid.*\]
 
 #### Herbarium and types
 

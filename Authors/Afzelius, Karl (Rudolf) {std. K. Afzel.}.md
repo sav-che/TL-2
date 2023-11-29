@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33264725) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33264725) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/81-1), [Wikidata](https://www.wikidata.org/wiki/Q10313892). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Afzelius, Karl \[Rudolf\] (1887-x), Swedish botanist, educated at primary and secondary schools in Stockholm, from 1906-1911 at Stockholm University, fil. mag. ib. 1911, fil. lic. ib. 1915, scientist at the Hortus Bergianus from 1915, later at the Botanical Department of the Stockholm Natural History Museum, travelled in Madagascar 1912-1913, lecturer in botany at Stockholm University 1925. 
-**Abbreviated name**: *K. Afzel.*
+**Abbreviated name**: *K. Afzel.* \[standard form in IPNI: *K.Afzel.*\]
 
 #### Herbarium and types
 

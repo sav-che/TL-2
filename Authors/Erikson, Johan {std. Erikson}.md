@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33260378) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33260378) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/20031380-1), [Wikidata](https://www.wikidata.org/wiki/Q24019256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Erikson, Johan (1862-1938), Swedish botanist, born 21 Mai 1862 at Everöd (Skåne), student at Vänersborg 1876-1882, at Lund University 1883, fil. cand. 1887, fil. lic. 14 Dec 1891, Dr. fil. 25 Mai 1892, lector in natural history and chemistry at Karlskrona 1896-1910, died 17 Sep 1938. 
-**Abbreviated name**: *Erikson*
+**Abbreviated name**: *Erikson* \[standard form in IPNI: *J.Erikson*\]
 
 #### Herbarium and types
 

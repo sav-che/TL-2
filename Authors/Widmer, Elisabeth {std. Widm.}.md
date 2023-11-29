@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33066600) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33066600) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11641-1), [Wikidata](https://www.wikidata.org/wiki/Q21612638). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Widmer, Elisabeth (1862-1952), German botanist in München. 
-**Abbreviated name**: *Widm.*
+**Abbreviated name**: *Widm.* \[standard form in IPNI: *Widmer*\]
 
 #### Herbarium and types
 

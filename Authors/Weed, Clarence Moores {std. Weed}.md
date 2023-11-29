@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33066482) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33066482) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11482-1), [Wikidata](https://www.wikidata.org/wiki/Q21612346). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weed, Clarence Moores (1864-1947), American entomologist, botanist and educator; Dr. sci. Ohio State Univ. 1890; with the Ohio Experiment Station 1888-1891; professor of zoology and entomologist New Hampshire College of Agriculture Experiment Station 1891-1904; instructor State Normal School (Lowell State Teachers College), Mass. 1904-1922, president ib. 1922-1935. 
-**Abbreviated name**: *Weed*
+**Abbreviated name**: *Weed* \[standard form in IPNI: *Weed*\]
 
 #### Herbarium and types
 

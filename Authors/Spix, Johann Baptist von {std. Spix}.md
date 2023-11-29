@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 794](https://www.biodiversitylibrary.org/page/33333933) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 794](https://www.biodiversitylibrary.org/page/33333933) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9978-1), [Wikidata](https://www.wikidata.org/wiki/Q15572). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spix, Johann Baptist von (1781-1826), German (Bavarian) traveller and zoologist; from 1811 curator of the zoological collections of the Bayerische Akademie der Wissenschaften; from 1817-1820 with C.F.P. von Martius in Brazil. 
-**Abbreviated name**: *Spix*
+**Abbreviated name**: *Spix* \[standard form in IPNI: *Spix*\]
 
 #### Herbarium and types
 

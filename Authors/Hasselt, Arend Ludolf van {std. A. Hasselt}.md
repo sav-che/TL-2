@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33068336) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33068336) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3717-1), [Wikidata](https://www.wikidata.org/wiki/Q21515567). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hasselt, Arend Ludolf van (1848-1909), Dutch soldier and later civil administrator on Java and Sumatra, leader of the Central Sumatra Expedition of 1877-1879. 
-**Abbreviated name**: *A. Hasselt*
+**Abbreviated name**: *A. Hasselt* \[standard form in IPNI: *A.Hasselt*\]
 
 #### Herbarium and types
 

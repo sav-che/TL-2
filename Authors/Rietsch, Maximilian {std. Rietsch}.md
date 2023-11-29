@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 790](https://www.biodiversitylibrary.org/page/33190261) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 790](https://www.biodiversitylibrary.org/page/33190261) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/35158-1), [Wikidata](https://www.wikidata.org/wiki/Q36634574). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rietsch, Maximilian (*fl*. 1882), French pharmacist and botanist; sometime professor at the school of Pharmacy and Medicine of Marseilles. 
-**Abbreviated name**: *Rietsch*
+**Abbreviated name**: *Rietsch* \[standard form in IPNI: *Rietsch*\]
 
 #### Herbarium and types
 

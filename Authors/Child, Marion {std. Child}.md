@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33265779) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33265779) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17185-1), [Wikidata](https://www.wikidata.org/wiki/Q47115478). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Child, Marion (fl. 1929-1932), American botanist, married H. Vincent Moss, AB Oberlin, MS Washington University 1929. 
-**Abbreviated name**: *Child*
+**Abbreviated name**: *Child* \[standard form in IPNI: *Child*\]
 
 #### Herbarium and types
 

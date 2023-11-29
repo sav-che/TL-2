@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33266056) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33266056) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/13924-1), [Wikidata](https://www.wikidata.org/wiki/Q2420048). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Correvon, \[Louis\] Henri (1854-1939), Swiss horticulturist and botanist, born at Yverdon, set up in 1885 the Jardin Alpin d' acclimatation in Genève, had also a garden at Chêne-Bourg 1902, was director of "La Linnaea" above Bourg-Saint-Pierre at 1694 m 1889-1915, Hon. Dr. Sci. 1931, Univ. Genève, died at Hèrisau, Appenzell. 
-**Abbreviated name**: *Correvon*
+**Abbreviated name**: *Correvon* \[standard form in IPNI: *Correvon*\]
 
 #### Herbarium and types
 

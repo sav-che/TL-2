@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1019](https://www.biodiversitylibrary.org/page/33121150) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1019](https://www.biodiversitylibrary.org/page/33121150) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3449-1), [Wikidata](https://www.wikidata.org/wiki/Q5928824). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Guépin, Jean Pierre (1779-1858), French physician and botanist at Angers. 
-**Abbreviated name**: *Guépin*
+**Abbreviated name**: *Guépin* \[standard form in IPNI: *Guépin*\]
 
 #### Herbarium and types
 

@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33212718) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33212718) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/28249-1), [Wikidata](https://www.wikidata.org/wiki/Q21611474). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vareschi, Volkmar (1906-x), Austrian botanist; Dr. phil. Innsbruck 1931; assistant at the Geobot. Forschungsinst. Rübel, Zürich 1931-1935; in 1936 with the Arbeitsgemeinschaft für Raumforschung, München; assistant 1937, lecturer for botany 1939 at the University of München; with the Sven Hedin Institut 1940-1941; with a Seed Station at Radstadt, Salzburg 1945-1946; lecturer Innsbruck 1947-1949; emigrated to Venezuela 1950; with the Universidad Central de Caracas from 1951, professor 1953; nationalized Venezuelan citizen 1956; explored the Venezuelan Amazonas 1958-1973. 
-**Abbreviated name**: *Vareschi*
+**Abbreviated name**: *Vareschi* \[standard form in IPNI: *Vareschi*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33265519) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33265519) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/963-1), [Wikidata](https://www.wikidata.org/wiki/Q21506299). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Booberg, Karl Gunnar (1892-1944), Swedish botanist, peat expert and plant geographer, Dr. phil. Uppsala 1930, assistant with the Swedish Geological Service, Stockholm 1924-1925, employed by the Java Sugar Experiment Station, Pasoeroean, group-adviser, Modjokerto 1925-1926, Field Service inspector 1926-1928, assistant director agricultural dept. 1928-1934, director id. 1934-1941, in retirement at Djoenggo, Poenten, E. Java 1941. 
-**Abbreviated name**: *Booberg*
+**Abbreviated name**: *Booberg* \[standard form in IPNI: *Booberg*\]
 
 #### Herbarium and types
 

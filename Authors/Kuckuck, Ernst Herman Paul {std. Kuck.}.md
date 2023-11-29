@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33068923) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33068923) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5101-1), [Wikidata](https://www.wikidata.org/wiki/Q15880587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kuckuck, Ernst Herman Paul (1866-1918), German algologist; Dr. phil. Kiel 1891; with Reinke at Kiel 1888-1892; at the Helgoland biological station 1892-1914; from 1914-1918 at Berlin as a guest at the Dahlem Botanical Museum. 
-**Abbreviated name**: *Kuck.*
+**Abbreviated name**: *Kuck.* \[standard form in IPNI: *Kuck.*\]
 
 #### Herbarium and types
 

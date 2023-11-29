@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 784](https://www.biodiversitylibrary.org/page/33212826) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 784](https://www.biodiversitylibrary.org/page/33212826) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11267-1), [Wikidata](https://www.wikidata.org/wiki/Q68251). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Voss, Andreas (1857-1924), German (Bremen) author on horticulture, botanical nomenclature and meteorology; gardener with the Landwirtschaftsschule Hildesheim 1878-1882; university gardener Göttingen 1882-1890; from 1890 independent, living from his activities as author. 
-**Abbreviated name**: *Voss*
+**Abbreviated name**: *Voss* \[standard form in IPNI: *Voss*\]
 
 #### Herbarium and types
 

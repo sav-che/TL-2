@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33120734) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33120734) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2045-1), [Wikidata](https://www.wikidata.org/wiki/Q21509971). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Day, Mary Anna {std. Day} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Day, Mary Anna (1852-1924), American botanist. 
-**Abbreviated name**: *Day*
+**Abbreviated name**: *Day* \[standard form in IPNI: *Day*\]
 
 #### Herbarium and types
 

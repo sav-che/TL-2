@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33333632) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33333632) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9444-1), [Wikidata](https://www.wikidata.org/wiki/Q21608632). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seifriz, William Ernest (1888-1955), American botanist (of German parents); BS Johns Hopkins 1916; Dr. phil. ib. 1920; instructor in botany Univ. Michigan 1923-1924; National Research Council fellow Univ. Pennsylvania 1924-1925; professor of botany at the Dept. of Botany ib. from 1925; mainly interested in protoplasm but published also on phytogeography. 
-**Abbreviated name**: *Seifriz*
+**Abbreviated name**: *Seifriz* \[standard form in IPNI: *Seifriz*\]
 
 #### Herbarium and types
 

@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33260287) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33260287) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18437-1), [Wikidata](https://www.wikidata.org/wiki/Q660174). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Elenkin, Aleksander Aleksandrovitch {std. Elenkin}|first entry]] for this author
 
 ### Author
 
 \* Elenkin, Alexander Alexandrowitsch (1873-1942), Polish/Russian botanist, born 4 Nov 1873 a Warsaw, studied until 1893 at the University of Warsaw, assistant for systematics and morphology 1898, from 1899 conservator and director of the department of cryptogamy of the botanic gardens at St. Petersburg, later professor and scientific specialist, considered to be "father of Russian lichenology", died 19 Apr 1942 at Kasan. 
-**Abbreviated name**: *Elenkin*
+**Abbreviated name**: *Elenkin* \[standard form in IPNI: *Elenkin*\]
 
 #### Herbarium and types
 

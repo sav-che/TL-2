@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33355620) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33355620) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6545-1), [Wikidata](https://www.wikidata.org/wiki/Q21521625). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Møller, Birgitte Christina (1857-1934), Danish botanist. 
-**Abbreviated name**: *B. Møller*
+**Abbreviated name**: *B. Møller* \[standard form in IPNI: *B.Møller*\]
 
 #### Herbarium and types
 

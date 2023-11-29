@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33066362) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33066362) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11318-1), [Wikidata](https://www.wikidata.org/wiki/Q21611999). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wahlström, Johan Erik (1821-1892), Swedish botanist and high school teacher; studied in Uppsala 1842-1848; Dr. phil. 1848; teacher at Stockholm 1856-1888. 
-**Abbreviated name**: *Wahlström*
+**Abbreviated name**: *Wahlström* \[standard form in IPNI: *Wahlstr.*\]
 
 #### Herbarium and types
 

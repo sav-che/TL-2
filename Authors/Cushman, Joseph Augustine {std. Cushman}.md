@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33266199) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33266199) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/32848-1), [Wikidata](https://www.wikidata.org/wiki/Q1706544). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cushman, Joseph Augustine (1881-1949), American zoologist and botanist, born at Bridgewater, Mass., studied at Harvard University, Ph.D. Harvard 1909, with the United States Geological Survey as stratigraphic palaeontologist 1912-1921, museum director of Boston natural history Society 1913-1923, set up the Cushman Laboratory for Foraminifera Research at Sharon, Mass., director 1923-1949. 
-**Abbreviated name**: *Cushman*
+**Abbreviated name**: *Cushman* \[standard form in IPNI: *Cushman*\]
 
 #### Herbarium and types
 

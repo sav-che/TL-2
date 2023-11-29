@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33265411) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33265411) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/32463-1), [Wikidata](https://www.wikidata.org/wiki/Q21506193). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Blinks, Lawrence Rogers (1900-x), American (Indiana born) botanist (algologist, physiologist), at Kalamazoo College 1918-1919, at Stanford University 1919-1921, B.S. Harvard 1923, A.M. 1925, Ph.D. 1926, assistant at the physiology division of Rockefeller Institute 1926-1929, associate id. from 1929. 
-**Abbreviated name**: *L.R. Blinks*
+**Abbreviated name**: *L.R. Blinks* \[standard form in IPNI: *L.R.Blinks*\]
 
 #### Herbarium and types
 

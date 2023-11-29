@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33068275) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33068275) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3591-1), [Wikidata](https://www.wikidata.org/wiki/Q5004372). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Halsted, Byron David (1852-1918), American botanist and pioneer phytopathologist; graduate of Michigan Agricultural College; D.Sc. Harvard 1878; amateur baseball pitcher; at Iowa Agricultural College 1885-1889; one of the original members of the Advisory board for the North American Flora; professor of botany at Rutgers College and botanist at the New Jersey Agricultural Experiment Station 1889-1918. 
-**Abbreviated name**: *Halst.*
+**Abbreviated name**: *Halst.* \[standard form in IPNI: *Halst.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33333417) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33333417) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9201-1), [Wikidata](https://www.wikidata.org/wiki/Q21608227). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schnekker, Johannes Daniel (1794-?), German (Hanoverian) physician and botanist; Dr. med. Giessen 1777. 
-**Abbreviated name**: *Schnekker*
+**Abbreviated name**: *Schnekker* \[standard form in IPNI: *Schnekker*\]
 
 #### Herbarium and types
 

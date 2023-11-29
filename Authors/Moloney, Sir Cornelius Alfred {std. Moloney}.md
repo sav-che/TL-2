@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33355641) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33355641) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12688-1), [Wikidata](https://www.wikidata.org/wiki/Q1133716). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moloney, Sir Cornelius Alfred (1848-1913), British colonial administrator in W. Africa from 1867; governor of Lagos 1887-1891; in the West Indies 1891-1904. 
-**Abbreviated name**: *Moloney*
+**Abbreviated name**: *Moloney* \[standard form in IPNI: *Moloney*\]
 
 #### Herbarium and types
 

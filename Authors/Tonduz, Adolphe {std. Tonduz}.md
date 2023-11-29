@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33212433) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33212433) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10733-1), [Wikidata](https://www.wikidata.org/wiki/Q2504878). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tonduz, Adolphe (1862-1921), Swiss plant collector and botanist; studied at the Technical School at Lausanne 1876-1881, studied medicine at the University of Lausanne 1881-1885; with the Lausanne Botanical Institute 1885-1889; went to Costa Rica 1889 as collector at the Instituto fisico-geografica nacional founded by H. Pittier 1889-1903; employed at the Costa Rican Museo Nacional 1903-1920; from 1920-1921 pathologist at the Agricultural Service of Guatemala. 
-**Abbreviated name**: *Tonduz*
+**Abbreviated name**: *Tonduz* \[standard form in IPNI: *Tonduz*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33212411) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33212411) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10691-1), [Wikidata](https://www.wikidata.org/wiki/Q21610777). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tissière, Pierre Germain (1828-1868), Swiss roman-catholic priest and amateur botanist; at the Grand St. Bernard monastery 1843-1856 (ordained 1852); vicar of Vouvry 1857, at Sembrancher 1857-1868; driving force in the Société Murithienne. 
-**Abbreviated name**: *Tissière*
+**Abbreviated name**: *Tissière* \[standard form in IPNI: *Tissière*\]
 
 #### Herbarium and types
 

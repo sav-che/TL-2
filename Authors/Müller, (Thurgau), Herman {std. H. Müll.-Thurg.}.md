@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-01-13 14:47:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/page/33355715) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/page/33355715) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12698-1), [Wikidata](https://www.wikidata.org/wiki/Q120437). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Müller, (Thurgau), Herman (1850-1927), Swiss botanist; director of the plant-physiological experiment station of the Kgl. Anstalt für Obst- und Weinbau, Geisenheim; involved in the improvement and phytopathology of grape cultivars; from 1891 director of the Versuchsstation und Schule für Obst-, Wein- und Gartenbau at Wädenswyl nr Zürich. 
-**Abbreviated name**: *H. Müll.-Thurg.*
+**Abbreviated name**: *H. Müll.-Thurg.* \[standard form in IPNI: *Müll.-Thurg.*\]
 
 #### Herbarium and types
 

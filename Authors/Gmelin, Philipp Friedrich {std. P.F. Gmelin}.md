@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 957](https://www.biodiversitylibrary.org/page/33121088) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 957](https://www.biodiversitylibrary.org/page/33121088) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3205-1), [Wikidata](https://www.wikidata.org/wiki/Q98731). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gmelin, Philipp Friedrich (1721-1768), German botanist at Tübingen, brother of J. G. Gmelin, father of Johann Friedrich Gmelin. 
-**Abbreviated name**: *P. F. Gmelin*
+**Abbreviated name**: *P. F. Gmelin* \[standard form in IPNI: *P.F.Gmel.*\]
 
 #### Herbarium and types
 

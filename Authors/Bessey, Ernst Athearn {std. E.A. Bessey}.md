@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33265341) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33265341) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16060-1), [Wikidata](https://www.wikidata.org/wiki/Q5394922). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bessey, Ernst Athearn (1877-1957), American botanist, mainly mycologist, son of C.E. Bessey, educated at Lincoln, Nebraska, graduated from high school June 1892, studied at the University of Nebraska at Lincoln 1892-1904, A.B. 1896, B.Sc. 1897, M.A. 1898, studied at the University of Halle with G.A. Klebs 1902-1904, Ph.D. Halle 1904, part-time (later full-time) agricultural explorer for U.S.D.A in Russia, the Caucasus, Turkestan, and Algeria 1899-1902, at U.S.D.A Washington D.C. 1906-1908, professor of botany at Louisiana State University, Baton Rouge 1908-1910, from 1910-1946 at Michigan Agricultural College, East Lansing, professor of botany, visiting professor of botany University of Hawaii 1939-1940, professor emeritus East Lansing 1946-1957. 
-**Abbreviated name**: *E.A. Bessey*
+**Abbreviated name**: *E.A. Bessey* \[standard form in IPNI: *E.A.Bessey*\]
 
 #### Herbarium and types
 

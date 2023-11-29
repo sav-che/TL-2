@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33259188) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33259188) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/20043183-1), [Wikidata](https://www.wikidata.org/wiki/Q66659241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 De Crespigny, Eyre Champion (1821-1895), Swiss botanist, born at Vevey, Switzerland 5 Mai 1821, died at Beckenham, Kent 15 Feb 1895, M.D. at Heidelberg, in India 1845-1862, Conservator of Forests and Supt. Bot. Gard. Dapsorie, Poona 1859. 
-**Abbreviated name**: *De Crespigny*
+**Abbreviated name**: *De Crespigny* \[standard form in IPNI: *Cresp.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33355953) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33355953) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24434-1), [Wikidata](https://www.wikidata.org/wiki/Q4330678). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Overholts, Lee Oras (1890-1946), \# American mycologist; A.B. Miami Univ. 1912; Ph.D. St. Louis 1915; instructor in botany at Pennsylvania State College 1915-1917; professor of botany at id. 1917-1946. 
-**Abbreviated name**: *Overh.*
+**Abbreviated name**: *Overh.* \[standard form in IPNI: *Overh.*\]
 
 #### Herbarium and types
 

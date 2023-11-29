@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33266372) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33266372) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1121-1), [Wikidata](https://www.wikidata.org/wiki/Q21506465). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brenner, Wilhelm (fl. 1900-1910), Swiss (Basel born) botanist and highschool teacher at Basel, studied at the University of Basel, worked on his thesis at the Botanisches Institut der Universität Halle-Wittenberg 1898-1899. 
-**Abbreviated name**: *W. Brenner*
+**Abbreviated name**: *W. Brenner* \[standard form in IPNI: *W.Brenner*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33120871) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33120871) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2515-1), [Wikidata](https://www.wikidata.org/wiki/Q3565753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Elliot, Sir Walter (1803-1887), Scottish born Indian civil servant and botanist. 
-**Abbreviated name**: *W. Elliot*
+**Abbreviated name**: *W. Elliot* \[standard form in IPNI: *Elliot*\]
 
 #### Herbarium and types
 

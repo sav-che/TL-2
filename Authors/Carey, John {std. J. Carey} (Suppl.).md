@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33266719) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33266719) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1399-1), [Wikidata](https://www.wikidata.org/wiki/Q5933140). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Carey, John {std. J. Carey}|first entry]] for this author
 
 ### Author
 
 \* Carey, John (1797-1880), British tradesman and botanist, born at Camberwell, London, went to the United States 1830, settled at first at Towanda, Pa., at Bellow Falls, Vermont 1831-1836, at New York 1836-1852, made a botanical journey with Asa Gray to North Carolina 1841, returned to London (G.B.), died at Blackheath, London 1880. 
-**Abbreviated name**: *J. Carey*
+**Abbreviated name**: *J. Carey* \[standard form in IPNI: *J.Carey*\]
 
 #### Herbarium and types
 

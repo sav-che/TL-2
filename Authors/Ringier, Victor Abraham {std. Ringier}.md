@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 795](https://www.biodiversitylibrary.org/page/33190266) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 795](https://www.biodiversitylibrary.org/page/33190266) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8401-1), [Wikidata](https://www.wikidata.org/wiki/Q36698139). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ringier, Victor Abraham (*fl*. 1823), Swiss (Aargau) physician and botanist; Dr. med. Tübingen. 
-**Abbreviated name**: *Ringier*
+**Abbreviated name**: *Ringier* \[standard form in IPNI: *Ringier*\]
 
 #### Herbarium and types
 

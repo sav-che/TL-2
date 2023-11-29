@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-10-10 07:11:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33265496) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 299](https://www.biodiversitylibrary.org/page/33265496) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/12352-1), [Wikidata](https://www.wikidata.org/wiki/Q63764). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bolus, Harriet Margaret Louisa (née Kensit) {std. L. Bolus}|first entry]] for this author
 
 ### Author
 
 \* Bolus, \[Harriet Margaret\] Louisa (1877-1970), South-African botanist, née Kensit, niece of Harry Bolus, educated in Erica School, Port Elizabeth, took a teacher's course 1899, at South African College 1900-1902, B.A. honors degree in Arts 1902, herbarium assistant of the herbarium of Harry Bolus 1903-1911, curator id. 1911-1955, married Frank Bolus (son of Harry Bolus). 
-**Abbreviated name**: *L. Bolus*
+**Abbreviated name**: *L. Bolus* \[standard form in IPNI: *L.Bolus*\]
 
 #### Herbarium and types
 

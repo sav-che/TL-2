@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33333379) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33333379) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9149-1), [Wikidata](https://www.wikidata.org/wiki/Q20243184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidle, Wilhelm (1860-1951), German (Baden) algologist and geologist; studied at Freiburg i. Br. and Berlin 1879-1883; high school teacher at Mannheim; from 1902-1907 director of the Baden teachers college at Meersburg on the Bodensee; at Karlsruhe 1907-1908; director of the Zeppelin-Oberrealschule, Konstanz 1909-1924; at the Schloss-Schule, Salem 1924-1930; from 1931 in retirement at Freiburg i. Br.; Dr. h.c. Univ. Freiburg i.Br. 1920 
-**Abbreviated name**: *Schmidle*
+**Abbreviated name**: *Schmidle* \[standard form in IPNI: *Schmidle*\]
 
 #### Herbarium and types
 

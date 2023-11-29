@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33259167) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33259167) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2051-1), [Wikidata](https://www.wikidata.org/wiki/Q21510085). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dean, Richard (1830-1905), English botanist, born at Southampton, Hants., Victoria Medal of Honour 1897, Secretary National Floricultural Society, secretary National Chrysanthemum Society 1890. 
-**Abbreviated name**: *Dean*
+**Abbreviated name**: *Dean* \[standard form in IPNI: *Dean*\]
 
 #### Herbarium and types
 

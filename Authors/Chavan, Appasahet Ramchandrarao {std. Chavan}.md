@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33265746) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33265746) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17123-1), [Wikidata](https://www.wikidata.org/wiki/Q36500449). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chavan, Appasahet Ramchandrarao (fl. 1930-1970), Indian botanist, studied at Baroda College of the University of Bombay, B.Sc. ib. 1931, studied further at the University of Nebraska, Ph.D. 1937, later at the University of Baroda. 
-**Abbreviated name**: *Chavan*
+**Abbreviated name**: *Chavan* \[standard form in IPNI: *Chavan*\]
 
 #### Herbarium and types
 

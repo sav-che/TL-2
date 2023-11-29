@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33189747) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33189747) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7728-1), [Wikidata](https://www.wikidata.org/wiki/Q21523033). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Piscicelli, Maurizio (1871-?), Italian explorer of northeastern tropical Africa; with the Duchess of Aosta in Somalia 1911. 
-**Abbreviated name**: *Piscicelli*
+**Abbreviated name**: *Piscicelli* \[standard form in IPNI: *Pisc.*\]
 
 #### Herbarium and types
 

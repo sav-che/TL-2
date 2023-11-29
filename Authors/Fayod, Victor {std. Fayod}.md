@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33120947) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33120947) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18690-1), [Wikidata](https://www.wikidata.org/wiki/Q604169). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fayod, Victor {std. Fayod} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fayod, Victor (1860-1900), Swiss mycologist. 
-**Abbreviated name**: *Fayod*
+**Abbreviated name**: *Fayod* \[standard form in IPNI: *Fayod*\]
 
 #### Herbarium and types
 

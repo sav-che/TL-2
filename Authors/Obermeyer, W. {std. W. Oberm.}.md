@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33355887) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33355887) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7072-1), [Wikidata](https://www.wikidata.org/wiki/Q36703184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Obermeyer, W. (*fl*. 1908), German mycologist. 
-**Abbreviated name**: *W. Oberm.*
+**Abbreviated name**: *W. Oberm.* \[standard form in IPNI: *W.Oberm.*\]
 
 #### Herbarium and types
 

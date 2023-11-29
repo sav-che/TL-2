@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33069067) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33069067) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5440-1), [Wikidata](https://www.wikidata.org/wiki/Q57763). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leichhardt, Friedrich Wilhelm Ludwig (1813-1848), German botanist and explorer; from 1842 in Australia; lost on a mission in 1848. 
-**Abbreviated name**: *Leichh.*
+**Abbreviated name**: *Leichh.* \[standard form in IPNI: *Leichh.*\]
 
 #### Herbarium and types
 

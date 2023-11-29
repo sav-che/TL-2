@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33259130) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33259130) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/13643-1), [Wikidata](https://www.wikidata.org/wiki/Q1064058). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Daubeny, Charles Giles Bridle (1795-1867), British botanist born at Stratton, Glos., BA 1814 (Oxford), MA Oxford 1817, MD 1821, professor of chemistry, Oxford 1822-1855, from 1834 also professor of botany and professor of rural economy. 
-**Abbreviated name**: *Daubeny*
+**Abbreviated name**: *Daubeny* \[standard form in IPNI: *Daubeny*\]
 
 #### Herbarium and types
 

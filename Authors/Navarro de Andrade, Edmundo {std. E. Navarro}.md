@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33355785) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33355785) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/206-1), [Wikidata](https://www.wikidata.org/wiki/Q47123309). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Navarro de Andrade, Edmundo (1881-1941), Brazilian entomologist, botanist and forester at São Paulo. 
-**Abbreviated name**: *E. Navarro*
+**Abbreviated name**: *E. Navarro* \[standard form in IPNI: *Navarro*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33121005) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33121005) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2895-1), [Wikidata](https://www.wikidata.org/wiki/Q169011). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Frémont, John Charles (1813-1890), United States explorer, "Pathmarker of the West," "from the ashes of his campfires have sprung cities." 
-**Abbreviated name**: *Frém.*
+**Abbreviated name**: *Frém.* \[standard form in IPNI: *Frém.*\]
 
 #### Herbarium and types
 
@@ -75,7 +74,7 @@ Jackson and Spence, The expeditions of John Charles Frémont, Urbana, Ill. 1970,
 ##### n.1852. Report of the exploring expedition to the Rocky Mountains in theyear 1842
 
 **Title**
-*Report of the exploring expedition to the Rocky Mountains in theyear 1842*, and to Oregon and North California in the year 1843-44. Printed by order of the Senate of the United States. Washington (Gales and Seaton) 1845. Oct. \[U.S. Public Document 166; 28th Congress, 2d. Sess.; Senate no. 174\]
+*Report of the exploring expedition to the Rocky Mountains in the year 1842*, and to Oregon and North California in the year 1843-44. Printed by order of the Senate of the United States. Washington (Gales and Seaton) 1845. Oct. \[U.S. Public Document 166; 28th Congress, 2d. Sess.; Senate no. 174\]
 **Abbreviated title**: *Rep. exped. Rocky Mts.*
 
 **Notes**

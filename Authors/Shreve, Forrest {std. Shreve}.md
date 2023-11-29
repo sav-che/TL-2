@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33333710) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33333710) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12270-1), [Wikidata](https://www.wikidata.org/wiki/Q2051280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shreve, Forrest (1878-1950), American botanist and ecologist; AB Johns Hopkins Univ. 1901; Dr. phil. ib. 1905; instructor bot. Cold Spring Harbor 1904-1905; at the Cinchona, Jamaica Botanical station 1905-1906; associate professor of botany at Goucher College, Maryland, 1906-1908; with the Tucson, Arizona Desert Laboratory of the Carnegie Institution of Washington 1909-1947; in charge of the desert investigations of the Carnegie Institution 1928-1932; from 1932 head of the Tucson laboratory and working especially on the floristics of the Sonoran desert. 
-**Abbreviated name**: *Shreve*
+**Abbreviated name**: *Shreve* \[standard form in IPNI: *Shreve*\]
 
 #### Herbarium and types
 

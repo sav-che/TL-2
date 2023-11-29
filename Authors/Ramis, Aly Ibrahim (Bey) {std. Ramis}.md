@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33190042) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33190042) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8125-1), [Wikidata](https://www.wikidata.org/wiki/Q21606936). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ramis, Aly Ibrahim (Bey) (1875-1928), Egyptian physician and botanist; Dr. med. München 1901; physician in Cairo 1903-1928; professor of surgery Cairo University. 
-**Abbreviated name**: *Ramis*
+**Abbreviated name**: *Ramis* \[standard form in IPNI: *Ramis*\]
 
 #### Herbarium and types
 

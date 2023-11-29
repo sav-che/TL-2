@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33069019) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33069019) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5370-1), [Wikidata](https://www.wikidata.org/wiki/Q18912680). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leavenworth, Melines Conklin (1796-1862), United States explorer; studied medicine at Yale (grad. 1817); practiced at Cahawba (Alabama) and Augusta (Georgia); subsequently army surgeon and explorer until 1842; physician at Waterbury (Conn.) 1842-1861; ultimately again army surgeon; sent plants to Torrey. 
-**Abbreviated name**: *Leavenw.*
+**Abbreviated name**: *Leavenw.* \[standard form in IPNI: *Leavenw.*\]
 
 #### Herbarium and types
 

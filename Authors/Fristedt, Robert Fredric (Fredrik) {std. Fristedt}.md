@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 891](https://www.biodiversitylibrary.org/page/33121022) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 891](https://www.biodiversitylibrary.org/page/33121022) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2922-1), [Wikidata](https://www.wikidata.org/wiki/Q5745158). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fristedt, Robert Fredric (Frederic, Fredrik) {std. Fristedt} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fristedt, Robert Fredric \[Fredrik\] (1832-1893), Swedish pharmacologist and botanist at Uppsala. 
-**Abbreviated name**: *Fristedt*
+**Abbreviated name**: *Fristedt* \[standard form in IPNI: *Fristedt*\]
 
 #### Herbarium and types
 

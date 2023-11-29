@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2019-02-20 10:23:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33259781) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33259781) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/13647-1), [Wikidata](https://www.wikidata.org/wiki/Q124877). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Flückiger \[Flueckiger\], Friedrich August (1828-1894), Swiss pharmacist and pharmacologist, born 15 Mai 1828 in Langenthal (Kt. Bern), attended primary school in Langenthal and Gymnasium in Burgdorf (Kt. Bern), went to Berlin 1845 to study chemistry and pharmacy, worked in a pharmacy in Kt. Solothurn 1847-1849, studied botany in Geneva 1849-1850 and went to Strasbourg 1850, and then to Heidelberg 1851-1852 where he studied chemistry, Dr. Sci. Chem. 1852, in Paris 1852-53, habilitated 1861 Bern, purchased a pharmacy in Burgdorf, docent in pharmacognosy, Bern 1861, extraord. prof. of pharmacy 1870, returned to Strassburg (then part of Germany) as prof. 1873 and stayed until 1892, removed to Bern where he died 11 Dec 1894. 
-**Abbreviated name**: *Flück.*
+**Abbreviated name**: *Flück.* \[standard form in IPNI: *Flück.*\]
 
 #### Herbarium and types
 

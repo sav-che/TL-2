@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33066635) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33066635) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11686-1), [Wikidata](https://www.wikidata.org/wiki/Q21612703). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilhelm, Rudolph (1857-?), German (West-Prussian) architect and botanist; studied at Berlin, München and Königsberg; Dr. phil. Königsberg 1885. 
-**Abbreviated name**: *R. With.*
+**Abbreviated name**: *R. With.* \[standard form in IPNI: *R.Wilh.*\]
 
 #### Herbarium and types
 

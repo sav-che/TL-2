@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33259825) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33259825) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2830-1), [Wikidata](https://www.wikidata.org/wiki/Q5737064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Forselles, Jacob \[Jakob\] Henrik \[Henric, Hendrik\] af (1785-1855), Finnish-born Swedish geologist and mining engineer, born 27 Dec 1785 in Ruotsinphytää (Strömsfors), matriculated 1801, Court of Appeal (law) degree 1806 and mining degree 1812, all Uppsala Univ., worked in the Sala (Västmanland) silver mines from 1817, died 13 Jun 1855 in Stockholm. 
-**Abbreviated name**: *Forselles*
+**Abbreviated name**: *Forselles* \[standard form in IPNI: *Forselles*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33355749) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33355749) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6787-1), [Wikidata](https://www.wikidata.org/wiki/Q4280785). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Munz, Philip Alexander (1892-1974), American botanist in Southern California, longtime director of the Santa Ana Botanic Garden; Dr. phil. Cornell 1917; professor of botany at Pomona College 1917-1944; id. Cornell University 1944-1946; botanist and director of the Rancho Santa Ana Botanic Garden from 1946 
-**Abbreviated name**: *Munz*
+**Abbreviated name**: *Munz* \[standard form in IPNI: *Munz*\]
 
 #### Herbarium and types
 

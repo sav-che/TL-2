@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33069002) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33069002) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5293-1), [Wikidata](https://www.wikidata.org/wiki/Q3184852). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Larreategui, Joseph \[José\] Dionisio (*fl. 1795*), Mexican botanist. 
-**Abbreviated name**: *Larreat.*
+**Abbreviated name**: *Larreat.* \[standard form in IPNI: *Larreat.*\]
 
 #### Herbarium and types
 

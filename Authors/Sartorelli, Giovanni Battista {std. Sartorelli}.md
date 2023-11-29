@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33333158) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33333158) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8925-1), [Wikidata](https://www.wikidata.org/wiki/Q5558358). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sartorelli, Giovanni Battista (1780-1853), Italian (Trentino) botanist; forestry inspector in Lecco and Bergamo. 
-**Abbreviated name**: *Sartorelli*
+**Abbreviated name**: *Sartorelli* \[standard form in IPNI: *Sart.*\]
 
 #### Herbarium and types
 

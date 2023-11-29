@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33189637) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33189637) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7520-1), [Wikidata](https://www.wikidata.org/wiki/Q3892474). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Perkins, Janet Russell (1853-1933), American botanist; studied at the Univ. of Wisconsin 1867-1871; private teacher in Hildesheim and studying music and languages at Paris 1871-1874; from 1875-1895 private teacher at Chicago and (for three years) travelling in Europe California, Açores and Hawaii; to Berlin, studying botany e.g. with Engler, Gilg, and Kny 1895-1898; at Heidelberg 1898; again at Berlin as voluntary associate of Engler from 1898; Dr. phil. Heidelberg 1900. 
-**Abbreviated name**: *Perkins*
+**Abbreviated name**: *Perkins* \[standard form in IPNI: *Perkins*\]
 
 #### Herbarium and types
 

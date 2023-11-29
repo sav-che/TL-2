@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33355595) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33355595) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6508-1), [Wikidata](https://www.wikidata.org/wiki/Q9011987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Minuart, Juan (1693-1768), Spanish botanist and pharmacist; born in Barcelona; later in Madrid. 
-**Abbreviated name**: *Minuart*
+**Abbreviated name**: *Minuart* \[standard form in IPNI: *Minuart*\]
 
 #### Herbarium and types
 

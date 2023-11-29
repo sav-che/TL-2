@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33120623) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33120623) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/34741-1), [Wikidata](https://www.wikidata.org/wiki/Q1694368). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cherler, Johann Heinrich (1570-1610), Swiss physician and botanist, son-in-law of Johann Bauhin. 
-**Abbreviated name**: *Cherler*
+**Abbreviated name**: *Cherler* \[standard form in IPNI: *Cherler*\]
 
 #### Herbarium and types
 

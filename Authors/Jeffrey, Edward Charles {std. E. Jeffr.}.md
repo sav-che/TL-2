@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33068675) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33068675) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4455-1), [Wikidata](https://www.wikidata.org/wiki/Q5321777). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jeffrey, Edward Charles (1866-1952), Canadian botanist; Ph. D. Harvard 1898; at Toronto (1898-1902); from 1902 plant morphologist at Harvard; professor of plant morphology 1907-1933. 
-**Abbreviated name**: *E. Jeffr.*
+**Abbreviated name**: *E. Jeffr.* \[standard form in IPNI: *E.Jeffrey*\]
 
 #### Herbarium and types
 

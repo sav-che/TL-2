@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33189696) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33189696) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7622-1), [Wikidata](https://www.wikidata.org/wiki/Q96749). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pfeil, Friedrich Wilhelm Leopold (1783-1859), German (Prussian) forestry botanist; in active service during the Napoleonic wars 1813-1815; administrator of the property of the princess of Carolath in Silezia 1815; director of the Berlin Forestry College 1821; founder and director of the forestry school of Neustadt-Eberswalde, 1830-1859. 
-**Abbreviated name**: *Pfeil*
+**Abbreviated name**: *Pfeil* \[standard form in IPNI: *Pfeil*\]
 
 #### Herbarium and types
 

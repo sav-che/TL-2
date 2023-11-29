@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33258539) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33258539) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2931-1), [Wikidata](https://www.wikidata.org/wiki/Q5663847). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Froehner, Albrecht (fl. 1896-1898), German botanist, born in Dresden, studied *Coffea* under A. Engler at the Berlin Botanical Museum, Dr. thesis at Rostock. 
-**Abbreviated name**: *A. Froehner*
+**Abbreviated name**: *A. Froehner* \[standard form in IPNI: *A.Froehner*\]
 
 #### Herbarium and types
 

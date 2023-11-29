@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-01-03 02:30:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33265781) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33265781) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1600-1), [Wikidata](https://www.wikidata.org/wiki/Q2348823). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Chiovenda, Emilio {std. Chiov.}|first entry]] for this author
 
 ### Author
 
 \* Chiovenda, Emilio (1871-1941), Italian botanist, born in Rome 18 Mai 1871, studied with the Padres Rosminiani di Stresa e Domodossola, "laurea" natural science at R. Università Roma 1896, assistant curator at the Botanical Institute in Rome from 1897, Aiuto-Conservatore at the Museo Coloniale di Roma 1904, curator of the Rome herbarium and the beginning of the Italian colonial herbarium from 1905, docent at the University of Rome 1909, at the colonial herbarium at Firenze 1915, collected in Eritrea and Abyssinia (Ethiopia), professor of botany at the University of Catania 1916-1929, id. at Modena 1929-1935, ultimately at the University of Bologna 1935-1941, died 19 Feb 1941. 
-**Abbreviated name**: *Chiov.*
+**Abbreviated name**: *Chiov.* \[standard form in IPNI: *Chiov.*\]
 
 #### Herbarium and types
 

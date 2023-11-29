@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33260079) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33260079) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18196-1), [Wikidata](https://www.wikidata.org/wiki/Q6215799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Drège, Jean François (Johann Franz) {std. Drège}|first entry]] for this author
 
 ### Author
 
 \* Drège, Jean François (Johann Franz) (1794-1881), German botanist, born 25 Mar 1794 in Altona near Hamburg, received a horticultural training in Göttingen, was employed in several botanic gardens such as Munich, Riga, Berlin, and St. Petersburg, went to South Africa 1826 where he collected plants with his brother for many years, returned to Germany, died in Altona 3 Feb 1881. 
-**Abbreviated name**: *Drège*
+**Abbreviated name**: *Drège* \[standard form in IPNI: *Drège*\]
 
 #### Herbarium and types
 

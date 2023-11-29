@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33068256) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33068256) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3555-1), [Wikidata](https://www.wikidata.org/wiki/Q16027643). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hahn, Gotthold (*fl*. 1875-1911), German cryptogamist at Gera. 
-**Abbreviated name**: *G. Hahn*
+**Abbreviated name**: *G. Hahn* \[standard form in IPNI: *G.Hahn*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33333257) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33333257) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9019-1), [Wikidata](https://www.wikidata.org/wiki/Q21607870). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schatz, \[Jakob\] Wilhelm (1802-1867), German (Prussian/Brandenburg) botanist; Dr. phil. Halle 1824; high school teacher at Magdeburg 1824-1834; at Halberstadt 1834-1867. 
-**Abbreviated name**: *W. Schatz*
+**Abbreviated name**: *W. Schatz* \[standard form in IPNI: *Schatz*\]
 
 #### Herbarium and types
 

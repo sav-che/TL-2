@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33190252) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33190252) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8374-1), [Wikidata](https://www.wikidata.org/wiki/Q74045). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ricken, Adalbert (1851-1921), German (Hesse-Nassau, Prussia) clergyman (roman catholic priest); ord. 1873 Fulda; chaplain and parish priest in various locations in the Fulda diocese (1873-1875 Dernbach, 1875-1885 Weimar, 1885-1887 Fritzlar, 1887-1907 Aufenau, from 1907-1921 at Lahrbach; self-taught mycologist; Dr. phil. h.c. Univ. Würzburg. 
-**Abbreviated name**: *Ricken*
+**Abbreviated name**: *Ricken* \[standard form in IPNI: *Ricken*\]
 
 #### Herbarium and types
 

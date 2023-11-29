@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33068821) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33068821) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4877-1), [Wikidata](https://www.wikidata.org/wiki/Q5820005). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Knoche, \[Edward Louis\] Herman (1870-1945), American botanist of German descent at Stanford; studied at Stanford 1895-1899; with Charles Flahault at Montpellier 1904-1917, in the United States and travelling until 1945. 
-**Abbreviated name**: *Knoche*
+**Abbreviated name**: *Knoche* \[standard form in IPNI: *Knoche*\]
 
 #### Herbarium and types
 

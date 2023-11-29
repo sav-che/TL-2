@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33068382) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33068382) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3793-1), [Wikidata](https://www.wikidata.org/wiki/Q21515660). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Heineck, Otto (1860-?), German botanist; Dr. phil. Giessen 1890. 
-**Abbreviated name**: *Heineck*
+**Abbreviated name**: *Heineck* \[standard form in IPNI: *Heineck*\]
 
 #### Herbarium and types
 

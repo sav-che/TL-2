@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1059](https://www.biodiversitylibrary.org/page/33190530) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1059](https://www.biodiversitylibrary.org/page/33190530) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8815-1), [Wikidata](https://www.wikidata.org/wiki/Q2688170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sahni, Birbal (1891-1949), Indian palaeobotanist; MA Cantab. 1918; D.Sc. Univ. London 1929; at Emmanuel College Cambridge 1911-1914; with A.C. Seward at the Botany School ib. 1914-1919; professor of botany at Lucknow University 1921-1949; D.Sc. Cambr. 1929; FRS 1936. 
-**Abbreviated name**: *Sahni*
+**Abbreviated name**: *Sahni* \[standard form in IPNI: *Sahni*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33120703) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 572](https://www.biodiversitylibrary.org/page/33120703) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17581-1), [Wikidata](https://www.wikidata.org/wiki/Q3017793). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cunningham, David Douglas {std. D.D. Cunn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Cunningham, David Douglas (1843-1914), British pathologist and physician in the Indian medical service. 
-**Abbreviated name**: *D. D. Cunn.*
+**Abbreviated name**: *D. D. Cunn.* \[standard form in IPNI: *D.D.Cunn.*\]
 
 #### Herbarium and types
 

@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33120541) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33120541) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1295-1), [Wikidata](https://www.wikidata.org/wiki/Q723391). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bureau, Louis Édouard {std. Bureau} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bureau, Louis Édouar'd (1830-1918), French botanist, professor of taxonomic botany at the Paris Muséum d'Histoire naturelle 1874-1907. 
-**Abbreviated name**: *Bureau*
+**Abbreviated name**: *Bureau* \[standard form in IPNI: *Bureau*\]
 
 #### Herbarium and types
 

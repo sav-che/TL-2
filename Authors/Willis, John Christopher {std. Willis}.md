@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33066671) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33066671) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11719-1), [Wikidata](https://www.wikidata.org/wiki/Q2916692). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Willis, John Christopher (1868-1958), British botanist; studied at University College, Liverpool and at Gonville and Caius College (M.A.), Cambridge; Frank Smart Student for Botanical Research 1890-1893; senior asistant in botany and lecturer in botany at Queen Margaret's College, Glasgow University 1894-1896; director Royal Botanical Gardens, Ceylon 1896-1911; director Botanic Garden, Rio de Janeiro 1912-1915; in retirement working at Cambridge and, later, at Montreux, Switzerland. 
-**Abbreviated name**: *Willis*
+**Abbreviated name**: *Willis* \[standard form in IPNI: *Willis*\]
 
 #### Herbarium and types
 

@@ -21,14 +21,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33266770) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33266770) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/20017940-2), [Wikidata](https://www.wikidata.org/wiki/Q21068951). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Catlow, Agnes (1807\[?\]-1889), British botanist and entomologist, died Addlestone, Surrey 10 Mai 1889. 
-**Abbreviated name**: *Catlow*
+**Abbreviated name**: *Catlow* \[standard form in IPNI: *Catlow*\]
 
 #### Herbarium and types
 

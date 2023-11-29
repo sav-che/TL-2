@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33260203) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33260203) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/20031140-1), [Wikidata](https://www.wikidata.org/wiki/Q47116743). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Duval, Léon (1844-1907), French nurseryman living at Versailles near Paris, vice-president of the French National Horticultural Society, the Horticultural Society of Seine-et-Oise, and the French Chrysanthemum Society. 
-**Abbreviated name**: *L. Duval*
+**Abbreviated name**: *L. Duval* \[standard form in IPNI: *L.Duval*\]
 
 #### Herbarium and types
 

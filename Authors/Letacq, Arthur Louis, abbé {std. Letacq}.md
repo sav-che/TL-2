@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33069099) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33069099) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5515-1), [Wikidata](https://www.wikidata.org/wiki/Q21518712). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Letacq, Arthur Louis, abbé (1855-1923), French clergyman and botanist; ordained 7 Jun 1879; vicar at Ecouché; parish priest at Saint-Germaine-d'Aunai (1883), of Ticheville (1885); from 1890 almoner at the "Asile des Soeurs des pauvres" at Alençon. 
-**Abbreviated name**: *Letacq*
+**Abbreviated name**: *Letacq* \[standard form in IPNI: *Letacq*\]
 
 #### Herbarium and types
 

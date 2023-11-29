@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33334006) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33334006) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/2159-1), [Wikidata](https://www.wikidata.org/wiki/Q3659256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stefani, Carlo de \[De Stefani\] (1851-1924), Italian lawyer, economist and geologist; practicing lawyer Firenze 1872-1876; professor of economics Siena 1876, later director of the Geological Institute at Firenze. 
-**Abbreviated name**: *Stef.*
+**Abbreviated name**: *Stef.* \[standard form in IPNI: *Stefani*\]
 
 #### Herbarium and types
 

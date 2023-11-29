@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33355524) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33355524) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6405-1), [Wikidata](https://www.wikidata.org/wiki/Q2600470). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mexia, Ynes Enriquetta Julietta (1870-1938), American botanical explorer (of Mexican descent) of Alaska and Latin America. 
-**Abbreviated name**: *Mexia*
+**Abbreviated name**: *Mexia* \[standard form in IPNI: *Mexia*\]
 
 #### Herbarium and types
 

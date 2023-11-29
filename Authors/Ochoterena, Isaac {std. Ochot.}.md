@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33355889) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33355889) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7079-1), [Wikidata](https://www.wikidata.org/wiki/Q6449372). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ochoterena, Isaac (1885-1950), Mexican botanist, director of the botanical section of the Directión Estud. Biol. Mex. from 1915. 
-**Abbreviated name**: *Ochot.*
+**Abbreviated name**: *Ochot.* \[standard form in IPNI: *Ochot.*\]
 
 #### Herbarium and types
 

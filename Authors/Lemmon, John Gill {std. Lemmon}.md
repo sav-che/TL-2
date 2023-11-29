@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33069082) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33069082) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5465-1), [Wikidata](https://www.wikidata.org/wiki/Q5933270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lemmon, John Gill (1832-1908), American botanist and plant collector; born in Michigan; involved in the civil war; from 1866 in California, first in Sierra Valley, later at Oakland; on Calif. State Board of Forestry 1888-1892; married to Sara Allen Plummer (1836-1929), who accompanied him on many of his collecting trips. 
-**Abbreviated name**: *Lemmon*
+**Abbreviated name**: *Lemmon* \[standard form in IPNI: *Lemmon*\]
 
 #### Herbarium and types
 

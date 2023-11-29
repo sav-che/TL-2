@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33120595) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33120595) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16962-1), [Wikidata](https://www.wikidata.org/wiki/Q65869). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Caspary, (Johann Xaver) Robert {std. Casp.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Caspary, Johann Xaver Robert (1818-1887), German botanist, hydrobiologist, nenupharologist and paleontologist at Berlin (1852-1857), Bonn (1857-1859) and Königsberg (1859-1887), versatile scientist. 
-**Abbreviated name**: *Casp.*
+**Abbreviated name**: *Casp.* \[standard form in IPNI: *Casp.*\]
 
 #### Herbarium and types
 

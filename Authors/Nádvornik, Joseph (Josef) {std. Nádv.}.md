@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33355768) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33355768) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6832-1), [Wikidata](https://www.wikidata.org/wiki/Q21339575). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nádvornik, Joseph (Josef) (1906-1977), Czechoslovak lichenologist and high school teacher (from 1925-1966) at Uzhgorod, Hlinsko and Praha. 
-**Abbreviated name**: *Nádv.*
+**Abbreviated name**: *Nádv.* \[standard form in IPNI: *Nádv.*\]
 
 #### Herbarium and types
 

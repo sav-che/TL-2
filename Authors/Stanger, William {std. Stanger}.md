@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/page/33333977) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/page/33333977) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10023-1), [Wikidata](https://www.wikidata.org/wiki/Q8018715). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stanger, William (1811-1854), British physician, geologist and surveyor; M.D. Edinburgh; practicing physician in London; on the Niger Expedition of H. Trotter 1841; in South Africa 1843-1854; surveyor general in Natal from 1845-1854. 
-**Abbreviated name**: *Stanger*
+**Abbreviated name**: *Stanger* \[standard form in IPNI: *Stanger*\]
 
 #### Herbarium and types
 

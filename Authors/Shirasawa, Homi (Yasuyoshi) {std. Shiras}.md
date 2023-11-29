@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33333705) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33333705) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9583-1), [Wikidata](https://www.wikidata.org/wiki/Q2279316). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shirasawa, Homi \[Yasuyoshi\] (1868-1947), Japanese dendrologist; inspector of forests at the Ministry of agriculture and commerce; director of the Forestry Experiment Station 1913-1932. 
-**Abbreviated name**: *Shiras*
+**Abbreviated name**: *Shiras* \[standard form in IPNI: *Shiras.*\]
 
 #### Herbarium and types
 

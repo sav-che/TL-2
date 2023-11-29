@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33264855) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33264855) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/227-1), [Wikidata](https://www.wikidata.org/wiki/Q1280756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ångström, Johan {std. Ångstr.}|first entry]] for this author
 
 ### Author
 
 \* Ångström, Johan (1813-1879), Swedish physician and bryologist, studied at Uppsala 1835, Dr. med. ib. 1852, kir. mag. (surgeon) 1853; provincial physician at Lycksele 1853, from 1868 id. at Örnsköldsvik, collected widely in Sweden and Norway; id. in Lappland 1862, 1863, 1874, id. in Finland and Karelia (Russia). 
-**Abbreviated name**: *Ångstr.*
+**Abbreviated name**: *Ångstr.* \[standard form in IPNI: *Ångstr.*\]
 
 #### Herbarium and types
 

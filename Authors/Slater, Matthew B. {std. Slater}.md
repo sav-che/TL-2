@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33333782) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33333782) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9732-1), [Wikidata](https://www.wikidata.org/wiki/Q21609025). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Slater, Matthew B. (c. 1829-1918), British bryologist at Malton; friend of Richard Spruce. 
-**Abbreviated name**: *Slater*
+**Abbreviated name**: *Slater* \[standard form in IPNI: *M.Slater*\]
 
 #### Herbarium and types
 

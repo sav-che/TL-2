@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/page/33069066) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/page/33069066) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/22208-1), [Wikidata](https://www.wikidata.org/wiki/Q4257389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leiberg, John Bernhard (1853-1913), Swedish-born botanist; moved to America after 1868; settled near Lake Coeur d'Alene, Idaho 1888; collector and explorer for the U.S. Department of Agriculture (1895-1896), for the U.S. Geological Survey (1897-1903); forestry inspector in the Phillippines 1904-1905, 1905-1906 id. in Western U.S.; made a trip around the world in 1909. 
-**Abbreviated name**: *Leiberg*
+**Abbreviated name**: *Leiberg* \[standard form in IPNI: *Leiberg*\]
 
 #### Herbarium and types
 

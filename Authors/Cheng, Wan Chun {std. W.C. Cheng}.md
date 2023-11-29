@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33265758) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33265758) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1576-1), [Wikidata](https://www.wikidata.org/wiki/Q715438). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cheng, Wan Chun (1903-1983), Chinese botanist from Sechuan (Szechuan). 
-**Abbreviated name**: *W.C. Cheng*
+**Abbreviated name**: *W.C. Cheng* \[standard form in IPNI: *W.C.Cheng*\]
 
 #### Herbarium and types
 

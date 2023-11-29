@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33333590) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33333590) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9379-1), [Wikidata](https://www.wikidata.org/wiki/Q21608554). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwilgué, Charles Joseph Antoine (1774-1808), French botanist and physician; studied medicine at Strasbourg and Paris; Dr. med. Paris 1801; professor of materia medica at the "École de médecine", Paris. 
-**Abbreviated name**: *Schwilgué*
+**Abbreviated name**: *Schwilgué* \[standard form in IPNI: *Schwilgué*\]
 
 #### Herbarium and types
 

@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33068294) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33068294) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3654-1), [Wikidata](https://www.wikidata.org/wiki/Q2543258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hardwicke, Thomas (1757-1833), British zoologist and botanist; soldier in the Bengal Artillery (1778); major-general in the Indian army (retired 1823); collected in India, Mauritius, South Africa and St. Helena. 
-**Abbreviated name**: *Hardw.*
+**Abbreviated name**: *Hardw.* \[standard form in IPNI: *Hardw.*\]
 
 #### Herbarium and types
 

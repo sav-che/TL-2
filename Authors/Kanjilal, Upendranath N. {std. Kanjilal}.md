@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33068738) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33068738) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4638-1), [Wikidata](https://www.wikidata.org/wiki/Q21517270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kanjilal, Upendranath N. (1859-1928), Indian botanist; extra deputy conservator of forests, Assam, lecturer at Dehra Dun. 
-**Abbreviated name**: *Kanjilal*
+**Abbreviated name**: *Kanjilal* \[standard form in IPNI: *Kanjilal*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33212790) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33212790) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11208-1), [Wikidata](https://www.wikidata.org/wiki/Q2596187). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vines, Sydney Howard (1849-1934), British botanist; B.Sc. London 1873; BA Cambridge 1875; D.Sc. London 1879; fellow and lecturer Christ's College Cambridge 1876-1888; worked with J. Sachs, Würzburg 1877; reader in botany Univ. Cambridge 1883-1888; Sherardian professor of botany, Oxford and fellow of Magdalen College 1888-1919; president Linnean Society 1900-1904. 
-**Abbreviated name**: *Vines*
+**Abbreviated name**: *Vines* \[standard form in IPNI: *Vines*\]
 
 #### Herbarium and types
 

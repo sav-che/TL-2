@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-03-04 10:06:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33258630) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33258630) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/29265-1), [Wikidata](https://www.wikidata.org/wiki/Q21513831). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gauthier-Lièvre, (Mme.) Lucienne Emilienne (née Lièvre) (1897-1992), French freshwater phycologist, born 22 Sep 1897, asst. in Botany, Univ. of Algeria from 1917, Dr. ès-sciences 1931 Paris, married the zoologist Henri Charles Gauthier (1896-1950). 
-**Abbreviated name**: *Gauthier-Lièvre*
+**Abbreviated name**: *Gauthier-Lièvre* \[standard form in IPNI: *Gauth.-Lièvre*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33258848) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33258848) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19608-1), [Wikidata](https://www.wikidata.org/wiki/Q1028147). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Greguss, Pál \[Paul\] (1889-1984), Hungarian paleobotanist and wood anatomist, born 31 Dec 1889 in Tornya, studied in Budapest and Prague, Dr. phil., Hochschulprofessor, Szeged, died 23 Mar 1984 in Szeged. 
-**Abbreviated name**: *Greguss*
+**Abbreviated name**: *Greguss* \[standard form in IPNI: *Greguss*\]
 
 #### Note
 

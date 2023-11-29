@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-04-02 09:17:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33258499) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33258499) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/12505-1), [Wikidata](https://www.wikidata.org/wiki/Q5892219). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fröderström, Harald August (1876-1944), Swedish physician (psychiatrist) and botanist, born 11 Mai 1876 in Goteborg, med. kand. 1901 Lund, med. lic. 1907 Stockholm and med. dr. 1913 Uppsala. 
-**Abbreviated name**: *Fröd.*
+**Abbreviated name**: *Fröd.* \[standard form in IPNI: *Fröd.*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-09-20 07:36:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/page/33265285) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 88](https://www.biodiversitylibrary.org/page/33265285) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/680-1), [Wikidata](https://www.wikidata.org/wiki/Q61805). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Berger, Alwin {std. A. Berger}|first entry]] for this author
 
 ### Author
 
 \* Berger, Alwin (1871-1931), German (Möschlitz, Thüringen-born) botanist, gardener at the castle of Ebersdorf, later in the Botanical Gardens at Dresden, Pallanza (Italy), Greifswald, Freiburg and in the Palmengarten in Frankfurt; from 1897-1914 curator of Thomas Hanbury's garden at La Mortola, Italy; in charge of the gardens of the King of Württemberg, lived in Stuttgart 1916-1919; at the experiment station at Geneva, New York 1923-1926, head of the botany department of the Stuttgart natural history museum 1926-1931; specialist in Cactaceae and other succulents. 
-**Abbreviated name**: *A. Berger*
+**Abbreviated name**: *A. Berger* \[standard form in IPNI: *A.Berger*\]
 
 #### Herbarium and types
 

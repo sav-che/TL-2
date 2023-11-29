@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33333526) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33333526) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9309-1), [Wikidata](https://www.wikidata.org/wiki/Q21608486). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schulz, Hermann (1882-1970), German botanist and teacher; at the Seminar für Lehrerbildung, Homberg, 1900-1903; teacher at Meckbach 1903-1907; in various educational functions in Kassel 1907-1927; director of the botanical garden, ib., 1927; administrator of the Waldschule Kassel-Wilhelmshöhe 1927-1935; in charge of the botanical collections of the Kassel Naturkundemuseum 1929; evacuated to Witzenhausen 1943-1945; in charge of the Naturkundemuseum Kassel 1951-1966. 
-**Abbreviated name**: *H. Schulz*
+**Abbreviated name**: *H. Schulz* \[standard form in IPNI: *H.Schulz*\]
 
 #### Herbarium and types
 

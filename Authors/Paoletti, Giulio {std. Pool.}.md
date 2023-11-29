@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33189483) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33189483) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7316-1), [Wikidata](https://www.wikidata.org/wiki/Q5488487). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Paoletti, Giulio (1865-1941), Italian botanist; 1890-1897 assistant at the Padova botanical garden; professor of natural history at the technical college of Melfi 1897. 
-**Abbreviated name**: *Pool.*
+**Abbreviated name**: *Pool.* \[standard form in IPNI: *Paol.*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33265734) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33265734) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/12377-1), [Wikidata](https://www.wikidata.org/wiki/Q3822242). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Chase, Mary Agnes (née Merrill) {std. Chase}|first entry]] for this author
 
 ### Author
 
 \* Chase, Mary Agnes (née Merrill) (1869-1963), American botanist (agrostologist), born in Iroquois County, Ill., educated in public and private Schools in Chicago, studied at the Lewis Institute and the University of Chicago, married 1888 William Ingraham Chase who died 1889, assistant in botany at the Field Museum of Natural History 1901-1903, botanical illustrator at U.S.D.A. 1903-1906, scientific assistant in systematic agrostology at U.S.D.A. 1907-1923, assistant botanist 1923-1925, associate botanist 1925, senior botanist in charge of all systematic agrostology 1936-1939, research associate Div. Plants U.S. Natl. Museum 1939-1963. 
-**Abbreviated name**: *Chase*
+**Abbreviated name**: *Chase* \[standard form in IPNI: *Chase*\]
 
 #### Herbarium and types
 

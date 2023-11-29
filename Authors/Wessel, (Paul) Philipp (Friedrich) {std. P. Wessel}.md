@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33066541) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33066541) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13003-1), [Wikidata](https://www.wikidata.org/wiki/Q21612494). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wessel, \[Paul\] Philipp \[Friedrich\] (1826-1855), German (Westprussian) geographer at Bonn; Dr. phil. Bonn 1851. 
-**Abbreviated name**: *P. Wessel*
+**Abbreviated name**: *P. Wessel* \[standard form in IPNI: *P.Wessel*\]
 
 #### Herbarium and types
 

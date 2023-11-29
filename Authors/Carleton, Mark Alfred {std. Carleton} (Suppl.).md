@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33266723) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33266723) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16898-1), [Wikidata](https://www.wikidata.org/wiki/Q6766446). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Carleton, Mark Alfred {std. Carleton}|first entry]] for this author
 
 ### Author
 
 \* Carleton, Mark Alfred (1866-1925), American botanist, mycologist and phytopathologist, born at Jerusalem, Ohio, took part in the Garfield University at Wichita (Kansas) expedition 1889, later as botanist at the Experiment Station of the Kansas State Agricultural College at Manhattan until 1894, assistant at the division of vegetable pathology at USDA 1894-1918, went to Russia in 1898 for draught-resistant varieties of wheat for USDA. 
-**Abbreviated name**: *Carleton*
+**Abbreviated name**: *Carleton* \[standard form in IPNI: *Carleton*\]
 
 #### Herbarium and types
 

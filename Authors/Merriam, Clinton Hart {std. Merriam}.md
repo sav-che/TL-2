@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33355512) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33355512) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6375-1), [Wikidata](https://www.wikidata.org/wiki/Q721433). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Merriam, Clinton Hart (1855-1942), American botanist, zoologist and ethnologist; M. D Columbia 1879; practicing physician in Locust Grove 1879-1885; ornithologist in the office of the "Commissioner of agriculture" (now USDA) and leader of the Bureau of Biological Survey 1885-1910; working with the support of the Harnman Trust (Smithsonian Institution) from 1910; outstanding mammalogist and zoogeographer 
-**Abbreviated name**: *Merriam*
+**Abbreviated name**: *Merriam* \[standard form in IPNI: *Merriam*\]
 
 #### Herbarium and types
 

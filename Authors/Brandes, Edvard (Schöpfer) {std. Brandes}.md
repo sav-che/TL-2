@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33120434) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33120434) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1072-1), [Wikidata](https://www.wikidata.org/wiki/Q33665068). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brandes, Edvard (Schöpfer), German plagiarist and compiler of pseudopopular medical and botanical papers. 
-**Abbreviated name**: *Brandes*
+**Abbreviated name**: *Brandes* \[standard form in IPNI: *Brandes*\]
 
 #### Note
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33068805) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33068805) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21477-1), [Wikidata](https://www.wikidata.org/wiki/Q67250). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Klebs, Georg Albrecht (1857-1918), German botanist, pupil of de Bary, Sachs and Pfeffer; Dr. phil. Strasbourg 1879; at Tübingen 1882; professor of botany at Basel 1887; id. at Halle 1898; id. at Heidelberg 1907. 
-**Abbreviated name**: *Klebs*
+**Abbreviated name**: *Klebs* \[standard form in IPNI: *G.A.Klebs*\]
 
 #### Herbarium and types
 

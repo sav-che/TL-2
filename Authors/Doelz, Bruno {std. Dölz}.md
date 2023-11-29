@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33260010) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 22](https://www.biodiversitylibrary.org/page/33260010) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2250-1), [Wikidata](https://www.wikidata.org/wiki/Q5734517). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Doelz, Bruno (1906-1945), German lawyer and specialist for Cactaceae, born 4 Feb 1906 at Berlin-Tempelhof, editor of Jahrb. deut. Kakteenges. (1936-1944) and Kakteenkunde II (1939-1943), fifth and last president of the Deutsche Kakteengesellschaft (1941-1945), died 29 Apr 1945 at Berlin-Wannsee. 
-**Abbreviated name**: *Dölz*
+**Abbreviated name**: *Dölz* \[standard form in IPNI: *Dölz*\]
 
 #### Herbarium and types
 

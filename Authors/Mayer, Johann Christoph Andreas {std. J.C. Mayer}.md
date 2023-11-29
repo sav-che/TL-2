@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33355474) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33355474) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6276-1), [Wikidata](https://www.wikidata.org/wiki/Q216295). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mayer, Johann Christoph Andreas (1747-1801) Prussian physician and botanist: Dr. med. Greifswald 1772; at the Collegium medico-chirurgicum, Berlin, 1772-1775; professor of medicine ib. 1775-1778; at Frankfurt a.d. Oder 1778-1786; professor of botany and director of the Berlin botanical garden 1786-1801 (succeeding Gleditsch); Geheimrat 1786. 
-**Abbreviated name**: *J. C. Mayer*
+**Abbreviated name**: *J. C. Mayer* \[standard form in IPNI: *J.C.Mayer*\]
 
 #### Herbarium and types
 

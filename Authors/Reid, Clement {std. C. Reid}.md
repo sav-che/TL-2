@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 694](https://www.biodiversitylibrary.org/page/33190165) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 694](https://www.biodiversitylibrary.org/page/33190165) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8259-1), [Wikidata](https://www.wikidata.org/wiki/Q2247267). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reid, Clement (1853-1916), British botanist and geologist; with the British Geological Survey 1874-1913; in retirement at Milford-on-Sea; FRS 1899. 
-**Abbreviated name**: *C. Reid*
+**Abbreviated name**: *C. Reid* \[standard form in IPNI: *C.Reid*\]
 
 #### Herbarium and types
 

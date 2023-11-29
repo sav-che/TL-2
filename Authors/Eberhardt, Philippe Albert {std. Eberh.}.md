@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33260235) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33260235) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18348-1), [Wikidata](https://www.wikidata.org/wiki/Q21511319). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eberhardt, Philippe Albert (1874-1942), French botanist, born at Paris 24 Mai 1874, studied at the Sorbonne, "préparateur" 1896-1905, sent on scientific mission to Bhutan and Indo-China 1905-1908, special mission at the "Cour de Hué" 19108-1916, chief of economic services 1916-1920, returned to France and became professor of botany at Besançon until his retirement in 1940, died 20 Feb 1942. 
-**Abbreviated name**: *Eberh.*
+**Abbreviated name**: *Eberh.* \[standard form in IPNI: *Eberh.*\]
 
 #### Herbarium and types
 

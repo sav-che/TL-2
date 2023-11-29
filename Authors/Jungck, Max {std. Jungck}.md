@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33068712) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33068712) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4581-1), [Wikidata](https://www.wikidata.org/wiki/Q21517173). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jungck, Max (1849-?), German high school teacher and botanist at Gleiwitz. 
-**Abbreviated name**: *Jungck*
+**Abbreviated name**: *Jungck* \[standard form in IPNI: *Jungck*\]
 
 #### Herbarium and types
 

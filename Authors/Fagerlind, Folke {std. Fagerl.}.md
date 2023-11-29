@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33259516) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33259516) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2618-1), [Wikidata](https://www.wikidata.org/wiki/Q5722737). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fagerlind, Folke (1907-1996), Swedish botanist, cytologist and embryologist, born 2 Mar 1907 in Stockholm, fil. mag. 1933, fil. lic. 1934, Dr. Sci. and docent 1937, all Stockholm Univ., then prof. 1949 Stockholm Univ., collected plants in Cuba 1952, Ecuador, incl. the Galapagos 1952-1953, Hawaii, Java 1960 and Sri Lanka. 
-**Abbreviated name**: *Fagerl.*
+**Abbreviated name**: *Fagerl.* \[standard form in IPNI: *Fagerl.*\]
 
 #### Herbarium and types
 

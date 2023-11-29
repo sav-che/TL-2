@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33259227) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33259227) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17909-1), [Wikidata](https://www.wikidata.org/wiki/Q21339033). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Delise, Dominic François {std. Delise}|first entry]] for this author
 
 ### Author
 
 \* Delise, Dominique-Françoise (1780-1841), French Officer and botanist (lichenologist) as well as "Chef de Bataillon" at Vire, pupil of Bory de Saint-Vincent, cryptogamist in Normandy, died at Vire (Calvados) on 16 Nov 1841. 
-**Abbreviated name**: *Delise*
+**Abbreviated name**: *Delise* \[standard form in IPNI: *Delise*\]
 
 #### Herbarium and types
 

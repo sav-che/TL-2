@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33066576) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33066576) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13008-1), [Wikidata](https://www.wikidata.org/wiki/Q1613066). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weyland, Hermann \[Gerhard\] (1888-1974), German (Rheinland) paleobotanist; studied pharmacy 1906-1909; at the University of Jena 1909-1912; Dr. phil. ib. (with E. Stahl) 1912; assistant at Leipzig University with W. Pfeffer 1912-1913; id. Jena with L. Knorr 1913-1914; chemist with Farbenfabr. Bayer, Wuppertal-Elberfeld 1915-1952, from 1924 as head of the physiological laboratory; interim director Bot. Inst. Köln Univ. 1945-1948. 
-**Abbreviated name**: *Weyl.*
+**Abbreviated name**: *Weyl.* \[standard form in IPNI: *Weyland*\]
 
 #### Herbarium and types
 

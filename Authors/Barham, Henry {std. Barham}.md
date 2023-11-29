@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33120252) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33120252) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/476-1), [Wikidata](https://www.wikidata.org/wiki/Q5717782). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Barham, Henry {std. Barham} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Barham, Henry (1670-1726), British surgeon who settled in Jamaica. 
-**Abbreviated name**: *Barham*
+**Abbreviated name**: *Barham* \[standard form in IPNI: *Barham*\]
 
 #### Herbarium and types
 

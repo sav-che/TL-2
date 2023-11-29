@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33212626) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33212626) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10974-1), [Wikidata](https://www.wikidata.org/wiki/Q21611230). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ullgren, Olof Matthias (1785-1819), Swedish botanist, historian and librarian; Dr. phil. Uppsala 1806, lecturer in Swedish history and employee at Uppsala University Library. 
-**Abbreviated name**: *Ullgren*
+**Abbreviated name**: *Ullgren* \[standard form in IPNI: *Ullgren*\]
 
 #### Herbarium and types
 

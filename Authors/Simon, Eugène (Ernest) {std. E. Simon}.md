@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33333747) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33333747) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9668-1), [Wikidata](https://www.wikidata.org/wiki/Q19002138). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Simon, Eugène \[Ernest\] (1871-1967). French botanist; studied law; governmental financial administrator at Rochefort 1890-1894, Pont-de-Salars, Aveyron 1894-1898, Vouneuil, Vienne 1898-1904, Gacé, Orne 1904-1906, Charroux, Vienne 1906-1908, Airvault, Deux-Sèvres 1908-1915, Montmorillon 1915-1926 and Tours 1926-1934; active amateur botanist, plant collector and archeologist. 
-**Abbreviated name**: *E. Simon*
+**Abbreviated name**: *E. Simon* \[standard form in IPNI: *E.Simon*\]
 
 #### Herbarium and types
 

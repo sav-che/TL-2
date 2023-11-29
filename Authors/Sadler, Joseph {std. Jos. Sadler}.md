@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1048](https://www.biodiversitylibrary.org/page/33190519) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1048](https://www.biodiversitylibrary.org/page/33190519) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8797-1), [Wikidata](https://www.wikidata.org/wiki/Q1254676). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sadler, Joseph (1791-1849), Hungarian botanist; assistant for chemistry and botany at the University of Budapest 1815-1819; Dr. med. Univ. Budapest 1820; subsequently curator at the National Hungarian Museum for zoology and mineralogy; ultimately professor of botany and director of the University Botanic Garden, Budapest 1834-1849. 
-**Abbreviated name**: *Jos. Sadler*
+**Abbreviated name**: *Jos. Sadler* \[standard form in IPNI: *Sadler*\]
 
 #### Herbarium and types
 

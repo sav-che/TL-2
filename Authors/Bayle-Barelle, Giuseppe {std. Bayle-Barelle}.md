@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33265125) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33265125) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/568-1), [Wikidata](https://www.wikidata.org/wiki/Q21505817). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bayle-Barelle, Giuseppe (1768-1811), Italian botanist, professor of agriculture at the University of Paris. 
-**Abbreviated name**: *Bayle-Barelle*
+**Abbreviated name**: *Bayle-Barelle* \[standard form in IPNI: *Bayle-Bar.*\]
 
 #### Herbarium and types
 

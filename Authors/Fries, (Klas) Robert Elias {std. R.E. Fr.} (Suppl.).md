@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33258505) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33258505) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2916-1), [Wikidata](https://www.wikidata.org/wiki/Q15414). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fries, Klas Robert Elias {std. R.E. Fr.}|first entry]] for this author
 
 ### Author
 
 \* Fries, (Klas) Robert Elias (1876-1966), Swedish botanist, born 11 Jul 1876 in Uppsala, began his studies in Uppsala, fil. kand. 1898, fil. lic. 1901, accompanied Swedish Chaco-Cordillera Exped. 1901-1902, Dr. Phil. and docent in botany 1905, on the Swedish Rhodesia- Kongo Exped. 1911-1912, biology lecturer at Uppsala 1913 and Prof. Bergianus at the Bergianska trädgården in Stockholm 1915, esp. known for his studies in the Annonaceae, returned with his younger brother (T.C.E. Fries) to Africa (Mt. Kenya and the Aberdares) in 1921-1922 and again in 1953, died 29 Jan 1966. 
-**Abbreviated name**: *R.E. Fr.*
+**Abbreviated name**: *R.E. Fr.* \[standard form in IPNI: *R.E.Fr.*\]
 
 #### Note
 

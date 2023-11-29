@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 879](https://www.biodiversitylibrary.org/page/33334018) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 879](https://www.biodiversitylibrary.org/page/33334018) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12885-1), [Wikidata](https://www.wikidata.org/wiki/Q98707). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steinmann, \[Johann Heinrich Conrad Gottfried\] Gustav (1856-1929), German palaeontologist and geologist; Dr. phil. München 1877; assistant (1877) and lecturer (1880) in Strasbourg; extraord. prof. geology Jena 1885; ord. prof. ib. Freiburg i. Br. 1886; prof. geology and palaeontology Bonn 1906-1929. 
-**Abbreviated name**: *Steinmann*
+**Abbreviated name**: *Steinmann* \[standard form in IPNI: *Steinm.*\]
 
 #### Herbarium and types
 

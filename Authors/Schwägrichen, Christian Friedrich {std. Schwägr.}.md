@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33333555) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33333555) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12854-1), [Wikidata](https://www.wikidata.org/wiki/Q55072516). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwägrichen, Christian Friedrich (1775-1853), German (Saxonian) botanist; Dr. med. Leipzig 1799; extra-ordinary professor of natural history at the University of Leipzig 1802, id. of botany 1806, director of the botanical garden 1806-1837; regular professor 1815-1852. 
-**Abbreviated name**: *Schwägr.*
+**Abbreviated name**: *Schwägr.* \[standard form in IPNI: *Schwägr.*\]
 
 #### Herbarium and types
 

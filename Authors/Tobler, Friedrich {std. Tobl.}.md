@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33212415) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33212415) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10702-1), [Wikidata](https://www.wikidata.org/wiki/Q17389381). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tobler, Friedrich (1879-1957), Swiss (Berlin-born) botanist; studied in Berlin, Heidelberg and Leipzig; Dr. phil. Berlin 1901 (promotor Schwendener); habil. Univ. Münster 1905, lecturer ib. 1905, extraordinary professor of botany and head of the Botanical Institute, Münster 1911-1920; travelled in South and East Africa 1912-1913; head of the Fiber research institute at Sorau 1920-1924; professor of botany and director of the Botanical Garden of the Technical University of Dresden 1924-1946; in retirement in St. Gallen (Switzerland) from 1947. 
-**Abbreviated name**: *Tobl.*
+**Abbreviated name**: *Tobl.* \[standard form in IPNI: *Tobler*\]
 
 #### Herbarium and types
 

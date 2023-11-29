@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33068801) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33068801) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4827-1), [Wikidata](https://www.wikidata.org/wiki/Q2364486). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kjellman, Frans Reinhold (1846-1907), Swedish phycologist at Uppsala; collected in Spitzbergen 1872-1873; Novaya Zemlya 1875; botanist with Nordenskjöld on the *Vega* expedition of 1878-1880; Ph. D. Uppsala 1872; extra ord. professor of botany 1883; ord. professor 1900. 
-**Abbreviated name**: *Kjellm.*
+**Abbreviated name**: *Kjellm.* \[standard form in IPNI: *Kjellm.*\]
 
 #### Herbarium and types
 

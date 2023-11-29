@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33355905) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33355905) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7124-1), [Wikidata](https://www.wikidata.org/wiki/Q21522365). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Olin, Johan Henric (1769-1824), Swedish botanist; Dr. phil. Uppsala 1794, Dr. med. ib. 1797; amanuensis at the Uppsala bot. museum, later regional physician in Växjö distr., professor's title 1812. 
-**Abbreviated name**: *Olin*
+**Abbreviated name**: *Olin* \[standard form in IPNI: *Olin*\]
 
 #### Herbarium and types
 

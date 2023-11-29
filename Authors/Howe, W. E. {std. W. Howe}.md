@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33068591) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33068591) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4162-1), [Wikidata](https://www.wikidata.org/wiki/Q21516461). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Howe, W. E. (x-1891), British geologist and pteridologist at Matlock-Bath. 
-**Abbreviated name**: *W. Howe*
+**Abbreviated name**: *W. Howe* \[standard form in IPNI: *W.Howe*\]
 
 #### Herbarium and types
 

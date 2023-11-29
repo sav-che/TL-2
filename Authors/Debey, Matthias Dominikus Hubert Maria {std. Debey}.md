@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 607](https://www.biodiversitylibrary.org/page/33120738) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 607](https://www.biodiversitylibrary.org/page/33120738) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2059-1), [Wikidata](https://www.wikidata.org/wiki/Q21510101). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Debey, Matthias (Dominikus) Humbert (Maria) {std. Debey} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Debey, Matthias Dominikus Hubert Maria (1817-1884), German physician and palaeobiologist at Aachen. 
-**Abbreviated name**: *Debey*
+**Abbreviated name**: *Debey* \[standard form in IPNI: *Debey*\]
 
 #### Collections
 

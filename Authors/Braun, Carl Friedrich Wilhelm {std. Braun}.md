@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33120441) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33120441) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1086-1), [Wikidata](https://www.wikidata.org/wiki/Q107196). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Braun, Carl (Karl) Friedrich Wilhelm {std. Braun} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Braun, Carl Friedrich Wilhelm (1800-1864), German palaeobotanist, pharmacist and teacher at the technical school of Bayreuth. 
-**Abbreviated name**: *C. F. W. Braun*
+**Abbreviated name**: *C. F. W. Braun* \[standard form in IPNI: *Braun*\]
 
 #### Collections
 

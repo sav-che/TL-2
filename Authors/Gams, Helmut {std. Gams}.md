@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33258592) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33258592) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19117-1), [Wikidata](https://www.wikidata.org/wiki/Q86513). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gams, Helmut (1893-1976), Austrian botanist and bryologist, born 23 \[25?\] Sep 1893 in Brünn (Brno) (now Czech Republic) to a Swiss family that moved to Zurich 1899, Dr. phil. 1918 Univ. of Zurich, founded a private biol. station in Wasserburg (Germany), began work with G. Hegi in Munich 1920, "privat-docent" 1928, prof. 1929 and dir. 1959-1964, Institut et Jardin Botaniques, Univ. of Innsbruck, where he also founded (1950) the alpine research station in Obergurgl, died 13 Feb 1976 in Innsbruck. 
-**Abbreviated name**: *Gams*
+**Abbreviated name**: *Gams* \[standard form in IPNI: *Gams*\]
 
 #### Herbarium and types
 

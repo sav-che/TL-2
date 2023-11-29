@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33066732) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33066732) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13023-1), [Wikidata](https://www.wikidata.org/wiki/Q21387996). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wislouch, Stanislav \[Michailovic\] (1875-1927), Russian botanist (hydrobiologist); studied at the forestry institute of St. Petersburg; assistant at the seed testing station at the Botanical Garden of St. Petersburg 1906-1908; assistant at the chair of botany at the Institute of gynaecology 1908-1919; professor of systematics of cryptogams at the St. Petersburg Agricultural Institute 1918; from 1922 in exile in Poland; professor of botany at the pharmaceutical faculty, Warsaw 1922-1927. 
-**Abbreviated name**: *Wislouch*
+**Abbreviated name**: *Wislouch* \[standard form in IPNI: *Wisłouch*\]
 
 #### Herbarium and types
 

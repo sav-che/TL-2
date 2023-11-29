@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33333627) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33333627) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9427-1), [Wikidata](https://www.wikidata.org/wiki/Q21608619). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Segura, José Carmen (1846-1906), Mexican botanist and agricultural engineer; studied at the Escuela de Agricultura, Mexico; in the Mexican army as technical engineer 1870-1876; later teaching at agricultural schools and employed by the Mexican government in various administrative and advisory capacities. 
-**Abbreviated name**: *Segura*
+**Abbreviated name**: *Segura* \[standard form in IPNI: *Segura*\]
 
 #### Herbarium and types
 

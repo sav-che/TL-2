@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33266364) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33266364) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1119-1), [Wikidata](https://www.wikidata.org/wiki/Q21506463). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brenckle, Jacob Frederic(k) {std. Brenckle}|first entry]] for this author
 
 ### Author
 
 \* Brenckle, Jacob Frederic\[k\] (1875-1958), American physician and mycologist, studied at Milwaukee Medical College, M.D. 1897, practicing physician at Kulm, North Dakota 1899-1923, served in the U.S. army in W.W. I, at Northville, S. Dakota 1923-1937, ultimately at Millette, S. Dakota. 
-**Abbreviated name**: *Brenckle*
+**Abbreviated name**: *Brenckle* \[standard form in IPNI: *Brenckle*\]
 
 #### Herbarium and types
 

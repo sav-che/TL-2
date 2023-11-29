@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33333534) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33333534) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9325-1), [Wikidata](https://www.wikidata.org/wiki/Q21608497). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schulze, Walther (1875-?), German (Saxonian) pharmacist and botanist; pharmac. state exam. Leipzig 1899; Dr. phil. Erlangen 1891, student of H. Solereder. 
-**Abbreviated name**: *Wa. Schulze*
+**Abbreviated name**: *Wa. Schulze* \[standard form in IPNI: *Walt.Schulze*\]
 
 #### Herbarium and types
 

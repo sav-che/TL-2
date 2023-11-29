@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-11-26 09:03:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33264846) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33264846) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/207-1), [Wikidata](https://www.wikidata.org/wiki/Q274317). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[André, Édouard François {std. André}|first entry]] for this author
 
 ### Author
 
 \* André, Édouard \[François\] (1840-1911), French horticulturist and botanical explorer, studied botany with Decaisne at the Muséum d' Histoire naturelle, Paris; head-gardener of the municipality of Paris, teacher at the École d' Horticulture, Versailles; travelled in the Northern Andes 1875-1876. 
-**Abbreviated name**: *Éd. André*
+**Abbreviated name**: *Éd. André* \[standard form in IPNI: *André*\]
 
 #### Herbarium and types
 

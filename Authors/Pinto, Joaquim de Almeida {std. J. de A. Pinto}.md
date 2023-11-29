@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-01-03 13:52:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33189740) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33189740) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/161-1), [Wikidata](https://www.wikidata.org/wiki/Q17198523). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pinto, Joaquim de Almeida (x-1870), Brazilian botanist and pharmacist. 
-**Abbreviated name**: *J. de A. Pinto*
+**Abbreviated name**: *J. de A. Pinto* \[standard form in IPNI: *Almeida*\]
 
 #### Herbarium and types
 

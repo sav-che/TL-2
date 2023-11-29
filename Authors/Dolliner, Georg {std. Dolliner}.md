@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33260020) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33260020) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2259-1), [Wikidata](https://www.wikidata.org/wiki/Q12793122). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dolliner, Georg (1794-1872), Austrian physician and botanist, born at Ratschach near Steinbrück 11 Apr 1794, for studies to Vienna 1818, as a physician in a general hospital until 1842, went to Adelsberg 1842, and to Idria 1846, Dr. sci. in Vienna in 1851, died in Idria 16 Apr 1872. 
-**Abbreviated name**: *Dolliner*
+**Abbreviated name**: *Dolliner* \[standard form in IPNI: *Dolliner*\]
 
 #### Herbarium and types
 

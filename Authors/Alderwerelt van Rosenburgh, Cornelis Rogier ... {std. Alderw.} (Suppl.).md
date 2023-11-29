@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33264791) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33264791) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/125-1), [Wikidata](https://www.wikidata.org/wiki/Q723907). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Alderwerelt van Rosenburgh, Cornelis Rogier Willem Karel van {std. Alderw.}|first entry]] for this author
 
 ### Author
 
 \* Alderwerelt van Rosenburgh, Cornelis Rogier Willem Karel (1863-1936), Dutch botanist (pteridologist), officer (ultimately captain) in the Dutch East Indian army (KNIL) 1885-1904, retired on account of deafness, assistant at the Herbarium of Buitenzorg (Bogor, BO), 1905-1908, curator and acting assistant 1910-1922. 
-**Abbreviated name**: *Alderw.*
+**Abbreviated name**: *Alderw.* \[standard form in IPNI: *Alderw.*\]
 
 #### Herbarium and types
 

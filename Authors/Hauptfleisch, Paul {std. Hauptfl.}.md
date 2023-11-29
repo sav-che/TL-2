@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33068344) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33068344) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3730-1), [Wikidata](https://www.wikidata.org/wiki/Q20015381). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hauptfleisch, Paul (1861-1906), German botanist; Dr. phil. Greifswald 1888; lecturer at the Technische Hochschule, Stuttgart. 
-**Abbreviated name**: *Hauptfl.*
+**Abbreviated name**: *Hauptfl.* \[standard form in IPNI: *Hauptfl.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33190271) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33190271) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12774-1), [Wikidata](https://www.wikidata.org/wiki/Q21607238). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ritschi, Georg \[Adolf\] (1816-1866), German (Prussian) philologist and botanist; studied philology in Berlin and Greifswald; teacher's examination 1841; high school teacher at Stettin, Neustettin, and Putbus, from 1844-1866 at the Friedrich-Wilhelms-Gymnasium in Posen; died of cholera. 
-**Abbreviated name**: *Ritschl*
+**Abbreviated name**: *Ritschl* \[standard form in IPNI: *Ritschl*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33190187) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33190187) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25509-1), [Wikidata](https://www.wikidata.org/wiki/Q21339127). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Renauld, Ferdinand \[François Gabriel\], (1837-1910), French soldier and botanist (bryologist); from 1856-1887 with the "Spahis" (8 campaigns in Algeria); from 1885-1893 commander of Monaco; Légion d'honneur 1884; in retirement in Vesoul 1893-1897, later in Vence and Nice, from 1908-1910 in Paris. 
-**Abbreviated name**: *Renauld*
+**Abbreviated name**: *Renauld* \[standard form in IPNI: *Renauld*\]
 
 #### Herbarium and types
 

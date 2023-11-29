@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33355686) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33355686) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6690-1), [Wikidata](https://www.wikidata.org/wiki/Q21521768). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moruzi, Constance (1899-x), Roumanian mycologist and lichenologist; Dr. Sci. Paris 1932; active at the University, the Agronomical Institute and the Pedagogical Institute in Bucarest. 
-**Abbreviated name**: *Moruzi*
+**Abbreviated name**: *Moruzi* \[standard form in IPNI: *Moruzi*\]
 
 #### Herbarium and types
 

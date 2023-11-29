@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33212133) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33212133) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/35146-1), [Wikidata](https://www.wikidata.org/wiki/Q36670393). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sulzberger, Robert (*fl*. 1888), Belgian botanist and school teacher. 
-**Abbreviated name**: *Sulzberger*
+**Abbreviated name**: *Sulzberger* \[standard form in IPNI: *Sulzb.*\]
 
 #### Herbarium and types
 

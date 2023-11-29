@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33189739) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33189739) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7710-1), [Wikidata](https://www.wikidata.org/wiki/Q21523017). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pinatzis, Leonidas (1891-1964), Greek field-botanist, born at Kios (Gemlik, Asia minor), came to Greece as a refugee in 1922; energetic botanical explorer of Greece. 
-**Abbreviated name**: *Pinatzis*
+**Abbreviated name**: *Pinatzis* \[standard form in IPNI: *Pinatzis*\]
 
 #### Herbarium and types
 

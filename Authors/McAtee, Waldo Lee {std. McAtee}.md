@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33355296) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33355296) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5887-1), [Wikidata](https://www.wikidata.org/wiki/Q19561456). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 McAtee, Waldo Lee (1883-x), American entomologist, botanist and ornithologist, A. M. Indiana Univ. 1906; with USDA in various functions 1904-1947. 
-**Abbreviated name**: *McAtee*
+**Abbreviated name**: *McAtee* \[standard form in IPNI: *McAtee*\]
 
 #### Herbarium and types
 

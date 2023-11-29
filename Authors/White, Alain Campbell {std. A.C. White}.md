@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33066586) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33066586) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11614-1), [Wikidata](https://www.wikidata.org/wiki/Q117088). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 White, Alain Campbell (1880-?), American botanist; AB Harvard 1902; AM Columbia Univ. 1904. 
-**Abbreviated name**: *A.C. White*
+**Abbreviated name**: *A.C. White* \[standard form in IPNI: *A.C.White*\]
 
 #### Herbarium and types
 

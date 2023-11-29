@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33333434) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33333434) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9231-1), [Wikidata](https://www.wikidata.org/wiki/Q106178). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schomburgk, \[Moritz\] Richard (1811-1891), German (Prussian Saxony) botanist, explorer and gardener; in the Royal Guard, Berlin, 1831-1834; gardener at Sanssouci, Potsdam 1835-1840; travelled (on behalf of the Prussian government) in British Guiana with his brother Robert 1840-1844; in Berlin 1844-1849; settled in South Australia 1849; ran a farm at the German colony of Buchsfelde near Gawler, 1849-1865; curator (director) of the Adelaide botanical garden 1865-1891. 
-**Abbreviated name**: *Ri. Schomb.*
+**Abbreviated name**: *Ri. Schomb.* \[standard form in IPNI: *M.R.Schomb.*\]
 
 #### Herbarium and types
 

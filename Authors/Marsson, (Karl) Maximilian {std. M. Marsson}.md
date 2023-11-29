@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33355398) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 311](https://www.biodiversitylibrary.org/page/33355398) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6144-1), [Wikidata](https://www.wikidata.org/wiki/Q5958291). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marsson, \[Karl\] Maximilian (1845-1909), German algologist; son of Theodor Friedrich M.; from 1874-1893 pharmacist at Kreuznach, Düsseldorf and Leipzig; from 1893 devoting himself entirely to cryptogamy; from 1898-1909 in Berlin acting as expert on water pollution. 
-**Abbreviated name**: *M. Marsson*
+**Abbreviated name**: *M. Marsson* \[standard form in IPNI: *M.Marsson*\]
 
 #### Herbarium and types
 

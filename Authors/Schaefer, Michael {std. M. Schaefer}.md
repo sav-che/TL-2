@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33333242) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33333242) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9005-1), [Wikidata](https://www.wikidata.org/wiki/Q21607849). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schaefer, Michael (1790-1846), German botanist and clergyman; ord. 1815 Trier; chaplain at the St. Laurentius church and high school teacher at Trier. 
-**Abbreviated name**: *M. Schaefer*
+**Abbreviated name**: *M. Schaefer* \[standard form in IPNI: *Schaef.*\]
 
 #### Herbarium and types
 

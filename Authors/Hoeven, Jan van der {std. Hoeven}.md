@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33068476) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33068476) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4007-1), [Wikidata](https://www.wikidata.org/wiki/Q322636). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoeven, Jan van der (1801-1868), Dutch zoologist at Leiden. 
-**Abbreviated name**: *Hoeven*
+**Abbreviated name**: *Hoeven* \[standard form in IPNI: *Hoeven*\]
 
 #### Herbarium and types
 

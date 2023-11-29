@@ -23,13 +23,12 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 897](https://www.biodiversitylibrary.org/page/33121028) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 897](https://www.biodiversitylibrary.org/page/33121028) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12507-1), [Wikidata](https://www.wikidata.org/wiki/Q21340282). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 Fürnrohr, August Emanuel (1804-1861), German botanist, editor of Flora 1830-1861
 (1830-1842 with Hoppe).
-**Abbreviated name**: *Fürnr.*
+**Abbreviated name**: *Fürnr.* \[standard form in IPNI: *Fürnr.*\]
 
 #### Herbarium and types
 

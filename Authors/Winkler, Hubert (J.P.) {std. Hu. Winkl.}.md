@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33066714) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33066714) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11767-1), [Wikidata](https://www.wikidata.org/wiki/Q5904010). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winkler, Hubert \[J.P.\] (1875-1941), German (Prussian/Brandenburg) botanist; studied at Breslau University 1895, at first theology, later botany; Dr.phil. Breslau 1905 with F.A. Pax; assistant with the "Landwirtschaftskammer" Breslau 1900-1901; assistant at the Botanical Garden and Museum Breslau 1901-1902; with the Botanical Museum Berlin 1902-1904; regional botanist Botanical Garden, Victoria, Cameroon 1904-1906; habil. Breslau 1906; with the Breslau Botanical Museum from 1906, assistant and lecturer 1906-1912, titular professor 1912; travelled in Borneo, Java, Malaysian Peninsula and Singapore 1908, in East Africa 1910; on active service in World-War I 1914-1919; extraordinary professor of plant geography 1921, from 1927 ordinary prof. also for systematic botany. 
-**Abbreviated name**: *Hu. Winkl.*
+**Abbreviated name**: *Hu. Winkl.* \[standard form in IPNI: *H.J.P.Winkl.*\]
 
 #### Herbarium and types
 

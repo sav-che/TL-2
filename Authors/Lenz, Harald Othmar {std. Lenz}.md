@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33069086) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33069086) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/22236-1), [Wikidata](https://www.wikidata.org/wiki/Q4258659). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lenz, Harald Othmar (1798-1870), German high school teacher and naturalist and historian of science at Thorn (1820-1823), Marienwerder (1823-1824) and from 1824 at Schnepfental, Thüringen. 
-**Abbreviated name**: *Lenz*
+**Abbreviated name**: *Lenz* \[standard form in IPNI: *Lenz*\]
 
 #### Herbarium and types
 

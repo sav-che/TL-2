@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33266738) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33266738) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1427-1), [Wikidata](https://www.wikidata.org/wiki/Q21507043). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Carter, Annetta Mary (1907-1991), American botanist, born Sierra Madre, Los Angeles Co., Calif., studied and worked at the University of California, AB 1930, AM 1932. 
-**Abbreviated name**: *A.M. Carter*
+**Abbreviated name**: *A.M. Carter* \[standard form in IPNI: *A.M.Carter*\]
 
 #### Herbarium and types
 

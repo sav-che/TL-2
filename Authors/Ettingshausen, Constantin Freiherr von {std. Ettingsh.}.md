@@ -28,16 +28,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33120934) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33120934) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2586-1), [Wikidata](https://www.wikidata.org/wiki/Q55031155). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ettingshausen, Constantin Freiherr von {std. Ettingsh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Ettingshausen, Constantin Freiherr von (1826-1897), Austrian botanist, palaeontologist and mineralogist at Graz, publisher of numerous nature-printed works. 
-**Abbreviated name**: *Ettingsh.*
+**Abbreviated name**: *Ettingsh.* \[standard form in IPNI: *Ettingsh.*\]
 
 #### Herbarium and types
 

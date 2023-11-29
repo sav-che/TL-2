@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33068403) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33068403) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3851-1), [Wikidata](https://www.wikidata.org/wiki/Q5937036). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Henry, Joseph Kaye (1866-1930), Canadian botanist, at first high school teacher at Vancouver 1891-1906, at McGill Univ. College, Vancouver 1906-1915, ultimately (from 1915) professor of English at the University of British Columbia. 
-**Abbreviated name**: *J. K. Henry*
+**Abbreviated name**: *J. K. Henry* \[standard form in IPNI: *J.K.Henry*\]
 
 #### Herbarium and types
 

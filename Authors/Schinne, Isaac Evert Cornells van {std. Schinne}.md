@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33333313) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33333313) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9096-1), [Wikidata](https://www.wikidata.org/wiki/Q21607976). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schinne, Isaac Evert Cornells van (1741-1819) Dutch botanist at Rotterdam. 
-**Abbreviated name**: *Schinne*
+**Abbreviated name**: *Schinne* \[standard form in IPNI: *Schinne*\]
 
 #### Herbarium and types
 

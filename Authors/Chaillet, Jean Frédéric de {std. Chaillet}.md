@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33120612) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33120612) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17042-1), [Wikidata](https://www.wikidata.org/wiki/Q21338227). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chaillet, Jean Frédéric de (1747-1839), Swiss soldier and plant collector. 
-**Abbreviated name**: *Chaillet*
+**Abbreviated name**: *Chaillet* \[standard form in IPNI: *Chaillet*\]
 
 #### Herbarium and types
 

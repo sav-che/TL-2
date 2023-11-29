@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33264878) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33264878) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/256-1), [Wikidata](https://www.wikidata.org/wiki/Q5901611). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ardoino, Honoré (Onorato) Jean Baptiste {std. Ardoino}|first entry]] for this author
 
 ### Author
 
 \* Ardoino, Honoré \[Onorato\] Jean Baptiste (1819-1874), French-Italian botanist at Menton. 
-**Abbreviated name**: *Ardoino*
+**Abbreviated name**: *Ardoino* \[standard form in IPNI: *Ardoino*\]
 
 #### Herbarium and types
 

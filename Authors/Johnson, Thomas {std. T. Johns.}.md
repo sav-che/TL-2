@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33068691) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33068691) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4516-1), [Wikidata](https://www.wikidata.org/wiki/Q3525263). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Johnson, Thomas (1863-1954), British palaeobotanist, demonstrator in science, London 1885-1890, professor of botany, R. Coll. Sci., Dublin 1890-1928, keeper DBN. 
-**Abbreviated name**: *T. Johns.*
+**Abbreviated name**: *T. Johns.* \[standard form in IPNI: *T.Johnson*\]
 
 #### Herbarium and types
 

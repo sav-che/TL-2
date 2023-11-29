@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33266627) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33266627) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1370-1), [Wikidata](https://www.wikidata.org/wiki/Q2616946). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cambessèdes, Jacques {std. Cambess.}|first entry]] for this author
 
 ### Author
 
 \* Cambessèdes, Jacques (1799-1863), French botanist and agronomist, born at Montpellier, educated with the oratorians of Tournon until 1815, learned latin and rhetorique, studied law at Aix (1818), and medicine at Montpellier, student of Gouan, at the École de médecine, Paris 1819, with botanical studies with Delile, finished his medical studies at Montpellier 1822, in Paris late 1822-1835, working with Kunth, Adrien de Jussieu, L.C. Richard and especially J. Gay, settled at the family domain de Pradines 1836-1855, and 1855 at his property at Férussac. 
-**Abbreviated name**: *Cambess.*
+**Abbreviated name**: *Cambess.* \[standard form in IPNI: *Cambess.*\]
 
 #### Herbarium and types
 

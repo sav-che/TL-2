@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33333243) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33333243) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9003-1), [Wikidata](https://www.wikidata.org/wiki/Q21607851). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schaeffer, Cäsar (1867-1944), German botanist and entomologist; Dr. phil. Freiburg i. Br. 1889; teacher's examination Göttingen 1890; teacher at various schools in Hamburg from 1890; ultimately at the grammar school "auf der Uhlenhorst"; scientific assistant (part time) at the Hamburg Natural History Museum 1891-1900. 
-**Abbreviated name**: *Cä. Schaeff.*
+**Abbreviated name**: *Cä. Schaeff.* \[standard form in IPNI: *C.Schaeff.*\]
 
 #### Herbarium and types
 

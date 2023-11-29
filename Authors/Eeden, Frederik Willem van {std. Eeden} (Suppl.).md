@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33260250) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33260250) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2472-1), [Wikidata](https://www.wikidata.org/wiki/Q1985029). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Eeden, Frederik Willem van {std. Eeden}|first entry]] for this author
 
 ### Author
 
 \* Eeden, Frederik Willem van (1829-1901), Dutch botanist, born at Haarlem 26 Oct 1829, studied especially the flora of the Dutch coastal areas publishing in "Album der Natuur", became director of the Koloniaal Museum at Haarlem (now the "Koninklijk Instituut voor de Tropen" at Amsterdam), died 4 Mai 1901 at Haarlem. 
-**Abbreviated name**: *Eeden*
+**Abbreviated name**: *Eeden* \[standard form in IPNI: *Eeden*\]
 
 #### Herbarium and types
 

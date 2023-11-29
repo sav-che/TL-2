@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-11-05 15:00:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33120630) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33120630) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1619-1), [Wikidata](https://www.wikidata.org/wiki/Q21508526). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Choulette, Sébastien (1803-?), French botanist. 
-**Abbreviated name**: *Choulette*
+**Abbreviated name**: *Choulette* \[standard form in IPNI: *Choul.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33266629) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33266629) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/35755-1), [Wikidata](https://www.wikidata.org/wiki/Q18983480). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cammerloher, Hermann (1885-1940), Austrian botanist, born in Vienna, studied at the University of Vienna 1907-1910, Dr. phil. ib. 1910, botanical assistant at the Zoological Station at Triest 1910-1911, assistant at Czernowitz 1911-1913, collecting with O. Porsch on Java 1914, at the Buitenzorg Botanical Laboratory Jan-Mai 1914, on active service in world war I 1914-1918 in Europe, assistant botanist with E.J.L. Heinricher at Innsbruck 1919-1921, attached at the Buitenzorg Botanical Garden 1921-1924, university lecturer and assistant of the Botanical Institute of Vienna 1924-1932, extraordinary professor of botany ib. 1932-1940. 
-**Abbreviated name**: *Cammerloher*
+**Abbreviated name**: *Cammerloher* \[standard form in IPNI: *Cammerl.*\]
 
 #### Herbarium and types
 

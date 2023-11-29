@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33333609) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33333609) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12858-1), [Wikidata](https://www.wikidata.org/wiki/Q21608591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Secali y Inda, José (1853-1918), Spanish forester and botanist; professor of botany at the Royal College of Forestry at San Lorenzo del Escoriai. 
-**Abbreviated name**: *Secall*
+**Abbreviated name**: *Secall* \[standard form in IPNI: *Secall*\]
 
 #### Herbarium and types
 

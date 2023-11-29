@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33265482) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33265482) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/20012199-2), [Wikidata](https://www.wikidata.org/wiki/Q606576). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boitard, Pierre (1787-1859), French naturalist (botany, horticulture, zoology), born at Macon, died at Paris. 
-**Abbreviated name**: *Boitard*
+**Abbreviated name**: *Boitard* \[standard form in IPNI: *Boitard*\]
 
 #### Herbarium and types
 

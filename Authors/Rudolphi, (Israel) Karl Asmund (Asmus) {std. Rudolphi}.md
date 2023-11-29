@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 974](https://www.biodiversitylibrary.org/page/33190445) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 974](https://www.biodiversitylibrary.org/page/33190445) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8714-1), [Wikidata](https://www.wikidata.org/wiki/Q63159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rudolphi, \[Israel\] Karl Asmund \[Asmus\] (1771-1832), Swedish-born German (Jewish) naturalist, physician, and numismatologist; studied in Greifswald; Dr. phil. 1793; Dr. med. 1794; lecturer ("Privatdozent") Greifswald 1793-1798; prosector ib. 1798; professor of medicine 1808; professor of medicine and anatomy at the University of Berlin 1810; Geh. Medicinalrath 1817. 
-**Abbreviated name**: *Rudolphi*
+**Abbreviated name**: *Rudolphi* \[standard form in IPNI: *Rudolphi*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33212063) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33212063) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12896-1), [Wikidata](https://www.wikidata.org/wiki/Q21609989). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stüwe, \[Hermann Heinrich\] Wilhelm \[Theodor\] (1875-?), German (Prussian) pharmacist and botanist; studied pharmacy in Breslau, Neusalz and Sorau; at the University of Greifswald 1903-1909. 
-**Abbreviated name**: *Stüwe*
+**Abbreviated name**: *Stüwe* \[standard form in IPNI: *Stüwe*\]
 
 #### Herbarium and types
 

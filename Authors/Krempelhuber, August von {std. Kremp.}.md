@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33068913) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33068913) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5057-1), [Wikidata](https://www.wikidata.org/wiki/Q4820864). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krempelhuber, August von (1813-1882), German lichenologist and forester; "Königlicher bayerischer Forstrath" in München. 
-**Abbreviated name**: *Kremp.*
+**Abbreviated name**: *Kremp.* \[standard form in IPNI: *Kremp.*\]
 
 #### Herbarium and types
 

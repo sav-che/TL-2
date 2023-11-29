@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33189465) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33189465) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7290-1), [Wikidata](https://www.wikidata.org/wiki/Q4349563). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palmgren, Alvar (1880-1960), Finnish botanist; Dr. phil. Helsinki 1914; lecturer in botany at the College of technology, Helsinki 1916; professor of botany at Helsinki University 1928-1950. 
-**Abbreviated name**: *Palmgr.*
+**Abbreviated name**: *Palmgr.* \[standard form in IPNI: *Palmgr.*\]
 
 #### Herbarium and types
 

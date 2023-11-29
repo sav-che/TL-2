@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33333745) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33333745) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9665-1), [Wikidata](https://www.wikidata.org/wiki/Q5894907). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Simmons, Herman Georg (1866-1943), Swedish botanist; Dr. phil. and lecturer at Lund 1906; lecturer in botany and zoology at Ultuna agricultural college 1914-1933; professor's title 1917; travelled in Schleswig-Holstein 1893; Faroes 1895; botanist on the second Norwegian polar expedition on the Fram 1898-1902. 
-**Abbreviated name**: *Simmons*
+**Abbreviated name**: *Simmons* \[standard form in IPNI: *Simmons*\]
 
 #### Herbarium and types
 

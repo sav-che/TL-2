@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33355107) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33355107) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22351-1), [Wikidata](https://www.wikidata.org/wiki/Q1374979). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Limpricht, Karl Gustav (1834-1902), German (Silesian) bryologist; high school teacher at a girl's College at Bunzlau (1858-1869); idem at the evangelical high school Breslau (1869-1902), from 1895 as principal ("Oberlehrer"). 
-**Abbreviated name**: *Limpr.*
+**Abbreviated name**: *Limpr.* \[standard form in IPNI: *Limpr.*\]
 
 #### Herbarium and types
 

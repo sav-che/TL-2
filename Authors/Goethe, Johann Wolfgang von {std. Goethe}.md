@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/page/33121099) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/page/33121099) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3229-1), [Wikidata](https://www.wikidata.org/wiki/Q5879). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Goethe, Johann Wolfgang (von) {std. Goethe} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Goethe, Johann Wolfgang von (1749-1832), German author, poet and "Naturphilosoph". 
-**Abbreviated name**: *Goethe*
+**Abbreviated name**: *Goethe* \[standard form in IPNI: *Goethe*\]
 
 #### Collections
 

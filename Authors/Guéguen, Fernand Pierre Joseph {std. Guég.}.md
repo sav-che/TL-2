@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1018](https://www.biodiversitylibrary.org/page/33121149) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1018](https://www.biodiversitylibrary.org/page/33121149) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3445-1), [Wikidata](https://www.wikidata.org/wiki/Q21514355). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Guéguen, Fernand Pierre Joseph (1872-1915), French mycologist. 
-**Abbreviated name**: *Guég.*
+**Abbreviated name**: *Guég.* \[standard form in IPNI: *Guég.*\]
 
 #### Herbarium and types
 

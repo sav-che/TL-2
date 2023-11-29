@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33068593) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33068593) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4169-1), [Wikidata](https://www.wikidata.org/wiki/Q21516511). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Howse, Richard (1821-1901), British palaeontologist; high school teacher at South Shields; curator of the Hancock Museum at Newcastle-upon-Tyne. 
-**Abbreviated name**: *Howse*
+**Abbreviated name**: *Howse* \[standard form in IPNI: *Howse*\]
 
 #### Herbarium and types
 

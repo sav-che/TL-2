@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 902](https://www.biodiversitylibrary.org/page/33121033) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 902](https://www.biodiversitylibrary.org/page/33121033) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2974-1), [Wikidata](https://www.wikidata.org/wiki/Q60226). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gaertner, Joseph (1732-1791), German physician and botanist, who ultimately settled as "Privatgelehrter" at Calw. 
-**Abbreviated name**: *Gaertn.*
+**Abbreviated name**: *Gaertn.* \[standard form in IPNI: *Gaertn.*\]
 
 #### Herbarium and types
 

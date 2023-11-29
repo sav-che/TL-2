@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33120392) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33120392) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/920-1), [Wikidata](https://www.wikidata.org/wiki/Q2382236). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boivin, Louis Hyacinthe {std. Boivin} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Boivin, Louis Hyacinthe (1808-1852), French botanist and plant collector, especially active on the islands in the Indian Ocean 
-**Abbreviated name**: *Boivin*
+**Abbreviated name**: *Boivin* \[standard form in IPNI: *Boivin*\]
 
 #### Herbarium and types
 

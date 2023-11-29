@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33189461) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33189461) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7280-1), [Wikidata](https://www.wikidata.org/wiki/Q21522569). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palmer, Charles Mervin (1900-x), American botanist; MS Pennsylvania State Coll. 1925; subsequently assistant, instructor and professor of botany at Butler University, Indianapolis. 
-**Abbreviated name**: *C. Palmer*
+**Abbreviated name**: *C. Palmer* \[standard form in IPNI: *C.Palmer*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33333997) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33333997) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10059-1), [Wikidata](https://www.wikidata.org/wiki/Q47126686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steele, William Edward (1816-1883), Irish botanist and physician; MD Dublin 1837; director of the Science and Art Museum Dublin. 
-**Abbreviated name**: *Steele*
+**Abbreviated name**: *Steele* \[standard form in IPNI: *Steele*\]
 
 #### Herbarium and types
 

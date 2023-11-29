@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33355826) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33355826) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/13093-1), [Wikidata](https://www.wikidata.org/wiki/Q21522120). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Batten, Lily {std. L. Newton} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Newton, Lily (née Batten), British botanist, married William Charles Frank Newton 1925; Ph. D. Bristol 1925. 
-**Abbreviated name**: *L. Newton*
+**Abbreviated name**: *L. Newton* \[standard form in IPNI: *L.Newton*\]
 
 #### Herbarium and types
 

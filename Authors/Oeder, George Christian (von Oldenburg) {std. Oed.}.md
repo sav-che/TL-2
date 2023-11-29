@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33355890) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33355890) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24254-1), [Wikidata](https://www.wikidata.org/wiki/Q64346). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Oeder, George Christian \[von Oldenburg\] (1728-1791), German botanist; Dr. med. Göttingen 1749; to Denmark 1752; royal professor of botany at Kjøbenhavn 1754-1770; various times in Norway between 1755-1760; from 1773 in Oldenburg as regional governor (Landvogt); ennobled 1788. 
-**Abbreviated name**: *Oed.*
+**Abbreviated name**: *Oed.* \[standard form in IPNI: *Oeder*\]
 
 #### Herbarium and types
 

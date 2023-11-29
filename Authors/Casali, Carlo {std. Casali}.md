@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33266750) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33266750) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/20002736-1), [Wikidata](https://www.wikidata.org/wiki/Q47115160). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Casali, Carlo (1865-?), Italian botanist and phytopathologist, born at Reggio nell' Emilia, Dr. Sci. nat., sometime at the Botanical Institute Roma from 1894, from 1908 at the University of Parma, professor of natural sciences and zootechnic, later at Reggio nell' Emilia. 
-**Abbreviated name**: *Casali*
+**Abbreviated name**: *Casali* \[standard form in IPNI: *Casali*\]
 
 #### Herbarium and types
 

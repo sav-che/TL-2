@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33212193) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33212193) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10387-1), [Wikidata](https://www.wikidata.org/wiki/Q21610150). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tahourdin, Charles Baynard (1872-1942), British solicitor and amateur orchidologist. 
-**Abbreviated name**: *Tahourdin*
+**Abbreviated name**: *Tahourdin* \[standard form in IPNI: *Tahourdin*\]
 
 #### Herbarium and types
 

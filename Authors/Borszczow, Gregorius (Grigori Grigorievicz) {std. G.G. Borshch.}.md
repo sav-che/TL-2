@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33265559) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33265559) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/35472-1), [Wikidata](https://www.wikidata.org/wiki/Q36560237). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Borszczow, Gregorius (Grigori Grigorievicz) (fl. 1857), Russian botanist, brother of Elias Borszczow. 
-**Abbreviated name**: *G.G. Borshch.*
+**Abbreviated name**: *G.G. Borshch.* \[standard form in IPNI: *G.G.Borshch.*\]
 
 #### Herbarium and types
 

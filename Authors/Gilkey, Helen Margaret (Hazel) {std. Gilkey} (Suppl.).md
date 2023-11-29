@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33258693) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33258693) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19337-1), [Wikidata](https://www.wikidata.org/wiki/Q15122935). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gilkey, Helen Margaret {std. Gilkey}|first entry]] for this author
 
 ### Author
 
 \* Gilkey, Helen Margaret ('Hazel') (1886-1972), American mycologist, botanist and scientific illustrator, born 6 Mar 1886 in Montesano, Washington, moved to Corvallis, Oregon 1903, B.S. 1907 and M.S. 1911 Oregon Agricultural College (now Oregon State Univ.), Corvallis, Ph.D. 1915 Univ. of Calif. at Berkeley, scientific illustrator Univ. of Calif. at Berkeley 1912-1918, asst. prof. of botany and curator of the herb., Oregon State College, 1918-1927, assoc. prof. 1928-1945, prof. 1945-1951, died 7 Aug 1972 in Corvallis. 
-**Abbreviated name**: *Gilkey*
+**Abbreviated name**: *Gilkey* \[standard form in IPNI: *Gilkey*\]
 
 #### Herbarium and types
 

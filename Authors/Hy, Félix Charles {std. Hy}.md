@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33068623) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33068623) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4260-1), [Wikidata](https://www.wikidata.org/wiki/Q5872206). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hy, Félix Charles (1853-1918), French clergyman and cryptogamist; professor at the catholic University of Angers. 
-**Abbreviated name**: *Hy*
+**Abbreviated name**: *Hy* \[standard form in IPNI: *Hy*\]
 
 #### Herbarium and types
 

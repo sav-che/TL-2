@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33266721) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33266721) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1402-1), [Wikidata](https://www.wikidata.org/wiki/Q5697398). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cariot, Antoine, Abbé {std. Cariot}|first entry]] for this author
 
 ### Author
 
 \* Cariot, Antoine (1820-1883), French clergyman and botanist, born at Écully nr. Lyon, son of a gardener, educated at the "petit séminaire de sainte-Foy-l'Argentière" (with abbé and botanist Ludovic Chirat), with the Congrégation des missionaires diocésains at Chartreux studying theology, teacher at Saint-Alban, vicar at Croix Rousse, botanical trip to Corsica 1849, vicar at Sainte-Foy-lès-Lyon 1850, rector at Tassin 1862-1872, in charge of Sainte-Foy 1872. 
-**Abbreviated name**: *Cariot*
+**Abbreviated name**: *Cariot* \[standard form in IPNI: *Cariot*\]
 
 #### Herbarium and types
 

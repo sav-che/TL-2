@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33066827) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33066827) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11922-1), [Wikidata](https://www.wikidata.org/wiki/Q4391953). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Yamamoto, Yoshimatsu \[born Wakamori\] (1893-1947), Japanese botanist; studied at the Fukui Teacher's College \[Normal School\] 1908-1913; primary school teacher in Sabae 1913-1915; at Hiroshima higher Teacher's College 1915-1919; biological teacher at Kagoshima Teacher's College 1919-1920; studied at Tokyo University 1920-1923; assistant with Hayata 1923-1928; asst. professor Taihoku University, Taiwan from 1928; studied in the United States and Great Britain 1933-1934; Dr. Sci. Tokyo Univ. 1934; continued his teaching at Taihoku Univ. from 1934, becoming ordinary professor of botany at the National Taiwan University 1945-1947. 
-**Abbreviated name**: *Yamamoto*
+**Abbreviated name**: *Yamamoto* \[standard form in IPNI: *Yamam.*\]
 
 #### Herbarium and types
 

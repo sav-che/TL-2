@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33355311) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33355311) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5932-1), [Wikidata](https://www.wikidata.org/wiki/Q21520254). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 McIvor, William Graham (x-1876), British gardener sent to India by Kew, remained at Ootacamund (1848); became involved in the introduction of Cinchona into India. 
-**Abbreviated name**: *McIvor*
+**Abbreviated name**: *McIvor* \[standard form in IPNI: *McIvor*\]
 
 #### Herbarium and types
 

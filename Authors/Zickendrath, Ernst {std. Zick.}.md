@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33066876) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33066876) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12026-1), [Wikidata](https://www.wikidata.org/wiki/Q21613644). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zickendrath, Ernst (1846-1903), German (Hessen-Nassau) botanist, later active in Russia; Dr. phil. Würzburg 1875. 
-**Abbreviated name**: *Zick.*
+**Abbreviated name**: *Zick.* \[standard form in IPNI: *Zick.*\]
 
 #### Herbarium and types
 

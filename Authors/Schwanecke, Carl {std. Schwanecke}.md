@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33333559) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33333559) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9350-1), [Wikidata](https://www.wikidata.org/wiki/Q21608524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwanecke, Carl (1821-1916), German (Prussian-Saxony) botanist and gardener; travelled in the West Indies, St. Thomas, Puertorico and Sto. Domingo 1846-1850; owner of a commercial nursery at Oschersleben 1852, growing pansies. 
-**Abbreviated name**: *Schwanecke*
+**Abbreviated name**: *Schwanecke* \[standard form in IPNI: *Schwan.*\]
 
 #### Herbarium and types
 

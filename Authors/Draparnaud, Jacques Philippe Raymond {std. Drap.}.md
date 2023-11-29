@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 679](https://www.biodiversitylibrary.org/page/33120810) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 679](https://www.biodiversitylibrary.org/page/33120810) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2304-1), [Wikidata](https://www.wikidata.org/wiki/Q930547). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Draparnaud, Jacques Philippe Raymond (1772-1804), French botanist and zoo– logist at Montpellier. 
-**Abbreviated name**: *Drap.*
+**Abbreviated name**: *Drap.* \[standard form in IPNI: *Drap.*\]
 
 #### Herbarium and types
 

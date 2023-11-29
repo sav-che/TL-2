@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33258485) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33258485) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/18999-1), [Wikidata](https://www.wikidata.org/wiki/Q21513563). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fritel, Paul-Honoré (1867-1927), French paleobotanist (and paleozoologist), born 19 Aug 1867 in Evreux (Eure), asst. dir., paleobotanical lab., Muséum natl. d'Histoire naturelle, Paris, died 7 Aug 1927. 
-**Abbreviated name**: *Fritel*
+**Abbreviated name**: *Fritel* \[standard form in IPNI: *Fritel*\]
 
 #### Herbarium and types
 

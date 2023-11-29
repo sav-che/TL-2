@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33212757) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33212757) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11147-1), [Wikidata](https://www.wikidata.org/wiki/Q5367321). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vesque, Julien \[Joseph\] (1848-1895), Luxemburg botanist; studied at Berlin University with A. Braun and L. Kny; continued his studies from 1871 in Paris with Brongniart and Duchartre, Lic. Sci. 1872, Dr. phil. Paris 1876; technician at the Laboratoire de culture, Museum Histoire naturelle 1874; chef des travaux physiol. vég., Institut agronomique 1876; Aide-Naturaliste at the Museum 1880; Maître de conférences de Botanique, Univ. Paris 1884-1895. 
-**Abbreviated name**: *Vesque*
+**Abbreviated name**: *Vesque* \[standard form in IPNI: *Vesque*\]
 
 #### Herbarium and types
 

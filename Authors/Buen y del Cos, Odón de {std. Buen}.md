@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33266514) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33266514) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/35586-1), [Wikidata](https://www.wikidata.org/wiki/Q3825435). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buen y del Cos, Odón de (1863-?), Spanish botanist, professor of natural history at Barcelona, director of the Botanical Garden ib. and of the Biological marine laboratory at the Baleares. 
-**Abbreviated name**: *Buen*
+**Abbreviated name**: *Buen* \[standard form in IPNI: *Buen*\]
 
 #### Herbarium and types
 

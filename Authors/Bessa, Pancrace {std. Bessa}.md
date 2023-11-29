@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33120338) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33120338) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/735-1), [Wikidata](https://www.wikidata.org/wiki/Q2559115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bessa, Pancrace (1772-1835), French botanical artist at the "Jardin des plantes." 
-**Abbreviated name**: *Bessa*
+**Abbreviated name**: *Bessa* \[standard form in IPNI: *Bessa*\]
 
 #### Original drawings
 

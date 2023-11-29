@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33333589) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33333589) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9377-1), [Wikidata](https://www.wikidata.org/wiki/Q21608551). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schweykert, J.M. (*fl*. 1791), German gardener at Karlsruhe. 
-**Abbreviated name**: *Schweykert*
+**Abbreviated name**: *Schweykert* \[standard form in IPNI: *Schweyk.*\]
 
 #### Herbarium and types
 

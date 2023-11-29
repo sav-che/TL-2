@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33068333) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33068333) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3710-1), [Wikidata](https://www.wikidata.org/wiki/Q21515555). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Harzer, Carl August Friedrich (1784-1846), German naturalist and artist at Dresden; initiator and co-founder of the Dresden society "Isis". 
-**Abbreviated name**: *Harzer*
+**Abbreviated name**: *Harzer* \[standard form in IPNI: *Harzer*\]
 
 #### Herbarium and types
 

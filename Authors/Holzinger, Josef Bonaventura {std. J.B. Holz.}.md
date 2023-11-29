@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33068506) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33068506) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4071-1), [Wikidata](https://www.wikidata.org/wiki/Q21516001). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Holzinger, Josef Bonaventura (1835-1912), Austrian lawyer and lichenologist; student of witchcraft and sorcery. 
-**Abbreviated name**: *J. B. Holz.*
+**Abbreviated name**: *J. B. Holz.* \[standard form in IPNI: *J.B.Holz.*\]
 
 #### Herbarium and types
 

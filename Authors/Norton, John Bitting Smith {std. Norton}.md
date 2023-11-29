@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33355862) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33355862) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24162-1), [Wikidata](https://www.wikidata.org/wiki/Q21510518). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Norton, John Bitting Smith (1872-1966), American botanist, mycologist, pathologist and horticulturalist; B.S. and M.S. Kansas State College of Agriculture (now Kansas State University), Manhattan (1896, 1900) under the direction of A. S. Hitchcock, assistant professor at Kansas State (1894-1896); botanical assistant, Missouri Botanical Garden (1896-1901): professor of botany, Maryland Agricultural College (now University of Maryland), College Park (1901-1942); professor emeritus (1942-1966). 
-**Abbreviated name**: *Norton*
+**Abbreviated name**: *Norton* \[standard form in IPNI: *Norton*\]
 
 #### Herbarium and types
 

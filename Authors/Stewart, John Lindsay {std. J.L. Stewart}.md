@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 922](https://www.biodiversitylibrary.org/page/33334061) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 922](https://www.biodiversitylibrary.org/page/33334061) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10137-1), [Wikidata](https://www.wikidata.org/wiki/Q21388768). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stewart, John Lindsay (ca. 1832-1873), Scottish physician and botanist; MD Edinburgh 1856; assistant surgeon Bengal 1856; superintendent of the Botanical Garden Saharunpur 1860-1861 and 1864-1869; conservator of forests, Punjab 1864-1869; from 1869-1872 at Kew working at his Forest flora; died in India. 
-**Abbreviated name**: *J.L. Stewart*
+**Abbreviated name**: *J.L. Stewart* \[standard form in IPNI: *J.L.Stewart*\]
 
 #### Herbarium and types
 

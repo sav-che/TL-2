@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33355375) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33355375) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22894-1), [Wikidata](https://www.wikidata.org/wiki/Q18753081). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marchal, Émile Jules Joseph (1871-1954), Belgian botanist, working in various capacities at the Institut agronomique de la Station de Phytopathologie de l'État at Gembloux; son of Él. Marchai. 
-**Abbreviated name**: *Ém. Marchal*
+**Abbreviated name**: *Ém. Marchal* \[standard form in IPNI: *É.J.Marchal*\]
 
 #### Herbarium and types
 

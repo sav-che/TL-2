@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33190289) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33190289) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8462-1), [Wikidata](https://www.wikidata.org/wiki/Q5820017). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Robson, Edward (1763-1813), British (English) botanist at Darlington; correspondent of W. Withering and J.E. Smith; one of the original fellows of the Linnean Society of London. 
-**Abbreviated name**: *E. Robson*
+**Abbreviated name**: *E. Robson* \[standard form in IPNI: *E.Robson*\]
 
 #### Herbarium and types
 

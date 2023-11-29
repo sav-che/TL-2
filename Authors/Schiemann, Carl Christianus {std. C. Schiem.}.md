@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33333286) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33333286) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9076-1), [Wikidata](https://www.wikidata.org/wiki/Q21607917). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schiemann, Carl Christianus (1763-1835), German (Kurland) physician; studied medicine at Göttingen 1782-1786; Dr. med. ib. 1786; travelled in Holland and England 1786-1787; practicing physician in Mitau (Kurland) from 1787. 
-**Abbreviated name**: *C. Schiem.*
+**Abbreviated name**: *C. Schiem.* \[standard form in IPNI: *Schiem.*\]
 
 #### Herbarium and types
 

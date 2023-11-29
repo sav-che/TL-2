@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33334011) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33334011) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10075-1), [Wikidata](https://www.wikidata.org/wiki/Q21609699). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steiger, Rudolf (1823-1908), Moravian botanist and administrator at Klobouk and Brünn (Brno). 
-**Abbreviated name**: *R. Steiger*
+**Abbreviated name**: *R. Steiger* \[standard form in IPNI: *R.Steiger*\]
 
 #### Herbarium and types
 

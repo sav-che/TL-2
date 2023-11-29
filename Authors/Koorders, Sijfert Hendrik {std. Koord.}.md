@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 645](https://www.biodiversitylibrary.org/page/33068887) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 645](https://www.biodiversitylibrary.org/page/33068887) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4954-1), [Wikidata](https://www.wikidata.org/wiki/Q4232763). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koorders, Sijfert Hendrik (1863-1919), Dutch-Indonesian forester and botanist at Buitenzorg (Bogor); Dr. phil. Bonn 1897; in the Dutch East Indian Forest Service from 1885 stationed in Java; from 1892-1903 and 1910-1919 working at BO. 
-**Abbreviated name**: *Koord.*
+**Abbreviated name**: *Koord.* \[standard form in IPNI: *Koord.*\]
 
 #### Herbarium and types
 

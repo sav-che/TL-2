@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2014-07-03 13:54:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33212208) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33212208) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12916-1), [Wikidata](https://www.wikidata.org/wiki/Q5998167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tardieu-Blot, Marie-Laure (1902-x), French botanist (pteridologist); originally trained as a pharmacist (Faculté de Paris 1926); Dr. sci. 1933; Dr. méd. 1934; high school teacher in Tonkin 1926; director of the laboratory for biological analyses Hanoi hospital, 1928; with the Laboratoire de Phanérogamie, Muséum d'Histoire naturelle, Paris from 1932; assistant 1933, sous-directeur 1942; director Laboratoire de Botanique phanérogamique tropicale, École des Hautes Études, Paris 1967; hon. director 1971. 
-**Abbreviated name**: *Tardieu-Blot*
+**Abbreviated name**: *Tardieu-Blot* \[standard form in IPNI: *Tardieu*\]
 
 #### Herbarium and types
 

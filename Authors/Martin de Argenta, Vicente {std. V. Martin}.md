@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33355408) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33355408) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6162-1), [Wikidata](https://www.wikidata.org/wiki/Q36696915). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Martin de Argenta, Vicente (*fl*. 1862), Spanish botanist. 
-**Abbreviated name**: *V. Martin*
+**Abbreviated name**: *V. Martin* \[standard form in IPNI: *V.Martin*\]
 
 #### Herbarium and types
 

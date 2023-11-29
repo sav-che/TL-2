@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33265225) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33265225) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/598-1), [Wikidata](https://www.wikidata.org/wiki/Q4719276). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Becker, Alexander {std. A.K. Becker}|first entry]] for this author
 
 ### Author
 
 \* Becker, Alexander (1818-1901), Russian botanist, entomologist and musician (organ player) at Sarepta, son of a Hessen-Darmstadt migrant (Kaspar Becker), educated in Sarepta schools (incl. a gymnasium), in St. Petersburg 1832-1834 employed in a commercial establishment, id. in Moscow 1834-1836; school teacher at Sarepta 1836-1840, organist 1836-1868, in addition making a living by selling botanical exsiccatae and entomological collections, based on collecting trips around Sarepta and on expeditions to Saratow and Astrakan Government; major collector for the St. Petersburg herbarium (LE). 
-**Abbreviated name**: *A.K. Becker*
+**Abbreviated name**: *A.K. Becker* \[standard form in IPNI: *A.K.Becker*\]
 
 #### Herbarium and types
 

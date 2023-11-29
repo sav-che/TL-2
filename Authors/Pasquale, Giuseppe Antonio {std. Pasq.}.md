@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33189561) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33189561) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24584-1), [Wikidata](https://www.wikidata.org/wiki/Q3769996). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pasquale, Giuseppe Antonio (1820-1893), Italian botanist, Dr. med. Napoli 1842; assistant to Tenore at Napoli 1840-1848; practicing physician 1848-1860; from 1860 professor of botany at the R. Collegio medico; succeeded Cesati as professor of botany and director of the botanical garden of the University 1883; disabled from 1884. 
-**Abbreviated name**: *Pasq.*
+**Abbreviated name**: *Pasq.* \[standard form in IPNI: *Pasq.*\]
 
 #### Herbarium and types
 

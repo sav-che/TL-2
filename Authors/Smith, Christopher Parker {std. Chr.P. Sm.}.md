@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33333808) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33333808) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9781-1), [Wikidata](https://www.wikidata.org/wiki/Q21609076). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Christopher Parker (1835-1892), British bryologist; at Brighton and Hassocks (Sussex). 
-**Abbreviated name**: *Chr.P. Sm.*
+**Abbreviated name**: *Chr.P. Sm.* \[standard form in IPNI: *Chr.P.Sm.*\]
 
 #### Herbarium and types
 

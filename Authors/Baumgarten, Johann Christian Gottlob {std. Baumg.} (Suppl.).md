@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33265115) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33265115) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/561-1), [Wikidata](https://www.wikidata.org/wiki/Q64999). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baumgarten, Johann Christian Gottlob {std. Baumg.}|first entry]] for this author
 
 ### Author
 
 \* Baumgarten, Johann Christian Gottlob (1765-1843), German (Saxonian) physician and botanist at the medical college in Dresden 1784-1785, University of Leipzig (philosophy, medicine) 1785-1787, Baccal. Med. 1787, Dr. med. 1791, studied botany in Vienna e.g. with N.J. von Jacquin, travelled, collected and worked in Siebenbürgen (now part of Romania, Transylvania) 1793-1843, governmental physician in Leschkirch 1794-1811, id. Schässburg 1801-1807, from then on dedicating himself (still resident in Schässburg) mainly to botany, again active as physician 1826-1843. 
-**Abbreviated name**: *Baumg.*
+**Abbreviated name**: *Baumg.* \[standard form in IPNI: *Baumg.*\]
 
 #### Herbarium and types
 

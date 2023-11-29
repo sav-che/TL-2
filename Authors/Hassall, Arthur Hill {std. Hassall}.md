@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33068334) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33068334) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3714-1), [Wikidata](https://www.wikidata.org/wiki/Q4134106). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hassall, Arthur Hill (1817-1894), British public analyst, sanitary specialist, and phycologist; from 1877 at San Remo. 
-**Abbreviated name**: *Hassall*
+**Abbreviated name**: *Hassall* \[standard form in IPNI: *Hassall*\]
 
 #### Herbarium and types
 

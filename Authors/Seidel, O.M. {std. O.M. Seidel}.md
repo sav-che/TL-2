@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33333630) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33333630) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9436-1), [Wikidata](https://www.wikidata.org/wiki/Q21608628). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seidel, O.M. (1841-1917), German (Saxonian) botanist and high school teacher. 
-**Abbreviated name**: *O.M. Seidel*
+**Abbreviated name**: *O.M. Seidel* \[standard form in IPNI: *O.M.Seidel*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 938](https://www.biodiversitylibrary.org/page/33121069) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 938](https://www.biodiversitylibrary.org/page/33121069) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3117-1), [Wikidata](https://www.wikidata.org/wiki/Q21513948). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gevers Deynoot \[Jonkheer\], Pieter Marie Eduard (1816-1860), Dutch botanist. 
-**Abbreviated name**: *Gevers Deynoot*
+**Abbreviated name**: *Gevers Deynoot* \[standard form in IPNI: *Gev.Deyn.*\]
 
 #### Herbarium and types
 

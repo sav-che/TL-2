@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33068248) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33068248) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3531-1), [Wikidata](https://www.wikidata.org/wiki/Q21514469). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Haecker, Gottfried Renatus (1789-1864), German botanist; from 1824 pharmacist ("Provisor") at Lübeck. 
-**Abbreviated name**: *Haecker*
+**Abbreviated name**: *Haecker* \[standard form in IPNI: *Haecker*\]
 
 #### Herbarium and types
 

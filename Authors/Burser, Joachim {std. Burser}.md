@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33120550) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33120550) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1313-1), [Wikidata](https://www.wikidata.org/wiki/Q5590632). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Burser, Joachim (1583-1639), German physician and botanist, professor of botany and medecine at Sorö, Denmark (1625-1639), travelled in C. and S. Europe. 
-**Abbreviated name**: *Burser*
+**Abbreviated name**: *Burser* \[standard form in IPNI: *Burser*\]
 
 #### Herbarium
 

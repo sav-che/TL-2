@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33258471) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33258471) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/18991-1), [Wikidata](https://www.wikidata.org/wiki/Q5862534). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fries, Oscar Robert (1840-1908), Swedish physician and botanist (mycologist), born 5 Apr 1840 in Uppsala, studied at Uppsala from 1858, med. kand. 1863, med. lic. 1867, Dr. med. 1868 and docent at Uppsala, at Göteborg 1869-1898, died 18 Jun 1908 in Uppsala. 
-**Abbreviated name**: *O.R. Fr.*
+**Abbreviated name**: *O.R. Fr.* \[standard form in IPNI: *O.R.Fr.*\]
 
 #### Note
 

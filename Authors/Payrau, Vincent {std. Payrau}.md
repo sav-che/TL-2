@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33189599) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33189599) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7432-1), [Wikidata](https://www.wikidata.org/wiki/Q36697958). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Payrau, Vincent (*fl*. 1900), French botanist and pharmacist, Dr. pharm., Paris, 1900, resident pharmacist of the Paris hospitals. 
-**Abbreviated name**: *Payrau*
+**Abbreviated name**: *Payrau* \[standard form in IPNI: *Payrau*\]
 
 #### Herbarium and types
 

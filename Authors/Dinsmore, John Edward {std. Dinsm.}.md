@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33259392) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33259392) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2223-1), [Wikidata](https://www.wikidata.org/wiki/Q20389757). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dinsmore, John Edward (1862-1951), American botanist working in Palestine, director of the American Colony Herbarium in Jerusalem, honorary curator of the Post Herbarium Beirut (Lebanon), engaged in special study of Iris in the Near East, collected material for a new edition of Post's Flora, which appeared in 1932-1933 (see TL-2: no. 8191). 
-**Abbreviated name**: *Dinsm.*
+**Abbreviated name**: *Dinsm.* \[standard form in IPNI: *Dinsm.*\]
 
 #### Herbarium and types
 

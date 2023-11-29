@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33333362) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33333362) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9126-1), [Wikidata](https://www.wikidata.org/wiki/Q21062903). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schliephacke, Karl (1834-1913), German (Saxonian) botanist (bryologist); studied pharmacy in the Löwenapotheke in Halle, associated with K. Müller hal.; founded various factories in the brown coal and mineral oil industry in Saxony; from 1873-1898 industrialist at Waldau nr Osterfeld (Thüringen); in retirement at Naumburg a.d. Saale and Blasewitz nr Dresden. 
-**Abbreviated name**: *Schlieph.*
+**Abbreviated name**: *Schlieph.* \[standard form in IPNI: *Schlieph.*\]
 
 #### Herbarium and types
 

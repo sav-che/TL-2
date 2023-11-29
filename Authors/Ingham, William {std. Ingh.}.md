@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33068627) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33068627) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4294-1), [Wikidata](https://www.wikidata.org/wiki/Q21516758). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ingham, William (1854-1923), British bryologist at York; organizing inspector of church schools, later on the staff of the York Education office.
-**Abbreviated name**: *Ingh.*
+**Abbreviated name**: *Ingh.* \[standard form in IPNI: *Ingham*\]
 
 #### Herbarium and types
 

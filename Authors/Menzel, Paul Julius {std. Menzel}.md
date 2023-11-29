@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33355504) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33355504) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6361-1), [Wikidata](https://www.wikidata.org/wiki/Q2061260). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Menzel, Paul Julius (1864-1927), German palaeontologist; Dr. med. Greifswald 1889; practicing physician at Heinitz-Grosspostritz, 1889-1898; id. at Dresden 1898-1914; id. in the German army 1914-1918; again at Dresden 1918-1927. 
-**Abbreviated name**: *Menzel*
+**Abbreviated name**: *Menzel* \[standard form in IPNI: *Menzel*\]
 
 #### Herbarium and types
 

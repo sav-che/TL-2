@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33212302) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33212302) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10573-1), [Wikidata](https://www.wikidata.org/wiki/Q21393930). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thielens, Armand (1833-1878), Belgian botanist and malacologist; studied at Liège, Brussels and Bonn; industrialist at Tirlemont. 
-**Abbreviated name**: *Thielens*
+**Abbreviated name**: *Thielens* \[standard form in IPNI: *Thielens*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33265557) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33265557) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16359-1), [Wikidata](https://www.wikidata.org/wiki/Q3568447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Borrer, William (1781-1862), British botanist and horticulturist, born at Henfield in Sussex, educated by private tutors, self-made botanist, "with ample leisure and an adequate income", associated with W.J. Hooker and D. Turner, travelled extensively throughout Britain, later closely associated with C.C. Babington. 
-**Abbreviated name**: *Borrer*
+**Abbreviated name**: *Borrer* \[standard form in IPNI: *Borrer*\]
 
 #### Herbarium and types
 

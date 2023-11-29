@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/page/33121047) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 916](https://www.biodiversitylibrary.org/page/33121047) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3027-1), [Wikidata](https://www.wikidata.org/wiki/Q21513795). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gardner, Nathaniel Lyon {std. N.L. Gardner} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gardner, Nathaniel Lyon (1864-1937), American phycologist. 
-**Abbreviated name**: *N. L. Gardner*
+**Abbreviated name**: *N. L. Gardner* \[standard form in IPNI: *N.L.Gardner*\]
 
 #### Herbarium and types
 

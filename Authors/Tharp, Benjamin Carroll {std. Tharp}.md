@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33212274) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33212274) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10543-1), [Wikidata](https://www.wikidata.org/wiki/Q5725999). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tharp, Benjamin Carroll (1885-1964), American botanist; Univ. Texas AM 1915; Dr. phil. 1925; botanist and plant physiologist with the Texas Department of Agriculture 1915-1917; associate professor of biology Sam Houston State Teachers College 1917-1919; instructor in botany Univ. Texas 1919-1920, asst. professor ib. 1920-1925, associate professor ib. 1925-1933; professor of botany 1933-1956; emeritus id. from 1956. 
-**Abbreviated name**: *Tharp*
+**Abbreviated name**: *Tharp* \[standard form in IPNI: *Tharp*\]
 
 #### Herbarium and types
 

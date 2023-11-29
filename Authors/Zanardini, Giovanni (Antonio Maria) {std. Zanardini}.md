@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 516](https://www.biodiversitylibrary.org/page/33066856) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 516](https://www.biodiversitylibrary.org/page/33066856) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13041-1), [Wikidata](https://www.wikidata.org/wiki/Q1959114). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zanardini, Giovanni \[Antonio Maria\] (1804-1878), Italian physician and botanist; Dr. med. Padova 1831, Dr. chir. obstet. Pavia 1934; practicing physician in Padova and Venezia; secretary at the R. Istituto Veneto di Scienze e Lettere, 
-**Abbreviated name**: *Zanardini*
+**Abbreviated name**: *Zanardini* \[standard form in IPNI: *Zanardini*\]
 
 #### Herbarium and types
 

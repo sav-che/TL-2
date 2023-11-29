@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2015-10-16 22:10:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33120555) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33120555) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1351-1), [Wikidata](https://www.wikidata.org/wiki/Q21338925). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cain, Roy Franklin {std. Cain} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Cain, Roy Franklin (1906-x), Canadian mycologist, educated at Toronto. 
-**Abbreviated name**: *Cain*
+**Abbreviated name**: *Cain* \[standard form in IPNI: *Cain*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33266416) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33266416) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/32548-1), [Wikidata](https://www.wikidata.org/wiki/Q1084623). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brockmann, Christoph (1878-1962), German teacher and diatomist in Lehe, born at Schneverdingen (Lüneburger Heide), teacher at Turmstedt (Kreis Stade), from then on interested in the ecology and plant systematics of recent, inter- and postglacial diatoms, Dr. phil. h.c. Kiel 1937. 
-**Abbreviated name**: *C. Brockmann*
+**Abbreviated name**: *C. Brockmann* \[standard form in IPNI: *C.Brockmann*\]
 
 #### Herbarium and types
 

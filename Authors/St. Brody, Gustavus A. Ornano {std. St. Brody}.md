@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1062](https://www.biodiversitylibrary.org/page/33190533) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1062](https://www.biodiversitylibrary.org/page/33190533) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8822-1), [Wikidata](https://www.wikidata.org/wiki/Q21609411). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 St. Brody, Gustavus A. Ornano (1828-1901), French-born botanist and teacher; Dr. phil. Göttingen, settled in England as a young man; as French teacher at the Crypt Grammar School, Gloucester. 
-**Abbreviated name**: *St. Brody*
+**Abbreviated name**: *St. Brody* \[standard form in IPNI: *St.Brody*\]
 
 #### Herbarium and types
 

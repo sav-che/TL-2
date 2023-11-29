@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33066655) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33066655) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11700-1), [Wikidata](https://www.wikidata.org/wiki/Q366231). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Williams, Benjamin Samuel (1822-1890), English horticulturist (orchidologist); gardener's training with his father at The Woodlands, Hertfordshire owned by John Warner, some time in charge of the orchid collections at The Woodlands; nurseryman with R. Parker at Holloway 1854-1861; independent flower grower at Holloway from 1861 (Victoria and Paradise nurseries). 
-**Abbreviated name**: *B.S. Williams*
+**Abbreviated name**: *B.S. Williams* \[standard form in IPNI: *B.S.Williams*\]
 
 #### Herbarium and types
 

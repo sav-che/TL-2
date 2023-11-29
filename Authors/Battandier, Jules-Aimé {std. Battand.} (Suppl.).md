@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33265105) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33265105) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/15794-1), [Wikidata](https://www.wikidata.org/wiki/Q2597737). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Battandier, Jules Aimé {std. Battand.}|first entry]] for this author
 
 ### Author
 
 \* Battandier, Jules-Aimé (1848-1922), French botanist, pharmacologist and explorer of Algeria, studied at the Lycée de Tournon, later studying pharmacy at Lyon (pharmacie Guilliermond) during three years, on active service 1870-1872, continued his pharmaceutical studies in Paris 1872-1874, professional pharmacist 1874, practicing in Douai 1874, chief pharmacist at Mustapha (Algeria) 1875, started botanizing with Louis Trabut from 1875-1920, professor of pharmacy at the medical and pharmaceutical school in Algiers, collected widely in Algeria and Tunisia 1876-1887, between 1887 and 1906 continuing the botanical exploration of that region, from then on making brief trips and publishing additions to his inventories of Algerian phanerogams. 
-**Abbreviated name**: *Battand.*
+**Abbreviated name**: *Battand.* \[standard form in IPNI: *Batt.*\]
 
 #### Herbarium and types
 

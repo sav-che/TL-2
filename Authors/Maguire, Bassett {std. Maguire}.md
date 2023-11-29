@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33355335) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33355335) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5988-1), [Wikidata](https://www.wikidata.org/wiki/Q2695559). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Maguire, Bassett (1904-x), American botanist and explorer of the neotropical flora; B. S. Univ. Georgia 1926; Ph. D. Cornell 1938; from 1931-1943 at Utah State Agricultural College; from 1943 at the New York Botanical Garden; from 1971 semi-retired at New York and the Dominican Republic. 
-**Abbreviated name**: *Maguire*
+**Abbreviated name**: *Maguire* \[standard form in IPNI: *Maguire*\]
 
 #### Herbarium and types
 

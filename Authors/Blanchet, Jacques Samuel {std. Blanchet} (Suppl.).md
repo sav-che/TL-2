@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33265399) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33265399) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/845-1), [Wikidata](https://www.wikidata.org/wiki/Q3159964). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Blanchet, Jacques Samuel {std. Blanchet}|first entry]] for this author
 
 ### Author
 
 \* Blanchet, Jacques Samuel (1807-1875), Swiss (Vaud) botanist and collector, grew up in Vevey, sometime commercial traveller for a wine-store ib., commission-agent at Bahia for a Swiss export firm 1828-1856, also collecting plants and animals from the State of Bahia, in part grown in a garden in Bahia, also distributing material collected in the state by others, returned to Switzerland 1856, settling at Vevey. 
-**Abbreviated name**: *Blanchet*
+**Abbreviated name**: *Blanchet* \[standard form in IPNI: *Blanchet*\]
 
 #### Herbarium and types
 

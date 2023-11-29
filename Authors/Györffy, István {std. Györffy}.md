@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1027](https://www.biodiversitylibrary.org/page/33121158) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1027](https://www.biodiversitylibrary.org/page/33121158) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3512-1), [Wikidata](https://www.wikidata.org/wiki/Q3155761). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Györffy, István (often abbrev. as J.) {std. Györffy} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Györffy, Istvan (1880-1959), Transsylvanian bryologist. 
-**Abbreviated name**: *Györffy*
+**Abbreviated name**: *Györffy* \[standard form in IPNI: *Györffy*\]
 
 #### Herbarium and types
 

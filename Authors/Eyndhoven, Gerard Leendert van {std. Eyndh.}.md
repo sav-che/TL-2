@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33260438) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33260438) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/28196-1), [Wikidata](https://www.wikidata.org/wiki/Q21512498). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eyndhoven, Gerard Leendert van (1906-1990), Dutch entomologist and mycologist, born 29 Mar 1906 at Amsterdam, moved 1922 to Haarlem, shortly after WW II appointed as entomologist at the zoological museum in Amsterdam, recieved a Dr. honoris causa from the University of Amsterdam in 1967, especially interested in Gasteromycetes, died 18 Oct 1990. 
-**Abbreviated name**: *Eyndh.*
+**Abbreviated name**: *Eyndh.* \[standard form in IPNI: *Eyndh.*\]
 
 #### Herbarium and types
 

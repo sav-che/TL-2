@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33120612) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33120612) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1500-1), [Wikidata](https://www.wikidata.org/wiki/Q3171198). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Chalon, Jean Charles Antoine {std. Chalon} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Chalon, Jean Charles Antoine (1846-1921), Belgian botanist. 
-**Abbreviated name**: *Chalon*
+**Abbreviated name**: *Chalon* \[standard form in IPNI: *Chalon*\]
 
 #### Herbarium and types
 

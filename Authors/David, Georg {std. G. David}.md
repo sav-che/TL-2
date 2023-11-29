@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33259142) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33259142) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/20002716-1), [Wikidata](https://www.wikidata.org/wiki/Q47116049). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 David, Georg (1848-?), German born at Frankenstein, Silesia, studied at the University of Breslau with Ph.D. Apr 1862. 
-**Abbreviated name**: *G. David*
+**Abbreviated name**: *G. David* \[standard form in IPNI: *G.David*\]
 
 #### Herbarium and types
 

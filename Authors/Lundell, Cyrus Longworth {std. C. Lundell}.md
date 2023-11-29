@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33355281) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33355281) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5838-1), [Wikidata](https://www.wikidata.org/wiki/Q3009490). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lundell, Cyrus Longworth (1907-x), American botanist; BA Southern Methodist Univ. 1932; assistant botanical garden Ann Arbor 1932-1936; Dr. phil. Univ. Mich. 1936 assistant curator at MICH 1936-1939; curator of phanerogams ib. 1939-1944; at Southern Methodist University 1944-1948; at the Texas Research Foundation Renner 1946-1972; subsequently at Dallas, Texas. 
-**Abbreviated name**: *C. Lundell*
+**Abbreviated name**: *C. Lundell* \[standard form in IPNI: *Lundell*\]
 
 #### Herbarium and types
 

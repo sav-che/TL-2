@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33355940) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33355940) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7181-1), [Wikidata](https://www.wikidata.org/wiki/Q7781936). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Osborn, Theodore George Bentley (1887-1973), British botanist; MSc. Manchester 1911, D. Sc. ib. 1920; lecturer Manchester 1908-1912; professor of botany Adelaide 1912-1927; id. Sydney 1928-1937; id. Oxford 1937-1953; returned to Adelaide 1953. 
-**Abbreviated name**: *T. Osborn*
+**Abbreviated name**: *T. Osborn* \[standard form in IPNI: *T.Osborn*\]
 
 #### Herbarium and types
 

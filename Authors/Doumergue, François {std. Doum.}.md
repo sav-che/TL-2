@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33260065) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33260065) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2293-1), [Wikidata](https://www.wikidata.org/wiki/Q3084479). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Doumergue, François (1858?-1938), French/Algerian botanist, teacher at Lycée (d'Oran) from September 1886, studied extensively the botany of the surroundings of Oran. 
-**Abbreviated name**: *Doum.*
+**Abbreviated name**: *Doum.* \[standard form in IPNI: *Doum.*\]
 
 #### Herbarium and types
 

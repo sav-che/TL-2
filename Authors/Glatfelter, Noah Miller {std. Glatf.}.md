@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33258709) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33258709) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/14328-1), [Wikidata](https://www.wikidata.org/wiki/Q16043719). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Glatfelter, Noah Miller (1837-1911), American physician and salicologist, born 28 Nov 1837 in York, Penn., M.D. 1864 Univ. of Penn. (thesis on hospital gangrene), commissioned as Asst. Surgeon U.S. Volunteers and served in the Dakota Territories until 1867 when he settled in St. Louis at which time he began collecting and paying attention to *Salix*, and then later to Hymenomycetes, died 2 Apr 1911 in St. Louis. 
-**Abbreviated name**: *Glatf.*
+**Abbreviated name**: *Glatf.* \[standard form in IPNI: *Glatf.*\]
 
 #### Herbarium and types
 

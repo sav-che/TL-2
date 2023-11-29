@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33068618) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33068618) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4248-1), [Wikidata](https://www.wikidata.org/wiki/Q5503837). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hustedt, Friedrich (1886-1968), German diatomologist at Bremen. 
-**Abbreviated name**: *Hust.*
+**Abbreviated name**: *Hust.* \[standard form in IPNI: *Hust.*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33068361) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33068361) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3773-1), [Wikidata](https://www.wikidata.org/wiki/Q64256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hedwig, Johann (1730-1799), German bryologist, born in Kronstadt (Brassó, hist. Hungary); Dr. med. Leipzig 1759; physician at Chemnitz (1762-1781), later at Leipzig; ultimately professor of botany and director of the botanic garden at Leipzig. 
-**Abbreviated name**: *Hedw.*
+**Abbreviated name**: *Hedw.* \[standard form in IPNI: *Hedw.*\]
 
 #### Herbarium and types
 

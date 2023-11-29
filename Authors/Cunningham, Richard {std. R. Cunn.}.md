@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33120704) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33120704) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1920-1), [Wikidata](https://www.wikidata.org/wiki/Q4212532). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cunningham, Richard {std. R. Cunn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Cunningham, Richard (1793-1835), British gardener, Kew collector in Australia, colonial botanist in New South Wales 1833-1835, brother of Allan Cunningham. 
-**Abbreviated name**: *R. Cunn.*
+**Abbreviated name**: *R. Cunn.* \[standard form in IPNI: *R.Cunn.*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33258729) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33258729) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3214-1), [Wikidata](https://www.wikidata.org/wiki/Q5764884). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Godet, Charles Henri {std. Godet}|first entry]] for this author
 
 ### Author
 
 \* Godet, Charles Henri (1797-1879), Swiss botanist, born 16 Sep 1797 in Neuchâtel, studied in Neuchâtel and Zurich, instructor in Russia 1822-1829 ("Précepteur des enfants du comte Orlowski"), accompanied Christian von Steven to the Caucasus where they collected plants and insects 1828, sojourned in Paris where he met G. Cuvier, P.A. Latreille and A. von Humboldt, returned to Switzerland 1834, served as school inspector 1839-1848 and librarian in Neuchâtel 1859-1876, died 16 Dec 1879 in Neuchâtel. 
-**Abbreviated name**: *Godet*
+**Abbreviated name**: *Godet* \[standard form in IPNI: *Godet*\]
 
 #### Herbarium and types
 

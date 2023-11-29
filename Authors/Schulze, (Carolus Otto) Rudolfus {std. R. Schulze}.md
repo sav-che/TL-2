@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33333534) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33333534) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12852-1), [Wikidata](https://www.wikidata.org/wiki/Q21608496). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schulze, \[Carolus Otto\] Rudolfus (1870-?), German (Berlin) botanist; studied at the Berlin University; Dr. phil. ib. 1893 as student of Adolf Engler. 
-**Abbreviated name**: *R. Schulze*
+**Abbreviated name**: *R. Schulze* \[standard form in IPNI: *R.Schulze*\]
 
 #### Herbarium and types
 

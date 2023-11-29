@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33355474) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33355474) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6274-1), [Wikidata](https://www.wikidata.org/wiki/Q21520170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mayer, Anton (1867-1951), German algologist and specialist on *Rubus* and *Salix* at Regensburg; studied at the teachers college of Altdorf; teacher at Eschenfeld 1887-1888. from 1888-1932 at various schools in Regensburg, from 1900 at the Müllersche Töchterschule (girls Gymnasium). 
-**Abbreviated name**: *An. Mayer*
+**Abbreviated name**: *An. Mayer* \[standard form in IPNI: *Ant.Mayer*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33265266) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33265266) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/648-1), [Wikidata](https://www.wikidata.org/wiki/Q6098735). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Benedict, Ralph Curtis (1883-1965), American botanist (pteridologist), studied at Syracuse University, Ph. D. ib. 1906, id. Colombia University 1911, student and aid at the New York Botanical Garden 1906-1908, assistant curator 1909, research scholar 1910-1911, lecturer in botany Fordham University Medical School 1910, instructor in botany at N.Y. University School of Applied Science 1911, taught in New York City High Schools 1912-1931, chairman Biology Department Stuyvesant High School 1919-1928, id. Haarem High 1928-1931, instructor in botany 1931-1938, one of the organizers of the American fern Society. 
-**Abbreviated name**: *Benedict*
+**Abbreviated name**: *Benedict* \[standard form in IPNI: *Benedict*\]
 
 #### Herbarium and types
 

@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1006](https://www.biodiversitylibrary.org/page/33121137) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1006](https://www.biodiversitylibrary.org/page/33121137) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3388-1), [Wikidata](https://www.wikidata.org/wiki/Q13218562). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Griffiths, David {std. D. Griffiths} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Griffiths, David (1867-1935), British born American horticulturist and mycologist. 
-**Abbreviated name**: *D. Griffiths*
+**Abbreviated name**: *D. Griffiths* \[standard form in IPNI: *Griffiths*\]
 
 #### Herbarium and types
 

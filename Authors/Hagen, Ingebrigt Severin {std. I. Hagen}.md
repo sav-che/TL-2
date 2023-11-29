@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33068252) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33068252) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3544-1), [Wikidata](https://www.wikidata.org/wiki/Q16649316). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hagen, Ingebrigt Severin (1852-1917), Norwegian physician and bryologist; from 1899 at Opdal (Dovrefjeld); from 1906 at Trondhjem. 
-**Abbreviated name**: *I. Hagen*
+**Abbreviated name**: *I. Hagen* \[standard form in IPNI: *I.Hagen*\]
 
 #### Herbarium and types
 

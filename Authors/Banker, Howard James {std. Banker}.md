@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265039) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265039) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31292-1), [Wikidata](https://www.wikidata.org/wiki/Q5919988). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Banker, Howard James (1866-1940), American (N.Y. State) teacher and mycologist of Dutch descent, graduated from Syracuse University 1892, taught at Poultney (Vt.) 1892-1895, served a Union Church pastorate at Proctor (Vt.) 1895-1898, graduate student at Columbia University 1898-1901, A.M. 1900, started studying the Hydnaceae, teacher of mathematics at Dickinson Seminary 1901, teacher of biology at Southwestern State Normal School at California (Pa.) 1901-1904, professor of biology at DePauw University 1904-1910, Ph.D. Columbia 1906, active mycologist 1901-1914, at Eugenics Record Office at the Station of Experimental Evolution (Carnegie Inst. of Washington at Cold Spring Harbor, Long Island, N.Y.) 1914-1933, in retirement at Huntington, N.Y. 
-**Abbreviated name**: *Banker*
+**Abbreviated name**: *Banker* \[standard form in IPNI: *Banker*\]
 
 #### Herbarium and types
 

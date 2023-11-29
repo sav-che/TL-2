@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33333279) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33333279) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9059-1), [Wikidata](https://www.wikidata.org/wiki/Q20480728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scherffel, Aladár, (1865-1938), Hungarian mycologist and algologist; studied at Budapest University 1883-1884, at Graz 1886-1887, again at Budapest 1887-1888; from then on private scientist at Iglo, Gödölló, later at the Hungarian biological institute at Tihany; Dr. phil. h.c. Szeged 1922; titular professor at the University of Szeged 1933. 
-**Abbreviated name**: *Scherff.*
+**Abbreviated name**: *Scherff.* \[standard form in IPNI: *Scherff.*\]
 
 #### Herbarium and types
 

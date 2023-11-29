@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33265870) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33265870) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1678-1), [Wikidata](https://www.wikidata.org/wiki/Q21508704). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clausen, Roy Elwood (1891-1956), American botanist who dedicated his entire professional life on the cytogenetics of Nicotiana, born at Randall, Iowa, d. Berkeley, Calif., on public schools at Randall 1897, and Newkirk, Oklahoma 1900, at the University of Oklahoma at Stillwater, B.Sc. Agric. 1910, Dr. phil. 1910, at the University of California, Berkeley 1910, Ph.D. biochemistry 1914, at the Division of Genetics Dept. Agr. 1914-1945. 
-**Abbreviated name**: *R.E. Clausen*
+**Abbreviated name**: *R.E. Clausen* \[standard form in IPNI: *R.E.Clausen*\]
 
 #### Herbarium and types
 

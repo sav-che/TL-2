@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33212093) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33212093) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10145-1), [Wikidata](https://www.wikidata.org/wiki/Q26714575). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stiefelhagen, Heinz (*fl*. 1911), German (Alsatian) botanist. 
-**Abbreviated name**: *Stiefelh.*
+**Abbreviated name**: *Stiefelh.* \[standard form in IPNI: *Stiefelh.*\]
 
 #### Herbarium and types
 

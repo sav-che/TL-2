@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33355587) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33355587) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6487-1), [Wikidata](https://www.wikidata.org/wiki/Q20753166). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Miller, Samuel A. (1837-1897), American politician and lawyer at Cincinnati; amateur geolist and palaeontologist. 
-**Abbreviated name**: *S. Mill.*
+**Abbreviated name**: *S. Mill.* \[standard form in IPNI: *S.A.Mill.*\]
 
 #### Herbarium and types
 

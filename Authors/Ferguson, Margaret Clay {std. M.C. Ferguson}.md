@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33259644) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33259644) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2688-1), [Wikidata](https://www.wikidata.org/wiki/Q15998069). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ferguson, Margaret Clay (1863-1951), American botanist, esp. interested in cytology, embryology and genetics, born 20 Aug 1863 in Orleans (Ontario Co.), New York, B.S. 1891 Wellesley College, Wellesley, Mass., Ph.D. 1901 Cornell Univ., Ithaca, New York, taught in public schools, then instructor for botany 1894-1896, 1901-1904, assoc. prof. 1904, prof. and head of dept. 1905-1930, research prof. 1930, dir. of gardens 1923-1932 and prof. emerita 1932, all Wellesley College, first female president B.S.A. 1929, died 28 Aug 1951 in San Diego, Calif. 
-**Abbreviated name**: *M.C. Ferguson*
+**Abbreviated name**: *M.C. Ferguson* \[standard form in IPNI: *M.C.Ferguson*\]
 
 #### Herbarium and types
 

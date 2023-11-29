@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33190279) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33190279) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8436-1), [Wikidata](https://www.wikidata.org/wiki/Q21607267). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Robbins, William Jacob (1890-1978), American botanist; A.B. Lehigh Univ. 1910; Dr. phil. Cornell Univ. 1915; assistant, later instructor for plant physiology at Cornell 1912-1916; professor of botany in the Alabama Polytechnical Institute 1916-1918; on active duty 1918; soil biochemist with USDA 1919; professor of botany and chairman of the Dept. of Botany, Univ. of Missouri, 1919-1937; dean Graduate School 1930-1937; director of the New York Botanical Garden and professor of botany at Columbia Univ., N.Y. 1937-1957; Dr. Sci. h.c. Lehigh 1937, Fordham Univ. 1945. 
-**Abbreviated name**: *W.J. Robbins*
+**Abbreviated name**: *W.J. Robbins* \[standard form in IPNI: *W.J.Robbins*\]
 
 #### Herbarium and types
 

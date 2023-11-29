@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33258774) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33258774) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2865-1), [Wikidata](https://www.wikidata.org/wiki/Q10364291). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fragoso, Romualdo González {std. Gonz. Frag.}|first entry]] for this author
 
 ### Author
 
 \* González Fragoso \[Gonzales Fragoso\], Romualdo (1862-1928), Spanish physician and mycologist, born 18 Mai 1862 in Seville, finished his study of medicine in 1882 in Seville, went to Paris and received M.D., received the Order of Isabella the Catholic 1884, pediatrician in Seville from 1885, traveled again to France, Belgium and Switzerland, conservator, museum for natural sciences, Madrid 1911, president, Real Sociedad Española de Historia Natural 1920, died 3 Jun 1928 in Madrid. 
-**Abbreviated name**: *Gonz. Frag.*
+**Abbreviated name**: *Gonz. Frag.* \[standard form in IPNI: *Gonz.Frag.*\]
 
 #### Note
 

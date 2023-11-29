@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33333909) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33333909) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9943-1), [Wikidata](https://www.wikidata.org/wiki/Q2523019). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spaendonck, Gerrit van (1746-1822), Dutch botanical artist who worked at the Muséum d'Histoire naturelle, Paris; teacher of P.J. Redouté. 
-**Abbreviated name**: *Spaendonck*
+**Abbreviated name**: *Spaendonck* \[standard form in IPNI: *Spaend.*\]
 
 #### Original drawings
 

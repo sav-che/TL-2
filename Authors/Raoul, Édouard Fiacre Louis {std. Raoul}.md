@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 578](https://www.biodiversitylibrary.org/page/33190049) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 578](https://www.biodiversitylibrary.org/page/33190049) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8142-1), [Wikidata](https://www.wikidata.org/wiki/Q633323). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Raoul, Édouard Fiacre Louis (1815-1852), French naval surgeon and botanist; for the Nanto-Bordelaise Company at Akaroa, New Zealand, to serve on l'Allier (1840-1842) and l'Aube (1842-Jan 1843); collected on Banks Peninsula, N.Z., between voyages; later on west coast of Africa; from 1849-1852 teaching medicine at Brest. 
-**Abbreviated name**: *Raoul*
+**Abbreviated name**: *Raoul* \[standard form in IPNI: *Raoul*\]
 
 #### Herbarium and types
 

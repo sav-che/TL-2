@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33333127) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33333127) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8877-1), [Wikidata](https://www.wikidata.org/wiki/Q36509798). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sand, Austin Westman William (*fl*. 1926), American botanist at the Agricultural Experiment Station of Cornell University. 
-**Abbreviated name**: *Sand*
+**Abbreviated name**: *Sand* \[standard form in IPNI: *A.W.W.Sand*\]
 
 #### Herbarium and types
 

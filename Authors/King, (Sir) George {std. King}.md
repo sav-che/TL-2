@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33068787) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33068787) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4798-1), [Wikidata](https://www.wikidata.org/wiki/Q2566984). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 King, \[Sir\] George (1840-1909), British botanist; MB Aberdeen 1865; superintendent of the Calcutta Botanic Gardens and of the Cinchona cultivation in Bengal 1871-1898; director Botanical Survey of India 1891-1898. 
-**Abbreviated name**: *King*
+**Abbreviated name**: *King* \[standard form in IPNI: *King*\]
 
 #### Herbarium and types
 

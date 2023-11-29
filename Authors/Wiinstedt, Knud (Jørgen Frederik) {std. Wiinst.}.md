@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33066622) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33066622) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11661-1), [Wikidata](https://www.wikidata.org/wiki/Q19003352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wiinstedt, Knud \[Jørgen Frederik\] (1878-1964), Danish botanist and artist; art and music teacher from 1901-1908; concert and opera singer 1908-1931; assistant at Copenhagen Botanical Museum 1918-1927, curator 1927-1959; specialist on Hieracium, Taraxacum, Euphrasia, Carex and Festuca ovina. 
-**Abbreviated name**: *Wiinst.*
+**Abbreviated name**: *Wiinst.* \[standard form in IPNI: *Wiinst.*\]
 
 #### Herbarium and types
 

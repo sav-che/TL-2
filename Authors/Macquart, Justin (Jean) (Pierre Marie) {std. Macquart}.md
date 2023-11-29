@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33355322) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33355322) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5955-1), [Wikidata](https://www.wikidata.org/wiki/Q919406). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Macquart, Justin \[Jean\] \[Pierre Marie\] (1778-1855), French botanist and entomologist at Lille; long-time director of the Lille Musée d'Histoire naturelle; eventually mayor of Lestrem and member of the Conseil général du Pas de Calais. 
-**Abbreviated name**: *Macquart*
+**Abbreviated name**: *Macquart* \[standard form in IPNI: *Macquart*\]
 
 #### Herbarium and types
 

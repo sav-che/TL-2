@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 969](https://www.biodiversitylibrary.org/page/33121100) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 969](https://www.biodiversitylibrary.org/page/33121100) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3237-1), [Wikidata](https://www.wikidata.org/wiki/Q60622). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Goldfuss, Georg August (1782-1848), German professor of zoology at Bonn. 
-**Abbreviated name**: *Goldfuss*
+**Abbreviated name**: *Goldfuss* \[standard form in IPNI: *Goldfuss*\]
 
 #### Collections
 

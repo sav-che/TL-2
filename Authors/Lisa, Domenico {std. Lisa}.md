@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33355204) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33355204) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22423-1), [Wikidata](https://www.wikidata.org/wiki/Q21519254). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lisa, Domenico (1801-1867) Italian botanist in Piemonte, head gardner at the Torino botanical garden. 
-**Abbreviated name**: *Lisa*
+**Abbreviated name**: *Lisa* \[standard form in IPNI: *Lisa*\]
 
 #### Herbarium and types
 

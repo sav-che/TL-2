@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33333782) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33333782) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9742-1), [Wikidata](https://www.wikidata.org/wiki/Q73160). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sleumer, Hermann Otto (1906-x), German, from 1962 naturalized Dutch botanist; studied pharmacy at Tübingen 1927-1928 and München 1928/29; state examination pharmacy München 1929; studied botany at Freiburg i.Br. 1929-1932, Dr. phil. ib. 1932; with the "Badisches Weinbau-Institut" Freiburg i.Br. 1932-1933; with the Botanical Museum Berlin-Dahlem 1933-1949; habil. Berlin 1937; with the Instituto Miguel Lillo, Tucuman 1949-1953; at Leiden from 1953 onward; 1953-1956 scientific officer Flora malesiana, from 1956-1971 senior curator Rijksherbarium, 1972 honorary collaborator. 
-**Abbreviated name**: *Sleum.*
+**Abbreviated name**: *Sleum.* \[standard form in IPNI: *Sleumer*\]
 
 #### Herbarium and types
 

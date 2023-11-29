@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2018-03-22 15:37:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33258524) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33258524) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/18977-1), [Wikidata](https://www.wikidata.org/wiki/Q5818904). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Frey, Eduard (-Stauffer) {std. Frey}|first entry]] for this author
 
 ### Author
 
 \* Frey \[-Stauffer\], Eduard \[Édouard\] (1888-1974), Swiss biology teacher and lichenologist, born 3 Nov 1888 in Meiringen (Oberhaslital) where he grew up, taught at a primary school 1909-1911 and a girls' school in Bern 1914-1939, Dr. Sci. Nat. 1922, taught biology at a teachers' college 1939-1956, died 23 Apr 1974 in Langenthal (Kt. Bern), "the grand old man of European lichenology..." (*teste* Almborn, 1971). 
-**Abbreviated name**: *Frey*
+**Abbreviated name**: *Frey* \[standard form in IPNI: *Frey*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265573) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265573) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1017-1), [Wikidata](https://www.wikidata.org/wiki/Q20013591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boucher de Crèvecoeur, Jules Armand Guillaume {std. Boucher}|first entry]] for this author
 
 ### Author
 
 \* Boucher de Crèvecoeur, Jules Armand Guillaume (1757-1844), French botanist at Abbeville, studied at the University of Reims, had a large herbarium. 
-**Abbreviated name**: *Boucher*
+**Abbreviated name**: *Boucher* \[standard form in IPNI: *Boucher*\]
 
 #### Herbarium and types
 

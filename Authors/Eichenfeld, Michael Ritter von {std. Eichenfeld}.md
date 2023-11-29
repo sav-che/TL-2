@@ -21,14 +21,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33260263) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33260263) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/20016683-1), [Wikidata](https://www.wikidata.org/wiki/Q21511574). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eichenfeld, Michael Ritter von (1839-1916), Austrian lawyer and botanist, born 22 Jul 1839 at Vienna, "Oberlandesgerichtsrath" at Vienna, studied the flora in the vicinity of Lienz (1883, 1886 and 1889) and visited Panevieggio in the summers of 1892-1897, died at Vienna 1916. 
-**Abbreviated name**: *Eichenfeld*
+**Abbreviated name**: *Eichenfeld* \[standard form in IPNI: *Eichenf.*\]
 
 #### Herbarium and types
 

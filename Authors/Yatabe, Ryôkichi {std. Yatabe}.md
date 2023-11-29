@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33066828) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33066828) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11933-1), [Wikidata](https://www.wikidata.org/wiki/Q1515363). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Yatabe, Ryôkichi (1851-1899), Japanese botanist; BS Cornell 1876; studied with A. Gray and Farlow at Harvard; first professor of botany at Tokyo Imperial University; founder of the Botanical Society of Japan and president of the Higher Teacher's College; director of the Botanic Gardens Tokyo Imperial University 1877-1890. 
-**Abbreviated name**: *Yatabe*
+**Abbreviated name**: *Yatabe* \[standard form in IPNI: *Yatabe*\]
 
 #### Herbarium and types
 

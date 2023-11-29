@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33260259) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33260259) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18400-1), [Wikidata](https://www.wikidata.org/wiki/Q76549). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ehrenberg, Christian Gottfried {std. Ehrenb.}|first entry]] for this author
 
 ### Author
 
 \* Ehrenberg, Christian Gottfried (1795-1876), German botanist, zoologist, physician, naturalist and palaeobotanist, born 19 Apr 1795 at Delitzsch, Sachsen, followed school at Schulpforta, studied at Leipzig theology and philology 1815, and later medicine, promotion in 1818, became member of Leopoldina that same year, travelled a.o. with Hemprich along the Red Sea 1820-1925 and with von Humboldt to Siberia 1829, became extraordinary professor in Berlin 1826, professor in 1839, considered to be the founder of bacteriology and protozoology, died 27 Jun 1876 at Berlin. 
-**Abbreviated name**: *Ehrenb.*
+**Abbreviated name**: *Ehrenb.* \[standard form in IPNI: *Ehrenb.*\]
 
 #### Herbarium and types
 

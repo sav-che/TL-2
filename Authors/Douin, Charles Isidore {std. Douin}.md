@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33120806) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33120806) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18176-1), [Wikidata](https://www.wikidata.org/wiki/Q2959431). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Douin, Charles-Isidore {std. Douin} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Douin, Charles Isidore (1858-1944), French bryologist. 
-**Abbreviated name**: *Douin*
+**Abbreviated name**: *Douin* \[standard form in IPNI: *Douin*\]
 
 #### Herbarium and types
 

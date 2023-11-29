@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33120962) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33120962) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2734-1), [Wikidata](https://www.wikidata.org/wiki/Q1657041). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Finet, Eugène Achille {std. Finet} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Finet, Eugène Achille (1863-1913), French botanist, specialist on orchids, and botanical artist. 
-**Abbreviated name**: *Finet*
+**Abbreviated name**: *Finet* \[standard form in IPNI: *Finet*\]
 
 #### Herbarium and types
 

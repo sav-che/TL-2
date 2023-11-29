@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 942](https://www.biodiversitylibrary.org/page/33190413) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 942](https://www.biodiversitylibrary.org/page/33190413) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/13085-1), [Wikidata](https://www.wikidata.org/wiki/Q50324538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rousseau, Marietta, née Hannon (1850-1926), Belgian self-taught mycologist; from 1908 connected with the Jardin Botanique de l'État, Bruxelles; married E.J. Rousseau 1871. 
-**Abbreviated name**: *M. Rousseau*
+**Abbreviated name**: *M. Rousseau* \[standard form in IPNI: *M.Rousseau*\]
 
 #### Herbarium and types
 

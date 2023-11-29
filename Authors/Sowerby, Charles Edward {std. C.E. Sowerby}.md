@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/page/33333897) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 758](https://www.biodiversitylibrary.org/page/33333897) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9933-1), [Wikidata](https://www.wikidata.org/wiki/Q12899201). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sowerby, Charles Edward (1795-1842), British artist who assisted his father James Sowerby and his brother James de Carle Sowerby with their publications. 
-**Abbreviated name**: *C.E. Sowerby*
+**Abbreviated name**: *C.E. Sowerby* \[standard form in IPNI: *C.E.Sowerby*\]
 
 #### Herbarium and types
 

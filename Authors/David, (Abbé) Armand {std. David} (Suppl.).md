@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33259140) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33259140) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2015-1), [Wikidata](https://www.wikidata.org/wiki/Q346939). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[David, (Abbé) Armand {std. David}|first entry]] for this author
 
 ### Author
 
 \* David, \[Abbé\] Armand (1826-1900), French ornithologist and botanist, born 7 Sep 1826 Espalette in the département Basses-Pyrénées, educated for the priesthood, in charge 1848 of the Lazarist missionary school Paris, 1860-1862 in Peking, China, made natural history collections for Paris (P), died 10 Nov 1900 Paris. 
-**Abbreviated name**: *David*
+**Abbreviated name**: *David* \[standard form in IPNI: *David*\]
 
 #### Herbarium and types
 

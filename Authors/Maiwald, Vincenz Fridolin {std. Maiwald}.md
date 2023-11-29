@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33355347) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33355347) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6004-1), [Wikidata](https://www.wikidata.org/wiki/Q21519815). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Maiwald, Vincenz Fridolin (1862-?), Czech historian of botany; high school teacher at Braunau, Bohemia 
-**Abbreviated name**: *Maiwald*
+**Abbreviated name**: *Maiwald* \[standard form in IPNI: *Maiwald*\]
 
 #### Herbarium and types
 

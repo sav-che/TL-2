@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33259218) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33259218) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2097-1), [Wikidata](https://www.wikidata.org/wiki/Q2959456). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Delastre, Charles Jean Louis {std. Delastre}|first entry]] for this author
 
 ### Author
 
 \* Delastre, Charles Jean Louis (1792-1859), French "sous-préfet" and botanist, born at Paris 17 Nov 1792, died Poitiers 17 Aug 1859, studied at the Faculté de Droit at Poitiers, "Maire" at St.-Benoît 1828, "sous-préfet" Loudun 14 Sep 1830, id. Gien 1841, Melle 1845, démissionaire 1848, moved to Chiré-en-Montrueil (Vienne) from 15 Aug 1843. 
-**Abbreviated name**: *Delastre*
+**Abbreviated name**: *Delastre* \[standard form in IPNI: *Delastre*\]
 
 #### Herbarium and types
 

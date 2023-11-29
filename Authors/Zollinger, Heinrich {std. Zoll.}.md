@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33066890) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33066890) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12060-1), [Wikidata](https://www.wikidata.org/wiki/Q124330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zollinger, Heinrich (1818-1859), Swiss botanist; school teacher at Küssnacht 1836-1837; studied at Genève 1837 (with e.g. Alph. de Candolle); high school teacher at Horgen 1838 and Herzogenbachsee 1840; sent out on a botanical expedition to Java by Alph. de Candolle and others 1841-1844; working at the herbarium of de Candolle 1845; in Sumatra and Java again 1845-1848; director of a seminary at Horgen, Switzerland 1848-1854; again in Java 1855-1859. 
-**Abbreviated name**: *Zoll.*
+**Abbreviated name**: *Zoll.* \[standard form in IPNI: *Zoll.*\]
 
 #### Herbarium and types
 

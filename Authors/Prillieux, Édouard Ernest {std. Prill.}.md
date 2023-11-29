@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33189870) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33189870) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25095-1), [Wikidata](https://www.wikidata.org/wiki/Q3579829). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Prillieux, Édouard Ernest (1829-1915), French agronomist and botanist, especially mycologist and phytopathologist; studied at the Institut agronomique, Versailles, 1849-1855; in various functions at the Sorbonne and the Museum d'Histoire naturelle 1855-1874; lecturer École centr. Arts Manuf. 1874-1876; professor at the Institut agronomique, Versailles 1876; from 1883 inspector general of agricultural teaching, from 1886 director of the Station de pathologie végétale. 
-**Abbreviated name**: *Prill.*
+**Abbreviated name**: *Prill.* \[standard form in IPNI: *Prill.*\]
 
 #### Herbarium and types
 

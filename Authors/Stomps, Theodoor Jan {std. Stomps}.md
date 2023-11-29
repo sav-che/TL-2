@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33212073) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33212073) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10178-1), [Wikidata](https://www.wikidata.org/wiki/Q2289751). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stomps, Theodoor Jan (1885-1973), Dutch botanist (cytologist and geneticist); Dr. phil. Amsterdam 1910; student of Hugo de Vries; extraordinary professor of cytology 1910, idem cytology and systematics 1913; ordinary professor of botany 1919-1946; director of the Amsterdam Botanical Garden 1923-1946; from 1946 in retirement. 
-**Abbreviated name**: *Stomps*
+**Abbreviated name**: *Stomps* \[standard form in IPNI: *Stomps*\]
 
 #### Herbarium and types
 

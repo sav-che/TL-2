@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33068744) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33068744) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4659-1), [Wikidata](https://www.wikidata.org/wiki/Q931826). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Karsten, Petter \[Peter\] Adolf (1834-1917), Finnish mycologist; Ph. D. Helsinki 1859; teacher at the Wasa Gymnasium 1862-1864; lecturer in botany at Mustiala agricultural college 1864-1908; later in Forssa. 
-**Abbreviated name**: *P. Karst.*
+**Abbreviated name**: *P. Karst.* \[standard form in IPNI: *P.Karst.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33068851) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33068851) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4939-1), [Wikidata](https://www.wikidata.org/wiki/Q21517693). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kolbáni, Pál \[Paul\] (1757-1816), Hungarian botanist. 
-**Abbreviated name**: *Kolbáni*
+**Abbreviated name**: *Kolbáni* \[standard form in IPNI: *Kolbáni*\]
 
 #### Herbarium and types
 

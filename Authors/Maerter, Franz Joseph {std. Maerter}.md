@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33355327) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33355327) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/35185-1), [Wikidata](https://www.wikidata.org/wiki/Q21519759). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Maerter, Franz Joseph (1753-1827), Austrian botanist, in tropical America 1783-1788. 
-**Abbreviated name**: *Maerter*
+**Abbreviated name**: *Maerter* \[standard form in IPNI: *Maerter*\]
 
 #### Herbarium and types
 

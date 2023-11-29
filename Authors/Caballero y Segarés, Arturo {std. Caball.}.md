@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33266598) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33266598) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16790-1), [Wikidata](https://www.wikidata.org/wiki/Q5707146). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Caballero y Segarés, Arturo (1877-1950), Spanish botanist, born in Cenicero, educated at the Colegio de Santo Tomás at Logroño, studied at the Faculty of Sciences of the University of Madrid, Lic. 1898 (botany), with the Herbarium of the Jardin Botánico Madrid from 1905, Dr. 1911 at Madrid University, dedicating himself to the flora of Spain. 
-**Abbreviated name**: *Caball.*
+**Abbreviated name**: *Caball.* \[standard form in IPNI: *Caball.*\]
 
 #### Herbarium and types
 

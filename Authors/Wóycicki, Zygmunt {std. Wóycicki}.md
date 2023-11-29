@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/page/33066801) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/page/33066801) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11875-1), [Wikidata](https://www.wikidata.org/wiki/Q9393180). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wóycicki, Zygmunt (1871-1941), Polish botanist; studied at the University of Warsaw; professor of botany at the University of Lemberg (Lwow) 1913; later professor of general botany at the University of Warsaw. 
-**Abbreviated name**: *Wóycicki*
+**Abbreviated name**: *Wóycicki* \[standard form in IPNI: *Wóycicki*\]
 
 #### Herbarium and types
 

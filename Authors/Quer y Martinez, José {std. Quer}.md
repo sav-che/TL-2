@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33189927) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33189927) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8051-1), [Wikidata](https://www.wikidata.org/wiki/Q957879). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Quer y Martinez, José (1695-1764), Spanish botanist. 
-**Abbreviated name**: *Quer*
+**Abbreviated name**: *Quer* \[standard form in IPNI: *Quer*\]
 
 #### Herbarium and types
 

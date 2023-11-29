@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33190039) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33190039) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8112-1), [Wikidata](https://www.wikidata.org/wiki/Q21606908). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ralph, Thomas Shearman (1813-1891), British physician and botanist; emigrated to Australia 1851, to New Zealand 1852-1859; practicing medicine at Melbourne from 1859. 
-**Abbreviated name**: *Ralph*
+**Abbreviated name**: *Ralph* \[standard form in IPNI: *Ralph*\]
 
 #### Herbarium and types
 

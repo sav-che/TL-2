@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33265236) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33265236) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/14231-1), [Wikidata](https://www.wikidata.org/wiki/Q510721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Beechey, Frederick William {std. Beechey}|first entry]] for this author
 
 ### Author
 
 \* Beechey, Frederick William (1796-1856), British rear-admiral and geographer, entered the British navy 1806, lieutenant 1815, accompanied Franklin's Arctic expedition, 1818, employed in survey of the coasts of North Africa 1821-1823, South America 1835, and Ireland, 1837; captain 1827; rear-admiral; president Royal Geographical Society 1835. 
-**Abbreviated name**: *Beechey*
+**Abbreviated name**: *Beechey* \[standard form in IPNI: *Beechey*\]
 
 #### Herbarium and types
 

@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33120354) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33120354) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16173-1), [Wikidata](https://www.wikidata.org/wiki/Q3619040). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bivona-Bernardi, Antonio {std. Biv.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bivona-Bernardi, Antonino de (1774-1837), Sicilian botanist. 
-**Abbreviated name**: *Biv.-Bern.*
+**Abbreviated name**: *Biv.-Bern.* \[standard form in IPNI: *Biv.*\]
 
 #### Herbarium and types
 

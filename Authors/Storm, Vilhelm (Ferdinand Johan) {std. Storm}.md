@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33212066) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33212066) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10188-1), [Wikidata](https://www.wikidata.org/wiki/Q19723432). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Storm, Vilhelm \[Ferdinand Johan\] (1835-1913), Norwegian botanist and zoologist; studied at the University of Oslo; curator of the Trondhjem Museum 1856-1913. 
-**Abbreviated name**: *Storm*
+**Abbreviated name**: *Storm* \[standard form in IPNI: *Storm*\]
 
 #### Herbarium and types
 

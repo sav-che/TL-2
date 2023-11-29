@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33355523) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33355523) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6401-1), [Wikidata](https://www.wikidata.org/wiki/Q21520487). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meurer, Franz Ferdinand (1809-1882), German lawyer, administrator, Regierungsrat, entomologist and botanist at Rudolstadt. 
-**Abbreviated name**: *F. Meurer*
+**Abbreviated name**: *F. Meurer* \[standard form in IPNI: *F.Meurer*\]
 
 #### Herbarium and types
 

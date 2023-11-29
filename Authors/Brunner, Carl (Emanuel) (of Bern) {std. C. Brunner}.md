@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33266470) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33266470) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/32567-1), [Wikidata](https://www.wikidata.org/wiki/Q21506578). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brunner, Carl \[Emanuel\] (of Bern) (1796-1867), Swiss (Bernois) botanist, brother of Samuel Brunner (1790-1844, African explorer). 
-**Abbreviated name**: *C. Brunner*
+**Abbreviated name**: *C. Brunner* \[standard form in IPNI: *C.Brunner*\]
 
 #### Herbarium and types
 

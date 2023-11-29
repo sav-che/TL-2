@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/page/33333977) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 838](https://www.biodiversitylibrary.org/page/33333977) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10027-1), [Wikidata](https://www.wikidata.org/wiki/Q5920936). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stansbury, Howard (1806-1863), American explorer; in corps of civil engineers surveying the Great Lakes area until 1838, from then on officer in the corps of topographical engineers; in command of an expedition to explore and survey the Great Salt Lake region 1849-1850; ultimately at Madison, Wisc. 
-**Abbreviated name**: *Stansb.*
+**Abbreviated name**: *Stansb.* \[standard form in IPNI: *Stansb.*\]
 
 #### Herbarium and types
 

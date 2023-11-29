@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33189728) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33189728) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7680-1), [Wikidata](https://www.wikidata.org/wiki/Q36566484). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pieper, Gustav Robert (*fl*. 1908), German botanist. 
-**Abbreviated name**: *G. Piep.*
+**Abbreviated name**: *G. Piep.* \[standard form in IPNI: *G.Piep.*\]
 
 #### Herbarium and types
 

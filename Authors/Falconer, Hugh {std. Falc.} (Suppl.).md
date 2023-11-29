@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-08-27 13:38:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33259530) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33259530) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2626-1), [Wikidata](https://www.wikidata.org/wiki/Q223013). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Falconer, Hugh {std. Falc.}|first entry]] for this author
 
 ### Author
 
 \* Falconer, Hugh (1808-1865), Scottish physician, paleontologist, zoologist and botanist, born 29 Feb 1808 in Forres (Morayshire), A.M. 1826 Univ. of Aberdeen, M.D. 1829 Univ. of Edinburgh, to India as asst. surgeon with the East India Co. 1830, superintendent of Saharanpur Botanic Garden 1832-1841, returned to England 1842 to curate Indian fossils at the British Museum, again to India as prof. of botany at the Calcutta Medical College and Superintendent of Calcutta Botanic Garden 1848-1855, retired from India service 1855 and returned to England, Wollaston Medal of Geological Society 1837, F.G.S. 1842, F.L.S. 1844, F.R.S. 1845, died 31 Jan 1865 in London, buried in Kensal Green cemetary. 
-**Abbreviated name**: *Falc.*
+**Abbreviated name**: *Falc.* \[standard form in IPNI: *Falc.*\]
 
 #### Herbarium and types
 

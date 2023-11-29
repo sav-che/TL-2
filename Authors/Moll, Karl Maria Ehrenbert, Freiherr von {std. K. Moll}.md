@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33355641) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 554](https://www.biodiversitylibrary.org/page/33355641) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6580-1), [Wikidata](https://www.wikidata.org/wiki/Q913253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moll, Karl Maria Ehrenbert, Freiherr von (1760-1838), German scientist, director of the mathematical-physical class of the Kgl. bayerische Akademie der Wissenschaften at München. 
-**Abbreviated name**: *K. Moll*
+**Abbreviated name**: *K. Moll* \[standard form in IPNI: *K.Moll*\]
 
 #### Herbarium and types
 

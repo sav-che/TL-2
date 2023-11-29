@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 918](https://www.biodiversitylibrary.org/page/33334057) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 918](https://www.biodiversitylibrary.org/page/33334057) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10129-1), [Wikidata](https://www.wikidata.org/wiki/Q21609842). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stevens, Orin Alva (1885-1979), American botanist and entomologist; B.S. Kansas State College 1906; M.S. NDSU 1923; assistant professor, subseq. full professor, North Dakota State University, Fargo 1909-1951; with the North Dakota Institute for regional studies, State College Station, Fargo 1951-1971; emeritus professor of botany 1956-1979; in retirement at Fargo 1976-1977, at Sacramento, Calif. 1977-1979. 
-**Abbreviated name**: *O. Stevens*
+**Abbreviated name**: *O. Stevens* \[standard form in IPNI: *O.Stevens*\]
 
 #### Herbarium and types
 

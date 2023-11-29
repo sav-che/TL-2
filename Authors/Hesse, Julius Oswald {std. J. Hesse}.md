@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33068423) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33068423) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3906-1), [Wikidata](https://www.wikidata.org/wiki/Q1620027). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hesse, Julius Oswald (1835-1917), German industrial chemist and lichenologist; with the Jobst firm in Stuttgart, later at Feuerbach as director of the Vereinigte Chininfabriken Zimmer & Co.; honorary citizen of the town of Feuerbach. 
-**Abbreviated name**: *J. Hesse*
+**Abbreviated name**: *J. Hesse* \[standard form in IPNI: *J.Hesse*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33189877) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33189877) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7967-1), [Wikidata](https://www.wikidata.org/wiki/Q21313999). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Printz, \[Karl\] Henrik \[Oppegaard\] (1888-1978), Norwegian botanist; originally at Trondjhem; from 1926 professor of botany and director of the Botanical Institute of the Agricultural College at Aas near Oslo. 
-**Abbreviated name**: *Printz*
+**Abbreviated name**: *Printz* \[standard form in IPNI: *Printz*\]
 
 #### Herbarium and types
 

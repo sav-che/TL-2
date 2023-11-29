@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33212841) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33212841) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11276-1), [Wikidata](https://www.wikidata.org/wiki/Q2104429). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vrolik, Gerardus (1775-1859), Dutch physician and botanist; Dr. phil. Leiden 1796; professor of botany at the Amsterdam Athenaeum 1796, from 1798 also temporarily in charge of the teaching of obstetrics. 
-**Abbreviated name**: *Vrolik*
+**Abbreviated name**: *Vrolik* \[standard form in IPNI: *Vrolik*\]
 
 #### Herbarium and types
 

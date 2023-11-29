@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33068361) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33068361) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/20124-1), [Wikidata](https://www.wikidata.org/wiki/Q21339460). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hedrick, Joyce (Mrs Volney Kurt Jones) (1897-x), American lichenologist at Ann Arbor. 
-**Abbreviated name**: *J. Hedrick*
+**Abbreviated name**: *J. Hedrick* \[standard form in IPNI: *J.Hedrick*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33120780) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33120780) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2204-1), [Wikidata](https://www.wikidata.org/wiki/Q21510391). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dieterich, Carl (Karl) Friedrich {std. Dieter.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dieterich, Carl Friedrich (1734-1805), German jurist and botanist at Erfurt. 
-**Abbreviated name**: *Dieterich*
+**Abbreviated name**: *Dieterich* \[standard form in IPNI: *Dieter.*\]
 
 #### Herbarium and types
 

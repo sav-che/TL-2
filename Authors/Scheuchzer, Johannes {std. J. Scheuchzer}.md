@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33333280) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33333280) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9064-1), [Wikidata](https://www.wikidata.org/wiki/Q21607893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scheuchzer, Johannes (1684-1738), Swiss botanist at Zürich; brother of J.J. Scheuchzer. 
-**Abbreviated name**: *J. Scheuchzer*
+**Abbreviated name**: *J. Scheuchzer* \[standard form in IPNI: *Scheuchzer f.*\]
 
 #### Herbarium and types
 

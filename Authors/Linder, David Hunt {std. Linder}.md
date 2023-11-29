@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33355096) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33355096) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22375-1), [Wikidata](https://www.wikidata.org/wiki/Q5800069). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Linder, David Hunt (1899-1946), American mycologist; Ph. D. Harvard 1926; author on fungi imperfecti; at the Shaw School of Botany, Washington, Univ., and the Missouri botanical Garden, St. Louis 1926-1931; curator of the Farlow herbarium (1932-1946). 
-**Abbreviated name**: *Linder*
+**Abbreviated name**: *Linder* \[standard form in IPNI: *Linder*\]
 
 #### Herbarium and types
 

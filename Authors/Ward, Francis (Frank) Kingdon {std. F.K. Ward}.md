@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-10-05 08:32:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33066403) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33066403) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12607-1), [Wikidata](https://www.wikidata.org/wiki/Q321094). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ward, Francis \[Frank\] Kingdon (1885-1958), British plant collector, traveller and author; studied at Christ's College, Cambridge; teacher at the Shanghai Public School 1906; travelled in W. China 1909-1910; professional plant collector from 1911-1956, active in China 1911, 1913, 1921-1923; North Burma 1914, 1919, 1926, 1930-1931, 1937, 1938-1939, 1942, 1953; South East Tibet 1924, 1933, 1935; Assam 1927-1928, 1935, 1938, 1946, 1948, 1949; French Indo-China 1929; Thailand 1941; East Manipur 1948; Assam-Tibet 1950; Mount Victoria, West Burma 1956; Veitch memorial medal 1934; O.B.E. 1952; son of Harry Marshall Ward. 
-**Abbreviated name**: *F.K. Ward*
+**Abbreviated name**: *F.K. Ward* \[standard form in IPNI: *Kingdon-Ward*\]
 
 #### Herbarium and types
 

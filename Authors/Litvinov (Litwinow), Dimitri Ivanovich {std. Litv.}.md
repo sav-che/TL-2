@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-12-15 13:49:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33355208) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33355208) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5663-1), [Wikidata](https://www.wikidata.org/wiki/Q4263637). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Litvinov \[Litwinow\], Dimitri Ivanovich (1854-1929), Russian botanist and explorer of central Asia. 
-**Abbreviated name**: *Litv.*
+**Abbreviated name**: *Litv.* \[standard form in IPNI: *Litv.*\]
 
 #### Herbarium and types
 

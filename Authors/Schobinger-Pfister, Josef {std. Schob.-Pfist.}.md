@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33333424) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33333424) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9208-1), [Wikidata](https://www.wikidata.org/wiki/Q21608234). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schobinger-Pfister, Josef (1810-1874), Swiss botanist, commercial gardener and private botany-teacher in Luzern. 
-**Abbreviated name**: *Schob.-Pfist.*
+**Abbreviated name**: *Schob.-Pfist.* \[standard form in IPNI: *Schob.-Pfist.*\]
 
 #### Herbarium and types
 

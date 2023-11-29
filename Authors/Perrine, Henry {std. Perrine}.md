@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33189644) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33189644) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7536-1), [Wikidata](https://www.wikidata.org/wiki/Q4268924). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Perrine, Henry (1797-1840), American botanist; introduced many tropical plants into the southern U.S.; consul at Campeachy, Yucatan, 1827-1831, 1832-1837, at Key West (Indian Key) from 1937. 
-**Abbreviated name**: *Perrine*
+**Abbreviated name**: *Perrine* \[standard form in IPNI: *Perrine*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33265420) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33265420) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/864-1), [Wikidata](https://www.wikidata.org/wiki/Q21506209). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Blomqvist, Sven Gustaf Krister G:Son (1882-1953), Swedish botanist, studied at secondary grammar schools at Skara and Uppsala, and at the University of Uppsala, fil. kand. 1905, fil. lic. 1910, Dr. phil. Uppsala 1911, assistant at Bergielund 1907-1909, teacher of biology and geography at Örebro, lector in biology at the secondary school at Sundsvall 1919. 
-**Abbreviated name**: *Blomq.*
+**Abbreviated name**: *Blomq.* \[standard form in IPNI: *Blomq.*\]
 
 #### Herbarium and types
 

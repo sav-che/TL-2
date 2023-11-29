@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33066468) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33066468) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11465-1), [Wikidata](https://www.wikidata.org/wiki/Q63875). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weber, Georg Heinrich (1752-1828), German (Hannoverian) physician and botanist; Dr. phil. Göttingen 1774; extraordinary professor of medicine and prosector Univ. Kiel 1777, ordinary professor of medicine and botany ib. 1780; "Archiater" 1790; director of the academic clinic 1802; director of the council for medical services of Schleswig Holstein 1810; Dr. phil. h.c. Göttingen 1824. 
-**Abbreviated name**: *G.H. Weber*
+**Abbreviated name**: *G.H. Weber* \[standard form in IPNI: *Weber*\]
 
 #### Herbarium and types
 

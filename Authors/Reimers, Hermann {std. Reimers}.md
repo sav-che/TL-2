@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/page/33190167) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/page/33190167) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25484-1), [Wikidata](https://www.wikidata.org/wiki/Q1612440). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reimers, Hermann (1893-1961), German (Holstein) botanist, studied at Freiburg and Kiel, in charge of the biology department of the "Deutsche\[s\] Forschungsinstitut für Textilrohstoffe" at Karlsruhe; Dr. phil. Hamburg 1922; from 1922-1958 at Berlin-Dahlem (1922 assistant; curator 1948); professor at the Humboldt University, Berlin 1947-1951; bryologist and student of the flora of the Mark Brandenburg. 
-**Abbreviated name**: *Reimers*
+**Abbreviated name**: *Reimers* \[standard form in IPNI: *Reimers*\]
 
 #### Herbarium and types
 

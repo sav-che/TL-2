@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33066525) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33066525) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11552-1), [Wikidata](https://www.wikidata.org/wiki/Q36706187). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wengenmayr, Xaver (*fl*. 1930), German high school teacher and botanist. 
-**Abbreviated name**: *Wengenmayr*
+**Abbreviated name**: *Wengenmayr* \[standard form in IPNI: *Weng.*\]
 
 #### Herbarium and types
 

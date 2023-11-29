@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33068642) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33068642) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4365-1), [Wikidata](https://www.wikidata.org/wiki/Q21516853). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jackson, Joseph (1847-1924), English-born American high school teacher and botanist at Worchester, Mass. 
-**Abbreviated name**: *J. Jacks*
+**Abbreviated name**: *J. Jacks* \[standard form in IPNI: *J.Jacks.*\]
 
 #### Herbarium and types
 

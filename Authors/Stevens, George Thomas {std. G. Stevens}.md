@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 917](https://www.biodiversitylibrary.org/page/33334056) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 917](https://www.biodiversitylibrary.org/page/33334056) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10127-1), [Wikidata](https://www.wikidata.org/wiki/Q21609838). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stevens, George Thomas (1832-1921), American physician and botanist; M.D. Castleton (Vt.) Med. Coll. 1857; army surgeon until 1870; at Union University 1870-1875; practicing physician in New York from 1880. 
-**Abbreviated name**: *G. Stevens*
+**Abbreviated name**: *G. Stevens* \[standard form in IPNI: *Stevens*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33212552) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33212552) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10855-1), [Wikidata](https://www.wikidata.org/wiki/Q21610975). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trow, Albert Howard (1863-1939), British botanist; D.Sc. London Univ.; professor of botany, Univ. Cardiff 1892-1919, principal 1919-1929. 
-**Abbreviated name**: *Trow*
+**Abbreviated name**: *Trow* \[standard form in IPNI: *Trow*\]
 
 #### Herbarium and types
 

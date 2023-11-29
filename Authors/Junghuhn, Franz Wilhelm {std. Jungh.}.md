@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33068713) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33068713) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21104-1), [Wikidata](https://www.wikidata.org/wiki/Q215842). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Junghuhn, Franz Wilhelm (1809-1864), German botanist and traveller. 
-**Abbreviated name**: *Jungh.*
+**Abbreviated name**: *Jungh.* \[standard form in IPNI: *Jungh.*\]
 
 #### Herbarium and types
 
@@ -87,7 +86,7 @@ Steenis-Kruseman, M. J. van, Fl. Males, ser. I. 1: cl. 1950.
 ##### n.3449. Novagenera et species Plantarum florae Javanicae
 
 **Title**
-*Novagenera et species Plantarum florae Javanicae*, Tydschr. nat. Gesch. Physiol. 7: 285-317, *pl. 8.* 1840. Oct.
+*Nova genera et species Plantarum florae Javanicae*, Tydschr. nat. Gesch. Physiol. 7: 285-317, *pl. 8.* 1840. Oct.
 
 **Notes**
 *Publ*.: Nov 1840; reprint with orig. p. \[285\]-317. *Copy*: U. – To be cited from journal.

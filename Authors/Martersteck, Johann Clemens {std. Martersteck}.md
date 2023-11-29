@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33355405) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33355405) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6151-1), [Wikidata](https://www.wikidata.org/wiki/Q36594606). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Martersteck, Johann Clemens (*fl*. 1792), German botanist and church administrator at Bonn. 
-**Abbreviated name**: *Martersteck*
+**Abbreviated name**: *Martersteck* \[standard form in IPNI: *Marterst.*\]
 
 #### Herbarium and types
 

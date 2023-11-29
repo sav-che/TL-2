@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33265515) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33265515) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/20002749-1), [Wikidata](https://www.wikidata.org/wiki/Q47114444). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bonnet, \[Alexis Elzéard\] Henri (1823-1892), French botanist and agriculturist in the arrondissement d'Apt. 
-**Abbreviated name**: *H. Bonnet*
+**Abbreviated name**: *H. Bonnet* \[standard form in IPNI: *H.Bonnet*\]
 
 #### Herbarium and types
 

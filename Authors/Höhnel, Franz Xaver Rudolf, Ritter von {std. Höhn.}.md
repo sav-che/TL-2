@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33068471) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33068471) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4001-1), [Wikidata](https://www.wikidata.org/wiki/Q4502879). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Höhnel, Franz Xaver Rudolf, Ritter von (1852-1920), Austrian bryologist and mycologist; Dr. phil Strassburg 1877; ultimately (1884, 1888) professor of botany at the Technische Hochschule, Wien. 
-**Abbreviated name**: *Höhn.*
+**Abbreviated name**: *Höhn.* \[standard form in IPNI: *Höhn.*\]
 
 #### Herbarium and types
 

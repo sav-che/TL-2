@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33266119) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33266119) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1860-1), [Wikidata](https://www.wikidata.org/wiki/Q2624664). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cramer, Carl Eduard {std. C.E. Cramer}|first entry]] for this author
 
 ### Author
 
 \* Cramer, Carl Eduard (1832-1901), Swiss botanist, born at Zürich, educated at the Zürich Gymnasium, at the Zürich University 1850-1852, moved with his professor Nägeli to Freiburg i. Br. 1852, Dr. phil. ib. 1855 ("phil. dr. Friburgensis"), at the eidgenössischen Polytechnicum in Zürich from 1859, professor ib. 1861-1901, Director Bot. Gart. Zürich 1882-1893. 
-**Abbreviated name**: *C.E. Cramer*
+**Abbreviated name**: *C.E. Cramer* \[standard form in IPNI: *C.E.Cramer*\]
 
 #### Herbarium and types
 

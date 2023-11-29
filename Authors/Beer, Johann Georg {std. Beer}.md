@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33120295) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33120295) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/611-1), [Wikidata](https://www.wikidata.org/wiki/Q4083920). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Beer, Johann Georg {std. Beer} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Beer, Johann Georg (1803-1873), Austrian municipal administrator ("Stadtrath") and botanist in Vienna. 
-**Abbreviated name**: *Beer*
+**Abbreviated name**: *Beer* \[standard form in IPNI: *Beer*\]
 
 #### Herbarium and types
 

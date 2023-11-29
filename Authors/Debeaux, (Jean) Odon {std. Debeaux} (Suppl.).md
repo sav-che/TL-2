@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33259170) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33259170) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2058-1), [Wikidata](https://www.wikidata.org/wiki/Q3173773). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Debeaux, Jean Odon {std. Debeaux}|first entry]] for this author
 
 ### Author
 
 \* Debeaux, \[Jean\] Odon (1826-1910), French pharmacologist, born at Agen (Lot-et-Garonne), died 20 Feb 1910 Toulouse, studied pharmacy 1855, "Pharmacien Aide-major" at the École du Val de Grâce à Paris, sent to Alger in a military hospital, travelled in Italy and Chine 1859, returned to France 1862 (Chevalier Légion d'Honneur), from 1862-1870 at Bastia, "Pharmacien major" at the hospital for invalids in Paris 1871, id. at Perpignan 1872, chef pharmacy at the military hospital of Oran, in retirement at Toulouse. 
-**Abbreviated name**: *Debeaux*
+**Abbreviated name**: *Debeaux* \[standard form in IPNI: *Debeaux*\]
 
 #### Herbarium and types
 

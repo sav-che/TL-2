@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33120737) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33120737) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2058-1), [Wikidata](https://www.wikidata.org/wiki/Q3173773). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Debeaux, (Jean) Odon {std. Debeaux} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Debeaux, Jean Odon (1826-1910), French army pharmacist, botanist and malacologist at Toulouse. 
-**Abbreviated name**: *Debeaux*
+**Abbreviated name**: *Debeaux* \[standard form in IPNI: *Debeaux*\]
 
 #### Herbarium and types
 

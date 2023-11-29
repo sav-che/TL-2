@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33265983) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33265983) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1769-1), [Wikidata](https://www.wikidata.org/wiki/Q4231273). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Constance, Lincoln (1909-x), American botanist, born at Eugene, Oregon, studied at the University of Oregon, A.B. 1930, University of California A.M. 1932, assistant professor of botany and assistant curator of the Herbarium at Washington State College Pullman, 1933-1934, Ph.D. 1934 at University of California, from 1937 at Berkeley as professor of botany, curator of seed plants and director of the University herbarium. 
-**Abbreviated name**: *Constance*
+**Abbreviated name**: *Constance* \[standard form in IPNI: *Constance*\]
 
 #### Herbarium and types
 

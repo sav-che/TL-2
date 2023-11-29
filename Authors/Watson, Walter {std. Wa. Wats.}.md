@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33066445) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33066445) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11438-1), [Wikidata](https://www.wikidata.org/wiki/Q21510504). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Watson, Walter (1872-1960), British school teacher and lichenologist; biology master Sexeys, Bruton, Somerset 1902, at Taunton School 1908-1939; D.Sc. London 1918. 
-**Abbreviated name**: *Wa. Wats.*
+**Abbreviated name**: *Wa. Wats.* \[standard form in IPNI: *Walt.Watson*\]
 
 #### Herbarium and types
 

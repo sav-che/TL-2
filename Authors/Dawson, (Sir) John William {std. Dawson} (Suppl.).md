@@ -25,16 +25,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33259159) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33259159) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2042-1), [Wikidata](https://www.wikidata.org/wiki/Q1702168). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dawson, (Sir) John William {std. Dawson}|first entry]] for this author
 
 ### Author
 
 \* Dawson, \[Sir\] John William (1820-1899), Canadian botanist and geologist, born at Picton, Nova Scotia, Canada, was at the University of Edinburgh, MA 1842, returned to Canada, with Charles Lyell 1842 in the field in Nova Scotia, from 1853 in Montreal in secondary schools, from 1855 principal and professor of geology at McGill College 1855-1893, LL.D. 1884. 
-**Abbreviated name**: *Dawson*
+**Abbreviated name**: *Dawson* \[standard form in IPNI: *Dawson*\]
 
 #### Collections
 

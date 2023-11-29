@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33068837) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33068837) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4910-1), [Wikidata](https://www.wikidata.org/wiki/Q1279282). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Köhler, Hermann Adolph (1834-1879), German botanist. 
-**Abbreviated name**: *Köhl.*
+**Abbreviated name**: *Köhl.* \[standard form in IPNI: *H.A.Köhler*\]
 
 #### Herbarium and types
 

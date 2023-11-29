@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33120979) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33120979) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2794-1), [Wikidata](https://www.wikidata.org/wiki/Q21390716). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Flowers, Seville {std. Flow.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Flowers, Seville (1900-1968), American bryologist. 
-**Abbreviated name**: *Flow.*
+**Abbreviated name**: *Flow.* \[standard form in IPNI: *Flowers*\]
 
 #### Herbarium and types
 

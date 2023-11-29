@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33212551) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33212551) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10851-1), [Wikidata](https://www.wikidata.org/wiki/Q21610972). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trouette, Édouard (1855-?), French (Réunion-born) pharmacist; Pharm. I. Cl. Paris 1879. 
-**Abbreviated name**: *Trouette*
+**Abbreviated name**: *Trouette* \[standard form in IPNI: *Trouette*\]
 
 #### Herbarium and types
 

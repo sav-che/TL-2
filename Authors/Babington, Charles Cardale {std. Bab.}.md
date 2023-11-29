@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33120214) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33120214) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/31137-1), [Wikidata](https://www.wikidata.org/wiki/Q549729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Babington, Charles Cardale {std. Bab.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Babington, Charles Cardale (1808-1895), British botanist, professor of botany at Cambridge. 
-**Abbreviated name**: *Bab.*
+**Abbreviated name**: *Bab.* \[standard form in IPNI: *Bab.*\]
 
 #### Herbarium and types
 

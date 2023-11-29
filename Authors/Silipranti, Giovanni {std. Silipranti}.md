@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33333736) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33333736) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9638-1), [Wikidata](https://www.wikidata.org/wiki/Q36568478). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Silipranti, Giovanni (*fl*. 1887), Italian botanist; science teacher at the Technical college of Udine; later at Foggia. 
-**Abbreviated name**: *Silipranti*
+**Abbreviated name**: *Silipranti* \[standard form in IPNI: *Silipr.*\]
 
 #### Herbarium and types
 

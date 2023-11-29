@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33189701) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33189701) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12733-1), [Wikidata](https://www.wikidata.org/wiki/Q4733834). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Phelps, Almira (previously Lincoln, née Hart or Heart) (1793-1884), American popular writer on botany and teacher at the Troy Female Seminary; from 1838-1841 in charge of a seminary in West Chester, Pa., from 1841 id. of the Patapsco Female Institute, Ellicott City, Md.; married Samuel Lincoln 1817, John Phelps 1831. 
-**Abbreviated name**: *A. Phelps*
+**Abbreviated name**: *A. Phelps* \[standard form in IPNI: *A.Phelps*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/page/33120994) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/page/33120994) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2844-1), [Wikidata](https://www.wikidata.org/wiki/Q3290287). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Foslie, Mikal (Mikel, Mikael, Michael) Heggelund {std. Foslie} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Foslie, Michael (Mikal) Heggelund (1855-1909), Norwegian algologist. 
-**Abbreviated name**: *Foslie*
+**Abbreviated name**: *Foslie* \[standard form in IPNI: *Foslie*\]
 
 #### Herbarium and types
 

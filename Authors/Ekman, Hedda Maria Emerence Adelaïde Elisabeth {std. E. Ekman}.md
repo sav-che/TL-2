@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33260280) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33260280) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/12422-1), [Wikidata](https://www.wikidata.org/wiki/Q5893410). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ekman, Hedda Maria Emerence Adelaïde Elisabeth (1862-1936), Swedish botanist, born 18 Dec 1862 at the Dylta bruk in Närke under her maiden-name Åkerhielm, married Otto Ekman (lawyer) in 1891, died 25 Mai 1936. 
-**Abbreviated name**: *E. Ekman*
+**Abbreviated name**: *E. Ekman* \[standard form in IPNI: *E.Ekman*\]
 
 #### Herbarium and types
 

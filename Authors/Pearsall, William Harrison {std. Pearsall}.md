@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33189601) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33189601) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7440-1), [Wikidata](https://www.wikidata.org/wiki/Q21522733). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pearsall, William Harrison (1860-1936), British schoolmaster and botanist at Dalton-in-Furness until 1925; retired to Kent; secretary of the Botanical Society of the British Isles 1931-1936. 
-**Abbreviated name**: *Pearsall*
+**Abbreviated name**: *Pearsall* \[standard form in IPNI: *Pearsall*\]
 
 #### Herbarium and types
 

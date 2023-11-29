@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33212310) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33212310) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27673-1), [Wikidata](https://www.wikidata.org/wiki/Q2960311). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thom, Charles (1872-1956), American mycologist and microbiologist; at Lake Forest College, Illinois 1895-1897, A.M. ib. 1897; instructor in biology Missouri State Univ. 1897-1899; Dr. phil. ib. 1899; instructor in botany ib. 1899-1901, assistant professor of botany ib. 1901-1902; assistant in mycology Cornell University 1902-1904; mycologist with USDA for cheese investigation at Storrs, Connecticut 1904-1913; mycologist in charge of the USDA microbiological laboratory, Washington 1913-1927; mycologist in charge of the Division of Soil microbiology ib. 1927-1942 (from 1934 in the Bureau of Plant Industry). 
-**Abbreviated name**: *Thom*
+**Abbreviated name**: *Thom* \[standard form in IPNI: *Thom*\]
 
 #### Herbarium and types
 

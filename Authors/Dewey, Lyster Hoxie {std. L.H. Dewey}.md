@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33259302) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33259302) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2178-1), [Wikidata](https://www.wikidata.org/wiki/Q577009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dewey, Lyster Hoxie (1865-1944), American agricultural botanist, born at Cambridge, Michigan 14 Mar 1865, died 27 Nov 1944 Kenmore, N.Y., B.S. Michigan State Col. 1888, instructor ib. 1888-1890, botanist at U.S.D.A. 1890-1935, in charge of fiber-crop investigations, grasses, and weeds troublesome to agriculture. 
-**Abbreviated name**: *L.H. Dewey*
+**Abbreviated name**: *L.H. Dewey* \[standard form in IPNI: *L.H.Dewey*\]
 
 #### Herbarium and types
 

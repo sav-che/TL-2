@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33264881) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33264881) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/262-1), [Wikidata](https://www.wikidata.org/wiki/Q19214112). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arendt, Johann Josef Franz {std. Arendt}|first entry]] for this author
 
 ### Author
 
 \* Arendt, Johann Josef Franz (fl. 1828-1840), German (Hannoveranian) botanist at Osnabrück, member of the Regensburgische Botanische Gesellschaft (from 1837). 
-**Abbreviated name**: *Arendt*
+**Abbreviated name**: *Arendt* \[standard form in IPNI: *Arendt*\]
 
 #### Herbarium and types
 

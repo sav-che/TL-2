@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33068578) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33068578) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4117-1), [Wikidata](https://www.wikidata.org/wiki/Q507763). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Horsfield, Thomas (1773-1859), American zoologist and botanist; Dr. med. Philadelphia 1798; naturalist on Java 1800-1818; from 1820 keeper of the East India Company museum, London. 
-**Abbreviated name**: *Horsf*
+**Abbreviated name**: *Horsf* \[standard form in IPNI: *Horsf.*\]
 
 #### Herbarium and types
 

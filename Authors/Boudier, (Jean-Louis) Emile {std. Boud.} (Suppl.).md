@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265573) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265573) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1019-1), [Wikidata](https://www.wikidata.org/wiki/Q374684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boudier, Jean Louis Émile {std. Boud.}|first entry]] for this author
 
 ### Author
 
 \* Boudier, \[Jean-Louis\] Emile (1828-1920), French pharmacist and botanist, followed his father who was pharmacist at Montmorency, studied at the École supérieure de pharmacie de Paris, intern pharmacist in the Paris hospitals 1849, Pharmacien 1-re classe 1852, had a dispensary at Enghien 1853, shortly later in charge of his father's pharmacy until 1878, from then on dedicating himself to his scientific work. 
-**Abbreviated name**: *Boud.*
+**Abbreviated name**: *Boud.* \[standard form in IPNI: *Boud.*\]
 
 #### Herbarium and types
 

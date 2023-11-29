@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/page/33333842) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/page/33333842) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9812-1), [Wikidata](https://www.wikidata.org/wiki/Q3299110). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Matilda (1854-1926), British (Bombay-born) botanical artist, cousin of J.D. Hooker, associated with the Royal Botanic Gardens, Kew 1877-1921; contributed drawings to Botanical Magazine, Hooker's Icones and several other Kew publications. 
-**Abbreviated name**: *M. Sm.*
+**Abbreviated name**: *M. Sm.* \[standard form in IPNI: *M.Sm.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/page/33120834) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/page/33120834) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2385-1), [Wikidata](https://www.wikidata.org/wiki/Q1871768). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Duperrey, Louis Isidore (1786-1865), French navy officer, hydrographer and physicist. 
-**Abbreviated name**: *Duperrey*
+**Abbreviated name**: *Duperrey* \[standard form in IPNI: *Duperrey*\]
 
 #### Herbarium and types
 

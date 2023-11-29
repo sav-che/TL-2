@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33066558) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33066558) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11596-1), [Wikidata](https://www.wikidata.org/wiki/Q6238531). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Westring, Johan Peter (1753-1833), Swedish physician and lichenologist; student of C. Linnaeus; Dr. med. Uppsala 1780; practicing physician in Linköping and, from 1781, Norrköping; royal physician from 1794. 
-**Abbreviated name**: *Westr.*
+**Abbreviated name**: *Westr.* \[standard form in IPNI: *Westr.*\]
 
 #### Herbarium and types
 

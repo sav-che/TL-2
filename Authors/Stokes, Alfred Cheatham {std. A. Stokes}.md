@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33212079) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33212079) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10164-1), [Wikidata](https://www.wikidata.org/wiki/Q25662096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stokes, Alfred Cheatham (*fl*. 1893), American physician and algologist at Trenton, N.J. 
-**Abbreviated name**: *A. Stokes*
+**Abbreviated name**: *A. Stokes* \[standard form in IPNI: *A.Stokes*\]
 
 #### Herbarium and types
 

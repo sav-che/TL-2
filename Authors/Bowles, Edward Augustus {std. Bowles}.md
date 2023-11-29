@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33265598) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33265598) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1048-1), [Wikidata](https://www.wikidata.org/wiki/Q4095221). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bowles, Edward Augustus (1865-1954), English horticulturist and entomologist, educated at home until 1884, went to Jesus College, Cambridge, degree in theology 1887, (never ordained) gentleman of private means from 1887 dedicating himself to social work and natural history at his family home Myddelton House, Enfield, Middlesex. 
-**Abbreviated name**: *Bowles*
+**Abbreviated name**: *Bowles* \[standard form in IPNI: *Bowles*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1044](https://www.biodiversitylibrary.org/page/33190515) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1044](https://www.biodiversitylibrary.org/page/33190515) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8792-1), [Wikidata](https://www.wikidata.org/wiki/Q21607597). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sachse, Carl Traugott (1815-1863), German (Saxonian) naturalist and high school teacher at Dresden. 
-**Abbreviated name**: *Sachse*
+**Abbreviated name**: *Sachse* \[standard form in IPNI: *Sachse*\]
 
 #### Herbarium and types
 

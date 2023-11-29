@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33066667) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33066667) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11712-1), [Wikidata](https://www.wikidata.org/wiki/Q20016691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Williamson, Herbert Bennett (1860-1931), Australian school teacher and botanist; teacher at various schools in Victoria until 1908, from then on head master at several Victorian State Schools, ultimately at the Dandenong State School 1922-1925. 
-**Abbreviated name**: *H.B. Williamson*
+**Abbreviated name**: *H.B. Williamson* \[standard form in IPNI: *H.B.Will.*\]
 
 #### Herbarium and types
 

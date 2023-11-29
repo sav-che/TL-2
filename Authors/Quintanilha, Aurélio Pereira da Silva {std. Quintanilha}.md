@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/page/33189929) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/page/33189929) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8059-1), [Wikidata](https://www.wikidata.org/wiki/Q21606809). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Quintanilha, Aurélio Pereira da Silva (1892-x), Portuguese botanist; Dr. phil. Coimbra 1926; at the Botanical Institute of Coimbra. 
-**Abbreviated name**: *Quintanilha*
+**Abbreviated name**: *Quintanilha* \[standard form in IPNI: *Quint.*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33265808) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 131](https://www.biodiversitylibrary.org/page/33265808) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/12379-1), [Wikidata](https://www.wikidata.org/wiki/Q4527095). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Choisy, Jacques Denis {std. Choisy}|first entry]] for this author
 
 ### Author
 
 \* Choisy, Jacques-Denis (1799-1859), Swiss botanist, theologist, philosopher and teacher, born at Jussy, Genève, at the Auditoire de Théologie 1817-1821, ministre du Saint Evangile 1821, in Paris 1822-1823 working with the Paris botanists, teacher of philosophy at the Scottish school during 25 years until 1846 when his public work had to be stopped by the "Constituante". 
-**Abbreviated name**: *Choisy*
+**Abbreviated name**: *Choisy* \[standard form in IPNI: *Choisy*\]
 
 #### Herbarium and types
 

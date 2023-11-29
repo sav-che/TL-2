@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33068680) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33068680) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4471-1), [Wikidata](https://www.wikidata.org/wiki/Q18912447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jennings, Otto Emery (1877-1964), American botanist; B.S. Agric. Ohio State Univ. 1903; Dr. phil. Univ. Pittsburgh 1911; Dr. h.c. Sci. id. 1930; from 1904-1964 at the Carnegie Museum Pittsburgh, also at the University of Pittsburgh in various functions 1911-1946; edrtor of the Bryologist 1913-1938; to his friends "?. ?." 
-**Abbreviated name**: *Jenn.*
+**Abbreviated name**: *Jenn.* \[standard form in IPNI: *Jenn.*\]
 
 #### Herbarium and types
 

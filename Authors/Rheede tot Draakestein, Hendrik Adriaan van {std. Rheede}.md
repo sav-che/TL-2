@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33190221) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33190221) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8331-1), [Wikidata](https://www.wikidata.org/wiki/Q741104). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rheede tot Draakestein, Hendrik Adriaan van (1637-1691), Dutch colonial administrator and botanist; employee of the Dutch East India Company; governor of Malabar 1669-1676; in the Netherlands 1677-1684; from 1684 head representative of the East Indian Company in India. 
-**Abbreviated name**: *Rheede*
+**Abbreviated name**: *Rheede* \[standard form in IPNI: *Rheede*\]
 
 #### Herbarium and types
 

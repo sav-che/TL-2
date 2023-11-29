@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33265899) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33265899) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1702-1), [Wikidata](https://www.wikidata.org/wiki/Q4224039). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clokey, Ira Waddell (1878-1950), American botanist, born in Illinois, studied at the Universities of Illinois and Harvard, graduated majoring in mining engineering 1903, mining in Mexico 1903-1915, in Colorado 1915-1920, studied botany at the University of Iowa 1920, master of sciences in plant pathology 1921, active in S. Nevada 1935-1942, died 13 Jan 1950 at his home in South Pasadena. 
-**Abbreviated name**: *Clokey*
+**Abbreviated name**: *Clokey* \[standard form in IPNI: *Clokey*\]
 
 #### Herbarium and types
 

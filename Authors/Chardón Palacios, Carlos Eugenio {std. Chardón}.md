@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33120617) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33120617) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1535-1), [Wikidata](https://www.wikidata.org/wiki/Q5042006). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Chardón(-Palacios), Carlos Eugenio {std. Chardón} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Chardón Palacios, Carlos Eugenio (1897-1965), Puerto-Rican botanist and phytopathologist, educated at Cornell University. 
-**Abbreviated name**: *Chardón*
+**Abbreviated name**: *Chardón* \[standard form in IPNI: *Chardón*\]
 
 #### Herbarium and types
 

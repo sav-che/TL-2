@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33264992) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33264992) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/13245-1), [Wikidata](https://www.wikidata.org/wiki/Q17064297). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bailey, John Frederick (1866-1938), Australian botanist, son of Frederick Manson Bailey; assistant to his father 1889, director of the Botanic Gardens, Brisbane 1905-1917, Queensland Colonial botanist 1915-1917, director of the Adelaide Botanic Gardens 1917-1932, in retirement again in Brisbane. 
-**Abbreviated name**: *J.F. Bailey*
+**Abbreviated name**: *J.F. Bailey* \[standard form in IPNI: *J.F.Bailey*\]
 
 #### Herbarium and types
 

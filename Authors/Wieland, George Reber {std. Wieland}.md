@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33066605) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33066605) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11648-1), [Wikidata](https://www.wikidata.org/wiki/Q3101852). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wieland, George Reber (1865-1953), American palaeontologist; B.S. Pennsylvania State College 1893; at University of Göttingen 1894; Dr. phil. Yale 1900; teacher at Chester, Pennsylvania 1895-1898; from 1899 palaeontologist at Yale University (fellow 1899, lecturer 1906, res. asst. 1920, assoc. prof. 1924-1935) and associate of the Carnegie Institution. 
-**Abbreviated name**: *Wieland*
+**Abbreviated name**: *Wieland* \[standard form in IPNI: *Wieland*\]
 
 #### Herbarium and types
 

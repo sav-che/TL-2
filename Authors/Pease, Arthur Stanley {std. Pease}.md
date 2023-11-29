@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33189605) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33189605) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7446-1), [Wikidata](https://www.wikidata.org/wiki/Q711591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pease, Arthur Stanley (1881-1964), American classicist and botanist; A.B. Univ. Illinois 1902; Ph. D. Harvard 1906; taught Latin and Greek at Harvard (1906-1909), Univ. Illinois (1909-1924), Amherst Coll. (1924-1926), Harvard (1932-1950); president Amherst College (1927-1932); active plant collector, made trip around the world 1926-1927. 
-**Abbreviated name**: *Pease*
+**Abbreviated name**: *Pease* \[standard form in IPNI: *Pease*\]
 
 #### Herbarium and types
 

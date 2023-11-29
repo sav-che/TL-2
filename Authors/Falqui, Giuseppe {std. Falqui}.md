@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33259534) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33259534) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/34877-1), [Wikidata](https://www.wikidata.org/wiki/Q36561821). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Falqui, Giuseppe (fl. 1886-1924), Italian botanist and paleobotanist, Ph.D., prof., Univ. of Sassari (n.w. Sardinia), also worked in Cagliari (s. Sardinia), dir. of its botanical garden 1915-1920 and 1922-1924. 
-**Abbreviated name**: *Falqui*
+**Abbreviated name**: *Falqui* \[standard form in IPNI: *Falqui*\]
 
 #### Herbarium and types
 

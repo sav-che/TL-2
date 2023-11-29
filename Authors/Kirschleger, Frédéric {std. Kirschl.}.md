@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33068794) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33068794) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4814-1), [Wikidata](https://www.wikidata.org/wiki/Q2717833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kirschleger, Frédéric (1804-1869), Alsatian botanist; M.D. Paris 1829; 1829-1834 physician at Munster; from 1834-1845 at the Strasbourg École de Pharmacie; from 1845 at the Faculté de médécine; Dr. Sc. Strasbourg 1846. 
-**Abbreviated name**: *Kirschl.*
+**Abbreviated name**: *Kirschl.* \[standard form in IPNI: *Kirschl.*\]
 
 #### Herbarium and types
 

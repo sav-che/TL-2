@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33120600) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33120600) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1457-1), [Wikidata](https://www.wikidata.org/wiki/Q334914). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Catesby, Mark (1683-1749), English traveller and naturalist, in Virginia 1712-1719, Carolina etc. 1722-1726. 
-**Abbreviated name**: *Catesby*
+**Abbreviated name**: *Catesby* \[standard form in IPNI: *Catesby*\]
 
 #### Herbarium and types
 

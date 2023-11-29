@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33333434) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33333434) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9228-1), [Wikidata](https://www.wikidata.org/wiki/Q21608276). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scholz, Eduard (1860-?), Transsylvania-born Austrian botanist; high school teacher at Stockerau, Görtz \[Göritz, Gorizia, Venetia Giulia\]; id. in Krems 1897-1898; from 1898 id. in Wien. 
-**Abbreviated name**: *E. Scholz*
+**Abbreviated name**: *E. Scholz* \[standard form in IPNI: *E.Scholz*\]
 
 #### Herbarium and types
 

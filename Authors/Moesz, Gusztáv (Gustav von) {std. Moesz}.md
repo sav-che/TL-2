@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33355626) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33355626) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23511-1), [Wikidata](https://www.wikidata.org/wiki/Q1178298). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moesz, Gusztáv (Gustav von) (1873-1946), Hungarian botanist; high school teacher at Brassó, from 1906 id. at Budapest and specializing mainly on mycology; from 1910 curator, later director of BP. 
-**Abbreviated name**: *Moesz*
+**Abbreviated name**: *Moesz* \[standard form in IPNI: *Moesz*\]
 
 #### Herbarium and types
 

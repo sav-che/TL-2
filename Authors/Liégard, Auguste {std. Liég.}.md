@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33355113) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33355113) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5578-1), [Wikidata](https://www.wikidata.org/wiki/Q21519067). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Liégard, Auguste (1801?-1892) French physician and botanist. 
-**Abbreviated name**: *Liég.*
+**Abbreviated name**: *Liég.* \[standard form in IPNI: *Liég.*\]
 
 #### Herbarium and types
 

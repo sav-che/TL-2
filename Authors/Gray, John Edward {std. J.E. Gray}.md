@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 993](https://www.biodiversitylibrary.org/page/33121124) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 993](https://www.biodiversitylibrary.org/page/33121124) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3355-1), [Wikidata](https://www.wikidata.org/wiki/Q191963). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gray, John Edward {std. J.E. Gray} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gray, John Edward (1800-1875), British algologist, hepaticologist and zoologist, keeper of the Zool. Dept. of the British Museum 1840-1875, son of S. F. Gray. 
-**Abbreviated name**: *J. E. Gray*
+**Abbreviated name**: *J. E. Gray* \[standard form in IPNI: *J.E.Gray*\]
 
 #### Herbarium and types
 

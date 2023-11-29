@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33068800) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33068800) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4824-1), [Wikidata](https://www.wikidata.org/wiki/Q21517571). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kitton, Frederic (1827-1895), British diatomist and microscopist. 
-**Abbreviated name**: *Kitton*
+**Abbreviated name**: *Kitton* \[standard form in IPNI: *Kitton*\]
 
 #### Herbarium and types
 

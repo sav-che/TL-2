@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33265908) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33265908) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17319-1), [Wikidata](https://www.wikidata.org/wiki/Q1664295). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cobb, Nathan Augustus (1859-1932), American botanist and plant pathologist born in Spencer, Mass., studied at the Worcester Polytechnic Institute, Mass., 1878-1881, teacher of chemistry and drawing at Williston Seminary in Easthampton, Mass., 1881-1887, went to Jena, Germany, for further studies 1887, received a Dr. phil., studied again at Naples, and went to Australia, first at the University of Sydney, scientist at the Department of Agriculture N.S.W. until 1898, returned to USA and travelled widely, back to Australia 1901, in Hawaii 1905-1907, from 1907 again in the USA employed with the Agricultural Dept. Washington D.C. until 1932. 
-**Abbreviated name**: *Cobb*
+**Abbreviated name**: *Cobb* \[standard form in IPNI: *Cobb*\]
 
 #### Herbarium and types
 

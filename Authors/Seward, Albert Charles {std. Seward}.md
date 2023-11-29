@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33333678) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33333678) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26557-1), [Wikidata](https://www.wikidata.org/wiki/Q951610). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seward, Albert Charles (1863-1941), British paleobotanist; lecturer (later fellow) St. John's College Cambridge 1890; professor of botany Cambridge 1906-1936; also Master of Downing College 1915-1936; FRS 1898; knighted 1936; after retirement working in London (Brit. Mus. Nat. Hist.) and Oxford. 
-**Abbreviated name**: *Seward*
+**Abbreviated name**: *Seward* \[standard form in IPNI: *Seward*\]
 
 #### Herbarium and types
 

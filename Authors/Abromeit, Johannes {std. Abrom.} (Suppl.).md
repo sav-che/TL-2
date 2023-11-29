@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33264763) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33264763) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/47-1), [Wikidata](https://www.wikidata.org/wiki/Q73227). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Abromeit, Johannes {std. Abrom.}|first entry]] for this author
 
 ### Author
 
 \* Abromeit, Johannes (1857-1946), German botanist at Königsberg i. Pr., born in Paschleitschen nr. Ragnit, East Prussia, studied at the Real-Gymnasium in Gumbinnen 1871-1876 and at a similar institution in Königsberg i. Pr. 1877-1879; studied natural sciences at the Albertus-Universität ib. 1879-1884 (natural sciences, philosophy, German literature); Dr. phil. ib. 1884 with Robert Caspary; state-examination for teacher of secondary schools 1886, assistant in botany at the Königsberg botanical institute from 1887, "Habilitation" 19 Mar 1900, private lecturer at the University 1900, extraordinary professor of botany (titular) 1911, pensioned off 1930; prime mover of the Preussische Botanische Verein, fled to Jena 1944. 
-**Abbreviated name**: *Abrom.*
+**Abbreviated name**: *Abrom.* \[standard form in IPNI: *Abrom.*\]
 
 #### Herbarium and types
 

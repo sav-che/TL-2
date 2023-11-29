@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33068794) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33068794) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4811-1), [Wikidata](https://www.wikidata.org/wiki/Q21517546). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kirkwood, Joseph Edward (1872-1928), American botanist; Ph. D. Columbia 1903, from 1901-1907 at Syracuse University; from 1907-1909 involved in guayule-rubber research; from 1909 at the department of botany of the University of Montana, Missoula. 
-**Abbreviated name**: *Kirkw.*
+**Abbreviated name**: *Kirkw.* \[standard form in IPNI: *Kirkw.*\]
 
 #### Herbarium and types
 

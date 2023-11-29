@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33068667) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33068667) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4431-1), [Wikidata](https://www.wikidata.org/wiki/Q2880493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jardin, Désiré Édélestan Stanislas Aimé (1822-1896), French amateur botanist, inspector general of the French navy. 
-**Abbreviated name**: *Jard.*
+**Abbreviated name**: *Jard.* \[standard form in IPNI: *Jard.*\]
 
 #### Herbarium and types
 

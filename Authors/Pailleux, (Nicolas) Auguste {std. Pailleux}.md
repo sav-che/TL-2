@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33189508) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33189508) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7251-1), [Wikidata](https://www.wikidata.org/wiki/Q21394412). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pailleux, \[Nicolas\] Auguste (1812-1898), French botanist; owner and director of an embroidery firm at Saint Pierre-lez-Calars ca. 1840-1871; in retirement at Crosnes nr. Villeneuve-Saint-Georges dedicating himself to horticulture developing new cultivars of vegetables; introduced the chinese artichoke ("Crosne"). 
-**Abbreviated name**: *Pailleux*
+**Abbreviated name**: *Pailleux* \[standard form in IPNI: *Pailleux*\]
 
 #### Herbarium and types
 

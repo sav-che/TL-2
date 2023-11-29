@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33266170) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33266170) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/39622-1), [Wikidata](https://www.wikidata.org/wiki/Q21509611). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cufino, Luigi (1884-?), Italian botanist, born at Napoli, "secrétaire de la Società Africana d’Italia" from 1908, "vice-secrétaire de la Società di Naturalisti di Napoli", visited the environs of Tripoli 20 Mai – 25 Jun 1906, collecting for the Botanical Institute at Napoli. 
-**Abbreviated name**: *Cufino*
+**Abbreviated name**: *Cufino* \[standard form in IPNI: *Cufino*\]
 
 #### Herbarium and types
 

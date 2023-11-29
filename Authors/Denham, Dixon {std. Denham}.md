@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33120752) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33120752) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2126-1), [Wikidata](https://www.wikidata.org/wiki/Q1231777). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Denham, Dixon (1786-1828), British colonial army officer and traveller \[with Clapperton\] in Africa. 
-**Abbreviated name**: *Denham*
+**Abbreviated name**: *Denham* \[standard form in IPNI: *Denham*\]
 
 #### Herbarium and types
 

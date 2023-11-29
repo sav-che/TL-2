@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33266672) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33266672) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/2065-1), [Wikidata](https://www.wikidata.org/wiki/Q282065). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Candolle, Anne Casimir Pyramus de {std. C. DC.}|first entry]] for this author
 
 ### Author
 
 \* Candolle, \[Anne\] Casimir \[Pyramus\] de (1836-1918), Swiss (Genève) botanist, son of Alphonse de Candolle, educated at the Gymnasium libre, Genève, at the University of Paris, "Bachelier" in sciences 1853, final grade in "physic" science 1857, some time in England with Berkeley, travelled in Algeria 1859, studied at Berlin 1860, had never a "public function", working in the Candolle herbarium. 
-**Abbreviated name**: *C. DC.*
+**Abbreviated name**: *C. DC.* \[standard form in IPNI: *C.DC.*\]
 
 #### Herbarium and types
 

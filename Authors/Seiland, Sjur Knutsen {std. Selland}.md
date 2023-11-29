@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33333638) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33333638) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9462-1), [Wikidata](https://www.wikidata.org/wiki/Q21608648). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seiland, Sjur Knutsen (1867-1920), Norwegian botanist and school teacher at Granvin; Hardanger from 1888-1919; lecturer at the teacher's college at Stord 1919-1920. 
-**Abbreviated name**: *Selland*
+**Abbreviated name**: *Selland* \[standard form in IPNI: *Selland*\]
 
 #### Herbarium and types
 

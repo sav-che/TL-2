@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-04-05 14:13:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33259827) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33259827) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/12502-1), [Wikidata](https://www.wikidata.org/wiki/Q27684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Forsskål, Pehr (Peter) {std. Forssk.}|first entry]] for this author
 
 ### Author
 
 \* Forsskål \[Forsskåhl, Forskål\], Pehr \[Per, Peter, Petrus, Petter, Pierre\] (1732-1763), Swedish botanist, naturalist and explorer, born 11 Jan 1732 in Helsingfors (now Helsinki, Finland but then under Swedish rule), studied at Univ. of Uppsala where he attended lectures by Linnaeus and then Göttingen 1753-1756, Ph.D. 1756 Göttingen, returned to Uppsala but exiled for holding radical political beliefs regarding freedom of expression 1759, prof. of natural history, Univ. of Copenhagen 1760, botanist on the Danish Exped. to Egypt and Arabia, which sailed from Denmark 10 Jan 1761 and put in at Malta, Greece, Constantinople and Egypt en route to the Arabian Penins., died 11 Jul 1763 of the plague in Yerim \[Yarim\], Yemen. 
-**Abbreviated name**: *Forssk.*
+**Abbreviated name**: *Forssk.* \[standard form in IPNI: *Forssk.*\]
 
 #### Herbarium and types
 

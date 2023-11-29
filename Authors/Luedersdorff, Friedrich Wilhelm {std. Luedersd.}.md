@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33355273) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33355273) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5814-1), [Wikidata](https://www.wikidata.org/wiki/Q1463106). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Luedersdorff, Friedrich Wilhelm (1801-?), German industrial and agricultural economist and botanist at Berlin. 
-**Abbreviated name**: *Luedersd.*
+**Abbreviated name**: *Luedersd.* \[standard form in IPNI: *Luedersd.*\]
 
 #### Herbarium and types
 

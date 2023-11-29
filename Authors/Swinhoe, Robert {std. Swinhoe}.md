@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33212171) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33212171) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10348-1), [Wikidata](https://www.wikidata.org/wiki/Q468149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Swinhoe, Robert (1836-1877), British botanist, plant collector and ornithologist; in the consular service at Hongkong 1854, to Amoy 1855, vice-consul Taiwan 1860-1862, consul Amoy 1865-1871; visited Hainan 1868; consul at Ningpo 1871-1873. 
-**Abbreviated name**: *Swinhoe*
+**Abbreviated name**: *Swinhoe* \[standard form in IPNI: *Swinhoe*\]
 
 #### Herbarium and types
 

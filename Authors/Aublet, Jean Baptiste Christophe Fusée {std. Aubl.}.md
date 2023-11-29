@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33120210) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33120210) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/327-1), [Wikidata](https://www.wikidata.org/wiki/Q721482). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Aublet, Jean Baptiste Christophe Fusée {std. Aubl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Aublet, Jean Baptiste Christophe Fusée (1720-1778), French explorer and botanist, founder of the knowledge of the flora of Guyana. 
-**Abbreviated name**: *Aubl.*
+**Abbreviated name**: *Aubl.* \[standard form in IPNI: *Aubl.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33066602) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33066602) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11645-1), [Wikidata](https://www.wikidata.org/wiki/Q5958294). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wiegand, Karl McKay (1873-1942), American botanist; Dr. phil. Cornell. Univ. 1898; assistant in botany Cornell 1894-1899; instructor 1899-1907; assoc. professor of botany Wellesley College 1907-1913; professor of botany Cornell 1913-1941; emeritus professor 1941-1942. 
-**Abbreviated name**: *Wiegand*
+**Abbreviated name**: *Wiegand* \[standard form in IPNI: *Wiegand*\]
 
 #### Herbarium and types
 

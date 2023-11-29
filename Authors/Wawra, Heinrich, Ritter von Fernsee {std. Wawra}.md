@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33066451) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33066451) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11447-1), [Wikidata](https://www.wikidata.org/wiki/Q79184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wawra, Heinrich, Ritter von Fernsee (1831-1887), Moravian-Austrian physician and botanist; studied medicine at Vienna University 1849-1856; physician with the Austrian navy 1856-1878; collecting on various journeys, e.g. to Brazil, Luanda (Benguela) and S. Africa 1857-1858, to Brazil 1859-1860; on the "Novara" to Mexico 1864-1865; on the "Donau" around the world via eastern Asia and the Pacific 1868-1871; in North America 1872-1873, returning via Hawaii, Australia, Indonesia, to Brazil 1879; ennobled 1873. 
-**Abbreviated name**: *Wawra*
+**Abbreviated name**: *Wawra* \[standard form in IPNI: *Wawra*\]
 
 #### Herbarium and types
 

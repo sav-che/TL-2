@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33120116) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33120116) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/95-1), [Wikidata](https://www.wikidata.org/wiki/Q9096002). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ahles, Wilhelm Elias von {std. Ahles} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Ahles, Wilhelm Elias von (1829-1900), German botanist at Stuttgart. 
-**Abbreviated name**: *W. Ahles*
+**Abbreviated name**: *W. Ahles* \[standard form in IPNI: *Ahles*\]
 
 #### Herbarium and types
 

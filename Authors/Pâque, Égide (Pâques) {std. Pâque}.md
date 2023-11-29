@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33189487) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33189487) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7327-1), [Wikidata](https://www.wikidata.org/wiki/Q21522629). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pâque, Égide (Pâques) (1850-1918), Belgian clergyman (Jesuit priest) and botanist; ord. 7 Sep 1886; from 1888-1892 at Charleroi; from 1892-1906 id. at the Collège Notre-Dame de la Paix at Namur; from 1906-1910 at Antwerp; ultimately at Bruxelles. 
-**Abbreviated name**: *Pâque*
+**Abbreviated name**: *Pâque* \[standard form in IPNI: *Pâque*\]
 
 #### Herbarium and types
 

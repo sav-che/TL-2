@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33355542) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33355542) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6428-1), [Wikidata](https://www.wikidata.org/wiki/Q21520507). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Michael, Paul Oskar (1861-?), German botanist from Oelsnitz i.V., Dr. phil. Leipzig 1885 
-**Abbreviated name**: *P. Michael*
+**Abbreviated name**: *P. Michael* \[standard form in IPNI: *P.Michael*\]
 
 #### Herbarium and types
 

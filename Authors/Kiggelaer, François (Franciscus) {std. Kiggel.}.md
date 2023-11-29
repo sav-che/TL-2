@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33068780) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33068780) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4782-1), [Wikidata](https://www.wikidata.org/wiki/Q1375945). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kiggelaer, François ("Franciscus") (1648-1722), Dutch botanist, "commies ter secretarye van den Heer van Beaumont." 
-**Abbreviated name**: *Kiggel.*
+**Abbreviated name**: *Kiggel.* \[standard form in IPNI: *Kiggel.*\]
 
 #### Herbarium and types
 

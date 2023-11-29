@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33212626) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33212626) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12954-1), [Wikidata](https://www.wikidata.org/wiki/Q21377702). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Uloth, Wilhelm \[Ludwig Heinrich\] (1833-1895), German (Hessen) botanist and pharmacist; studied pharmacy in Treysa; worked with C. v. Nägeli in Zürich 1856; studied at the University of Marburg 1857-1859; Dr. phil. ib. 1859; in charge of a chemical-pharmaceutical factory at Bad Nauheim 1860; in charge of the Nauheim pharmacy 1868; id. at Friedberg 1878-1879; teacher at Colleges in Friedberg (1879) and Bensheim (1880), specialist for pharmacy at the Darmstadt ministery 1881; professor of pharmacognosy at the Darmstadt Technical University from 1884. 
-**Abbreviated name**: *Uloth*
+**Abbreviated name**: *Uloth* \[standard form in IPNI: *Uloth*\]
 
 #### Herbarium and types
 

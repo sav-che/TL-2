@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33212297) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33212297) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10560-1), [Wikidata](https://www.wikidata.org/wiki/Q21610572). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Theron, Johannes Jacobus (1905-x), South African botanist; at Potchefstroom University 1930-1935; Humboldt Stipendium for study in Germany 1935-1936; Dr. phil. Berlin 1936; lecturer at Potchefstroom 1936-1939; id., later head of the biology department Pretoria University 1939-1969; in retirement in Ellisvar District. 
-**Abbreviated name**: *Theron*
+**Abbreviated name**: *Theron* \[standard form in IPNI: *Theron*\]
 
 #### Herbarium and types
 

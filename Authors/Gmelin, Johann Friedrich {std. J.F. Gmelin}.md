@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 955](https://www.biodiversitylibrary.org/page/33121086) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 955](https://www.biodiversitylibrary.org/page/33121086) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3203-1), [Wikidata](https://www.wikidata.org/wiki/Q57230). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gmelin, Johann Friedrich (1748-1804), German naturalist, professor of medicine and chemistry at Tübingen and, later, Göttingen; nephew of J. G. Gmelin, son of Ph. F. Gmelin. 
-**Abbreviated name**: *J. F. Gmelin*
+**Abbreviated name**: *J. F. Gmelin* \[standard form in IPNI: *J.F.Gmel.*\]
 
 #### Herbarium and types
 

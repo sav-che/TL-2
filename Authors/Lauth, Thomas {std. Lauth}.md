@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5332-1), [Wikidata](https://www.wikidata.org/wiki/Q7791731). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lauth, Thomas (1758-1826), Alsatian botanist and physician; Dr. med. Strasbourg 1781; professor of anatomy at Strasbourg. 
-**Abbreviated name**: *Lauth*
+**Abbreviated name**: *Lauth* \[standard form in IPNI: *Lauth*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33212427) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33212427) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10717-1), [Wikidata](https://www.wikidata.org/wiki/Q19885700). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tolf, Robert (1849-1903), Swedish botanist and teacher; assistant dyer at Vrigstad 1868-1879; dyer and private teacher at Ingatorp, Småland 1879-1890; assistant for botany and geology with the Swedish "mosskulturföreningen" (peat reclamation society) at Jönköping 1890-1895; with Jönköping's seed control station 1895-1903. 
-**Abbreviated name**: *Tolf*
+**Abbreviated name**: *Tolf* \[standard form in IPNI: *Tolf*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33333734) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33333734) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9624-1), [Wikidata](https://www.wikidata.org/wiki/Q21608866). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Siemaszko, Wincenty \[Vincent\] (1887-x), Polish plant pathologist and mycologist; Dr. phil. Cracow; professor of plant pathology at the Warsaw college of Agriculture, also director of the Phytopathological Institute Skierniewice. 
-**Abbreviated name**: *Siemaszko*
+**Abbreviated name**: *Siemaszko* \[standard form in IPNI: *Siemaszko*\]
 
 #### Herbarium and types
 

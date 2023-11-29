@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33355473) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33355473) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6270-1), [Wikidata](https://www.wikidata.org/wiki/Q21520165). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Maycock, James Dottin (x-1837), West Indian physician and naturalist. 
-**Abbreviated name**: *Maycock*
+**Abbreviated name**: *Maycock* \[standard form in IPNI: *Maycock*\]
 
 #### Herbarium and types
 

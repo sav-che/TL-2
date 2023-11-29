@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33069023) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33069023) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5385-1), [Wikidata](https://www.wikidata.org/wiki/Q4257704). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Le Cointe, Paul (1870-?), French-Brazilian botanist; director of the Museu commercial do Pará 
-**Abbreviated name**: *Le Cointe*
+**Abbreviated name**: *Le Cointe* \[standard form in IPNI: *Le Cointe*\]
 
 #### Herbarium and types
 

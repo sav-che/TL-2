@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/page/33190394) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/page/33190394) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8640-1), [Wikidata](https://www.wikidata.org/wiki/Q21607459). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roth, Wilhelm (1819\[?\]-1875), German (Silesian) botanist and "Webermeister" \[weaver\] at Langenbielau in Silezia. 
-**Abbreviated name**: *W. Roth*
+**Abbreviated name**: *W. Roth* \[standard form in IPNI: *W.Roth*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-09-15 14:56:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33068724) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 482](https://www.biodiversitylibrary.org/page/33068724) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12592-1), [Wikidata](https://www.wikidata.org/wiki/Q4206707). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kablíková, Josephine \[Josefina\], née Ettel, \[Josephine Kablik\], (1787-1863), Czech lichenologist, married to the pharmacist and zoologist Adalbert Kablík. 
-**Abbreviated name**: *Kablik*
+**Abbreviated name**: *Kablik* \[standard form in IPNI: *Kablík.*\]
 
 #### Herbarium and types
 

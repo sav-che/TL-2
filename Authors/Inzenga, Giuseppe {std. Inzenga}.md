@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33068627) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33068627) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4302-1), [Wikidata](https://www.wikidata.org/wiki/Q3770752). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Inzenga, Giuseppe (1816-1887), Italian mycologist at Palermo. 
-**Abbreviated name**: *Inzenga*
+**Abbreviated name**: *Inzenga* \[standard form in IPNI: *Inzenga*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33120942) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33120942) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2621-1), [Wikidata](https://www.wikidata.org/wiki/Q5723123). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fahlberg, Samuel (1758-1834), Swedish government official in the West Indies (St. Barthélemy 1784\[1786\]-1810). 
-**Abbreviated name**: *Fahlberg*
+**Abbreviated name**: *Fahlberg* \[standard form in IPNI: *Fahlberg*\]
 
 #### Herbarium and types
 

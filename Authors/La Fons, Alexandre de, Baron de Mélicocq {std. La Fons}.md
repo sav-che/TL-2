@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12637-1), [Wikidata](https://www.wikidata.org/wiki/Q15729474). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 La Fons, Alexandre de, Baron de Mélicocq (1802-1867), French botanist at Noyon. 
-**Abbreviated name**: *La Fons*
+**Abbreviated name**: *La Fons* \[standard form in IPNI: *La Fons*\]
 
 #### Herbarium and types
 

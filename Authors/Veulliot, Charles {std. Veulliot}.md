@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33212762) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33212762) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11153-1), [Wikidata](https://www.wikidata.org/wiki/Q21611691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Veulliot, Charles (1829-1890), French tax inspector and amateur mycologist in Pointde-Vaux, from 1873 in Lyon. 
-**Abbreviated name**: *Veulliot*
+**Abbreviated name**: *Veulliot* \[standard form in IPNI: *Veull.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/page/33190280) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/page/33190280) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8439-1), [Wikidata](https://www.wikidata.org/wiki/Q21393072). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roberge, Michel Robert (x-1864), French (Normandy) mycologist; teacher at several girl schools at Caen. 
-**Abbreviated name**: *Roberge*
+**Abbreviated name**: *Roberge* \[standard form in IPNI: *Roberge*\]
 
 #### Herbarium and types
 

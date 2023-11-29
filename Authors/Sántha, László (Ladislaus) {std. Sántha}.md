@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33333142) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33333142) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8904-1), [Wikidata](https://www.wikidata.org/wiki/Q21516332). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sántha, László (Ladislaus) (1886-1954), Hungarian lichenologist; Dr. phil. Budapest 1909; assistant at the Botanical Institute of the University of Budapest 1909; at the Viticultural Institute 1910; in charge of the department of pathology of the Institute for Plant Protection 1932; professor at the Horticultural and Agricultural College 1942; director of the Viticultural Institute 1942-1946. 
-**Abbreviated name**: *Sántha*
+**Abbreviated name**: *Sántha* \[standard form in IPNI: *Sántha*\]
 
 #### Herbarium and types
 

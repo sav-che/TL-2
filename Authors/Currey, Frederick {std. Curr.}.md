@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33120704) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33120704) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17588-1), [Wikidata](https://www.wikidata.org/wiki/Q18559734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Currey, Frederick {std. Curr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Currey, Frederick (1819-1881), British mycologist. 
-**Abbreviated name**: *Curr.*
+**Abbreviated name**: *Curr.* \[standard form in IPNI: *Curr.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33066577) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33066577) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11600-1), [Wikidata](https://www.wikidata.org/wiki/Q21612552). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weymouth, William Anderson (1842-1928), Australian (Tasmanian) bryologist. 
-**Abbreviated name**: *Weymouth*
+**Abbreviated name**: *Weymouth* \[standard form in IPNI: *Weymouth*\]
 
 #### Herbarium and types
 

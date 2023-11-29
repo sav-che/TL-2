@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33120980) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33120980) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12501-1), [Wikidata](https://www.wikidata.org/wiki/Q2345057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Flüggé, Johann(es) (1775-1816), German physician and botanist at Hamburg. 
-**Abbreviated name**: *Fluggé*
+**Abbreviated name**: *Fluggé* \[standard form in IPNI: *Flüggé*\]
 
 #### Herbarium and types
 

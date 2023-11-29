@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33069015) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33069015) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5346-1), [Wikidata](https://www.wikidata.org/wiki/Q5877863). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lawrence, George Hill Mathewson (1910-1978), American botanist; Ph. D. Ithaca 1939; at the Bailey Hortorium and Cornell University 1937-1943, 1945-1960; director of the Hunt Botanical library from 1960; ultimately at East Greenwich, Rhode Island. 
-**Abbreviated name**: *G. Lawr.*
+**Abbreviated name**: *G. Lawr.* \[standard form in IPNI: *G.H.M.Lawr.*\]
 
 #### Herbarium and types
 

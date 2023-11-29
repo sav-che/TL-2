@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-10-05 08:32:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33068789) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 547](https://www.biodiversitylibrary.org/page/33068789) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12607-1), [Wikidata](https://www.wikidata.org/wiki/Q321094). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kingdon-Ward, Francis (Frank) (1885-1958), British plant collector in China, Burma, Tibet and Thailand (1909-1956), introduced e.g. *Meconopsis betonicifolia* into cultivation; prolific author on "plant hunting." 
-**Abbreviated name**: *Kingdon-Ward*
+**Abbreviated name**: *Kingdon-Ward* \[standard form in IPNI: *Kingdon-Ward*\]
 
 #### Herbarium and types
 

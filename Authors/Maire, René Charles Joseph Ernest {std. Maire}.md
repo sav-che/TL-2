@@ -28,14 +28,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-05-12 19:02:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33355344) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33355344) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6001-1), [Wikidata](https://www.wikidata.org/wiki/Q2661320). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Maire, René Charles Joseph Ernest (1878-1949), French botanist; Dr. Sci. Paris 1902; originally at Dijon; "préparateur" at Nancy (1898-1908); "maître de conférences" at Caen (1908-1911); from 1911 professor of botany at the University of Algeria; Dr. med. Alger 1930, Dr. h.c. Athens 1936 
-**Abbreviated name**: *Maire*
+**Abbreviated name**: *Maire* \[standard form in IPNI: *Maire*\]
 
 #### Herbarium and types
 

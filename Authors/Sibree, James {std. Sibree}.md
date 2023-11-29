@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33333715) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33333715) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9604-1), [Wikidata](https://www.wikidata.org/wiki/Q18764259). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sibree, James (1836-1929), British missionary and naturalist; educated at Hull Collegiate College; surveyor Board of Health 1859-1863; architect of memorial churches in Madagascar 1863-1867; trained for congregational ministry, Birmingham 1868-1870; missionary in Madagascar with the London Missionary Society until 1915. 
-**Abbreviated name**: *Sibree*
+**Abbreviated name**: *Sibree* \[standard form in IPNI: *Sibree*\]
 
 #### Herbarium and types
 

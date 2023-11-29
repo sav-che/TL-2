@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/page/33190394) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/page/33190394) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8644-1), [Wikidata](https://www.wikidata.org/wiki/Q9382253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rothert, (Karol) Wladislaw (Rotert, Vladislav Adol'fovich) (1863-1916), Russian botanist; studied at Dorpat, Dr. phil. 1885; lecturer for plant physiology and anatomy at Kasan 1889; e.o. professor of botany Kasan 1896; professor of botany and head of the plant physiology department at Charkow 1897; corr. member Akad. Krakau 1900; ordinary professor of botany at Odessa 1902; at Riga as Privatgelehrter 1908; to Java 1908-1910; at Warsaw 1910; settled as Privatgelehrter at Krakau 1910; died at St. Petersburg. 
-**Abbreviated name**: *Rothert*
+**Abbreviated name**: *Rothert* \[standard form in IPNI: *Rothert*\]
 
 #### Herbarium and types
 

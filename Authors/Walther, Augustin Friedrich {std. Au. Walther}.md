@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33066391) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33066391) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11370-1), [Wikidata](https://www.wikidata.org/wiki/Q85511). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walther, Augustin Friedrich (1688-1746), German (Sachsen-Anhalt) physician and botanist; professor of pathology in Leipzig. 
-**Abbreviated name**: *Au. Walther*
+**Abbreviated name**: *Au. Walther* \[standard form in IPNI: *A.Walther*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33259855) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33259855) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2845-1), [Wikidata](https://www.wikidata.org/wiki/Q4492105). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Foster, Adriance Sherwood (1901-1973), American plant anatomist, born 6 Aug 1901 in Poughkeepsie, New York, B.Sc. 1923 Cornell Univ., Ithaca, New York, M.Sc. 1925 and D.Sc. 1926 Harvard Univ., Cambridge, Mass., Natl. Research Council Fellowship, Univ. of Leeds, England 1926-1928, Univ. of Oklahoma, Norman 1928-1934, Prof. of Botany (Plant Anatomy), Dept. of Botany, Univ. of Calif. at Berkeley 1934-1968, dept. chair 1955-1960, Guggenheim Fellowship 1945, president, B.S.A. 1955, president, Intl. Association Plant Morphologists, died 1 Mai 1973 in Berkeley. 
-**Abbreviated name**: *A.S. Foster*
+**Abbreviated name**: *A.S. Foster* \[standard form in IPNI: *A.S.Foster*\]
 
 #### Herbarium and types
 

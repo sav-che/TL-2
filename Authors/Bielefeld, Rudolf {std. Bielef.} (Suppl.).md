@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33265356) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33265356) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/779-1), [Wikidata](https://www.wikidata.org/wiki/Q21506105). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bielefeld, Rudolf {std. Bielef.}|first entry]] for this author
 
 ### Author
 
 \* Bielefeld, Rudolf (fl. 1900), German highschool teacher and botanist at Halle a.S. 
-**Abbreviated name**: *Bielef.*
+**Abbreviated name**: *Bielef.* \[standard form in IPNI: *Bielef.*\]
 
 #### Herbarium and types
 

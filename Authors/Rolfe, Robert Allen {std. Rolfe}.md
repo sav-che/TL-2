@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33190340) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33190340) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8550-1), [Wikidata](https://www.wikidata.org/wiki/Q2635543). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rolfe, Robert Allen (1855-1921), English botanist, especially orchidologist; brought up as a gardener; came as such to the Royal Botanic Gardens Kew 1879; assistant in the herbarium ib. 1880-1921. 
-**Abbreviated name**: *Rolfe*
+**Abbreviated name**: *Rolfe* \[standard form in IPNI: *Rolfe*\]
 
 #### Herbarium and types
 

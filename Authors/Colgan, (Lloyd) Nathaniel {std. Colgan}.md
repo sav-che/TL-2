@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33265943) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33265943) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/38828-1), [Wikidata](https://www.wikidata.org/wiki/Q6969547). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Colgan, \[Lloyd\] Nathaniel (1851-1919), Irish botanist and clerk with the Metropolitan Police at Dublin, born in Dublin 28 Mai 1851, died ib. 28 Oct 1919. 
-**Abbreviated name**: *Colgan*
+**Abbreviated name**: *Colgan* \[standard form in IPNI: *Colgan*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/page/33190292) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 821](https://www.biodiversitylibrary.org/page/33190292) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/2095-1), [Wikidata](https://www.wikidata.org/wiki/Q121955). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roche, Daniel de la (1743-1813), Swiss (Geneva) botanist; Dr. med. Leiden 1766; practicing physician at Genève 1771-1782, at Paris 1782-1813 with a short period (1792-?) at Lausanne. 
-**Abbreviated name**: *D. Roche*
+**Abbreviated name**: *D. Roche* \[standard form in IPNI: *D.Delaroche*\]
 
 #### Herbarium and types
 

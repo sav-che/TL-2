@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-02-08 12:55:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33189589) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33189589) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7424-1), [Wikidata](https://www.wikidata.org/wiki/Q9175591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pawlowski, Bogumil (1898-1971), Polish botanist; Dr. phil. Craców 1922; at the Botanical Institute of the Polish Academy of Sciences, Craców; specialist on the floras of Poland and the Balkan peninsula. 
-**Abbreviated name**: *Pawl.*
+**Abbreviated name**: *Pawl.* \[standard form in IPNI: *Pawł.*\]
 
 #### Herbarium and types
 

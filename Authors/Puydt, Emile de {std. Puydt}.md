@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33189921) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33189921) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/35198-1), [Wikidata](https://www.wikidata.org/wiki/Q927081). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Puydt, Emile de (1810-1891), Belgian horticulturist at Mons. 
-**Abbreviated name**: *Puydt*
+**Abbreviated name**: *Puydt* \[standard form in IPNI: *De Puydt*\]
 
 #### Herbarium and types
 

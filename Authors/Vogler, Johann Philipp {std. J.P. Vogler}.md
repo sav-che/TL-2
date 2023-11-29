@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33212813) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33212813) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11241-1), [Wikidata](https://www.wikidata.org/wiki/Q21611839). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vogler, Johann Philipp (1746-1816), German (Hessen) physician and botanist; practicing physician at Weilburg; Dr. med. Giessen 1773. 
-**Abbreviated name**: *J.P. Vogler*
+**Abbreviated name**: *J.P. Vogler* \[standard form in IPNI: *Vogler*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33259628) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33259628) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2675-1), [Wikidata](https://www.wikidata.org/wiki/Q5727704). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fellman, Jacob \[Jaakko, Jakob\] Esaiaksenpoika (Rev.) (1795-1875), Finnish priest, ethnologist and naturalist, born 25 Mar 1795 in Rovaniemi, traveled in Lapland in his capacity as vicar of Utsjoki 1819-1832, in Lappajärvi 1832-1875, died 8 Mar 1875. 
-**Abbreviated name**: *J. Fellm.*
+**Abbreviated name**: *J. Fellm.* \[standard form in IPNI: *J.Fellm.*\]
 
 #### Note
 

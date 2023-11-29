@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33355428) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33355428) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6181-1), [Wikidata](https://www.wikidata.org/wiki/Q1373287). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Martyn, John (1699-1768), British physician and botanist at London and Cambridge. 
-**Abbreviated name**: *J. Martyn*
+**Abbreviated name**: *J. Martyn* \[standard form in IPNI: *J.Martyn*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33355805) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33355805) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6898-1), [Wikidata](https://www.wikidata.org/wiki/Q7147324). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Neill, Patrick (1776-1851), Scottish publisher and botanist at Edinburgh; founder and longtime secretary of the Caledonian Horticultural Society and Wernerian Society. 
-**Abbreviated name**: *Neill*
+**Abbreviated name**: *Neill* \[standard form in IPNI: *Neill*\]
 
 #### Herbarium and types
 

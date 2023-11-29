@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33120792) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33120792) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2247-1), [Wikidata](https://www.wikidata.org/wiki/Q437466). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dodoens \[Dodonaeus\], Rembert \[van Joenckema, Rembert\] (1518-1585), Netherlands physician and botanist. 
-**Abbreviated name**: *Dodoens*
+**Abbreviated name**: *Dodoens* \[standard form in IPNI: *Dodoens*\]
 
 #### Herbarium and types
 

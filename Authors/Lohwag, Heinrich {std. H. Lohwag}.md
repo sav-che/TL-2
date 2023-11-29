@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33355233) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33355233) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22498-1), [Wikidata](https://www.wikidata.org/wiki/Q21519427). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lohwag, Heinrich (1884-1945), Austrian cryptogamist: student of R. Wettstein; Dr. phil. Wien 1907; professor at the Staatsgymnasium in Brüx (Bohemia) 1908-1914; from 1914-1918 at Reichenberg; from 1918 at the first Academic Gymnasium in Wien; from 1928 lecturer, from 1940 professor at the Universität Wien. 
-**Abbreviated name**: *H. Lohwag*
+**Abbreviated name**: *H. Lohwag* \[standard form in IPNI: *Lohwag*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33120583) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33120583) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2067-1), [Wikidata](https://www.wikidata.org/wiki/Q3431395). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Candolle, (Richard-Émile-) Augustin de {std. Aug. DC.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Candolle, Richard Émile Augustin de (1868-1920), Swiss botanist, son of Casimir de Candolle. 
-**Abbreviated name**: *Aug. DC*
+**Abbreviated name**: *Aug. DC* \[standard form in IPNI: *Aug.DC.*\]
 
 #### Herbarium and types
 

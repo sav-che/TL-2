@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/page/33190332) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/page/33190332) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8533-1), [Wikidata](https://www.wikidata.org/wiki/Q21337829). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rohlena, Joseph (1874-1944), Czech (Bohemian) botanist at Praha; teacher at elementary schools in Lysa nad Labem and Starych Benatky 1893-1895, id. in Praha from 1895-1931; in retirement in Praha; travelled widely in the Balkan peninsula, especially in Montenegro; co-founder of the Czech botanical society in 1912. 
-**Abbreviated name**: *Rohlena*
+**Abbreviated name**: *Rohlena* \[standard form in IPNI: *Rohlena*\]
 
 #### Herbarium and types
 

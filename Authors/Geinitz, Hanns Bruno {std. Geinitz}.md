@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 929](https://www.biodiversitylibrary.org/page/33121060) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 929](https://www.biodiversitylibrary.org/page/33121060) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3070-1), [Wikidata](https://www.wikidata.org/wiki/Q86176). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Geinitz, Hanns Bruno (1814-1900), German mineralogist, geologist and palaeontologist at Dresden. 
-**Abbreviated name**: *Geinitz*
+**Abbreviated name**: *Geinitz* \[standard form in IPNI: *Geinitz*\]
 
 #### Collections
 

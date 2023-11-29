@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 862](https://www.biodiversitylibrary.org/page/33069104) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 862](https://www.biodiversitylibrary.org/page/33069104) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5527-1), [Wikidata](https://www.wikidata.org/wiki/Q102540). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leunis, Johannis (1802-1873), German clergyman and botanist; ordained Paderborn 1826; teacher at the Hildesheim Josephinum 1824-1873; Dr. phil. h.c. Göttingen 1855. 
-**Abbreviated name**: *Leunis*
+**Abbreviated name**: *Leunis* \[standard form in IPNI: *Leunis*\]
 
 #### Herbarium and types
 

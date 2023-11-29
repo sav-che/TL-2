@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-03-24 14:19:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33120790) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33120790) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2224-1), [Wikidata](https://www.wikidata.org/wiki/Q76164). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dinter, Moritz Kurt {std. Dinter} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dinter, Kurt (1868-1945), German government botanist in Southwest Africa. 
-**Abbreviated name**: *Dinter*
+**Abbreviated name**: *Dinter* \[standard form in IPNI: *Dinter*\]
 
 #### Herbarium and types
 

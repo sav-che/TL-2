@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33120590) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33120590) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1417-1), [Wikidata](https://www.wikidata.org/wiki/Q5659206). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Carradori, Giovacchino (1758-1818), Italian cryptogamist. 
-**Abbreviated name**: *Carradori*
+**Abbreviated name**: *Carradori* \[standard form in IPNI: *Carradori*\]
 
 #### Herbarium and types
 

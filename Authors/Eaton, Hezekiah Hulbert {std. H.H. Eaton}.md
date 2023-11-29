@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33260232) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33260232) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2449-1), [Wikidata](https://www.wikidata.org/wiki/Q21511306). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eaton, Hezekiah Hulbert (1809-1832), American botanist, chemist, and mineralogist, born 23 Jul 1809 at Catskill, Greene County, N.Y., son of Amos Eaton, attended schools at Catskill and in Chatham until 1818, moved with his family to Albany and became his father's assistant at Amherst College in Massachusetts in 1823, in 1824 went to the newly opened Rensselaer School in Troy, N.Y., and received in April 1826 his BA from that school, lectured chemistry in several places and received a Junior Professorship in Troy 1829, died 16 Aug 1832 of pulmonary consumption in Lexington, Kentucky. 
-**Abbreviated name**: *H.H. Eaton*
+**Abbreviated name**: *H.H. Eaton* \[standard form in IPNI: *H.H.Eaton*\]
 
 #### Herbarium and types
 

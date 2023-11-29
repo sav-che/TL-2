@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2018-07-16 11:21:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33259241) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33259241) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17919-1), [Wikidata](https://www.wikidata.org/wiki/Q3069120). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Demaret, Fernand Mathieu Hubert (1911-x), Belgian botanist, born at Saint-Georges sur Meuse 30 Jan 1911, studied at the university of Liège, Dr. sci. nat. in 1934, from that moment on working at the institute in Brussels, visited the Ruwenzori mountains in 1953 and 1957, director of the "Jardin botanique" from 1 Aug 1966, retired in 1976, was responsable for the transfer of the institute from Brussels to Meise in 1973. 
-**Abbreviated name**: *Demaret*
+**Abbreviated name**: *Demaret* \[standard form in IPNI: *Demaret*\]
 
 #### Herbarium and types
 

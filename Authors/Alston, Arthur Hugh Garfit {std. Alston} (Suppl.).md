@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-14 13:46:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33264814) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33264814) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/170-1), [Wikidata](https://www.wikidata.org/wiki/Q674391). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Alston, Arthur Hugh Garfit {std. Alston}|first entry]] for this author
 
 ### Author
 
 \* Alston, Arthur Hugh Garfit (1902-1958), British botanist (pteridologist), traveller and plant collector, educated at Marlborough at Lincoln College, Oxford, graduated 1924, worked at Kew with J. Hutchinson 1924-1925, systematic botanist in the Dept. Agriculture, Ceylon in charge of the herbarium and botanical museum at the Botanic Gardens Peradeniya 1925-1930, assistant keeper herbarium British Museum (Natural History) 1930, from then on specializing in Pteridophyta, collected in Venezuela, Colombia and Panama 1938, in Indonesia 1953, as well as in S.E. Europe and N. Europe and N. Africa. 
-**Abbreviated name**: *Alston*
+**Abbreviated name**: *Alston* \[standard form in IPNI: *Alston*\]
 
 #### Herbarium and types
 

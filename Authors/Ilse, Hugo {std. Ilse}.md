@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33068625) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33068625) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4285-1), [Wikidata](https://www.wikidata.org/wiki/Q11710261). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ilse, Hugo (1835-1900), German botanist and forester at Oderberg (1867), Trier (1868), Hohenheide/Stettin (1870), Pfalzburg (1870). 
-**Abbreviated name**: *Ilse*
+**Abbreviated name**: *Ilse* \[standard form in IPNI: *Ilse*\]
 
 #### Herbarium and types
 

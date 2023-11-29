@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/page/33265521) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 324](https://www.biodiversitylibrary.org/page/33265521) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/965-1), [Wikidata](https://www.wikidata.org/wiki/Q5732796). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boom, Boudewijn Karel (1903-1980), Dutch (Gorinchem born) botanist, specialized in cultivated plants, educated at the Gymnasium and the Instituut Wullings, studied at the Landbouwhogeschool at Wageningen 1922-1930, Dr. phil. ib. 1930, teacher at the state horticultural school at Boskoop 1930-1941, id. at Nijmegen 1941-1944, charged with the writing of a flora of the cultivated plants of the Netherlands by the Department of Agriculture from 1944. 
-**Abbreviated name**: *Boom*
+**Abbreviated name**: *Boom* \[standard form in IPNI: *Boom*\]
 
 #### Herbarium and types
 

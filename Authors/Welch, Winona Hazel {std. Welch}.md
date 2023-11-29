@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33066512) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33066512) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11530-1), [Wikidata](https://www.wikidata.org/wiki/Q21340801). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Welch, Winona Hazel (1896-x), American botanist (bryologist); Dr. phil. DePaauw Univ. 1928; assistant in botany Univ. Illinois 1923-1926, head dept. biology Centr. Normal College, Indiana 1926-1927; instructor in botany DePaauw University 1928-1930; assistant professor, later professor ib. 1930-1961; emeritus professor of botany ib. 1964. 
-**Abbreviated name**: *Welch*
+**Abbreviated name**: *Welch* \[standard form in IPNI: *W.H.Welch*\]
 
 #### Herbarium and types
 

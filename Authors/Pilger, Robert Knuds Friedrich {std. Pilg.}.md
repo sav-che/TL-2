@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33189736) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33189736) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7701-1), [Wikidata](https://www.wikidata.org/wiki/Q71132). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pilger, Robert Knuds Friedrich (1876-1953), German botanist; Dr. phil. Berlin (with Engler) 1898; collected in Brazil 1898-1900; assistant at Berlin-Dahlem 1900; Custos 1908; habil. Berlin 1908; titular professor 1913, vice-director 1921, director 1945-1950. 
-**Abbreviated name**: *Pilg.*
+**Abbreviated name**: *Pilg.* \[standard form in IPNI: *Pilg.*\]
 
 #### Herbarium and types
 

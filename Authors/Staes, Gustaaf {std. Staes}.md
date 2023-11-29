@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33333965) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33333965) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10011-1), [Wikidata](https://www.wikidata.org/wiki/Q21609444). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Staes, Gustaaf (1863-1918), Belgian botanist (phytopathologist), assistant ("surveillant") at the state college for horticulture at Gent 1887; technical curator at the department of botany of the University of Gent 1888 (technical curator first class from 1890). 
-**Abbreviated name**: *Staes*
+**Abbreviated name**: *Staes* \[standard form in IPNI: *Staes*\]
 
 #### Herbarium and types
 

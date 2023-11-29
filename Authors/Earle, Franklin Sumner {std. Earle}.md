@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33120847) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33120847) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18337-1), [Wikidata](https://www.wikidata.org/wiki/Q2547765). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Earle, Franklin Sumner {std. Earle} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Earle, Franklin Sumner (1856-1929), American mycologist and phytopathologist. 
-**Abbreviated name**: *Earle*
+**Abbreviated name**: *Earle* \[standard form in IPNI: *Earle*\]
 
 #### Herbarium and types
 

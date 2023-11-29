@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33120833) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33120833) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2376-1), [Wikidata](https://www.wikidata.org/wiki/Q953473). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Duncan, Peter Martin (1824-1891), British palaeontologist and microscopist. 
-**Abbreviated name**: *P. Duncan*
+**Abbreviated name**: *P. Duncan* \[standard form in IPNI: *P.Duncan*\]
 
 #### Collections
 

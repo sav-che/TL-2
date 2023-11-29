@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33189743) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33189743) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7722-1), [Wikidata](https://www.wikidata.org/wiki/Q21523023). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Piquet, John (1825-1912), British pharmaceutical chemist and botanist at St. Hélier, Jersey. 
-**Abbreviated name**: *Piquet*
+**Abbreviated name**: *Piquet* \[standard form in IPNI: *Piquet*\]
 
 #### Herbarium and types
 

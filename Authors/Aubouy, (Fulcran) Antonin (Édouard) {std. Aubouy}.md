@@ -22,14 +22,13 @@ ipni_record_created: 2003-12-23 05:28:25.0
 ipni_record_modified: 2004-03-31 04:19:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33264932) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33264932) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/20000039-2), [Wikidata](https://www.wikidata.org/wiki/Q5870844). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Aubouy, \[Fulcran\] Antonin \[Édouard\] (fl. 1871-1903), French botanist and school-teacher at Aniane and Lodève, later director of a school in Montpellier, general secretary of the Société d' Horticulture et d' Histoire naturelle de l' Hérault, Montpellier. 
-**Abbreviated name**: *Aubouy*
+**Abbreviated name**: *Aubouy* \[standard form in IPNI: *Aubouy*\]
 
 #### Herbarium and types
 

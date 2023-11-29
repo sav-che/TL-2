@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33120666) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33120666) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1776-1), [Wikidata](https://www.wikidata.org/wiki/Q16243314). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Conzatti, Cassiano {std. Conz.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Conzatti, Cassiano (1862-1951), Mexican botanist. 
-**Abbreviated name**: *Conzatti*
+**Abbreviated name**: *Conzatti* \[standard form in IPNI: *Conz.*\]
 
 #### Herbarium and types
 

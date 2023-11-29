@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33212127) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33212127) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10286-1), [Wikidata](https://www.wikidata.org/wiki/Q386698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sukachev, Vladimir Nikolaevich (1880-1967), Russian botanist; associated with the St. Petersburg Forest Institute from 1898; from 1944 director of the Forest Institute of the Academy of Sciences U.S.S.R. at Moscow (later S.M. Kirov Forest Engineering Academy). 
-**Abbreviated name**: *Sukachev*
+**Abbreviated name**: *Sukachev* \[standard form in IPNI: *Sukaczev*\]
 
 #### Herbarium and types
 

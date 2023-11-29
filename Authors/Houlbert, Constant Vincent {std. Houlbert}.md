@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33068583) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33068583) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4140-1), [Wikidata](https://www.wikidata.org/wiki/Q5163640). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Houlbert, Constant Vincent (1857-1947), French naturalist. 
-**Abbreviated name**: *Houlbert*
+**Abbreviated name**: *Houlbert* \[standard form in IPNI: *Houlbert*\]
 
 #### Herbarium and types
 

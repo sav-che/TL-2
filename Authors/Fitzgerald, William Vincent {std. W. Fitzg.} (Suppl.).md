@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33259734) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33259734) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2765-1), [Wikidata](https://www.wikidata.org/wiki/Q6167753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fitzgerald, William Vincent {std. W. Fitzg.}|first entry]] for this author
 
 ### Author
 
 \* Fitzgerald, William Vincent (1867-1929), Australian botanist, forester and prospector, born 21 Jul 1867 "on the gold fields at Mangana" nr. Ben Lomond, Tasmania, Denedin School of Mines, Tasmania ca. 1883, began corresponding with and sending Tasmanian plant specimens to F. von Mueller in Melbourne ca. 1890, led exped. to New Guinea to re  port on geological and vegetational features 1895-1896, member of the Western Australian Royal Commission on Forests 1903, Chairman of the State Forests Advisory Board 1904, Kimberley Trigonometric exped. 1905, exped. supported by Minister of Lands to the Kimberley region 1906, active service in W.W.-I and wounded, died 6 Aug 1929 of black water fever while on an exploring exped. on the Daru River in New Guinea. 
-**Abbreviated name**: *W. Fitzg.*
+**Abbreviated name**: *W. Fitzg.* \[standard form in IPNI: *W.Fitzg.*\]
 
 #### Herbarium and types
 

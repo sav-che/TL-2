@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33066902) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33066902) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12071-1), [Wikidata](https://www.wikidata.org/wiki/Q21339494). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zukal, Hugo (1845-1900), Austrian high school teacher and botanist; soldier in the Austrian army 1864-1872; studied at the Trautenau teachers college; teacher at Freudenthal and Vienna, ultimately at a women's teachers college; e.o. profesor of phytopathology for forestry at the Vienna agricultural and forestry college (Hochschule für Bodenkultur) 1898-1900. 
-**Abbreviated name**: *Zukal*
+**Abbreviated name**: *Zukal* \[standard form in IPNI: *Zukal*\]
 
 #### Herbarium and types
 

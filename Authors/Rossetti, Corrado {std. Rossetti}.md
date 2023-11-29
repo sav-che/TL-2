@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33190374) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33190374) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8617-1), [Wikidata](https://www.wikidata.org/wiki/Q21607432). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rossetti, Corrado (1866-?), Italian botanist; high school teacher of natural history and mathematics at Pisa (1891), in Seravezza (1896) and Querceta (1908). 
-**Abbreviated name**: *Rossetti*
+**Abbreviated name**: *Rossetti* \[standard form in IPNI: *Rossetti*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33333748) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33333748) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9672-1), [Wikidata](https://www.wikidata.org/wiki/Q21608925). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Simonds, Arthur Beaman (1867-x), American botanist; AB Harvard 1891; AM Univ. Calif. 1893. 
-**Abbreviated name**: *Simonds*
+**Abbreviated name**: *Simonds* \[standard form in IPNI: *Simonds*\]
 
 #### Herbarium and types
 

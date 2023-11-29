@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33066371) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33066371) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11335-1), [Wikidata](https://www.wikidata.org/wiki/Q5820343). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walker, Egbert Hamilton (1899-x), American botanist and botanical bibliographer; A.B. Mich. Univ. 1922; Dr. phil. Johns Hopkins Univ. 1940; Instructor Canton Christian College 1922-1926; assistant in botany Univ. Wisconsin 1926-1928; aide, division of plants Smithsonian Institution 1928-1942; assistant curator ib. 1942-1946, associate curator 1946-1958; working on various grants ib. 1956-1964; research associate 1964-1966, emeritus botanist 1967. 
-**Abbreviated name**: *E. Walker*
+**Abbreviated name**: *E. Walker* \[standard form in IPNI: *E.Walker*\]
 
 #### Herbarium and types
 

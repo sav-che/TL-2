@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33355216) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33355216) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5684-1), [Wikidata](https://www.wikidata.org/wiki/Q9291944). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lobarzewski, Hyacinth Strzemù von (1816-1862), Galician bryologist, professor of botany at Lemberg. 
-**Abbreviated name**: *Lobarz.*
+**Abbreviated name**: *Lobarz.* \[standard form in IPNI: *Lobarz.*\]
 
 #### Herbarium and types
 

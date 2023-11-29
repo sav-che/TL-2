@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33333634) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33333634) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9450-1), [Wikidata](https://www.wikidata.org/wiki/Q1356463). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Selander \[Nils\] Sten \[Edvard\] (1891-1957), Swedish botanist, author and journalist; fil. kand. Uppsala 1917; Dr. phil. ib. 1950, lecturer in botany Uppsala from 1951; member Swed. Acad. 1953. 
-**Abbreviated name**: *Selander*
+**Abbreviated name**: *Selander* \[standard form in IPNI: *Selander*\]
 
 #### Herbarium and types
 

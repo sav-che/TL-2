@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33066809) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33066809) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11884-1), [Wikidata](https://www.wikidata.org/wiki/Q726447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wright, William (1735-1819), British physician and botanist; studied medicine at Edinburgh University; to Greenland 1757; surgeon's mate in the British navy 1758-1763, visiting e.g. Jamaica; MD St. Andrews; practicing physician on Jamaica 1764-1777; in London 1777-1779; regimental surgeon in the Jamaican regiment 1779; in Spanish captivity 1779-1781; again in Jamaica 1781-1785, ultimately as physician-general; settled in Edinburgh 1788 (1786?); visited Barbados 1796-1798; from 1798 again in Edinburgh. 
-**Abbreviated name**: *W. Wright*
+**Abbreviated name**: *W. Wright* \[standard form in IPNI: *W.Wright*\]
 
 #### Herbarium and types
 

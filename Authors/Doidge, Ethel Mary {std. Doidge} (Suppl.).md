@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33260016) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33260016) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18116-1), [Wikidata](https://www.wikidata.org/wiki/Q18640601). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Doidge, Ethel Mary {std. Doidge}|first entry]] for this author
 
 ### Author
 
 \* Doidge, Ethel Mary (1887-1965), English botanist, born 31 Mai 1887, Nottingham, England, died 22 Sep 1965, Anderley, South Coast, Natal, educated at Epworth High School, Pietermaritzburg and Huguenot College Wellington, C.P. grad. 1907 at Transvaal Dept. of Agriculture, 1908 asistant with Pole Evans, Univ. Cape of Good Hope M.A. Degree 1909, Dr. sci. ib. 1914, appointed Principal Plant Pathologist from 1929 until retirement in 1942. 
-**Abbreviated name**: *Doidge*
+**Abbreviated name**: *Doidge* \[standard form in IPNI: *Doidge*\]
 
 #### Herbarium and types
 

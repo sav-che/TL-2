@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33266064) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33266064) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/32817-1), [Wikidata](https://www.wikidata.org/wiki/Q3074178). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cosandey, Florian (1897-x), Swiss phycologist and general botanist, born at Sassel, Switzerland, director of Jardin Botanique de l'Université de Lausanne, professor of general botany and idem at Bex ("La Thomasia"). 
-**Abbreviated name**: *Cosandey*
+**Abbreviated name**: *Cosandey* \[standard form in IPNI: *Cosandey*\]
 
 #### Herbarium and types
 

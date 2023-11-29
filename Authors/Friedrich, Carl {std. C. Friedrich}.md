@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33258513) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33258513) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/20035152-1), [Wikidata](https://www.wikidata.org/wiki/Q88815949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Friedrich, Carl (1857-1928?), Latvian botanist (cryptogamist), born 19 Mai 1857 in Riga, Dr. Sci. 1878 Tübingen, Germany (unter S. Schwendener). 
-**Abbreviated name**: *C. Friedrich*
+**Abbreviated name**: *C. Friedrich* \[standard form in IPNI: *C.Friedrich*\]
 
 #### Herbarium and types
 

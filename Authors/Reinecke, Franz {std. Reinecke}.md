@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33190169) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33190169) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8266-1), [Wikidata](https://www.wikidata.org/wiki/Q21502520). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reinecke, Franz (1866-?), German (Silesian) botanist; studied at Breslau; teacher's examination 1888; at Heidelberg 1890-1892 as student of Pfitzer; Dr. phil. Heidelberg 1893; travelled in Samoa 1893-1895; later in Breslau. 
-**Abbreviated name**: *Reinecke*
+**Abbreviated name**: *Reinecke* \[standard form in IPNI: *Reinecke*\]
 
 #### Herbarium and types
 

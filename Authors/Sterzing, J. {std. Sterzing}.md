@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33334046) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 907](https://www.biodiversitylibrary.org/page/33334046) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10121-1), [Wikidata](https://www.wikidata.org/wiki/Q36599663). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sterzing, J. (*fl*. 1860), German mycologist and high school teacher at Sondershausen. 
-**Abbreviated name**: *Sterzing*
+**Abbreviated name**: *Sterzing* \[standard form in IPNI: *Sterzing*\]
 
 #### Herbarium and types
 

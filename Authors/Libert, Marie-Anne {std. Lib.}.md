@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33355121) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33355121) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5561-1), [Wikidata](https://www.wikidata.org/wiki/Q470036). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Libert, Marie-Anne (1782-1865), Belgian botanist, born in Malmédy.
-**Abbreviated name**: *Lib.*
+**Abbreviated name**: *Lib.* \[standard form in IPNI: *Lib.*\]
 
 #### Herbarium and types
 

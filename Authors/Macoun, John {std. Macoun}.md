@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33355320) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33355320) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22705-1), [Wikidata](https://www.wikidata.org/wiki/Q3181981). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Macoun, John (1831-1920), Irish-born naturalist who went to Canada in 1850; professor of botany in Albert College, Belleville (Ont.) 1874-1881; from 1881-1912 botanist to the Dominion government and naturalist at the Geological Survey of Canada; ultimately in British Columbia. 
-**Abbreviated name**: *Macoun*
+**Abbreviated name**: *Macoun* \[standard form in IPNI: *Macoun*\]
 
 #### Herbarium and types
 

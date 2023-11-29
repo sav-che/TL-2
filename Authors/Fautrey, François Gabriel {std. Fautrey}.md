@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33259573) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33259573) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18680-1), [Wikidata](https://www.wikidata.org/wiki/Q21395770). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fautrey, François Gabriel (1833-1905), French cryptogamic botanist, born 27 Sep 1833 in Courbevoie (now Hauts-de-Seine), teacher in Noidan nr. Pont-Royal (Côte-d'Or), later lived in Corrombles nr. Époisses (Côte-d'Or), died 4 Aug 1905 in Corrombles. 
-**Abbreviated name**: *Fautrey*
+**Abbreviated name**: *Fautrey* \[standard form in IPNI: *Fautrey*\]
 
 #### Herbarium and types
 

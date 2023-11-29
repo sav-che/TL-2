@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33266192) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33266192) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1925-1), [Wikidata](https://www.wikidata.org/wiki/Q2601895). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Curtis, Moses Ashley {std. M.A. Curtis}|first entry]] for this author
 
 ### Author
 
 \* Curtis, Moses Ashley (1808-1872), American botanist, teacher and priest, born at Stockbridge, Mass., educated at Williams College until 1827, ordaine in the Episcopal Church in 1834, as missionary to Lincolnton, North Carolina as well as a collector as a mycologist. 
-**Abbreviated name**: *M.A. Curtis*
+**Abbreviated name**: *M.A. Curtis* \[standard form in IPNI: *M.A.Curtis*\]
 
 #### Herbarium and types
 

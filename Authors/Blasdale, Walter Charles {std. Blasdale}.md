@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33265404) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33265404) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16207-1), [Wikidata](https://www.wikidata.org/wiki/Q21506184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Blasdale, Walter Charles (1871-1960), American chemist and amateur mycologist, studied at the University of California, B.S. 1892, Ph.D. 1900, instructor in chemistry ib. 1895-1903, assistant professor 1903-1919, professor of chemistry 1919-1921, emer. 1941. 
-**Abbreviated name**: *Blasdale*
+**Abbreviated name**: *Blasdale* \[standard form in IPNI: *Blasdale*\]
 
 #### Herbarium and types
 

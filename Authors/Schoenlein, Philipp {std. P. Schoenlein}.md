@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33333430) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33333430) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9221-1), [Wikidata](https://www.wikidata.org/wiki/Q21608256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schoenlein, Philipp (1834-1856), Swiss-born botanist; educated in Berlin; travelled in Upper Guinea 1855-1856; died at Cap Palmas, Liberia; son of J.L. Schönlein. 
-**Abbreviated name**: *P. Schoenlein*
+**Abbreviated name**: *P. Schoenlein* \[standard form in IPNI: *P.Schoenl.*\]
 
 #### Herbarium and types
 

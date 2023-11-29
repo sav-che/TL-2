@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33120643) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33120643) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1698-1), [Wikidata](https://www.wikidata.org/wiki/Q5537977). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clifton, George (1823-1913), British botanist who collected algae in Australia (1854). 
-**Abbreviated name**: *Clifton*
+**Abbreviated name**: *Clifton* \[standard form in IPNI: *Clifton*\]
 
 #### Herbarium and types
 

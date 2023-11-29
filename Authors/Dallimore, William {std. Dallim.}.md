@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33259077) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33259077) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/1965-1), [Wikidata](https://www.wikidata.org/wiki/Q2882553). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dallimore, William (1871-1959), British botanist and gardener, Kew Gardener 1891, ib. foreman of Arboretum 1901-1908, assistant at the Kew Museum 1908-1926, keeper (curator) id. 1926-1936, development of the National Pinetum, Bedgebury ca. 1939. 
-**Abbreviated name**: *Dallim.*
+**Abbreviated name**: *Dallim.* \[standard form in IPNI: *Dallim.*\]
 
 #### Herbarium and types
 

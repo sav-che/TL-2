@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33333241) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33333241) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26220-1), [Wikidata](https://www.wikidata.org/wiki/Q1458093). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schade, \[Friedrich\] Alwin (1881-1976), German (Lausitz) botanist (lichenologist); Dr. phil. Jena 1911; high school teacher ("Studienrat") at the Kreuzschule at Dresden 1906-1945; on war duty and p.o.w. in France 1914-1919; schoolsupervisor at Putzkau 1946-1947; Dr. h.c. Dresden Techn.Univ. 1966. 
-**Abbreviated name**: *Schade*
+**Abbreviated name**: *Schade* \[standard form in IPNI: *Schade*\]
 
 #### Herbarium and types
 

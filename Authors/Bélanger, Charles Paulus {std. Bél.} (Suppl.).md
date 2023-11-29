@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33265258) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33265258) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/627-1), [Wikidata](https://www.wikidata.org/wiki/Q2959958). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bélanger, Charles Paulus {std. Bél.}|first entry]] for this author
 
 ### Author
 
 \* Bélanger, Charles Paulus (1805-1881), French (born in Paris) botanical explorer, instructed to go by land to Pondichéry and to set up a botanical garden, moved to Pegu and Java 1827, returned to France 1828 via Mauritius, Réunion, Cape of the Good Hope and St. Helena, arriving in Paris Jul 1829; director of the botanical garden at Saint Pierre on Martinique 1853-1881. 
-**Abbreviated name**: *Bél.*
+**Abbreviated name**: *Bél.* \[standard form in IPNI: *Bél.*\]
 
 #### Herbarium and types
 

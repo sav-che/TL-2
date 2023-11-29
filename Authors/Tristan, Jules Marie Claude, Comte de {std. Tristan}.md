@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33212539) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33212539) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10831-1), [Wikidata](https://www.wikidata.org/wiki/Q21610962). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tristan, Jules Marie Claude, Comte de (1776-1861), French landed gentleman at Orléans and Cléry St. André (Château de l'Emérillon); longtime in charge of the Orléans botanical garden; encyclopaedic erudite and naturalist. 
-**Abbreviated name**: *Tristan*
+**Abbreviated name**: *Tristan* \[standard form in IPNI: *Tristan*\]
 
 #### Herbarium and types
 

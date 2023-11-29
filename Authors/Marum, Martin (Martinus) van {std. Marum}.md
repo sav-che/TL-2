@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33355432) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33355432) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6183-1), [Wikidata](https://www.wikidata.org/wiki/Q474022). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marum, Martin \[Martinus\] van (1750-1837), Dutch physician and naturalist; Ph. D. Groningen 1773; main founder of the collections and library of Teyler's Stichting at Haarlem. 
-**Abbreviated name**: *Marum*
+**Abbreviated name**: *Marum* \[standard form in IPNI: *Marum*\]
 
 #### Herbarium and types
 

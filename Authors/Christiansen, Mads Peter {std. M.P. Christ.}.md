@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33265841) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33265841) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1632-1), [Wikidata](https://www.wikidata.org/wiki/Q21393058). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Christiansen, Mads Peter (1889-1975), Danish botanist, born at Gamborg, teacher's examination 1912, subject teacher at Køge 1919-1944, school inspector 1935. 
-**Abbreviated name**: *M.P. Christ.*
+**Abbreviated name**: *M.P. Christ.* \[standard form in IPNI: *M.P.Christ.*\]
 
 #### Herbarium and types
 

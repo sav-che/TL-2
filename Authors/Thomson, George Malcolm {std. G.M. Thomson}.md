@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-07-26 12:16:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33212326) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33212326) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10615-1), [Wikidata](https://www.wikidata.org/wiki/Q5512351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomson, George Malcolm (1848-1933), British (India-born) botanist and zoologist; from 1868 in New Zealand; science master, Otago High School 1877-1889; in charge of Otago Technical School 1889-1903; founder of Portobello Marine Biological Station 1902; analytical chemist 1906-1914; in the New Zealand Legislative Council 1918-1932. 
-**Abbreviated name**: *G.M. Thomson*
+**Abbreviated name**: *G.M. Thomson* \[standard form in IPNI: *G.M.Thomson*\]
 
 #### Herbarium and types
 

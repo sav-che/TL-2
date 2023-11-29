@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33259743) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33259743) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/34124-1), [Wikidata](https://www.wikidata.org/wiki/Q36589967). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Flageolet, Joseph (Abbé) (fl. 1889-1919), French clergyman and mycologist, led field trips in 1889, member of the French Mycological Society from 1892, priest (Abbé) in Rigny-sur-Arroux (Saône-et-Loire). 
-**Abbreviated name**: *Flageolet*
+**Abbreviated name**: *Flageolet* \[standard form in IPNI: *Flageolet*\]
 
 #### Herbarium and types
 

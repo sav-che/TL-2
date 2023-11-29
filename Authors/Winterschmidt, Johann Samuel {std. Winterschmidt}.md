@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33066725) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33066725) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11779-1), [Wikidata](https://www.wikidata.org/wiki/Q21612846). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winterschmidt, Johann Samuel (1760-1824 \[1824-1829?\]), German (Bavarian) botanical artist at Nürnberg. 
-**Abbreviated name**: *Winterschmidt*
+**Abbreviated name**: *Winterschmidt* \[standard form in IPNI: *Winterschm.*\]
 
 #### Herbarium and types
 

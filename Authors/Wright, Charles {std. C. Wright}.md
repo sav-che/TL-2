@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33066804) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33066804) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13033-1), [Wikidata](https://www.wikidata.org/wiki/Q721062). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wright, Charles (1811-1885), American botanical collector; studied at Yale College 1831-1835; private teacher at Natchez, Mississippi 1836-1837; teacher in Zarvala and Rutersville, Texas 1837-1847; volunteer in the U.S. Army 1847-1848 during the Mexican war, collected for Asa Gray in the Mexican Boundary Region; 1849-1850 with the U.S. Army from San Antonio to El Paso on the Rio Grande; teacher in Central Texas 1850-1852; botanist and surveyor on the Graham Boundary Survey 1851-1852; returned to Cambridge, Mass.; on the North Pacific Exploring Expedition under capt. Ringgold and comm. J. Rodgers 1853-1855; visited Nicaragua 1855; collected in Cuba on various trips 1856-1867; working at Cambridge 1867-1871; visited Sto. Domingo 1871; working in Cambridge from 1871-1876; in retirement at Wethersfield, Conn. 1876-1885. 
-**Abbreviated name**: *C. Wright*
+**Abbreviated name**: *C. Wright* \[standard form in IPNI: *C.Wright*\]
 
 #### Herbarium and types
 

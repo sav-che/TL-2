@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33068934) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33068934) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21866-1), [Wikidata](https://www.wikidata.org/wiki/Q77074). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kunth, Carl Sigismund (1788-1850), German botanist; joined A. v. Humboldt in Paris 1813, to work on his New World collections, from 1829 professor of botany at the University of Berlin. 
-**Abbreviated name**: *Kunth*
+**Abbreviated name**: *Kunth* \[standard form in IPNI: *Kunth*\]
 
 #### Herbarium and types
 

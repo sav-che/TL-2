@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33120385) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33120385) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/912-1), [Wikidata](https://www.wikidata.org/wiki/Q722712). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boisduval, Jean (Baptiste) Antoine (Déchaffour) de {std. Boisd.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Boisduval, Jean Baptiste Alphonse Déchauffour(e) de (1801 \[1799?\]-1879), French naturalist and physician at Paris. 
-**Abbreviated name**: *Boisduval*
+**Abbreviated name**: *Boisduval* \[standard form in IPNI: *Boisd.*\]
 
 #### Herbarium and types
 

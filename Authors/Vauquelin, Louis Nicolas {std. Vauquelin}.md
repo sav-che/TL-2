@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33212726) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33212726) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11099-1), [Wikidata](https://www.wikidata.org/wiki/Q333438). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vauquelin, Louis Nicolas (1763-1829), French chemist and pharmacist; studied at Rouen and Paris; pharmacist at a hospital in Melun 1793; inspector of mines and assistant professor of chemistry at the École polytechnique, Paris 1794; later professor of chemistry at the Collège de France and at the Muséum d'Histoire naturelle and from 1811 at the Faculté des Sciences. 
-**Abbreviated name**: *Vauquelin*
+**Abbreviated name**: *Vauquelin* \[standard form in IPNI: *Vauquelin*\]
 
 #### Herbarium and types
 

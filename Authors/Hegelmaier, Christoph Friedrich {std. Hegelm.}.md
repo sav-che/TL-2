@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33068369) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33068369) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3779-1), [Wikidata](https://www.wikidata.org/wiki/Q96737). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hegelmaier, Christoph Friedrich (1833-1906), German physician and botanist; Dr. med. Tübingen 1857; until 1862 military physician at Ulm; from 1862-1863 with A. Braun at Berlin; habil. Tübingen 1864, later professor of botany at Tübingen (extraordinary 1866; honorary 1902). 
-**Abbreviated name**: *Hegelm.*
+**Abbreviated name**: *Hegelm.* \[standard form in IPNI: *Hegelm.*\]
 
 #### Herbarium and types
 

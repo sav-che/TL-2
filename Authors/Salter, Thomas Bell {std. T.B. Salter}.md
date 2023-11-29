@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33333168) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33333168) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/638-1), [Wikidata](https://www.wikidata.org/wiki/Q19001652). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Salter, Thomas Bell (1814-1858), Scottish physician and botanist; Dr. med. Edinburgh; practiced at Ryde (Isle of Wight). 
-**Abbreviated name**: *T.B. Salter*
+**Abbreviated name**: *T.B. Salter* \[standard form in IPNI: *T.B.Salter*\]
 
 #### Herbarium and types
 

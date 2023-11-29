@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33333887) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33333887) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9899-1), [Wikidata](https://www.wikidata.org/wiki/Q3294542). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sopp, Olav Johan (until 1907: Johan-Olsen) (1860-1931), Norwegian botanist (mycologist); med. kand. Christiania (Oslo) 1888; Dr. phil. ib. 1903, later owner and director of a fermentation-physiological and mycological laboratory at Kap (Kapp) nr Mjoesen). 
-**Abbreviated name**: *Sopp*
+**Abbreviated name**: *Sopp* \[standard form in IPNI: *Sopp*\]
 
 #### Herbarium and types
 

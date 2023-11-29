@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33355319) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33355319) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5957-1), [Wikidata](https://www.wikidata.org/wiki/Q21519740). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Macoun, James Melville \["Jim"\] (1862-1920), Canadian botanist and geologist with the Geological Survey of Canada (1883-1898 assistant botanist; 1898-1917 assistant naturalist; 1917-1920 botanist); son of John Macoun. 
-**Abbreviated name**: *J. M. Macoun*
+**Abbreviated name**: *J. M. Macoun* \[standard form in IPNI: *J.M.Macoun*\]
 
 #### Herbarium and types
 

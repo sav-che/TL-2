@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33212220) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33212220) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12918-1), [Wikidata](https://www.wikidata.org/wiki/Q16027742). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Taube, \[Daniel\] Johann (1727-1799), German (Hanoverian) physician and naturalist at Celle. 
-**Abbreviated name**: *Taube*
+**Abbreviated name**: *Taube* \[standard form in IPNI: *Taube*\]
 
 #### Herbarium and types
 

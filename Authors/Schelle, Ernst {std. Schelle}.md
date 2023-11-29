@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33333264) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33333264) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9041-1), [Wikidata](https://www.wikidata.org/wiki/Q4522680). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schelle, Ernst (1864-1929), German gardener and botanist; head gardener at the University botanical Garden of Tübingen. 
-**Abbreviated name**: *Schelle*
+**Abbreviated name**: *Schelle* \[standard form in IPNI: *Schelle*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33068923) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33068923) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5089-1), [Wikidata](https://www.wikidata.org/wiki/Q21517970). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kruse, Friedrich (x-1890), German botanist; professor at the K. Wilhelms-Gymnasium in Berlin. 
-**Abbreviated name**: *Kruse*
+**Abbreviated name**: *Kruse* \[standard form in IPNI: *Kruse*\]
 
 #### Herbarium and types
 

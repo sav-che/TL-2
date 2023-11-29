@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33068303) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33068303) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3684-1), [Wikidata](https://www.wikidata.org/wiki/Q67908). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hartig, Theodor (1805-1880), German forester; from 1831-1838 lecturer and professor of forestry at Berlin; ultimately Forstrath and professor of forestry at the forestry college in Braunschweig. 
-**Abbreviated name**: *Hartig*
+**Abbreviated name**: *Hartig* \[standard form in IPNI: *Hartig*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33266493) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33266493) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16656-1), [Wikidata](https://www.wikidata.org/wiki/Q6223729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buchanan, John (1819-1898), English botanist and geologist active in New Zealand from 1859, botanist to the Geological Survey of Otago, draughtsman and botanist with the Geological Survey of New Zealand 1866 at Wellington 
-**Abbreviated name**: *Buchanan*
+**Abbreviated name**: *Buchanan* \[standard form in IPNI: *Buchanan*\]
 
 #### Herbarium and types
 

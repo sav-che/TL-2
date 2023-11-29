@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33259099) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33259099) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/1985-1), [Wikidata](https://www.wikidata.org/wiki/Q3265618). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Daniel, Lucien \[Louis\] (1856-1940), French botanist (mycologist and agriculturist), born at La Dorée, Mayenne (1 Nov 1856), died at Rennes (26 Dec 1940), professor at the Lyceum of Rennes, professor at the University of Rennes for agricultural botany 1903. 
-**Abbreviated name**: *L.L. Daniel*
+**Abbreviated name**: *L.L. Daniel* \[standard form in IPNI: *L.L.Daniel*\]
 
 #### Herbarium and types
 

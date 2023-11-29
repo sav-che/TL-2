@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-01-07 07:49:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33120569) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33120569) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16855-1), [Wikidata](https://www.wikidata.org/wiki/Q123057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Candolle, Augustin Pyramus de {std. DC.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Candolle, Augustin Pyramus de (1778-1841), Swiss botanist at Genève. 
-**Abbreviated name**: *DC*
+**Abbreviated name**: *DC* \[standard form in IPNI: *DC.*\]
 
 #### Herbarium and types
 

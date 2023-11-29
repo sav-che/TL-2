@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33260245) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33260245) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18358-1), [Wikidata](https://www.wikidata.org/wiki/Q36572296). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eddelbüttel, Heinrich (1888-x), German botanist, born 12 Nov 1888 at Hamburg, visited the "Oberealschule" at Hamburg 1898-1907, studied natural sciences at Göttingen, especially botany, went to Berlin in 1908, to Hamburg in 1909 and returned to Göttingen. 
-**Abbreviated name**: *Eddelb.*
+**Abbreviated name**: *Eddelb.* \[standard form in IPNI: *Eddelb.*\]
 
 #### Herbarium and types
 

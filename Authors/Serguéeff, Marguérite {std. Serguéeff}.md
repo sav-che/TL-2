@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33333652) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33333652) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9499-1), [Wikidata](https://www.wikidata.org/wiki/Q21608686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Serguéeff, Marguérite (1877-?), Russian botanist, who studied at Genève 1900-1908; Dr. Sci. nat. Genève 1907. 
-**Abbreviated name**: *Serguéeff*
+**Abbreviated name**: *Serguéeff* \[standard form in IPNI: *M.Sergeeva*\]
 
 #### Herbarium and types
 

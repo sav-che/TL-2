@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33189723) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33189723) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7667-1), [Wikidata](https://www.wikidata.org/wiki/Q2607627). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pichi-Sermolli, Rodolfo Emilio Giuseppe (1912-x), Italian botanist (pteridologist); Laureato Sci. nat. Firenze 1935; at the Herbarium Universitati Florentinae 1935-1950; from 1957-1959 at Sassari; later at Genova and Perugia. 
-**Abbreviated name**: *Pic.-Ser.*
+**Abbreviated name**: *Pic.-Ser.* \[standard form in IPNI: *Pic.Serm.*\]
 
 #### Herbarium and types
 

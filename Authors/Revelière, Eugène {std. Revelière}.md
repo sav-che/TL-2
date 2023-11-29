@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33190217) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33190217) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8316-1), [Wikidata](https://www.wikidata.org/wiki/Q21607137). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Revelière, Eugène (1822-1892), French botanist and entomologist at Saumur; collected in Corsica 1854 and 1856-1858, later also in Algeria; ultimately living in Corsica. 
-**Abbreviated name**: *Revelière*
+**Abbreviated name**: *Revelière* \[standard form in IPNI: *Revelière*\]
 
 #### Herbarium and types
 

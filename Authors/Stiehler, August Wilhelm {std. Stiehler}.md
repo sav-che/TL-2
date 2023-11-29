@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33212093) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33212093) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10146-1), [Wikidata](https://www.wikidata.org/wiki/Q2575266). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stiehler, August Wilhelm (1797-1878), German (Prussian-Saxony) lawyer and paleobotanist; magistrate at Wernigerode, later in Quedlinburg. 
-**Abbreviated name**: *Stiehler*
+**Abbreviated name**: *Stiehler* \[standard form in IPNI: *Stiehler*\]
 
 #### Herbarium and types
 

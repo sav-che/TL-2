@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 578](https://www.biodiversitylibrary.org/page/33190049) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 578](https://www.biodiversitylibrary.org/page/33190049) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25320-1), [Wikidata](https://www.wikidata.org/wiki/Q36644048). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ranojevic, Nikola (*fl*. 1905), Serbian mycologist. 
-**Abbreviated name**: *Ranoj.*
+**Abbreviated name**: *Ranoj.* \[standard form in IPNI: *Ranoj.*\]
 
 #### Herbarium and types
 

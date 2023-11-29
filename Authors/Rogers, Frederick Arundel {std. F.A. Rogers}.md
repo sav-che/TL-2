@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33190329) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33190329) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8524-1), [Wikidata](https://www.wikidata.org/wiki/Q21607328). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rogers, Frederick Arundel (1876-1944), English-born South African clergyman and botanist; son of W. Moyle Rogers; studied at Oxford; to South Africa for the South African Church Railway Mission 1904-1911, from 1911 as head of this Mission; Archdeacon of Pietersburg, Transvaal 1914; collected plants in S. Africa, Rhodesia, Belgian Congo 1904-1925, Iraq 1929-1930, Syria, Cyprus, Greece and Switzerland 1930. 
-**Abbreviated name**: *F.A. Rogers*
+**Abbreviated name**: *F.A. Rogers* \[standard form in IPNI: *F.A.Rogers*\]
 
 #### Herbarium and types
 

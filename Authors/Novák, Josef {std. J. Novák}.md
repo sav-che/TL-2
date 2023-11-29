@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33355866) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33355866) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7050-1), [Wikidata](https://www.wikidata.org/wiki/Q21516229). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Novák, Josef (1846-1917), Czech botanist and high school teacher at Nemecký Brod (Deutschbrod, Havlíckåv Brod) 1874-1886, later at Jicín (Jitschin). 
-**Abbreviated name**: *J. Novák*
+**Abbreviated name**: *J. Novák* \[standard form in IPNI: *J.Novák*\]
 
 #### Herbarium and types
 

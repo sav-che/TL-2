@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33266173) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33266173) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17573-1), [Wikidata](https://www.wikidata.org/wiki/Q21509626). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Culmann, Frédéric Paul (1860-1936), Swiss bryologist, born in Zürich, educated at schools in Zürich until 1878, at the Polytechnicum at Zürich 1878-1882, at the University of Berlin 1882-1885, Dr. phil. Berlin 1885, teacher at the Technicum of Wintherthur 1885-1898, in Paris working for the Jena "Maison Carl Zeiss", also studying bryology. 
-**Abbreviated name**: *Culm.*
+**Abbreviated name**: *Culm.* \[standard form in IPNI: *Culm.*\]
 
 #### Herbarium and types
 

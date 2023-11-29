@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33066726) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33066726) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11783-1), [Wikidata](https://www.wikidata.org/wiki/Q2834461). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wirtgen, Ferdinand Paul (1848-1924), German (Prussian/Rheinland) pharmacist and botanist; studied pharmacy in Koblenz and St. Johann a.d. Saar (Saarbrücken), state examination Bonn 1873; pharmacist at Eltenheim, Baden 1873-1875, from 1875 again in St. Johann a.d. S., from 1879-1889 as owner of the Frötsch pharmacy; from 1889 in Bonn dedicating himself mainly to botany; son of Philipp Wirtgen. 
-**Abbreviated name**: *F. Wirtg.*
+**Abbreviated name**: *F. Wirtg.* \[standard form in IPNI: *F.Wirtg.*\]
 
 #### Herbarium and types
 

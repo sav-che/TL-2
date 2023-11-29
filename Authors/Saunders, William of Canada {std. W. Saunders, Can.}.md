@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33333207) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33333207) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8956-1), [Wikidata](https://www.wikidata.org/wiki/Q8018139). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saunders, William of Canada (1836-1914), English-born botanist and agricultural scientist; to Canada 1848; active as industrial pharmacist, entomologist and plant breeder; owner of a private experimental farm from 1868; professor of materia medica Western Univ., Ontario 1882-1886; director Experimental Farms Canada, 1886-1911; originated the work which led to the development by his son, Charles Edward, of the Marquis wheat; LL.D. Queen's (Can.) 1896, id. Toronto 1903.
-**Abbreviated name**: *W. Saunders, Can.*
+**Abbreviated name**: *W. Saunders, Can.* \[standard form in IPNI: *W.Saunders bis*\]
 
 #### Herbarium and types
 

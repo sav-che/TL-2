@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33120313) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33120313) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/671-1), [Wikidata](https://www.wikidata.org/wiki/Q940150). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Berchtold, Friedrich, Graf von, Freiherr von Ungarschütz {std. Bercht.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Berchtold, Friedrich, Graf von, Freiherr von Ungarschütz (Uherčic) (1781-1876), Czech botanist, traveller in Europe, the Orient and Brazil (1836-1855). 
-**Abbreviated name**: *Bercht.*
+**Abbreviated name**: *Bercht.* \[standard form in IPNI: *Bercht.*\]
 
 #### Herbarium and types
 

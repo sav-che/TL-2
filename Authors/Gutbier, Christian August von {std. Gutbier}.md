@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1026](https://www.biodiversitylibrary.org/page/33121157) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1026](https://www.biodiversitylibrary.org/page/33121157) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3498-1), [Wikidata](https://www.wikidata.org/wiki/Q21514424). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gutbier, Christian August von (1798-1866), German palaeobiologist in Sachsen. 
-**Abbreviated name**: *Gutbier*
+**Abbreviated name**: *Gutbier* \[standard form in IPNI: *Gutbier*\]
 
 #### Collections
 

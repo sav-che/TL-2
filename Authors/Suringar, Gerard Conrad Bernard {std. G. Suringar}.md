@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33212137) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33212137) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10305-1), [Wikidata](https://www.wikidata.org/wiki/Q15445687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Suringar, Gerard Conrad Bernard (1802-1874), German (Lingen/Hannover)-born Dutch physician; Dr. med. Leiden 1824; studied in Gent, Liège, Paris and Berlin 1824-1826; Dr. chirurg. Leiden 1826; practicing physician at Leiden 1826-1830; professor of anatomy at the Athenaeum, Amsterdam 1830-1831 (from 1831-1843 honorary) professor of medicine at the Clinical School Amsterdam 1831-1843; professor of medicine Leiden 1843-1872. 
-**Abbreviated name**: *G. Suringar*
+**Abbreviated name**: *G. Suringar* \[standard form in IPNI: *G.Suringar*\]
 
 #### Herbarium and types
 

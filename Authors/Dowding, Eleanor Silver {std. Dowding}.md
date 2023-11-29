@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33260068) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33260068) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18179-1), [Wikidata](https://www.wikidata.org/wiki/Q36544670). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dowding, Eleanor Silver (1901-x), Canadian botanist, born 1901 in London, England, B.S. and M.S. University of Alberta, Ph.D. University of Alberta, at Dept. of Bacteriology 1954-1957, Dept. of Botany 1958-1961, Dept. of Genetics 1962-1973. 
-**Abbreviated name**: *Dowding*
+**Abbreviated name**: *Dowding* \[standard form in IPNI: *Dowding*\]
 
 #### Herbarium and types
 

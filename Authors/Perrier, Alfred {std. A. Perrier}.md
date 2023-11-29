@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33189641) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33189641) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7531-1), [Wikidata](https://www.wikidata.org/wiki/Q21522841). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Perrier, Alfred (1809-1866), French botanist; Dr. med. Paris 1835; from 1836 practicing physician and amateur naturalist at Caen. 
-**Abbreviated name**: *A. Perrier*
+**Abbreviated name**: *A. Perrier* \[standard form in IPNI: *Perrier*\]
 
 #### Herbarium and types
 

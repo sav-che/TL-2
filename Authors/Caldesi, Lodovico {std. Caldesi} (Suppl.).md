@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33266617) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33266617) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1356-1), [Wikidata](https://www.wikidata.org/wiki/Q3836370). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Caldesi, Lodovico (Ludovico) {std. Caldesi}|first entry]] for this author
 
 ### Author
 
 \* Caldesi, Lodovico (1822-1884), Italien politician and botanist (mycologist) at Faenza, member of the roman constituante 1849, of the national parliament 1866, idem of the departemental and communal assemblies 1859-1884. 
-**Abbreviated name**: *Caldesi*
+**Abbreviated name**: *Caldesi* \[standard form in IPNI: *Caldesi*\]
 
 #### Herbarium and types
 

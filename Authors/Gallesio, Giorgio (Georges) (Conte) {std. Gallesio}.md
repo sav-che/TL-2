@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33258586) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33258586) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2996-1), [Wikidata](https://www.wikidata.org/wiki/Q762092). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gallesio, Giorgio \[Georges\] (Conte) (1772-1839), Italian geneticist, pomologist, magistrate, deputy and diplomat, born 23 Mai 1772 in Finalborgo (now Finale Ligure) on the Gulf of Genoa (then Republic of Genoa), law degree 1793 Univ. of Pavia, "Consiglio Generale", Dept. of Montenotte 1808, elected deputy from Dept. of Montenotte 1809, died 29 Nov 1839 in Florence. 
-**Abbreviated name**: *Gallesio*
+**Abbreviated name**: *Gallesio* \[standard form in IPNI: *Gallesio*\]
 
 #### Herbarium and types
 

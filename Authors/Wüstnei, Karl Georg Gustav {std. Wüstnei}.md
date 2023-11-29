@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33066814) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33066814) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11896-1), [Wikidata](https://www.wikidata.org/wiki/Q21613123). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wüstnei, Karl Georg Gustav (1810-1858), German (Mecklenburg-Schwerin) high school teacher, botanist and entomologist; from 1835 teacher for mathematics and natural sciences at the high school in Schwerin; contributed to Rabenhorst's series of exsiccatae. 
-**Abbreviated name**: *Wüstnei*
+**Abbreviated name**: *Wüstnei* \[standard form in IPNI: *Wüstnei*\]
 
 #### Herbarium and types
 

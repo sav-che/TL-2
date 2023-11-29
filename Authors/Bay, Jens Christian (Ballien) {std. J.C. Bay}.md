@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-11-16 12:03:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33265121) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33265121) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/15823-1), [Wikidata](https://www.wikidata.org/wiki/Q6179637). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bay, Jens Christian \[Ballien\] (1871-1962), Danish librarian and botanical bibliographer, educated at the University of Copenhagen 1887-1982, emigrated to the U.S.A. 1892, naturalized 1896, assistant at the Missouri Bot. Garden, St. Louis 1892-1894, bacteriologist Iowa State Board of Health 1894-1897, assistant at Library of Congress, Washington, D.C. 1900-1905; at the John Crerar library, Chicago 1905-1947, ultimately, from 1928, as librarian. 
-**Abbreviated name**: *J.C. Bay*
+**Abbreviated name**: *J.C. Bay* \[standard form in IPNI: *Bay*\]
 
 #### Herbarium and types
 

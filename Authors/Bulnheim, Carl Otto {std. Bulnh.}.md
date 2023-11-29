@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33120538) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33120538) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1282-1), [Wikidata](https://www.wikidata.org/wiki/Q21506645). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bulnheim, Carl Otto {std. Bulnh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bulnheim, Carl Otto (1820-1865), German botanist. 
-**Abbreviated name**: *Bulnheim*
+**Abbreviated name**: *Bulnheim* \[standard form in IPNI: *Bulnh.*\]
 
 #### Herbarium and types
 

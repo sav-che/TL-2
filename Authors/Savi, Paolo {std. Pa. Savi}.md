@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33333226) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 87](https://www.biodiversitylibrary.org/page/33333226) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/14967-1), [Wikidata](https://www.wikidata.org/wiki/Q2356835). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Savi, Paolo (1798-1871), Italian zoologist and geologist; son of Gaetano Savi; professor of zoology and mineralogy at the University of Pisa; from 1823 professor of natural history at Pisa University, from 1840 professor of zoology and comparative anatomy. 
-**Abbreviated name**: *Pa. Savi*
+**Abbreviated name**: *Pa. Savi* \[standard form in IPNI: *Pa.Savi*\]
 
 #### Herbarium and types
 

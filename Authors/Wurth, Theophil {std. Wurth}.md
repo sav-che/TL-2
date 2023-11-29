@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33066820) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33066820) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11910-1), [Wikidata](https://www.wikidata.org/wiki/Q21613118). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wurth, Theophil (1875-1922), Swiss botanist; studied at the University of Bern with the mycologist Ed. Fischer; Dr. phil. ib. 1904; teacher at an elementary school at Wilchingen (Schaffhausen) from 1894; at the Cocoa experiment station of Salatiga, Java 1905-1908, the Malang experiment station 1908-1911, director ib. 1911-1914, 1915-1922. 
-**Abbreviated name**: *Wurth*
+**Abbreviated name**: *Wurth* \[standard form in IPNI: *Wurth*\]
 
 #### Herbarium and types
 

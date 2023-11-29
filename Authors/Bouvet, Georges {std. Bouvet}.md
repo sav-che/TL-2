@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33265591) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33265591) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1039-1), [Wikidata](https://www.wikidata.org/wiki/Q3102355). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bouvet, Georges (1850-1929), French pharmacist and botanist, born at Angers, studied at the Lycée David d'Angers, student at the Ménière pharmacie at Angers, pharmacist 1876, had a pharmacy of its own 1876-1919, also director of the Musée d'Histoire naturelle and of the Jardin des plantes of Angers, including the various herbaria (Herb. Boreau, Herb. Lloyd, General herbarium of the Jardin des plantes). 
-**Abbreviated name**: *Bouvet*
+**Abbreviated name**: *Bouvet* \[standard form in IPNI: *Bouvet*\]
 
 #### Herbarium and types
 

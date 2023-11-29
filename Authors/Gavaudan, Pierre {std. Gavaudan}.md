@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33258632) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33258632) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/29266-1), [Wikidata](https://www.wikidata.org/wiki/Q3385180). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gavaudan, Pierre (1905-1985), French cytologist and hepaticologist, born 25 Jul 1905 in Montpellier, Dr. ès-sciences 1930 Paris, Prof. 1949-1975, Faculty of Science, Poitiers (Vienne), died 10 Jan 1985 in Songues (Vaucluse). 
-**Abbreviated name**: *Gavaudan*
+**Abbreviated name**: *Gavaudan* \[standard form in IPNI: *Gavaudan*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33355852) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33355852) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7021-1), [Wikidata](https://www.wikidata.org/wiki/Q15821231). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nonne, Johann Philipp (1729-1772), German botanist at Erfurt. 
-**Abbreviated name**: *Nonne*
+**Abbreviated name**: *Nonne* \[standard form in IPNI: *Nonne*\]
 
 #### Herbarium and types
 

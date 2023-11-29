@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33066877) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33066877) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12029-1), [Wikidata](https://www.wikidata.org/wiki/Q3604361). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zigno, Achille de (1813-1892), Italian private palaeobotanist of ample means mostly residing at or near Padova. 
-**Abbreviated name**: *Zigno*
+**Abbreviated name**: *Zigno* \[standard form in IPNI: *Zigno*\]
 
 #### Herbarium and types
 

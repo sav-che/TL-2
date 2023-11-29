@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33355555) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33355555) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6438-1), [Wikidata](https://www.wikidata.org/wiki/Q16065782). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Michelin, Jean-Louis Hardouin (1786-1867), French administrator; magistrate, palaeontologist and algologist; one of the founders of the Société géologique de France. 
-**Abbreviated name**: *Michelin*
+**Abbreviated name**: *Michelin* \[standard form in IPNI: *Michelin*\]
 
 #### Herbarium and types
 

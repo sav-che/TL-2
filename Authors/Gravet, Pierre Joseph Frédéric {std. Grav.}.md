@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 983](https://www.biodiversitylibrary.org/page/33121114) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 983](https://www.biodiversitylibrary.org/page/33121114) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3349-1), [Wikidata](https://www.wikidata.org/wiki/Q21514229). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gravet, Pierre Joseph Frédéric (1827-1907), Belgian bryologist. 
-**Abbreviated name**: *Grav.*
+**Abbreviated name**: *Grav.* \[standard form in IPNI: *Grav.*\]
 
 #### Herbarium and types
 

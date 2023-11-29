@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33068342) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33068342) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3727-1), [Wikidata](https://www.wikidata.org/wiki/Q21515579). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Haub, Peter Ferdinand (1804-1867), German high school teacher; from 1833 at the Konitz (Marienwerder) Gymnasium. 
-**Abbreviated name**: *Haub*
+**Abbreviated name**: *Haub* \[standard form in IPNI: *Haub*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33333471) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33333471) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9258-1), [Wikidata](https://www.wikidata.org/wiki/Q21608430). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schreiber, Franz (1839-?), German (Rhein-Hessen) botanist; Dr. phil. Bonn 1865. 
-**Abbreviated name**: *F. Schreiber*
+**Abbreviated name**: *F. Schreiber* \[standard form in IPNI: *F.Schreib.*\]
 
 #### Herbarium and types
 

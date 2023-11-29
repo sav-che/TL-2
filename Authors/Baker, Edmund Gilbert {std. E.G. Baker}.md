@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33120234) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33120234) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/404-1), [Wikidata](https://www.wikidata.org/wiki/Q4081202). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baker, Edmund Gilbert {std. E.G. Baker} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Baker, Edmund Gilbert (1864-1949), British botanist. 
-**Abbreviated name**: *E. G. Baker*
+**Abbreviated name**: *E. G. Baker* \[standard form in IPNI: *Baker f.*\]
 
 #### Herbarium and types
 

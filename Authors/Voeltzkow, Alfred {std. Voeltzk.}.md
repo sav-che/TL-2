@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33212807) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 765](https://www.biodiversitylibrary.org/page/33212807) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11232-1), [Wikidata](https://www.wikidata.org/wiki/Q2918926). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Voeltzkow, Alfred (1860-?), German zoologist and traveller; in Madagascar and East Africa 1889-1895, 1903-1905. 
-**Abbreviated name**: *Voeltzk.*
+**Abbreviated name**: *Voeltzk.* \[standard form in IPNI: *Voeltzk.*\]
 
 #### Herbarium and types
 

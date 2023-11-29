@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33333682) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33333682) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12861-1), [Wikidata](https://www.wikidata.org/wiki/Q21533963). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seymour, Arthur \[Bliss\] (1859-1933), American botanist; MS Univ. Illinois 1886; assistant to W.G. Farlow at Harvard 1883-1885; at the University of Wisconson 1885-1886; permanently appointed to the staff of the Cryptogamic Herbarium, Harvard 1886, especially engaged on the Harvard mycological indexes. 
-**Abbreviated name**: *Seym.*
+**Abbreviated name**: *Seym.* \[standard form in IPNI: *Seym.*\]
 
 #### Herbarium and types
 

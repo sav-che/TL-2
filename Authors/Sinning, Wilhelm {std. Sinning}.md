@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 617](https://www.biodiversitylibrary.org/page/33333756) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 617](https://www.biodiversitylibrary.org/page/33333756) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9698-1), [Wikidata](https://www.wikidata.org/wiki/Q6167473). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sinning, Wilhelm (1792-1874), German (Prussian) horticulturist and botanist; in charge of the botanical garden of Bonn University 1819-1871; also lecturer at the Agricultural College Poppelsdorf from 1852. 
-**Abbreviated name**: *Sinning*
+**Abbreviated name**: *Sinning* \[standard form in IPNI: *Sinning*\]
 
 #### Herbarium and types
 

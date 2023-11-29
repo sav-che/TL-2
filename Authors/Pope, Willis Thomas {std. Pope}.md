@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33189808) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33189808) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7841-1), [Wikidata](https://www.wikidata.org/wiki/Q6167823). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pope, Willis Thomas (1873-1961), American botanist and horticulturist; M.S. Univ. Calif., D. Sci. Univ. Hawaii; horticulturist at USDA Hawaii Experiment Station. 
-**Abbreviated name**: *Pope*
+**Abbreviated name**: *Pope* \[standard form in IPNI: *Pope*\]
 
 #### Herbarium and types
 

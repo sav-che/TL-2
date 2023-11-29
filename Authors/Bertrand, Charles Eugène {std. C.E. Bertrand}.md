@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33120337) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33120337) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/728-1), [Wikidata](https://www.wikidata.org/wiki/Q2959038). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bertrand, Charles Eugène {std. C.E. Bertrand} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bertrand, Charles Eugène (1851-1917), French palaeobotanist at Lille. 
-**Abbreviated name**: *C. E. Bertrand*
+**Abbreviated name**: *C. E. Bertrand* \[standard form in IPNI: *C.E.Bertrand*\]
 
 #### Collections
 

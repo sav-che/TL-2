@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33068725) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33068725) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4610-1), [Wikidata](https://www.wikidata.org/wiki/Q21517205). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kachler, Johann (1782-1863, or later), Austrian botanist, seed-merchant in Wien. 
-**Abbreviated name**: *Kachl.*
+**Abbreviated name**: *Kachl.* \[standard form in IPNI: *Kachl.*\]
 
 #### Herbarium and types
 

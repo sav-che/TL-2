@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33355219) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33355219) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5691-1), [Wikidata](https://www.wikidata.org/wiki/Q933652). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Locke, John (1792-1856), American geologist, botanist, physician, inventor; M. D. Yale 1819; from 1823 living at Cincinnati (Ohio), leading a preparatory school from 1823; professor of chemistry in the Medical College of Ohio from 1835; collaborator in the geological survey of Ohio. 
-**Abbreviated name**: *Locke*
+**Abbreviated name**: *Locke* \[standard form in IPNI: *Locke*\]
 
 #### Herbarium and types
 

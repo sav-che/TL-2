@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33212542) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33212542) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10835-1), [Wikidata](https://www.wikidata.org/wiki/Q21610969). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tröndle, Arthur (1881-1920), Swiss (Aargau) botanist; studied at Geneva 1901-1903, at Freiburg i. Br. 1903-1905 as student of Friedrich Oltmanns; assistant at the Botanical Institute Basel from 1905-1909; Dr. phil. Basel 1907 with A. Fischer; Privatdozent for botany at Freiburg i. Br. 1911-1914; habil. Zürich 1915; working at the Zürich Institute for general botany 1915-1919. 
-**Abbreviated name**: *Tröndle*
+**Abbreviated name**: *Tröndle* \[standard form in IPNI: *Tröndle*\]
 
 #### Herbarium and types
 

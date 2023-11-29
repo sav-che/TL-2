@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33265235) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33265235) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/607-1), [Wikidata](https://www.wikidata.org/wiki/Q2985757). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Beddome, Richard Henry {std. Bedd.}|first entry]] for this author
 
 ### Author
 
 \* Beddome, Richard Henry (1830-1911), British colonial army officer and forestry botanist; entered the Indian army 1848, ultimately quartermaster and interpreter to the 42nd Madras Infantry 1848-1856, assistant, later conservator with the Forestry Department, Madras 1857-1860, head of the Forestry Department S. India 1860-1882, retired to England 1883, continuing his interest in Indian ferns, freely associated with Kew and the British Museum. 
-**Abbreviated name**: *Bedd.*
+**Abbreviated name**: *Bedd.* \[standard form in IPNI: *Bedd.*\]
 
 #### Herbarium and types
 

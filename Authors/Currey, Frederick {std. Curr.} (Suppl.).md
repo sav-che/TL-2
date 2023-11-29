@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33266188) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33266188) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17588-1), [Wikidata](https://www.wikidata.org/wiki/Q18559734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Currey, Frederick {std. Curr.}|first entry]] for this author
 
 ### Author
 
 \* Currey, Frederick (1819-1881), British botanist (mycologist), born at Norwood, Surrey, educated at Eton and the Trintity College at Cambridge, B.A. Cambridge 1841, published from 1854 on mycology, F.L.S. 1856, F.R.S. 1858, secretary of the Linnean Society ca. 1860 until 1880, died at Blackheath. 
-**Abbreviated name**: *Curr.*
+**Abbreviated name**: *Curr.* \[standard form in IPNI: *Curr.*\]
 
 #### Herbarium and types
 

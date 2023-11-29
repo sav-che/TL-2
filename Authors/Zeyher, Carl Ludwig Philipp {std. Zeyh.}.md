@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33066874) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33066874) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13042-1), [Wikidata](https://www.wikidata.org/wiki/Q86271). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zeyher, Carl Ludwig Philipp (1799-1858), German (Hessen) plant collector; with F. Sieber to Mauritius 1822 and (without Sieber) at the Cape of Good Hope 1822-1823; collecting alone in S. Africa 1825-1828, in collaboration with C.F. Ecklon 1829-1838; in the interior of South Africa with John Burke 1842-1843; in Namaqualand 1843; in London and Hamburg 1843-1847; botanist at the botanical garden at the Cape 1849-1851. 
-**Abbreviated name**: *Zeyh.*
+**Abbreviated name**: *Zeyh.* \[standard form in IPNI: *Zeyh.*\]
 
 #### Herbarium and types
 

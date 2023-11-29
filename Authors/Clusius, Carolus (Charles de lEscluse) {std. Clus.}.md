@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33120644) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33120644) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17315-1), [Wikidata](https://www.wikidata.org/wiki/Q333372). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clusius, Carolus \[Charles de l’Escluse\] (1526-1609), Dutch botanist. 
-**Abbreviated name**: *Clus.*
+**Abbreviated name**: *Clus.* \[standard form in IPNI: *Clus.*\]
 
 #### Herbarium and types
 

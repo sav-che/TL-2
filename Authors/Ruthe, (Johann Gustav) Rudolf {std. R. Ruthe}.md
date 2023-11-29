@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1009](https://www.biodiversitylibrary.org/page/33190480) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1009](https://www.biodiversitylibrary.org/page/33190480) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12805-1), [Wikidata](https://www.wikidata.org/wiki/Q21607566). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ruthe, \[Johann Gustav\] Rudolf (1823-1905), German (Prussian) veterinary surgeon; son of Johann Friedrich Ruthe; amateur bryologist and coleopterologist; studied at the Berlin veterinary college; practicing veterinarian at Bärwalde (Brandenburg) 1849-1882; regional veterinary surgeon ("Kreistierarzt") Usedom-Wollin in Swinemünde (Pomerania) 1882-1904. 
-**Abbreviated name**: *R. Ruthe*
+**Abbreviated name**: *R. Ruthe* \[standard form in IPNI: *R.Ruthe*\]
 
 #### Herbarium and types
 

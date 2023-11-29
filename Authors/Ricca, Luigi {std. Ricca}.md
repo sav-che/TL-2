@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33190227) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33190227) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8340-1), [Wikidata](https://www.wikidata.org/wiki/Q21607162). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ricca, Luigi (x-1879), Italian customs officer and botanist on the French-Italian border in western Liguria. 
-**Abbreviated name**: *Ricca*
+**Abbreviated name**: *Ricca* \[standard form in IPNI: *Ricca*\]
 
 #### Herbarium and types
 

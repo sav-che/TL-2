@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33355364) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33355364) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6070-1), [Wikidata](https://www.wikidata.org/wiki/Q70799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mann, Gustav (1836-1916), German botanist; Kew gardener and collector; on Baikie's Niger Expedition (1859-1862); Indian Forest Service (1863-1891); later living in München. 
-**Abbreviated name**: *G. Mann*
+**Abbreviated name**: *G. Mann* \[standard form in IPNI: *G.Mann*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33333391) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33333391) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12831-1), [Wikidata](https://www.wikidata.org/wiki/Q2003752). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidt, \[Ernst\] Johannes (1877-1933), Danish botanist, bacteriologist and oceanographer; Dr. phil. Copenhagen 1903; botanical assistant with the Danish Commission for investigation of the sea 1902-1909; director of the physiological department of the Carlsberg laboratories 1910-1933; travelled in Thailand (1899-1900), in the Thor to Iceland and the Færoes between 1903-1908, in the Mediterranean 1908-1910; across the Atlantic in the Dana 1921-1922, and, also in the Dana, around the world 1928-1930; F.M.L.S. 1924. 
-**Abbreviated name**: *Johs. Schmidt*
+**Abbreviated name**: *Johs. Schmidt* \[standard form in IPNI: *E.J.Schmidt*\]
 
 #### Herbarium and types
 

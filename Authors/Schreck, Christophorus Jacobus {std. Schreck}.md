@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33333470) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33333470) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9256-1), [Wikidata](https://www.wikidata.org/wiki/Q36530634). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schreck, Christophorus Jacobus (*fl*. 1753), German (Bavarian) physician. 
-**Abbreviated name**: *Schreck*
+**Abbreviated name**: *Schreck* \[standard form in IPNI: *Schreck*\]
 
 #### Herbarium and types
 

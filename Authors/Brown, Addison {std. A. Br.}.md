@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33120494) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33120494) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1187-1), [Wikidata](https://www.wikidata.org/wiki/Q1149854). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brown, Addison {std. A. Br.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Brown, Addison (1830-1913), American botanist, president of the New York Botanical Garden. 
-**Abbreviated name**: *A. Brown*
+**Abbreviated name**: *A. Brown* \[standard form in IPNI: *A.Br.*\]
 
 #### Herbarium and types
 

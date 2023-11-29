@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33265905) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33265905) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1704-1), [Wikidata](https://www.wikidata.org/wiki/Q21508767). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clos, Enrique C. (1894-1977), Argentinian botanist and agronomic engineer at the Agronomy Faculty of University Nacional at La Plata, born 16 Nov 1894 Capital Federal, studied at the Facultad de Agronomía y Veterinaria de la Universidad de Buenos Aires where he graduated, 4 Nov 1920, "professor titular de cultivos Industriales 1938-1965, professor emérito" 1965-1970. 
-**Abbreviated name**: *E.C. Clos*
+**Abbreviated name**: *E.C. Clos* \[standard form in IPNI: *E.C.Clos*\]
 
 #### Herbarium and types
 

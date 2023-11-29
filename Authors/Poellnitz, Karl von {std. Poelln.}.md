@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33189780) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33189780) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7777-1), [Wikidata](https://www.wikidata.org/wiki/Q4386141). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Poellnitz, Karl von (1896-1945), German agriculturist and botanist; studied at Leipzig University; specialist in succulent plants; owner of an estate at Oberlödla nr Altenburg, Thüringen. 
-**Abbreviated name**: *Poelln.*
+**Abbreviated name**: *Poelln.* \[standard form in IPNI: *Poelln.*\]
 
 #### Herbarium and types
 

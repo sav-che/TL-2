@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33259118) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33259118) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17699-1), [Wikidata](https://www.wikidata.org/wiki/Q21509803). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Darlington, Henry Townsend (1875-1964), American botanist, born 23 Jun 1875, West Chester, d. 23 Oct 1965, Lansing, Michigan, studied at the University of Idaho, BS 1908, at Harvard MS 1911, assistant professor 1911-1914 at State College Washington, id. at Agricultural College at East Lansing, Michigan, from 1914-1945, in later years mostly working on ecology, phytogeography and bryology. 
-**Abbreviated name**: *H.T. Darl.*
+**Abbreviated name**: *H.T. Darl.* \[standard form in IPNI: *H.T.Darl.*\]
 
 #### Herbarium and types
 

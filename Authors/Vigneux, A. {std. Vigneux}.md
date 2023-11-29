@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33212777) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33212777) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11182-1), [Wikidata](https://www.wikidata.org/wiki/Q47128117). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vigneux, A. (*fl*. 1812), French botanical artist. 
-**Abbreviated name**: *Vigneux*
+**Abbreviated name**: *Vigneux* \[standard form in IPNI: *Vigneux*\]
 
 #### Herbarium and types
 

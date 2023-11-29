@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33265569) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33265569) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16381-1), [Wikidata](https://www.wikidata.org/wiki/Q21506347). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boswell, Henry (1837-1897), British portmanteau-maker and bryologist at Oxford, succeeded his father in the portmanteau business in the Corn Market, active botanical field-work mainly done ca. 1850-1860, rendered assistance to the curators of the Oxford Botanical Gardens, Master of Arts h.c. University of Oxford 1881. 
-**Abbreviated name**: *Bosw.*
+**Abbreviated name**: *Bosw.* \[standard form in IPNI: *Bosw.*\]
 
 #### Herbarium and types
 

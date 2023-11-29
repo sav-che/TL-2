@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33266521) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33266521) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/12365-1), [Wikidata](https://www.wikidata.org/wiki/Q71580). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Buhse, Friedrich Alexander (Buze, Fedor Aleksandrovich) {std. Buhse}|first entry]] for this author
 
 ### Author
 
 \* Buhse, Friedrich \[Alexander\] (Buze, Fedor Aleksandrovich) (1821-1898), Latvian botanist, explorer and meteorologist, born at Riga, studied botany in Dorpat 1840-1842, studied in Berlin and Heidelberg 1842, Dr. phil. Heidelberg 1843, travelled in Dalmatia 1843, some time in St. Petersburg, in Armenia, Azerbaydzhan and Persia with Boissier 1847-1849, in Bersemünde, Livonia, 1857-1862, at Friedrichshof near Riga 1865-1888, later in Riga. 
-**Abbreviated name**: *Buhse*
+**Abbreviated name**: *Buhse* \[standard form in IPNI: *Buhse*\]
 
 #### Herbarium and types
 

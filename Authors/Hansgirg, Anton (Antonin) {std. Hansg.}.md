@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33068290) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33068290) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3635-1), [Wikidata](https://www.wikidata.org/wiki/Q21514658). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hansgirg, Anton (Antonin) (1854-1917), Austrio-Bohemian algologist. 
-**Abbreviated name**: *Hansg.*
+**Abbreviated name**: *Hansg.* \[standard form in IPNI: *Hansg.*\]
 
 #### Herbarium and types
 

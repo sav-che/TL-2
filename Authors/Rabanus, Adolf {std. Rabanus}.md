@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8067-1), [Wikidata](https://www.wikidata.org/wiki/Q21606818). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rabanus, Adolf (1890-?), German (Prussian) botanist. 
-**Abbreviated name**: *Rabanus*
+**Abbreviated name**: *Rabanus* \[standard form in IPNI: *Rabanus*\]
 
 #### Herbarium and types
 

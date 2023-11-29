@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33066394) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33066394) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11378-1), [Wikidata](https://www.wikidata.org/wiki/Q21612124). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walton, Lee Barker (1871-1937), American entomologist and botanist; studied at Cornell University and the University of Bonn; Dr. phil. Cornell 1902; professor of biology, Kenyon College, Gambier, Ohio from 1902. 
-**Abbreviated name**: *L. Walton*
+**Abbreviated name**: *L. Walton* \[standard form in IPNI: *L.Walton*\]
 
 #### Herbarium and types
 

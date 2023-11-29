@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33190336) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33190336) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8538-1), [Wikidata](https://www.wikidata.org/wiki/Q3372128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rohrbach, Paul (1847-1871), German (Prussian; Berlin) botanist; studied natural sciences in Göttingen with A. Grisebach, in Berlin with A. Braun; Dr. phil. Berlin 1868; curator of the Göttingen University Herbarium. 
-**Abbreviated name**: *Rohrb.*
+**Abbreviated name**: *Rohrb.* \[standard form in IPNI: *Rohrb.*\]
 
 #### Herbarium and types
 

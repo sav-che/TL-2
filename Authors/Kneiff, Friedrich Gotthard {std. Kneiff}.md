@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33068816) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33068816) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4866-1), [Wikidata](https://www.wikidata.org/wiki/Q21517621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kneiff, Friedrich Gotthard (1785-1832), Alsatian botanist and pharmacist (1817-1832) at Strasbourg. 
-**Abbreviated name**: *Kneiff*
+**Abbreviated name**: *Kneiff* \[standard form in IPNI: *Kneiff*\]
 
 #### Herbarium and types
 

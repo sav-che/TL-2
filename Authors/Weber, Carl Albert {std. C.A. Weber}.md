@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33066463) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33066463) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11459-1), [Wikidata](https://www.wikidata.org/wiki/Q102552). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weber, Carl Albert (1856-1931), German (Prussian) botanist; student of Alexander Braun, Berlin and, from 1876, of Julius Sachs, Würzburg; assistant to Sachs 1877; Dr. phil. Würzburg 1879; with de Bary in Strassburg 1879-1881; teacher's examination Berlin 1881; teacher at the Agricultural Institute, Hohenwestedt, Holstein 1884-1894; botanist at the Preussische Moorversuchs-Station Bremen 1894-1924; professor's title 1909; in retirement still active in peat-bog investigations. 
-**Abbreviated name**: *C.A. Weber*
+**Abbreviated name**: *C.A. Weber* \[standard form in IPNI: *C.A.Weber*\]
 
 #### Herbarium and types
 

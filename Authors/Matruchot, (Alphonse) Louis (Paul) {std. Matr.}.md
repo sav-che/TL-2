@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33355454) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33355454) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6225-1), [Wikidata](https://www.wikidata.org/wiki/Q3262671). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Matruchot, \[Alphonse\] Louis \[Paul\] (1863-1921), French mycologist; at École normale supérieure 1885-1888; librarian École norm. sup. 1888-1895; lecturer Faculté des Sciences, Paris 1895-1900; lecturer École norm. sup. from 1901; from 1905 in addition professor adj., from 1912 professor of cryptogamic botany at the Sorbonne 
-**Abbreviated name**: *Matr.*
+**Abbreviated name**: *Matr.* \[standard form in IPNI: *Matr.*\]
 
 #### Herbarium and types
 

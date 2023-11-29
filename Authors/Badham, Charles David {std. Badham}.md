@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33120220) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33120220) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/374-1), [Wikidata](https://www.wikidata.org/wiki/Q5076747). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Badham, Charles David {std. Badham} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Badham, Charles David (1806-1857), British clergyman and mycologist, practised in Rome and Paris, curate of E. Bergholt, 1849-1855. 
-**Abbreviated name**: *==Name in the standard form is not specified==.*
+**Abbreviated name**: *==Name in the standard form is not specified==.* \[standard form in IPNI: *Badham*\]
 
 #### Herbarium and types
 

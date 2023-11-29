@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/page/33212695) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 653](https://www.biodiversitylibrary.org/page/33212695) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11040-1), [Wikidata](https://www.wikidata.org/wiki/Q421765). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Valmont de Bomare, Jacques Christophe (1731-1807), French naturalist and mineralogist, popularizer of natural history; lectured at the Jardin des Plantes 1756-1788; head of the cabinet of physics and natural history of the Prince de Condé at Chantilly 1769; professor of natural history at the École centrale, Rue Saint-Antoine, Paris 1796-1806; assistant headmaster Lycée Charlemagne 1806-1807. 
-**Abbreviated name**: *Valmont*
+**Abbreviated name**: *Valmont* \[standard form in IPNI: *Valmont*\]
 
 #### Herbarium and types
 

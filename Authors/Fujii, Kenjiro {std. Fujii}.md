@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33258553) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33258553) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/34911-1), [Wikidata](https://www.wikidata.org/wiki/Q36604341). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fujii, Kenjiro (1866-1952), Japanese botanist and cytologist, born 5 Oct 1866 in Kanazawa (prov. Kaga), B.Sc. ("Rigakushi"), also studied at Univ. of Munich 1903-1904, prof. of plant morphology and genetics, Tokyo Imperial Univ., 1903-ca. 1927, died 11 Jan 1952. 
-**Abbreviated name**: *Fujii*
+**Abbreviated name**: *Fujii* \[standard form in IPNI: *Fujii*\]
 
 #### Herbarium and types
 

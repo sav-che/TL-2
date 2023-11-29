@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33066435) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33066435) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11427-1), [Wikidata](https://www.wikidata.org/wiki/Q21612269). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Watelet, (Jean-François\] Adolphe (1811-1879), French teacher, palaeobotanist and mineralogist at Soissons. 
-**Abbreviated name**: *Watelet*
+**Abbreviated name**: *Watelet* \[standard form in IPNI: *Watelet*\]
 
 #### Herbarium and types
 

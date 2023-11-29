@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33190244) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33190244) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8363-1), [Wikidata](https://www.wikidata.org/wiki/Q249386). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Richer de Belleval, Pierre (1564-1632), French botanist, founder of the Montpellier botanical garden. 
-**Abbreviated name**: *Richer de Belleval*
+**Abbreviated name**: *Richer de Belleval* \[standard form in IPNI: *Rich.Bell.*\]
 
 #### Herbarium and types
 

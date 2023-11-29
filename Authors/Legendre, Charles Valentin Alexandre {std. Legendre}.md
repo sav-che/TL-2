@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33069057) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33069057) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5418-1), [Wikidata](https://www.wikidata.org/wiki/Q21518578). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Legendre, Charles Valentin Alexandre (1841-1935), French botanist; founder (1889) of Société botanique du Limousin; founder and editor of *Le règne végétal* (1890-1892) ctd. as *Revue scientifique du Limousin* (1893-1909). 
-**Abbreviated name**: *Legendre*
+**Abbreviated name**: *Legendre* \[standard form in IPNI: *Legendre*\]
 
 #### Herbarium and types
 

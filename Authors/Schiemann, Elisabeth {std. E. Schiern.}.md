@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33333287) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33333287) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9077-1), [Wikidata](https://www.wikidata.org/wiki/Q1330249). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schiemann, Elisabeth (1881-1972), German (Baltic-German) botanist; Dr. phil. Berlin 1912; worked with E. Baur in the Genetics Institute, Friedrichshagen 1914-1931; habil. Agricultural University Berlin 1924; unofficially associated with the Botanical Museum Berlin-Dahlem from 1928-1972; extra-ordinary professor at the Agricultural-Veterinary faculty of the University of Berlin 1931-1940; from 1936 lecturing on biology and reproduction; discharged for political reasons 1940; re-instated 1945; professor of genetics at the Wilh. von Humboldt Univ. 1946, with the Deutsche Forschungshochschule, Berlin-Dahlem 1949-1952, with Max Planckgesellschaft 1952-1956; leading authority on the history of cultivated plants. 
-**Abbreviated name**: *E. Schiern.*
+**Abbreviated name**: *E. Schiern.* \[standard form in IPNI: *E.Schiem.*\]
 
 #### Herbarium and types
 

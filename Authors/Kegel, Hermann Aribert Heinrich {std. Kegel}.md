@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33068755) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33068755) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4696-1), [Wikidata](https://www.wikidata.org/wiki/Q21517387). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kegel, Hermann Aribert Heinrich (1819-1856), German gardener at Halle, collected in Surinam 1844-1846. 
-**Abbreviated name**: *Kegel*
+**Abbreviated name**: *Kegel* \[standard form in IPNI: *Kegel*\]
 
 #### Herbarium and types
 

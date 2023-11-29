@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33066406) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33066406) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11406-1), [Wikidata](https://www.wikidata.org/wiki/Q679184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ward, Lester Frank (1841-1913), American botanist, philosopher and sociologist; in the Union army 1862-1864; with the U.S. Treasury Department, Washington, D.C. 1865-1881; A.B. Columbian College \[later George Washington Univ.\] 1869, A.M. ib. 1872; turned to botany in 1872; assistant geologist with the United States Geological Survey 1881, geologist ib. 1883, palaeontologist ib. 1892; from ca. 1881 also active as a sociologist, pioneer of evolutionary sociology in the United States. 
-**Abbreviated name**: *Ward*
+**Abbreviated name**: *Ward* \[standard form in IPNI: *Ward*\]
 
 #### Herbarium and types
 

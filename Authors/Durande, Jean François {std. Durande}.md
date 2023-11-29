@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33120841) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33120841) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2402-1), [Wikidata](https://www.wikidata.org/wiki/Q2459271). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Durande, Jean François (1732-1794), French botanist at Dijon. 
-**Abbreviated name**: *Durande*
+**Abbreviated name**: *Durande* \[standard form in IPNI: *Durande*\]
 
 #### Herbarium and types
 

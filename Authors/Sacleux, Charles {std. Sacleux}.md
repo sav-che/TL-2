@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1044](https://www.biodiversitylibrary.org/page/33190515) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1044](https://www.biodiversitylibrary.org/page/33190515) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8793-1), [Wikidata](https://www.wikidata.org/wiki/Q8344967). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sacleux, Charles (1856-1943), French missionary, linguist and plant collector in Zanzibar and adjoining East Africa 1879-1898; from then on teacher at a missionary college at Chevilly and working at the Museum d'Histoire naturelle, Paris; ordained 1878. 
-**Abbreviated name**: *Sacleux*
+**Abbreviated name**: *Sacleux* \[standard form in IPNI: *Sacleux*\]
 
 #### Herbarium and types
 

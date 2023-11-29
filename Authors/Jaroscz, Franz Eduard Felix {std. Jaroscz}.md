@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33068668) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33068668) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4435-1), [Wikidata](https://www.wikidata.org/wiki/Q21516950). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jaroscz, Franz Eduard Felix (1799-?), Polish botanist. 
-**Abbreviated name**: *Jaroscz*
+**Abbreviated name**: *Jaroscz* \[standard form in IPNI: *Jaroscz*\]
 
 #### Herbarium and types
 

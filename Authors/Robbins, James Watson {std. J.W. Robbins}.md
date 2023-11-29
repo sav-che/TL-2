@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33190278) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33190278) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8435-1), [Wikidata](https://www.wikidata.org/wiki/Q18911103). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Robbins, James Watson (1801-1879), American (New England) botanist; Dr. med. Yale 1828; practicing physician at Uxbridge, Mass. 1830-1869, surgeon and physician with a copper-mining company nr Portage Lake, Lake Superior 1839-1863; travelling in Cuba and Texas 1863-1864; from 1864-1879 again in Uxbridge devoting himself to botany. 
-**Abbreviated name**: *J.W. Robbins*
+**Abbreviated name**: *J.W. Robbins* \[standard form in IPNI: *J.W.Robbins*\]
 
 #### Herbarium and types
 

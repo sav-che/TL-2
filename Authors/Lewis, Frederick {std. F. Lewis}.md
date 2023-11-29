@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33069110) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33069110) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5536-1), [Wikidata](https://www.wikidata.org/wiki/Q21518801). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lewis, Frederick (1857-1930), British-Ceylonese forester and botanist at the Ceylon Forestry Department. 
-**Abbreviated name**: *F. Lewis*
+**Abbreviated name**: *F. Lewis* \[standard form in IPNI: *F.Lewis*\]
 
 #### Herbarium and types
 

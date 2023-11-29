@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/page/33190262) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 791](https://www.biodiversitylibrary.org/page/33190262) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8390-1), [Wikidata](https://www.wikidata.org/wiki/Q21607223). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rigg, George Burton (1872-1961), American botanist; B.Sc. Iowa 1896; M.A. Univ. Washington 1909; Dr. phil. Chicago 1914; high school teacher in Iowa 1896-1907; botany and zoology teacher at Lincoln High School, Seattle, Washington 1907; Botany instructor, Univ. of Washington 1909, full professor of botany ib. 1928-1947, head of the botany department 1940-1942; student of the peat resources of the state of Washington. 
-**Abbreviated name**: *Rigg*
+**Abbreviated name**: *Rigg* \[standard form in IPNI: *Rigg*\]
 
 #### Herbarium and types
 

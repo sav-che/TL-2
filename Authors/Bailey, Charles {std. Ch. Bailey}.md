@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33264983) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33264983) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/13860-1), [Wikidata](https://www.wikidata.org/wiki/Q21505546). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bailey, Charles (1838-1924), British botanist, entered the business of Ralli Brothers, East India Merchants, Manchester, stayed with his firm fifty-five years, ardent wealthy amateur botanist in close connection with W.C. Williamson at MANCH, M. Sc. h.c. Univ. Manchester 1902. 
-**Abbreviated name**: *Ch. Bailey*
+**Abbreviated name**: *Ch. Bailey* \[standard form in IPNI: *C.Bailey*\]
 
 #### Herbarium and types
 

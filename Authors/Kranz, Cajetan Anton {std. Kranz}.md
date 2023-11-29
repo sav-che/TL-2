@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33068904) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33068904) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5023-1), [Wikidata](https://www.wikidata.org/wiki/Q21517888). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kranz, Cajetan Anton (1839?-1886), German botanist at München. 
-**Abbreviated name**: *Kranz*
+**Abbreviated name**: *Kranz* \[standard form in IPNI: *Kranz*\]
 
 #### Herbarium and types
 

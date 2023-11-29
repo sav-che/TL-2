@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33260166) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33260166) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2393-1), [Wikidata](https://www.wikidata.org/wiki/Q8774833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Durand, Elias Judah (1870-1922), American botanist, born 20 Mar 1870, Canadaigua, N.Y., was educated at Cornell University (AB in 1893, DSci. in 1895), where he taught botany until 1910, went to University of Missouri as assoc. professor 1910-1918, from 1918-1922 professor of botany at the University of Minnesota, died 29 Oct 1922 at St. Paul, Minnesota. 
-**Abbreviated name**: *E.J. Durand*
+**Abbreviated name**: *E.J. Durand* \[standard form in IPNI: *E.J.Durand*\]
 
 #### Herbarium and types
 

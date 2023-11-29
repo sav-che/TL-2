@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33190312) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33190312) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12782-1), [Wikidata](https://www.wikidata.org/wiki/Q73601). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roemer, \[Friedrich\] Adolph (1809-1869), German (Hildesheim, Niedersachsen, Hannoverian) palaeobotanist and algologist; studied law at Goettingen and Berlin 1828-1831; law official ("juristischer Beamter") at Hildesheim 1831-1840; id. Bovenden nr. Göttingen 1840-1843; mining official at Clausthal 1843; teacher for geognosy and mineralogy at the mining school Clausthal 1846-1867; brother of \[Carl\] Ferdinand Roemer. 
-**Abbreviated name**: *A. Roem.*
+**Abbreviated name**: *A. Roem.* \[standard form in IPNI: *A.Roem.*\]
 
 #### Herbarium and types
 

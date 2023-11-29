@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33068991) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33068991) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5263-1), [Wikidata](https://www.wikidata.org/wiki/Q21518370). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Langenbach, Gustav (1831-1873), German botanist; Dr. phil. Breslau 1863; later at Naples where he died of cholera. 
-**Abbreviated name**: *Langenb.*
+**Abbreviated name**: *Langenb.* \[standard form in IPNI: *Langenb.*\]
 
 #### Herbarium and types
 

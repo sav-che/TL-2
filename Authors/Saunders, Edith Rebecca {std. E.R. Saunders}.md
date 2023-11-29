@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33333205) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 66](https://www.biodiversitylibrary.org/page/33333205) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8953-1), [Wikidata](https://www.wikidata.org/wiki/Q15989780). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saunders, Edith Rebecca (1865-1945), English botanist (floral anatomist and geneticist), lecturer and research botanist at Newnham College, Cambridge 1889-1925, director of Balfour Laboratory, Newnham College. 
-**Abbreviated name**: *E.R. Saunders*
+**Abbreviated name**: *E.R. Saunders* \[standard form in IPNI: *E.R.Saunders*\]
 
 #### Herbarium and types
 

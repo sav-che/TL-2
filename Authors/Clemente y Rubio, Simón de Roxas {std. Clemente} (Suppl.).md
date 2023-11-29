@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33265882) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33265882) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/12384-1), [Wikidata](https://www.wikidata.org/wiki/Q2983280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Clemente y Rubio, Simon de Rojas {std. Clemente}|first entry]] for this author
 
 ### Author
 
 \* Clemente y Rubio, Simón de Roxas (1777-1827), Spanish botanist, born 27 Sep 1777, Titaguas, Valencia, died Feb 1827, Madrid, studied under Cavanilles, the Spanish botanist initially working on the cryptogams in and around Madrid and in the Guadarrama mountains, (see Willkomm; Grundzüge Pflanzenverbreitung Iber. Halbinsel 1896, Veget. Erde 1), stayed sometime in Paris and London and travelled afterwards as Moor (Mohamed Ben Ali) in Andalusia. 
-**Abbreviated name**: *Clemente*
+**Abbreviated name**: *Clemente* \[standard form in IPNI: *Clemente*\]
 
 #### Herbarium and types
 

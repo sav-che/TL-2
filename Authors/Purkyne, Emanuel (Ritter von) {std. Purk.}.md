@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33189916) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33189916) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8031-1), [Wikidata](https://www.wikidata.org/wiki/Q3500532). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Purkyne, Emanuel \[Ritter von\] (1831-1882), Moravian botanist; from 1851-1860 custos at the National Museum, Praha; Dr. phil. Praha 1861; from 1860 professor at the forestry College of Weisswasser (Bela pod Bezdem). 
-**Abbreviated name**: *Purk.*
+**Abbreviated name**: *Purk.* \[standard form in IPNI: *Purk.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33068311) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33068311) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3699-1), [Wikidata](https://www.wikidata.org/wiki/Q33675353). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hartung, C. A. F. A. Heinrich (*fl*. 1812), German physician. 
-**Abbreviated name**: *Hartung*
+**Abbreviated name**: *Hartung* \[standard form in IPNI: *Hartung*\]
 
 #### Herbarium and types
 

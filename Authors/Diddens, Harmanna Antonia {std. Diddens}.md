@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33259337) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33259337) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/18025-1), [Wikidata](https://www.wikidata.org/wiki/Q36572055). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Diddens, Harmanna Antonia (fl. 1929-1944), Dutch botanist, phytopathologist, born in Winschoten, studied at the University of Amsterdam, Ph.D. 1931, at the "Centraal-bureau voor schimmelcultures", Baarn, died 3 Dec 1944 from an unfortunate fall in a foxhole. 
-**Abbreviated name**: *Diddens*
+**Abbreviated name**: *Diddens* \[standard form in IPNI: *Diddens*\]
 
 #### Herbarium and types
 

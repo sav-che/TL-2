@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33190206) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33190206) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8305-1), [Wikidata](https://www.wikidata.org/wiki/Q491077). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Retzius, Anders Jahan (1742-1821), Swedish botanist; studied at Lund; pharmacist's examination Stockholm 1761; Dr. phil. Lund 1766; lecturer chemistry at Lund 1764, id. natural history 1767; "adjunkt" and demonstrator id. 1771; professor's title 1777; regular professor from 1781-1812; later residing in Stockholm; one of the founders of the Royal Physiographical Society at Lund; "a giant of learning" (Krok). 
-**Abbreviated name**: *Retz.*
+**Abbreviated name**: *Retz.* \[standard form in IPNI: *Retz.*\]
 
 #### Herbarium and types
 

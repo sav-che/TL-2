@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33266439) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33266439) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1184-1), [Wikidata](https://www.wikidata.org/wiki/Q21506536). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Broun, Maurice (1906-x), American ornithologist, born 27 Aug 1906, New York, NY, assistant ornithologist 1927-1928 at Massachusetts Department of Agriculture at Pleasant Valley Sanct Lenox, Mass., supt. 1929-1931, research associate Austin Ornith. Res. Station Cape Cod 1931-1934, Long Trail Lodge Vermont 1934. 
-**Abbreviated name**: *M. Broun*
+**Abbreviated name**: *M. Broun* \[standard form in IPNI: *M.Broun*\]
 
 #### Herbarium and types
 

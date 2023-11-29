@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33258547) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33258547) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19019-1), [Wikidata](https://www.wikidata.org/wiki/Q4722695). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fryer, Alfred {std. Fryer}|first entry]] for this author
 
 ### Author
 
 \* Fryer, Alfred (1826-1912), British botanist, born 25 Dec 1826 in Chatteris (Cambs.), attended school in Leicester where he formed a friendship with Henry Walter Bates, friendly with several of the founders of the Pre-Raphaelite Brotherhood, returned to his home in 1848, aimed to publish a flora of Huntingdonshire in 1883 but focused mainly on *Potamogeton*, F.L.S. 1898, died 26 Feb 1912 in Chatteris ("He grew up an unpractical man, fond of poetry and general literature..." *fide* Druce, 1913, p. 196). 
-**Abbreviated name**: *Fryer*
+**Abbreviated name**: *Fryer* \[standard form in IPNI: *Fryer*\]
 
 #### Herbarium and types
 

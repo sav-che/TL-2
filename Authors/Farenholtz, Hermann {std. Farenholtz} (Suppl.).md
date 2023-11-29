@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33259540) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33259540) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2632-1), [Wikidata](https://www.wikidata.org/wiki/Q21512599). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Farenholtz, Hermann {std. Farenholtz}|first entry]] for this author
 
 ### Author
 
 \* Farenholtz, Hermann (1884-1976), German botanist interested in genetics, plant pathology and floristics, born 18 Jan 1884 in Goslar, doctorate 1913 Kiel Univ., researcher, Botanical Dept., Bremen City Museum, dir., Bremen Agency for Plant Protection 1931, collected plants in Venezuela 1934, died 21 Apr 1967 in Bremen. 
-**Abbreviated name**: *Farenholtz*
+**Abbreviated name**: *Farenholtz* \[standard form in IPNI: *Farenholtz*\]
 
 #### Note
 

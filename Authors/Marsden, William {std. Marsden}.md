@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33355393) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33355393) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6130-1), [Wikidata](https://www.wikidata.org/wiki/Q1335233). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marsden, William (1754-1836), Irish-born British orientalist, numismatist and plant collector; in S. E. Asia 1771-1779; chief-secretary to the British Board of Admiralty 1779-1807. 
-**Abbreviated name**: *Marsden*
+**Abbreviated name**: *Marsden* \[standard form in IPNI: *Marsden*\]
 
 #### Herbarium and types
 

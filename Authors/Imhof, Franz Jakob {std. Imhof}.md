@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33068626) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33068626) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4288-1), [Wikidata](https://www.wikidata.org/wiki/Q36554902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Imhof, Franz Jakob (*fl*. 1784), Swiss physician; Dr. med. Strassbourg 1784. 
-**Abbreviated name**: *Imhof*
+**Abbreviated name**: *Imhof* \[standard form in IPNI: *Imhof*\]
 
 #### Herbarium and types
 

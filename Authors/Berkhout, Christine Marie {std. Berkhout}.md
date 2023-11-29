@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33120327) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33120327) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/15998-1), [Wikidata](https://www.wikidata.org/wiki/Q1966045). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Berkhout, Christine Marie (1893-1932), Dutch mycologist and phytopathologist, pupil of J. Westerdijk. 
-**Abbreviated name**: *Berkhout*
+**Abbreviated name**: *Berkhout* \[standard form in IPNI: *Berkhout*\]
 
 #### Herbarium and types
 

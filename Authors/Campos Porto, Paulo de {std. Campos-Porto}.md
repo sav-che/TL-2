@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2015-05-26 09:46:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266644) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266644) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/12746-1), [Wikidata](https://www.wikidata.org/wiki/Q9057116). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Campos Porto, Paulo de (1889-x), Brazilian botanist, "naturalista" at the Botanical Garden of Rio de Janeiro 1914, in charge of the new Estaçao Biológia de Itatiaia 1929-1933, assistant chef 1933-1934, biologist 1934, in charge of the Jardim botânico do Rio de Janeiro 1934, director of the Instituto de Biológia Vegetal do Rio de Janeiro 1934-1939, secretary of agriculture at the state of Bahia 1942-1945, later again continuing his directorship of the Jardim botânico do Rio de Janeiro. 
-**Abbreviated name**: *Campos-Porto*
+**Abbreviated name**: *Campos-Porto* \[standard form in IPNI: *Porto*\]
 
 #### Herbarium and types
 

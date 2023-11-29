@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33212062) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33212062) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10247-1), [Wikidata](https://www.wikidata.org/wiki/Q21609978). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stümcke, Martin (1853-1927), German (Bremen) botanist; studied pharmacy 1869-1871 at Braunschweig and 1871-1877 at Halle; pharmacist at Lüneburg 1883-1884; chemist at a cement factory in Lüneburg 1884-1918. 
-**Abbreviated name**: *Stümcke*
+**Abbreviated name**: *Stümcke* \[standard form in IPNI: *Stümcke*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33190374) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33190374) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8618-1), [Wikidata](https://www.wikidata.org/wiki/Q47125366). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rosshirt, Karl (*fl*. 1888), German botanist and high school teacher at Colmar (Elsass; Alsace). 
-**Abbreviated name**: *Rosshirt*
+**Abbreviated name**: *Rosshirt* \[standard form in IPNI: *Rosshirt*\]
 
 #### Herbarium and types
 

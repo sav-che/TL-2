@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33355291) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33355291) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5870-1), [Wikidata](https://www.wikidata.org/wiki/Q5662592). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lyons, Albert Brown (1841-1926), American botanist. 
-**Abbreviated name**: *A. Lyons*
+**Abbreviated name**: *A. Lyons* \[standard form in IPNI: *A.Lyons*\]
 
 #### Herbarium and types
 

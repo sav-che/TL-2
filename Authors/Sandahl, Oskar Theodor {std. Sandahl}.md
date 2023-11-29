@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33333127) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33333127) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8879-1), [Wikidata](https://www.wikidata.org/wiki/Q6091572). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sandahl, Oskar Theodor (1829-1894), Swedish physician, entomologist and botanist; studied at Uppsala 1847; Dr. med. Lund 1863; associated with the Karolinska Institute from 1852, as professor of pharmacology from 1873; also inspector of the pharmaceutical institute Stockholm from 1873. 
-**Abbreviated name**: *Sandahl*
+**Abbreviated name**: *Sandahl* \[standard form in IPNI: *Sandahl*\]
 
 #### Herbarium and types
 

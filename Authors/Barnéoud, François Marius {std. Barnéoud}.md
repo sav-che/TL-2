@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33120253) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33120253) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/487-1), [Wikidata](https://www.wikidata.org/wiki/Q5868779). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Barnéoud, François Marius {std. Barnéoud} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Barnéoud, François Marius (1821-?), French botanist. 
-**Abbreviated name**: *Barnéoud*
+**Abbreviated name**: *Barnéoud* \[standard form in IPNI: *Barnéoud*\]
 
 #### Herbarium and types
 

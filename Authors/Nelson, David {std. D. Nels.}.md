@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33355810) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33355810) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6903-1), [Wikidata](https://www.wikidata.org/wiki/Q1175873). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nelson, David (x-1789), British gardener, collector and explorer on the voyage of the "Resolution" and the "Discovery" 1776-1780 (Capt. Cook's third voyage); from 1780-1787 gardener at Kew; on the "Bounty" 1787-1789; escaped with Bligh from the mutiny but died on Timor. 
-**Abbreviated name**: *D. Nels.*
+**Abbreviated name**: *D. Nels.* \[standard form in IPNI: *Nelson*\]
 
 #### Herbarium and types
 

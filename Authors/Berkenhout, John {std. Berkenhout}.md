@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33120326) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33120326) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/698-1), [Wikidata](https://www.wikidata.org/wiki/Q220155). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Berkenhout, John (1730-1791), British botanist. 
-**Abbreviated name**: *Berkenhout*
+**Abbreviated name**: *Berkenhout* \[standard form in IPNI: *Berkenh.*\]
 
 #### Herbarium and types
 

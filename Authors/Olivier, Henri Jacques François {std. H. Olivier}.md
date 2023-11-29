@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33355918) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33355918) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7135-1), [Wikidata](https://www.wikidata.org/wiki/Q21387851). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Olivier, Henri Jacques François (1849-1923), French clergyman and lichenologist; ord. 1874; stationed at Bazoches-en-Houlme, Autheuil, Bivilliers; from 1892 retired at Bazoches. 
-**Abbreviated name**: *H. Olivier*
+**Abbreviated name**: *H. Olivier* \[standard form in IPNI: *H.Olivier*\]
 
 #### Herbarium and types
 

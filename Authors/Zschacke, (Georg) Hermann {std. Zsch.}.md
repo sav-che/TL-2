@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33066898) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33066898) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12066-1), [Wikidata](https://www.wikidata.org/wiki/Q4506890). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zschacke, \[Georg\] Hermann (1867-1937), German botanist and high school teacher; studied at the Teachers College of Köthen; teacher's exam. Dessau 1889; junior high school teacher's exam. Magdeburg 1892; at Zerbst 1887-1892, at Hecklingen 1892-1898; from 1898-1924 at a Girl's high school in Bernburg; in captivity 1914-1916; in Davos 1916-1917. 
-**Abbreviated name**: *Zsch.*
+**Abbreviated name**: *Zsch.* \[standard form in IPNI: *Zschacke*\]
 
 #### Herbarium and types
 

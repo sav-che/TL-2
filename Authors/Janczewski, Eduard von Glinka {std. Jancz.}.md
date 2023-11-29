@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33068665) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33068665) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4418-1), [Wikidata](https://www.wikidata.org/wiki/Q942550). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Janczewski, Eduard von Glinka (1846-1918), Polish-Austrian botanist. 
-**Abbreviated name**: *Jancz.*
+**Abbreviated name**: *Jancz.* \[standard form in IPNI: *Jancz.*\]
 
 #### Herbarium and types
 
@@ -71,7 +70,7 @@ AG 5 (3): 51; Barnhart 2: 245; Bossert p. 195; CSP 7: 788, 10: 323, 12: 364, 16:
 ##### n.3286. Observations sur l' accroissement du thalle des phéosporées
 
 **Title**
-*Observations sur l' accroissement du thalle des phéosporées*... \[Cherbourg (Imp. Bedelfontaine et Syffert) 1875\] Oct.
+*Observations sur l'accroissement du thalle des phéosporées*... \[Cherbourg (Imp. Bedelfontaine et Syffert) 1875\] Oct.
 
 **Notes**
 *Co-author*: Józcf Tomasc Rostafinski (1850-1928).

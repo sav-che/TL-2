@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33066617) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33066617) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11658-1), [Wikidata](https://www.wikidata.org/wiki/Q1375864). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wight, Robert (1796-1872), British surgeon and botanist; MD Edinburgh 1818; assistant-surgeon East India Company in Madras 1819; superintendent Botanic Garden Madras 1826-1828; garrison surgeon Negapatam 1828-1831; in Scotland 1831-1834; military surgeon in India 1834-1836; with the Revenue Dept. 1836-1842; director of the Coimbatore Cotton Expt. Station 1842-1850; from 1853 in England (Grazeley Lodge near Reading). 
-**Abbreviated name**: *Wight*
+**Abbreviated name**: *Wight* \[standard form in IPNI: *Wight*\]
 
 #### Herbarium and types
 

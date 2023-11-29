@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33120156) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33120156) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/110-1), [Wikidata](https://www.wikidata.org/wiki/Q465898). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Aiton, William {std. Aiton} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Aiton, William (1731-1793), British gardener and botanist, Royal Gardener at Kew. 
-**Abbreviated name**: *Aiton*
+**Abbreviated name**: *Aiton* \[standard form in IPNI: *Aiton*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33333714) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33333714) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9602-1), [Wikidata](https://www.wikidata.org/wiki/Q2337389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shuttleworth, Robert James (1810-1874), British botanist and conchologist; studied medicine in Genève and Edinburgh, 1830-1832; lived in Bern, Switzerland 1833-1866 and Hyères, France 1866-1874, building up an important herbarium. 
-**Abbreviated name**: *Shuttleworth*
+**Abbreviated name**: *Shuttleworth* \[standard form in IPNI: *Shuttlew.*\]
 
 #### Herbarium and types
 

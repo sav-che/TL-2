@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33068496) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33068496) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4038-1), [Wikidata](https://www.wikidata.org/wiki/Q2066179). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Holkema, Franciscus (1840-1870), Dutch botanist; studied at Groningen, pupil of H. C. van Hall; pioneer dutch plant-geographer. 
-**Abbreviated name**: *Holkema*
+**Abbreviated name**: *Holkema* \[standard form in IPNI: *Holkema*\]
 
 #### Herbarium and types
 

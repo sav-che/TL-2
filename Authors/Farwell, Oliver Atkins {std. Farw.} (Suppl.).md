@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33259556) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33259556) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2639-1), [Wikidata](https://www.wikidata.org/wiki/Q4481339). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Farwell, Oliver Atkins {std. Farw.}|first entry]] for this author
 
 ### Author
 
 \* Farwell, Oliver Atkins (1867-1944), American botanist, born 13 Dec 1867 in Dorchester (now Boston), Mass., his family moved to the Keweenaw Penins., Michigan 1871, taught country school Houghton Co., Michigan 1888-1889, attended State Normal School (now Eastern Michigan Univ.), Ypsilanti 1890-1892, drug inspector, librarian and botanist, Parke, Davis & Co. (a pharmaceutical firm), Detroit 1892-1933, Prof. of Botany, Detroit College of Pharmacy (now Wayne State Univ.) 1918-1919, retired 1933, Dr. h.c. 1933 Colleges of the City of Detroit (now Wayne State Univ.), died 18 Sep 1944 at Lake Linden, Michigan. 
-**Abbreviated name**: *Farw.*
+**Abbreviated name**: *Farw.* \[standard form in IPNI: *Farw.*\]
 
 #### Herbarium and types
 

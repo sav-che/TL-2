@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33190054) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33190054) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25359-1), [Wikidata](https://www.wikidata.org/wiki/Q21606987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ráthay, Emerich (1845-1900), Hungarian botanist; from 1894-1900 professor and director of the oenological-pomological institute at Klosterneuburg near Wien. 
-**Abbreviated name**: *Ráthay*
+**Abbreviated name**: *Ráthay* \[standard form in IPNI: *Ráthay*\]
 
 #### Herbarium and types
 

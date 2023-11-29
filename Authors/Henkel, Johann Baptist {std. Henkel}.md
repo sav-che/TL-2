@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33068397) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33068397) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3838-1), [Wikidata](https://www.wikidata.org/wiki/Q21033638). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Henkel, Johann Baptist (1815/1825-1871), German pharmacist at Würzburg 1851-1855; from 1860 lecturer and professor of pharmaceutical botany at Tübingen. 
-**Abbreviated name**: *Henkel*
+**Abbreviated name**: *Henkel* \[standard form in IPNI: *Henkel*\]
 
 #### Herbarium and types
 

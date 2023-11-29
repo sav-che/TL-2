@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33258883) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33258883) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/13654-1), [Wikidata](https://www.wikidata.org/wiki/Q4151195). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Groenland \[Grönland\], Johannes (1824-1891), German horticulturist and microscopist, born 8 Apr 1824 in Altona (Hamburg), trained as a druggist, joined the Schleswig-Holstein army 1849, moved to Paris 1853 as an asst. to Louis Vilmorin and began editing *Revue Horticole*, returned to Germany after the Franco-Prussian War (1870-1871) and settled in Dahme (nr. Potsdam) as prof. of natural sciences, Agricultural and Agricultural Chemistry Research Station 1872-1891, died 13 Feb 1891 in Dahme. 
-**Abbreviated name**: *J. Groenland*
+**Abbreviated name**: *J. Groenland* \[standard form in IPNI: *Groenland*\]
 
 #### Herbarium and types
 

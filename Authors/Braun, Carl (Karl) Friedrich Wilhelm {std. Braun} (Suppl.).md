@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33266339) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33266339) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1086-1), [Wikidata](https://www.wikidata.org/wiki/Q107196). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Braun, Carl Friedrich Wilhelm {std. Braun}|first entry]] for this author
 
 ### Author
 
 \* Braun, Carl \[Karl\] Friedrich Wilhelm (1800-1864), German (Bayreuth-born) palaeobotanist, at pharmacy in Regensburg 1814 \[sic\]-1819, employed with a pharmacy in Salzburg 1819-1821, turned to botany with Hoppe, worked with Sternberg in Praha 1821, studied physiology and natural history at Erfurt 1821-1823, pharmacist at Regensburg in his father's pharmacy 1823-1831, teacher at Bayreuth at an agricultural college 1833 as well as continuing his palaeontological activity. 
-**Abbreviated name**: *Braun*
+**Abbreviated name**: *Braun* \[standard form in IPNI: *Braun*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33068356) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33068356) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3753-1), [Wikidata](https://www.wikidata.org/wiki/Q21515607). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hayward, Ida Margaret (1872-1949), British botanist residing at Galashiels in Scotland; student of the adventive flora of the Tweed area. 
-**Abbreviated name**: *Hayw.*
+**Abbreviated name**: *Hayw.* \[standard form in IPNI: *Hayw.*\]
 
 #### Herbarium and types
 

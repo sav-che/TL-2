@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-02-13 11:38:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33265453) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33265453) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16345-1), [Wikidata](https://www.wikidata.org/wiki/Q4992249). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boergesen (Børgesen), Frederik Christian Emil {std. Børgesen}|first entry]] for this author
 
 ### Author
 
 \* Børgesen \[Boergesen, Börgesen\], Frederik Christian Emil (1866-1956), Danish, Copen hagen born, botanist, especially algologist, and librarian, studied at the University of Copenhagen 1884-1891, Mag. Sci. 1891, Dr. phil. 1904, assistant at the Botanical Museum of Copenhagen 1898-1904, librarian ib. 1900-1934, had a private "botanical garden" at his home at Hellebaek. 
-**Abbreviated name**: *Børgesen*
+**Abbreviated name**: *Børgesen* \[standard form in IPNI: *Børgesen*\]
 
 #### Herbarium and types
 

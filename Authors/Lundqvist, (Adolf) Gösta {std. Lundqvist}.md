@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33355284) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33355284) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5845-1), [Wikidata](https://www.wikidata.org/wiki/Q5967534). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lundqvist, \[Adolf\] Gösta (1894-1967), Swedish palaeobotanist; Fil. lic. Stockh. högskola 1919; with the Swedish Geological Survey (for 40 years) in various capacities. 
-**Abbreviated name**: *Lundqvist*
+**Abbreviated name**: *Lundqvist* \[standard form in IPNI: *Lundq.*\]
 
 #### Herbarium and types
 

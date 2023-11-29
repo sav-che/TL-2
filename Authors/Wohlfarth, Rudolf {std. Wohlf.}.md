@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33066757) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33066757) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11808-1), [Wikidata](https://www.wikidata.org/wiki/Q21340919). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wohlfarth, Rudolf (1830-1900), German (Sachsen-Anhalt) botanist; originally insurance agent, later rector of a school in Neu-Weissensee nr. Berlin. 
-**Abbreviated name**: *Wohlf.*
+**Abbreviated name**: *Wohlf.* \[standard form in IPNI: *Wohlf.*\]
 
 #### Herbarium and types
 

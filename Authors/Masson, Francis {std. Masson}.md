@@ -28,14 +28,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33355448) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33355448) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6205-1), [Wikidata](https://www.wikidata.org/wiki/Q926159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Masson, Francis (1741-1805), British plant collector and gardener, from Kew, at the Cape (1772-1774), Canaries and Azores (1776-1782), Spain and Portugal (1781-1785), Cape (1786-1795), N. America (1798). 
-**Abbreviated name**: *Masson*
+**Abbreviated name**: *Masson* \[standard form in IPNI: *Masson*\]
 
 #### Herbarium and types
 

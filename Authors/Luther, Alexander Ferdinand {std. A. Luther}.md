@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33355285) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33355285) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5853-1), [Wikidata](https://www.wikidata.org/wiki/Q5968280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Luther, Alexander Ferdinand (1877-1955), Finnish botanist and zoologist at Helsingfors 
-**Abbreviated name**: *A. Luther*
+**Abbreviated name**: *A. Luther* \[standard form in IPNI: *Luther*\]
 
 #### Herbarium and types
 

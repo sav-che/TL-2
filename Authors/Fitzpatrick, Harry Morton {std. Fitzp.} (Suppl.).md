@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33259735) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33259735) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18837-1), [Wikidata](https://www.wikidata.org/wiki/Q4485145). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fitzpatrick, Harry Morton {std. Fitzp.}|first entry]] for this author
 
 ### Author
 
 \* Fitzpatrick, Harry Morton (1886-1949), American mycologist, born 27 Jun 1886 in Greenwood, Indiana, moved to Illinois and in 1897 to Crawfordsville, Indiana, where he studied at Wabash College from 1905, subsequently went to Cornell Univ., Ithaca, New York in 1907, A.B. 1908, instructor in mycology 1911, Ph.D. 1913 and asst. prof. of plant pathology, later (1922) prof. of mycology, all at Cornell Univ., one of the founders of the Mycological Society of America in 1931, committed suicide 8 Dec 1949 in Ithaca. 
-**Abbreviated name**: *Fitzp.*
+**Abbreviated name**: *Fitzp.* \[standard form in IPNI: *Fitzp.*\]
 
 #### Herbarium and types
 

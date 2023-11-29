@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33265479) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33265479) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/915-1), [Wikidata](https://www.wikidata.org/wiki/Q5894450). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boissieu, Henri de {std. H. Boissieu}|first entry]] for this author
 
 ### Author
 
 \* Boissieu, \[Jean Marie Antoine Gustave\] Henri de (1871-1912), French botanist, born at the Château de Varambon, Dépt. Ain, of private means, studied at the University of Lyon, licencié-ès-lettres, turned mainly to botany, worked often at the Muséum d'Histoire naturelle with Bureau and Franchet, botanical explorer of S.E. France, travelled in Greece and western Asia, worked on the flora of China, Japan and Korea, died on a botanical field trip in the Jura. 
-**Abbreviated name**: *H. Boissieu*
+**Abbreviated name**: *H. Boissieu* \[standard form in IPNI: *H.Boissieu*\]
 
 #### Herbarium and types
 

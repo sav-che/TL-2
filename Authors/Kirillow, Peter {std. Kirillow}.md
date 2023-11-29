@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33068791) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33068791) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4805-1), [Wikidata](https://www.wikidata.org/wiki/Q36652409). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kirillow, Peter (*fl*. 1849), Russian botanist and physician at Charkow. 
-**Abbreviated name**: *Kirillow*
+**Abbreviated name**: *Kirillow* \[standard form in IPNI: *P.Kir.*\]
 
 #### Herbarium and types
 

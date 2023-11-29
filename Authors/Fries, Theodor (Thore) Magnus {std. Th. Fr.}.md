@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-02-05 07:23:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33121020) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33121020) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2917-1), [Wikidata](https://www.wikidata.org/wiki/Q15410). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fries, Theodor (Thore, Thorel) Magnus {std. Th. Fr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fries, Theodor \[Thore\] Magnus (1832-1913), Swedish botanist, son of Elias Magnus Fries. 
-**Abbreviated name**: *Th. Fr.*
+**Abbreviated name**: *Th. Fr.* \[standard form in IPNI: *Th.Fr.*\]
 
 #### Herbarium and types
 

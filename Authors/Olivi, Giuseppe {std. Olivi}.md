@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33355916) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33355916) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7133-1), [Wikidata](https://www.wikidata.org/wiki/Q1152386). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Olivi, Giuseppe (1769-1795), Italian zoologist at Padua 
-**Abbreviated name**: *Olivi*
+**Abbreviated name**: *Olivi* \[standard form in IPNI: *Olivi*\]
 
 #### Herbarium and types
 

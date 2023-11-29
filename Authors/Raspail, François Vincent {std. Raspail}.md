@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33190053) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 582](https://www.biodiversitylibrary.org/page/33190053) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8150-1), [Wikidata](https://www.wikidata.org/wiki/Q682230). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Raspail, François Vincent (1791-1878), French physician and botanist; chemist and popular writer; practiced medicine in Paris, propagated camphor as a medicine (e.g. camphor cigarettes), published on veterinary sciences and meteorology; active political agitator (J. Bot.). 
-**Abbreviated name**: *Raspail*
+**Abbreviated name**: *Raspail* \[standard form in IPNI: *Raspail*\]
 
 #### Herbarium and types
 

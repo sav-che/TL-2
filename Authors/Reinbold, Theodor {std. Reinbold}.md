@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33190169) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33190169) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8265-1), [Wikidata](https://www.wikidata.org/wiki/Q21607091). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reinbold, Theodor (x-1918), German botanist (algologist). 
-**Abbreviated name**: *Reinbold*
+**Abbreviated name**: *Reinbold* \[standard form in IPNI: *Reinbold*\]
 
 #### Herbarium and types
 

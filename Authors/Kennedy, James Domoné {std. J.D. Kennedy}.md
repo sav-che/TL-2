@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33068763) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33068763) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4726-1), [Wikidata](https://www.wikidata.org/wiki/Q21395334). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kennedy, James Domoné (1898-x), British-born Nigerian forest officer. 
-**Abbreviated name**: *J. D. Kennedy*
+**Abbreviated name**: *J. D. Kennedy* \[standard form in IPNI: *J.D.Kenn.*\]
 
 #### Herbarium and types
 

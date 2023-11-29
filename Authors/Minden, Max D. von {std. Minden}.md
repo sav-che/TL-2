@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33355593) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33355593) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23422-1), [Wikidata](https://www.wikidata.org/wiki/Q21521530). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Minden, Max D. von (1871-?), German mycologist; assistant at the botanical institute Giessen 1898. 
-**Abbreviated name**: *Minden*
+**Abbreviated name**: *Minden* \[standard form in IPNI: *Minden*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33189765) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33189765) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7753-1), [Wikidata](https://www.wikidata.org/wiki/Q21606747). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pleijel, Carl Gerhard Wilhelm (1866-1937), Swedish pharmacist and botanist at Alvesta, Småland (1911-1920), pharmacist at Stockholm 1920-1936. 
-**Abbreviated name**: *Pleijel*
+**Abbreviated name**: *Pleijel* \[standard form in IPNI: *Pleijel*\]
 
 #### Herbarium and types
 

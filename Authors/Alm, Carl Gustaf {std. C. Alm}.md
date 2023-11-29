@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33120168) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33120168) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/158-1), [Wikidata](https://www.wikidata.org/wiki/Q21505100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Alm, Carl Gustav {std. C. Alm} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Alm, Carl Gustaf (1888-x), Swedish botanist, highschool teacher at Kiruna. 
-**Abbreviated name**: *C. Alm*
+**Abbreviated name**: *C. Alm* \[standard form in IPNI: *Alm*\]
 
 #### Herbarium and types
 

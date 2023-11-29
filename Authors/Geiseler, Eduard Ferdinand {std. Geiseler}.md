@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33121061) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33121061) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3072-1), [Wikidata](https://www.wikidata.org/wiki/Q3048280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Geiseler, Eduard Ferdinand (1781-1872), German physician and botanist at Danzig. 
-**Abbreviated name**: *Geiseler*
+**Abbreviated name**: *Geiseler* \[standard form in IPNI: *Geiseler*\]
 
 #### Herbarium and types
 

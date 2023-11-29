@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33266591) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33266591) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1326-1), [Wikidata](https://www.wikidata.org/wiki/Q21388052). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Butcher, Roger William (1897-1971), British botanist and botanical artist, born at Ashbourne, Derbyshire 1897, studied at the University of London, B.S. 1922, Ph. D. 1931, assistant in the Kew Herbarium, assistant naturalist at Cambridge, Ministry of Agriculture 1925, from ca. 1939-1953 at Bramcote, Notts. with the Trent River Authority, at Fisheries Laboratory, Burnham nr. Crouch 1953-1963, from 1963 in retirement, died at Weymouth, Dorset 13 Oct 1971. 
-**Abbreviated name**: *Butcher*
+**Abbreviated name**: *Butcher* \[standard form in IPNI: *Butcher*\]
 
 #### Herbarium and types
 

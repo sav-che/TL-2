@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33333637) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33333637) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9457-1), [Wikidata](https://www.wikidata.org/wiki/Q6216132). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seligmann, Johann Michael (1720-1762), German botanical and zoological artist and engraver at Nürnberg. 
-**Abbreviated name**: *Seligmann*
+**Abbreviated name**: *Seligmann* \[standard form in IPNI: *Seligm.*\]
 
 #### Herbarium and types
 

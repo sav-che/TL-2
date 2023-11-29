@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33120399) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33120399) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16313-1), [Wikidata](https://www.wikidata.org/wiki/Q5361352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Destrée, Caroline Élisa {std. E. Bommer} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bommer, \[Mme\] Elisa Caroline, née Destrée (x-1910), Belgian botanist, wife of J. E. Bommer. 
-**Abbreviated name**: *E. Bommer*
+**Abbreviated name**: *E. Bommer* \[standard form in IPNI: *E.Bommer*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33212070) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33212070) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10183-1), [Wikidata](https://www.wikidata.org/wiki/Q3174712). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stone, Witmer (1866-1939), American naturalist (ornithologist and botanist); B.A. Univ. Pennsylvania 1887, MA 1891, Dr. Sci. h.c. 1913; conservator of the ornithological section of the Academy of natural sciences, Philadelphia 1891, executive curator of its Museum 1918-1925 and director 1925-1928; from 1928 emeritus director; collected widely in N. and S. America; co-founder of the Philadelphia Botanical Club, 1891. 
-**Abbreviated name**: *Stone*
+**Abbreviated name**: *Stone* \[standard form in IPNI: *W.Stone*\]
 
 #### Herbarium and types
 

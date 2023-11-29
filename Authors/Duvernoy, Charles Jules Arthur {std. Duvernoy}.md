@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33260211) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33260211) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18315-1), [Wikidata](https://www.wikidata.org/wiki/Q47116746). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Duvernoy, Charles Jules Arthur (1876-1922), French botanist (mycologist), born 5 Mai 1876 at Benthal (Doubs), studied at the École Normale de Besançon 1892-1895, went to Algeria in 1897, mobilized during the war from 1915 at Besançon, demobilized in 1917, returned to Boufarik (Algeria), Chef de travaux de Botanique at the faculty of science at Alger 1920, died 8 Mar 1922 at Besançon being seriously ill. 
-**Abbreviated name**: *Duvernoy*
+**Abbreviated name**: *Duvernoy* \[standard form in IPNI: *Duvernoy*\]
 
 #### Note
 

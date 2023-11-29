@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33120099) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33120099) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/30638-1), [Wikidata](https://www.wikidata.org/wiki/Q2833389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Acloque, Alexandre Noel Charles {std. Acloque} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Acloque, Alexandre Noel Charles (1871-x), French botanist at Auxi-le-Château, Pas-de-Calais, editor of and contributor to various natural history journals. 
-**Abbreviated name**: *Acloque*
+**Abbreviated name**: *Acloque* \[standard form in IPNI: *Acloque*\]
 
 #### Herbarium and types
 

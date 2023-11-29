@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1007](https://www.biodiversitylibrary.org/page/33121138) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1007](https://www.biodiversitylibrary.org/page/33121138) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3397-1), [Wikidata](https://www.wikidata.org/wiki/Q76351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Grisebach, August Heinrich Rudolf (Rudolph) {std. Griseb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Grisebach, August Heinrich Rudolph (1814-1879), German botanist at Göttingen, "Geheimer Regierungsrath" and director of the botanical garden. 
-**Abbreviated name**: *Griseb.*
+**Abbreviated name**: *Griseb.* \[standard form in IPNI: *Griseb.*\]
 
 #### Herbarium and types
 

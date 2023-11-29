@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-11-11 08:12:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33265594) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33265594) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/12358-1), [Wikidata](https://www.wikidata.org/wiki/Q2375893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bowdich, Sarah (née Wallis; afterwards Lee) {std. Bowdich}|first entry]] for this author
 
 ### Author
 
 \* Bowdich, Sarah (née Wallis; afterwards Lee) (1791-1856), British botanist, collected plants in tropical West Africa, with her husband T.E. Bowdich (1791-1824) in West Africa 1814, 1815 and 1823, married Robert Lee in 1829 
-**Abbreviated name**: *Bowdich*
+**Abbreviated name**: *Bowdich* \[standard form in IPNI: *Bowdich*\]
 
 #### Herbarium and types
 

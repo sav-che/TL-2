@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33066533) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33066533) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11565-1), [Wikidata](https://www.wikidata.org/wiki/Q6111008). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Werner, Roger-Guy (1901-1977), French (Alsatian) botanist (lichenologist, general cryptogamist); studied botany at the University of Strasbourg 1919-1922; worked on his thesis with Ch. Killian 1922-1927; Dr. sci. Paris 1927; technician at the Station centrale de Phytopathologie, Paris 1925-1926; id. at the Faculté des Sciences, Strasbourg 1926-1928; cryptogamist at the Institut scientifique Chérifien, Rabat 1929-1936, head of the botany dept. of that institute 1936-1948; lecturer (1948-1956) and professor of botany (1956-1972) at the Faculty of Sciences of the University of Nancy. 
-**Abbreviated name**: *Werner*
+**Abbreviated name**: *Werner* \[standard form in IPNI: *Werner*\]
 
 #### Herbarium and types
 

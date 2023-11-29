@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/page/33120937) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/page/33120937) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2589-1), [Wikidata](https://www.wikidata.org/wiki/Q15627363). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Evans, Alexander William {std. A. Evans} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Evans, Alexander William (1868-1959), American bryologist and lichenologist at Yale. 
-**Abbreviated name**: *A. Evans*
+**Abbreviated name**: *A. Evans* \[standard form in IPNI: *A.Evans*\]
 
 #### Herbarium and types
 

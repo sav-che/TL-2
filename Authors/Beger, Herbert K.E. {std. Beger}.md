@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33265239) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33265239) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/614-1), [Wikidata](https://www.wikidata.org/wiki/Q5894715). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Beger, Herbert K.E. (1889-1955), German (Dresden) botanist, Dr. phil. Zürich, ca. 1927 scientist at the Preussische Landesanstalt für Wasser-, Boden- und Lufthygiene, Biol. Abt., Berlin-Dahlem. 
-**Abbreviated name**: *Beger*
+**Abbreviated name**: *Beger* \[standard form in IPNI: *Beger*\]
 
 #### Herbarium and types
 

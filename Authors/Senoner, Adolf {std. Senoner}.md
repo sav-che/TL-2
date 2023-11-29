@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33333651) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33333651) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/14154-1), [Wikidata](https://www.wikidata.org/wiki/Q21608673). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Senoner, Adolf (1806-1895), Austrian physician, botanist and librarian; educated as surgeon at Pavia and Padua; military surgeon, later practicing physician in Lower Austria; from 1866 librarian, later archivist of the Austrian Geologische Reichsanstalt. 
-**Abbreviated name**: *Senoner*
+**Abbreviated name**: *Senoner* \[standard form in IPNI: *Senoner*\]
 
 #### Herbarium and types
 

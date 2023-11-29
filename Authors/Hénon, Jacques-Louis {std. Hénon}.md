@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33068401) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33068401) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3843-1), [Wikidata](https://www.wikidata.org/wiki/Q3157992). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hénon, Jacques-Louis (1802-1872), French politician and botanist at Lyon; Dr. med. Montpellier 1841; director of the departmental tree nurseries of the Rhône. 
-**Abbreviated name**: *Hénon*
+**Abbreviated name**: *Hénon* \[standard form in IPNI: *Hénon*\]
 
 #### Herbarium and types
 

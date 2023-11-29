@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33355280) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33355280) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5834-1), [Wikidata](https://www.wikidata.org/wiki/Q5965480). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lund, Anders Axel Wilhelm (1839-1925), Swedish botanist; Dr. phil. Uppsala 1863, high school teacher at Västerviks (1863-1905). 
-**Abbreviated name**: *A. Lund*
+**Abbreviated name**: *A. Lund* \[standard form in IPNI: *A.A.W.Lund*\]
 
 #### Herbarium and types
 

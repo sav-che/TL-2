@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33260218) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33260218) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2438-1), [Wikidata](https://www.wikidata.org/wiki/Q21391745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eames, Arthur Johnson (1881-1969), American botanist, anatomist and phylogenist, born 10 Oct 1881 at Framingham, Mass., AB Harvard 1908, AM in 1910, Sheldon travelling fellow 1910-1911, Ph.D. in botany 1912, assistant in Harvard 1906-1912, instructor Cornell University 1912-1913, New York State Coll. Agric. 1913-1914, asst. prof. 1914-1920, prof. 1920-1948, died 12 Feb 1969, Ithaca, New York. 
-**Abbreviated name**: *A.J. Eames*
+**Abbreviated name**: *A.J. Eames* \[standard form in IPNI: *A.J.Eames*\]
 
 #### Herbarium and types
 

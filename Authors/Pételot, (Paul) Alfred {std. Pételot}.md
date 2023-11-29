@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33189660) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33189660) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7562-1), [Wikidata](https://www.wikidata.org/wiki/Q21522869). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pételot, \[Paul\] Alfred (1885-post 1940), French botanist; assistant at the Faculté des sciences, Nancy, 1908-1918; teacher at the Hanoi high school (lycée) 1918-1922; director of the entomological station of Cho-gangh 1922-1924; professor of botany at the Indochina University from 1924. 
-**Abbreviated name**: *Pételot*
+**Abbreviated name**: *Pételot* \[standard form in IPNI: *Pételot*\]
 
 #### Herbarium and types
 

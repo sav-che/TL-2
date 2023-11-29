@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33212198) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33212198) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10406-1), [Wikidata](https://www.wikidata.org/wiki/Q21610166). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tamburlini, Francesco (1859-?), Italian lichenologist and high school teacher at Sassari, Sardinia. 
-**Abbreviated name**: *Tamburlini*
+**Abbreviated name**: *Tamburlini* \[standard form in IPNI: *Tamb.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33355555) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33355555) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6441-1), [Wikidata](https://www.wikidata.org/wiki/Q21341283). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Michener, Ezra (1794-1887), American physician, conchologist and botanist in Chester County, Pennsylvania; M. D. Univ. Penn. 1817. 
-**Abbreviated name**: *E. Michener*
+**Abbreviated name**: *E. Michener* \[standard form in IPNI: *E.Michener*\]
 
 #### Herbarium and types
 

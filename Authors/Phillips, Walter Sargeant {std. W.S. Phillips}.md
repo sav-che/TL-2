@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33189715) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33189715) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7648-1), [Wikidata](https://www.wikidata.org/wiki/Q21522962). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Phillips, Walter Sargeant (1905-1975), American botanist; AB Oberlin 1929, Dr. phil. Chicago 1935; taught English at Taiku, Shansi, 1929-1931; at University of Chicago 1932, University of Miami 1935, University of Arizona 1940, from 1947-1972 as head of the Department of Botany and curator of the herbarium; student of the Polypodiaceae. 
-**Abbreviated name**: *W.S. Phillips*
+**Abbreviated name**: *W.S. Phillips* \[standard form in IPNI: *W.S.Phillips*\]
 
 #### Herbarium and types
 

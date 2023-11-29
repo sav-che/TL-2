@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33265347) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33265347) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/752-1), [Wikidata](https://www.wikidata.org/wiki/Q42143225). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bews, John William (1884-1938), Scottish-born ecologist and philosopher, studied at the University of Edinburgh, M.A. 1906, D.Sc. 1912, lecturer in economic botany at Manchester University 1907-1908, assistant professor of botany Edinburgh 1908-1910, professor of botany at Natal University College, Pietermaritzburg, S. Afr. 1910-1938 (except for prof. of botany at Durham 1925-1927), travelled widely in Southern Africa, USA and Canada. 
-**Abbreviated name**: *Bews*
+**Abbreviated name**: *Bews* \[standard form in IPNI: *Bews*\]
 
 #### Herbarium and types
 

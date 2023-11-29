@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 969](https://www.biodiversitylibrary.org/page/33190440) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 969](https://www.biodiversitylibrary.org/page/33190440) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8704-1), [Wikidata](https://www.wikidata.org/wiki/Q740096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rudbeck, Olaus \[Olof\] Olai (1660-1740), Swedish physician and botanist; Dr. med. Utrecht 1690; professor of anatomy Uppsala 1690, and botany 1691, succeeding his father, O.J. Rudbeck; full professor 1702; director of the botanical garden 1691-1740; "arkiater" 1739; travelled in Lappland 1695; teacher of Linnaeus. 
-**Abbreviated name**: *O.O. Rudbeck*
+**Abbreviated name**: *O.O. Rudbeck* \[standard form in IPNI: *O.O.Rudbeck*\]
 **Alternate abbreviation:** (*Rudbeck Jr.*)
 
 #### Herbarium and types

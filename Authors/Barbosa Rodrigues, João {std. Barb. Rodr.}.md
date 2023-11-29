@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2014-12-01 11:38:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33120250) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 119](https://www.biodiversitylibrary.org/page/33120250) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/465-1), [Wikidata](https://www.wikidata.org/wiki/Q45374). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Rodrigues, João Barbosa {std. Barb. Rodr.}|second]] and [[Barbosa Rodrigues, João {std. Barb. Rodr.} (Suppl.)|third]] entries for this author
 
 ### Author
 
 Barbosa Rodrigues, João (1842-1909), Brazilian botanist. 
-**Abbreviated name**: *Barb. Rodr.*
+**Abbreviated name**: *Barb. Rodr.* \[standard form in IPNI: *Barb.Rodr.*\]
 
 #### Herbarium and types
 

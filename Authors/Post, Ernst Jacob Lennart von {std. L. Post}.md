@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33189821) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33189821) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7877-1), [Wikidata](https://www.wikidata.org/wiki/Q582183). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Post, Ernst Jacob Lennart von (1884-1951), Swedish phytogeographer and geologist, one of the founders of pollen analysis and; Fil. lic. Uppsala 1904; State geologist 1910 (1914); Dr. h.c. Stockholm 1927; professor of geology at Stockholm 1929. 
-**Abbreviated name**: *L. Post*
+**Abbreviated name**: *L. Post* \[standard form in IPNI: *L.Post*\]
 
 #### Herbarium and types
 

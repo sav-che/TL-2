@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33260366) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33260366) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2543-1), [Wikidata](https://www.wikidata.org/wiki/Q20080799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Engler, Victor (1885-1917), German botanist, born 3 Jun 1885 at Thorn, visited the gymnasium of his home town until 1904, studied natural sciences at Breslau, thesis under Ferdinand Albin Pax at Breslau in 1909, in active service as officer in WW I, killed 14 Mai 1917 near Kanatlacci in Macedonia. 
-**Abbreviated name**: *V. Engl.*
+**Abbreviated name**: *V. Engl.* \[standard form in IPNI: *V.Engl.*\]
 
 #### Herbarium and types
 

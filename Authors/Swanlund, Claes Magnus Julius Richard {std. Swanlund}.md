@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33212156) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33212156) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10335-1), [Wikidata](https://www.wikidata.org/wiki/Q21610093). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Swanlund, Claes Magnus Julius Richard (1875-1952), Swedish botanist and pharmacist; studied in Berlin 1899-1901, Technical University Zürich 1901-1903, Copenhagen 1904, Berlin 1905-1914; Dr. phil. Basel 1901; from 1905-1914 pharmacist at Borås; id. at Norberg 1925-1931, at Borlänge 1931-1942; ultimately at Ronneby. 
-**Abbreviated name**: *Swanlund*
+**Abbreviated name**: *Swanlund* \[standard form in IPNI: *Swanlund*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33260285) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33260285) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18420-1), [Wikidata](https://www.wikidata.org/wiki/Q21511702). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ekstam, Otto Josef Agaton (1870-1931), Swedish botanist, born 27 Oct 1870 at Stockholm, went to schools at Stockholm and studied from 1894 at Uppsala, fil. kand. 1898, fil. lic. 1899, later director van Kungsholms middelbare school 1914, died 1931. 
-**Abbreviated name**: *Ekstam*
+**Abbreviated name**: *Ekstam* \[standard form in IPNI: *Ekstam*\]
 
 #### Herbarium and types
 

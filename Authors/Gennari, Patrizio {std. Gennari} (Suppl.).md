@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33258655) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33258655) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3080-1), [Wikidata](https://www.wikidata.org/wiki/Q6066909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gennari, Patricio {std. Gennari}|first entry]] for this author
 
 ### Author
 
 \* Gennari, Patrizio (1820-1897), Italian botanist, born 24 Nov 1820 in Moresco (Ascoli Piceno), studied medicine at Univ. of Macerata, M.D. (?) 1842 Bologna, Prof. of Botany and Materia Medica, Univ. of Macerata 1844, served in the Austro-Sardinian War, Prof. and dir. of Botanic Garden, both Univ. of Cagliari (Sardinia) 1866-1892, possibly collected in Ethiopia in 1888 with L. Traversi, died 1 Feb 1897 in Cagliari. 
-**Abbreviated name**: *Gennari*
+**Abbreviated name**: *Gennari* \[standard form in IPNI: *Gennari*\]
 
 #### Herbarium and types
 

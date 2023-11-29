@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33258510) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33258510) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2913-1), [Wikidata](https://www.wikidata.org/wiki/Q15405). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fries, Elias Magnus {std. Fr.}|first entry]] for this author
 
 ### Author
 
 \* Fries, Elias Magnus (1794-1878), Swedish botanist (a founder of taxonomic mycology), born 15 Aug 1794 in Femsjö (Småland), the first botanist of a family of renowned Swedish botanists (see the *Fries family* above), attended school at Växjö, went to Lund 1811 and studied under E. Acharius, docent and Ph.D. 1814 Lund (20 years old!), adjunct in botany 1819, royal prof. 1824, prof. agricultural economics, Uppsala 1834, prof. of botany and agricultural economics and head of the Botanical Garden 1851-1859, Commander of the North Star 1856, retired as prof. 1859 and as garden dir. 1863, died 8 Feb 1878 in Uppsala. 
-**Abbreviated name**: *Fr.*
+**Abbreviated name**: *Fr.* \[standard form in IPNI: *Fr.*\]
 
 #### Herbarium and types
 

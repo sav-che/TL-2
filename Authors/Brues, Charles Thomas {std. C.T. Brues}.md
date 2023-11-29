@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33266461) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33266461) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/38032-1), [Wikidata](https://www.wikidata.org/wiki/Q2960318). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brues, Charles Thomas (1879-1955), Entomologist, ecologist, professor of economic entomology at Harvard 1909-1945, also with U.S.D.A. and curator of invertebrate zoology at Milwaukee Public Museum and Beirne Brues, née Barrett, wife of C.T. Brues since 16 Jun 1904. 
-**Abbreviated name**: *C.T. Brues*
+**Abbreviated name**: *C.T. Brues* \[standard form in IPNI: *C.T.Brues*\]
 **Alternate abbreviation:** (*B. Brues*)
 
 #### Herbarium and types

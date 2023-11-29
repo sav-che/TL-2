@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33120376) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33120376) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/887-1), [Wikidata](https://www.wikidata.org/wiki/Q36571011). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bocquillon-Limousin, Henri (*fl*. 1891-1914), French pharmacist at Paris. 
-**Abbreviated name**: *Bocq.-Lim.*
+**Abbreviated name**: *Bocq.-Lim.* \[standard form in IPNI: *Bocq.-Lim.*\]
 
 #### Herbarium and types
 

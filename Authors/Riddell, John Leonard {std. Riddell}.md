@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 784](https://www.biodiversitylibrary.org/page/33190255) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 784](https://www.biodiversitylibrary.org/page/33190255) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8378-1), [Wikidata](https://www.wikidata.org/wiki/Q976793). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Riddell, John Leonard (1807-1865), American botanist, chemist, physician and inventor; professor of astronomy, geology, botany and chemistry Marietta College 1832; id. chemistry and botany at the Ohio reformed Medical College, Worthington, Ohio 1832-1834; at Cincinnati, Ohio 1834-1836, from 1835-1836 as adjunct professor of botany and chemistry; from 1836 at New Orleans at the Medical College of Louisiana and in other capacities, ultimately as City Post Master. 
-**Abbreviated name**: *Riddell*
+**Abbreviated name**: *Riddell* \[standard form in IPNI: *Riddell*\]
 
 #### Herbarium and types
 

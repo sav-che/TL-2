@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33190274) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33190274) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8420-1), [Wikidata](https://www.wikidata.org/wiki/Q6149809). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ritzema Bos, Jan (1850-1928), Dutch phytopathologist; Dr. phil. Groningen 1874; instructor of zoology Groningen 1874-1876; instructor at Wageningen Agricultural College 1876-1895; director of the Willie Commelin Scholten phytopathological laboratory, Amsterdam 1895-1899; head of the Dutch phytopathological service 1899-1906; director of the Institute for phytopathology, Wageningen 1906-1918; professor of phytopathology at Wageningen Agricultural University 1918-1920. 
-**Abbreviated name**: *Ritz. Bos*
+**Abbreviated name**: *Ritz. Bos* \[standard form in IPNI: *Ritz.Bos*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 967](https://www.biodiversitylibrary.org/page/33190438) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 967](https://www.biodiversitylibrary.org/page/33190438) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8700-1), [Wikidata](https://www.wikidata.org/wiki/Q21607511). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ruchinger, Giuseppe \[baptised: Josef\] (1761-1847), German (Bavarian) gardener and botanist; from 1798-1815 in Triest; head gardener of the Botanical Garden of S. Giobbe in Venezia. 
-**Abbreviated name**: *Ruchinger*
+**Abbreviated name**: *Ruchinger* \[standard form in IPNI: *Ruch.*\]
 
 #### Herbarium and types
 

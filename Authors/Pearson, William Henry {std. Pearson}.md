@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33189603) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33189603) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24673-1), [Wikidata](https://www.wikidata.org/wiki/Q21522736). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pearson, William Henry (1849-1923), British businessman (yarn agent) and hepaticologist at Eccles nr. Manchester; from 1902 at Manchester; one of the founders of the British Bryological Society; M.Sc. Manchester 1911. 
-**Abbreviated name**: *Pearson*
+**Abbreviated name**: *Pearson* \[standard form in IPNI: *Pearson*\]
 
 #### Herbarium and types
 

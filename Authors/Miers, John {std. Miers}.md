@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33355558) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33355558) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6452-1), [Wikidata](https://www.wikidata.org/wiki/Q575253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Miers, John (1789-1879), British botanist and metallurgist; travelled in South America 1819-1838; later in London as private scientist. 
-**Abbreviated name**: *Miers*
+**Abbreviated name**: *Miers* \[standard form in IPNI: *Miers*\]
 
 #### Herbarium and types
 

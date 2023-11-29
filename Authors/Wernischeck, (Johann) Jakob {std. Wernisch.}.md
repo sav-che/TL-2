@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33066535) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33066535) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11567-1), [Wikidata](https://www.wikidata.org/wiki/Q21612489). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wernischeck, \[Johann\] Jakob (1743-1804), Hungarian-born Austrian physician and botanist; studied and practiced in Vienna. 
-**Abbreviated name**: *Wernisch.*
+**Abbreviated name**: *Wernisch.* \[standard form in IPNI: *Wernisch.*\]
 
 #### Herbarium and types
 

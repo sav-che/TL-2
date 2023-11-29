@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33212226) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33212226) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27558-1), [Wikidata](https://www.wikidata.org/wiki/Q21387836). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tavares, Carlos das Neves (1914-1972), Portuguese botanist (lichenologist and bryologist); Lic. Biol. Lisboa 1938; Dr. sci. Lisboa 1946; assistant at the University of Lisboa 1939-1944; curator of the Botanical Museum, Lisboa 1944; first assistant 1946, extraord. professor of botany 1951, "professor agregado" 1955. 
-**Abbreviated name**: *Tavares*
+**Abbreviated name**: *Tavares* \[standard form in IPNI: *Tav.*\]
 
 #### Herbarium and types
 

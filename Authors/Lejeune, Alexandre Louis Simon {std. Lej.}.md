@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33069072) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33069072) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5451-1), [Wikidata](https://www.wikidata.org/wiki/Q8194959). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lejeune, Alexandre Louis Simon (1779-1858), Belgian physician and botanist; health officer in the French army 1801-1804, from then on physician at Verviers; Dr. med. Liège 1820. 
-**Abbreviated name**: *Lej.*
+**Abbreviated name**: *Lej.* \[standard form in IPNI: *Lej.*\]
 
 #### Herbarium and types
 

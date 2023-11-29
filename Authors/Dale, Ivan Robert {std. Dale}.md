@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33259071) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33259071) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/1961-1), [Wikidata](https://www.wikidata.org/wiki/Q21387617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dale, Ivan Robert (1904-1963), British botanist and forester, born 1904, B.A. Oxford 1928, in forest department Kenya 1928-1938, in Uganda 1938-1952, settled in Kenya 1952, died 9 Dec 1963 Johannesburg. 
-**Abbreviated name**: *Dale*
+**Abbreviated name**: *Dale* \[standard form in IPNI: *Dale*\]
 
 #### Herbarium and types
 

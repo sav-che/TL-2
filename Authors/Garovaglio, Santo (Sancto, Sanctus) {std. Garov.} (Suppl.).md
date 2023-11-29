@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33258607) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33258607) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19178-1), [Wikidata](https://www.wikidata.org/wiki/Q15253517). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Garovaglio, Santo {std. Garov.}|first entry]] for this author
 
 ### Author
 
 \* Garovaglio, Santo \[Sancto, Sanctus\] (1805-1882), Italian cryptogamic botanist, born 28 Jan 1805 in Como, enrolled, Faculty of Medicine, Univ. of Pavia 1821, asst. in botany to G. Moretti 1833 and prof. of natural history 1839-1852, both Univ. of Pavia, doctorate 1840 Vienna, full prof. of botany from 1852 (succeeding Moretti), dir. of Botanic Garden 1853-1882, and founder of the "Laboratorio Crittogamico" 1871, all in Pavia, died 20 \[18?\] Mar 1882 in Pavia. 
-**Abbreviated name**: *Garov.*
+**Abbreviated name**: *Garov.* \[standard form in IPNI: *Garov.*\]
 
 #### Herbarium and types
 

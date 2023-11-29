@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1064](https://www.biodiversitylibrary.org/page/33190535) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1064](https://www.biodiversitylibrary.org/page/33190535) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8827-1), [Wikidata](https://www.wikidata.org/wiki/Q707961). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saint-Hilaire, Auguste François César Prouvençal de (1779-1853), French explorer, botanist and entomologist; self-taught naturalist of independent means; in Hamburg during the revolution; in Orléans in the early years of the century; later at Paris associated with A.L. de Jussieu; in Brazil and Uruguay 1816-1822; back in France dedicating himself to the publication of the results of his Brazilian journeys; member of the Institut de France (Académie des Sciences from 1830). 
-**Abbreviated name**: *St. Hil.*
+**Abbreviated name**: *St. Hil.* \[standard form in IPNI: *A.St.-Hil.*\]
 
 #### Herbarium and types
 

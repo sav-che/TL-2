@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33068497) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33068497) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4040-1), [Wikidata](https://www.wikidata.org/wiki/Q21515966). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Holle, Georg Karl Hans Dietrich (1825-1893), German land-owner and botanist. 
-**Abbreviated name**: *Holle*
+**Abbreviated name**: *Holle* \[standard form in IPNI: *Holle*\]
 
 #### Herbarium and types
 

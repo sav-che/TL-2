@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265506) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33265506) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/947-1), [Wikidata](https://www.wikidata.org/wiki/Q21506278). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bonavia, Emanuel (1826-1908), British colonial physician and botanist, M.D. in the Bengal Medical Service 1857, superintendent Lucknow Gardens 1876, from 1885 at Calcutta. 
-**Abbreviated name**: *Bonavia*
+**Abbreviated name**: *Bonavia* \[standard form in IPNI: *Bonavia*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33069002) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33069002) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12639-1), [Wikidata](https://www.wikidata.org/wiki/Q21518399). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Larsen, Esther Louise (1901-x), American botanist trained at Washington University, St. Louis, the Missouri Botanical Garden and later at Univ. of Montana and Univ. of Pennsylvania; married (1934) Kenneth David Doak. 
-**Abbreviated name**: *Larsen*
+**Abbreviated name**: *Larsen* \[standard form in IPNI: *Larsen*\]
 
 #### Herbarium and types
 

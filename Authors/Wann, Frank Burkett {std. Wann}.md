@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33066398) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33066398) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11397-1), [Wikidata](https://www.wikidata.org/wiki/Q21612222). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wann, Frank Burkett (1892-1954), American botanist; A.B. Wabash Col. 1914; Dr. phil. Cornell 1920; teaching fellow Shaw School Bot. 1914-1915; instructor in botany Cornell 1915-1923, nat. research fellow in biology 1923-1926; associate professor of botany, Utah State Agr. Coll., Logan, Utah 1926-1946; professor of botany and (from 1952) head of the Department of botany and plant pathology 1946-1954. 
-**Abbreviated name**: *Wann*
+**Abbreviated name**: *Wann* \[standard form in IPNI: *Wann*\]
 
 #### Herbarium and types
 

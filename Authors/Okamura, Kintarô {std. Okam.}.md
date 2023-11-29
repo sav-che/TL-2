@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33355902) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33355902) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7115-1), [Wikidata](https://www.wikidata.org/wiki/Q658858). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Okamura, Kintarô (1867-1935), Japanese algologist. 
-**Abbreviated name**: *Okam.*
+**Abbreviated name**: *Okam.* \[standard form in IPNI: *Okamura*\]
 
 #### Herbarium and types
 

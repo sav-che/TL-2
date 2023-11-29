@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33258889) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33258889) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3410-1), [Wikidata](https://www.wikidata.org/wiki/Q724270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gronovius, Johan (Jan) Frederik {std. Gronov.}|first entry]] for this author
 
 ### Author
 
 \* Gronovius, Johan \[Jan\] Frederik (1690-1762). No description provided. 
-**Abbreviated name**: *Gronov.*
+**Abbreviated name**: *Gronov.* \[standard form in IPNI: *Gronov.*\]
 
 #### Note
 

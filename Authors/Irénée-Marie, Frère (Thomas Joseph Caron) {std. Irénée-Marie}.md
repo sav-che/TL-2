@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33068627) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33068627) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12572-1), [Wikidata](https://www.wikidata.org/wiki/Q21516778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Irénée-Marie, Frère (Thomas Joseph Caron) (1898-x), Canadian botanist and clergyman; with the Frères de l'Instruction chrétienne at La Pointe-du-Lac and Laprairie, Québec. 
-**Abbreviated name**: *Irénée-Marie*
+**Abbreviated name**: *Irénée-Marie* \[standard form in IPNI: *Irénée-Marie*\]
 
 #### Herbarium and types
 

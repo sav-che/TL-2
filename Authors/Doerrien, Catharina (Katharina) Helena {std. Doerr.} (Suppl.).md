@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33260015) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33260015) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2251-1), [Wikidata](https://www.wikidata.org/wiki/Q1050781). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Doerrien, Catherina Helena {std. Doerr.}|first entry]] for this author
 
 ### Author
 
 \* Doerrien, Catharina (Katharina) Helena (1717-1795), German artist and botanist, born 28 Feb 1717 at Hildesheim, made drawings of all plants she found growing in the district of "Oranien-Nassau" and published a flora on this district, she was a member of several scientific societies, died 7/8 Jan 1795. 
-**Abbreviated name**: *Doerr.*
+**Abbreviated name**: *Doerr.* \[standard form in IPNI: *Doerr.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/page/33333911) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/page/33333911) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9946-1), [Wikidata](https://www.wikidata.org/wiki/Q213351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spallanzani, Lazaro (1729-1799), Italian philosopher and experimental natural scientist; professor of logic and metaphysics at the University of Reggio; from 1760-1769 professor of natural history of Modena, subsequently at Pavia; travelled in Switzerland and the Mediterranean area. 
-**Abbreviated name**: *Spallanzani*
+**Abbreviated name**: *Spallanzani* \[standard form in IPNI: *Spall.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 683](https://www.biodiversitylibrary.org/page/33212725) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 683](https://www.biodiversitylibrary.org/page/33212725) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11098-1), [Wikidata](https://www.wikidata.org/wiki/Q5110243). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vaupell, Christian Theodor (1821-1862), Danish botanist and high school teacher; Cand. theol. 1847; Dr. phil. Copenhagen 1859; lecturer ("privatdocent") at Copenhagen University 1860-1862. 
-**Abbreviated name**: *Vaupell*
+**Abbreviated name**: *Vaupell* \[standard form in IPNI: *Vaupell*\]
 
 #### Herbarium and types
 

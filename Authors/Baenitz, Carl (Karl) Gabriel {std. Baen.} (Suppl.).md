@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33264973) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33264973) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31173-1), [Wikidata](https://www.wikidata.org/wiki/Q5749296). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baenitz, Karl Gabriel {std. Baen.}|first entry]] for this author
 
 ### Author
 
 \* Baenitz, Carl \[Karl\] Gabriel (1837-1913), German (Brandenburg, Preussen) botanist and highschool teacher; teacher's examination 1857; teacher at Sommerfeld, Görlitz, Bromberg and Königsberg i.Pr. (rector at the Löbenit'schen Mittelschule 1867), Dr. phil. Jena 1871, retired 1 Oct 1882; continued his activities publishing numerous sets of exsiccatae; ultimately in Breslau. 
-**Abbreviated name**: *Baen.*
+**Abbreviated name**: *Baen.* \[standard form in IPNI: *Baen.*\]
 
 #### Herbarium and types
 

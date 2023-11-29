@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33258804) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 326](https://www.biodiversitylibrary.org/page/33258804) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3321-1), [Wikidata](https://www.wikidata.org/wiki/Q21514202). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Graham, Robert James Douglas (1884-1950), Scottish botanist, born 20 Jul 1884 in Perth, B.Sc. and M.A. 1904 Univ. of St Andrews, economic botanist in Indian Agricultural Service 1907-1917, D.Sc. 1917 Univ. of St Andrews, W.W.-I Army service as Lieut.-Col., Asst. Dir. and then Dir. of Agriculture, Mesopotamia (now Iraq) 1917-1920, lecturer in Botany, Univ. of Edinburgh 1921-1934, Prof. of Botany, Univ. of St Andrews 1934-1950, F.R.S.E. 1924, died 3 Sep 1950 in St Andrews (Fife). 
-**Abbreviated name**: *R.J.D. Graham*
+**Abbreviated name**: *R.J.D. Graham* \[standard form in IPNI: *R.J.D.Graham*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33355433) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33355433) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6185-1), [Wikidata](https://www.wikidata.org/wiki/Q1507103). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marzell, Heinrich (1885-1970), German botanist, classicist and linguist; Dr. phil. München 1911; from 1918-1950 high school teacher at the Realschule Gunzenhausen; Leibnitz Medaille 1954. 
-**Abbreviated name**: *Marzell*
+**Abbreviated name**: *Marzell* \[standard form in IPNI: *Marzell*\]
 
 #### Herbarium and types
 

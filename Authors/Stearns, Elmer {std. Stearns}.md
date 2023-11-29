@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33333992) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33333992) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10045-1), [Wikidata](https://www.wikidata.org/wiki/Q36550609). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stearns, Elmer (*fl*. 1912), American(?), botanist at the College of Agriculture, Ciudad Juárez, Mexico; collected in Texas, New Mexico and Mexico. 
-**Abbreviated name**: *Stearns*
+**Abbreviated name**: *Stearns* \[standard form in IPNI: *E.Stearns*\]
 
 #### Herbarium and types
 

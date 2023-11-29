@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33264851) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33264851) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/30891-1), [Wikidata](https://www.wikidata.org/wiki/Q18590757). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Andrews, Albert Le Roy (1878-1961), American bryologist and philologist, studied at Williams College at Williamstown, Mass., grad. 1899, M.A. 1902; teacher in preparatory schools in Vermont and Pennsylvania 1899-1902; at Harvard 1902-1903 studying Indo-European languages, M.A. Harvard 1903, instructor in German at the University of West Virginia 1903-1904, Dartmouth College 1904-1905, studied in Europe (Berlin, Kiel, Copenhagen, Christiania \[Oslo\]), Ph.D. Kiel 1908; instructor in German and Scandinavian langauges at Cornell University 1909, asst. professor 1919, professor of Germanic philology 1931, chairman of the German Department 1924-1928, professor emeritus 1946, spare-time bryologist, associate editor of the Bryologist 1938-1949, section editor for bryophytes for Biological Abstracts 1927-1961. 
-**Abbreviated name**: *A.L. Andr.*
+**Abbreviated name**: *A.L. Andr.* \[standard form in IPNI: *A.L.Andrews*\]
 
 #### Herbarium and types
 

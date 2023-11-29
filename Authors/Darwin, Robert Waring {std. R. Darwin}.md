@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33120731) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33120731) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2002-1), [Wikidata](https://www.wikidata.org/wiki/Q1555142). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Darwin, Robert Waring (1724-1816), British physician and botanist, brother of Erasmus Darwin. 
-**Abbreviated name**: *R. Darwin*
+**Abbreviated name**: *R. Darwin* \[standard form in IPNI: *R.W.Darwin*\]
 
 #### Herbarium and types
 

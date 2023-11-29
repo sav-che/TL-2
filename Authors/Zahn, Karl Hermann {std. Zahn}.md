@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33066851) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33066851) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11976-1), [Wikidata](https://www.wikidata.org/wiki/Q91040). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zahn, Karl Hermann (1865-1940), German (Baden) botanist (specialist on Hieracium); studied at a teachers college in Karlsruhe 1884-1885; from 1891 high school teacher in Heidelberg, Freiburg and Donaueschingen; from 1923 professor of geometry, chemistry and building material technology at the Karlsruhe Technical College; from 1931 in retirement, from 1934 in Haigerloch (Hohenzollern). 
-**Abbreviated name**: *Zahn*
+**Abbreviated name**: *Zahn* \[standard form in IPNI: *Zahn*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33068969) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33068969) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5218-1), [Wikidata](https://www.wikidata.org/wiki/Q6109498). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Laing, Robert Malcolm (1865-1941), New Zealand botanist; M. A. Canterbury, N.Z. 1889; master at Otago Boy's High School 1886-1924; specialist on New Zealand marine algae. 
-**Abbreviated name**: *Laing*
+**Abbreviated name**: *Laing* \[standard form in IPNI: *Laing*\]
 
 #### Herbarium and types
 

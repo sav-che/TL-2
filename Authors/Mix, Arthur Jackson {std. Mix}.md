@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33355613) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33355613) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23484-1), [Wikidata](https://www.wikidata.org/wiki/Q21521581). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mix, Arthur Jackson (1888-1956), American mycologist, Ph. D. Cornell 1916; LL. D. h. c. Hamilton College 1953; at the University of Kansas from 1916; authority on *Taphrina*. 
-**Abbreviated name**: *Mix*
+**Abbreviated name**: *Mix* \[standard form in IPNI: *Mix*\]
 
 #### Herbarium and types
 

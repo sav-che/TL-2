@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33068354) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33068354) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3750-1), [Wikidata](https://www.wikidata.org/wiki/Q69414). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hayne, Friedrich Gottlob (1763-1832), German botanist and pharmacist at Berlin. 
-**Abbreviated name**: *Hayne*
+**Abbreviated name**: *Hayne* \[standard form in IPNI: *Hayne*\]
 
 #### Herbarium and types
 

@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265103) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33265103) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/15791-1), [Wikidata](https://www.wikidata.org/wiki/Q213687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Batsch, August Johann Georg Carl {std. Batsch}|first entry]] for this author
 
 ### Author
 
 \* Batsch, August Johann Georg Carl \[Karl\] (1761-1802), German botanist at Jena, studied at the University of Jena, Dr. phil. 1781, spent some time in Jena, Weimar, and Köstriz studying mainly botany, Dr. med. and e.o. professor of natural history 1786, professor of medicine 1787, ordinary professor of philosophy 1792, prolific author, especially on systematic botany, in contact with Goethe (morphology). 
-**Abbreviated name**: *Batsch*
+**Abbreviated name**: *Batsch* \[standard form in IPNI: *Batsch*\]
 
 #### Herbarium and types
 

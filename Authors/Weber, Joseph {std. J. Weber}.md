@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33066470) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33066470) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/35139-1), [Wikidata](https://www.wikidata.org/wiki/Q13103378). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weber, Joseph (1856-1908), Luxemburg botanist. 
-**Abbreviated name**: *J. Weber*
+**Abbreviated name**: *J. Weber* \[standard form in IPNI: *J.Weber*\]
 
 #### Herbarium and types
 

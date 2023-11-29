@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33333152) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33333152) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8917-1), [Wikidata](https://www.wikidata.org/wiki/Q1066128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sargent, Charles Sprague (1841-1927), American (Bostonian) botanist and dendrologist; graduated from Harvard 1862; in the Civil War 1862-1865; travelled in Europe 1865-1868; professor of horticulture at Harvard 1870; Arnold professor of arboriculture ib. 1879-1927; founder (1872) and first director of the Arnold Arboretum of Harvard University 1872-1927; travelled and collected extensively in the United States, the West Indies, Mexico and Japan; active conservationist; LL.D. h.c. Harvard 1901. 
-**Abbreviated name**: *Sarg.*
+**Abbreviated name**: *Sarg.* \[standard form in IPNI: *Sarg.*\]
 
 #### Herbarium and types
 

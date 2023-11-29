@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/page/33190394) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 923](https://www.biodiversitylibrary.org/page/33190394) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8643-1), [Wikidata](https://www.wikidata.org/wiki/Q36616869). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rotheray, Lister (*fl*. 1900), British author of a flora of Skipton (West Yorkshire). 
-**Abbreviated name**: *Rotheray*
+**Abbreviated name**: *Rotheray* \[standard form in IPNI: *Rotheray*\]
 
 #### Herbarium and types
 

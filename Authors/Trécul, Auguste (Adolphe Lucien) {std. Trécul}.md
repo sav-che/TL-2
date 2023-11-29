@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33212497) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33212497) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10804-1), [Wikidata](https://www.wikidata.org/wiki/Q2871434). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trécul, Auguste \[Adolphe Lucien\] (1818-1896), French botanist; studied pharmacy at Paris (Maître de pharmacie 1845) but dedicating himself to botany; travelled in North America 1848-1850; from 1850 working at the Muséum d'Histoire naturelle, Paris without official status. 
-**Abbreviated name**: *Trécul*
+**Abbreviated name**: *Trécul* \[standard form in IPNI: *Trécul*\]
 
 #### Herbarium and types
 

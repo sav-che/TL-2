@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 721](https://www.biodiversitylibrary.org/page/33212763) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 721](https://www.biodiversitylibrary.org/page/33212763) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12968-1), [Wikidata](https://www.wikidata.org/wiki/Q21611697). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Viallanes, \[Jacques Joseph\] Alfred (1828-1899), French botanist; state exam. pharm. 1854; pharmacist at Dijon 1854-1862; teacher for pharmacy and toxicology at the Dijon medical and pharmaceutical school 1862-1864, for natural history 1866-1879; professor of pharmacy and materia medica ib. 1879-1898. 
-**Abbreviated name**: *Viallanes*
+**Abbreviated name**: *Viallanes* \[standard form in IPNI: *Viall.*\]
 
 #### Herbarium and types
 

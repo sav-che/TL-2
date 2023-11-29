@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 734](https://www.biodiversitylibrary.org/page/33190205) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 734](https://www.biodiversitylibrary.org/page/33190205) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8303-1), [Wikidata](https://www.wikidata.org/wiki/Q3126829). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Resvoll-Holmsen, Hanna \[Marie\] (1873-1943), Norwegian botanist; sister of T.R. Resvoll; married 1909 Gunnar Holmsen; lecturer plant geography Oslo 1921-1938. 
-**Abbreviated name**: *Resvoll-Holmsen*
+**Abbreviated name**: *Resvoll-Holmsen* \[standard form in IPNI: *Resv.-Holms.*\]
 
 #### Herbarium and types
 

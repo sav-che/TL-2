@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-09-14 09:02:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33120724) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33120724) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1968-1), [Wikidata](https://www.wikidata.org/wiki/Q4154159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dalzell, Nicol (Nicholas) Alexander {std. Dalzell} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dalzell, Nicol(Nicholas)Alexander (1817-1878), Scottish botanist and forester, conservator of forests at Bombay 1841-1870. 
-**Abbreviated name**: *Dalzell*
+**Abbreviated name**: *Dalzell* \[standard form in IPNI: *Dalzell*\]
 
 #### Herbarium and types
 

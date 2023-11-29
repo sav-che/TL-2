@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33258697) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33258697) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19342-1), [Wikidata](https://www.wikidata.org/wiki/Q21339920). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gillet, Abel (1857-1927), French teacher, bureaucrat and lichenologist, born 30 Oct 1857 in Chauffourt (Haute-Marne), teacher, Dépt. Côte-d'Or, then bureaucrat, Paris, died 12 Nov 1927, Saint-Mammès, nr. Moret-sur-Loing (Seine-et-Marne). 
-**Abbreviated name**: *A. Gillet*
+**Abbreviated name**: *A. Gillet* \[standard form in IPNI: *A.Gillet*\]
 
 #### Herbarium and types
 

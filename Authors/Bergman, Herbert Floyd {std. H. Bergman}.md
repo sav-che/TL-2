@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33265292) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 95](https://www.biodiversitylibrary.org/page/33265292) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/692-1), [Wikidata](https://www.wikidata.org/wiki/Q21505995). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bergman, Herbert Floyd (1883-?), American botanist and phytopathologist, B.S. Kansas College 1905, M.S. Minnesota 1915, PH.D. (botany) 1918, assistant in botany Kansas College 1906-1908, assistant professor at North Dakota College 1908-1912, id. Minnesota 1912-1917, assistant pathologist U.S.D.A. 1917-1919, professor of botany Hawaii 1919-1929, senior pathologist from 1929. 
-**Abbreviated name**: *H. Bergman*
+**Abbreviated name**: *H. Bergman* \[standard form in IPNI: *H.Bergman*\]
 
 #### Herbarium and types
 

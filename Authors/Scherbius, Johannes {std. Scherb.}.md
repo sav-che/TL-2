@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33333278) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33333278) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9057-1), [Wikidata](https://www.wikidata.org/wiki/Q4523032). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scherbius, Johannes (1769-1813), German (Frankfurt a.M.) botanist and physician; Dr. med. Jena 1790, later practicing physician at Frankfurt a.M. and associated with the Senckenberg Institute. 
-**Abbreviated name**: *Scherb.*
+**Abbreviated name**: *Scherb.* \[standard form in IPNI: *Scherb.*\]
 
 #### Herbarium and types
 

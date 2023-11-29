@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33189612) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33189612) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7450-1), [Wikidata](https://www.wikidata.org/wiki/Q21522740). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Peck, Franz Gustav Magnus (1817-1892), German (Niederlausitz) botanist at Görlitz; studied law at Berlin; from 1839-1843 law court official (Kammergerichtsreferendar, "Auskultator") at Görlitz; 1843-1845 id. Berlin; from 1845 judge at various stations, ultimately president of the district court at Schweidnitz 1867-1883; from 1884-1892 in retirement at Görlitz. 
-**Abbreviated name**: *F. Peck*
+**Abbreviated name**: *F. Peck* \[standard form in IPNI: *F.Peck*\]
 
 #### Herbarium and types
 

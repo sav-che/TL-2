@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33121068) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 937](https://www.biodiversitylibrary.org/page/33121068) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3115-1), [Wikidata](https://www.wikidata.org/wiki/Q1614331). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Geuns, Matthias van (1735-1817), Dutch botanist at Utrecht. 
-**Abbreviated name**: *M. Geuns*
+**Abbreviated name**: *M. Geuns* \[standard form in IPNI: *M.Geuns*\]
 
 #### Herbarium and types
 

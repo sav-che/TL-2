@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33120792) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33120792) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18103-1), [Wikidata](https://www.wikidata.org/wiki/Q2397814). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dodge, Bernard Ogilvie {std. B.O. Dodge} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dodge, Bernard Ogilvie (1872-1960), American mycologist, cytologist, geneticist, and phytopathologist. 
-**Abbreviated name**: *B. O. Dodge*
+**Abbreviated name**: *B. O. Dodge* \[standard form in IPNI: *B.O.Dodge*\]
 
 #### Herbarium and types
 

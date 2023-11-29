@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33120869) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33120869) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2494-1), [Wikidata](https://www.wikidata.org/wiki/Q5644009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Eisenach, Paul Heinrich Otto {std. Eisenach} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Eisenach, Paul Heinrich Otto (1847-1917), German physician, magistrate and botanist at Rotenburg. 
-**Abbreviated name**: *Eisenach*
+**Abbreviated name**: *Eisenach* \[standard form in IPNI: *Eisenach*\]
 
 #### Herbarium and types
 

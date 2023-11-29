@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 901](https://www.biodiversitylibrary.org/page/33190372) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 901](https://www.biodiversitylibrary.org/page/33190372) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12791-1), [Wikidata](https://www.wikidata.org/wiki/Q200564). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ross, \[Sir\] James Clark (1800-1862), British (English) arctic and antarctic explorer; in the Royal Navy, lieutenant 1822; with W.E. Parry in voyages of 1819-1820, 1821-1823, 1824-1825 and 1827; commander of the antarctic expedition of 1839-1843 (botanist: J.D. Hooker); ultimately (1858) rear-admiral; nephew of Sir John Ross. 
-**Abbreviated name**: *J.C. Ross*
+**Abbreviated name**: *J.C. Ross* \[standard form in IPNI: *J.C.Ross*\]
 
 #### Herbarium and types
 

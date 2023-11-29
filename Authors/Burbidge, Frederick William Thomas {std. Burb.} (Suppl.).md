@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33266530) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33266530) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1286-1), [Wikidata](https://www.wikidata.org/wiki/Q5499059). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Burbidge, Frederick William Thomas {std. Burb.}|first entry]] for this author
 
 ### Author
 
 \* Burbidge, Frederick William Thomas (1847-1905), English botanist, born at Wymeswold, Leicestershire, gardener in the gardens of the Royal Horticultural Society at Chiswick, gardener at Kew 1868-1870, on the staff of "The Garden" 1873-1877, collected living plants for Messrs. James Veitch & Sons in North Borneo, Sulu Archipelago, Philipp. Isl. 1877-1879, curator of the Botanic Garden of Trinity College, Dublin 1879-1905, master of arts honoris causa of Dublin University 1889. 
-**Abbreviated name**: *Burb.*
+**Abbreviated name**: *Burb.* \[standard form in IPNI: *Burb.*\]
 
 #### Herbarium and types
 

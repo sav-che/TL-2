@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2018-05-20 00:12:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33264794) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33264794) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/139-1), [Wikidata](https://www.wikidata.org/wiki/Q115721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Allamand, Frédéric {std. Allam.}|first entry]] for this author
 
 ### Author
 
 \* Allamand, Jean Frédéric François Louis (1735, 1736 (baptized) – c. 1803), Swiss physician, Dr. med. Leiden 1749, correspondent of Linnaeus, in Suriname 1755-1770, making various expeditions ca. 1759-1760, went to Essequibo, Guyana ca. 1756. 
-**Abbreviated name**: *Allam.*
+**Abbreviated name**: *Allam.* \[standard form in IPNI: *F.Allam.*\]
 
 #### Herbarium and types
 

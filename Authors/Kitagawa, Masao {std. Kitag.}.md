@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-09-16 07:57:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33068797) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33068797) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4818-1), [Wikidata](https://www.wikidata.org/wiki/Q1031993). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kitagawa, Masao (1909-x), Japanese botanist at the Biological Institute, Yokohama National University; before 1940 in Manchuria. 
-**Abbreviated name**: *Kitag.*
+**Abbreviated name**: *Kitag.* \[standard form in IPNI: *Kitag.*\]
 
 #### Herbarium and types
 

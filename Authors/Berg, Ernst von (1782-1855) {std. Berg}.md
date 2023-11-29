@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33265280) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33265280) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/675-1), [Wikidata](https://www.wikidata.org/wiki/Q20066995). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Berg, Ernst von (1782-1855), German landowner in Neuenkirchen in Mecklenburg-Strelitz. 
-**Abbreviated name**: *Berg*
+**Abbreviated name**: *Berg* \[standard form in IPNI: *Berg*\]
 
 #### Herbarium and types
 

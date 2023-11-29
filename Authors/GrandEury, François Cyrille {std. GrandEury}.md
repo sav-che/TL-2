@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/page/33121110) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/page/33121110) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3325-1), [Wikidata](https://www.wikidata.org/wiki/Q5768115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[GrandEury, François Cyrille {std. GrandEury} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Grand'Eury, François Cyrille (1839-1917), French palaeontologist. 
-**Abbreviated name**: *Grand'Eury*
+**Abbreviated name**: *Grand'Eury* \[standard form in IPNI: *Grand'Eury*\]
 
 #### Collections
 

@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33355690) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33355690) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6703-1), [Wikidata](https://www.wikidata.org/wiki/Q6140090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Motley, James (x-1859), British civil engineer and botanist; collected in Malaysia 1852-1853; later at Borneo; murdered at Kampong Kalangan (Bandjermasin). 
-**Abbreviated name**: *Motley*
+**Abbreviated name**: *Motley* \[standard form in IPNI: *Motley*\]
 
 #### Herbarium and types
 

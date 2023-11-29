@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33120970) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33120970) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18830-1), [Wikidata](https://www.wikidata.org/wiki/Q2833396). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fischer von Waldheim, Alexander A. {std. A.A. Fisch. Waldh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fischer von Waldheim, Alexander Alexandrovitch (1839-1920), Russian botanist, grandson of G. Fischer von Waldheim. 
-**Abbreviated name**: *A. Fisch. v. Waldh.*
+**Abbreviated name**: *A. Fisch. v. Waldh.* \[standard form in IPNI: *A.A.Fisch.Waldh.*\]
 
 #### Herbarium and types
 

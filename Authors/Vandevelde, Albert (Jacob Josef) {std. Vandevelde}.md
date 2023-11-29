@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33212705) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33212705) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12963-1), [Wikidata](https://www.wikidata.org/wiki/Q21611453). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vandevelde, Albert \[Jacob Josef\] (1871-?), Belgian food technologist, chemist and botanist; Dr. rer. nat. Gent 1893; assistant for chemistry at Gent University 1891; director of the municipal laboratory Gent 1900; professor of technology at the "École professionelle" ib. 1904, later in charge of the Service phytopathologique at Ledeberg. 
-**Abbreviated name**: *Vandevelde*
+**Abbreviated name**: *Vandevelde* \[standard form in IPNI: *Vandev.*\]
 
 #### Herbarium and types
 

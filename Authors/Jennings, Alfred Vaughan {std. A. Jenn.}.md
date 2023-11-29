@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33068679) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33068679) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4470-1), [Wikidata](https://www.wikidata.org/wiki/Q21516992). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jennings, Alfred Vaughan (1864-1903), British botanist and geologist; demonstrator in botany at Dublin; collected in New Zealand. 
-**Abbreviated name**: *A. Jenn.*
+**Abbreviated name**: *A. Jenn.* \[standard form in IPNI: *A.Jenn.*\]
 
 #### Herbarium and types
 

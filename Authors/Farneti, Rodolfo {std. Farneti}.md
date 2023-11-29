@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33259551) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33259551) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/14313-1), [Wikidata](https://www.wikidata.org/wiki/Q21512625). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Farneti, Rodolfo (1859-1919), Italian botanist interested in cryptogams and plant pathology, born 17 Feb 1859 in Chiesina, a village of Lizzano in Belvedere (Bologna), asst., cryptogamic lab., Univ. of Pavia 1886, published extensively on the diseases and pests of economically important plants, died 18 Jan (not Feb) 1919 in Vidiciatico (Bologna). 
-**Abbreviated name**: *Farneti*
+**Abbreviated name**: *Farneti* \[standard form in IPNI: *Farneti*\]
 
 #### Herbarium and types
 

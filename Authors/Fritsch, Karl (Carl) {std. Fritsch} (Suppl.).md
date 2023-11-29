@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33258492) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33258492) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2924-1), [Wikidata](https://www.wikidata.org/wiki/Q78835). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fritsch, Karl, Jr. {std. Fritsch}|first entry]] for this author
 
 ### Author
 
 \* Fritsch, Karl \[Carl\] (1864-1934), Austrian botanist, born 24 Feb 1864 in Vienna, studied natural history in Innsbruck 1882-1883 and Vienna 1883-1886, Dr. phil. 1886 Vienna, volunteer at the Naturhistorischen Hofmuseum, Vienna 1889, habilitation 1890, demonstrator of systematic botany, Inst. of Plant Physiology 1892 and prof. 1896, Univ. of Vienna, moved to Univ. of Graz 1900 where he became full prof. 1905, died 17 Jan 1934 in Graz. 
-**Abbreviated name**: *Fritsch*
+**Abbreviated name**: *Fritsch* \[standard form in IPNI: *Fritsch*\]
 
 #### Note
 

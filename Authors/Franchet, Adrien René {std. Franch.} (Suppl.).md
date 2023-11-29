@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33259876) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33259876) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2869-1), [Wikidata](https://www.wikidata.org/wiki/Q377208). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Franchet, Adrien René {std. Franch.}|first entry]] for this author
 
 ### Author
 
 \* Franchet, Adrien René (1834-1900), French botanist, born 21 Apr 1834 in Pézou (Loireet-Cher), from an early age interested in natural sciences, conservator of the mineralogical and anthropological collections of the Marquis de Vibraye at the château de Cour-Cheverny (Loire-et-Cher) 1857-1880, went to the Muséum natl. d'Histoire naturelle, Paris 1881, subsequently conservator of the herb. of E. Drake del Castillo, but returned to the museum in Paris 1886, president, Société Botanique de France 1898, esp. interested in the floras of Japan and China, died 15 Feb 1900 in Paris. 
-**Abbreviated name**: *Franch.*
+**Abbreviated name**: *Franch.* \[standard form in IPNI: *Franch.*\]
 
 #### Herbarium and types
 

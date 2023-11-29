@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33265343) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33265343) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/739-1), [Wikidata](https://www.wikidata.org/wiki/Q21506041). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Betcke, Ernst Friedrich {std. Betcke}|first entry]] for this author
 
 ### Author
 
 \* Betcke, Ernst Friedrich (1815-1865), German (Mecklenburg) physician in Pentzlin. 
-**Abbreviated name**: *Betcke*
+**Abbreviated name**: *Betcke* \[standard form in IPNI: *Betcke*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33266325) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33266325) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1080-1), [Wikidata](https://www.wikidata.org/wiki/Q21506431). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brandt, \[Andreas\] Wilhelm \[Heinrich\] (1879-1929), German pharmacist, born at Seckenheim, Baden, educated at schools at Rothenfelde nr. Osnabrück and Schalke nr. Gelsenkirchen, at gymnasia at Schalke and Elberfeld, pharmaceutical apprenticeship at Barmen 1898-1900, stage at Elberfeld 1901-1903, id. Stettin 1903-1904, pharmacist at Elberfeld 1904-1911, studied again in Berlin 1913, Dr. phil. University Berlin 1915, botany with Engler and Gilg, assistant at the Botanical Institute, Frankfurt a. M. 1916, habil. Bot. & Pharmacogn. 1917, extraord. professor for pharmacognosy 1919-1927. 
-**Abbreviated name**: *W. Brandt*
+**Abbreviated name**: *W. Brandt* \[standard form in IPNI: *W.Brandt*\]
 
 #### Herbarium and types
 

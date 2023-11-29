@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33333566) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33333566) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9359-1), [Wikidata](https://www.wikidata.org/wiki/Q21608535). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwarzenbach, Marthe (1900-x), Swiss (Zürich) high school teacher and botanist; Dr. phil. Zürich (student of A. Ernst) 1926. 
-**Abbreviated name**: *Schwarzenbach*
+**Abbreviated name**: *Schwarzenbach* \[standard form in IPNI: *M.Schwarzenb.*\]
 
 #### Herbarium and types
 

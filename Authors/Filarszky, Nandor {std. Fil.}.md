@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33120961) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 830](https://www.biodiversitylibrary.org/page/33120961) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2725-1), [Wikidata](https://www.wikidata.org/wiki/Q979863). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Filarszky, Nándor (a.k.a. Ferdinand) {std. Fil.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Filarszky, Nandor (1858-1941), Hungarian algologist. 
-**Abbreviated name**: *Filarszky*
+**Abbreviated name**: *Filarszky* \[standard form in IPNI: *Fil.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/page/33334021) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/page/33334021) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10091-1), [Wikidata](https://www.wikidata.org/wiki/Q19965533). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stemler, Johann Gottlieb (1788-x), Ruthenian-German ("rutheno-variscus") botanist; Dr. phil. Jena 1810, Dr. med. Würzburg 1811; practicing physician (1811), later regional physician in Zeulenroda (Vogtland). 
-**Abbreviated name**: *Stemler*
+**Abbreviated name**: *Stemler* \[standard form in IPNI: *Stemler*\]
 
 #### Herbarium and types
 

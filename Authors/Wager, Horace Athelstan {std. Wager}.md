@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33066309) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 7](https://www.biodiversitylibrary.org/page/33066309) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11300-1), [Wikidata](https://www.wikidata.org/wiki/Q21611955). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wager, Horace Athelstan (1876-1951), English botanist; went to South Africa 1903; professor of botany and zoology Transvaal University College (later Pretoria University). 
-**Abbreviated name**: *Wager*
+**Abbreviated name**: *Wager* \[standard form in IPNI: *Wager*\]
 
 #### Herbarium and types
 

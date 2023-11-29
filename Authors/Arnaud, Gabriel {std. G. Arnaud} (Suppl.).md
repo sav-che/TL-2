@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33264887) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33264887) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/272-1), [Wikidata](https://www.wikidata.org/wiki/Q21338864). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arnaud, Gabriel {std. G. Arnaud}|first entry]] for this author
 
 ### Author
 
 \* Arnaud, Gabriel (1882-1957), French phytopathologist, Ing. agr., École natl. Agric. Montpellier 1902, assistant ib. 1902-1913, chef des travaux pratiques Station Pathologie végétale de Versailles 1913-1947 (1919 assistant director, 1923 director), Dr. Sci. Paris 1918, also professor of phytopathology École natl. Hort. Versailles 1937-1947. 
-**Abbreviated name**: *G. Arnaud*
+**Abbreviated name**: *G. Arnaud* \[standard form in IPNI: *G.Arnaud*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33189668) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33189668) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7571-1), [Wikidata](https://www.wikidata.org/wiki/Q47124357). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petersen, Karl (*fl*. 1929), German botanist. 
-**Abbreviated name**: *K. Petersen*
+**Abbreviated name**: *K. Petersen* \[standard form in IPNI: *K.Petersen*\]
 
 #### Herbarium and types
 

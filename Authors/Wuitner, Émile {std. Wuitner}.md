@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33066814) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33066814) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11897-1), [Wikidata](https://www.wikidata.org/wiki/Q20972195). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wuitner, Émile (1865-1946), French algologist, packer in a Paris department store; inspector with the Paris gas-works, ultimately copy editor for scientific publications with the firm of Paul Lechevalier; self-taught scientist. 
-**Abbreviated name**: *Wuitner*
+**Abbreviated name**: *Wuitner* \[standard form in IPNI: *Wuitner*\]
 
 #### Herbarium and types
 

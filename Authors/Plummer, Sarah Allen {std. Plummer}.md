@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33189774) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33189774) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7766-1), [Wikidata](https://www.wikidata.org/wiki/Q4815030). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Plummer, Sarah Allen (1836-1923), American botanist and plant collector, active in California; married John Gill Lemmon in 1880. 
-**Abbreviated name**: *Plummer*
+**Abbreviated name**: *Plummer* \[standard form in IPNI: *Plummer*\]
 
 #### Herbarium and types
 

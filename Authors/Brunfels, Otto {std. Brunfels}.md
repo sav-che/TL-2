@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33120513) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33120513) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1227-1), [Wikidata](https://www.wikidata.org/wiki/Q63206). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brunfels, Otto (1488-1534), German botanist, physician and theologian. 
-**Abbreviated name**: *Brunfels*
+**Abbreviated name**: *Brunfels* \[standard form in IPNI: *Brunfels*\]
 
 #### Herbarium and types
 

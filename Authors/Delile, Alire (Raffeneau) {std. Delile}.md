@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33120747) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33120747) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17907-1), [Wikidata](https://www.wikidata.org/wiki/Q1340280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Delile (also Raffeneau Delile), Alire {std. Delile} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Delile, Alire (Raffeneau) (1778-1850), French botanist and physician who accompanied Napoleon to Egypt and who travelled in North Carolina; professor of botany at Montpellier 1819-1850. 
-**Abbreviated name**: *Delile*
+**Abbreviated name**: *Delile* \[standard form in IPNI: *Delile*\]
 
 #### Herbarium and types
 

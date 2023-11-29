@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33068661) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33068661) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/20874-1), [Wikidata](https://www.wikidata.org/wiki/Q5937009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 James, Joseph Francis (1857-1897), American naturalist; from 1881-1886 professor of medical botany at Cincinnati College of Pharmacy and custodian of the Society of Natural History (Cincinnati); from 1886-1888 professor of botany and geology at Miami University, Oxford, Ohio; from 1889-1891 assistant palaeontologist with the USGS; from 1891-1897 vegetable pathologist at USDA. 
-**Abbreviated name**: *J. James*
+**Abbreviated name**: *J. James* \[standard form in IPNI: *J.James*\]
 
 #### Herbarium and types
 

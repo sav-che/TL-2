@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33258956) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33258956) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3512-1), [Wikidata](https://www.wikidata.org/wiki/Q3155761). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Györffy, István {std. Györffy}|first entry]] for this author
 
 ### Author
 
 \* Győrffy, István (latter often abbreviated "J.") (1880-1959), Hungarian bryologist, born 19 Dec 1880 in Hidasnémeti, studied in Makó, lived in Löcsén and collected mosses in the Tatra Mts., habilitation 1913 Franz-Joseph Univ. in Cluj (then Kolozsvár in Hungary, now Romania) and became prof. there from 1915 until Transylvania became Romanian and the Univ. moved to Szeged (1919-1940) where he founded a new inst., a botanical garden and a botanical journal (*Folia Cryptogamica*), returned to Cluj (Kolozsvár) 1940-1945, after W.W.-II took refuge in Salzburg, Austria but moved again, died 19 Apr 1959 in Csákvár (or Székesfehévár?). 
-**Abbreviated name**: *Győrffy*
+**Abbreviated name**: *Győrffy* \[standard form in IPNI: *Györffy*\]
 
 #### Note
 

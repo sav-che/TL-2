@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33258587) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 109](https://www.biodiversitylibrary.org/page/33258587) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2997-1), [Wikidata](https://www.wikidata.org/wiki/Q12329973). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Galløe, Olaf {std. Galløe}|first entry]] for this author
 
 ### Author
 
 \* Galløe, Olaf (1881-1965), Danish lichenologist, born 22 Jun 1881 in Copenhagen, Mag. scient. 1907 and Dr. phil. 1913 Univ. of Copenhagen, grammar school teacher, "Øster Borgerdydskole", Copenhagen, 1909-1948, died 24 Dec 1965 in Lyngby nr. Copenhagen. 
-**Abbreviated name**: *Galløe*
+**Abbreviated name**: *Galløe* \[standard form in IPNI: *Galløe*\]
 
 #### Herbarium and types
 

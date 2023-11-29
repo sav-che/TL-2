@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33258883) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33258883) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3402-1), [Wikidata](https://www.wikidata.org/wiki/Q19560623). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Groenhart, Pieter {std. Groenh.}|first entry]] for this author
 
 ### Author
 
 \* Groenhart, Pieter (1894-1965), Dutch lichenologist, born in Ilpendam, schoolteacher in The Netherlands 1916-1926, to Java in Aug 1926, stationed at Batavia, then taught at School of Agriculture in Malang (E. Java) until 1940, studied biology, Utrecht 1932-1936, returned to Indonesia and Buitenzorg, working one day per week in the herb., briefly at Leiden 1947, returned again to Indonesia but ultimately settled in The Netherlands, died 3 Nov 1965 in Oegstgeest (Leiden). 
-**Abbreviated name**: *Groenh.*
+**Abbreviated name**: *Groenh.* \[standard form in IPNI: *Groenh.*\]
 
 #### Note
 

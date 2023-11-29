@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33189775) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33189775) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7769-1), [Wikidata](https://www.wikidata.org/wiki/Q6169986). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pobedimova, Evgeniia Georgievna (1898-1973), Russian botanist at the Komarov Botanical Institute; travelled in Central Asia (1932), Mongolia (1930, 1931), Caucasia (1946, 1949), Altai (1953) and Crimea (1947, 1949). 
-**Abbreviated name**: *Pobed.*
+**Abbreviated name**: *Pobed.* \[standard form in IPNI: *Pobed.*\]
 
 #### Herbarium and types
 

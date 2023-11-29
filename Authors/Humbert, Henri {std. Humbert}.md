@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33068604) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33068604) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4221-1), [Wikidata](https://www.wikidata.org/wiki/Q2738811). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Humbert, Henri (1887-1967), French botanist and botanical traveller at Paris, explorer of Madagascar. 
-**Abbreviated name**: *Humbert*
+**Abbreviated name**: *Humbert* \[standard form in IPNI: *Humbert*\]
 
 #### Herbarium and types
 

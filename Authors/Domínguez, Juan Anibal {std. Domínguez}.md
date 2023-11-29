@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33260033) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33260033) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18130-1), [Wikidata](https://www.wikidata.org/wiki/Q5947524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Domínguez, Juan Anibal (1876-1946), Argentine botanist, born 21 Mai 1876 at Salto Argentino, died 18 Oct 1946 at Buenos Aires, studied at the Colegio de la Universidad and the Facultad de Ciencias médicas, received title of pharmacist in 1896, became director of the Botanical Museum Buenos Aires. 
-**Abbreviated name**: *Domínguez*
+**Abbreviated name**: *Domínguez* \[standard form in IPNI: *Domínguez*\]
 
 #### Herbarium and types
 

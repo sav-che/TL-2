@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/page/33258939) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/page/33258939) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/37855-1), [Wikidata](https://www.wikidata.org/wiki/Q3132667). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Guppy, Henry Brougham (1854-1926), English geologist interested in isls. and seed and plant dispersal by water, born 23 Dec 1854 in Falmouth (Cornwall), educated at King's School, Sherborne, Queen's College, Birmingham, Medical School of St. Bartholomew's Hospital, M.B. 1876 and C.M., Edinburgh Univ., surgeon in Royal Navy 1876-1885, served on the China Station 1877-1880 and on the Australian Station 1881-1884, F.R.S.E. 1888, F.L.S. (Gold Medal) and F.R.S. 1918, died 23 Apr 1926 on board *El Kantara* in Martinique (remains interred at Seaton). 
-**Abbreviated name**: *Guppy*
+**Abbreviated name**: *Guppy* \[standard form in IPNI: *H.B.Guppy*\]
 
 #### Note
 

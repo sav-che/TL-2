@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33258580) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33258580) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2983-1), [Wikidata](https://www.wikidata.org/wiki/Q16030789). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gaillard, Albert {std. Gaillard}|first entry]] for this author
 
 ### Author
 
 \* Gaillard, Albert (1858-1903), French pharmacist and mycologist, born 5 Sep 1858 in Neuillysur-Seine nr. Paris, curator of the Lloyd herbarium, Angers (Maine-et-Loire), collected in Venezuela 1887, Lauréat de l'Institut de France (Paris), died 28 Jul 1903 in Angers. 
-**Abbreviated name**: *Gaillard*
+**Abbreviated name**: *Gaillard* \[standard form in IPNI: *Gaillard*\]
 
 #### Herbarium and types
 

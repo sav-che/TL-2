@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33189769) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33189769) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7763-1), [Wikidata](https://www.wikidata.org/wiki/Q21606756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Plues, Margaret (c. 1840-c. 1903), British botanist; entered a roman catholic convent at Weybridge in middle-age, ultimately mother superior; in her youth a popular writer on botany. 
-**Abbreviated name**: *Plues*
+**Abbreviated name**: *Plues* \[standard form in IPNI: *Plues*\]
 
 #### Herbarium and types
 

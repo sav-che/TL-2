@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33120945) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33120945) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2641-1), [Wikidata](https://www.wikidata.org/wiki/Q6045013). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fassett, Norman Carter {std. Fassett} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fassett, Norman Carter (1900-1954), American botanist at Madison, Wisconsin. 
-**Abbreviated name**: *Fassett*
+**Abbreviated name**: *Fassett* \[standard form in IPNI: *Fassett*\]
 
 #### Herbarium and types
 

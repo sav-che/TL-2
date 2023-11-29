@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33120588) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33120588) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1410-1), [Wikidata](https://www.wikidata.org/wiki/Q4215696). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Carpenter, William (1797-1874), British naturalist. 
-**Abbreviated name**: *Carpenter*
+**Abbreviated name**: *Carpenter* \[standard form in IPNI: *Carp.*\]
 
 #### Herbarium and types
 

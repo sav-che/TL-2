@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 786](https://www.biodiversitylibrary.org/page/33190257) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 786](https://www.biodiversitylibrary.org/page/33190257) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8381-1), [Wikidata](https://www.wikidata.org/wiki/Q733709). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ridley, Henry Nicholas (1855-1956), British botanist; B.A. Oxford; assistant at the Botany Dept., Brit. Mus. 1880-1888, to Fernando do Noronha 1887; director Botanic Gardens Singapore 1888-1912; in retirement living at Kew, England; Linnean Gold Medal 1950; chief promotor of the introduction of the *Hevea* rubber trees in the Malay Peninsula. 
-**Abbreviated name**: *Ridl.*
+**Abbreviated name**: *Ridl.* \[standard form in IPNI: *Ridl.*\]
 
 #### Herbarium and types
 

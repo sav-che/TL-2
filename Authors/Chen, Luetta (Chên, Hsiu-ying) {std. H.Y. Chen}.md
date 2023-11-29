@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-10-03 13:38:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33265755) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33265755) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/13724-1), [Wikidata](https://www.wikidata.org/wiki/Q21340904). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chen, Luetta (Ch'ên, Hsiu-ying) (fl. 1934-1939), Chinese botanist, at the Lingnan Natural History Survey and Museum, Lingnan University, Canton, M.A. botany, Oberlin College, U.S.A. 1938. 
-**Abbreviated name**: *H.Y. Chen*
+**Abbreviated name**: *H.Y. Chen* \[standard form in IPNI: *H.Y.Chen*\]
 
 #### Herbarium and types
 

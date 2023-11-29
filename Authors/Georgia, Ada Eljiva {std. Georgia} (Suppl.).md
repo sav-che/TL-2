@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33258660) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33258660) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3094-1), [Wikidata](https://www.wikidata.org/wiki/Q21513902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Georgia, Ada E. {std. Georgia}|first entry]] for this author
 
 ### Author
 
 \* Georgia, Ada Eljiva (1859-1921), American botanist and educator, born in Newfield, New York, daughter of a stone mason who helped build Cornell Univ., Ithaca, New York, school teacher, Elmira, New York, asst. 1906-1911, Cornell Nature-Study Bureau, which was directed by Liberty Hyde Bailey, and instructor in farm nature-study until 1920, died 8 Jan 1921 in Ithaca. 
-**Abbreviated name**: *Georgia*
+**Abbreviated name**: *Georgia* \[standard form in IPNI: *Georgia*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33333896) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33333896) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9920-1), [Wikidata](https://www.wikidata.org/wiki/Q21609236). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Soulié, Joseph Auguste Louis (1868-1930), French botanist and clergyman; ordained 1892 (educ. Séminaire de Rodez); teacher at the Collège de St. Geniès d'Olt (Aveyron) 1891-1892; id. St. Pons (Hérault) 1905-1907, Ardouanne (id.) 1908-1910; with Jordan de Puyfol, Courbelimagne 1910-1920; in health clinics because of tuberculosis at Amélieles-Bains (1921), Engayresque (1921) and ultimately in retirement at Rivière-sur-Tarn (Aveyron) 1922-1930; active botanical explorer of the Cévennes and the Pyrenées; collaborator of H.J. Coste. 
-**Abbreviated name**: *Soulié*
+**Abbreviated name**: *Soulié* \[standard form in IPNI: *Soulié*\]
 
 #### Herbarium and types
 

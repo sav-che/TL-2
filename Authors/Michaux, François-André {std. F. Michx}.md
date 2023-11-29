@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33355546) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33355546) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12682-1), [Wikidata](https://www.wikidata.org/wiki/Q2986883). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Michaux, François-André (1770-1855), French botanist; son of André M., whom he accompanied to the United States 1785-1790; travelled again in the U.S. 1801-1803 and 1806-1807. 
-**Abbreviated name**: *F. Michx*
+**Abbreviated name**: *F. Michx* \[standard form in IPNI: *F.Michx.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33258679) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33258679) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3131-1), [Wikidata](https://www.wikidata.org/wiki/Q21513972). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gibert, Ernesto José (1818-1886), French republican, botanist and photographer, born 3 Apr 1818 in Nogent-le-Rotrou (and almost certainly as "Ernest Joseph"), studied in Amiens, then Paris, worked as a newspaper editor but his political beliefs compelled him to flee France after the Jun 1848 uprising that ultimately led to the Second Empire (1852-1870), exiled first in the U.S.A. (Calif.) and then in Chile where he began to study natural history, after joining an exped. to study the flora of Paraguay he settled in Montevideo, Uruguay 1851, collected plants in Uruguay, neighboring Brazil and Paraguay, died 8 Mar 1886 in Montevideo. 
-**Abbreviated name**: *Gibert*
+**Abbreviated name**: *Gibert* \[standard form in IPNI: *Gibert*\]
 
 #### Herbarium and types
 

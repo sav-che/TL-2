@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33212711) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33212711) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11060-1), [Wikidata](https://www.wikidata.org/wiki/Q96384). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vanhöffen, Ernst (1858-1918), German (East-Prussian) zoologist, botanist (algologist) and explorer of Greenland; studied at the University of Königsberg 1878-1886; state teacher's examination ib. 1886; assistant at the Zoological Institute, Königsberg 1886-1890 (in Naples 1889-1890); Dr. phil. ib. 1888; professor of zoology at the University of Kiel 1890-1906. 
-**Abbreviated name**: *Vanhöffen*
+**Abbreviated name**: *Vanhöffen* \[standard form in IPNI: *Vanhöffen*\]
 
 #### Herbarium and types
 

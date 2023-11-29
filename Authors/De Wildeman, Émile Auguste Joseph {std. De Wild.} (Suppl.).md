@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33259304) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33259304) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/12406-1), [Wikidata](https://www.wikidata.org/wiki/Q2628388). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[De Wildeman, Émile Auguste Joseph {std. De Wild.}|first entry]] for this author
 
 ### Author
 
 \* De Wildeman, Émile Auguste Joseph (1866-1947), Belgian botanist, born 19 Oct 1866 at Saint-Josse-ten-Noode (Brussels), at the Athénée de Bruxelles, 1883 inscribed at the Université libre de Bruxelles, became pharmacist 17 Mar 1887 (collaborateur libéral), moved to botany, "préparateur" at the Jardin Botanique, Bruxelles 1891-1931, Dr. Sci. nat. univ. Libre de Bruxelles with Leo Errera, Dr. Sci. 20 Jul 1892, savant auxiliaire 1894, conservateur at the Jardin Botanique 1900, director 1902, professor 1926, retired 1931. 
-**Abbreviated name**: *De Wild.*
+**Abbreviated name**: *De Wild.* \[standard form in IPNI: *De Wild.*\]
 
 #### Herbarium and types
 

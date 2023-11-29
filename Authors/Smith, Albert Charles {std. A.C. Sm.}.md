@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33333798) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33333798) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9770-1), [Wikidata](https://www.wikidata.org/wiki/Q1922675). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Albert Charles (1906-x), American botanist; Dr. phil. Columbia Univ. 1933; collaborator for field research at the Smithsonian Institution 1926-1928; assistant curator New York Botanical Garden 1928-1933; associate curator ib. 1934-1940; curator of the herbarium of the Arnold Arboretum 1940-1948; curator of the division of phanerogams of the U.S. natl. Mus. of the Smithsonian Institution 1948-1956; program director for systematic biology National Science Foundation 1956-1958; director of the U.S. national Museum of Natural History of the Smithsonian Institution 1958-1962; assistant secretary Smithsonian Institution 1962-1963; director of research University of Hawaii 1963-1965; Wilder professor of botany ib. 1965-1971; vice-president International Association for Plant Taxonomy 1959-1964; member of the editorial committee of the International Code of botanical nomenclature. 
-**Abbreviated name**: *A.C. Sm.*
+**Abbreviated name**: *A.C. Sm.* \[standard form in IPNI: *A.C.Sm.*\]
 
 #### Herbarium and types
 

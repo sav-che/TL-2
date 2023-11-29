@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/page/33068688) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 446](https://www.biodiversitylibrary.org/page/33068688) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4500-1), [Wikidata](https://www.wikidata.org/wiki/Q21517043). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Johann Baptist, Fabian Sebastian, Archduke of Austria (1782-1859), Austrian amateur botanist. 
-**Abbreviated name**: *Johann Baptist*
+**Abbreviated name**: *Johann Baptist* \[standard form in IPNI: *Joh.Baptist*\]
 
 #### Herbarium and types
 

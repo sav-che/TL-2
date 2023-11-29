@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33189835) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33189835) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7891-1), [Wikidata](https://www.wikidata.org/wiki/Q21523151). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Potter, Michael Cressé (1858-1948), British clergyman and botanist; BA Cambridge 1881; at Cambridge herbarium 1884-1889; professor of botany at Armstrong College, Newcastle, 1889-1925; from 1925-1948 in retirement at New Milton, Hampshire. 
-**Abbreviated name**: *Potter*
+**Abbreviated name**: *Potter* \[standard form in IPNI: *Potter*\]
 
 #### Herbarium and types
 

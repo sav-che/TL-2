@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33066736) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33066736) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11793-1), [Wikidata](https://www.wikidata.org/wiki/Q5933007). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Witasek, Johanna (1865-1910), Austrian botanist and teacher in Vienna; teacher at a girl's high school from 1891; working also with R. von Wettstein at the Botanical Institute of the University from 1899-1910. 
-**Abbreviated name**: *Witas.*
+**Abbreviated name**: *Witas.* \[standard form in IPNI: *Witasek*\]
 
 #### Herbarium and types
 

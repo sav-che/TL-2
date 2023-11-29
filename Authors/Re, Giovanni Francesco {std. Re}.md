@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33190082) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33190082) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8200-1), [Wikidata](https://www.wikidata.org/wiki/Q5687402). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Re, Giovanni Francesco (1773-1833), Italian botanist; Dr. med. Univ. Torino; practicing physician at Susa; from 1818 professor of botany, chemistry and physics at the Veterinary College at Torino.
-**Abbreviated name**: *Re*
+**Abbreviated name**: *Re* \[standard form in IPNI: *Re*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33212324) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33212324) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10613-1), [Wikidata](https://www.wikidata.org/wiki/Q3618543). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomson, Anthony Todd (1778-1849), British (Scottish) physician, MD Edinburgh 1799; practicing physician in London 1800; professor of materia medica, University College London 1828-1849, from 1839 onward also of forensic medicine. 
-**Abbreviated name**: *A.T. Thomson*
+**Abbreviated name**: *A.T. Thomson* \[standard form in IPNI: *A.T.Thomson*\]
 
 #### Herbarium and types
 

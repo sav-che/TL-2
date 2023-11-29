@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33190179) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33190179) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8276-1), [Wikidata](https://www.wikidata.org/wiki/Q63165). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reinwardt, Caspar Georg Carl (1773-1854), German (Prussian)-born Dutch botanist; to Amsterdam in 1787; studied at the Amsterdam Athenaeum; professor of natural history Harderwijk 1800-1808; Dr. h.c. Harderwijk 1800; director of Louis Napoleon's "Jardin du Roi"; 1808-1810; id. of "Cabinet d'histoire naturelle" 1810-1814" and of 's Lands Kabinet van Natuurlijke Historie" 1814-1820; professor of natural history at the Amsterdam Athenaeum 1810-1815; director of agriculture Java 1816-1822, founding (18 Mai 1817) the Buitenzorg (Bogor) botanical garden; from 1823 (appointed 1820)-1845 professor of natural history at Leiden. 
-**Abbreviated name**: *Reinw.*
+**Abbreviated name**: *Reinw.* \[standard form in IPNI: *Reinw.*\]
 
 #### Herbarium and types
 

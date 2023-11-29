@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33189584) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33189584) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7409-1), [Wikidata](https://www.wikidata.org/wiki/Q21522703). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Paulli \[Pauli\], Johan (1732-1804), Danish botanist and physician in Copenhagen. 
-**Abbreviated name**: *Paulli*
+**Abbreviated name**: *Paulli* \[standard form in IPNI: *Paulli*\]
 
 #### Herbarium and types
 

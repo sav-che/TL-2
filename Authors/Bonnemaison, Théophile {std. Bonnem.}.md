@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33120402) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33120402) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/956-1), [Wikidata](https://www.wikidata.org/wiki/Q21506293). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bonnemaison, Théophile (1773-1829), French pharmacist and naturalist. 
-**Abbreviated name**: *Bonnem.*
+**Abbreviated name**: *Bonnem.* \[standard form in IPNI: *Bonnem.*\]
 
 #### Herbarium and types
 

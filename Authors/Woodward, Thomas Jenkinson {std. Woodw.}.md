@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33066789) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33066789) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11861-1), [Wikidata](https://www.wikidata.org/wiki/Q3525258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Woodward, Thomas Jenkinson (1745-1820), British country gentleman of leisure and botanist; LLB Cambridge 1769; magistrate and deputy-lieutenant for Suffolk, later Norfolk; lieutenant-colonel of the Diss volunteers; F.L.S. 1789. 
-**Abbreviated name**: *Woodw.*
+**Abbreviated name**: *Woodw.* \[standard form in IPNI: *Woodw.*\]
 
 #### Herbarium and types
 

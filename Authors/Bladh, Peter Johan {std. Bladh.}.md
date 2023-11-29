@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33120357) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33120357) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/833-1), [Wikidata](https://www.wikidata.org/wiki/Q5578552). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bladh, Peter Johan (1746-1816), Finnish employee of the Swedish East India Company who collected in the East, mainly around Hongkong, Macao and Canton. 
-**Abbreviated name**: *Bladh.*
+**Abbreviated name**: *Bladh.* \[standard form in IPNI: *Bladh*\]
 
 #### Herbarium and types
 

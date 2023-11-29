@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33258808) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33258808) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3330-1), [Wikidata](https://www.wikidata.org/wiki/Q21606742). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Grant, Adele \[Adèle\] \[Gerard\] (née Lewis) (1881-1969), American botanist, born 3 Jul 1881 in Carpenteria, Calif., B.Sc. 1902 Univ. of Calif. at Berkeley, married George F. Grant, M.A. 1919 and Ph.D. 1923 Washington Univ., St. Louis, Missouri, botany instructor, Cornell Univ., Ithaca, New York 1920-1926, lecturer, Huguenot Univ. College, S. Afr. 1926-1930, Asst. Prof., Washington Univ. 1930-1931, lecturer, Univ. of S. Calif., retired in 1952, died 19 Jun 1969 in Los Angeles (Ingelwood). 
-**Abbreviated name**: *A.L. Grant*
+**Abbreviated name**: *A.L. Grant* \[standard form in IPNI: *A.L.Grant*\]
 
 #### Herbarium and types
 

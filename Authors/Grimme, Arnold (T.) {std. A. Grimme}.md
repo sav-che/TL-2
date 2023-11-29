@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33258873) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33258873) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19643-1), [Wikidata](https://www.wikidata.org/wiki/Q21514286). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Grimme, Arnold \[T.\] (1868-1958), German bryologist and veterinarian (Tierarzt), born 28 Nov 1868 in Bückeburg, attended veterinary school in Hannover, after military service studied botany and zoology in Berlin, began moss studies in 1895, doctorate 1902 Marburg, died 1 Nov 1958 in Kassel. 
-**Abbreviated name**: *A. Grimme*
+**Abbreviated name**: *A. Grimme* \[standard form in IPNI: *A.T.Grimme*\]
 
 #### Herbarium and types
 

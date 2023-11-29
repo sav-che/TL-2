@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33068692) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33068692) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4519-1), [Wikidata](https://www.wikidata.org/wiki/Q729850). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Johnston, Ivan Murray (1898-1960), American botanist at the Arnold Arboretum; Ph. D. Harvard 1925; in Chile 1925-1926; from 1922-1931 assistant at Gray herbarium with Robinson and Fernald; 1931-1938 research associate Arnold Arboretum; ass. professor of botany Harvard 1938-1960; ass. dir. Arnold Arboretum 1948-1953; specialist on Boraginaceae. 
-**Abbreviated name**: *I. M. Johnst.*
+**Abbreviated name**: *I. M. Johnst.* \[standard form in IPNI: *I.M.Johnst.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33266586) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33266586) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1323-1), [Wikidata](https://www.wikidata.org/wiki/Q4888621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bush, Benjamin Franklin ("Frank") (1858-1937), American botanist, ornithologist, collector, born in Columbus, Indiana, conducted a general store, (at the same time postmaster) at Courtney near Kansas City for forty years, correspondent of Asa Gray and George Engelmann, collected with C.S. Sargent of Harvard 1898-1899, employed to assist the specimens of wood for the Columbian Exposition at Chicago, collected sets of plants for botanical institutions (HH, NY, US), ultimately at Independence, Mo. 
-**Abbreviated name**: *Bush*
+**Abbreviated name**: *Bush* \[standard form in IPNI: *Bush*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33259513) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33259513) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2616-1), [Wikidata](https://www.wikidata.org/wiki/Q2337414). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Facchini, Francesco (1788-1852), Italian physician, born 24 Oct 1788 in Forno (Val di Fassa) (then part of the Austrian Empire), studied physics in Innsbruck 1807-1808, philology and philosophy at Landshut until 1810, medicine at the Univ. of Padua until 1815, physician in Val di Fassa 1821-1837, lived in Giovanni di Vigo and studied the Fassa Valley flora, died 6 Oct 1852. 
-**Abbreviated name**: *Facch.*
+**Abbreviated name**: *Facch.* \[standard form in IPNI: *Facchini*\]
 
 #### Herbarium and types
 

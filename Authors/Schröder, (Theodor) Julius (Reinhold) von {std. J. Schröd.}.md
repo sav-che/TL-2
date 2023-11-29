@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33333477) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33333477) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12846-1), [Wikidata](https://www.wikidata.org/wiki/Q21608444). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schröder, \[Theodor\] Julius \[Reinhold\] von (1843-1895), Baltic-German (Estonian-born) botanist and chemist; studied at Dorpat; assistant to Carl Schmidt ib. 1866-1868; continued his studies in Heidelberg; assistant, later professor of chemistry at the Forest College of Tharandt from 1869; specialist on tanning. 
-**Abbreviated name**: *J. Schröd.*
+**Abbreviated name**: *J. Schröd.* \[standard form in IPNI: *J.Schröd.*\]
 
 #### Herbarium and types
 

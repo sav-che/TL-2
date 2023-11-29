@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33259632) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33259632) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2678-1), [Wikidata](https://www.wikidata.org/wiki/Q168643). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fenaroli, Luigi (1899-1980), Italian agriculturalist, born 16 Mai 1899 in Milan, served in W.W.-I, studied at Milan Scuola Superiore de Agricoltura, Dr. Agric. 1921 Univ. of Milan, asst., chemical agron., Univ. of Milan 1921-1922, asst., cold experiment station, Milan 1922-1925, asst., plant pathology, Osservatorio Regionale di Fitopatologia, Brescia 1927, in Angola 1930, in Brazil 1932-1933, asst. dir., Inst. for Experimental Sylviculture, Florence 1933, Inst. for experimental culture of poplars, Casale Monferrato 1943-1946, dir., Inst. for maize culture, Bergamo 1946, dir., Inst. for forestry and apiculture, Trento 1968-1974, retired 1974, died 8 Mai 1980 in Bergamo. 
-**Abbreviated name**: *Fen.*
+**Abbreviated name**: *Fen.* \[standard form in IPNI: *Fen.*\]
 
 #### Herbarium and types
 

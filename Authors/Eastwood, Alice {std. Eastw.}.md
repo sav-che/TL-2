@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33120847) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33120847) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2445-1), [Wikidata](https://www.wikidata.org/wiki/Q460241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Eastwood, Alice {std. Eastw.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Eastwood, Alice (1859-1953), American botanist mainly working on the flora of California, curator of the herbarium at the California Academy of Sciences 1894-1949. 
-**Abbreviated name**: *Eastw.*
+**Abbreviated name**: *Eastw.* \[standard form in IPNI: *Eastw.*\]
 
 #### Herbarium and types
 

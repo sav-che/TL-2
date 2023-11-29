@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33120687) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33120687) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1828-1), [Wikidata](https://www.wikidata.org/wiki/Q616064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Coste, (Abbé) Hippolyte Jacques {std. H.J. Coste} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Coste, \[Abbé\] Hippolyte Jacques (1858-1924), French clergyman and botanist. 
-**Abbreviated name**: *Coste*
+**Abbreviated name**: *Coste* \[standard form in IPNI: *H.J.Coste*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33258901) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33258901) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3423-1), [Wikidata](https://www.wikidata.org/wiki/Q5894527). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Groves, Henry (of Clapham) {std. H. Groves}|first entry]] for this author
 
 ### Author
 
 \* Groves, Henry (1855-1912), British botanist interested in Characeae and nomenclature, born 15 Oct 1855 in London, employed as a stockbroker until 1879, then by Queen Anne's Bounty Office until his death, F.L.S. 1892, died 2 Nov 1912 in London (Clapham). 
-**Abbreviated name**: *H. Groves*
+**Abbreviated name**: *H. Groves* \[standard form in IPNI: *H.Groves*\]
 
 #### Note
 

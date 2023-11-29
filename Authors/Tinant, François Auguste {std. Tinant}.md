@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33212406) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33212406) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10680-1), [Wikidata](https://www.wikidata.org/wiki/Q8962719). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tinant, François Auguste (1803-1853), Luxemburg botanist and administrator; customs officer 1828-1839, subsequently inspector-general of forests. 
-**Abbreviated name**: *Tinant*
+**Abbreviated name**: *Tinant* \[standard form in IPNI: *Tinant*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33266399) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33266399) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1158-1), [Wikidata](https://www.wikidata.org/wiki/Q88129). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brittinger, Christian Casimir (1795-1869), Austrian pharmacist, botanist and entomologist, born in Friedberg, Hessen-Darmstadt, Germany, pharmaceutical training at the Stift Schlägel, Mühlkreis, Ober-Österreich; assistant at a pharmacy in Linz 1817, final pharmacy studies at the University of Vienna 1818, ultimately, from 1827, pharmacist in Steyr, dedicating himself as well to the botany of Ober-Österreich. 
-**Abbreviated name**: *Brittinger*
+**Abbreviated name**: *Brittinger* \[standard form in IPNI: *Brittinger*\]
 
 #### Herbarium and types
 

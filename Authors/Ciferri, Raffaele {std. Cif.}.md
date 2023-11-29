@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/page/33120634) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/page/33120634) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17265-1), [Wikidata](https://www.wikidata.org/wiki/Q4516707). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ciferri, Raffaele (Rafael) {std. Cif.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Ciferri, Raffaele (1897-1964), Italian mycologist. 
-**Abbreviated name**: *Cif.*
+**Abbreviated name**: *Cif.* \[standard form in IPNI: *Cif.*\]
 
 #### Herbarium and types
 
@@ -75,7 +74,7 @@ Saggio di una sistematica micolichenologica, *Atti Istituto botanico e Laborator
 
 **Notes**
 *Co-author*: Ruggero Tomaselli (1920-x).
-*Publ*.: Jun 1953 (date on cover of fascicle) – often quoted from 1952 but the authors themselves gave the correct date in their Publications of 1954 and 1955. The article contains a great number of names given to the fungal components of lichens. The ICBN states that "for nomenclatural purposes names given to lichens shall be considered as applying to their fungal components" (Art. 13); most of these names were therefore superfluous when published and hence illegitimate. A few names are based on type species on which so far no other generic name had been based. In order to distinguish the specific epithets in the combinations with their generic names Ciferri and Tomaselli frequently used genetive endings thus making these epithets superfluous substitutes as well. The authors Published the names in the hope that the International Botanical Congresses would accept their proposal to allow two nomenclatural systems for lichens, one for the entire plant and one for the fungal symbionts. This proposal was rejected by the 1954 Congress.
+*Publ*.: Jun 1953 (date on cover of fascicle) – often quoted from 1952 but the authors themselves gave the correct date in their Publications of 1954 and 1955. The article contains a great number of names given to the fungal components of lichens. The ICBN states that "for nomenclatural purposes names given to lichens shall be considered as applying to their fungal components" (Art. 13); most of these names were therefore superfluous when published and hence illegitimate. A few names are based on type species on which so far no other generic name had been based. In order to distinguish the specific epithets in the combinations with their generic names Ciferri and Tomaselli frequently used genetive endings thus making these epithets superfluous substitutes as well. The authors published the names in the hope that the International Botanical Congresses would accept their proposal to allow two nomenclatural systems for lichens, one for the entire plant and one for the fungal symbionts. This proposal was rejected by the 1954 Congress.
 *Ref*.: Ciferri et Tomaselli, Taxon 2: 194-196. 1953; 3: 230-231. 1954; 4: 190-192. 1955.
 - Ciferri et Tomaselli, Arch. Bot. ser. 3. 12(1): 1-15. 1952.
 - Santesson, Taxon 3: 147-148. 1954.

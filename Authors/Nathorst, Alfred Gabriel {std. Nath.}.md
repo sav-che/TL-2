@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33355779) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33355779) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6865-1), [Wikidata](https://www.wikidata.org/wiki/Q560790). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nathorst, Alfred Gabriel (1850-1921), Swedish palaeobotanist; Dr. phil. Lund 1874; lecturer at Lund 1874-1879; with the Swedish geological survey 1879-1884; from 1885-1917 professor and director of the palaeobotanical division of the Naturhistoriska Museum. 
-**Abbreviated name**: *Nath.*
+**Abbreviated name**: *Nath.* \[standard form in IPNI: *Nath.*\]
 
 #### Herbarium and types
 

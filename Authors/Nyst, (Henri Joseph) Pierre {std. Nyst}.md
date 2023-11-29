@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33355886) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 799](https://www.biodiversitylibrary.org/page/33355886) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12711-1), [Wikidata](https://www.wikidata.org/wiki/Q21522292). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nyst, \[Henri Joseph\] Pierre (1780-1846), Dutch-(Maastricht) born Belgian botanist; director of the botanical garden in Bruxelles; later curator of malacology at the Bruxelles Mus. hist. nat. 
-**Abbreviated name**: *Nyst*
+**Abbreviated name**: *Nyst* \[standard form in IPNI: *Nyst*\]
 
 #### Herbarium and types
 

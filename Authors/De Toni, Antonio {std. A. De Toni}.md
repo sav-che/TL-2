@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33259286) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33259286) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/20052277-1), [Wikidata](https://www.wikidata.org/wiki/Q108803551). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 De Toni, Antonio (1889-1915), Italian botanist (phycologist), born 6 Jun 1889 at Venezia, died 1915. 
-**Abbreviated name**: *A. De Toni*
+**Abbreviated name**: *A. De Toni* \[standard form in IPNI: *A.De Toni*\]
 
 #### Herbarium and types
 

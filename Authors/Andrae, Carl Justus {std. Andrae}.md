@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33120179) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33120179) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12325-1), [Wikidata](https://www.wikidata.org/wiki/Q16487134). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Andrä (Andrae), Carl Justus {std. Andrae} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Andrae, Carl Justus (1816-1885), German palaeobotanist, first at Halle, later at Bonn. 
-**Abbreviated name**: *Andrae*
+**Abbreviated name**: *Andrae* \[standard form in IPNI: *Andrae*\]
 
 #### Collections
 

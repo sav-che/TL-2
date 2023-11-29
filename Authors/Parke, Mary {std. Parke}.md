@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33189532) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33189532) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7340-1), [Wikidata](https://www.wikidata.org/wiki/Q6780481). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parke, Mary (1908-x), British phycologist at the Marine Biological Association, Plymouth, until March 1973. 
-**Abbreviated name**: *Parke*
+**Abbreviated name**: *Parke* \[standard form in IPNI: *Parke*\]
 
 #### Herbarium and types
 

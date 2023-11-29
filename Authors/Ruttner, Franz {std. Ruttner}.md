@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33190482) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1011](https://www.biodiversitylibrary.org/page/33190482) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8763-1), [Wikidata](https://www.wikidata.org/wiki/Q105508). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ruttner, Franz (1882-1961), Sudeten-German (Bohemia-born) limnologist, hydrobiologist and botanist; studied with H. Molisch at Praha (Karls-Universität); Dr. phil. ib. 1906; assistant at the Biological Station of Lunz am See, Austria, 1906-1908; director ib. 1908– 1957; habil. University of Vienna 1924; professor of hydrobiology 1927; with A. Thienemann on the Deutsche limnologische Sunda-Expedition 1928-1929; Einar Naumann medal 1942. 
-**Abbreviated name**: *Ruttner*
+**Abbreviated name**: *Ruttner* \[standard form in IPNI: *Ruttner*\]
 
 #### Herbarium and types
 

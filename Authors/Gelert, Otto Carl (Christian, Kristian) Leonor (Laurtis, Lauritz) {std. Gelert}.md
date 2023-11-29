@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33258648) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33258648) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3075-1), [Wikidata](https://www.wikidata.org/wiki/Q4993035). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gelert, Otto Carl \[Christian, Kristian\] Leonor \[Laurtis, Lauritz\] (1862-1899), Danish batologist and floristic taxonomist, born 9 Nov 1862 in Nybol, pharmacy examination 1883, worked as a druggist then in a sugar refinery and finally at the Botanical Museum, Copenhagen, visited Canary Islands 1897, died of consumption (phthisis) 20 Mar 1899 in Copenhagen. 
-**Abbreviated name**: *Gelert*
+**Abbreviated name**: *Gelert* \[standard form in IPNI: *Gelert*\]
 
 #### Herbarium and types
 

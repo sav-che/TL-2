@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33068764) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33068764) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4733-1), [Wikidata](https://www.wikidata.org/wiki/Q5764886). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ker, Charles Henry Bellenden (1785?-1871), British botanist and legal reformer; barrister at Lincoln's Inn; son of John Bellenden Ker. 
-**Abbreviated name**: *Ker*
+**Abbreviated name**: *Ker* \[standard form in IPNI: *Ker*\]
 
 #### Herbarium and types
 

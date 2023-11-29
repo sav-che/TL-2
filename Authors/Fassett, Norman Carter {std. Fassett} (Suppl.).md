@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33259564) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33259564) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2641-1), [Wikidata](https://www.wikidata.org/wiki/Q6045013). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fassett, Norman Carter {std. Fassett}|first entry]] for this author
 
 ### Author
 
 \* Fassett, Norman Carter (1900-1954), American botanist, born 27 Mar 1900 in Ware, Mass., attended school in Leominster, Mass., B.S. 1922, M.A. 1923 and Ph.D. 1925 Harvard Univ., Cambridge, Mass., teaching asst. in mycology, Radcliffe College, Cambridge, Mass. 1923-1924, instructor 1925, Asst. Prof. 1929, Assoc. Prof. 1937, full Prof. 1944 and Curator of the herb. 1937-1954, all Univ. of Wisconsin at Madison, member *Cinchona* expeds. in Colombia during W.W.-II, president, A.S.P.T. 1954, specialist in aquatic plants, died 14 Sep 1954 at Boothbay Harbor, Maine. 
-**Abbreviated name**: *Fassett*
+**Abbreviated name**: *Fassett* \[standard form in IPNI: *Fassett*\]
 
 #### Herbarium and types
 

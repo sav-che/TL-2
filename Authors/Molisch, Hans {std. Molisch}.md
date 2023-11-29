@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33355637) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33355637) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23537-1), [Wikidata](https://www.wikidata.org/wiki/Q85666). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Molisch, Hans (1856-1937), Moravian (Austrian) botanist; Dr. phil. Wien 1879; habil. id. 1885; at the Pflanzenphysiol. Inst. Wien 1880-1889; at Graz and Praha 1889-1908; from 1909-1928 director of the Pflanzenphysiol. Inst. Wien. 
-**Abbreviated name**: *Molisch*
+**Abbreviated name**: *Molisch* \[standard form in IPNI: *Molisch*\]
 
 #### Herbarium and types
 

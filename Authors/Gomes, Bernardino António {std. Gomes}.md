@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33258766) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33258766) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3251-1), [Wikidata](https://www.wikidata.org/wiki/Q8246813). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gomes, Bernardino António (1768-1823), Portuguese physician, chemist, botanist and parasitologist, born 29 Oct 1768 in Paredes de Coura, studied medicine at Univ. of Coimbra and graduated Mai 1793, named surgeon to the Royal Navy 1797, resided in Brazil 1797-1801, returned to Portugal and worked as a physician in military hospitals, introduced smallpox vaccination to Portugal 1812, returned briefly to Rio de Janeiro 1817, died 13 Jan 1823 in Lisbon. 
-**Abbreviated name**: *Gomes*
+**Abbreviated name**: *Gomes* \[standard form in IPNI: *Gomes*\]
 
 #### Note
 

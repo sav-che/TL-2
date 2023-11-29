@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33120958) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33120958) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18777-1), [Wikidata](https://www.wikidata.org/wiki/Q1597002). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ficinus, Heinrich David August (1782-1857), German botanist at the medical academy at Dresden. 
-**Abbreviated name**: *Ficinus*
+**Abbreviated name**: *Ficinus* \[standard form in IPNI: *Ficinus*\]
 
 #### Herbarium and types
 

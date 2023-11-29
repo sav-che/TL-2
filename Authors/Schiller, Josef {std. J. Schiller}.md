@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33333297) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33333297) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9082-1), [Wikidata](https://www.wikidata.org/wiki/Q15999513). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schiller, Josef (1877-1960), Bohemian-born Austrian hydrobiologist and algologist; Dr. phil. Wien 1905; botanical assistant at the Triest zoological station 1905-1910; high school teacher ib. 1909; high school teacher in Wien from 1911, continuing his participation in the Austrian research of the Adriatic with the "Najade"; habil. Wien 1917; lecturer in botanical hydrobiology at the University of Wien from 1918, from 1927 with the title of extraordinary professor; gave practical hydrobiological courses also at Helgoland (1925-1930), Ragusa (Dubrovnik) 1926, Spolato (Split) 1928, and Rovigno d'Istria 1937. Retired officially ca. 1938, continuing his algological research. 
-**Abbreviated name**: *J. Schiller*
+**Abbreviated name**: *J. Schiller* \[standard form in IPNI: *J.Schiller*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33190375) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 904](https://www.biodiversitylibrary.org/page/33190375) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8621-1), [Wikidata](https://www.wikidata.org/wiki/Q499985). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rossi, Pietro (1738-1804), Italian botanist and entomologist at Pisa. 
-**Abbreviated name**: *P. Rossi*
+**Abbreviated name**: *P. Rossi* \[standard form in IPNI: *Rossi*\]
 
 #### Herbarium and types
 

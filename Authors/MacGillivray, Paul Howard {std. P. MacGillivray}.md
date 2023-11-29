@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33355308) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33355308) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5920-1), [Wikidata](https://www.wikidata.org/wiki/Q7152132). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 MacGillivray, Paul Howard (1834-1895), Scottish botanist and zoologist; MA Aberdeen 1854; in Australia 1855, from 1857 practicing medicine at Bendigo, Victoria; son of William MacGillivray (1796-1852). 
-**Abbreviated name**: *P. MacGillivray*
+**Abbreviated name**: *P. MacGillivray* \[standard form in IPNI: *P.MacGill.*\]
 
 #### Herbarium and types
 

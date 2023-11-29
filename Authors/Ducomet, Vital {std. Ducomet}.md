@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33260130) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33260130) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/34309-1), [Wikidata](https://www.wikidata.org/wiki/Q36695352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ducomet, Vital (fl. 1899-1931), French botanist, plant pathologist and mycologist, specialist in cultivated plants, docteur ès sciences, honorary professor at the Institut national agronomique, director of the botanical garden at Grignon (Seine-et-Oise) 1915-1931. 
-**Abbreviated name**: *Ducomet*
+**Abbreviated name**: *Ducomet* \[standard form in IPNI: *Ducomet*\]
 
 #### Herbarium and types
 

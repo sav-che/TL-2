@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33333409) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33333409) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9189-1), [Wikidata](https://www.wikidata.org/wiki/Q68249). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schneider, Camillo Karl (1876-1951), German (Saxonian) botanist (dendrologist); studied in Wien with Richard von Wettstein 1901-1909; general secretary and traveller for the Dendrologische Gesellschaft für Österreich-Ungarn; travelled in the Balkan Peninsula and the Caucasus 1907-1908; in Western China 1913-1914; with the Arnold Arboretum 1915-1919; from 1921 garden architect, horticultural journalist and author in Berlin. 
-**Abbreviated name**: *C.K. Schneid.*
+**Abbreviated name**: *C.K. Schneid.* \[standard form in IPNI: *C.K.Schneid.*\]
 
 #### Herbarium and types
 

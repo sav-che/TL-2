@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33212454) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33212454) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10764-1), [Wikidata](https://www.wikidata.org/wiki/Q312959). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tournefort, Joseph Pitton de (1656-1708), French botanist; botanised in S.E. France with Charles Plumier 1678; studied with Pierre Magnol in Montpellier 1679-1680; travelled in the Eastern Pyrenees and Spain 1681; took medical degree in Montpellier 1682; at Aix 1682-1683; assistant to Guy Fagon at the Jardin du Roi, Paris 1683-1708, from 1693 replacing Fagon; professor of botany ib. 1708; travelled in S. France (1685, 1686), England (1687), Eastern Pyrenees and Spain 1687; in the Provence 1688 (Dr. med. Faculté d'Orange), in Spain and Portugal 1688-1689; Lic. méd. Faculté de Médecine, Paris 1695; Dr. med. ib. 1696; travelled in the Levant 1700-1702; professor at the Collège Royal 1706. 
-**Abbreviated name**: *Tourn.*
+**Abbreviated name**: *Tourn.* \[standard form in IPNI: *Tourn.*\]
 
 #### Herbarium and types
 

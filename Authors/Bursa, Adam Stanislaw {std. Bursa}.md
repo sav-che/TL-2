@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33266574) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33266574) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/32601-1), [Wikidata](https://www.wikidata.org/wiki/Q21506709). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bursa, Adam Stanislaw (1908-x), Polish botanist (algologist) working on marine and fresh water Dinoflagellata, moved to Canada, employed by the Arctic Research Unit of the Fishery Board of Canada. 
-**Abbreviated name**: *Bursa*
+**Abbreviated name**: *Bursa* \[standard form in IPNI: *Bursa*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33355684) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33355684) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23660-1), [Wikidata](https://www.wikidata.org/wiki/Q21521766). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morthier, Paul (1823-1886), Swiss botanist at Neuchâtel (Corcelles), director of the Société helvétique pour l'échange des plantes. 
-**Abbreviated name**: *Morthier*
+**Abbreviated name**: *Morthier* \[standard form in IPNI: *Morthier*\]
 
 #### Herbarium and types
 

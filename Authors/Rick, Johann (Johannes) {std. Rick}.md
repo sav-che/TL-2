@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 780](https://www.biodiversitylibrary.org/page/33190251) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 780](https://www.biodiversitylibrary.org/page/33190251) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8373-1), [Wikidata](https://www.wikidata.org/wiki/Q15740229). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rick, Johann \[Johannes\] (1869-1946), Austrian mycologist and clergyman (S. J.); high school teacher at the Stella Matutina, Feldkirch, Vorarlberg 1894-1898; from 1899-1902 at Valkenburg, Netherlands, for theological studies; in 1903 at Barro in Portugal studying Portugese; from 1903-1915 teacher at the Jesuit College at S. Leopoldo, Rio Grande do Sul, Brazil; from 1915 doing social work; from 1929 professor of theology in the Seminary of S. Leopoldo; from 1942-1946 at S. Salvador, Rio Grande do Sul. 
-**Abbreviated name**: *Rick*
+**Abbreviated name**: *Rick* \[standard form in IPNI: *Rick*\]
 
 #### Herbarium and types
 

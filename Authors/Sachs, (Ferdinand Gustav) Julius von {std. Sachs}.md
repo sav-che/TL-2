@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1040](https://www.biodiversitylibrary.org/page/33190511) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1040](https://www.biodiversitylibrary.org/page/33190511) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12807-1), [Wikidata](https://www.wikidata.org/wiki/Q61650). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sachs, \[Ferdinand Gustav\] Julius von (1832-1897), German (Silesian) botanist; outstanding plant physiologist; draftsman with J.E. Purkyné at Praha 1849-1851; studied at Praha University 1851-1856; Dr. phil. ib. 1856; habil. ib. 1857; teaching plant physiology at Praha 1857-1859; assistant at the Forestry College of Tharandt (nr. Dresden) 1859; id. at Poppelsdorf (nr. Bonn) 1859-1867; professor of botany Freiburg i.B. 1867-1868; full professor of botany at Würzburg 1868-1897; Geheimrat 1877; most influential nineteenth century botanist in promoting experimental botany. 
-**Abbreviated name**: *Sachs*
+**Abbreviated name**: *Sachs* \[standard form in IPNI: *Sachs*\]
 
 #### Herbarium and types
 

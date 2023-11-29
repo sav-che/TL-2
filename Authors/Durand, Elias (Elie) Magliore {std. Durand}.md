@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/page/33120838) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/page/33120838) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2394-1), [Wikidata](https://www.wikidata.org/wiki/Q949682). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Durand, Elias (Elie) Magliore {std. Durand} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Durand, Elias \[Elie\] Magliore (1794-1873), French botanist who resided in the United States from 1816-1873. 
-**Abbreviated name**: *E. M. Durand*
+**Abbreviated name**: *E. M. Durand* \[standard form in IPNI: *Durand*\]
 
 #### Herbarium and types
 

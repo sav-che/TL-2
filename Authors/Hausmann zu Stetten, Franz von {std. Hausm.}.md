@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33068345) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33068345) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12533-1), [Wikidata](https://www.wikidata.org/wiki/Q5868718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hausmann zu Stetten, Franz von (1810-1878), Austrian botanist, Freiherr zum Stein unter Lebenberg, Lanegg und Greiffenegg. 
-**Abbreviated name**: *Hausm.*
+**Abbreviated name**: *Hausm.* \[standard form in IPNI: *Hausm.*\]
 
 #### Bibliography and biography
 

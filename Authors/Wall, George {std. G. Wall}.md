@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33066373) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33066373) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11343-1), [Wikidata](https://www.wikidata.org/wiki/Q21612053). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wall, George (1821-1894), British merchant, planter, newspaper editor and pteridologist; in Ceylon from 1846-1894; friend of G.H.K. Thwaites. 
-**Abbreviated name**: *G. Wall*
+**Abbreviated name**: *G. Wall* \[standard form in IPNI: *G.Wall*\]
 
 #### Herbarium and types
 

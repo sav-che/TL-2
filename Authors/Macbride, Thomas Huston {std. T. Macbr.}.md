@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33355298) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33355298) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22674-1), [Wikidata](https://www.wikidata.org/wiki/Q7790931). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Macbride, Thomas Huston (1848-1934), American mycologist, M. A. Monmouth College 1873; Ph. D. h. c. Bonn 1891; at Lennox College 1870-1878; from 1878 at the University of Iowa. 
-**Abbreviated name**: *T. Macbr.*
+**Abbreviated name**: *T. Macbr.* \[standard form in IPNI: *T.Macbr.*\]
 
 #### Herbarium and types
 

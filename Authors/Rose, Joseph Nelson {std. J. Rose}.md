@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 884](https://www.biodiversitylibrary.org/page/33190355) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 884](https://www.biodiversitylibrary.org/page/33190355) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8586-1), [Wikidata](https://www.wikidata.org/wiki/Q1336049). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rose, Joseph Nelson (1862-1928), American botanist; Dr. phil. Wabash, student of J.M. Coulter; assistant botanist USDA, Washington 1888-1896; assistant curator for botany at the Smithsonian Institution 1896-1905; associate curator ib. 1905-1912 and 1923-1928; research associate of the Carnegie Institution of Washington to work on the Cactaceae of the world with N.L. Britton 1912-1923; collected extensively in Mexico, the Central and Southwestern United States and South America; co-author, with N.L. Britton, of the treatments of Leguminosae for the North American Flora. 
-**Abbreviated name**: *J. Rose*
+**Abbreviated name**: *J. Rose* \[standard form in IPNI: *Rose*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33212049) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33212049) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10211-1), [Wikidata](https://www.wikidata.org/wiki/Q36617486). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Strehler, Ludwig F. (*fl*. 1841), German (Bavarian) botanist and high school teacher at the "Landwirthschafts- und Gewerbs-Schule" at Ingolstadt. 
-**Abbreviated name**: *Strehler*
+**Abbreviated name**: *Strehler* \[standard form in IPNI: *Strehler*\]
 
 #### Herbarium and types
 

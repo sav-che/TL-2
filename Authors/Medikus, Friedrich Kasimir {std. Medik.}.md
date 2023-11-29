@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33355481) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 394](https://www.biodiversitylibrary.org/page/33355481) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6296-1), [Wikidata](https://www.wikidata.org/wiki/Q77464). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Medikus, Friedrich Kasimir (1736-1808) \[Medicus, Friedrich Casimir\], German botanist; in charge of the Mannheim botanic garden from 1766; at Schwetzingen and Mannheim. 
-**Abbreviated name**: *Medik.*
+**Abbreviated name**: *Medik.* \[standard form in IPNI: *Medik.*\]
 
 #### Herbarium and types
 

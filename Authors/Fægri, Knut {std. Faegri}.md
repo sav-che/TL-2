@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33259514) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33259514) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2617-1), [Wikidata](https://www.wikidata.org/wiki/Q1384033). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fægri, Knut (1909-2001), Norwegian botanist, born 17 Jul 1909 in Bergen, studied in Bergen, then Oslo, Dr. phil. 1934 Univ. of Oslo, freelance botanist, Bergens Museum 1934-1945, prof. of systematic botany and plant geography, Bergens Museum (from 1948 Univ. of Bergen) 1945-1975, incl. dean of faculty of mathematics and natural science 1959-1965, general secretary and president I.U.B.S. 1968-1973, dir. Norwegian Arboretum 1975-1979, retired 1979, Dr. h.c. 1977 Univ. of Uppsala, Commander of the Royal Order of St. Olav 1980, Corr. Member, B.S.A., specialist in pollination ecology and pollen analysis, died 10 Dec 2001 in Bergen. 
-**Abbreviated name**: *Faegri*
+**Abbreviated name**: *Faegri* \[standard form in IPNI: *Faegri*\]
 
 #### Herbarium and types
 

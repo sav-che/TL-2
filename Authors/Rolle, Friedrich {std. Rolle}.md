@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33190343) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33190343) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8554-1), [Wikidata](https://www.wikidata.org/wiki/Q1347877). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rolle, Friedrich (1827-1887), German (Hesse-Nassau) palaeobotanist; Dr. phil. Tübingen 1851; in Austria at Graz for the geognostic survey of Styria 1853-1859; at the Hofmineralien-Cabinett Wien 1859-1860; from 1860 at Homburg as private scientist, studying the geology and palaeontology of the Homburg von der Höhe region. 
-**Abbreviated name**: *Rolle*
+**Abbreviated name**: *Rolle* \[standard form in IPNI: *Rolle*\]
 
 #### Herbarium and types
 

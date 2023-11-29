@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 687](https://www.biodiversitylibrary.org/page/33212729) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 687](https://www.biodiversitylibrary.org/page/33212729) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11105-1), [Wikidata](https://www.wikidata.org/wiki/Q19215060). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Veesenmeyer, Karl Gustav (1814-1901), German physician, traveller and botanist; studied theology at Tübingen 1833-1834, 1836-1837; vicar on the Schwäbische Alp 1838; studied medicine at Heidelberg 1840-1842; Dr. med. ib. 1842; private physician to Sir Mervin Stuart in Ireland 1842-1844; id. with the Chowanski family from 1845 in Germany and Russia; state medical examination Kasan 1847; with Claus on an expedition around the Caspian Sea 1852; professor of medicine in Ulm 1853-1885, from 1866 also municipal librarian. 
-**Abbreviated name**: *Veesenm.*
+**Abbreviated name**: *Veesenm.* \[standard form in IPNI: *Veesenm.*\]
 
 #### Herbarium and types
 

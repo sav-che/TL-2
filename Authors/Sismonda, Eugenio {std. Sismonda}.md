@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33333762) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33333762) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9705-1), [Wikidata](https://www.wikidata.org/wiki/Q21608993). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sismonda, Eugenio (1815-1870), Italian palaeontologist; Dr. med. Torino 1839. 
-**Abbreviated name**: *Sismonda*
+**Abbreviated name**: *Sismonda* \[standard form in IPNI: *Sismonda*\]
 
 #### Herbarium and types
 

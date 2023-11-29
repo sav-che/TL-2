@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2014-06-28 01:58:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33265957) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33265957) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1748-1), [Wikidata](https://www.wikidata.org/wiki/Q2966075). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Colomb, \[Marie-Louis\] Georges (1856-?), French botanist, born at Lure, Haute-Saône, educated at the École normale supérieure, préparateur de botanique à la Faculté des Sciences de Paris, Dr. Sci. nat. 1887. 
-**Abbreviated name**: *Colomb*
+**Abbreviated name**: *Colomb* \[standard form in IPNI: *Colomb*\]
 
 #### Herbarium and types
 

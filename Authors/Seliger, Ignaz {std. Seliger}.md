@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33333637) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33333637) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9456-1), [Wikidata](https://www.wikidata.org/wiki/Q12318106). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seliger, Ignaz (1752-1812), German (Silesian) clergyman and botanist at Wölfeisdorf; early student of Silesian cryptogams. 
-**Abbreviated name**: *Seliger*
+**Abbreviated name**: *Seliger* \[standard form in IPNI: *Seliger*\]
 
 #### Herbarium and types
 

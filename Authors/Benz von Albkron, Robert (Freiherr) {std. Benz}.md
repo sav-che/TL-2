@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33265278) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33265278) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/670-1), [Wikidata](https://www.wikidata.org/wiki/Q21505975). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Benz von Albkron, Robert \[Freiherr\] (1863-1921), Austrian administrator and botanist, Bezirkshauptmann in Welsberg in Kärnten, ultimately living in Innsbruck. 
-**Abbreviated name**: *Benz*
+**Abbreviated name**: *Benz* \[standard form in IPNI: *Benz*\]
 
 #### Herbarium and types
 

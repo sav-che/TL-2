@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33260078) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33260078) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18194-1), [Wikidata](https://www.wikidata.org/wiki/Q18149528). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Drechsler, Charles Frank (1892-1986), American botanist (plant pathologist), born 1 Mai 1892 at Buttenut (Wisc.), B.S. Wisconsin 1913, M.S. in 1914, Ph.D. in mycology at Harvard in 1917, assistant Agric. Exper. Sta. Connecticut 1916, field assistant U.S.D.A. bureau plant industry 1917-1918, scientific assistant 1919-1920, assistant pathologist 1920-1924, assoc. pathol. 1924-1929, pathologist 1929-1953, mycologist from 1953. 
-**Abbreviated name**: *Drechsler*
+**Abbreviated name**: *Drechsler* \[standard form in IPNI: *Drechsler*\]
 
 #### Herbarium and types
 

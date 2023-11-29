@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33120597) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33120597) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12375-1), [Wikidata](https://www.wikidata.org/wiki/Q958431). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cassini, Alexandre-Henri Gabriel, de (1781-1832), French botanist. 
-**Abbreviated name**: *Cass.*
+**Abbreviated name**: *Cass.* \[standard form in IPNI: *Cass.*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33069084) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 842](https://www.biodiversitylibrary.org/page/33069084) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/22133-1), [Wikidata](https://www.wikidata.org/wiki/Q981710). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Le Monnier, \[Lemonnier\] Louis Guillaume (1717-1799), French botanist at Paris, pupil of Bernard de Jussieu, state physician, professor of botany at the Jardin du Roi (1758-1786), sent Michaux to the Near East, Aublet to Guyana, Desfontaines to North Africa and Labillardière to the Lebanon. 
-**Abbreviated name**: *Le Monn.*
+**Abbreviated name**: *Le Monn.* \[standard form in IPNI: *Le Monn.*\]
 
 #### Herbarium and types
 

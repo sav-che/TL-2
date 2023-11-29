@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 962](https://www.biodiversitylibrary.org/page/33121093) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 962](https://www.biodiversitylibrary.org/page/33121093) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3220-1), [Wikidata](https://www.wikidata.org/wiki/Q55038745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Goebel, Karl Christian Traugott Friedemann (1794-1851), German botanist and pharmacist at Dorpat. 
-**Abbreviated name**: *K. C. T. Goebel*
+**Abbreviated name**: *K. C. T. Goebel* \[standard form in IPNI: *Goebel*\]
 
 #### Herbarium and types
 

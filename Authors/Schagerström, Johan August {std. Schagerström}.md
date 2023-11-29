@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33333254) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33333254) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9012-1), [Wikidata](https://www.wikidata.org/wiki/Q21607857). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schagerström, Johan August (1818-1867), Swedish botanist; studied at Uppsala University; Dr. phil. ib. 1845;lecturer in practical economy 1846, from 1853 university clerk in Uppsala. 
-**Abbreviated name**: *Schagerström*
+**Abbreviated name**: *Schagerström* \[standard form in IPNI: *Schag.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33333989) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33333989) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10044-1), [Wikidata](https://www.wikidata.org/wiki/Q1484289). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stearn, William Thomas (1911-x), British botanist; apprentice antiquarian bookseller Cambridge 1929-1932; librarian Royal Horticultural Society 1933-1941, 1946-1952; with Royal Air Force in Britain, India and Birma 1941-1946; botanist British Museum (Nat. Hist.) 1952-1976; founder member of the Society for the Bibliography of Natural History; D.Sc.h.c. Leiden 1960; Hon. Sc.D. Cambridge 1967; Dr. phil. h.c. Uppsala 1972; Linnean gold medal 1976; commander of the Royal Order of the Northern Star 1980, etc. etc.; outstanding botanical historian and bibliographer, a modern Linnaeus; through his continued support and stimulation godfather of TL-2. 
-**Abbreviated name**: *Stearn*
+**Abbreviated name**: *Stearn* \[standard form in IPNI: *Stearn*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33212153) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33212153) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12908-1), [Wikidata](https://www.wikidata.org/wiki/Q21610082). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Svensson, \[after 1896: Wange\], Nikolaus Alexis (1871-?), Swedish botanist and physician; pharm. ex. 1895; Med. lic. Lund 1905; provincial physician Målilla distr. (Kalmar län) 1917. 
-**Abbreviated name**: *N. Svenss.*
+**Abbreviated name**: *N. Svenss.* \[standard form in IPNI: *N.Svenss.*\]
 
 #### Herbarium and types
 

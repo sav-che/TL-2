@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33120657) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 526](https://www.biodiversitylibrary.org/page/33120657) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1740-1), [Wikidata](https://www.wikidata.org/wiki/Q5719708). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Collett, Henry {std. Collett} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Collett, \[Sir\] Henry (1836-1901), British colonial army officer, botanist and collector. 
-**Abbreviated name**: *Collett*
+**Abbreviated name**: *Collett* \[standard form in IPNI: *Collett*\]
 
 #### Herbarium and types
 

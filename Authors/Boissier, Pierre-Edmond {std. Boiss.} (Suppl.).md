@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33265476) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33265476) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16284-1), [Wikidata](https://www.wikidata.org/wiki/Q34430). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boissier, Pierre Edmond {std. Boiss.}|first entry]] for this author
 
 ### Author
 
 \* Boissier, Pierre-Edmond (1810-1885), Swiss botanist and traveller, Geneva born, educated at home with a private teacher (J.L. Vallette), studied at the Académie \[University\] de Genève, student with Auguste-Pyramus de Candolle, studied in Paris 1831-1832 with J. Gay and Ph.-Barker Webb, travelled and botanized in Italy 1833, idem in Spain 1837, in S.E. Europe 1842, in Egypt, Arabia petraea, Palestine and Syria 1846, in Algeria 1849, in Norway 1861, built up a large herbarium, later called Herbier Boissier. 
-**Abbreviated name**: *Boiss.*
+**Abbreviated name**: *Boiss.* \[standard form in IPNI: *Boiss.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33334037) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33334037) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10115-1), [Wikidata](https://www.wikidata.org/wiki/Q21609818). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stern, Kurt (1892-x), German (Silesian) botanist; studied law in Berlin and natural sciences in Breslau and München; Dr. phil. München 1914; student of K. v. Goebel. 
-**Abbreviated name**: *K. Stern*
+**Abbreviated name**: *K. Stern* \[standard form in IPNI: *K.Stern*\]
 
 #### Herbarium and types
 

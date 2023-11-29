@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33333888) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 749](https://www.biodiversitylibrary.org/page/33333888) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9900-1), [Wikidata](https://www.wikidata.org/wiki/Q21609214). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Soppitt, Henry Thomas (1858-1899), British (Yorkshire) mycologist and drysalter, in Bradford until 1894; in Halifax 1894-1899. 
-**Abbreviated name**: *Soppitt*
+**Abbreviated name**: *Soppitt* \[standard form in IPNI: *Soppitt*\]
 
 #### Herbarium and types
 

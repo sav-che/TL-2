@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 783](https://www.biodiversitylibrary.org/page/33190254) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 783](https://www.biodiversitylibrary.org/page/33190254) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12773-1), [Wikidata](https://www.wikidata.org/wiki/Q21607206). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rickett, Theresa Cecil, née Bauchman (1902-x), American botanist; married 28 Aug 1923, Madison, Wisc., Harold William Rickett; Wisconson State Teacher's College (Stevens Point) 1919; BS Univ. Wisconsin 1922; high school teacher at Friendship, Wisc. 1919-1920, Columbus, Wisc. 1922-1923. 
-**Abbreviated name**: *T. Rickett*
+**Abbreviated name**: *T. Rickett* \[standard form in IPNI: *T.Rickett*\]
 
 #### Herbarium and types
 

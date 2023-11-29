@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33120594) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 463](https://www.biodiversitylibrary.org/page/33120594) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1435-1), [Wikidata](https://www.wikidata.org/wiki/Q3107130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Casaretto, Giovanni {std. Casar.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Casaretto, Giovanni (1812-1879), Italian physician, botanist and traveller. 
-**Abbreviated name**: *Casar.*
+**Abbreviated name**: *Casar.* \[standard form in IPNI: *Casar.*\]
 
 #### Herbarium and types
 

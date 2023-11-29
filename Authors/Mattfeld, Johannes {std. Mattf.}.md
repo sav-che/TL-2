@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33355457) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33355457) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6232-1), [Wikidata](https://www.wikidata.org/wiki/Q96745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mattfeld, Johannes (1895-1951), German botanist at Berlin-Dahlem, pupil of Engler; Dr. phil. Berlin 1920; from 1919-1951 at the Botanical Museum, Berlin-Dahlem. 
-**Abbreviated name**: *Mattf.*
+**Abbreviated name**: *Mattf.* \[standard form in IPNI: *Mattf.*\]
 
 #### Herbarium and types
 

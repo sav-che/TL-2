@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33190059) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33190059) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8163-1), [Wikidata](https://www.wikidata.org/wiki/Q21606997). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rau, Eugene Abraham (1848-1932), American botanist at Bethlehem, Pa. 
-**Abbreviated name**: *Rau*
+**Abbreviated name**: *Rau* \[standard form in IPNI: *Rau*\]
 
 #### Herbarium and types
 

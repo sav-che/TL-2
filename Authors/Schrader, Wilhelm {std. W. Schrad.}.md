@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33333460) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33333460) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9251-1), [Wikidata](https://www.wikidata.org/wiki/Q21608407). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schrader, Wilhelm (1818-1895), German (Prussian-Saxony) mathematician, botanist and high school teacher; Dr. phil. Halle, teacher at Halle and Erfurt. 
-**Abbreviated name**: *W. Schrad.*
+**Abbreviated name**: *W. Schrad.* \[standard form in IPNI: *W.Schrad.*\]
 
 #### Herbarium and types
 

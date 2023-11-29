@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33259649) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33259649) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2691-1), [Wikidata](https://www.wikidata.org/wiki/Q2656885). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fernald, Merritt Lyndon {std. Fernald}|first entry]] for this author
 
 ### Author
 
 \* Fernald, Merritt Lyndon (1873-1950), American botanist, born 5 Oct 1873 in Orono, Maine, educated at Maine State College of Agriculture and Mechanic Arts (now Univ. of Maine at Orono) and Lawrence Scientific School of Harvard Univ., Cambridge, Mass., asst. 1891-1902, Gray Herb., Harvard Univ. (recruited by Sereno Watson), B.Sci. (magna cum laude) 1897 Harvard College, instructor 1902-1905, asst. prof. 1905-1915, Fisher Prof. of Natural History 1915-1947, curator 1935-1937 and dir. of the Gray Herb. 1937-1947, all Harvard Univ., D.C.L. 1933 Acadia Univ. and D.Sc. 1938 Univ. of Montreal, F.L.S., president A.S.P.T. 1938 and B.S.A. 1940, author of more than 830 papers (!), recipient of numerous awards, died 22 Sep 1950 in Cambridge, Mass. 
-**Abbreviated name**: *Fernald*
+**Abbreviated name**: *Fernald* \[standard form in IPNI: *Fernald*\]
 
 #### Herbarium and types
 

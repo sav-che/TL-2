@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33260297) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 309](https://www.biodiversitylibrary.org/page/33260297) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18462-1), [Wikidata](https://www.wikidata.org/wiki/Q6206643). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ellis, Job Bicknell {std. Ellis}|first entry]] for this author
 
 ### Author
 
 \* Ellis, Job Bicknell (1829-1905), American botanist, born in Potsdam (state of New York) on 21 Jan 1829, attended the local school and worked on his father's farm until he was 16, became at that age teacher at a school in the nearby village of Stockholm, went to Union College in Scheneestady in 1849, A.B. in 1851 (later A.M.), went to Germantown (Pa.) to teach, later that year (1851) to Albany Academy as classical tutor, returned to Potsdam 1852, principal of Canton Academy on 1856, from 1878 devoted himself completely to the study of fungi, collecting and issuing sets of New Jersey fungi, later with Everhart Fungi Columbiana and North American Pyrenomycetes, died 30 Dec 1905 at Newfield. 
-**Abbreviated name**: *Ellis*
+**Abbreviated name**: *Ellis* \[standard form in IPNI: *Ellis*\]
 
 #### Herbarium and types
 

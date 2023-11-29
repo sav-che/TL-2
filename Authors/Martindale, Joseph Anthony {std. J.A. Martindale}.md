@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33355409) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33355409) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6164-1), [Wikidata](https://www.wikidata.org/wiki/Q21340621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Martindale, Joseph Anthony (1837-1914), British headmaster at Staveley 1859-1902; lichenologist, naturalist, archeologist and linguist. 
-**Abbreviated name**: *J. A. Martindale*
+**Abbreviated name**: *J. A. Martindale* \[standard form in IPNI: *J.A.Martind.*\]
 
 #### Herbarium and types
 

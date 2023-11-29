@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33189597) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33189597) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7429-1), [Wikidata](https://www.wikidata.org/wiki/Q21522725). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Payne, Frederick William (1852-1927), British diatomist; schoolmaster at the Brighton Grammar School 1873-1876; at the City of London School, 1876-1919; BA London 1871. 
-**Abbreviated name**: *Payne*
+**Abbreviated name**: *Payne* \[standard form in IPNI: *Payne*\]
 
 #### Herbarium and types
 

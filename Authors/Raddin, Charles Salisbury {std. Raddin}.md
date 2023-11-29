@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33190010) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33190010) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8079-1), [Wikidata](https://www.wikidata.org/wiki/Q21606827). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Raddin, Charles Salisbury (1863-1930), American botanist and mineralogist; MS Northwestern Univ. 1888; vice-president and trustee of the Chicago natural history survey. 
-**Abbreviated name**: *Raddin*
+**Abbreviated name**: *Raddin* \[standard form in IPNI: *Raddin*\]
 
 #### Herbarium and types
 

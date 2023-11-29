@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33334042) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 903](https://www.biodiversitylibrary.org/page/33334042) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10117-1), [Wikidata](https://www.wikidata.org/wiki/Q18418690). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sterneck, Jakob \[Daublebsky\] von (1864-1941), Bohemian botanist and entomologist; with R. v. Wettstein in Prague 1892-1895; district commissioner in Eger (Cheb), Trautenau, and, ultimately at Drahowitz nr Karlsbad. 
-**Abbreviated name**: *Sterneck*
+**Abbreviated name**: *Sterneck* \[standard form in IPNI: *Sterneck*\]
 
 #### Herbarium and types
 

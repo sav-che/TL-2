@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33120997) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33120997) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2858-1), [Wikidata](https://www.wikidata.org/wiki/Q3372376). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fournier, Paul-Victor (Abbé) {std. P. Fourn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fournier, Paul Victor (1877-1964), French clergyman and botanist. 
-**Abbreviated name**: *P. Fourn.*
+**Abbreviated name**: *P. Fourn.* \[standard form in IPNI: *P.Fourn.*\]
 
 #### Herbarium and types
 

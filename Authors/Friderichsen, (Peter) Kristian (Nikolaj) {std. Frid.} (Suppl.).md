@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-04-06 08:54:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33258515) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33258515) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2908-1), [Wikidata](https://www.wikidata.org/wiki/Q4993042). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Friderichsen, Peter Kristian Nicolaj {std. Frid.}|first entry]] for this author
 
 ### Author
 
 \* Friderichsen, \[Peter\] Kristian \[Nikolaj\] (1853-1932), Danish pharmacist and botanist (esp. interested in *Rosa* and *Rubus*), born 24 Jan 1853 in Copenhagen, worked from 1870 in a hometown pharmacy, asst. examination 1874 and Cand. pharm. 1876, lived in Jutland from 1880-1898 at Haderslev and Højer, pharmacist in Gudumholm 1899-1908 and from 1908 in Kjellerup where he died 31 Mar 1932. 
-**Abbreviated name**: *Frid.*
+**Abbreviated name**: *Frid.* \[standard form in IPNI: *Frid.*\]
 
 #### Herbarium and types
 

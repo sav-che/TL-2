@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33190081) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33190081) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8196-1), [Wikidata](https://www.wikidata.org/wiki/Q21607030). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rayner, John Frederick (1854-1947), British florist and naturalist at Swaythling, Southampton. 
-**Abbreviated name**: *Rayner*
+**Abbreviated name**: *Rayner* \[standard form in IPNI: *Rayner*\]
 
 #### Herbarium and types
 

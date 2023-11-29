@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33120646) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33120646) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1708-1), [Wikidata](https://www.wikidata.org/wiki/Q21508771). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cobres, Joseph Paul von (1747-1823), German bibliophile. 
-**Abbreviated name**: *Cobres*
+**Abbreviated name**: *Cobres* \[standard form in IPNI: *Cobres*\]
 
 #### Collections
 

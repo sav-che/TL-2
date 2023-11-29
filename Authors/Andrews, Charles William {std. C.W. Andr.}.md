@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33264852) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33264852) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/213-1), [Wikidata](https://www.wikidata.org/wiki/Q2960456). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Andrews, Charles William (1866-1924), British geologist, educated at London University, assistant at the Geological Dept. Brit. Museum 1892, later assistant keeper ib., made an expedition to Christmas Island (Indian Ocean) 1897-1898. 
-**Abbreviated name**: *C.W. Andr.*
+**Abbreviated name**: *C.W. Andr.* \[standard form in IPNI: *C.W.Andrews*\]
 
 #### Herbarium and types
 

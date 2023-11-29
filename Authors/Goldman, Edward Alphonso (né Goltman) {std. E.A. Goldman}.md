@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33258761) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33258761) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3240-1), [Wikidata](https://www.wikidata.org/wiki/Q1291546). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Goldman, Edward Alphonso (né Goltman) (1873-1946), American field naturalist and mammalogist, born 7 Jul 1873 in Mount Carroll, Illinois, moved with his family to Tulare Co., Calif. 1888, field naturalist (and many other positions), U.S. Biological Survey (U.S.D.A.) 1892-1943, interrupted only by W.W.-I service in France with the Sanitary Corps (rodent control) of the American Expeditionary Force 1918-1919, closely associated with E.W. Nelson in Calif. and Mexico, died 2 Sep 1946 in Washington, D.C. (buried in Arlington Natl. Cemetary). 
-**Abbreviated name**: *E.A. Goldman*
+**Abbreviated name**: *E.A. Goldman* \[standard form in IPNI: *Goldman*\]
 
 #### Herbarium and types
 

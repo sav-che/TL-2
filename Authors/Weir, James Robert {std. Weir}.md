@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33066501) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33066501) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11516-1), [Wikidata](https://www.wikidata.org/wiki/Q21062305). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weir, James Robert (1882-1943), American botanist; studied at Purdue, Freiburg, Indiana, Harvard and München; Dr. phil. München 1911; assistant forest expert U.S. Forest Service 1905-1907; director science laboratories, Culver Mil. Acad. 1907-1909; forest pathologist U.S.D.A. 1911-1921; pathologist ib. 1921-1927; Rubber Research Institute, Malaya 1927-1929; with Goodyear Rubber Plantation Co. 1929-1933; agriculturist Ford Motor Co., Dearborn and Companhïa Ford Industr. do Brazil from 1933. 
-**Abbreviated name**: *Weir*
+**Abbreviated name**: *Weir* \[standard form in IPNI: *Weir*\]
 
 #### Herbarium and types
 

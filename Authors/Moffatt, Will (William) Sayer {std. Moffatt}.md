@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33355627) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33355627) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/34607-1), [Wikidata](https://www.wikidata.org/wiki/Q36702937). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moffatt, Will (William) Sayer (1847-1941), American mycologist; MD Chicago 1868; practiced medicine at Wheaton, Ill., and Sycamore, Ill.; to Los Angeles 1926. 
-**Abbreviated name**: *Moffatt*
+**Abbreviated name**: *Moffatt* \[standard form in IPNI: *Moffatt*\]
 
 #### Herbarium and types
 

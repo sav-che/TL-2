@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33355713) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33355713) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6734-1), [Wikidata](https://www.wikidata.org/wiki/Q62086). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Müller, Fritz \[Johann Friedrich Theodor\] (1822-1897), German zoologist and flower biologist; studied at Berlin and Greifswald; Dr. phil. Berlin 1844; studied medicine at Greifswald 1845-1848; to Brazil 1852 as farmer and physician in the primeval forest of Santa Catharina (Rio Garcia); from 1856-1857 high school teacher at Desterro; from 1867-1897 at Blumenau as private scientist and (1867-1891) "naturalista viajante" for the Brazilian government. 
-**Abbreviated name**: *Fritz Müll.*
+**Abbreviated name**: *Fritz Müll.* \[standard form in IPNI: *F.J.Müll.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33066862) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 522](https://www.biodiversitylibrary.org/page/33066862) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11998-1), [Wikidata](https://www.wikidata.org/wiki/Q726386). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zea, Francisco Antonio (1770-1822), Colombian statesman and botanist; educated at the Seminary of Popayan and the College of San Bartolome in Bogota; successor to J.C. Mutis on the "Expedicion botanica" 1789; sent to Spain for political reasons 1794-1799, part of the time imprisoned in Cadiz; on a scientific mission to France 1799-1803; director of the Madrid botanical cabinet 1803; chief clerk of the secretary of the interior 1808, afterwards prefect of Malaga; left Spain after the French occupation, to Bolivar in Haiti 1815; with Bolivar to Venezuela in 1816-1819; vice-president of Colombia after its proclamation as a republic 1819; sent to France and England 1820; student of quinine. 
-**Abbreviated name**: *Zea*
+**Abbreviated name**: *Zea* \[standard form in IPNI: *Zea*\]
 
 #### Herbarium and types
 

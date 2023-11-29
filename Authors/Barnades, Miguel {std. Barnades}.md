@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-01-24 15:02:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33265056) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33265056) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/484-1), [Wikidata](https://www.wikidata.org/wiki/Q4078378). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Barnades, Miguel (x-1771), Spanish (Catalonian born) botanist, ultimately professor with the Real Jardin de Madrid. 
-**Abbreviated name**: *Barnades*
+**Abbreviated name**: *Barnades* \[standard form in IPNI: *Barnadez*\]
 
 #### Herbarium and types
 

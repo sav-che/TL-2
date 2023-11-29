@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33355264) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33355264) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5785-1), [Wikidata](https://www.wikidata.org/wiki/Q21519533). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lowe, Ephraim Noble (1864-1933), American geologist and botanist; director of the State Geological Survey of Mississippi 
-**Abbreviated name**: *E. N. Lowe*
+**Abbreviated name**: *E. N. Lowe* \[standard form in IPNI: *E.N.Lowe*\]
 
 #### Herbarium and types
 

@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 941](https://www.biodiversitylibrary.org/page/33121072) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 941](https://www.biodiversitylibrary.org/page/33121072) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3136-1), [Wikidata](https://www.wikidata.org/wiki/Q18984924). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Giesenhagen, Karl (Carl) Friedrich Georg {std. Giesenh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Giesenhagen, Karl Friedrich Georg (1860-1928), German botanist, curator of the cryptogamic collections at München (M). 
-**Abbreviated name**: *Giesenh.*
+**Abbreviated name**: *Giesenh.* \[standard form in IPNI: *Giesenh.*\]
 
 #### Herbarium and types
 

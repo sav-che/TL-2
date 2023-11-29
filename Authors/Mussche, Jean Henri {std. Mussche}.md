@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33355761) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33355761) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6815-1), [Wikidata](https://www.wikidata.org/wiki/Q21521926). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mussche, Jean Henri (1765-1834), Belgian botanist; curator of the botanical garden at Gent. 
-**Abbreviated name**: *Mussche*
+**Abbreviated name**: *Mussche* \[standard form in IPNI: *Mussche*\]
 
 #### Herbarium and types
 

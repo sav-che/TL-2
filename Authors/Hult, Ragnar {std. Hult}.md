@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33068603) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33068603) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4218-1), [Wikidata](https://www.wikidata.org/wiki/Q446745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hult, Ragnar (1857-1899), Finnish botanist at Helsingfors. 
-**Abbreviated name**: *Hult*
+**Abbreviated name**: *Hult* \[standard form in IPNI: *Hult*\]
 
 #### Herbarium and types
 

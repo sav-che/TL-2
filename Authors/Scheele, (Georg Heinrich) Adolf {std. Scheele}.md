@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33333260) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33333260) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9029-1), [Wikidata](https://www.wikidata.org/wiki/Q4522370). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scheele, \[Georg Heinrich\] Adolf (1808-1864), German (Hannover) botanist and clergyman; from 1826 at Göttingen studying theology and botany; private teacher 1831-1834; from 1834-1842 in Hannover in the seminary, vicar at the church of St.-Egidius, and assistant pastor at Gross-Munzel; from 1842-1864 pastor at Heersum nr. Hildesheim. 
-**Abbreviated name**: *Scheele*
+**Abbreviated name**: *Scheele* \[standard form in IPNI: *Scheele*\]
 
 #### Herbarium and types
 

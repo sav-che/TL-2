@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33355628) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33355628) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23524-1), [Wikidata](https://www.wikidata.org/wiki/Q61635). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mohl, Hugo von (1805-1872), German botanist; Dr. phil. Tübingen 1827; 1828-1831 physician at München; 1832 professor of physiology at Bern; 1835 professor of history at the University of Tübingen; outstanding plant anatomist and physiologist. 
-**Abbreviated name**: *Mohl*
+**Abbreviated name**: *Mohl* \[standard form in IPNI: *Mohl*\]
 
 #### Herbarium and types
 

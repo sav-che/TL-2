@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33333461) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33333461) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12841-1), [Wikidata](https://www.wikidata.org/wiki/Q21608418). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schramm, \[Johannes\] Augustin (1773-1849), German (Silesian) botanist and high school teacher at the royal roman-catholic gymnasium of Leobschütz. 
-**Abbreviated name**: *Aug. Schramm*
+**Abbreviated name**: *Aug. Schramm* \[standard form in IPNI: *J.A.Schramm*\]
 
 #### Herbarium and types
 

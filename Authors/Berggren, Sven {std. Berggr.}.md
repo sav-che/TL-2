@@ -29,16 +29,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33120321) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33120321) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/15984-1), [Wikidata](https://www.wikidata.org/wiki/Q2600462). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Berggren, Sven {std. Berggr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Berggren, Sven (1837-1917), Swedish botanist at Lund, travelled to and collected in Spitsbergen (1868), Greenland (1870), N. Zealand, California 1874-1875. 
-**Abbreviated name**: *Berggr.*
+**Abbreviated name**: *Berggr.* \[standard form in IPNI: *Berggr.*\]
 
 #### Herbarium and types
 

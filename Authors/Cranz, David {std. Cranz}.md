@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33266127) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33266127) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17498-1), [Wikidata](https://www.wikidata.org/wiki/Q89872). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cranz, David (1723-1777), Moravian missionary of the Moravian brethren, born at Neugarten in Pommern, in Greenland 1761-1762, from 1766 preacher in Rixdorf near Berlin, 1771 in Gnadenfrei. 
-**Abbreviated name**: *Cranz*
+**Abbreviated name**: *Cranz* \[standard form in IPNI: *Cranz*\]
 
 #### Herbarium and types
 

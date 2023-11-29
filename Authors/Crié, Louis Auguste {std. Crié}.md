@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33120698) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33120698) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17520-1), [Wikidata](https://www.wikidata.org/wiki/Q21509511). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Crié, Louis Auguste {std. Crié} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Crié, Louis Auguste (1850-1912), French palaeobotanist at Rennes. 
-**Abbreviated name**: *Crié*
+**Abbreviated name**: *Crié* \[standard form in IPNI: *Crié*\]
 
 #### Collections
 

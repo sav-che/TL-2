@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33120727) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33120727) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12452-1), [Wikidata](https://www.wikidata.org/wiki/Q976009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dangeard, Pierre-Augustin (Clément) {std. P.A. Dang.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dangeard, Pierre \[Clement\] Augustin (1862-1947), French botanist. 
-**Abbreviated name**: *P. A. Dang.*
+**Abbreviated name**: *P. A. Dang.* \[standard form in IPNI: *P.A.Dang.*\]
 
 #### Herbarium and types
 

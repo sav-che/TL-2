@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33120337) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33120337) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/732-1), [Wikidata](https://www.wikidata.org/wiki/Q47114179). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Berwald, Johann Gottfried (*fl*. 1778), German musician and naturalist. 
-**Abbreviated name**: *Berwald*
+**Abbreviated name**: *Berwald* \[standard form in IPNI: *Berwald*\]
 
 #### Herbarium and types
 

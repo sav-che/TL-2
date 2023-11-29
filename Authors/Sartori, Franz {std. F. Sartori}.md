@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33333158) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33333158) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8926-1), [Wikidata](https://www.wikidata.org/wiki/Q1448847). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sartori, Franz (1782-1832), Austrian author and naturalist; Dr. med. Wien 1807; with the "k.k. Bücher-Revisionsamt", from 1812-1832 as director; editor of various magazines such as the Annalen der österreichischen Literatur und Kunst, Wiener Literatur-Zeitung, Vaterländische Blätter and Österreichischer Kalender. 
-**Abbreviated name**: *F. Sartori*
+**Abbreviated name**: *F. Sartori* \[standard form in IPNI: *F.Sartori*\]
 
 #### Herbarium and types
 

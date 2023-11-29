@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33258541) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33258541) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/20020317-1), [Wikidata](https://www.wikidata.org/wiki/Q434063). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fronius, Franz Friedrich \[Friedrich Franz\] (1829-1886), Hungarian evangelical clergyman and botanist, born 9 \[4?\] Jan 1829 in Nadesch (Szász Nádos, Siebenbürgen; now Romania), attended elementary school in Nadesch and gymnasium in Schässburg, studied theology and natural history at Univ. of Leipzig 1847-1849, teacher at the gymnasium of Schässburg (Segesvárott), minister in Arkeden 1859, from 1868 at Agnetheln (Sz.-Agothän, Siebenbürgen) where he died 14 Feb 1886. 
-**Abbreviated name**: *Fronius*
+**Abbreviated name**: *Fronius* \[standard form in IPNI: *Fronius*\]
 
 #### Herbarium and types
 

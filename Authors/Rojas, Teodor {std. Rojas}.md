@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2018-09-27 17:21:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33190339) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33190339) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8544-1), [Wikidata](https://www.wikidata.org/wiki/Q6141790). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rojas, Teodor (1877-1954), Paraguayan botanist; collected in Paraguay with E. Hassler in 1896 and from then on until 1954; assistant director of the Assuncion botanical garden and curator of the herbaria. 
-**Abbreviated name**: *Rojas*
+**Abbreviated name**: *Rojas* \[standard form in IPNI: *Rojas*\]
 
 #### Herbarium and types
 

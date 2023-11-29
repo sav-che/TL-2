@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33266512) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33266512) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16678-1), [Wikidata](https://www.wikidata.org/wiki/Q21506616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buddin, Walter (1890-1962), British (London born) mycologist, studied at the University of Cambridge, BA 1912, scholarship Brit. Ministry of Agriculture 1912-1915 in order to study at Cornell University 1914-1915, on war duty 1915-1919 (captain RAMCT), at the Imperial College of Science 1919-1920, from 1921 economist-mycologist with the Ministry of Agriculture at the University of Reading 1921-1946, plant pathologist with the Ministry of Agriculture 1946-1956. 
-**Abbreviated name**: *Buddin*
+**Abbreviated name**: *Buddin* \[standard form in IPNI: *Buddin*\]
 
 #### Herbarium and types
 

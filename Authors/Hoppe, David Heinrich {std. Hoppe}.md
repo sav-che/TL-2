@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33068546) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33068546) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4099-1), [Wikidata](https://www.wikidata.org/wiki/Q66205). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoppe, David Heinrich (1760-1846), German botanist, physician and pharmacist, for many years (1802-1807, 1818-1842) the driving force behind *Flora*, high school teacher and director of the botanic garden at Regensburg (founded 1790). 
-**Abbreviated name**: *Hoppe*
+**Abbreviated name**: *Hoppe* \[standard form in IPNI: *Hoppe*\]
 
 #### Herbarium and types
 

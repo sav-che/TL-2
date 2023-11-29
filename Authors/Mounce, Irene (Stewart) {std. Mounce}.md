@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33355696) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33355696) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23687-1), [Wikidata](https://www.wikidata.org/wiki/Q21521799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mounce, Irene (Stewart) (1894-x), Canadian mycologist and phytopathologist; M. S. Univ. Manitoba 1922, Ph. D. Toronto 1929; at Ottawa 1924-1938, at Saanichton, D. C. 1938-1945- 
-**Abbreviated name**: *Mounce*
+**Abbreviated name**: *Mounce* \[standard form in IPNI: *Mounce*\]
 
 #### Herbarium and types
 

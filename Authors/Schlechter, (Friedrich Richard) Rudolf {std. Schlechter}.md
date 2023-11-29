@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33333344) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33333344) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9117-1), [Wikidata](https://www.wikidata.org/wiki/Q62278). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlechter, \[Friedrich Richard\] Rudolf (1872-1925), German (Berlin/Prussian) botanist, botanical explorer and orchidologist; gardener at Berlin Botanical Garden until 1891; collected in S. Africa and Moçambique 1891-1895, 1896-1898; leader West-African Caoutchouk exp. 1899-1900, id. New Guinea, Indonesia, New Caledonia 1900-1903; Dr. phil. Berlin 1904 as student of Engler; to Cameroons 1904, Borneo and Sumatra 1906; Kaiser Wilhelmsland 1907-1909, until 1910 in Indonesia; from 1913 assistant (active service in World War I 1914-1918), from 1921-1925 curator at Berlin-Dahlem. 
-**Abbreviated name**: *Schlechter*
+**Abbreviated name**: *Schlechter* \[standard form in IPNI: *Schltr.*\]
 
 #### Herbarium and types
 

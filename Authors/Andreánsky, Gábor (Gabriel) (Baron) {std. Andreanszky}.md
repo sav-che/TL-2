@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-11-28 08:15:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33120180) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33120180) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12327-1), [Wikidata](https://www.wikidata.org/wiki/Q278294). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Andreánsky, Gábor (Gabriel) \[Baron\] (1895-1967), Hungarian palaeobotanist. 
-**Abbreviated name**: *Andreanszky*
+**Abbreviated name**: *Andreanszky* \[standard form in IPNI: *Andr.*\]
 
 #### Herbarium, collections, types
 

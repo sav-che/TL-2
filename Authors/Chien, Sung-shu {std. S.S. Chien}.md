@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33265778) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33265778) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1595-1), [Wikidata](https://www.wikidata.org/wiki/Q15919799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chien, Sung-shu (Ch'ien Ch'ung-shu) (1883 \[not 1885\]-1965), Chinese botanist at the Biological Laboratory of the Science Society of China, Peipei, Chungking Szechuan, also at the Institute of Botany, Academia Sinica, Western City, Peking. 
-**Abbreviated name**: *S.S. Chien*
+**Abbreviated name**: *S.S. Chien* \[standard form in IPNI: *S.S.Chien*\]
 
 #### Herbarium and types
 

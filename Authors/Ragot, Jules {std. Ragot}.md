@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33190035) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33190035) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8100-1), [Wikidata](https://www.wikidata.org/wiki/Q47124858). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ragot, Jules (*fl*. 1902), French horticulturist; head gardener of the Société d'Horticulture de la Sarthe at Le Mans. 
-**Abbreviated name**: *Ragot*
+**Abbreviated name**: *Ragot* \[standard form in IPNI: *Ragot*\]
 
 #### Herbarium and types
 

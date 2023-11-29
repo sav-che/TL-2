@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33265059) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33265059) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/489-1), [Wikidata](https://www.wikidata.org/wiki/Q21505682). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Barnes, Edward (c. 1892-1941), British Indian chemist, professor of chemistry, Madras Christian College, in addition interest in botany, collected in South India. 
-**Abbreviated name**: *E. Barnes*
+**Abbreviated name**: *E. Barnes* \[standard form in IPNI: *E.Barnes*\]
 
 #### Herbarium and types
 

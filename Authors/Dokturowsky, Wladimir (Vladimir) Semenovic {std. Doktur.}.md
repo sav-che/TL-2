@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33260018) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33260018) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2256-1), [Wikidata](https://www.wikidata.org/wiki/Q21510535). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dokturowsky, Wladimir (Vladimir) Semenovic (1884-1935), Russian botanist, born 6 Nov 1884, Nikolaev (Kherson govt.), died 20 Mar 1935 at Moscow, studied at University of Moscow until 1907, teacher of Natural Sciences at Odessa, 1908 at Botanical Garden of St. Petersburg, 1912-1918 in Minsk, from 1918 at Moscow. 
-**Abbreviated name**: *Doktur.*
+**Abbreviated name**: *Doktur.* \[standard form in IPNI: *Doktur.*\]
 
 #### Herbarium and types
 

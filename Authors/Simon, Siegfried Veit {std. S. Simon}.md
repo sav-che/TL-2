@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33333748) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33333748) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9669-1), [Wikidata](https://www.wikidata.org/wiki/Q21608922). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Simon, Siegfried Veit (1877-1934), German (Berlin) botanist, especially plant physiologist; student gardener in Berlin, Bonn and Wiesbaden 1895-1899; studied botany at Berlin (with Kny) and Leipzig (with W. Pfeffer); Dr. phil. Leipzig 1903; assistant at Leipzig 1906-1908; habil. Göttingen 1909; to Ceylon and Java 1910-1911; in active service 1914-1920; extra-ordinary professor of botany at Göttingen 1920; ordinary professor id. at Bonn 1922-1934. 
-**Abbreviated name**: *S. Simon*
+**Abbreviated name**: *S. Simon* \[standard form in IPNI: *S.V.Simon*\]
 
 #### Herbarium and types
 

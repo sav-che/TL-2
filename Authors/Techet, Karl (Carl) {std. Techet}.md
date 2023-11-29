@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33212240) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33212240) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10479-1), [Wikidata](https://www.wikidata.org/wiki/Q112833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Techet, Karl \[Carl\] (1877-1919), Austrian botanist and high school teacher; student with R. Wettstein in Wien 1899-1903; botanical assistant at the Triest Zoological Station 1903-1905; later teacher at Triest, Kufstein and Prossnitz; from 1914 in Wien. 
-**Abbreviated name**: *Techet*
+**Abbreviated name**: *Techet* \[standard form in IPNI: *Techet*\]
 
 #### Herbarium and types
 

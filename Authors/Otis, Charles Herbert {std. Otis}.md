@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33355943) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33355943) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7198-1), [Wikidata](https://www.wikidata.org/wiki/Q21522475). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Otis, Charles Herbert (1886-1979), American botanist and curator of the botanical garden of and lecturer at the University of Michigan (1910-1913); Ph. D. ib. 1913; instructor and later professor of botany at Cornell (1913-1915); Univ. New Hampshire 1915-1916; Western Reserve Univ. (1916-1927) Univ. of Wisconsin, Madison (1927-1930); Bowling Green State, Ohio (1930-1956). 
-**Abbreviated name**: *Otis*
+**Abbreviated name**: *Otis* \[standard form in IPNI: *Otis*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33264962) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33264962) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/32323-1), [Wikidata](https://www.wikidata.org/wiki/Q1578536). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bachmann, Hans (1866-1940), Swiss (Luzern) botanist, studied natural sciences at the University of Basel, Dr. phil. ib. 1895 with G.A. Klebs, from 1892-ca. 1932 teacher at the Kantonsschule, Luzern, active hydrobiologist as well as longtime member of the hydrological commission of the Schweizerische naturforschende Gesellschaft. 
-**Abbreviated name**: *H. Bachm.*
+**Abbreviated name**: *H. Bachm.* \[standard form in IPNI: *H.Bachm.*\]
 
 #### Herbarium and types
 

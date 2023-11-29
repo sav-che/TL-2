@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33189680) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33189680) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7591-1), [Wikidata](https://www.wikidata.org/wiki/Q5294994). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petrie, Donald (1846-1925), Scottish botanist; M.A. Aberdeen 1867; to Australia 1868, teacher at Scotch College, Melbourne; inspector of schools Otago prov. govt., New Zealand 1874; chief inspector of schools, Auckland 1894. 
-**Abbreviated name**: *Petrie*
+**Abbreviated name**: *Petrie* \[standard form in IPNI: *Petrie*\]
 
 #### Herbarium and types
 

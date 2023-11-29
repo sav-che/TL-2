@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33355788) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33355788) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6880-1), [Wikidata](https://www.wikidata.org/wiki/Q21522019). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nealley, Greenleaf Cilley (1846-1896), American botanist; in Burlington, Iowa 1863-1882; with Texas A & M 1882-1883, in Houston 1886-1891; at San Antonio and San Diego, Texas 1892-1896; collected grasses for USDA 
-**Abbreviated name**: *Nealley*
+**Abbreviated name**: *Nealley* \[standard form in IPNI: *Nealley*\]
 
 #### Herbarium and types
 

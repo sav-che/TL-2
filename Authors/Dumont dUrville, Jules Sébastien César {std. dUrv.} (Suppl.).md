@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33260150) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33260150) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/11002-1), [Wikidata](https://www.wikidata.org/wiki/Q204735). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dumont dUrville, Jules Sébastien César {std. dUrv.}|first entry]] for this author
 
 ### Author
 
 \* Dumont d'Urville, Jules Sébastien César (1790-1842), French hydrographer and botanist, born 23 Mai 1790 at Condé sur Noireau (Calvados), 1819-1820 in the Black Sea on an expedition with the "Chevrette", 1822-1825 second in command on the "Coquille", 1826 on expedition to Polynesia with "l'Astrolabe" in search of "la Pérouse", 1829 back in Marseille, 1837 again on expedition with "l'Astrolabe" and "La Zélée", died 8 Mai 1842 near Bellevue in a railway accident (fire). 
-**Abbreviated name**: *d'Urv.*
+**Abbreviated name**: *d'Urv.* \[standard form in IPNI: *d'Urv.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33189645) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33189645) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7540-1), [Wikidata](https://www.wikidata.org/wiki/Q21522846). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Perrot, Émile Constant (1867-1951), French pharmacist, anatomist and botanist; Dr. sci. Paris 1899; succeeded G. Planchon as professor of materia medica at the École de Pharmacie, Paris, 1899, (aggrégé; prof. tit. 1902)-1937; Dr. h.c. Univ. Utrecht 1945. 
-**Abbreviated name**: *Perrot*
+**Abbreviated name**: *Perrot* \[standard form in IPNI: *Perrot*\]
 
 #### Herbarium and types
 

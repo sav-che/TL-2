@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33355512) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33355512) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6374-1), [Wikidata](https://www.wikidata.org/wiki/Q62862). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Merrem, Blasius (1761-1824), German botanist, mathematician and physicist; lecturer at Göttingen 1781-1784; professor of physics and political economy at Duisburg 1784-1804; from 1804-1821, professor of political economy and botany at Marburg. 
-**Abbreviated name**: *Merrem*
+**Abbreviated name**: *Merrem* \[standard form in IPNI: *Merrem*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33120720) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33120720) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1956-1), [Wikidata](https://www.wikidata.org/wiki/Q5734290). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dahlgren, Bror Eric {std. Dahlgren} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dahlgren, Bror Eric (1877-1961), Swedish born American botanist 
-**Abbreviated name**: *Dahlgren*
+**Abbreviated name**: *Dahlgren* \[standard form in IPNI: *Dahlgren*\]
 
 #### Herbarium and types
 

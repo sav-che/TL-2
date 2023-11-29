@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33355868) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33355868) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24198-1), [Wikidata](https://www.wikidata.org/wiki/Q728337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nuttall, Thomas (1786-1859), British naturalist; pioneer scientific explorer of the United States 1808-1841, at Philadelphia 1808-1810, to St. Louis and up the Missouri 1810-1812, in England 1812-1815, mainly Philadelphia 1815-1818, to the U.S. Southwest 1818-1820, at Philadelphia 1820-1822, at Cambridge, Mass. 1823-1834, to the Far West and around Cape Horn 1834-1836, at Philadelphia 1836-1842; in England from 1841 except for a visit to Philadelphia 1847-1848. 
-**Abbreviated name**: *Nutt.*
+**Abbreviated name**: *Nutt.* \[standard form in IPNI: *Nutt.*\]
 
 #### Herbarium and types
 

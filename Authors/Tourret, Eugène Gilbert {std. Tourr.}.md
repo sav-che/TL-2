@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33212458) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33212458) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10766-1), [Wikidata](https://www.wikidata.org/wiki/Q21610904). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tourret, Eugène Gilbert (1881-1914), French bryologist and teacher; studied at the teacher's college of Moulins 1898-1901; teacher at Saint-Ennemond, Paray-le-Frésil and La Ferbé-Hauterive; died while on active service in 1914. 
-**Abbreviated name**: *Tourr.*
+**Abbreviated name**: *Tourr.* \[standard form in IPNI: *Tourret*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33066788) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33066788) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11859-1), [Wikidata](https://www.wikidata.org/wiki/Q6167767). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Woodville, William (1752-1805), British physician and botanist; studied at Edinburgh Univ., M.D. 1775; practicing physician at Papcastle and Denbigh, Scotland; from 1782 in London as physician to the Middlesex dispensary; physician to the smallpox and inoculation hospitals at St. Pancras 1791-1805. 
-**Abbreviated name**: *Woodv.*
+**Abbreviated name**: *Woodv.* \[standard form in IPNI: *Woodv.*\]
 
 #### Herbarium and types
 

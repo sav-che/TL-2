@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33212820) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33212820) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11253-1), [Wikidata](https://www.wikidata.org/wiki/Q75245). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Volkens, Georg Ludwig August (1855-1917), German (Berlin) botanist; studied in Würzburg and Berlin with J. Sachs and A. Braun; Dr. phil. Berlin 1882 as student of S. Schwendener; travelled in the Egyptian-Arab desert 1884-1885; Habil. Berlin 1887; voluntary collaborator of A. Engler 1887-1889; idem with Schwendener 1889; explored the Kilimandscharo 1892-1894; professor's title Berlin 1895; scientific assistant 1897, curator 1898-1917 at the Botanical Museum in charge of the "Botanische Zentralstelle für die Kolonien"; to the Caroline Islands 1899-1900, in Buitenzorg (Bogor), Java 1901-1902; "Privatdozent" for botany at the University of Berlin 1887-1910; lecturer at the Gardener's School in Dahlem 1903-1917. 
-**Abbreviated name**: *Völkern*
+**Abbreviated name**: *Völkern* \[standard form in IPNI: *Volkens*\]
 
 #### Herbarium and types
 

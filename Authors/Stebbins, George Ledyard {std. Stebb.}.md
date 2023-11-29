@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33333993) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33333993) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10049-1), [Wikidata](https://www.wikidata.org/wiki/Q1354258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stebbins, George Ledyard (1906-x), American botanist and geneticist; Dr. phil. Harvard 1931, instructor in biology Colgate Univ. 1931-1935; junior geneticist Univ. Calif. Berkeley 1935-1939; asst. professor of genetics 1939-1946, full professor 1947-1950; chairman of the Dept. Genetics, Univ. Calif. Davis 1950-1963. 
-**Abbreviated name**: *Stebb.*
+**Abbreviated name**: *Stebb.* \[standard form in IPNI: *Stebbins*\]
 
 #### Herbarium and types
 

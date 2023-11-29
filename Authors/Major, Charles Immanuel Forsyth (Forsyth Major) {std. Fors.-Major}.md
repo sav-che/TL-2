@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33355347) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33355347) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/2838-1), [Wikidata](https://www.wikidata.org/wiki/Q116027). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Forsyth-Major (Major), Charles Immanuel {std. Fors.-Major} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Major, Charles Immanuel Forsyth \[Forsyth Major\] (1843-1923), British-Swiss botanist and palaeontologist; practicing physician 1868-1886; working on the mediterranean and madagascan floras; MD Basel 1868. 
-**Abbreviated name**: *Major*
+**Abbreviated name**: *Major* \[standard form in IPNI: *Fors.-Major*\]
 
 #### Herbarium and types
 

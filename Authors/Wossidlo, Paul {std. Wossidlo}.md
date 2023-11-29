@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33066800) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33066800) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11874-1), [Wikidata](https://www.wikidata.org/wiki/Q21613023). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wossidlo, Paul (1836-?), German (Posen) high school teacher and botanist; Dr. phil. Breslau 1860; teacher at the Breslau High School (Realschule), from 1870 director of a similar school in Tarnowitz (Upper Silesia). 
-**Abbreviated name**: *Wossidlo*
+**Abbreviated name**: *Wossidlo* \[standard form in IPNI: *Wossidlo*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33333966) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33333966) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/27117-1), [Wikidata](https://www.wikidata.org/wiki/Q2595991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stahel, Gerold (1887-1955), Swiss botanist; Dr. phil. Basel 1911, student of Alfr. Fischer; assistant at the botanical institute Basel 1910-1914; botanist at the Agricultural Experiment Station at Paramaribo 1914-1948, ultimately as director. 
-**Abbreviated name**: *Stahel*
+**Abbreviated name**: *Stahel* \[standard form in IPNI: *Stahel*\]
 
 #### Herbarium and types
 

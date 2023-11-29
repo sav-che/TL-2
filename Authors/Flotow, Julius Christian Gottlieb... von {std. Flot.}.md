@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33120979) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33120979) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2792-1), [Wikidata](https://www.wikidata.org/wiki/Q4491206). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Flotow, Julius Christian Gottlieb Ulrich Gustav Georg Adam Ernst Friedrich von (1788-1856), German botanist and "Königlicher Preussischer Major," lived from 1824 onward in Hirschberg, Riesengebirge. 
-**Abbreviated name**: *Flot.*
+**Abbreviated name**: *Flot.* \[standard form in IPNI: *Flot.*\]
 
 #### Herbarium and types
 

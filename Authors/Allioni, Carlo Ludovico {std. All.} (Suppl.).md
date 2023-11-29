@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33264803) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33264803) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/154-1), [Wikidata](https://www.wikidata.org/wiki/Q161420). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Allioni, Carlo {std. All.}|first entry]] for this author
 
 ### Author
 
 \* Allioni, Carlo Ludovico (1728-1804), Italian naturalist, studied medicine at the University of Torino, graduated in medicine 1747, admitted to the college of physicians ib. 1747; extraordinary professor of botany at the medical faculty of the Torino Atheneum, ordinary professor 1763-1781, professor emeritus 1781-1804; director of the Museo di Scienze naturali of the University 1778. 
-**Abbreviated name**: *All.*
+**Abbreviated name**: *All.* \[standard form in IPNI: *All.*\]
 
 #### Herbarium and types
 

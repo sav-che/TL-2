@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33259905) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33259905) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/13483-1), [Wikidata](https://www.wikidata.org/wiki/Q21513517). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Freiberg, Wilhelm (1879-1967), German railway administrator and plant collector, born 7 Jul 1879 in Stettin, during his many postings he collected plants in East Prussia, Moselle, Saar and finally Munich 1938-1949, accumulating a large herbarium, settled in Munich after retirement where he died on 28 Jan 1967. 
-**Abbreviated name**: *Freiberg*
+**Abbreviated name**: *Freiberg* \[standard form in IPNI: *Freiberg*\]
 
 #### Herbarium and types
 

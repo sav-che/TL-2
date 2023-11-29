@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33212163) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33212163) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10338-1), [Wikidata](https://www.wikidata.org/wiki/Q21610098). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Swayne, George (1746-1827), British botanist and clergyman; vicar at Pucklechurch, Glos. 1772; rector at Dyrham 1806. 
-**Abbreviated name**: *Swayne*
+**Abbreviated name**: *Swayne* \[standard form in IPNI: *Swayne*\]
 
 #### Herbarium and types
 

@@ -28,16 +28,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33260402) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33260402) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2586-1), [Wikidata](https://www.wikidata.org/wiki/Q55031155). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ettingshausen, Constantin Freiherr von {std. Ettingsh.}|first entry]] for this author
 
 ### Author
 
 \* Ettingshausen, Constantin Freiherr von (1826-1897), Austrian botanist, palaeontologist and mineralogist, born 16 Jun 1826 at Vienna, visited the gymnasium at Kremsmünster and Vienna, studied medicine at Vienna, Dr. in 1848, but was more interested in fossil floras and published on them from 1851, became professor in physics, botany, zoology, and mineralogy at the Josephs-Akademie in 1854, went to Graz as professor in botany and phytopalaeontology in 1871, died 1 Feb 1897. 
-**Abbreviated name**: *Ettingsh.*
+**Abbreviated name**: *Ettingsh.* \[standard form in IPNI: *Ettingsh.*\]
 
 #### Herbarium and types
 

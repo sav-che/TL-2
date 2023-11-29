@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33355494) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33355494) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/33465-1), [Wikidata](https://www.wikidata.org/wiki/Q47122405). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meister, Friedrich (fl. 1893-1919), Swiss diatomologist; high school teacher at Horgen nr. Zürich. 
-**Abbreviated name**: *F. Meister*
+**Abbreviated name**: *F. Meister* \[standard form in IPNI: *F.Meister*\]
 
 #### Herbarium and types
 

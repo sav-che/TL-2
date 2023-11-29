@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33265251) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33265251) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/15885-1), [Wikidata](https://www.wikidata.org/wiki/Q25539274). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Beijerinck, Martinus Willem {std. Beij.}|first entry]] for this author
 
 ### Author
 
 \* Beijerinck, Martinus Willem (1851-1931), Dutch botanist (microbiologist), studied biological technology at the University of Delft 1869-1872, idem part time biology at the University of Leiden 1872-1877, Dr. phil. Leiden 1877 as student of F.W.R. Suringar, teacher at the Agricultural College at Warffum, id. at the Lyceum at Utrecht 1875, at the Wageningen Agricultural College 1876-1885, employed by the Dutch yeast and alcohol factory at Delft 1885-1895, professor of microbiology at the Delft Polytechnic 1895-1921, in retirement at Gorssel, Overijssel. 
-**Abbreviated name**: *Beij.*
+**Abbreviated name**: *Beij.* \[standard form in IPNI: *Beij.*\]
 
 #### Herbarium and types
 

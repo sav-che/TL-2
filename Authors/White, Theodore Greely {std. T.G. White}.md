@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33066595) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33066595) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11623-1), [Wikidata](https://www.wikidata.org/wiki/Q6145737). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 White, Theodore Greely (1872-1901), American botanist and geologist; Dr. phil. Columbia Univ. 1898; lecturer Department of Public Instruction, New York 1895-1896; assistant, Dept. Physics, Columbia Univ. 1896-1900; from 1900 dedicating himself almost fully to philanthropic work. 
-**Abbreviated name**: *T.G. White*
+**Abbreviated name**: *T.G. White* \[standard form in IPNI: *T.G.White*\]
 
 #### Herbarium and types
 

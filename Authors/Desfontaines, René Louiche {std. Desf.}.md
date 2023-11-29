@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 627](https://www.biodiversitylibrary.org/page/33120758) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 627](https://www.biodiversitylibrary.org/page/33120758) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17958-1), [Wikidata](https://www.wikidata.org/wiki/Q545953). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Desfontaines, René Louiche {std. Desf.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Desfontaines, René Louiche (1750-1833), French botanist, professor at the Jardin des plantes (Muséum d'Histoire nat.) in Paris. 
-**Abbreviated name**: *Desf.*
+**Abbreviated name**: *Desf.* \[standard form in IPNI: *Desf.*\]
 
 #### Herbarium and types
 

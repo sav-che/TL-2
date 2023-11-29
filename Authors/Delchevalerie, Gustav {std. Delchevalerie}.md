@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259221) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33259221) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/20009099-1), [Wikidata](https://www.wikidata.org/wiki/Q12175693). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Delchevalerie, Gustav (fl. 1868-1889), Belgian botanist and gardener, born at Vedrin, Namur, Belgium, some time gardener for parks. 
-**Abbreviated name**: *Delchevalerie*
+**Abbreviated name**: *Delchevalerie* \[standard form in IPNI: *Delchev.*\]
 
 #### Herbarium and types
 

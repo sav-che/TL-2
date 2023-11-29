@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33120233) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33120233) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/399-1), [Wikidata](https://www.wikidata.org/wiki/Q15615855). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Baines, Henry (1794-1878), British botanist in Yorkshire, employed by James Backhouse Sr. 
-**Abbreviated name**: *Baines*
+**Abbreviated name**: *Baines* \[standard form in IPNI: *Baines*\]
 
 #### Herbarium and types
 

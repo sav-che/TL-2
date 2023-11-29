@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33333610) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33333610) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9411-1), [Wikidata](https://www.wikidata.org/wiki/Q5928631). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Secondat, Jean Baptiste baron de (1716-1796), French botanist. 
-**Abbreviated name**: *Secondat*
+**Abbreviated name**: *Secondat* \[standard form in IPNI: *Secondat*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-02-01 09:09:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33355874) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33355874) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7063-1), [Wikidata](https://www.wikidata.org/wiki/Q720666). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nyárády, Erasmus Julius (1881-1966), Roumanian (Transylvanian) botanist; studied at Budapest; from 1922 at Cluj. 
-**Abbreviated name**: *Nyár.*
+**Abbreviated name**: *Nyár.* \[standard form in IPNI: *Nyár.*\]
 
 #### Herbarium and types
 

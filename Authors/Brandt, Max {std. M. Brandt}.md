@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33266323) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33266323) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1079-1), [Wikidata](https://www.wikidata.org/wiki/Q21506429). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brandt, Max (1884-1914), German (born at Rüsselsheim am Main), educated at Ditmarschen, the second Lyceum at Hannover and the Gymnasium at Schleswig and id. Lüneburg, matriculation 1904, studied botany and geology at Göttingen, Bonn and Berlin, military service 1904-1905, ult. Lieutenant with the first Garde-Regiment in Potsdam, student, later assistant with Engler at the Botanical Museum, Dr. phil. Berlin 1911, collected in Spain and Morocco 1913, on active service 1914, fell in S. Poland nr. Czczeczow 29 Nov 1914. 
-**Abbreviated name**: *M. Brandt*
+**Abbreviated name**: *M. Brandt* \[standard form in IPNI: *M.Brandt*\]
 
 #### Herbarium and types
 

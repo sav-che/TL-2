@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33068911) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33068911) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5049-1), [Wikidata](https://www.wikidata.org/wiki/Q18986337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krauss, Johan Carl (1759-1826), German-born professor of medecine at Leiden. 
-**Abbreviated name**: *J. Krauss*
+**Abbreviated name**: *J. Krauss* \[standard form in IPNI: *Krauss*\]
 
 #### Herbarium and types
 

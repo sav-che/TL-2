@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33066366) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33066366) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/28498-1), [Wikidata](https://www.wikidata.org/wiki/Q21612020). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wakker, Jan Hendrik (1859-1927), Dutch botanist, phytopathologist and plant breeder; Dr. phil. Amsterdam 1885 (student of Hugo de Vries); at the Zoological Station, Naples 1885; working at the Botanical Laboratory, Univ. Amsterdam 1885-1887; assistant at the botanical laboratory, Univ. Utrecht 1887-1889; teacher at Alphen-Oudshoorn 1889-1891; director of the Sugar Experiment Station East Java 1892-1897; high school teacher in 's Hertogenbosch, Netherlands 1897-1925. 
-**Abbreviated name**: *Wakk.*
+**Abbreviated name**: *Wakk.* \[standard form in IPNI: *Wakker*\]
 
 #### Herbarium and types
 

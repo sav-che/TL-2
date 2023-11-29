@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33120618) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33120618) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12377-1), [Wikidata](https://www.wikidata.org/wiki/Q3822242). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Chase, Mary Agnes (née Merrill) {std. Chase} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Chase, Mary Agnes (née Merrill) (1869-1963), American agrostologist. 
-**Abbreviated name**: *Chase*
+**Abbreviated name**: *Chase* \[standard form in IPNI: *Chase*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33258767) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33258767) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3252-1), [Wikidata](https://www.wikidata.org/wiki/Q3299537). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gomes, Bernardino António (filius) (1806-1877), Portuguese physician and botanist, born 22 Sep 1806 in Lisbon, bachelor degree in mathematics, Univ. of Coimbra, Dr. en médecine Paris, dir., Naval Hospital, doctor of the Real Câmara, president, Society of Medical Sciences of Lisbon, founder and editor, *Gazeta Médica*, died 8 Apr 1877 in Lisbon. 
-**Abbreviated name**: *Gomes f.*
+**Abbreviated name**: *Gomes f.* \[standard form in IPNI: *B.A.Gomes*\]
 
 #### Note
 

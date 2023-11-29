@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/page/33120607) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/page/33120607) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1478-1), [Wikidata](https://www.wikidata.org/wiki/Q743785). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Čelakovský, Ladislav Josef {std. Čelak.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Čelakovský, Ladislav Josef (1834-1902), Czeck botanist at Praha, leader of the Bohemian morphological school bridging typological and evolutionary morphology. 
-**Abbreviated name**: *Čelak.*
+**Abbreviated name**: *Čelak.* \[standard form in IPNI: *Čelak.*\]
 
 #### Herbarium and types
 

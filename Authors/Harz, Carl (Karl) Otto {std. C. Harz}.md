@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33068332) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33068332) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3708-1), [Wikidata](https://www.wikidata.org/wiki/Q104943). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Harz, Carl \[Karl\] Otto (1842-1906), German pharmacist, seminologist and mycologist; at München with Nägeli (1871); lecturer (1873) and professor (1880) of botany and zoology at the Vetinary College and the Technical University of München. 
-**Abbreviated name**: *C. Harz*
+**Abbreviated name**: *C. Harz* \[standard form in IPNI: *Harz*\]
 
 #### Herbarium and types
 

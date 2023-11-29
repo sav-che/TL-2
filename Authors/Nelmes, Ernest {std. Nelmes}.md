@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33355809) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33355809) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6902-1), [Wikidata](https://www.wikidata.org/wiki/Q18987018). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nelmes, Ernest (1895-1959), British botanist; associated with Kew as gardener, herbarium assistant and librarian from 1921-1958; specialist on *Carex*. 
-**Abbreviated name**: *Nelmes*
+**Abbreviated name**: *Nelmes* \[standard form in IPNI: *Nelmes*\]
 
 #### Herbarium and types
 

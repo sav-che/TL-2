@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33066860) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33066860) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11986-1), [Wikidata](https://www.wikidata.org/wiki/Q1522301). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zannichelli \[Zanichelli\], Giovanni Gerolamo \[Gian Girolamo\] (1662-1729), Italian physician, pharmacist and botanist in the republic of Venice. 
-**Abbreviated name**: *Zannichelli*
+**Abbreviated name**: *Zannichelli* \[standard form in IPNI: *Zannich.*\]
 
 #### Herbarium and types
 

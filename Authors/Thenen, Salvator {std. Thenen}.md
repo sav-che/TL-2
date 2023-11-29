@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33212287) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33212287) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10551-1), [Wikidata](https://www.wikidata.org/wiki/Q36684211). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thenen, Salvator (*fl*. 1911), Austrian botanist, sometime connected with the Botanical Institute of the University of Vienna. 
-**Abbreviated name**: *Thenen*
+**Abbreviated name**: *Thenen* \[standard form in IPNI: *Thenen*\]
 
 #### Herbarium and types
 

@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33068778) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33068778) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4770-1), [Wikidata](https://www.wikidata.org/wiki/Q1507909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kidston, Robert (1852-1924), Scottish palaeobotanist; from early boyhood living at Stirling, his private means enabling him to give his time wholly to science; LL.D. Glasgow 1908; D. Sc. h.c. Manchester 1921. 
-**Abbreviated name**: *Kidst.*
+**Abbreviated name**: *Kidst.* \[standard form in IPNI: *Kidst.*\]
 
 #### Herbarium and types
 

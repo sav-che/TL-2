@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33120173) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33120173) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/182-1), [Wikidata](https://www.wikidata.org/wiki/Q9029033). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Amo y Mora, Mariano del {std. Amo} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Amo y Mora, Mariano del (1820-1896), Spanish botanist. 
-**Abbreviated name**: *Amo*
+**Abbreviated name**: *Amo* \[standard form in IPNI: *Amo*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33212216) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33212216) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10440-1), [Wikidata](https://www.wikidata.org/wiki/Q16737250). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tate, George (1805-1871), British linen draper, postmaster, paleobotanist and geologist at Alnwick; longtime secretary of the Alnwick mechanic's scientific institution and of the Berwickshire naturalist's club. 
-**Abbreviated name**: *G. Tate*
+**Abbreviated name**: *G. Tate* \[standard form in IPNI: *G.Tate*\]
 
 #### Herbarium and types
 

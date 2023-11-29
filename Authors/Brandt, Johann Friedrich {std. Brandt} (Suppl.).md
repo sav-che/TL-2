@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33266323) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33266323) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/12359-1), [Wikidata](https://www.wikidata.org/wiki/Q57361). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brandt, Johann Friedrich (von) {std. Brandt}|first entry]] for this author
 
 ### Author
 
 \* Brandt, Johann Friedrich (1802-1879), German (Jüterborgh, Brandenburg) botanist and zoologist, educated at the Gymnasium of Jüterborgh and the Lyceum at Wittenberg, studied classics at the University of Berlin 1821, later zoology and botany ib., M.D., surgeon and accoucheur 1826, worked with Ratzeburg 1826-1831 e.g. on the plants of the Prussian Pharmacopoeia, assistant, later director of the zoological Museum, St. Petersburg from 1831. 
-**Abbreviated name**: *Brandt*
+**Abbreviated name**: *Brandt* \[standard form in IPNI: *Brandt*\]
 
 #### Herbarium and types
 

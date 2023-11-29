@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33120780) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33120780) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18034-1), [Wikidata](https://www.wikidata.org/wiki/Q6067159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dietel, Paul {std. Dietel} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dietel, Paul (1860-1947), German high-school teacher and mycologist at Leipzig, specialist on Uredineae. 
-**Abbreviated name**: *Dietel*
+**Abbreviated name**: *Dietel* \[standard form in IPNI: *Dietel*\]
 
 #### Herbarium and types
 

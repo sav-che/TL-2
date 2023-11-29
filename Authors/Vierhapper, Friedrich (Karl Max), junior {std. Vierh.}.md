@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 731](https://www.biodiversitylibrary.org/page/33212773) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 731](https://www.biodiversitylibrary.org/page/33212773) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12970-1), [Wikidata](https://www.wikidata.org/wiki/Q84857). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vierhapper, Friedrich \[Karl Max\], junior (1876-1932), Austrian botanist; son of Friedrich Vierhapper senior; studied at Vienna University 1894-1899; Dr. phil. ib. 1899; teacher's examination 1905; assistant at the botanical department of the Hochschule für Bodenkultur, Vienna 1888-1900; in the Austrian army 1900-1901; high school teacher Vienna 1902-1904; partly concurrently assistant with R. v. Wettstein 1902-1911 at the Botanical Institute; lecturer for botany at the Veterinary College, Vienna 1911-1932, from 1912 also in charge of botanical courses at the University of Vienna, from 1915 with the title of professor, from 1919 as regular extra-ordinary professor of systematic botany. 
-**Abbreviated name**: *Vierh.*
+**Abbreviated name**: *Vierh.* \[standard form in IPNI: *Vierh.*\]
 
 #### Herbarium and types
 

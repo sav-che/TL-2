@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33355813) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33355813) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6911-1), [Wikidata](https://www.wikidata.org/wiki/Q21522057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Němejc, František (1901-1976), Bohemian (Czechoslovakian) palaeobotanist; Dr. phil. Praha 1924; assistant (1924) later (1939) director of the geological-palaeontological department of the Natural History Museum, Prague; extraord. (1929), later (1948) ordinary professor at the Charles University. 
-**Abbreviated name**: *F. Němejc*
+**Abbreviated name**: *F. Němejc* \[standard form in IPNI: *Němejc*\]
 
 #### Herbarium and types
 

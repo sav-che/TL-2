@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33068277) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33068277) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/1242-1), [Wikidata](https://www.wikidata.org/wiki/Q536945). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hamilton, Francis (né Buchanan) (1762-1829), Scottish physician and botanist in the Bengal medical service 1795-1815; superintendent Botanic Garden Calcutta 1814-1815. 
-**Abbreviated name**: *F. Ham.*
+**Abbreviated name**: *F. Ham.* \[standard form in IPNI: *Buch.-Ham.*\]
 
 #### Herbarium and types
 

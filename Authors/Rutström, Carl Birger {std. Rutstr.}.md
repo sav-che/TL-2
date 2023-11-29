@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1010](https://www.biodiversitylibrary.org/page/33190481) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1010](https://www.biodiversitylibrary.org/page/33190481) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8762-1), [Wikidata](https://www.wikidata.org/wiki/Q6084610). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rutström, Carl Birger (1758-1826), Swedish botanist; Dr. phil. Uppsala 1772; Dr. med. Harderwijk 1793; botanical demonstrator in Åbo 1794-1798; in various administrative positions at Stockholm from 1799. 
-**Abbreviated name**: *Rutstr.*
+**Abbreviated name**: *Rutstr.* \[standard form in IPNI: *Rutstr.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 864](https://www.biodiversitylibrary.org/page/33190335) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 864](https://www.biodiversitylibrary.org/page/33190335) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8536-1), [Wikidata](https://www.wikidata.org/wiki/Q508940). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rohr, Julius Philipp Benjamin von (ca. 1737-1793), Danish (German parents) surveyor, agronomist and soldier (first lieutenant of the militia) on the Danish Island of St. Croix 1757-1791; made several trips in the West Indies and adjacent South America between 1784 and 1791 to study cotton culture; died on the high seas when travelling to Guinea. 
-**Abbreviated name**: *Rohr*
+**Abbreviated name**: *Rohr* \[standard form in IPNI: *Rohr*\]
 
 #### Herbarium and types
 

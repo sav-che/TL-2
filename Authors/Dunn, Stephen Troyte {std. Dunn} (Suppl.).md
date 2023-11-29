@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33260159) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 171](https://www.biodiversitylibrary.org/page/33260159) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2383-1), [Wikidata](https://www.wikidata.org/wiki/Q925156). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dunn, Stephen Troyte {std. Dunn}|first entry]] for this author
 
 ### Author
 
 \* Dunn, Stephen Troyte (1868-1938), British botanist, born 26 Aug 1868, BA Oxford from Merton College (classics), FLS 1895, private secretary to Sir W. Thiselton-Dyer at Kew 1898-1901, assistant Kew Herbarium 1901-1903, superintendent botany and forest department Hongkong 1903-1910, from 1913-1915 and 1919-1928 again at Kew, collected plants in China, Korea, Taiwan, Japan, and Hongkong. 
-**Abbreviated name**: *Dunn*
+**Abbreviated name**: *Dunn* \[standard form in IPNI: *Dunn*\]
 
 #### Herbarium and types
 

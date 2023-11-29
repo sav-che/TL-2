@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33265945) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33265945) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17356-1), [Wikidata](https://www.wikidata.org/wiki/Q47115684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Colla, Silvia (1902-x), Italian botanist, mentor of the Soc. Bot. Ital. 1926, Dr. Sc. Torino, studied 1938 in Argentina and the U.S.A. 
-**Abbreviated name**: *S. Colla*
+**Abbreviated name**: *S. Colla* \[standard form in IPNI: *S.Colla*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 823](https://www.biodiversitylibrary.org/page/33333962) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 823](https://www.biodiversitylibrary.org/page/33333962) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12881-1), [Wikidata](https://www.wikidata.org/wiki/Q1553673). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stache, \[Karl Heinrich Hector\] Guido (1833-1921), German (Silesian) geologist and palaeontologist; Dr. phil. Breslau 1855; from 1857-1902 with the Geologische Reichsanstalt, Wien, from 1892 as director. 
-**Abbreviated name**: *Stache*
+**Abbreviated name**: *Stache* \[standard form in IPNI: *Stache*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33120705) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33120705) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1926-1), [Wikidata](https://www.wikidata.org/wiki/Q13107330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Curtis, Samuel (1779-1860), British florist at Walworth, Notts., proprietor of the *Botanical Magazine* 1801-1846, cousin of William Curtis. 
-**Abbreviated name**: *S. Curtis*
+**Abbreviated name**: *S. Curtis* \[standard form in IPNI: *S.Curtis*\]
 
 #### Herbarium and types
 

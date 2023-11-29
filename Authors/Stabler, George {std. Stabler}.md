@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33333961) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33333961) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10003-1), [Wikidata](https://www.wikidata.org/wiki/Q21609421). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stabler, George (1839-1910), British bryologist; schoolfellow of Richard Spruce; village schoolmaster at Levens, Westmoreland. 
-**Abbreviated name**: *Stabler*
+**Abbreviated name**: *Stabler* \[standard form in IPNI: *Stabler*\]
 
 #### Herbarium and types
 

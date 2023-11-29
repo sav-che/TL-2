@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33265724) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33265724) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/13909-1), [Wikidata](https://www.wikidata.org/wiki/Q3103683). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chambray, Marquis Georges de (1783-1849), French botanist born in Paris, died in Breteuil, Eure. 
-**Abbreviated name**: *Chambray*
+**Abbreviated name**: *Chambray* \[standard form in IPNI: *Chambray*\]
 
 #### Herbarium and types
 

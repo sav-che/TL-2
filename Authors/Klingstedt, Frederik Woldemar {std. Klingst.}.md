@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33068810) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33068810) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4848-1), [Wikidata](https://www.wikidata.org/wiki/Q5408992). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Klingstedt, Frederik Woldemar (1881-1964), Finnish botanist and chemist at Turku. 
-**Abbreviated name**: *Klingst.*
+**Abbreviated name**: *Klingst.* \[standard form in IPNI: *Klingst.*\]
 
 #### Herbarium and types
 

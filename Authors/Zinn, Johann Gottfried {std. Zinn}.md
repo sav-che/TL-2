@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33066884) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33066884) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12044-1), [Wikidata](https://www.wikidata.org/wiki/Q73413). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zinn, Johann Gottfried (1727-1759), German (Franconian) physician and botanist; studied at Göttingen; Dr. med. 1749; in Berlin 1749-1753; e.o. professor of pharmacology and director of the botanical garden of Göttingen 1753, ord. prof. 1755. 
-**Abbreviated name**: *Zinn*
+**Abbreviated name**: *Zinn* \[standard form in IPNI: *Zinn*\]
 
 #### Herbarium and types
 

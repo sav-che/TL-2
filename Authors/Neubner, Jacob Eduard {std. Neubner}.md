@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33355817) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33355817) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6924-1), [Wikidata](https://www.wikidata.org/wiki/Q21522076). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Neubner, Jacob Eduard (1855-?), German lichenologist; Dr. phil. Leipzig 1883; high school teacher at Plaven/Vogtland from 1882. 
-**Abbreviated name**: *Neubner*
+**Abbreviated name**: *Neubner* \[standard form in IPNI: *Neubner*\]
 
 #### Herbarium and types
 

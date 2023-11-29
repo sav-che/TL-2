@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33333565) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33333565) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9357-1), [Wikidata](https://www.wikidata.org/wiki/Q21608533). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwarze, Carl Alois (1886-1956), American mycologist and high school teacher; Dr. phil. Univ. Missouri 1909, subsequently lecturer at the chemistry department Columbia University; assistant plant pathologist New Jersey Experiment Station; high school teacher Jamaica High School, Long Island, N.Y. and id. Newton High School, Queens, New York; consulting plant pathologist from 1923. 
-**Abbreviated name**: *C.A. Schwarze*
+**Abbreviated name**: *C.A. Schwarze* \[standard form in IPNI: *Schwarze*\]
 
 #### Herbarium and types
 

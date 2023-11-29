@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265037) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33265037) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/13862-1), [Wikidata](https://www.wikidata.org/wiki/Q21505615). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bancroft, Helen \["Nellie"\] Holme (1887-?), British palaeobotanist, M.A. Oxon., B.S. London 1910, D. Sci. id. 1915, private research worker at Barneville (Manche), France. 
-**Abbreviated name**: *H.H. Bancroft*
+**Abbreviated name**: *H.H. Bancroft* \[standard form in IPNI: *H.H.Bancr.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33068432) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33068432) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3930-1), [Wikidata](https://www.wikidata.org/wiki/Q5555788). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hicken, Cristóbal Maria (1875-1933), Argentine botanist; founder (1911) of the Instituto botanico Darwinion at San Martin, later at San Isidro; Dr. sci. Buenos Aires, 1906; Lecturer at the Collegio militar (1899-1928) and simultaneously at various other schools in Buenos Aires. 
-**Abbreviated name**: *Hicken*
+**Abbreviated name**: *Hicken* \[standard form in IPNI: *Hicken*\]
 
 #### Herbarium and types
 

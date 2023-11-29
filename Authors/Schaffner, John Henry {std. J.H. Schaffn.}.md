@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33333250) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33333250) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9009-1), [Wikidata](https://www.wikidata.org/wiki/Q16027658). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schaffner, John Henry (1866-1939), American botanist; A.B. Baker Univ. 1893; M.S. ib. 1896; at Univ. Michigan 1894-1895, at South Dakota 1895-1896; at Chicago 1896-1897; assistant botanist Ohio State Univ. 1897-1899; asst. prof. bot. ib. 1899-1902; assoc. prof. bot. 1902-1911; prof. bot. 1911-1939; head of Botany Dept. 1908-1918. 
-**Abbreviated name**: *J.H. Schaffn.*
+**Abbreviated name**: *J.H. Schaffn.* \[standard form in IPNI: *J.H.Schaffn.*\]
 
 #### Herbarium and types
 

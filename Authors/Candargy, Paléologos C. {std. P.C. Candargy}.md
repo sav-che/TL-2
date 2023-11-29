@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33266663) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33266663) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1383-1), [Wikidata](https://www.wikidata.org/wiki/Q5404505). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Candargy, Paléologos C. (1870-\[unknown\]), Greek botanist, son of C.A. Candargy, born at the Island of Lesbos, attended the École polytechnique fedérale de l'Université à Zürich 1887-1889, collected on Lesbos 1889-1894, lived in Constantinople (Istanbul) 1894-1896, in Paris 1896-1899, studied at the Sorbonne (biology, chemistry, physics, geology), Dr. Sci. Paris 1899, from 1900 at the Botanical Garden and Museum of the University of Athens until ca. 1905, further data absent. 
-**Abbreviated name**: *P.C. Candargy*
+**Abbreviated name**: *P.C. Candargy* \[standard form in IPNI: *P.Candargy*\]
 
 #### Herbarium and types
 

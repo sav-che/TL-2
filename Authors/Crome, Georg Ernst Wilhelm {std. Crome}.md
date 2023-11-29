@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33120700) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33120700) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17536-1), [Wikidata](https://www.wikidata.org/wiki/Q1431105). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Crome, Georg Ernst Wilhelm (1781-1813), German botanist and pharmacist, professor at the Mögelin Agricultural College, provisor at Schwerin, Mecklenburg. 
-**Abbreviated name**: *Crome*
+**Abbreviated name**: *Crome* \[standard form in IPNI: *Crome*\]
 
 #### Herbarium and types
 

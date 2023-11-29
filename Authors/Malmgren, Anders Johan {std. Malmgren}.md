@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33355355) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33355355) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6036-1), [Wikidata](https://www.wikidata.org/wiki/Q5973883). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Malmgren, Anders Johan (1834-1897), Finnish zoologist and botanist; Dr. phil. Helsinki 1864; professor of zoology Helsinki 1869; inspector of fisheries 1874; governor of Uleåborg (Ostrobotnia) 1889. 
-**Abbreviated name**: *Malmgren*
+**Abbreviated name**: *Malmgren* \[standard form in IPNI: *Malmgren*\]
 
 #### Herbarium and types
 

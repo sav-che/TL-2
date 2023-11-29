@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33333530) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 391](https://www.biodiversitylibrary.org/page/33333530) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9320-1), [Wikidata](https://www.wikidata.org/wiki/Q21392943). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schulze, Erwin (1861-1931), German (Prussian-Saxonian) botanist and naturalist. 
-**Abbreviated name**: *Erw. Schulze*
+**Abbreviated name**: *Erw. Schulze* \[standard form in IPNI: *E.Schulze*\]
 
 #### Herbarium and types
 

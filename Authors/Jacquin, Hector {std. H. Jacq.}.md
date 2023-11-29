@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33068647) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 405](https://www.biodiversitylibrary.org/page/33068647) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4387-1), [Wikidata](https://www.wikidata.org/wiki/Q36574228). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jacquin, Hector ("aîné") (*fl*. 1832), French horticulturist. 
-**Abbreviated name**: *H. Jacq.*
+**Abbreviated name**: *H. Jacq.* \[standard form in IPNI: *H.Jacq.*\]
 
 #### Herbarium and types
 

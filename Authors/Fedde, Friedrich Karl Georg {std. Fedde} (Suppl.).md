@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33259584) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33259584) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2662-1), [Wikidata](https://www.wikidata.org/wiki/Q87035). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fedde, Friedrich Karl Georg {std. Fedde}|first entry]] for this author
 
 ### Author
 
 \* Fedde, Friedrich Karl Georg (1873-1942), German botanist, editor and publisher, born 30 Jun 1873 in Breslau (now Wroclaw, Poland), attended the "pre-Gymnasium" and Gymnasium in Breslau 1879-1892, studied natural sciences at the Univ. of Breslau 1892-1896, Dr. phil. 1896 Univ. of Breslau (under F.A. Pax), teacher in Breslau and Tarnowitz, to schools in Berlin in 1901, also worked full time at the Botanical Museum Berlin-Dahlem from 1924, died 14 Mar 1942 in Berlin-Dahlem. 
-**Abbreviated name**: *Fedde*
+**Abbreviated name**: *Fedde* \[standard form in IPNI: *Fedde*\]
 
 #### Herbarium and types
 

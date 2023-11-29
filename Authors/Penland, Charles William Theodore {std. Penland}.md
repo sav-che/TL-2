@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33189623) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33189623) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7488-1), [Wikidata](https://www.wikidata.org/wiki/Q5765020). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Penland, Charles William Theodore (1899-x), American botanist; and ecologist; professor of botany at Colorado College (Boulder) from 1922. 
-**Abbreviated name**: *Penland*
+**Abbreviated name**: *Penland* \[standard form in IPNI: *Penland*\]
 
 #### Herbarium and types
 

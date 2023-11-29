@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33120317) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33120317) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/679-1), [Wikidata](https://www.wikidata.org/wiki/Q110731). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bergen, Karl August von (1704-1759), German botanist at Frankfurt. 
-**Abbreviated name**: *Bergen*
+**Abbreviated name**: *Bergen* \[standard form in IPNI: *Bergen*\]
 
 #### Herbarium and types
 

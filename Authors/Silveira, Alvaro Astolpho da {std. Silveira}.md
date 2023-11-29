@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33333739) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 600](https://www.biodiversitylibrary.org/page/33333739) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9650-1), [Wikidata](https://www.wikidata.org/wiki/Q19002102). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Silveira, Alvaro Astolpho da (1867-1945), Brazilian botanist, civil and mining engineer; geologist on the Commissão geographica e geologica do Estado de Minas Geraes 1894, chief engineer id. 1895. 
-**Abbreviated name**: *Silveira*
+**Abbreviated name**: *Silveira* \[standard form in IPNI: *Silveira*\]
 
 #### Herbarium and types
 

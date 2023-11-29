@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33355656) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33355656) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6617-1), [Wikidata](https://www.wikidata.org/wiki/Q929387). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moore, George Thomas (1871-1956), American algologist; Ph. D. Harvard 1900; plant physiologist at Washington Univ. 1909-1912; director of the Missouri Botanical Garden 1912-1953 
-**Abbreviated name**: *G. Moore*
+**Abbreviated name**: *G. Moore* \[standard form in IPNI: *G.Moore*\]
 
 #### Herbarium and types
 

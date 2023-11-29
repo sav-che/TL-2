@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33066488) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33066488) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11490-1), [Wikidata](https://www.wikidata.org/wiki/Q18417512). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wehrhahn, Wilhelm (1857-1926), German (Hannoverian) high school teacher and botanist; studied at the Hannover Teacher's College 1879-1882; assistant teacher at Kloster 1882; employed in the Hannover school system from 1885, teacher at the Kleinenfelde high school 1898, from 1920 as director. 
-**Abbreviated name**: *Wehrhahn*
+**Abbreviated name**: *Wehrhahn* \[standard form in IPNI: *Wehrh.*\]
 
 #### Herbarium and types
 

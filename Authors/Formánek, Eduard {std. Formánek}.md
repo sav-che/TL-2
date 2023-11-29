@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33259820) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33259820) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2826-1), [Wikidata](https://www.wikidata.org/wiki/Q5818902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Formánek, Eduard (1845-1900), Czech botanist, born 7 Apr 1845 in Klattau (Moravia), studied at the Univ. of Innsbruck, Dr. Sci. and prof. at the gymnasium in Brünn (Brno), collected in the Balkans, died 9 Jun 1900 during a visit to Mt. Athos in Greece. 
-**Abbreviated name**: *Formánek*
+**Abbreviated name**: *Formánek* \[standard form in IPNI: *Formánek*\]
 
 #### Herbarium and types
 

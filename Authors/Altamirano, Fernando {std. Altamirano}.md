@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33264818) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33264818) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/12084-1), [Wikidata](https://www.wikidata.org/wiki/Q5444587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Altamirano, Fernando (1850-1908), Mexican botanist and plant collector, Dr. med. Mexico 1878; professor at the Escuela de Medicina Mexico from 1878; director of the Instituto médico nacional 1890-1908. 
-**Abbreviated name**: *Altamirano*
+**Abbreviated name**: *Altamirano* \[standard form in IPNI: *Altam.*\]
 
 #### Herbarium and types
 

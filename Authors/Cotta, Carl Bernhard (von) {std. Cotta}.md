@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33120688) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33120688) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/13056-1), [Wikidata](https://www.wikidata.org/wiki/Q70211). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cotta, Carl Bernhard \[von\] (1808-1879), German geologist, professor at the mining academy of Freiberg (Sachsen). 
-**Abbreviated name**: *Cotta*
+**Abbreviated name**: *Cotta* \[standard form in IPNI: *Cotta*\]
 
 #### Collections
 

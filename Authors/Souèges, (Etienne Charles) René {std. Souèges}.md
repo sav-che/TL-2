@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33333894) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33333894) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12875-1), [Wikidata](https://www.wikidata.org/wiki/Q6174361). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Souèges, \[Etienne Charles\] René (1876-1967), French botanist and pharmacist; assistant for micrography at the École supérieure de Pharmacie de Paris 1904-1910; Dr. phil. Paris 1907; director of the Département de micrographie ib. from 1910; chef-pharmacien des Asiles de Paris 1908-1942. 
-**Abbreviated name**: *Souèges*
+**Abbreviated name**: *Souèges* \[standard form in IPNI: *Souèges*\]
 
 #### Herbarium and types
 

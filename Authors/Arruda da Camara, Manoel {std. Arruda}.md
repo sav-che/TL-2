@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33120200) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33120200) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/291-1), [Wikidata](https://www.wikidata.org/wiki/Q690995). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Arruda da Camara, Manoel (1752-1810), Brazilian botanist. 
-**Abbreviated name**: *Arruda*
+**Abbreviated name**: *Arruda* \[standard form in IPNI: *Arruda*\]
 
 #### Herbarium and types
 

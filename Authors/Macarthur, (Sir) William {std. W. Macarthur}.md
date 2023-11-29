@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33355296) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33355296) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5886-1), [Wikidata](https://www.wikidata.org/wiki/Q8014978). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Macarthur, (Sir) William (1800-1882), Australian horticulturist and botanist; commissioner to the Paris Exhibition of 1855; active as a farmer at Camden Park, New South Wales. 
-**Abbreviated name**: *W. Macarthur*
+**Abbreviated name**: *W. Macarthur* \[standard form in IPNI: *Macarthur*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1019](https://www.biodiversitylibrary.org/page/33121150) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1019](https://www.biodiversitylibrary.org/page/33121150) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3447-1), [Wikidata](https://www.wikidata.org/wiki/Q1528508). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gümbel, (Wilhelm) Theodor (von) {std. W. Gümbel} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gümbel, Wilhelm Theodor (1812-1858), German bryologist, director of a secondary school at Spandau. 
-**Abbreviated name**: *W. Gümbel*
+**Abbreviated name**: *W. Gümbel* \[standard form in IPNI: *W.Gümbel*\]
 
 #### Herbarium and types
 

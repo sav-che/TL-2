@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33120985) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33120985) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2822-1), [Wikidata](https://www.wikidata.org/wiki/Q21513337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Foreau, Georges (S.J.) (b. Eugène Armand Foreau) {std. Foreau} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Foreau, Georges (1882-1967), French clergyman and plant collector. 
-**Abbreviated name**: *Foreau*
+**Abbreviated name**: *Foreau* \[standard form in IPNI: *Foreau*\]
 
 #### Herbarium and types
 

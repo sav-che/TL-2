@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33068775) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33068775) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4766-1), [Wikidata](https://www.wikidata.org/wiki/Q6143368). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kiaer, Frantz Casper (1835-1893), Norwegian bryologist and physician; Dr. med. Oslo 1863, hospital physician at Oslo 1864-1893. 
-**Abbreviated name**: *Kiaer*
+**Abbreviated name**: *Kiaer* \[standard form in IPNI: *Kiaer*\]
 
 #### Herbarium and types
 

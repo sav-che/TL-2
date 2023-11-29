@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33066310) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33066310) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11302-1), [Wikidata](https://www.wikidata.org/wiki/Q21611959). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Waghorne, Arthur Charles (1851-1900), British missionary and botanist; educated at Canterbury for the Society for the Propagation of the Gospel to Newfoundland 1875; ordained Queen's College St. John's 1875 (deacon), 1878 (priest); mission priest in Newfoundland, St. Pierre and Miquelon and Labrador until 1899; in retirement on Jamaica 1899-1900. 
-**Abbreviated name**: *Waghorne*
+**Abbreviated name**: *Waghorne* \[standard form in IPNI: *Waghorne*\]
 
 #### Herbarium and types
 

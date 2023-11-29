@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33260402) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33260402) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2584-1), [Wikidata](https://www.wikidata.org/wiki/Q5675248). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Etlinger, Andreas Ernst (fl. 1777), German physician and botanist, Ph.D. at Erlangen. 
-**Abbreviated name**: *Etl.*
+**Abbreviated name**: *Etl.* \[standard form in IPNI: *Etl.*\]
 
 #### Herbarium and types
 

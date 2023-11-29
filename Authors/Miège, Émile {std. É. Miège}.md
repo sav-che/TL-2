@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33355557) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33355557) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6448-1), [Wikidata](https://www.wikidata.org/wiki/Q47122601). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Miège, Émile (*fl*. 1910), French botanist; Dr. Sci. Paris 1910; agricultural botanist at the École nationale d'agriculture de Rennes. 
-**Abbreviated name**: *É. Miège*
+**Abbreviated name**: *É. Miège* \[standard form in IPNI: *É.Miège*\]
 
 #### Herbarium and types
 

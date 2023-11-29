@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-04-18 06:48:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33265559) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33265559) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16366-1), [Wikidata](https://www.wikidata.org/wiki/Q1345319). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bory de Saint-Vincent, Jean Baptiste Geneviève Marcellin, Baron de {std. Bory}|first entry]] for this author
 
 ### Author
 
 \* Bory de Saint-Vincent, Jean Baptiste Geneviève Marcellin, Baron de (1778-1846), French soldier, geographer, naturalist and explorer, in the French army 1799 until 1840, seconded the expedition with Baudin to Australia 1801, stayed on the Isle de Bourbon and the Canary Islands 1801-1802, on active service in the German-French war 1806-1807, on the scientific expedition to Greece 1829, id. Algeria 1840-1842. 
-**Abbreviated name**: *Bory*
+**Abbreviated name**: *Bory* \[standard form in IPNI: *Bory*\]
 
 #### Herbarium and types
 

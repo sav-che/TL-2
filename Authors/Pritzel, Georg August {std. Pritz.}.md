@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33189880) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33189880) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7975-1), [Wikidata](https://www.wikidata.org/wiki/Q72910). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pritzel, Georg August (1815-1874), German (Silesian/Prussian) botanist and botanical bibliographer; studied theology and medicine at Breslau (consilium abeundi 1840), continued his medical and botanical studies at Leipzig 1841-1843; from 1844 working at his *Thesaurus*, mainly from Berlin and Leipzig; from 1850 in Berlin, from 1851-1854 employed by the Royal Library as "Hülfsarbeiter"; from 1854-1872 archivist and librarian at the Prussian Academy of Sciences and "custos" at the Royal Library in Berlin; in a psychiatric clinic at Hornheim near Kiel 1872-1874; highly gifted and erudite bibliographer; the man to whose memory "Taxonomic literature" should be dedicated. 
-**Abbreviated name**: *Pritz.*
+**Abbreviated name**: *Pritz.* \[standard form in IPNI: *Pritz.*\]
 
 #### Herbarium and types
 

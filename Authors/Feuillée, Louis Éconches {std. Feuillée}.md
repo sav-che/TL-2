@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33120957) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33120957) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2707-1), [Wikidata](https://www.wikidata.org/wiki/Q1871688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Feuillée, Louis Éconches (Père) {std. Feuillée} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Feuillée, Louis Éconches (1660-1732), French clergyman (order of the Minimi), explorer, astronomer and botanist. 
-**Abbreviated name**: *Feuillée*
+**Abbreviated name**: *Feuillée* \[standard form in IPNI: *Feuillée*\]
 
 #### Herbarium and types
 

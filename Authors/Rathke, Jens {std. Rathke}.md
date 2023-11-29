@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33190055) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33190055) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8155-1), [Wikidata](https://www.wikidata.org/wiki/Q3365649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rathke, Jens (1769-1855), Norwegian botanist; Mag. theol. Kjøbenhavn 1792; teacher at Christiania (Oslo); professor of zoology at Kjøbenhavn 1810-1813; professor of natural history at Christiania 1813-1845, director of the botanical garden ib. 1816-1843. 
-**Abbreviated name**: *Rathke*
+**Abbreviated name**: *Rathke* \[standard form in IPNI: *Rathke*\]
 
 #### Herbarium and types
 

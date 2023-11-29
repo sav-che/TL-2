@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33190011) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33190011) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8082-1), [Wikidata](https://www.wikidata.org/wiki/Q21606829). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Radian, Simion Stefan (1871-1958), Rumanian botanist at the University of Bucarest; director of the Bucarest University Botanical Garden 1937. 
-**Abbreviated name**: *Radian*
+**Abbreviated name**: *Radian* \[standard form in IPNI: *Radian*\]
 
 #### Herbarium and types
 

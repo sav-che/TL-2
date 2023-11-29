@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33189833) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33189833) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25023-1), [Wikidata](https://www.wikidata.org/wiki/Q19513669). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Potonié, Robert \[Henri Hermann Ernst\] (1889-1974), German palaeobotanist, palynologist and coal petrologist; son of Henry Potonié; Dr. phil. Berlin 1920; habil. Berlin (Techn. Hochsch.) 1922; from 1920-1923 voluntary collaborator, from 1923-1924 assistant with the Preuss. Geol. Landesanst.; 1934-1955 Bezirks-Geologe, Reichsamt Bodenforschung, ultimately at Krefeld. 
-**Abbreviated name**: *R. Potonié*
+**Abbreviated name**: *R. Potonié* \[standard form in IPNI: *R.Potonié*\]
 
 #### Herbarium and types
 

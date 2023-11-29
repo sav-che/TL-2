@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33355116) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33355116) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5574-1), [Wikidata](https://www.wikidata.org/wiki/Q123167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Liebe, Karl Leopold Theodor (1828-1894), German ornithologist, mineralogist, geologist, and botanist; Dr. phil. Jena 1852; high school teacher at Hamburg (1852-1855); id. Gera (1855-1861 at the" Gewerbeschule", 1861-1894 at the "Rutheneum"); student of Oken and Schleiden. 
-**Abbreviated name**: *K.L.T. Liebe*
+**Abbreviated name**: *K.L.T. Liebe* \[standard form in IPNI: *K.L.T.Liebe*\]
 
 #### Herbarium and types
 

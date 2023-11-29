@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 833](https://www.biodiversitylibrary.org/page/33069075) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 833](https://www.biodiversitylibrary.org/page/33069075) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5456-1), [Wikidata](https://www.wikidata.org/wiki/Q21518617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lely, Hugh Vandervaes (1891-x), Nigerian botanist and conservator of forests. 
-**Abbreviated name**: *Lely*
+**Abbreviated name**: *Lely* \[standard form in IPNI: *Lely*\]
 
 #### Herbarium and types
 

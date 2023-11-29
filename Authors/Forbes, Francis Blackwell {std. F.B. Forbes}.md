@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/page/33120983) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/page/33120983) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2814-1), [Wikidata](https://www.wikidata.org/wiki/Q4491809). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Forbes, Francis Blackwell {std. F.B. Forbes} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Forbes, Francis Blackwell (1839-1908), American botanist who lived in China 1857-1882. 
-**Abbreviated name**: *F.Forbes*
+**Abbreviated name**: *F.Forbes* \[standard form in IPNI: *F.B.Forbes*\]
 
 #### Herbarium and types
 

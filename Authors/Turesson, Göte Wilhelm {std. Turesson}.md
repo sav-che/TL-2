@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33212583) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33212583) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10911-1), [Wikidata](https://www.wikidata.org/wiki/Q1388971). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Turesson, Göte Wilhelm (1892-1970), Swedish botanist; in the United States 1912-1915, studied at the University of Washington, Seattle, B.Sc. ib. 1914, M.Sc. 1915; assistant with the botanical departments of Washington University; returned to Sweden 1915, studied at Lund, Lic. sci. ib. 1921; Dr. phil. 1922, specializing in genecology; lecturer Lund 1922-1927; chief plant breeder at the Weibullsholm Plant Breeding Institute, Karlskrona 1927-1931; research "docent" at Lund University 1931-1935; professor of systematic botany and genetics at the Agricultural College of Sweden, Uppsala 1935-1959; in retirement at Lund. 
-**Abbreviated name**: *Turesson*
+**Abbreviated name**: *Turesson* \[standard form in IPNI: *Turesson*\]
 
 #### Herbarium and types
 

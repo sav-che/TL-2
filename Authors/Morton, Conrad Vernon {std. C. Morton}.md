@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33355685) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 598](https://www.biodiversitylibrary.org/page/33355685) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6685-1), [Wikidata](https://www.wikidata.org/wiki/Q1127029). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morton, Conrad Vernon (1905-1972), American botanist; AB, Univ. Calif., 1928; at the Smithsonian Institution (1928-1972), specialist on pteridophytes, Gesneriaceae and Solanaceae. 
-**Abbreviated name**: *C. Morton*
+**Abbreviated name**: *C. Morton* \[standard form in IPNI: *C.V.Morton*\]
 
 #### Herbarium and types
 

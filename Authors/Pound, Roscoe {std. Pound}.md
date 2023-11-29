@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33189838) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33189838) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25031-1), [Wikidata](https://www.wikidata.org/wiki/Q1149723). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pound, Roscoe (1870-1964), American botanist; Dr. phil. Univ. Nebraska 1897, director Nebraska bot. Survey 1892-1903; Dean College of Law, Nebraska 1903-1907; professor of law Northwestern Univ. 1907-1909; Law School Chicago 1904-1915; LL.D. Mich. Univ. 1913; Harvard Law School 1910-1915; Dean of Harvard Law School 1915-1936, professor of law 1937-1947. 
-**Abbreviated name**: *Pound*
+**Abbreviated name**: *Pound* \[standard form in IPNI: *Pound*\]
 
 #### Herbarium and types
 

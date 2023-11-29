@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33189473) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33189473) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7299-1), [Wikidata](https://www.wikidata.org/wiki/Q20734693). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pamplin, William (1806-1899), British botanist; from 1839 botanical bookseller and publisher in Soho; retired to Llanderfel, North Wales 1863. 
-**Abbreviated name**: *Pamplin*
+**Abbreviated name**: *Pamplin* \[standard form in IPNI: *Pamplin*\]
 
 #### Herbarium and types
 

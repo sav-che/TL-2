@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33068837) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33068837) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4912-1), [Wikidata](https://www.wikidata.org/wiki/Q71081). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koehne, Bernhard Adalbert Emil (1848-1918), German botanist and dendrologist; Dr. phil. Berol. 1869; participated as "Vizefeldwebel beim Alexander Regiment" in the Battle of Gravelotte (18 Aug 1870); teacher at the Friedrich-Werderschen Gewerbschule 1872-1880; from 1880 at the then new Falk-Realgymnasium, both in Berlin; professor's title 1891; from 1913 retired; one of the founders (1881) of the Deutsche botanische Gesellschaft. 
-**Abbreviated name**: *Koehne*
+**Abbreviated name**: *Koehne* \[standard form in IPNI: *Koehne*\]
 
 #### Herbarium and types
 

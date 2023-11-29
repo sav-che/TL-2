@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33264761) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 14](https://www.biodiversitylibrary.org/page/33264761) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/50-1), [Wikidata](https://www.wikidata.org/wiki/Q365923). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Acharius, Erik {std. Achar.}|first entry]] for this author
 
 ### Author
 
 \* Acharius, Erik (1757-1819), Swedish lichenologist, born at Gävle, studied in Uppsala 1773-1776, Dr. phil. with Linnaeus 1776; Dr. med. Lund 1782, ultimately provincial medical officer and, from 1795, chief physician at the Vadstena hospital; member Swedish Academy of Sciences 1796; honorary professor's title 1803, Vasa order 1809. 
-**Abbreviated name**: *Achar.*
+**Abbreviated name**: *Achar.* \[standard form in IPNI: *Ach.*\]
 
 #### Herbarium and types
 

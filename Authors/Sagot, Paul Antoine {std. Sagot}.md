@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1053](https://www.biodiversitylibrary.org/page/33190524) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1053](https://www.biodiversitylibrary.org/page/33190524) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8809-1), [Wikidata](https://www.wikidata.org/wiki/Q4404450). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sagot, Paul Antoine (1821-1888), French botanist and plant collector; Dr. med. Paris 1848; practicing physician at Coulanges-sur-Yonne 1848-1853; naval surgeon in French Guyana and briefly on the French Antilles 1854-1859; in Ténériffe 1864-1865; professor of natural sciences at the École normale spéciale de Cluny; 1865-1877; from 1877-1881 at Dijon; from 1881-1888 at Melun nr. Paris, associated with the Paris Muséum d'Histoire naturelle. 
-**Abbreviated name**: *Sagot*
+**Abbreviated name**: *Sagot* \[standard form in IPNI: *Sagot*\]
 
 #### Herbarium and types
 

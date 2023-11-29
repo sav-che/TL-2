@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33333620) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33333620) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9418-1), [Wikidata](https://www.wikidata.org/wiki/Q21608604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seemann, Wilhelm Eduard Gottfried (x-1868), German (Hannover) botanist, geologist and editor; brother of B.C. Seemann. 
-**Abbreviated name**: *W. Seem.*
+**Abbreviated name**: *W. Seem.* \[standard form in IPNI: *W.Seem.*\]
 
 #### Herbarium and types
 

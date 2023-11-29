@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33190005) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33190005) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8076-1), [Wikidata](https://www.wikidata.org/wiki/Q62625). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Radde, Gustav \[Ferdinand Richard\] von (1831-1903), German (Danzig)-born botanist and explorer, later naturalized Russian; in the Crimea 1852-1855; on the Russian Baikal expedition 1855-1860; curator at the St. Petersburg Academy of Sciences 1860-1863; from 1863 at Tiflis, exploring the Caucasus; founder and from 1871 onward director of the Caucasian Museum and travelling further in Caucasia, Armenia, Siberia, the Asiatic tropics and Algeria; Dr. phil. h.c. Dorpat. 
-**Abbreviated name**: *Radde*
+**Abbreviated name**: *Radde* \[standard form in IPNI: *Radde*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33068257) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33068257) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3556-1), [Wikidata](https://www.wikidata.org/wiki/Q21514502). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hahn, Otto (1828-1904), German lawyer and mineralogist at Reutlingen. 
-**Abbreviated name**: *O. Hahn*
+**Abbreviated name**: *O. Hahn* \[standard form in IPNI: *Hahn*\]
 
 #### Herbarium and types
 

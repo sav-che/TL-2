@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33190047) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33190047) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8133-1), [Wikidata](https://www.wikidata.org/wiki/Q1363211). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rand, Isaac (x-1743), British apothecary, gardener and botanist; F.R.S. 1719; curator ("praefectus") of the Chelsea Physick Garden 1724-1743. 
-**Abbreviated name**: *I. Rand*
+**Abbreviated name**: *I. Rand* \[standard form in IPNI: *Rand*\]
 
 #### Herbarium and types
 

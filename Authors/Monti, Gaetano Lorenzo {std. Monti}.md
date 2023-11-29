@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33355651) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33355651) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6604-1), [Wikidata](https://www.wikidata.org/wiki/Q4302107). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Monti, Gaetano Lorenzo (1712-1797), Italian botanist; professor of botany and director (1760-1792) of the botanical garden at Bologna. 
-**Abbreviated name**: *Monti*
+**Abbreviated name**: *Monti* \[standard form in IPNI: *Monti*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33333674) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33333674) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9518-1), [Wikidata](https://www.wikidata.org/wiki/Q67355). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seubert, Moritz August (1818-1878), German (Baden) botanist at Karlsruhe; studied medicine at Heidelberg and natural sciences at Bonn; Dr. phil. Bonn 1841; habil. ib. 1843; professor of botany and zoology and director of the natural history museum of the Karlsruhe Polytechnic; Hofrath (Baden) 1877. 
-**Abbreviated name**: *Seub.*
+**Abbreviated name**: *Seub.* \[standard form in IPNI: *Seub.*\]
 
 #### Herbarium and types
 

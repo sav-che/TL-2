@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33066881) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 541](https://www.biodiversitylibrary.org/page/33066881) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12038-1), [Wikidata](https://www.wikidata.org/wiki/Q115878). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zimmermann, Johann Georg von (1728-1795), Swiss physician and botanist; studied medicine in Göttingen and Bern; practicing physician; royal physician at Hannover 1768, later also in St. Petersburg and Potsdam, at the same time writer on political, social and philosophical issues. 
-**Abbreviated name**: *J.G. Zimmerm.*
+**Abbreviated name**: *J.G. Zimmerm.* \[standard form in IPNI: *J.G.Zimm.*\]
 
 #### Herbarium and types
 

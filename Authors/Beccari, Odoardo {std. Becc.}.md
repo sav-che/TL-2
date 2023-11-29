@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33120286) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33120286) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/15852-1), [Wikidata](https://www.wikidata.org/wiki/Q361037). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Beccari, Odoardo {std. Becc.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Beccari, Odoardo (1843-1920), Italian botanical explorer and palm specialist. 
-**Abbreviated name**: *Becc.*
+**Abbreviated name**: *Becc.* \[standard form in IPNI: *Becc.*\]
 
 #### Herbarium and types
 

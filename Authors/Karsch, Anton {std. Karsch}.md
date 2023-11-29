@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33068740) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33068740) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4655-1), [Wikidata](https://www.wikidata.org/wiki/Q21517319). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Karsch, Anton (1822-1892), German botanist, zoologist and physician; Dr. phil. et med. Greifswald 1846; practicing physician at Münster i.W. 1848, professor of medicine at the University 1852 (extraord.), 1856 (ord.), Geheimer Medizinalrath 1874. 
-**Abbreviated name**: *Karsch*
+**Abbreviated name**: *Karsch* \[standard form in IPNI: *Karsch*\]
 
 #### Herbarium and types
 

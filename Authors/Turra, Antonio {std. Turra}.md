@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33212593) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33212593) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10924-1), [Wikidata](https://www.wikidata.org/wiki/Q2337938). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Turra, Antonio (1730-1796), Italian botanist, mineralogist and practicing physician at Vicenza. 
-**Abbreviated name**: *Turra*
+**Abbreviated name**: *Turra* \[standard form in IPNI: *Turra*\]
 
 #### Herbarium and types
 

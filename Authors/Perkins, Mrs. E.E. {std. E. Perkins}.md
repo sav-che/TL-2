@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33189636) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33189636) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7518-1), [Wikidata](https://www.wikidata.org/wiki/Q36548706). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Perkins, Mrs. E.E. (*fl*. 1830-1840), British botanist at Chelsea; "professor of botanical flower painting" (t.p. Elem. bot.). 
-**Abbreviated name**: *E. Perkins*
+**Abbreviated name**: *E. Perkins* \[standard form in IPNI: *E.Perkins*\]
 
 #### Herbarium and types
 

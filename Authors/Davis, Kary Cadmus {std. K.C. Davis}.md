@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33259153) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33259153) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/13574-1), [Wikidata](https://www.wikidata.org/wiki/Q21338088). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Davis, Kary Cadmus (1867-1936), American botanist, born 7 Oct 1867 at Decatur, Ill., died 4 Feb 1936, B.S. Kansas College 1891, M.S. 1894, Kansas State Norm School 1892, teacher high school Minn. 1892-1898, first person in U.S.A. to receive a Ph.D. in agriculture at Cornell 1900, Minn. State Norm School St. Cloud 1900-1901, prof. hort. and instr. bot. West Virginia and Exper. Station 1901-1902, professor Dunn. Co., School agric. Wisc. 1902-1907, dean 1907-1908 at State School Agric., Canton, New York, 1908-1913 at New Jersey Col., idem in Peabody Col. for Teachers 1914. 
-**Abbreviated name**: *K.C. Davis*
+**Abbreviated name**: *K.C. Davis* \[standard form in IPNI: *K.C.Davis*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33333805) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33333805) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9776-1), [Wikidata](https://www.wikidata.org/wiki/Q21388759). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Charles Eastwick (1820-1900), American engineer, industrial executive and amateur botanist at Philadelphia; chief organizer of the American Iron and Steel Association; president of the Philadelphia and Reading Railroad Company 1861-1869; collected widely in the N.E. United States 1862-1882. 
-**Abbreviated name**: *C.E. Sm.*
+**Abbreviated name**: *C.E. Sm.* \[standard form in IPNI: *C.E.Sm.*\]
 
 #### Herbarium and types
 

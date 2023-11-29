@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33120721) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33120721) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1959-1), [Wikidata](https://www.wikidata.org/wiki/Q36588476). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Daiber, J. {std. Daiber} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Daiber, J. (*fl*. 1866), German highschool-teacher at Tübingen. 
-**Abbreviated name**: *Daiber*
+**Abbreviated name**: *Daiber* \[standard form in IPNI: *Daiber*\]
 
 #### Herbarium and types
 

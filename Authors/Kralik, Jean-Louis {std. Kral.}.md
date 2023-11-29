@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33068903) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33068903) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5019-1), [Wikidata](https://www.wikidata.org/wiki/Q5928562). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kralik, Jean-Louis (1813-1892), Alsatian-French botanist; explorer of the mediterranean flora; curator of the Cosson herbarium 1855-1885. 
-**Abbreviated name**: *Kral.*
+**Abbreviated name**: *Kral.* \[standard form in IPNI: *Kralik*\]
 
 #### Herbarium and types
 

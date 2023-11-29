@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33265856) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33265856) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17273-1), [Wikidata](https://www.wikidata.org/wiki/Q36515179). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Claessens, Mlle B. (fl. 1934-1935), Belgian botanist, Docteur en Sciences, collected in the Belgian Congo. 
-**Abbreviated name**: *Claess.*
+**Abbreviated name**: *Claess.* \[standard form in IPNI: *Claess.*\]
 
 #### Herbarium and types
 

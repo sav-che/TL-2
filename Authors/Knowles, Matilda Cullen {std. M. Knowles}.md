@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33068825) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33068825) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4882-1), [Wikidata](https://www.wikidata.org/wiki/Q6006151). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Knowles, Matilda Cullen (1864-1933), Irish lichenologist at the \[National\] Science and Art Museum in Dublin from 1902. 
-**Abbreviated name**: *M. Knowles*
+**Abbreviated name**: *M. Knowles* \[standard form in IPNI: *M.Knowles*\]
 
 #### Herbarium and types
 

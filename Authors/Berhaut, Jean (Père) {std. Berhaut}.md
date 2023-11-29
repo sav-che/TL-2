@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33265294) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33265294) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/694-1), [Wikidata](https://www.wikidata.org/wiki/Q5928644). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Berhaut, Jean \[Père\] (1902-1977), French clergyman, botanist and entomologist, sometime teacher at the apostolic schools at Bois-noir (Valais, Switzerland), Fribourg and Bouveret, vicar at Thiès, Sénégal, 1937; botanized in Sénégal 1937-1962, later working out his floras in Paris, based on the Museum d'Histoire naturelle. 
-**Abbreviated name**: *Berhaut*
+**Abbreviated name**: *Berhaut* \[standard form in IPNI: *Berhaut*\]
 
 #### Herbarium and types
 

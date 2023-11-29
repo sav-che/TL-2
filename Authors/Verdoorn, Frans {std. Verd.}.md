@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33212746) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 704](https://www.biodiversitylibrary.org/page/33212746) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11133-1), [Wikidata](https://www.wikidata.org/wiki/Q5657736). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Verdoorn, Frans (1906-1984), Dutch botanist, biohistorian and botanical editor; studied at the University of Utrecht 1927-1933; Dr. phil. ib. 1934 (student of A.A. Pulle); established the Chronica botanica Company at Oegstgeest nr Leiden 1934; botanical secretary Int. Union biol. Sci. 1935-1953; transferred the Chronica botanica Company to Waltham, Mass. 1940 (maintained until 1957); technical advisor, Board of the Netherlands East Indies, Surinam and Curaçao, New York 1942-1949; organizing director, Los Angeles State and County Arboretum, Arcadia 1948-1949; professor in the history of biology, Univ. Utrecht 1957-1964, director Biohistorical Institute, Utrecht 1958-1976, regular professor of biohistory 1965-1976. 
-**Abbreviated name**: *Verd.*
+**Abbreviated name**: *Verd.* \[standard form in IPNI: *Verd.*\]
 
 #### Herbarium and types
 

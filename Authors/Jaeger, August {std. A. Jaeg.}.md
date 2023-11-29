@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33068656) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 414](https://www.biodiversitylibrary.org/page/33068656) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4391-1), [Wikidata](https://www.wikidata.org/wiki/Q21513395). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jaeger, August (1842-1877), Swiss bryologist. 
-**Abbreviated name**: *A. Jaeg.*
+**Abbreviated name**: *A. Jaeg.* \[standard form in IPNI: *A.Jaeger*\]
 
 #### Herbarium and types
 

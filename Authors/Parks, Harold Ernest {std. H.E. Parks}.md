@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33189536) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33189536) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24561-1), [Wikidata](https://www.wikidata.org/wiki/Q21522646). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parks, Harold Ernest (1880-1967), American mycologist and plant collector; in the U.S. army in China and the Philippines 1898-1899; salesman at Tacoma 1900-1910, at Santa Cruz, Calif. 1910-1914; post office clerk San José, Calif. 1914-1921, from 1921-1928 collector for UC; associate curator UC 1928-1950, hon. curator 1950-1967. 
-**Abbreviated name**: *H.E. Parks*
+**Abbreviated name**: *H.E. Parks* \[standard form in IPNI: *Parks*\]
 
 #### Herbarium and types
 

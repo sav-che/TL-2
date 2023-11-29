@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33333760) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33333760) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9703-1), [Wikidata](https://www.wikidata.org/wiki/Q21608989). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sirks, Marius Jakob (1889-1966), Dutch botanist and geneticist; Dr. phil. Utrecht Univ. 1915 (student of F.A.F.C. Went); plant breeder at Bunnik 1916-1917, botanist and research geneticist at the Institute for plant breeding at Wageningen 1917-1937; extra-ordinary professor of genetics Groningen (and idem at Leiden) 1937-1948; regular professor of genetics Groningen 1948-1960 (1961), secretary of the International Union of Biological Sciences 1935-1947, president 1947-1950. 
-**Abbreviated name**: *Sirks*
+**Abbreviated name**: *Sirks* \[standard form in IPNI: *Sirks*\]
 
 #### Herbarium and types
 

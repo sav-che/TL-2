@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33260315) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33260315) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/20015929-1), [Wikidata](https://www.wikidata.org/wiki/Q1282734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Elsner, Carl Friedrich Moritz (1809-1894), German highschool teacher and botanist, born 20 Nov 1809 at Kortnitz (distr. Sprottau), visited school at Oberleschen and gymnasium at Hirschberg (Schlesien), at University of Breslau from 1831, became friend with Christian Nees v. Esenbeck, teacher at the Magdalenäum in Breslau 1843, was active in politics in Breslau and Hirschberg as member of the town council, died 22 Sep 1894. 
-**Abbreviated name**: *Elsner*
+**Abbreviated name**: *Elsner* \[standard form in IPNI: *C.F.M.Elsner*\]
 
 #### Herbarium and types
 

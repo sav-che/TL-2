@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33068416) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33068416) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3882-1), [Wikidata](https://www.wikidata.org/wiki/Q21515743). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Herpell, Gustav Jacob (1828-1912), German cryptogamist from the Rhine valley near St. Goar. 
-**Abbreviated name**: *Herp.*
+**Abbreviated name**: *Herp.* \[standard form in IPNI: *Herp.*\]
 
 #### Herbarium and types
 

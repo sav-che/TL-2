@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33355509) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33355509) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12681-1), [Wikidata](https://www.wikidata.org/wiki/Q531358). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meredith, Louisa Anne, née Twamley (1812-1895), British botanical artist, bush naturalist, writer and poetess; settled in Australia 1839 (mainly N.S.W. and Tasmania) 
-**Abbreviated name**: *Meredith*
+**Abbreviated name**: *Meredith* \[standard form in IPNI: *Meredith*\]
 
 #### Herbarium and types
 

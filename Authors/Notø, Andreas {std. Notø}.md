@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2005-06-17 08:57:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33355864) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33355864) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7043-1), [Wikidata](https://www.wikidata.org/wiki/Q21522248). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Notø, Andreas (1865-1948), Norwegian botanist; high school teacher at Tromsø (1888-1909), Levanger (1909-1920) and Bodø (from 1920): 
-**Abbreviated name**: *Notø*
+**Abbreviated name**: *Notø* \[standard form in IPNI: *Notø*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33212311) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33212311) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10582-1), [Wikidata](https://www.wikidata.org/wiki/Q21610608). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomae, Carl \[Karl\] Th. (1808-1885), German (Hessen-Nassau), botanist and general naturalist; studied in Bonn 1832-1835; teacher of natural sciences at Wiesbaden 1835-1845; director of the agricultural institute Geisberg nr Wiesbaden 1849-1868; from 1838 with the professor's title. 
-**Abbreviated name**: *Thomae*
+**Abbreviated name**: *Thomae* \[standard form in IPNI: *Thomae*\]
 
 #### Herbarium and types
 

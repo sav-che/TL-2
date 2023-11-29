@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 786](https://www.biodiversitylibrary.org/page/33333925) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 786](https://www.biodiversitylibrary.org/page/33333925) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9960-1), [Wikidata](https://www.wikidata.org/wiki/Q101024). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spenner, Fridolin Carl Leopold (1798-1841), German (Säckingen, Vorderösterreich, later Baden) botanist; Dr. med. Freiburg i.B. 1829; from 1832-1838 extraordinary, from 1838-1841 ordinary professor of medical botany at the University of Freiburg i.B. 
-**Abbreviated name**: *Spenn.*
+**Abbreviated name**: *Spenn.* \[standard form in IPNI: *Spenn.*\]
 
 #### Herbarium and types
 

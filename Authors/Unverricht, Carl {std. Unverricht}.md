@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33212645) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33212645) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10989-1), [Wikidata](https://www.wikidata.org/wiki/Q5561167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Unverricht, Carl (1809-1883), German (Silesian) teacher and botanist; studied at the Evangelical teacher's seminary at Breslau 1830-1833, assistant teacher at Böhmischdorf nr. Brieg 1833-1834; teacher at Königshütte (Upper Silesia) 1834-1835; studied at the University of Breslau 1835-1836; teacher at Fürstenstein 1836-1842; teacher at the commercial college Bonn 1843, studied again in Breslau 1846, teacher in Hermannstadt 1847-1848, 1851; director of the evangelical school in Broos (Sachsenstadt, Szásváros in Siebenbürgen) 1881, private teacher ib. 1854; active as "Privatgelehrter" in Laurahütte (Preuss. Oberschles.) from 1861. 
-**Abbreviated name**: *Unverricht*
+**Abbreviated name**: *Unverricht* \[standard form in IPNI: *Unverr.*\]
 
 #### Herbarium and types
 

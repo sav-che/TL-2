@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33190171) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 700](https://www.biodiversitylibrary.org/page/33190171) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8268-1), [Wikidata](https://www.wikidata.org/wiki/Q47125088). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reinecke, W. (*fl*. 1886), German botanist at Gernrode a.H. 
-**Abbreviated name**: *W. Reinecke*
+**Abbreviated name**: *W. Reinecke* \[standard form in IPNI: *W.Reinecke*\]
 
 #### Note
 

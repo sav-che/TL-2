@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33068970) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33068970) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5673-1), [Wikidata](https://www.wikidata.org/wiki/Q2613638). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 La Llave, Pablo de (1773-1833), Mexican clergyman; for some time director of the Madrid botanical garden; member of the Cortes 1812; back to Mexico 1823; minister of justice 1823-1825; president of the Senate 1830. 
-**Abbreviated name**: *La Llave*
+**Abbreviated name**: *La Llave* \[standard form in IPNI: *La Llave*\]
 
 #### Herbarium and types
 

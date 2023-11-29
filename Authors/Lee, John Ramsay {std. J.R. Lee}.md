@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/page/33069052) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/page/33069052) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5401-1), [Wikidata](https://www.wikidata.org/wiki/Q21518549). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lee, John Ramsay (1868-1959), Scottish cashier and amateur botanist at Glasgow. 
-**Abbreviated name**: *J. R. Lee*
+**Abbreviated name**: *J. R. Lee* \[standard form in IPNI: *J.R.Lee*\]
 
 #### Herbarium and types
 

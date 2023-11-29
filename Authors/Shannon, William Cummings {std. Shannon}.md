@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33333688) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33333688) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9538-1), [Wikidata](https://www.wikidata.org/wiki/Q21608732). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shannon, William Cummings (1851-1905), American physician and plant collector; MD Bellevue Medical Coll. 1874; assistant surgeon U.S. army 1875-1895; maj. surgeon 1895-1898; in retirement from 1898. 
-**Abbreviated name**: *Shannon*
+**Abbreviated name**: *Shannon* \[standard form in IPNI: *Shannon*\]
 
 #### Herbarium and types
 

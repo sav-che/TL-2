@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33120281) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33120281) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/560-1), [Wikidata](https://www.wikidata.org/wiki/Q36543479). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baumgardt, Ernst {std. Baumgardt} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Baumgardt, Ernst (fl. 1856), German botanist and teacher at a senior high school at Potsdam. 
-**Abbreviated name**: *Baumgardt*
+**Abbreviated name**: *Baumgardt* \[standard form in IPNI: *Baumgardt*\]
 
 #### Herbarium and types
 

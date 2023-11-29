@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 529](https://www.biodiversitylibrary.org/page/33212571) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 529](https://www.biodiversitylibrary.org/page/33212571) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10898-1), [Wikidata](https://www.wikidata.org/wiki/Q1227582). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tulasne, Charles (1816-1884), French botanist and physician; studied medicine in Paris 1840, practicing ib. until 1865; from then with his brother L.R. Tulasne at Hyères, S. France 1865-1884; assisted his brother with botanizing and especially with the illustration of the latter's works. 
-**Abbreviated name**: *C. Tul.*
+**Abbreviated name**: *C. Tul.* \[standard form in IPNI: *C.Tul.*\]
 
 #### Herbarium and types
 

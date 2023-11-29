@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33066433) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33066433) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11418-1), [Wikidata](https://www.wikidata.org/wiki/Q1458423). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wartmann, \[Friedrich\] Bernhard (1830-1902), Swiss naturalist and museum director at St. Gallen; son of Jakob Wartmann; studied Univ. Zürich 1849-1852; with C. v. Nägeli at Freiburg i.B. 1852-1854; Dr. phil. ib. 1854; with Nägeli to Zürich 1855; habil. ib. 1856; professor of natural history at the "Kantonschule" St. Gallen 1856, rector 1863-1877; president of the St. Gallen naturwissenschaftliche Gesellschaft 1868-1902. 
-**Abbreviated name**: *Wartm.*
+**Abbreviated name**: *Wartm.* \[standard form in IPNI: *Wartm.*\]
 
 #### Herbarium and types
 

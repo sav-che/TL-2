@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33189511) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33189511) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7235-1), [Wikidata](https://www.wikidata.org/wiki/Q2959947). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Packe, Charles (1826-1896), British naturalist and mountaineer of independent means in Leicestershire; B.A. Oxford 1849; explorer of the Alps, Pyrenees and the Sierra Nevada. 
-**Abbreviated name**: *Packe*
+**Abbreviated name**: *Packe* \[standard form in IPNI: *Packe*\]
 
 #### Herbarium and types
 

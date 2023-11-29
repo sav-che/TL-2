@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33212057) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33212057) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10229-1), [Wikidata](https://www.wikidata.org/wiki/Q77309). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stromeyer, Friedrich (1776-1835), German (Hannover) physician, botanist and chemist; Dr. med. Göttingen 1800; lecturer (1802) and professor (1805, e.o.; 1807 ord.) in the medical faculty of Göttingen, from 1817 officially for chemistry and pharmacy, but from 1806 in charge of the chemical laboratory; general inspector of pharmacies in the kingdom of Hannover; Hofrath 1817; son of Johann Friedrich Stromeyer. 
-**Abbreviated name**: *F. Stromeyer*
+**Abbreviated name**: *F. Stromeyer* \[standard form in IPNI: *F.Stromeyer*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33120972) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33120972) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12499-1), [Wikidata](https://www.wikidata.org/wiki/Q3281581). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fitzgerald (FitzGerald), Robert David {std. Fitzg.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fitzgerald, Robert Desmond (1830-1892), Australian deputy surveyor-general and botanical artist of Irish birth, in Sydney from 1856. 
-**Abbreviated name**: *Fitzg.*
+**Abbreviated name**: *Fitzg.* \[standard form in IPNI: *Fitzg.*\]
 
 #### Herbarium and types
 

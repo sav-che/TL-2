@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33189931) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12753-1), [Wikidata](https://www.wikidata.org/wiki/Q21606821). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rabenau, \[Benno Carl August\] Hugo von (1845-1921), German (Prussian) botanist at Görlitz, Oberlausitz; studied in Bern, Leipzig and Halle; participated in the 1870/71 Franco-Prussian war; Dr. phil. Göttingen 1874; high school teacher (girls school) at Görlitz 1875-1885; living in New York and Hoboken 1885-1895 as chemical analyst; curator of the museum of the Naturf. Ges. Görlitz from 1895-1901; perpetual director 1901-1921. 
-**Abbreviated name**: *Rabenau*
+**Abbreviated name**: *Rabenau* \[standard form in IPNI: *Rabenau*\]
 
 #### Herbarium and types
 

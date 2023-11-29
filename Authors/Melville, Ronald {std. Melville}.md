@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33355498) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33355498) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6340-1), [Wikidata](https://www.wikidata.org/wiki/Q7365114). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Melville, Ronald (1903-x), British botanist; Cheshunt Exp. Sta. 1930-1933; at the Royal Botanic Gardens, Kew, from 1934; specialist on the Australasian flora and British *Rosa*. 
-**Abbreviated name**: *Melville*
+**Abbreviated name**: *Melville* \[standard form in IPNI: *Melville*\]
 
 #### Herbarium and types
 

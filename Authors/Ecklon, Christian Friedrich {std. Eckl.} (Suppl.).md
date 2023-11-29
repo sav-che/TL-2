@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33260242) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33260242) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2457-1), [Wikidata](https://www.wikidata.org/wiki/Q643765). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ecklon, Christian Friedrich (Frederik) {std. Eckl.}|first entry]] for this author
 
 ### Author
 
 \* Ecklon, Christian Friedrich (1795-1868), Danish botanist, born 17 Dec 1795 at Apenrade, Schleswig-Holstein, had A.W. Neuber as his teacher for Latin and botany, worked in a pharmacy in Apenrade, studied at the University of Kiel, went to Cape Town, South Africa in 1823, working 4 years in Polemanns apothecary, travelled around Cape Town 1827, returned to Europe 1828 with his collections, back to Cape Town in 1829 working with Zeyher, to Hamburg with his collections (8000) in 1833, honorary Dr. sci. University of Kiel in 1838, lost much of his material in a fire, returned to S. Africa in 1838, died at Cape Town Dec 1868. 
-**Abbreviated name**: *Eckl.*
+**Abbreviated name**: *Eckl.* \[standard form in IPNI: *Eckl.*\]
 
 #### Herbarium and types
 

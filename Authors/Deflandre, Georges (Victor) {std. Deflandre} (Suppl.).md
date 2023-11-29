@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33259190) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33259190) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/12401-1), [Wikidata](https://www.wikidata.org/wiki/Q1508870). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Deflandre, Georges (-Victor) {std. Deflandre}|first entry]] for this author
 
 ### Author
 
 \* Deflandre, Georges \[Victor\] (1897-1973), French palaeontologist and algologist at the Museum of Natural History in Paris, born 18 Mar 1897 at Dizy-Magenta near Reims, started studying palaeoprotistology at the University of Paris 1920, 1926 doctor and professor, at Laboratoire de Micropaléontologie École prat. Hautes Études, Paris, died 17 Jun 1973. 
-**Abbreviated name**: *Deflandre*
+**Abbreviated name**: *Deflandre* \[standard form in IPNI: *Deflandre*\]
 
 #### Collections
 

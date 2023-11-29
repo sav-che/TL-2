@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33265125) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33265125) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/15832-1), [Wikidata](https://www.wikidata.org/wiki/Q21505818). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bayrhoffer, Johann Daniel Wilhelm {std. Bayrh.}|first entry]] for this author
 
 ### Author
 
 \* Bayrhoffer, Johann Daniel Wilhelm (1793-1868), German cryptogamist, educated at the Gymnasium of Frankfurt a.M., trained to be a book printer in his father's etablishment; printer in Vienna 1818, idem in Greece (Chios) 1819-1821, from then onward dedicating himself to botany, travelled in Switzerland 1821-1823, in Sweden and Lapponia 1828, id. Italy and Hungary 1832-1834, from 1834-1846 living in Altweilnau, Taunus, ultimately in Lorch. 
-**Abbreviated name**: *Bayrh.*
+**Abbreviated name**: *Bayrh.* \[standard form in IPNI: *Bayrh.*\]
 
 #### Herbarium and types
 

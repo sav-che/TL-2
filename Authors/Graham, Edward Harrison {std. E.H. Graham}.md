@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33258803) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33258803) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3317-1), [Wikidata](https://www.wikidata.org/wiki/Q21514197). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Graham, Edward Harrison (1902-1966), American botanist and conservationist, born 30 Nov 1902 in New Brighton, Penn., B.Sc. 1927 and Ph.D. 1932, Univ. of Pittsburgh, Asst. Curator of Botany, Carnegie Museum, Pittsburgh, U.S.D.A. Soil Conservation Service 1937-1964, becoming Asst. Admin. for Intl. Programs, Guggenheim Fellow 1954, Board of Governors, The Nature Conservancy, Chairman, Commission on Ecology, I.U.C.N. 1957-1966, in retirement with the Conservation Foundation, Washington, D.C., collected plants in the Guianas (1924) and Utah (1931, 1933, 1935), died 16 Mai 1966 in Falls Church, Virginia. 
-**Abbreviated name**: *E.H. Graham*
+**Abbreviated name**: *E.H. Graham* \[standard form in IPNI: *E.H.Graham*\]
 
 #### Herbarium and types
 

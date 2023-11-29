@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-03-15 07:20:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33120549) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33120549) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12369-1), [Wikidata](https://www.wikidata.org/wiki/Q78365). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Burret, Karl Ewald Maximilian {std. Burret} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Burret, Karl Ewald Maximilian (1883-1964), German botanist. 
-**Abbreviated name**: *Burret*
+**Abbreviated name**: *Burret* \[standard form in IPNI: *Burret*\]
 
 #### Herbarium and types
 

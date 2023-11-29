@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33190452) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33190452) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8735-1), [Wikidata](https://www.wikidata.org/wiki/Q733976). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ruiz Lopez, Hipólito (1754-1815), Spanish botanist and explorer; studied natural sciences at Madrid under C.G. Ortega and A. Palau; leader of the Spanish *Expedición botánica* of 1777-1788 to the vice-kingdom of Peru (now Peru & Chile). 
-**Abbreviated name**: *Ruiz*
+**Abbreviated name**: *Ruiz* \[standard form in IPNI: *Ruiz*\]
 
 #### Herbarium and types
 

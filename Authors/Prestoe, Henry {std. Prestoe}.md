@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33189866) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33189866) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7948-1), [Wikidata](https://www.wikidata.org/wiki/Q17996423). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Prestoe, Henry (1842-1923), British gardener; trained at Kew; Government botanist and superintendent Botanic Gardens, Trinidad 1864-1886. 
-**Abbreviated name**: *Prestoe*
+**Abbreviated name**: *Prestoe* \[standard form in IPNI: *Prestoe*\]
 
 #### Herbarium and types
 

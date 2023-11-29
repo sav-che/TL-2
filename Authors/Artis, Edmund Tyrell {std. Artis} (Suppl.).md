@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33264907) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33264907) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/295-1), [Wikidata](https://www.wikidata.org/wiki/Q19958863). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Artis, Edmund Tyrell {std. Artis}|first entry]] for this author
 
 ### Author
 
 \* Artis, Edmund Tyrell (1789-1847), British palaeobotanist, archeologist and antiquarian, brought together an extensive collection of fossil plants, from 1825 living at Castor, Northamptonshire, studying and excavating Roman remains. 
-**Abbreviated name**: *Artis*
+**Abbreviated name**: *Artis* \[standard form in IPNI: *Artis*\]
 
 #### Collections
 

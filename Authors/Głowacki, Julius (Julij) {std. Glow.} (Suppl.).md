@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33258719) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33258719) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3199-1), [Wikidata](https://www.wikidata.org/wiki/Q12793064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Glowacki, Julius {std. Glow.}|first entry]] for this author
 
 ### Author
 
 \* Głowacki, Julius \[Julij\] (1846-1915), Austrian bryologist also interested in lich., born 18 Jun 1846 in Idria (Krain, now Slovenia), studied in Vienna and Graz, middle school prof. from 1870 in various towns, dir. of the gymnasium in Marburg (now Slovenia) 1899-1911, died 18 Mai 1915 in Graz. 
-**Abbreviated name**: *Glow.*
+**Abbreviated name**: *Glow.* \[standard form in IPNI: *Głow.*\]
 
 #### Herbarium and types
 

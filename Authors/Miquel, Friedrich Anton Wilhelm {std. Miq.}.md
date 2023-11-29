@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33355595) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33355595) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6509-1), [Wikidata](https://www.wikidata.org/wiki/Q76742). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Miquel, Friedrich Anton Wilhelm (1811-1871), Dutch botanist; Dr. med. Groningen 1833; practicing physician and director of the Rotterdam botanical garden 1835-1846; professor of botany and director of the botanical garden Amsterdam 1846-1859; idem at Utrecht 1859-1871, from 1862 also director of the Leiden Rijksherbarium. 
-**Abbreviated name**: *Miq.*
+**Abbreviated name**: *Miq.* \[standard form in IPNI: *Miq.*\]
 
 #### Herbarium and types
 

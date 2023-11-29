@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33333751) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33333751) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9686-1), [Wikidata](https://www.wikidata.org/wiki/Q2430593). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sims, John (1749-1831), British physician and botanist; MD Edinburgh 1774; studied at Leiden University 1773-1774; practicing physician in London from 1779. 
-**Abbreviated name**: *Sims*
+**Abbreviated name**: *Sims* \[standard form in IPNI: *Sims*\]
 
 #### Herbarium and types
 

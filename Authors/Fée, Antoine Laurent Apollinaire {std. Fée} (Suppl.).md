@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33259608) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33259608) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18692-1), [Wikidata](https://www.wikidata.org/wiki/Q2627241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fée, Antoine Laurent Apollinaire {std. Fée}|first entry]] for this author
 
 ### Author
 
 \* Fée, Antoine Laurent Apollinaire (1789-1874), French pharmacist and cryptogamic botanist, born 7 Nov 1789 in Saint-Vincent, Ardentes (Indre), studied pharmacy, served in the army as a nurse ("infirmier") in the Penisular War (Guerre d'Espagne) 1809, "maître en Pharmacie" 1815, in Paris 1815-1825, re-entered the military and appointed prof., military hospital, Lille 1825, chief pharmacist and Prof. of Medical History, Faculty of Medicine, Strasbourg 1832, Dr. en médecine 1833 Strasbourg, retired from military service 1852, but remained a prof. in Strasbourg until 1870 when he sought refuge in Geneva during the Franco-Prussian War, Légion d'honneur, elected president of the Société Botanique de France 1874, died 21 Mai 1874 in Paris. 
-**Abbreviated name**: *Fée*
+**Abbreviated name**: *Fée* \[standard form in IPNI: *Fée*\]
 
 #### Herbarium and types
 

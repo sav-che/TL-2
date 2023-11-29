@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33265701) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33265701) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1482-1), [Wikidata](https://www.wikidata.org/wiki/Q21508096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Černjavski, Paule (1892-1969), Yugoslavian botanist at the "Musej srpske zemlje", Beograd, working on plant geography and palaeobotany in Serbia and Slovenia. 
-**Abbreviated name**: *Černjavski*
+**Abbreviated name**: *Černjavski* \[standard form in IPNI: *Černjavski*\]
 
 #### Herbarium and types
 

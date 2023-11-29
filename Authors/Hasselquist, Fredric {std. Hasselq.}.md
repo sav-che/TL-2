@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33068335) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33068335) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3716-1), [Wikidata](https://www.wikidata.org/wiki/Q720017). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hasselquist, Fredric (1722-1752), Swedish explorer of the Levant, pupil of Linnaeus at Uppsala 1741-1749, travelled in the Orient 1749-1752, died at Smyrna. 
-**Abbreviated name**: *Hasselq.*
+**Abbreviated name**: *Hasselq.* \[standard form in IPNI: *Hasselq.*\]
 
 #### Herbarium and types
 

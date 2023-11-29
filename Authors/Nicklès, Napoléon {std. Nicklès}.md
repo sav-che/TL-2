@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33355830) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33355830) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6965-1), [Wikidata](https://www.wikidata.org/wiki/Q21522140). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nicklès, Napoléon (x-1878), French Alsatian pharmacist and botanist at Benfelden. 
-**Abbreviated name**: *Nicklès*
+**Abbreviated name**: *Nicklès* \[standard form in IPNI: *Nicklès*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33266208) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33266208) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/32853-1), [Wikidata](https://www.wikidata.org/wiki/Q21509702). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Czurda-Denk, Viktor (1897-1945), German-Czech born in Klobouk near Brno \[Brünn\], educated at the Gymnasium in Brünn, on active service in world-war I 1915-1918, at the Deutschen Technischen Hochschule in Brünn, 1918-1919, at the Deutschen Universität in Praha with as teachers F. Czapek and A. Pascher, Dr. phil. 1922, assistant at the Institute for physiological botany 1922-1928, habil. 1928, e.o. professor 1934, in charge of the physiological botany at the German University Praha, professor 1 Oct 1940. 
-**Abbreviated name**: *Czurda*
+**Abbreviated name**: *Czurda* \[standard form in IPNI: *Czurda*\]
 
 #### Herbarium and types
 

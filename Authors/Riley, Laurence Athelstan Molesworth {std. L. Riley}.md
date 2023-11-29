@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 795](https://www.biodiversitylibrary.org/page/33190266) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 795](https://www.biodiversitylibrary.org/page/33190266) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8399-1), [Wikidata](https://www.wikidata.org/wiki/Q5413848). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Riley, Laurence Athelstan Molesworth (1888-1928), British (Jersey-born) botanist; volunteer worker at K, on St. George Pacific Expedition 1924-1925; M.A. Oxford 1927. 
-**Abbreviated name**: *L. Riley*
+**Abbreviated name**: *L. Riley* \[standard form in IPNI: *L.Riley*\]
 
 #### Herbarium and types
 

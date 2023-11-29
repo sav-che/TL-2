@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33120333) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33120333) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16037-1), [Wikidata](https://www.wikidata.org/wiki/Q98149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Berthold, Gottfried Dietrich Wilhelm {std. Berthold} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Berthold, Gottfried Dietrich Wilhelm (1854-1937), German algologist. 
-**Abbreviated name**: *Berthold*
+**Abbreviated name**: *Berthold* \[standard form in IPNI: *Berthold*\]
 
 #### Herbarium and types
 

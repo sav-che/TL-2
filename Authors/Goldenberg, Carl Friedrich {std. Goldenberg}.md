@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/page/33121099) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 968](https://www.biodiversitylibrary.org/page/33121099) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3236-1), [Wikidata](https://www.wikidata.org/wiki/Q20746031). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Goldenberg, Carl Friedrich (1798-1881), German palaeobiologist at Saarbrücken. 
-**Abbreviated name**: *Goldenberg*
+**Abbreviated name**: *Goldenberg* \[standard form in IPNI: *Goldenb.*\]
 
 #### Collections
 

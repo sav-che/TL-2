@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33265961) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33265961) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/34869-1), [Wikidata](https://www.wikidata.org/wiki/Q21508906). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Comelli, Franceso (1793-1852), Italian botanist, pharmacist, plant collector at Udine, Italy, born 1 Sep 1793 and died 23 Nov 1852 at Udine. 
-**Abbreviated name**: *Comelli*
+**Abbreviated name**: *Comelli* \[standard form in IPNI: *Comelli*\]
 
 #### Herbarium and types
 

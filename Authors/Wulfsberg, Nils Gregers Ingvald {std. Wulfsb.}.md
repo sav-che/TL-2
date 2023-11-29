@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/page/33066819) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/page/33066819) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11903-1), [Wikidata](https://www.wikidata.org/wiki/Q16650632). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wulfsberg, Nils Gregers Ingvald (1847-1888), Norwegian physician and pharmacologist; studied at the University of Kristiania \[Oslo\] 1864-1873; Cand. med. 1873; Dr. med. Göttingen 1880; stipendiary pharmacology at Kristiania University 1877-1882; physician at Kristiania 1882-1888. 
-**Abbreviated name**: *Wulfsb.*
+**Abbreviated name**: *Wulfsb.* \[standard form in IPNI: *Wulfsb.*\]
 
 #### Herbarium and types
 

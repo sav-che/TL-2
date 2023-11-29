@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33266422) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33266422) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1170-1), [Wikidata](https://www.wikidata.org/wiki/Q21338488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brondeau, Louis de (Jegun de Marans, Antoine Louis Georges) {std. Brond.}|first entry]] for this author
 
 ### Author
 
 \* Brondeau, Louis de \[scientific name\], Antoine-Louis-Georges Jegun de Marans (official name), (1794-1859), French cryptogamist, born at Agen (Lot-et-Garonne), classical education at Agen, being of independent means dedicating himself to cryptogamy at Agen, later at Raignac, kept up narrow contact with Saint-Amans, Persoon, etc. 
-**Abbreviated name**: *Brond.*
+**Abbreviated name**: *Brond.* \[standard form in IPNI: *Brond.*\]
 
 #### Herbarium and types
 

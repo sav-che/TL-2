@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33333538) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33333538) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12853-1), [Wikidata](https://www.wikidata.org/wiki/Q4527684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schumann, Julius \[Heinrich Karl\] (1810-1868), German (Prussian) diatomologist, geologist and high school teacher; studied mathematics at the University of Königsberg i.Pr., teacher's examination 1840; teacher at the Realschule, Elbing 1841-1844; id. at the Altstädtisches Gymnasium 1840-1841, 1844-1868. 
-**Abbreviated name**: *J. Schum.*
+**Abbreviated name**: *J. Schum.* \[standard form in IPNI: *Schum.*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33355831) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 744](https://www.biodiversitylibrary.org/page/33355831) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24065-1), [Wikidata](https://www.wikidata.org/wiki/Q21522148). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nicotra, Leopoldo (1846-1940), Italian physician and botanist, professor of botany and curator of the botanical garden of Sassari 1892-1900; professor of botany at Messina 1900-1900; at Cagliari 1911-1914. 
-**Abbreviated name**: *Nicotra*
+**Abbreviated name**: *Nicotra* \[standard form in IPNI: *Nicotra*\]
 
 #### Herbarium and types
 

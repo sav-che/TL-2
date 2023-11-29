@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33355287) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33355287) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22652-1), [Wikidata](https://www.wikidata.org/wiki/Q21519685). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lyman, George Richard (1871-1926), American phytopathologist and mycologist; Ph. D. Harvard 1906, instructor in botany at Radcliffe College 1900-1901; id. at Dartmouth College 1901-1915; with USDA 1915-1923; with the Agricultural Experiment Station, West Virginia 1923-1926. 
-**Abbreviated name**: *Lyman*
+**Abbreviated name**: *Lyman* \[standard form in IPNI: *Lyman*\]
 
 #### Herbarium and types
 

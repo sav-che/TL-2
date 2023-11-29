@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33066711) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33066711) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11766-1), [Wikidata](https://www.wikidata.org/wiki/Q77892). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winkler, Hans Karl Albert (1877-1945), German (Sachsen) botanist; studied at Kiel 1895; Leipzig 1895-1898; Dr. phil. ib. 1898; hon. lecturer botany Tübingen 1901-1905; travelled to Ceylon, Java, New Guinea, New Zealand, Samoa and North America 1903-1904; extra-ordinary professor of forest botany Tübingen 1905-1912; head of the scientific division of the Hamburg botanical institutes and professor of botany 1912-1945 (director Inst. Allg. Bot. Univ. Hamb. from 1919); in Central Borneo 1924-1925; died in Dresden. 
-**Abbreviated name**: *Ha. Winkl.*
+**Abbreviated name**: *Ha. Winkl.* \[standard form in IPNI: *H.K.A.Winkl.*\]
 
 #### Herbarium and types
 

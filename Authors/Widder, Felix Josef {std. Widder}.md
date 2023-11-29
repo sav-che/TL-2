@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33066599) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33066599) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11639-1), [Wikidata](https://www.wikidata.org/wiki/Q5858559). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Widder, Felix Josef (1892-1974), Austrian botanist; studied at the k.k. Carl-Franzens-Universität Graz 1910; on active service in World War I 1914-1919; Dr. phil. Graz 1919; assistant at the Institut für systematische Botanik, Graz 1919-1936; Unger prize 1920; habil. 1926; extra-ordinary professor of botany 1932; interim director of the Institute 1934-1936; director of the Institute and Botanical Garden 1936; on active service in World War II 1940-1943, regular professor of botany 1950, from 1964 emeritus professor. 
-**Abbreviated name**: *Widder*
+**Abbreviated name**: *Widder* \[standard form in IPNI: *Widder*\]
 
 #### Herbarium and types
 

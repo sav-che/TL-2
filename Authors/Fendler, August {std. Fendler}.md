@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33120953) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33120953) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2679-1), [Wikidata](https://www.wikidata.org/wiki/Q216437). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fendler, August (1813-1883), German born explorer and collector in North and South America. 
-**Abbreviated name**: *Fendler*
+**Abbreviated name**: *Fendler* \[standard form in IPNI: *Fendler*\]
 
 #### Herbarium and types
 

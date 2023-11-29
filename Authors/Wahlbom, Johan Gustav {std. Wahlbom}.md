@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33066357) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33066357) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11316-1), [Wikidata](https://www.wikidata.org/wiki/Q6228772). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wahlbom, Johan Gustav (1724-1808), Swedish botanist and physician; student of C. Linnaeus; Dr. med. Uppsala 1751; regional physician in Kalmar 1754-1794; appointed botanical demonstrator h.c. Stockholm 1794, but stayed in Kalmar. 
-**Abbreviated name**: *Wahlbom*
+**Abbreviated name**: *Wahlbom* \[standard form in IPNI: *Wahlbom*\]
 
 #### Herbarium and types
 

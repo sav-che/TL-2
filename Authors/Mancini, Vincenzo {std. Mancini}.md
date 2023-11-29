@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33355359) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33355359) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6052-1), [Wikidata](https://www.wikidata.org/wiki/Q21519881). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mancini, Vincenzo (1853-?), Italian mycologist and ethnologist at Conegliano and Arellino. 
-**Abbreviated name**: *Mancini*
+**Abbreviated name**: *Mancini* \[standard form in IPNI: *Mancini*\]
 
 #### Herbarium and types
 

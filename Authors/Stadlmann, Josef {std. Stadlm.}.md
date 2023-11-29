@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33333965) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33333965) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10010-1), [Wikidata](https://www.wikidata.org/wiki/Q21609440). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stadlmann, Josef (1881-x), Austrian botanist and high school teacher; Dr. phil. Wien 1907, Student of Richard Wettstein; later director of the Bundes-Gymnasium, Wien xii. 
-**Abbreviated name**: *Stadlm.*
+**Abbreviated name**: *Stadlm.* \[standard form in IPNI: *Stadlm.*\]
 
 #### Herbarium and types
 

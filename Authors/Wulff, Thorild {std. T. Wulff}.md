@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33066818) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 478](https://www.biodiversitylibrary.org/page/33066818) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11902-1), [Wikidata](https://www.wikidata.org/wiki/Q6247752). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wulff, Thorild (1877-1917), Swedish botanist and explorer; Dr. phil. Lund 1902; demonstrator Central Institute of Agricultural Research 1906-1909; lecturer in botany, University College, Stockholm 1909; joined a Swedish-Russian exped. to Spltsbergen 1899; botanical exped. to India 1902-1903, Iceland 1911; travelled in China and Japan 1912-1914 (esp. collecting ethnographical objects); Greenland 1916-1917 (died while on 2nd Thule expedition). 
-**Abbreviated name**: *T. Wulff*
+**Abbreviated name**: *T. Wulff* \[standard form in IPNI: *T.Wulff*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33266542) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33266542) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16723-1), [Wikidata](https://www.wikidata.org/wiki/Q86620). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Burgeff, Hans Edmund Nicola {std. Burgeff}|first entry]] for this author
 
 ### Author
 
 \* Burgeff, Hans \[Edmund Nicola\] (1883-1976), German botanist and pharmacognosist, born at Geisenheim/Rheingau, educated at Wiesbaden, at the University of Freiburg 1903-1906, id. Jena 1906-1909, Dr. phil. Jena with E. Stahl 1909, with W.F.P. Pfeffer 1909-1910, assistant with Goebel in München 1910-1919, habil. München, free from active duty, called to Halle as professor and custos 1919, München 1921, Göttingen 1923, succeeded von Kniep at Würzburg 1925-1958 as ordinary professor of botany and pharmacognosy, from 1938 also director of the Botanical Garden of the university, travelled 1927-1928 in the East (Singapore, W. Java, Philippines, Sumatra East coast), id. in Brazil 1952. 
-**Abbreviated name**: *Burgeff*
+**Abbreviated name**: *Burgeff* \[standard form in IPNI: *Burgeff*\]
 
 #### Herbarium and types
 

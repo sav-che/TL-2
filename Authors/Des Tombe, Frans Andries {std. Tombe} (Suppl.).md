@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33259279) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33259279) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/10725-1), [Wikidata](https://www.wikidata.org/wiki/Q21610838). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Tombe, Frans Andries des {std. Tombe}|first entry]] for this author
 
 ### Author
 
 Des Tombe, Frans Andries (1884-1926), Dutch botanist, see TL-2/6: 388, under Tombe des. 
-**Abbreviated name**: *==Name in the standard form is not specified==.*
+**Abbreviated name**: *==Name in the standard form is not specified==.* \[standard form in IPNI: *Tombe*\]
 

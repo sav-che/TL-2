@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33258549) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33258549) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19028-1), [Wikidata](https://www.wikidata.org/wiki/Q66899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fuckel, Karl Wilhelm Gottlieb Leopold {std. Fuckel}|first entry]] for this author
 
 ### Author
 
 \* Fuckel, \[Karl Wilhelm Gottlieb\] Leopold (1821-1876), German pharmacist and mycologist, born 3 Feb 1821 in Reichelsheim (Hessen-Nassau), owned a pharmacy in Oestrich (Rheingau), died 8 Mai \[Mar?\] 1876 in Vienna of typhus on his way back from a trip to Italy. 
-**Abbreviated name**: *Fuckel*
+**Abbreviated name**: *Fuckel* \[standard form in IPNI: *Fuckel*\]
 
 #### Herbarium and types
 

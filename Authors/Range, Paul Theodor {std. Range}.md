@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33190048) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33190048) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8136-1), [Wikidata](https://www.wikidata.org/wiki/Q21337932). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Range, Paul Theodor (1879-1952), German (Prussian) geologist and botanist; Dr. phil. Leipzig; geologist with the Preuss. geol. Landesanst. 1904-1906; government geologist for S.W. Africa 1906-1914; on active service in France and the Middle East 1914-1918; lecturer in general geology Univ. Berlin 1921-1932, from 1934 extraord. prof. of geology. 
-**Abbreviated name**: *Range*
+**Abbreviated name**: *Range* \[standard form in IPNI: *Range*\]
 
 #### Herbarium and types
 

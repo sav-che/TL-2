@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33333696) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 557](https://www.biodiversitylibrary.org/page/33333696) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9557-1), [Wikidata](https://www.wikidata.org/wiki/Q5818776). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sheldon, Edmund Perry, (1869-1913), American botanist; B.S. University of Minnesota 1894; instructor in botany ib. 1894-1896; botanical explorer and forester in Portland from 1897; studied law later in life; admitted to the bar in California 1910, admitted as attorney in Oregon 1911. 
-**Abbreviated name**: *E. Sheld.*
+**Abbreviated name**: *E. Sheld.* \[standard form in IPNI: *E.Sheld.*\]
 
 #### Herbarium and types
 

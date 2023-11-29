@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33068468) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33068468) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3997-1), [Wikidata](https://www.wikidata.org/wiki/Q7113291). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Höeg, Ove Arbo (1898-x), Norwegian palaeo- and ethno-botanist, at Trondhjems Museum (1926-1947); professor of botany at Oslo (1947-1968); specialist on the fossil floras of the Arctic and in general on palaeozoic floras. 
-**Abbreviated name**: *Höeg*
+**Abbreviated name**: *Höeg* \[standard form in IPNI: *Høeg*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 876](https://www.biodiversitylibrary.org/page/33190347) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 876](https://www.biodiversitylibrary.org/page/33190347) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8566-1), [Wikidata](https://www.wikidata.org/wiki/Q6077779). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Romell, Lars (1854-1927), Swedish mycologist; Fil. kand. Uppsala 1855; teacher at Stockholm 1886-1890; patent attorney ibid. 1890-1927; Regnellian curator at the botany department of the Naturh. Riksmuseum ib. 1915-1920; Dr. phil. h.c. Uppsala 1927. 
-**Abbreviated name**: *Romell*
+**Abbreviated name**: *Romell* \[standard form in IPNI: *Romell*\]
 
 #### Herbarium and types
 

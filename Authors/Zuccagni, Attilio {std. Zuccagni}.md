@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33066899) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33066899) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12068-1), [Wikidata](https://www.wikidata.org/wiki/Q758156). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zuccagni, Attilio (1754-1807), Italian physician and botanist; director of the Giardino dei semplici, Firenze, and director of the Museo di físico e storia naturale, Firenze; made a trip to Spain and Portugal. 
-**Abbreviated name**: *Zuccagni*
+**Abbreviated name**: *Zuccagni* \[standard form in IPNI: *Zuccagni*\]
 
 #### Herbarium and types
 

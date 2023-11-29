@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33265537) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33265537) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16350-1), [Wikidata](https://www.wikidata.org/wiki/Q63324). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Borkhausen, Moriz Balthasar {std. Borkh.}|first entry]] for this author
 
 ### Author
 
 \* Borkhausen (Borckhausen), Moritz Balthazar (1760-1806), German (Giessen born) forester, botanist and entomologist, studied at the University of Giessen, 1781 private teacher id., settled later in Darmstadt, in various positions of the forestry management 1796, "Assessor" with the Forestry "Collegium", 1806 "Kammerrath"; Doctor honoris causa Erlangen 1793. 
-**Abbreviated name**: *Borkh.*
+**Abbreviated name**: *Borkh.* \[standard form in IPNI: *Borkh.*\]
 
 #### Herbarium and types
 

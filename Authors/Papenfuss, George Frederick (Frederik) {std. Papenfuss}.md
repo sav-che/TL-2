@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33189484) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33189484) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7324-1), [Wikidata](https://www.wikidata.org/wiki/Q21522621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Papenfuss, George Frederick \[Frederik\] (1903-1981), South African-born American algologist; came to U.S. 1926, naturalized 1945; Dr. phil. Johns Hopkins 1933; assistant and lecturer Johns Hopkins 1929-1934; at Univ. of Cape Town 1935-1939; at University of Lund 1939-1940; at Univ. of Hawaii 1940-1942, with Univ. of California, Berkeley, from 1942-1971, from 1953-1971 as full professor. 
-**Abbreviated name**: *Papenfuss*
+**Abbreviated name**: *Papenfuss* \[standard form in IPNI: *Papenf.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33120374) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33120374) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/882-1), [Wikidata](https://www.wikidata.org/wiki/Q60769). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bock, Hieronymus (Tragus) (1498-1554), German physician, botanist, teacher, and prefect of the Zweibrücken gardens. 
-**Abbreviated name**: *Bock*
+**Abbreviated name**: *Bock* \[standard form in IPNI: *H.Bock*\]
 
 #### Bibliography and biography
 

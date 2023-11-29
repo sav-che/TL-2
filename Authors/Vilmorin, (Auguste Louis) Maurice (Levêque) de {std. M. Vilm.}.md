@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33212787) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33212787) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11199-1), [Wikidata](https://www.wikidata.org/wiki/Q4111351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vilmorin, \[Auguste Louis\] Maurice \[Levêque\] de (1849-1918), French botanist, dendrologist and sylviculturist; son of Louis de Vilmorin; founder of the *Fruticetum vilmorinianum* at the estate of Barres (Loiret). 
-**Abbreviated name**: *M. Vilm.*
+**Abbreviated name**: *M. Vilm.* \[standard form in IPNI: *M.Vilm.*\]
 
 #### Herbarium and types
 

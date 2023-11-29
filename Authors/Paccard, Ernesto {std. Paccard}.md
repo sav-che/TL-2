@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33189513) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33189513) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7230-1), [Wikidata](https://www.wikidata.org/wiki/Q47123909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Paccard, Ernesto (*fl*. 1905), Uruguayan botanist. 
-**Abbreviated name**: *Paccard*
+**Abbreviated name**: *Paccard* \[standard form in IPNI: *Paccard*\]
 
 #### Herbarium and types
 

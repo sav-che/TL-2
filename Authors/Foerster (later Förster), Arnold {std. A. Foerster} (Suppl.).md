@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33259791) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33259791) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2800-1), [Wikidata](https://www.wikidata.org/wiki/Q895467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Foerster, Arnold {std. A. Foerster}|first entry]] for this author
 
 ### Author
 
 \* Foerster \[later Förster\], Arnold (1810-1884), German teacher, botanist and entomologist (Hymenopterist), born 20 Jan 1810 in Aachen (Aix-la-Chapelle), studied medicine and then natural history in Bonn 1832-1838, taught high school in Aachen, Dr. h.c. 1853 Bonn, died 12 Aug 1884 in Aachen. 
-**Abbreviated name**: *A. Foerster*
+**Abbreviated name**: *A. Foerster* \[standard form in IPNI: *Foerster*\]
 
 #### Herbarium and types
 

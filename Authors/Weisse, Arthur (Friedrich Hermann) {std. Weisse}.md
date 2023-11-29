@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33066510) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33066510) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13001-1), [Wikidata](https://www.wikidata.org/wiki/Q21033895). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weisse, Arthur \[Friedrich Hermann\] (1861-1939), German (Prussian) botanist (morphologist); studied at Berlin University with Eichler and Schwendener; Dr. phil. ib. 1889; assistant teacher at the Berlin-Steglitz Progymnasium and the Askanische Gymnasium Berlin 1890-1892; assistant with Schwendener 1892-1898; teacher at Berlin-Zehlendorf 1898-1921, professor's title 1907; in early retirement dedicating himself fully to morphology on the basis of Schwendener's theory of phyllotaxis, in close association with the Botanical Museum, Dahlem. 
-**Abbreviated name**: *Weisse*
+**Abbreviated name**: *Weisse* \[standard form in IPNI: *A.Weisse*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265833) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265833) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1629-1), [Wikidata](https://www.wikidata.org/wiki/Q2114106). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Christensen, Carl Frederik Albert {std. C. Chr.}|first entry]] for this author
 
 ### Author
 
 \* Christensen, Carl Frederik Albert (1872-1942), Danish botanist, born at Døllefjelde near Lolland, educated early at schools on the island of Falster, went to a secondary school at Vaalse, continued secondary schooling at Copenhagen from 1888, working at the examination for the entrance to the University of Copenhagen 1888-1891, at the University of Copenhagen 1891-1896, studied at first medicine but shifted soon to botany as pupil of Warming, M.Sc. University of Copenhagen 1900, with the Botanical Museum in various status from 1900 (in the beginning with other parttime work), teacher and still parttime at the Botanical Museum 1918-1920, "inspector" at the museum 1920-1933, continuing his work until ca. 1940. 
-**Abbreviated name**: *C.Chr.*
+**Abbreviated name**: *C.Chr.* \[standard form in IPNI: *C.Chr.*\]
 
 #### Herbarium and types
 

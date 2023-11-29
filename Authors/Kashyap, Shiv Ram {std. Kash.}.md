@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33068748) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33068748) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21228-1), [Wikidata](https://www.wikidata.org/wiki/Q19542465). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kashyap, Shiv Ram (1822-1934), Pakistani botanist; from 1919 professor of botany at the University of Panjab, Lahore. 
-**Abbreviated name**: *Kash.*
+**Abbreviated name**: *Kash.* \[standard form in IPNI: *Kashyap*\]
 
 #### Herbarium and types
 

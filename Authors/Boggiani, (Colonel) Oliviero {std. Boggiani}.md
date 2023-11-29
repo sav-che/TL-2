@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33265469) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33265469) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/34356-1), [Wikidata](https://www.wikidata.org/wiki/Q21506239). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boggiani, \[Colonel\] Oliviero (1859-1933), Italian soldier, alpinist and botanist, captain of the "Alpini", on active duty in World War I, colonel 1919-1920, in retirement in Torino. 
-**Abbreviated name**: *Boggiani*
+**Abbreviated name**: *Boggiani* \[standard form in IPNI: *Boggiani*\]
 
 #### Herbarium and types
 

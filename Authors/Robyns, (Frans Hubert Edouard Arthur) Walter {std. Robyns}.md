@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33190290) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33190290) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8466-1), [Wikidata](https://www.wikidata.org/wiki/Q5492362). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Robyns, \[Frans Hubert Edouard Arthur\] Walter (1901-x), Belgian botanist; Dr. sci. Louvain 1923; with the Jardin botanique de l'État (later:... National) from 1923, assistant 1923-1928, curator 1928-1931; director 1931-1966; in retirement at Louvain and Bruxelles; president of the International Association for Plant Taxonomy 1959-1964. 
-**Abbreviated name**: *Robyns*
+**Abbreviated name**: *Robyns* \[standard form in IPNI: *Robyns*\]
 
 #### Herbarium and types
 

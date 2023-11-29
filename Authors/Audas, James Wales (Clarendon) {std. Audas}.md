@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33264935) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33264935) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/13242-1), [Wikidata](https://www.wikidata.org/wiki/Q21505426). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Audas, James Wales \[Clarendon\] (1872-1959), Australian (Victoria) botanist, educated at Grenville College, Ballarat, clerical assistant in the Titles Office, Melbourne 1890, met Ferdinand von Mueller and became interested in botany, herbarium assistant in the Departement of the Chief Secretary Public Service 1897, from 1923-1927 senior botanist at the National Herbarium, Melbourne, collected widely in Victoria, Tasmania and Queensland 1908, Western Australia 1926, New South Wales 1932, New Zealand 1937. 
-**Abbreviated name**: *Audas*
+**Abbreviated name**: *Audas* \[standard form in IPNI: *Audas*\]
 
 #### Herbarium and types
 

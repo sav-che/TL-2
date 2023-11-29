@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33068490) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33068490) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4028-1), [Wikidata](https://www.wikidata.org/wiki/Q21515940). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hofmann, Joseph (1822-1901), German botanist; Dr. phil. Würzburg 1864; high school teacher at the gymnasium of Freising from 1849-1867, from 1867-1873 at Speyer, from 1873-1890 again at Freising. 
-**Abbreviated name**: *J. Hofm.*
+**Abbreviated name**: *J. Hofm.* \[standard form in IPNI: *J.Hofm.*\]
 
 #### Herbarium and types
 

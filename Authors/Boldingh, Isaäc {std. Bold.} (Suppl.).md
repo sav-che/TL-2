@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33265486) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33265486) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/926-1), [Wikidata](https://www.wikidata.org/wiki/Q5921048). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boldingh, Isaac {std. Bold.}|first entry]] for this author
 
 ### Author
 
 \* Boldingh, Isaäc (1879-1938), Dutch botanist, studied botany at the University of Utrecht, visited the Dutch West Indies 1906, Dr. phil. Utrecht 1909, assistant and custodian for botany at Utrecht 1908-1914, botanist at the Buitenzorg \[Bogor\] herbarium and acting chief of the institute 1914-1917, with the General Experiment Station for Agriculture at Buitenzorg 1917-1932, specialized in the selection of maize, in retirement at Amersfoort (prov. Utrecht, Netherlands) 1932; worked on the Dutch West Indies flora in his period at Utrecht. 
-**Abbreviated name**: *Bold.*
+**Abbreviated name**: *Bold.* \[standard form in IPNI: *Bold.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-06-10 19:34:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33212717) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33212717) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11064-1), [Wikidata](https://www.wikidata.org/wiki/Q3060213). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vaniot, Eugène (x-1913), French clergyman (S.J.) and botanist in Le Mans. 
-**Abbreviated name**: *Vaniot*
+**Abbreviated name**: *Vaniot* \[standard form in IPNI: *Vaniot*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33333796) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33333796) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26900-1), [Wikidata](https://www.wikidata.org/wiki/Q21609044). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smarods, Julius (1884-?), Latvian phytopathologist and mycologist at the Institute of plant protection, Riga. 
-**Abbreviated name**: *Smarods*
+**Abbreviated name**: *Smarods* \[standard form in IPNI: *Smarods*\]
 
 #### Herbarium and types
 

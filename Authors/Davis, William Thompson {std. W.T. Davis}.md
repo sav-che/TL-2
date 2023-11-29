@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259154) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33259154) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/13937-1), [Wikidata](https://www.wikidata.org/wiki/Q8019050). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Davis, William Thompson (1862-1945), American entomologist and botanist, born 12 Oct 1862, New Brighton, Staten Island, N.Y., died 22 Jan 1941 in Staten Island Hospital, his primary interest was cicades, but also the local flora, well-known around the New York Botanical Garden. 
-**Abbreviated name**: *W.T. Davis*
+**Abbreviated name**: *W.T. Davis* \[standard form in IPNI: *W.T.Davis*\]
 
 #### Herbarium and types
 

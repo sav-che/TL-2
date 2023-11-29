@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33258758) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 280](https://www.biodiversitylibrary.org/page/33258758) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19436-1), [Wikidata](https://www.wikidata.org/wiki/Q3770705). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gola, Giuseppe (1877-1956), Italian botanist, born 26 Feb 1877 in Novara, studied medicine and natural sciences at Univ. of Turin, "promotion" in medicine 1900 and natural sciences 1902 Univ. of Turin, volunteer asst., pharmacy inst., then at inst. of botany, Univ. of Turin 1901, Univ. of Cagliari (Sardinia) 1920, prof., Univ. of Padua, died 20 \[25?\] Jul 1956 in Padua. 
-**Abbreviated name**: *Gola*
+**Abbreviated name**: *Gola* \[standard form in IPNI: *Gola*\]
 
 #### Herbarium and types
 

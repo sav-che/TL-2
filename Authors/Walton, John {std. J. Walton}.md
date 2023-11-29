@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33066394) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33066394) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11377-1), [Wikidata](https://www.wikidata.org/wiki/Q21612122). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walton, John (1895-1971), British botanist; studied at Cambridge 1915-1921; botanist on the first Oxford expedition to Spitzbergen 1921; demonstrator of botany Cambridge 1922-1923; lecturer in botany at Manchester Univ.; successor to P.O. Bower as Regius professor of botany at Glasgow 1930-1962. 
-**Abbreviated name**: *J. Walton*
+**Abbreviated name**: *J. Walton* \[standard form in IPNI: *J.Walton*\]
 
 #### Herbarium and types
 

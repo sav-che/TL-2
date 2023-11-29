@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33066539) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33066539) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11570-1), [Wikidata](https://www.wikidata.org/wiki/Q2835524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wesmael, Alfred (1832-1905), Belgian botanist and horticulturist; professor of botany at the École d'horticulture de Vilvorde. 
-**Abbreviated name**: *Wesm.*
+**Abbreviated name**: *Wesm.* \[standard form in IPNI: *Wesm.*\]
 
 #### Herbarium and types
 

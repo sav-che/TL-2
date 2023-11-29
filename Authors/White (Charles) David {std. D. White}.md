@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-12-18 11:52:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33066589) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33066589) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13009-1), [Wikidata](https://www.wikidata.org/wiki/Q5241020). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 White \[Charles\] David (1862-1935), American geologist and palaeobotanist; B.Sc. Cornell Univ.; assistant palaeontologist U.S. Geological Survey 1886-1894, assistant geologist 1896-1900, geologist 1900-1912, chief geologist 1912-1922; active in retirement as curator palaeobotany U.S. Natl. Mus. and in various administrative functions. 
-**Abbreviated name**: *D. White*
+**Abbreviated name**: *D. White* \[standard form in IPNI: *C.D.White*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33212287) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33212287) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10553-1), [Wikidata](https://www.wikidata.org/wiki/Q1539346). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Theobald, Gottfried Ludwig (1810-1869), German (Hessen) botanist, geologist and teacher; studied theology in Marburg and Halle 1927-1931; pastor at Hanau 1831-1839, private teacher at Montpellier 1839-1843; high school teacher for natural sciences and geography at Hanau 1843-1850; suspended for political reasons 1850 (dismissed 1854), teacher at Genève 1852-1854 and pastor of its German protestant community; from 1854 natural history teacher at the county school at Chur, Graubünden. 
-**Abbreviated name**: *Theobald*
+**Abbreviated name**: *Theobald* \[standard form in IPNI: *Theob.*\]
 
 #### Herbarium and types
 

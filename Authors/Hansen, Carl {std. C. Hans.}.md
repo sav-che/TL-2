@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33068288) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33068288) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3627-1), [Wikidata](https://www.wikidata.org/wiki/Q21514630). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hansen, Carl (1848-1903), Danish horticulturist; from 1879 lecturer, later professor at the Copenhagen agricultural college (Landbohöjskolen). 
-**Abbreviated name**: *C. Hans.*
+**Abbreviated name**: *C. Hans.* \[standard form in IPNI: *Carl Hansen*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33190004) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 533](https://www.biodiversitylibrary.org/page/33190004) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8074-1), [Wikidata](https://www.wikidata.org/wiki/Q21606826). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Radais, Maxime Pierre François (1861-?), French botanist; from 1887 connected with the "École de Pharmacie", Paris, ultimately as professor of cryptogamy; Dr. sci. nat. Paris 1894. 
-**Abbreviated name**: *Radais*
+**Abbreviated name**: *Radais* \[standard form in IPNI: *Radais*\]
 
 #### Herbarium and types
 

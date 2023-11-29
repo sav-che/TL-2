@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33259386) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33259386) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2213-1), [Wikidata](https://www.wikidata.org/wiki/Q438932). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dillwyn, Lewis Weston {std. Dillwyn}|first entry]] for this author
 
 ### Author
 
 Dillwyn, Lewis Weston (1778-1855), British porcelain manufacturer and naturalist, county magistrate, born at Ipswich, Suffolk 21 Aug 1778, moved to Walthamstow, since living at Swansea 1802-1835, died 31 Aug 1855. 
-**Abbreviated name**: *Dillwyn*
+**Abbreviated name**: *Dillwyn* \[standard form in IPNI: *Dillwyn*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-06-02 18:53:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33212385) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 343](https://www.biodiversitylibrary.org/page/33212385) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10656-1), [Wikidata](https://www.wikidata.org/wiki/Q3156258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tidestrom, \[orig.: Tidestrøm\], Ivar \[Frederick\] (1864-1956), Swedish-born American botanist; emigrated to the United States 1880; in the U.S. army attached to the hospital service 1880-1884, 1887-1891; studied engineering at the University of California 1891-1895, becoming assistant to E.L. Greene; with Greene to Catholic University, Washington 1895; Dr. phil. ib. 1897; assistant botanist USDA with F.V. Coville 1903, from 1915 detached at the Smithsonian Institution on the grass and sedge collections; retired from USDA 1934; from 1934-1935 at the botany Dept., Catholic Univ.; in retirement at St. Petersburg, Florida. 
-**Abbreviated name**: *Tidestr.*
+**Abbreviated name**: *Tidestr.* \[standard form in IPNI: *Tidestr.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33333417) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33333417) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9204-1), [Wikidata](https://www.wikidata.org/wiki/Q13377580). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schnittspahn, Georg Friedrich (1810-1865), German (Hessen) botanist; botany teacher at Kranichstein 1831-1838; inspector of the Darmstadt botanical garden 1836, "Oberleiter" from 1841, director 1855; teacher at the technical school from 1841; "Hofgartendirector" from 1849. 
-**Abbreviated name**: *Schnittsp.*
+**Abbreviated name**: *Schnittsp.* \[standard form in IPNI: *Schnittsp.*\]
 
 #### Herbarium and types
 

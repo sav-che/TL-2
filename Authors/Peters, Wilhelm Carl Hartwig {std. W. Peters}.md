@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33189665) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33189665) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12238-1), [Wikidata](https://www.wikidata.org/wiki/Q58029). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Peters, Wilhelm Carl Hartwig (1815-1883), German (Schleswig) zoologist, physician and traveller; 1842-1848 in S. and E. Africa and India; professor of medicine Berlin 1851; professor of zoology ibid. 1856. 
-**Abbreviated name**: *W. Peters*
+**Abbreviated name**: *W. Peters* \[standard form in IPNI: *Peters*\]
 
 #### Herbarium and types
 

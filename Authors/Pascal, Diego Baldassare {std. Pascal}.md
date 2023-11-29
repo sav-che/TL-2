@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33189555) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33189555) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7374-1), [Wikidata](https://www.wikidata.org/wiki/Q21522664). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pascal, Diego Baldassare (1768-1812), Italian botanist of French origin; professor of botany and director of the botanical garden at Parma 1795-1802. 
-**Abbreviated name**: *Pascal*
+**Abbreviated name**: *Pascal* \[standard form in IPNI: *Pascal*\]
 
 #### Herbarium and types
 

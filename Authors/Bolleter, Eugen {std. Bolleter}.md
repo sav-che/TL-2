@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265493) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265493) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16304-1), [Wikidata](https://www.wikidata.org/wiki/Q21506262). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bolleter, Eugen (1873-1922), Swiss botanist, educated on primary and secondary schools in Zürich 1880-1889, at the Lehrerseminar in Küssnacht 1889-1893, teacher at a primary school in Buchs 1893-1894, at the University of Zürich 1894-1896, secondary school teacher in Zürich 1898, Dr. phil. 1898. 
-**Abbreviated name**: *Bolleter*
+**Abbreviated name**: *Bolleter* \[standard form in IPNI: *Bolleter*\]
 
 #### Herbarium and types
 

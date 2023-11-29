@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33355653) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 566](https://www.biodiversitylibrary.org/page/33355653) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6610-1), [Wikidata](https://www.wikidata.org/wiki/Q5666212). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moon, Alexander (x-1825), Scottish botanist and gardener for Kew, collected at Gibraltar and N. Africa (Barbary), superintendent of the royal botanic gardens in Ceylon (1817-1825). 
-**Abbreviated name**: *Moon*
+**Abbreviated name**: *Moon* \[standard form in IPNI: *Moon*\]
 
 #### Herbarium and types
 

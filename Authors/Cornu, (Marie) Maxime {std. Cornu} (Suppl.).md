@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33266042) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33266042) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17441-1), [Wikidata](https://www.wikidata.org/wiki/Q2623599). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cornu, Marie Maxime {std. Cornu}|first entry]] for this author
 
 ### Author
 
 \* Cornu, \[Marie\] Maxime (1843-1901), French botanist (cryptogamist), born at Orléans, educated at the College at Orléans and at the École normale at Sainte-Barbe 1865, licencés sci. math. and sci. physiques 1867, license ès sciences naturelles 1868, préparateur for botany at the faculty of Sciences, Paris 1869, working with Ad. Brongniart 1869, Dr. Sci. 1872 (prix Desmazières), from 1874 at the Muséum national d'Histoire naturelle as aide-naturaliste, professor ib. 1884. 
-**Abbreviated name**: *Cornu*
+**Abbreviated name**: *Cornu* \[standard form in IPNI: *Cornu*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33068246) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33068246) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3530-1), [Wikidata](https://www.wikidata.org/wiki/Q48246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Haeckel, Ernst Heinrich Philipp August (1834-1919), German evolutionary zoologist and popularizer of biology. 
-**Abbreviated name**: *Haeckel*
+**Abbreviated name**: *Haeckel* \[standard form in IPNI: *Haeckel*\]
 
 #### Herbarium and types
 

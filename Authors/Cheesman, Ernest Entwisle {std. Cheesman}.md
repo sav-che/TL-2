@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33265752) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33265752) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1564-1), [Wikidata](https://www.wikidata.org/wiki/Q2916950). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cheesman, Ernest Entwisle (1888-?), British botanist, B.Sc. at the University of London, M.Sc. 1928, professor of botany and genetics at the Imperial College Tropical Agriculture, Trinidad. 
-**Abbreviated name**: *Cheesman*
+**Abbreviated name**: *Cheesman* \[standard form in IPNI: *Cheesman*\]
 
 #### Herbarium and types
 

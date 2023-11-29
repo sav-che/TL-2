@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33355901) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 814](https://www.biodiversitylibrary.org/page/33355901) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24288-1), [Wikidata](https://www.wikidata.org/wiki/Q21339311). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ohlert, \[Otto Ludwig\] Arnold (1816-1875), German lichenologist and "Regierungsund Schulrath" at Danzig. 
-**Abbreviated name**: *Ohlert*
+**Abbreviated name**: *Ohlert* \[standard form in IPNI: *Ohlert*\]
 
 #### Herbarium and types
 

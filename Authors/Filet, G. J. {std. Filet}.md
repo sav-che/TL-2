@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33120962) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33120962) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2727-1), [Wikidata](https://www.wikidata.org/wiki/Q21513006). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Filet, G.J. {std. Filet} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Filet, G. J. (1825-1891), Dutch army physician in the Netherlands East Indies. 
-**Abbreviated name**: *Filet*
+**Abbreviated name**: *Filet* \[standard form in IPNI: *Filet*\]
 
 #### Herbarium and types
 

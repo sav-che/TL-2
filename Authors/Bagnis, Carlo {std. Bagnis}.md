@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33264980) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33264980) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31180-1), [Wikidata](https://www.wikidata.org/wiki/Q21505530). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bagnis, Carlo (1854-1879), Italian mycologist, educated at Torino, studied medicine in Roma 1871, Dr. med. ib. 1877, turned to mycology under the influence of G. de Notaris, Prix Des Mazière 1875, died as the result of an infection obtained at a botanical excursion in the Roman Campagna. 
-**Abbreviated name**: *Bagnis*
+**Abbreviated name**: *Bagnis* \[standard form in IPNI: *Bagnis*\]
 
 #### Herbarium and types
 

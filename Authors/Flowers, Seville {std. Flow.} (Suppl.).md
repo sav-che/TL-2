@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33259777) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33259777) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2794-1), [Wikidata](https://www.wikidata.org/wiki/Q21390716). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Flowers, Seville {std. Flow.}|first entry]] for this author
 
 ### Author
 
 \* Flowers, Seville \[b. Bradnum, 'Bill' to his friends, 'Doc' to his students\] (1900-1968), American botanist (bryologist and phycologist), born 14 Jan 1900 in Salt Lake City, Utah, spent boyhood in Los Angeles, studied at the Univ. of Utah, Salt Lake City, A.B. 1925 and M.A. 1926 Brigham Young Univ., Provo, Utah, Ph.D. 1932 Univ. of Chicago, high school teacher, Price, Utah, then instructor and assoc. prof. 1936, and finally full prof. of Botany 1941-1968, Univ. of Utah, president, Amer. Bryological Society 1966-1967, died 29 Apr 1968 in Salt Lake City. 
-**Abbreviated name**: *Flow.*
+**Abbreviated name**: *Flow.* \[standard form in IPNI: *Flowers*\]
 
 #### Herbarium and types
 

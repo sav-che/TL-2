@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33189878) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33189878) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12751-1), [Wikidata](https://www.wikidata.org/wiki/Q21523277). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Prior, Richard Chandler Alexander (formerly Alexander) (1809-1902), British botanist; educated at Charterhouse, Oxford; B.A. 1830; Fellow Royal College of physicians 1840; from 1841 devoting himself to botany, residing at Graz (Austria) 1841-1844, from 1846-1848 in South Africa; 1849-1850 to Canada, U.S.A. and Jamaica; after 1850 living in London and from 1859 on his estate near Taunton. 
-**Abbreviated name**: *Prior*
+**Abbreviated name**: *Prior* \[standard form in IPNI: *Prior*\]
 
 #### Herbarium and types
 

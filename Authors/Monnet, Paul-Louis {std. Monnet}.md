@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33355643) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 556](https://www.biodiversitylibrary.org/page/33355643) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6590-1), [Wikidata](https://www.wikidata.org/wiki/Q18986925). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Monnet, Paul-Louis (x-1915), French botanist, consul-general of France in San Francisco 1912; died on the battle fields of France in World War I. 
-**Abbreviated name**: *Monnet*
+**Abbreviated name**: *Monnet* \[standard form in IPNI: *Monnet*\]
 
 #### Herbarium and types
 

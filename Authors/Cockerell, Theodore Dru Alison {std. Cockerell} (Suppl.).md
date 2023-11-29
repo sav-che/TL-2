@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33265917) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33265917) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1712-1), [Wikidata](https://www.wikidata.org/wiki/Q2506718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cockerell, Theodor Dru Alison {std. Cockerell}|first entry]] for this author
 
 ### Author
 
 \* Cockerell, Theodore Dru Alison (1866-1948), British born naturalist, plant geneticist, entomologist and palaeontologist, born at Norwood, England, attended Saturday lectures with J.G. Baker at Chelsea 1883, employed in a London firm of flower factors, sailed to America (Colorado) 1887 in Wet Mountain Valley ("Briton's Paradise"), again in London 1890-1891, working at the British Museum, at Jamaica 1891-1892, at New Mexico agricultural College 1892, docent 1894-1895 and professor of zoology at the University of Colorado 1906-1934. 
-**Abbreviated name**: *Cockerell*
+**Abbreviated name**: *Cockerell* \[standard form in IPNI: *Cockerell*\]
 
 #### Herbarium and types
 

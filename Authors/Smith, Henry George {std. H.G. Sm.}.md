@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33333815) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33333815) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9799-1), [Wikidata](https://www.wikidata.org/wiki/Q5721931). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Henry George (1852-1924), British phytochemist; to New South Wales 1883; employment at the Sydney Technological Museum 1883; laboratory assistant ib. 1891, collaborating with J.H. Maiden on the chemistry of Australian plants, especially on the essential oils of the Eucalypts; from 1899-1921 assistant curator and economic chemist at the museum; from 1921-1924 associated with the Dept. of Organic Chemistry, Univ. Sydney. 
-**Abbreviated name**: *H.G. Sm.*
+**Abbreviated name**: *H.G. Sm.* \[standard form in IPNI: *H.G.Sm.*\]
 
 #### Herbarium and types
 

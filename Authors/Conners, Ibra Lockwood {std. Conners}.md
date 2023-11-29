@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33265980) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33265980) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17377-1), [Wikidata](https://www.wikidata.org/wiki/Q21508949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Conners, Ibra Lockwood (1894-x), Canadian botanist and plant pathologist, B.A. 1918, University of Toronto M.A. 1920, first plant pathologist Dominian field laboratories in Manitoba 1920-1929 (except Jan 1922-Jul 1923, at Univ. Minnesota, cand. for Ph.D.), from 1929 at the Botany and Plant Pathology Division, science service, Ottawa, Ontaria (Central Farm). 
-**Abbreviated name**: *Conners*
+**Abbreviated name**: *Conners* \[standard form in IPNI: *Conners*\]
 
 #### Herbarium and types
 

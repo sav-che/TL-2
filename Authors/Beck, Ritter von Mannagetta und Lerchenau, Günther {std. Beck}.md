@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-09-27 11:29:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33120288) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33120288) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12341-1), [Wikidata](https://www.wikidata.org/wiki/Q78986). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Beck, Ritter von Mannagetta und Lerchenau, Günther {std. Beck} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Beck, Ritter von Mannagetta und Lerchenau, Günther (1856-1931), Bohemian botanist, curator of W (1886-1899), professor of botany in Vienna (1888-1899), later at Prague. 
-**Abbreviated name**: *Beck*
+**Abbreviated name**: *Beck* \[standard form in IPNI: *Beck*\]
 
 #### Herbarium and types
 

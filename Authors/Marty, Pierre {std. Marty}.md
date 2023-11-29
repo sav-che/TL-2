@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33355428) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33355428) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22985-1), [Wikidata](https://www.wikidata.org/wiki/Q2414758). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marty, Pierre (1868-?) Belgian palaeobotanist. 
-**Abbreviated name**: *Marty*
+**Abbreviated name**: *Marty* \[standard form in IPNI: *Marty*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33120971) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33120971) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2754-1), [Wikidata](https://www.wikidata.org/wiki/Q57802). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fischer von Waldheim, \[Johann\] Gotthelf \[Friedrich\] (1771-1853), German palaeobiologist active in Russia, founder (1805) of the Société imperiale des Naturalistes de Moscou. 
-**Abbreviated name**: *G. Fisch. v. Waldh.*
+**Abbreviated name**: *G. Fisch. v. Waldh.* \[standard form in IPNI: *G.Fisch.Waldh.*\]
 
 #### Collections
 

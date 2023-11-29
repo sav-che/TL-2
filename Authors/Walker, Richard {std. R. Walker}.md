@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33066372) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33066372) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11339-1), [Wikidata](https://www.wikidata.org/wiki/Q21612046). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walker, Richard (1791-1870), British clergyman and botanist; educated at Balliol and Magdalen Colleges, Oxford; MA. 1817, B.D. 1824; fellow of Magdalen College 1821, subsequently dean, bursar and vice-president and master of the Grammar School of Magdalen College, later curate of Tilehurst nr Reading; died at Olveston, Gloucestershire. 
-**Abbreviated name**: *R. Walker*
+**Abbreviated name**: *R. Walker* \[standard form in IPNI: *R.Walker*\]
 
 #### Herbarium and types
 

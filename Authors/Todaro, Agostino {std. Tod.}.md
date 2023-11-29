@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33212420) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33212420) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10704-1), [Wikidata](https://www.wikidata.org/wiki/Q2738798). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Todaro, Agostino (1818-1892), Italian (Sicilian) botanist; studied law and natural sciences at the University of Palermo; assistant at the Palermo botanical garden 1848-1856; director id. 1856 (officially 1860)-1892. 
-**Abbreviated name**: *Tod.*
+**Abbreviated name**: *Tod.* \[standard form in IPNI: *Tod.*\]
 
 #### Herbarium and types
 

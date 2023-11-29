@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 881](https://www.biodiversitylibrary.org/page/33190352) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 881](https://www.biodiversitylibrary.org/page/33190352) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8580-1), [Wikidata](https://www.wikidata.org/wiki/Q21607403). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rosander, \[Karl\] Henrik Andreas (1873-1950), Swedish botanist; Dr. phil. Uppsala 1906; biology and chemistry teacher at Härnösands grammar school (1911). 
-**Abbreviated name**: *Rosander*
+**Abbreviated name**: *Rosander* \[standard form in IPNI: *Rosander*\]
 
 #### Herbarium and types
 

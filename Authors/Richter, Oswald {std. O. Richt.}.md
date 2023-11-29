@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33190249) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33190249) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8369-1), [Wikidata](https://www.wikidata.org/wiki/Q2036451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Richter, Oswald (1878-1955), Praha-born Austrian botanist; studied at the Deutsche Universität of Praha; habil. ib. 1907; habil. Techn. Hochschule ib. 1909; assistant at the institute for plant physiology of the Deutsche Univ. 1907-1910; id. at the Universität Wien 1910; Adjunkt ib. 1911; extraordinary prof. of botany Wien 1912-1920; ordinary prof. of botany at the Deutsche Techn. Hochschule, Brünn (Brno) 1920. 
-**Abbreviated name**: *O. Richt.*
+**Abbreviated name**: *O. Richt.* \[standard form in IPNI: *O.Richt.*\]
 
 #### Herbarium and types
 

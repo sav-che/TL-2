@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33212079) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33212079) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10165-1), [Wikidata](https://www.wikidata.org/wiki/Q433405). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stokes, Jonathan (1755-1831), British physician and botanist; born at Chesterfield, Derbyshire; M.D. Edinburgh 1782 as a student of John Hope; practicing physician at Stourbridge, Worcestershire, Kidderminster (ca. 1792-1794) and Chesterfield (ca. 1796-1830). 
-**Abbreviated name**: *Stokes*
+**Abbreviated name**: *Stokes* \[standard form in IPNI: *Stokes*\]
 
 #### Herbarium and types
 

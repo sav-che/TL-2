@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33333374) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33333374) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9141-1), [Wikidata](https://www.wikidata.org/wiki/Q47125742). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmid, Eduard (*fl*. 1906), Swiss botanist from Ober-Stammheim; Dr. phil. Zürich 1906. 
-**Abbreviated name**: *Ed. Schmid*
+**Abbreviated name**: *Ed. Schmid* \[standard form in IPNI: *Ed.Schmid*\]
 
 #### Herbarium and types
 

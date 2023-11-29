@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33260132) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33260132) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18246-1), [Wikidata](https://www.wikidata.org/wiki/Q8017841). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dudley, William Russel (1849-1911), American botanist, born 1 Mar 1849 at Guilford, Connecticut, died 4 Jun 1911 at Porto Alto, California, educated at Cornell University, with the class of 1874, master's degree at the same institution 1876, instructor in botany Cornell University 1873-1876, assistant professor 1876-1892, professor of biology in the University of Indiana 1880-1893, at Strasbourg and Berlin 1886-1887, professor syst. botany at Stanford University 1893-1910. 
-**Abbreviated name**: *Dudley*
+**Abbreviated name**: *Dudley* \[standard form in IPNI: *Dudley*\]
 
 #### Herbarium and types
 

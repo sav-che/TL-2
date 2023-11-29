@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33265232) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33265232) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/15861-1), [Wikidata](https://www.wikidata.org/wiki/Q15994293). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Beckett, Thomas W. Naylor (1839-1906), British botanist, coffee planter in Ceylon, collected plants there 1882-1883, travelled and collected in the Himalayas circa 1900, in New Zealand 1903-1906. 
-**Abbreviated name**: *Beckett*
+**Abbreviated name**: *Beckett* \[standard form in IPNI: *Beckett*\]
 
 #### Herbarium and types
 

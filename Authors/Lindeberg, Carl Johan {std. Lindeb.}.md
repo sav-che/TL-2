@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33355089) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33355089) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5608-1), [Wikidata](https://www.wikidata.org/wiki/Q5749308). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lindeberg, Carl Johan (1815-1900), Swedish botanist and high school teacher at Göteborg 1859-1889. 
-**Abbreviated name**: *Lindeb.*
+**Abbreviated name**: *Lindeb.* \[standard form in IPNI: *Lindeb.*\]
 
 #### Herbarium and types
 

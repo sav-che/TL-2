@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33264735) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33264735) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/90-1), [Wikidata](https://www.wikidata.org/wiki/Q3107968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Agosti, Guiseppe, Conte {std. Agosti}|first entry]] for this author
 
 ### Author
 
 \* Agosti, Giuseppe, Conte (1715-1786), Italian jesuit and botanist at Belluno. 
-**Abbreviated name**: *Agosti*
+**Abbreviated name**: *Agosti* \[standard form in IPNI: *Agosti*\]
 
 #### Herbarium and types
 

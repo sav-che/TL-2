@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33189810) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33189810) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7853-1), [Wikidata](https://www.wikidata.org/wiki/Q21523111). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Popp, Bonifaz (x-1892), German (Bavarian) botanist, Benedictine monk and high school teacher at Scheyern, Bayern. 
-**Abbreviated name**: *Popp*
+**Abbreviated name**: *Popp* \[standard form in IPNI: *Popp*\]
 
 #### Herbarium and types
 

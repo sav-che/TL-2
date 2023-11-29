@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33068384) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33068384) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3803-1), [Wikidata](https://www.wikidata.org/wiki/Q39008). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Heldreich, Theodor von (1822-1902), German-born botanist; in Greece from 1843-1849 and 1851-1902; plant collector and director of the Athens botanical garden and natural history museum. 
-**Abbreviated name**: *Heldr.*
+**Abbreviated name**: *Heldr.* \[standard form in IPNI: *Heldr.*\]
 
 #### Herbarium and types
 

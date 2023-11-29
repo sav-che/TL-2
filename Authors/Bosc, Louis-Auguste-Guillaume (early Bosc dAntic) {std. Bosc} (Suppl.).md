@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33265564) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33265564) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1004-1), [Wikidata](https://www.wikidata.org/wiki/Q948587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bosc, Louis Auguste Guillaume (early Bosc dAntic) {std. Bosc}|first entry]] for this author
 
 ### Author
 
 \* Bosc, Louis-Auguste-Guillaume \[early: Bosc d'Antic\] (1759-1828), French naturalist, consul and administrator, studied with Durande in Dijon and A.L. Jussieu in Paris; sécrétaire des postes 1784-1788, in hiding from the French revolution at Montmorency, French consul for the "Directoire" in New York 1794-1799, inspector of the gardens of Versailles 1803 and of the state gardens from 1806 residing under the Ministry of the Interior, ultimately "professeur" in the Jardin des Plantes. 
-**Abbreviated name**: *Bosc*
+**Abbreviated name**: *Bosc* \[standard form in IPNI: *Bosc*\]
 
 #### Herbarium and types
 

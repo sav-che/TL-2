@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33355344) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33355344) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22764-1), [Wikidata](https://www.wikidata.org/wiki/Q3048774). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mains, Edwin Butterworth (1890-1968), American mycologist; Ph. D. Univ. Mich. 1916; at Purdue University 1916-1930; from 1930 professor of botany and from 1931 director of the herbarium of the University of Michigan; retired 1960. 
-**Abbreviated name**: *Mains*
+**Abbreviated name**: *Mains* \[standard form in IPNI: *Mains*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33190271) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33190271) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8411-1), [Wikidata](https://www.wikidata.org/wiki/Q86309). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ritgen, Ferdinand August Maria Franz von (1787-1837), German (Hessen) physician and botanist; D. med. Giessen 1808; Dr. phil. hon. ib. 1823; ultimately professor of surgery and psychiatry and director of the obstetrical clinic in Giessen. 
-**Abbreviated name**: *Ritgen*
+**Abbreviated name**: *Ritgen* \[standard form in IPNI: *Ritgen*\]
 
 #### Herbarium and types
 

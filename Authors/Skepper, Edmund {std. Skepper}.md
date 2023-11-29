@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33333765) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33333765) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9716-1), [Wikidata](https://www.wikidata.org/wiki/Q21609007). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Skepper, Edmund (1825-1867), British botanist and druggist at Harwich and Bury St. Edmunds. 
-**Abbreviated name**: *Skepper*
+**Abbreviated name**: *Skepper* \[standard form in IPNI: *Skepper*\]
 
 #### Herbarium and types
 

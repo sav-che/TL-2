@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33068779) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 537](https://www.biodiversitylibrary.org/page/33068779) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4774-1), [Wikidata](https://www.wikidata.org/wiki/Q73225). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kielmeyer, Karl Friedrich \[von\] (1765-1844), German naturalist at Tübingen 1796-1817; at Stuttgart 1817-1839. 
-**Abbreviated name**: *Kielm.*
+**Abbreviated name**: *Kielm.* \[standard form in IPNI: *Kielm.*\]
 
 #### Herbarium and types
 

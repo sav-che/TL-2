@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33212075) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33212075) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10173-1), [Wikidata](https://www.wikidata.org/wiki/Q21609889). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stoltenberg, Nicolaus Theodor Marcus (1844-?), German high school teacher at Tondern \[now Tønder, Denmark\]. 
-**Abbreviated name**: *Stoltenberg*
+**Abbreviated name**: *Stoltenberg* \[standard form in IPNI: *Stoltenb.*\]
 
 #### Herbarium and types
 

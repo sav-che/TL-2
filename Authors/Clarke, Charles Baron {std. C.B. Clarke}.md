@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33120637) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33120637) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1669-1), [Wikidata](https://www.wikidata.org/wiki/Q2659116). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Clarke, Charles Baron {std. C.B. Clarke} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Clarke, Charles Baron (1832-1906), British botanist, nephew of Benjamin Clarke, in India 1865-1887. 
-**Abbreviated name**: *C. B. Clarke*
+**Abbreviated name**: *C. B. Clarke* \[standard form in IPNI: *C.B.Clarke*\]
 
 #### Herbarium and types
 

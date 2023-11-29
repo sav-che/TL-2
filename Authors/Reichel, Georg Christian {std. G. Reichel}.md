@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33190135) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33190135) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8250-1), [Wikidata](https://www.wikidata.org/wiki/Q5877728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reichel, Georg Christian (1727-1771), German (Saxonian/Thuringian) physician and botanist; Dr. phil. Leipzig 1759; professor of medicine at the University of Leipzig 1767-1771. 
-**Abbreviated name**: *G. Reichel*
+**Abbreviated name**: *G. Reichel* \[standard form in IPNI: *Reichel*\]
 
 #### Herbarium and types
 

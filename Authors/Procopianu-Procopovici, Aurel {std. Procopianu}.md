@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33189886) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33189886) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7981-1), [Wikidata](https://www.wikidata.org/wiki/Q21523284). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Procopianu-Procopovici, Aurel (*fl*. 1890-1900), Roumanian botanist; inspector at the botanical garden, Bucarest (1896). 
-**Abbreviated name**: *Procopianu*
+**Abbreviated name**: *Procopianu* \[standard form in IPNI: *Procop.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33355271) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33355271) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5807-1), [Wikidata](https://www.wikidata.org/wiki/Q19226069). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ludwig, Rudolph August Birminhold Sebastian (1812-1880) German palaeontologist, technologist and administrator at Schwarzenfels and Darmstadt. 
-**Abbreviated name**: *R. Ludw.*
+**Abbreviated name**: *R. Ludw.* \[standard form in IPNI: *R.Ludw.*\]
 
 #### Herbarium and types
 

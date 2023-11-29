@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33333381) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33333381) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9152-1), [Wikidata](https://www.wikidata.org/wiki/Q364540). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidt, Adolf Wilhelm Ferdinand (1812-1899), German (Berlin) botanist, diatomologist and malacologist; studied theology at Halle 1832-1835; theological exam. 1836-1837; private teacher at Merseburg, subsequently curate at Halberstadt and art teacher at the Domgymnasium ib.; deacon (1846) and archdeacon (1848) at Aschersleben (Saxony) until his retirement in 1895; Dr. phil. h.c. Halle 1890. 
-**Abbreviated name**: *Ad. Schmidt*
+**Abbreviated name**: *Ad. Schmidt* \[standard form in IPNI: *A.W.F.Schmidt*\]
 
 #### Herbarium and types
 

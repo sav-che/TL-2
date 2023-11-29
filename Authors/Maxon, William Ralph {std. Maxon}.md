@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33355472) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33355472) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6268-1), [Wikidata](https://www.wikidata.org/wiki/Q8017342). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Maxon, William Ralph (1877-1948), American pteridologist; Ph. B. Syracuse Univ. 1898; D. Sc. h.c. id. 1922; from 1899 at the Smithsonian Institution. 
-**Abbreviated name**: *Maxon*
+**Abbreviated name**: *Maxon* \[standard form in IPNI: *Maxon*\]
 
 #### Herbarium and types
 

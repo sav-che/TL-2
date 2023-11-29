@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33068753) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33068753) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4691-1), [Wikidata](https://www.wikidata.org/wiki/Q3568756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Keating, William Hippolitus \[Hypolitus\] (1799-1840), American mineralogist and geologist on the Long expedition to St. Peter's River (1823); professor of chemistry Univ. Pennsylvania 1822-1828. 
-**Abbreviated name**: *Keating*
+**Abbreviated name**: *Keating* \[standard form in IPNI: *Keating*\]
 
 #### Herbarium and types
 

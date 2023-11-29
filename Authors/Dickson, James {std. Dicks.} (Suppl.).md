@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33259335) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33259335) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/18022-1), [Wikidata](https://www.wikidata.org/wiki/Q521759). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dickson, James {std. Dicks.}|first entry]] for this author
 
 ### Author
 
 \* Dickson, James (1738-1822), Scottish nurseryman, born at Traquhair, Peebles, 1778, died at Croydon, Surrey 14 Aug 1822, established herb and seed shop, Covent Garden, London, one of the founders of the Horticultural Society of London and the Linnean Society, as gardener became a friend of J. Banks. 
-**Abbreviated name**: *Dicks.*
+**Abbreviated name**: *Dicks.* \[standard form in IPNI: *Dicks.*\]
 
 #### Herbarium and types
 

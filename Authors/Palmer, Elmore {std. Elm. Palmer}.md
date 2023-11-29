@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33189462) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33189462) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7282-1), [Wikidata](https://www.wikidata.org/wiki/Q21522570). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palmer, Elmore (1839-1910/1911), American botanist and physician at Dexter, Mich. 
-**Abbreviated name**: *Elm. Palmer*
+**Abbreviated name**: *Elm. Palmer* \[standard form in IPNI: *E.Palmer*\]
 
 #### Herbarium and types
 

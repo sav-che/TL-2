@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33189847) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 376](https://www.biodiversitylibrary.org/page/33189847) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7924-1), [Wikidata](https://www.wikidata.org/wiki/Q36577510). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Prahn, Hermann (*fl*. 1887), German botanist. 
-**Abbreviated name**: *Prahn*
+**Abbreviated name**: *Prahn* \[standard form in IPNI: *Prahn*\]
 
 #### Herbarium and types
 

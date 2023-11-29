@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33212411) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33212411) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12935-1), [Wikidata](https://www.wikidata.org/wiki/Q21610776). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tison, \[Eugène\] Édouard \[Augustin\] (1842-?), French botanist and physician; studied medicine at Paris; Dr. med. ib. 1873; lic. sci. nat. 1874, Dr. sci. nat. 1876; professor of botany at the Université catholique de Paris 1876-1881; in charge of the Saint-Joseph hospital 1884. 
-**Abbreviated name**: *Tison*
+**Abbreviated name**: *Tison* \[standard form in IPNI: *Tison*\]
 
 #### Herbarium and types
 

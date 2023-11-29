@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33258951) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33258951) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3510-1), [Wikidata](https://www.wikidata.org/wiki/Q4171751). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gyelnik, Vilmos Köfaragó {std. Gyeln.}|first entry]] for this author
 
 ### Author
 
 \* Gyelnik, Vilmos (Wilhelm) (1906-1945), Hungarian lichenologist, born 30 Mar 1906 in Budapest, studied botany, Univ. of Pázmány Péter, Budapest 1924-1928, asst., Dept. of Botany, Veterinary College, researcher, Seed Research Station 1928 and visited Agricultural Museum, Cairo, Egypt for eight months, Dr. Phil. 1929 Budapest, "Privatdozent" 1930, curator, Natural History Museum, Budapest 1930, asst. lecturer, Univ. of Debrecen 1934, visited Finland to work with E.A. Vainio, died (along with his family) 15 Mar 1945 in an air-raid at the Amstetten, Austria, railroad station. 
-**Abbreviated name**: *Gyeln.*
+**Abbreviated name**: *Gyeln.* \[standard form in IPNI: *Gyeln.*\]
 
 #### Note
 

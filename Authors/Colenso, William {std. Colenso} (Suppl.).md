@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-10-12 06:52:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33265941) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33265941) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1736-1), [Wikidata](https://www.wikidata.org/wiki/Q2624463). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Colenso, William {std. Colenso}|first entry]] for this author
 
 ### Author
 
 \* Colenso, William (1811-1899), British (Penzance) missionary, ethnologist and botanist, worked with Richard Watts and Son in London 1832, printers to the Church Missionary Society, sent to New Zealand 1834 at Taihia missionary station, becoming as well a botanical explorer, in good contact with Joseph Hooker, teacher at Te Waimate 1842/43-1853, from 1854 at Napier, member of the N.Z. Parliament 1861, inspector of schools 1872-1878. 
-**Abbreviated name**: *Colenso*
+**Abbreviated name**: *Colenso* \[standard form in IPNI: *Colenso*\]
 
 #### Herbarium and types
 

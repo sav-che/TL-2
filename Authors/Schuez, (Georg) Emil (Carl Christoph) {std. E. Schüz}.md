@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33333503) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33333503) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12850-1), [Wikidata](https://www.wikidata.org/wiki/Q21608465). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schuez, \[Georg\] Emil \[Carl Christoph\] (1828-1877), German (Schwabian) physician and botanist; studied at Tübingen Univ. 1846-1851; from 1853 practicing physician at Calw, Nordschwarzwald, Oberschwaben; Dr. med. Tübingen 1858. 
-**Abbreviated name**: *E. Schüz*
+**Abbreviated name**: *E. Schüz* \[standard form in IPNI: *Schuez*\]
 
 #### Herbarium and types
 

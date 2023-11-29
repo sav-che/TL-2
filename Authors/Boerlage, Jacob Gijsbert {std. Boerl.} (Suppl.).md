@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33265463) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33265463) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/903-1), [Wikidata](https://www.wikidata.org/wiki/Q5924432). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boerlage, Jacob Gijsbert {std. Boerl.}|first entry]] for this author
 
 ### Author
 
 \* Boerlage, Jacob Gijsbert (1849-1900), Dutch botanist, born and educated at Uithoorn, studied natural sciences at the University of Leiden 1867, Dr. phil. ib. 1875, natural history teacher 1876-1880 at the Teacher's seminary in Amsterdam and, subsequently at secondary schools in Dordrecht, curator and private lecturer at the Rijksherbarium Leiden 1881-1894, assistant director id. 1894-1896, travelled to Java 1888; assistant director of the herbarium of the Buitenzorg (Bogor) gardens 1896, died on a trip to the Moluccas 1900. 
-**Abbreviated name**: *Boerl.*
+**Abbreviated name**: *Boerl.* \[standard form in IPNI: *Boerl.*\]
 
 #### Herbarium and types
 

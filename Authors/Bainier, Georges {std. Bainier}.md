@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33120233) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33120233) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/31208-1), [Wikidata](https://www.wikidata.org/wiki/Q21505565). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bainier, Georges Marcellin {std. Bainier} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bainier, Georges (x-1920), French pharmacist and mycologist. 
-**Abbreviated name**: *Bainier*
+**Abbreviated name**: *Bainier* \[standard form in IPNI: *Bainier*\]
 
 #### Herbarium and types
 

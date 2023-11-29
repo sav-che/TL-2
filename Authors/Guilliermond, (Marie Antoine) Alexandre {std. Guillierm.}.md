@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33258933) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33258933) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19737-1), [Wikidata](https://www.wikidata.org/wiki/Q3292362). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Guilliermond, \[Marie Antoine\] Alexandre (1876-1945), French mycologist (specializing in yeasts) and cytologist, born 19 Aug 1876 in Lyon, doctorate 1902 Lyon, Faculty of Sciences, Lyon, then from 1921 in Paris where he became prof., Faculty of Sciences at the Sorbonne, Académie des Sciences 1935, president, Société Botanique de France, died 1 Apr 1945 in Lyon. 
-**Abbreviated name**: *Guillierm.*
+**Abbreviated name**: *Guillierm.* \[standard form in IPNI: *Guillierm.*\]
 
 #### Herbarium and types
 

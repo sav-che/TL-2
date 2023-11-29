@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33120774) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33120774) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2185-1), [Wikidata](https://www.wikidata.org/wiki/Q27930993). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Diard, Pierre (1784-1849), French naturalist. 
-**Abbreviated name**: *Diard*
+**Abbreviated name**: *Diard* \[standard form in IPNI: *Diard*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33189704) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33189704) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7636-1), [Wikidata](https://www.wikidata.org/wiki/Q18736785). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Philippar, François Haken \[Aken\] (1802-1849), Austrian-born botanist (of French parents); professor at the national agricultural college of Grignon, 1830, and at the "École normale primaire" at Versailles, 1832; founder of the "Jardin des Plantes de Versailles". 
-**Abbreviated name**: *Philippar*
+**Abbreviated name**: *Philippar* \[standard form in IPNI: *Philippar*\]
 
 #### Herbarium and types
 

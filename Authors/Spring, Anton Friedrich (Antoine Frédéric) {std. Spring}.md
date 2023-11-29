@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33333954) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 815](https://www.biodiversitylibrary.org/page/33333954) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9994-1), [Wikidata](https://www.wikidata.org/wiki/Q3184518). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spring, Anton Friedrich \[Antoine Frédéric\] (1814-1872), German (Bavarian) born botanist and physician; studied medicine and botany at the University of München; Dr. phil. ib. 1835, Dr. med. 1836; curator at the München botanical garden 1835-1836; temporarily practicing medicine at München 1836-1837; continued his studies at Paris; professor of physiology and anatomy, later of pathology and internal medicine at the University of Liège 1839-1872. 
-**Abbreviated name**: *Spring*
+**Abbreviated name**: *Spring* \[standard form in IPNI: *Spring*\]
 
 #### Herbarium and types
 

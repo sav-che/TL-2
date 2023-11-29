@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33333731) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33333731) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9619-1), [Wikidata](https://www.wikidata.org/wiki/Q21608860). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Siegert, Gottlob (1789-1868), German (Silesian) amateur botanist, music director and composer at Breslau; educated at the Breslau Magdalenäum while being a vocalist in the Bernhardkirche and the local theatre; cantor at the Bürgerschule "zur heiligen Geist" 1812-1827; leader of the Siegert'schen Singverein für Kirchenmusik 1820-1847 and cantor with various musical societies. 
-**Abbreviated name**: *Siegert*
+**Abbreviated name**: *Siegert* \[standard form in IPNI: *Siegert*\]
 
 #### Herbarium and types
 

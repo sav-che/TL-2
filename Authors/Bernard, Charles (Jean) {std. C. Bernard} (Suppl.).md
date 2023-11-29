@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33265302) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33265302) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16007-1), [Wikidata](https://www.wikidata.org/wiki/Q1065058). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bernard, Charles Jean {std. C. Bernard}|first entry]] for this author
 
 ### Author
 
 \* Bernard, Charles \[Jean\] (1876-1967), Swiss botanist, studied biology at the University of Geneva, Dr. phil. 1903, employed at the herbaria at Geneva (1897-1902) and Berlin, custodian at the Leiden Rijksherbarium 1903-1904, chief of the Treub Laboratory at Buitenzorg (Bogor, Java) 1906, director of the Buitenzorg Tea Experiment Station 1907-1928, director of the Department of Agriculture of the Dutch East Indies 1928-1933; from 1933 in retirement in Switzerland 1933-1945; founder of IUCN 1948, ultimately in Amsterdam. 
-**Abbreviated name**: *C. Bernard*
+**Abbreviated name**: *C. Bernard* \[standard form in IPNI: *C.Bernard*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33265418) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33265418) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16220-1), [Wikidata](https://www.wikidata.org/wiki/Q21340725). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Blomberg, Olof Gotthard (1838-1901), Swedish clergyman and lichenologist, studied theology at Uppsala 1858, priest 1861, vicar at Dunker and Lilla Malma from 1884, brother of C.A. Blomberg. 
-**Abbreviated name**: *Blomb.*
+**Abbreviated name**: *Blomb.* \[standard form in IPNI: *Blomb.*\]
 
 #### Herbarium and types
 

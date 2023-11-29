@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33266111) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33266111) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1849-1), [Wikidata](https://www.wikidata.org/wiki/Q2918831). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cowan, John Macqueen (1892-1960), Scottish botanist, born Banchory, Kincardineshire, studied at the University of Edinburgh, MA ib., BA Oxon 1931, in the Indian forest Service 1914, Superintendent of the Royal Botanic Gardens, Calcutta 1926-1928, collected in Sikkim, Bengal and Burma, asst. regius keeper Royal Botanic Garden, Edinburgh 1930-1954. 
-**Abbreviated name**: *Cowan*
+**Abbreviated name**: *Cowan* \[standard form in IPNI: *Cowan*\]
 
 #### Herbarium and types
 

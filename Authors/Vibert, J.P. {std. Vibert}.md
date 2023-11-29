@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33212764) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33212764) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11157-1), [Wikidata](https://www.wikidata.org/wiki/Q3169813). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vibert, J.P. (*fl*. 1824), French rhodologist at Chenevières-sur-Marne, later at Saint-Denis (Seine) and Longjumeau (Seine-et-Oise). 
-**Abbreviated name**: *Vibert*
+**Abbreviated name**: *Vibert* \[standard form in IPNI: *Vibert*\]
 
 #### Herbarium and types
 

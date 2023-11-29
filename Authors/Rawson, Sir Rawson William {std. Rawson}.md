@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33190074) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33190074) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8188-1), [Wikidata](https://www.wikidata.org/wiki/Q4398741). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rawson, Sir Rawson William (1812-1899), British colonial administrator and pteridologist; clerk Board of Trade 1829; Government secretary Canada 1842; treasurer and paymaster-general Mauritius 1844; colonial secretary Cape of Good Hope (1854-1864); governor Bahamas 1864, id. Jamaica 1865, id. Windward Islands (1869-1875). 
-**Abbreviated name**: *Rawson*
+**Abbreviated name**: *Rawson* \[standard form in IPNI: *Rawson*\]
 
 #### Herbarium and types
 

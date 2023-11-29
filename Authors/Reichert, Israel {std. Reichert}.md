@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 693](https://www.biodiversitylibrary.org/page/33190164) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 693](https://www.biodiversitylibrary.org/page/33190164) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25473-1), [Wikidata](https://www.wikidata.org/wiki/Q4007938). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reichert, Israel (1891-1975), Polish-born Israeli botanist, studied at the University of Berlin 1913-1919, student of A. Engler; in 1920-1921 with Biologische Reichsanstalt, Berlin and the Ist. patologia vegetale, Firenze; Dr. phil. Berlin 1921; from 1921 at the Agricultural Research Station Rehovoth, from 1949-1959 professor at the faculty of agriculture of Hebrew University, Jerusalem; from 1959-1975 in retirement; Israel State Prize 1955; ardent zionist. 
-**Abbreviated name**: *Reichert*
+**Abbreviated name**: *Reichert* \[standard form in IPNI: *Reichert*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33333343) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33333343) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9116-1), [Wikidata](https://www.wikidata.org/wiki/Q5275207). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlechtendal, Diederich \[Dietrich\] Hermann Reinhard von (1834-1916), German (Sachsen-born) entomologist, palaeontologist and plant pathologist; son of D.F.L. von Schlechtendal; state examiniation ordnance survey and geodesy 1868; "Markschneider" (surveyor of mines) at Zwickau 1869-1881; from 1881 in Halle as private scientist; assistant at the Halle mineralogical institute 1885-1913, also active as librarian. 
-**Abbreviated name**: *D.H.R. Schlechtend.*
+**Abbreviated name**: *D.H.R. Schlechtend.* \[standard form in IPNI: *D.H.R.Schltdl.*\]
 
 #### Herbarium and types
 

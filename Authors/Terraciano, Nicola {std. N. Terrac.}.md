@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2004-09-22 13:50:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33212268) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33212268) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10527-1), [Wikidata](https://www.wikidata.org/wiki/Q5560396). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Terraciano, Nicola (1837-1921), Italian botanist; father\[?\] of A. Terraciano; professor of natural history at the Technical College and director of the Royal Garden at Caserta 1896-1908; later professor in Bagnoli (Napoli). 
-**Abbreviated name**: *N. Terrac.*
+**Abbreviated name**: *N. Terrac.* \[standard form in IPNI: *N.Terracc.*\]
 
 #### Herbarium and types
 

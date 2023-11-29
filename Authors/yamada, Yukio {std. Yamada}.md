@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33066826) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33066826) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11921-1), [Wikidata](https://www.wikidata.org/wiki/Q21702810). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Yamada, Yukio (1900-1975), Japanese algologist; Grad. Tokyo Univ. 1924; studied at European and American institutions 1928-1930; Dr. phil. Tokyo 1931; assistant professor (1930) and regular professor at The Faculty of Science, Hokkaido University 1931-1964, from 1931 also director of the Muroran seaside Institute of Algological Research, Hokkaido University. 
-**Abbreviated name**: *Yamada*
+**Abbreviated name**: *Yamada* \[standard form in IPNI: *Yamada*\]
 
 #### Herbarium and types
 

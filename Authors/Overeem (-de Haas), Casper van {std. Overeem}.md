@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33355952) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33355952) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7214-1), [Wikidata](https://www.wikidata.org/wiki/Q4330668). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Overeem \[-de Haas\], Casper van (1893-1927), Dutch mycologist; Ph. D. Zürich 1920; at Buitenzorg (Bogor) 1921-1927 as mycological assistant at the Herbarium bogoriense. 
-**Abbreviated name**: *Overeem*
+**Abbreviated name**: *Overeem* \[standard form in IPNI: *Overeem*\]
 
 #### Herbarium and types
 

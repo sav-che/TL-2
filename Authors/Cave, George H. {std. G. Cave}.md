@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33266780) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 473](https://www.biodiversitylibrary.org/page/33266780) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1467-1), [Wikidata](https://www.wikidata.org/wiki/Q21508057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cave, George H. (c. 1870-1965), British gardener, Kew gardener 1894, assistant at the Botanic Gardens Calcutta 1896, at the Goverment Cinchona Plantations, Mungpoo 1900, Lloyd Botanic Garden, Darjeeling, 1904, collected in Tibet, Nepal and Sikkim. 
-**Abbreviated name**: *G. Cave*
+**Abbreviated name**: *G. Cave* \[standard form in IPNI: *Cave*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/page/33190281) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/page/33190281) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8442-1), [Wikidata](https://www.wikidata.org/wiki/Q3340748). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Robert, Nicolas (1610-1684), French botanical artist for Gaston d'Orléans at Paris. 
-**Abbreviated name**: *N. Robert*
+**Abbreviated name**: *N. Robert* \[standard form in IPNI: *N.Robert*\]
 
 #### Herbarium and types
 

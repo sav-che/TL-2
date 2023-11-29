@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33260161) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33260161) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/34805-1), [Wikidata](https://www.wikidata.org/wiki/Q4011246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dupain, Victor Augustin (1857-1940), French pharmacist, born 11 Sep 1857 at Mothe Saint-Héray (Deux-Sèvres), studied at the École supérieure at Paris, pharmacist first class 27 Dec 1884, had a pharmacy on his home-town, was interested and published on fungi, died shortly before 4 Mar 1940. 
-**Abbreviated name**: *Dupain*
+**Abbreviated name**: *Dupain* \[standard form in IPNI: *Dupain*\]
 
 #### Herbarium and types
 

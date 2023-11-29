@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33355089) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33355089) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5610-1), [Wikidata](https://www.wikidata.org/wiki/Q5818896). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lindemann, Eduard Emanuilovitch von (1825-1900), Russian botanist at Elisabethgrad (Cherson), son of Emanuel von Lindemann, studied natural sciences and medicine at St. Petersburg 1841-1847; military surgeon in the Russian army from 1848; Dr. phil. h.c. Odessa 1877. 
-**Abbreviated name**: *Lindem.*
+**Abbreviated name**: *Lindem.* \[standard form in IPNI: *Lindem.*\]
 
 #### Herbarium and types [^1]
 

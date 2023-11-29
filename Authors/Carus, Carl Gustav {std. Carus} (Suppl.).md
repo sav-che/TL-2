@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33266749) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33266749) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1432-1), [Wikidata](https://www.wikidata.org/wiki/Q61987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Carus, Carl Gustav {std. Carus}|first entry]] for this author
 
 ### Author
 
 \* Carus, Carl Gustav (1789-1869), German physician and biologist, born at Leipzig 3 Jan 1789, studied at the University of Leipzig, Dr. phil. ib. 20 Dec 1814, professor at the medical academy at Dresden 1815-1827, physician in ordinary with the King of Saxony 1827-1869, ultimately also president of the Leopoldina 1863-1869. 
-**Abbreviated name**: *Carus*
+**Abbreviated name**: *Carus* \[standard form in IPNI: *Carus*\]
 
 #### Herbarium and types
 

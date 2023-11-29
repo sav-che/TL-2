@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33333629) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33333629) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9433-1), [Wikidata](https://www.wikidata.org/wiki/Q47125968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seidel, Christoph Friedrich (*fl*. 1869), German (Saxonian) botanist at Dresden. 
-**Abbreviated name**: *C.F. Seidel*
+**Abbreviated name**: *C.F. Seidel* \[standard form in IPNI: *C.F.Seidel*\]
 
 #### Herbarium and types
 

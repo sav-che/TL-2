@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33068248) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33068248) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3535-1), [Wikidata](https://www.wikidata.org/wiki/Q79107). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Haenke, Thaddaeus (Tadeáš) Peregrinus Xaverius (1761-1816), Czech botanist and explorer on the Malaspina expedition. 
-**Abbreviated name**: *Haenke*
+**Abbreviated name**: *Haenke* \[standard form in IPNI: *Haenke*\]
 
 #### Herbarium and types
 

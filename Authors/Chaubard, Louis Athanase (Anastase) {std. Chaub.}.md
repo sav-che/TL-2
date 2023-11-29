@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33120619) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33120619) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17111-1), [Wikidata](https://www.wikidata.org/wiki/Q2355627). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chaubard, Louis Athanase (Anastase) (1781-1854), French botanist and palaeontologist. 
-**Abbreviated name**: *Chaub.*
+**Abbreviated name**: *Chaub.* \[standard form in IPNI: *Chaub.*\]
 
 #### Herbarium and types
 

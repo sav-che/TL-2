@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33333255) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33333255) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9018-1), [Wikidata](https://www.wikidata.org/wiki/Q1236335). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scharfetter, Rudolf (1880-1956), Austrian botanist; studied at the University of Vienna as a student of R. Wettstein and Grobben; Dr. phil. ib. 1902; supplementary teacher at the Staatsgymnasium of Klagenfurt 1902-1904; teacher at the Staatsgymnasium of Villach 1904-1911 ; professor at the second Staatsrealschule Graz 1911-1919; director ib. 1919-1937; school inspector 1937-1945; habil. Univ. Graz 1913, "Privatdozent" ib. 1913-1923; extraordinary professor (title) 1924; active extraordinary professor 1935; regular titular professor 1937-1950; honorary professor 1950-1956. 
-**Abbreviated name**: *Scharf.*
+**Abbreviated name**: *Scharf.* \[standard form in IPNI: *Scharf.*\]
 
 #### Herbarium and types
 

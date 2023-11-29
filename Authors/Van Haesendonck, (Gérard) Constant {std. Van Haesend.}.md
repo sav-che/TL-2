@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33212707) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33212707) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12964-1), [Wikidata](https://www.wikidata.org/wiki/Q21611412). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Van Haesendonck, \[Gérard\] Constant (1810-1881), Belgian physician and botanist; studied at Antwerp; became gynaecologist and pharmacist at the St. Elisabeth hospital, also practicing physician at Tongerloo. 
-**Abbreviated name**: *Van Haesend.*
+**Abbreviated name**: *Van Haesend.* \[standard form in IPNI: *Van Haes.*\]
 
 #### Herbarium and types
 

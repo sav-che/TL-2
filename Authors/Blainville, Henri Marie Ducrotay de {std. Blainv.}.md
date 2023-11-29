@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33120358) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33120358) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/32452-1), [Wikidata](https://www.wikidata.org/wiki/Q44691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Blainville, Henri Marie Ducrotay de {std. Blainv.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Blainville, Henri Marie Ducrotay de (1777-1850), French paleobiologist. 
-**Abbreviated name**: *Blainville*
+**Abbreviated name**: *Blainville* \[standard form in IPNI: *Blainv.*\]
 
 #### Collections
 

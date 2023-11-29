@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33355527) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 440](https://www.biodiversitylibrary.org/page/33355527) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6410-1), [Wikidata](https://www.wikidata.org/wiki/Q2662931). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meyer, Bernhard (1767-1836), German botanist and ornithologist in the Wetterau; 1791-1796 practicing physician at Hanau; from 1796 pharmacist and dentist at Offenbach. 
-**Abbreviated name**: *B. Mey.*
+**Abbreviated name**: *B. Mey.* \[standard form in IPNI: *B.Mey.*\]
 
 #### Herbarium and types
 

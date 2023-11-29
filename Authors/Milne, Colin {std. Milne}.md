@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/page/33355590) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 503](https://www.biodiversitylibrary.org/page/33355590) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6493-1), [Wikidata](https://www.wikidata.org/wiki/Q5777379). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Milne, Colin (1743?-1815), British clergyman and botanist; rector of North Chapel, Petworth, Sussex; LL. D. h. c. Aberdeen 
-**Abbreviated name**: *Milne*
+**Abbreviated name**: *Milne* \[standard form in IPNI: *Milne*\]
 
 #### Herbarium and types
 

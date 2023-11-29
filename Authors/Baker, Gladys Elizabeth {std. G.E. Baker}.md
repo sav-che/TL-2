@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33265004) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33265004) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31218-1), [Wikidata](https://www.wikidata.org/wiki/Q16017686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Baker, Gladys Elizabeth (1908-x), American (Iowa-born) botanist, studied at the University of Iowa, B.A. 1930, M.S. 1923, at Washington, St. Louis, scholar in botany 1930-1931, staff artist 1932-1933, fellow in botany 1933-1935, research assistant in botany 1935-1936, instructor in biology from 1936. Dr. phil. Washington University, Jun 1935 
-**Abbreviated name**: *G.E. Baker*
+**Abbreviated name**: *G.E. Baker* \[standard form in IPNI: *G.E.Baker*\]
 
 #### Herbarium and types
 

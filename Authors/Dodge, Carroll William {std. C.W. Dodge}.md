@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33260004) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33260004) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18105-1), [Wikidata](https://www.wikidata.org/wiki/Q4164135). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dodge, Carroll William (1895-1988), American botanist (lichenologist and mycologist, history of biology), born 20 Jan 1895, AB. Middlebury College 1915, A.M. 1916, fellow Washington Univ. (St. Louis) 1915-1918, Ph.D. 1918, instructor botany Brown 1919-1920, assist. professor 1920-1921, instructor Harvard 1921-1924, assist. professor Farlow Library and Herbarium 1924-1931, from 1931 mycologist Missouri Bot. Garden. 
-**Abbreviated name**: *C.W. Dodge*
+**Abbreviated name**: *C.W. Dodge* \[standard form in IPNI: *C.W.Dodge*\]
 
 #### Herbarium and types
 

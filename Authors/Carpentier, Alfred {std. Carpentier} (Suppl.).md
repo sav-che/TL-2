@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33266727) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33266727) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1412-1), [Wikidata](https://www.wikidata.org/wiki/Q21507012). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Carpentier, Alfred, abbé {std. Carpentier}|first entry]] for this author
 
 ### Author
 
 \* Carpentier, Alfred (1878-1952), French catholic priest, ultimately canon, and palaeobotanist, born at Avesnes, educated at the Avesnes college, at the secondary school of the seminary of Cambrai, studied palaeobotany and biology at the Catholic University at Lille, further studies at the theological faculty at Lille, teacher at the Institution Notre-Dame de Valenciennes, studied the carboniferous of the region, at 1905 teacher at the Faculté libre des sciences of Lille, Dr. phil. ib 1913, from then on studying mainly palaeontology 
-**Abbreviated name**: *Carpentier*
+**Abbreviated name**: *Carpentier* \[standard form in IPNI: *Carpentier*\]
 
 #### Collections
 

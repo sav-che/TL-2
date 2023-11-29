@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33259194) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33259194) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2078-1), [Wikidata](https://www.wikidata.org/wiki/Q21339039). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Degelius, Gunnar Bror Fritiof {std. Degel.}|first entry]] for this author
 
 ### Author
 
 \* Degelius, Gunnar Bror Fritiof (1903-1993), Swedish botanist, born 27 Jan 1903 in Uppsala, son of a pharmacist, studied at the University of Uppsala, Dr. biol. and "Dozent" 1935, set up a trio of lichenologists at UPS, moved to Göteborg 1955-1968, died 1993. 
-**Abbreviated name**: *Degel.*
+**Abbreviated name**: *Degel.* \[standard form in IPNI: *Degel.*\]
 
 #### Herbarium and types
 

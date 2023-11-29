@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33355126) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33355126) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12652-1), [Wikidata](https://www.wikidata.org/wiki/Q465834). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 L'Héritier de Brutelle, Charles-Louis (1746-1800), French magistrate and amateur botanist, at Paris; from 1775-1789 counsellor at the" Cour des Aides"; after the revolution at the Department of Justice; died by murder in unclarified circumstances. 
-**Abbreviated name**: *L'Hér.*
+**Abbreviated name**: *L'Hér.* \[standard form in IPNI: *L'Hér.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33333137) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33333137) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12811-1), [Wikidata](https://www.wikidata.org/wiki/Q21607672). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 San Georgio, Anna di née Harley (1803-1874), British-born Italian botanist at Florence. 
-**Abbreviated name**: *A. San Georgio*
+**Abbreviated name**: *A. San Georgio* \[standard form in IPNI: *A.San Georgio*\]
 
 #### Herbarium and types
 

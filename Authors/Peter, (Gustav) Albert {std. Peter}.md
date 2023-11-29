@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33189660) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33189660) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7563-1), [Wikidata](https://www.wikidata.org/wiki/Q53623). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Peter, \[Gustav\] Albert (1853-1937), German (Prussian) botanist; Dr. phil. Königsberg 1874; private tutor at München 1874-1884 and working with Nägeli on Hieracium; habil. München 1884; "Custos" at the botanical garden, München 1884-1888; professor of botany and director of the botanical garden Göttingen 1888-1923; in retirement working at a Flora von Deutsch-Ostafrika. 
-**Abbreviated name**: *Peter*
+**Abbreviated name**: *Peter* \[standard form in IPNI: *Peter*\]
 
 #### Herbarium and types
 

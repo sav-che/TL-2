@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33265725) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33265725) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/33975-1), [Wikidata](https://www.wikidata.org/wiki/Q2129808). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chaney, Ralph Works (1890-\[fl. 1955\]), American geologist and paleobotanist, born 24 Aug 1890 at Chicago, Illinois, B.S. Chicago, 1912, Ph.D. 1919, research associate Carnegie Institution of Washington and University of California, Berkeley, California 1922-1931, worked further on tertiary paleobotany (Miocene, Pliocene and Eocene floras of Oregon). 
-**Abbreviated name**: *R.W. Chaney*
+**Abbreviated name**: *R.W. Chaney* \[standard form in IPNI: *R.W.Chaney*\]
 
 #### Herbarium and types
 

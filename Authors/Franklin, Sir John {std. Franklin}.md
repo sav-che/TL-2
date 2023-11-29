@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33121003) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 872](https://www.biodiversitylibrary.org/page/33121003) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2878-1), [Wikidata](https://www.wikidata.org/wiki/Q2655). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Franklin, Sir John (1786-1847), British arctic explorer, rear admiral, governor of Tasmania. 
-**Abbreviated name**: *Franklin*
+**Abbreviated name**: *Franklin* \[standard form in IPNI: *Franklin*\]
 
 #### Herbarium and types
 

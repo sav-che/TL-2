@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33355402) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33355402) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22943-1), [Wikidata](https://www.wikidata.org/wiki/Q1506633). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Martens, Georg Matthias von (1788-1872), German botanist; government official; studied law at Tübingen 1807-1810; from 1811-1855 secretary of the "Oberjustizkollegium", from 1836 with the title "Kanzleirat", at Stuttgart; Dr. phil. h.c. Tübingen 1863. 
-**Abbreviated name**: *G. Martens*
+**Abbreviated name**: *G. Martens* \[standard form in IPNI: *G.Martens*\]
 
 #### Herbarium and types
 

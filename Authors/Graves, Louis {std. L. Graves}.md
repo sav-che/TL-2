@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 983](https://www.biodiversitylibrary.org/page/33121114) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 983](https://www.biodiversitylibrary.org/page/33121114) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3348-1), [Wikidata](https://www.wikidata.org/wiki/Q3262073). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Graves, Louis (1791-1857), French superintendent of forests. 
-**Abbreviated name**: *L. Graves*
+**Abbreviated name**: *L. Graves* \[standard form in IPNI: *L.Graves*\]
 
 #### Collections
 

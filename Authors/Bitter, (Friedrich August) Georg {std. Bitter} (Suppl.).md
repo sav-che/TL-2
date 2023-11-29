@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33265376) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33265376) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/814-1), [Wikidata](https://www.wikidata.org/wiki/Q68945). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bitter, Friedrich August Georg {std. Bitter}|first entry]] for this author
 
 ### Author
 
 \* Bitter, \[Friedrich August\] Georg (1873-1927), German (Bremen) botanist, educated at the Realschule and Gymnasium in Bremen, studied at the universities of Jena, München and Kiel 1893, Dr. phil. Kiel with Johannes Reinke 1896, studied at the Botanical Museum, Berlin and at the Biological Station Napoli 1897-1899; assistant with F.W. Zopf at the University of Münster 1899-1905, habil. ib. 1901 at the Kgl. Akademie id., head of the Botanical Garden in Bremen 1905-1915, 1918-1923, on active service 1915-1918, professor of botany at the University of Göttingen 1923-1927, retired for health reasons to Bremen 1927. 
-**Abbreviated name**: *Bitter*
+**Abbreviated name**: *Bitter* \[standard form in IPNI: *Bitter*\]
 
 #### Herbarium and types
 

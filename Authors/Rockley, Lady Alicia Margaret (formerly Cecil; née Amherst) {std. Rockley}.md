@@ -29,14 +29,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33190297) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33190297) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12778-1), [Wikidata](https://www.wikidata.org/wiki/Q19324976). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rockley, Lady Alicia Margaret (formerly Cecil; née Amherst), (1865-1941), British (English) popular botanical author; collected in Mozambique (1899), Rhodesia (1900), Ceylon, Australia, New Zealand, Canada (1927); married (1898) Sir Evelyn Cecil (later Baron Rockley). 
-**Abbreviated name**: *Rockley*
+**Abbreviated name**: *Rockley* \[standard form in IPNI: *Rockley*\]
 
 #### Herbarium and types
 

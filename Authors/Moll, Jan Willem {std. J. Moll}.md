@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33355639) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 552](https://www.biodiversitylibrary.org/page/33355639) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6579-1), [Wikidata](https://www.wikidata.org/wiki/Q20642047). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moll, Jan Willem (1851-1933), Dutch phytographer; Dr. Phil. Leiden 1876; high school teacher at Utrecht 1876-1890; from then on professor of botany at Groningen and director of the botanical garden until 1917. 
-**Abbreviated name**: *J. Moll*
+**Abbreviated name**: *J. Moll* \[standard form in IPNI: *J.Moll*\]
 
 #### Herbarium and types
 

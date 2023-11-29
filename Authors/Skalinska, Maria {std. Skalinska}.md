@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 624](https://www.biodiversitylibrary.org/page/33333763) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 624](https://www.biodiversitylibrary.org/page/33333763) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9711-1), [Wikidata](https://www.wikidata.org/wiki/Q15991170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Skalinska, Maria (1890-1977), Polish botanist and geneticist; Dr. sci. nat. Bern 1912; lecturer in genetics and plant embryology Horticultural College, Warsaw 1916-1923; associated with the Department of Genetics, College of Agriculture Warsaw from 1920; professor of botany and genetics Free University of Poland, Warsaw 1924-1938; habil. Jagellonian Univ. Cracow 1938; in Great Britain 1939-1946; professor of plant anatomy and cytology Jagellonian Univ., 1946-1963; in retirement continuing her work in Cracow. 
-**Abbreviated name**: *Skalinska*
+**Abbreviated name**: *Skalinska* \[standard form in IPNI: *Skalińska*\]
 
 #### Herbarium and types
 

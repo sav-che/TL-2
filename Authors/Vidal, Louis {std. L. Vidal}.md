@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33212768) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 726](https://www.biodiversitylibrary.org/page/33212768) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/34487-1), [Wikidata](https://www.wikidata.org/wiki/Q47128097). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vidal, Louis (*fl*. 1900), French botanist at the University of Grenoble. 
-**Abbreviated name**: *L. Vidal*
+**Abbreviated name**: *L. Vidal* \[standard form in IPNI: *L.Vidal*\]
 
 #### Herbarium and types
 

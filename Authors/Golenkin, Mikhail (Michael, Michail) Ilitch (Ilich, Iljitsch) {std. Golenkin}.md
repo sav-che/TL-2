@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33258763) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33258763) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3242-1), [Wikidata](https://www.wikidata.org/wiki/Q4141454). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Golenkin, Mikhail \[Michael, Michail\] Ilitch \[Ilich, Iljitsch\] (1864-1941), Russian botanist, born 4 Feb 1864 in St. Petersburg, dir., Moscow Bot. Garden 1900-1931, visited Buitenzorg (Bogor) Dec 1904-Mai 1905, died 15 Jun 1941 in Moscow. 
-**Abbreviated name**: *Golenkin*
+**Abbreviated name**: *Golenkin* \[standard form in IPNI: *Golenkin*\]
 
 #### Herbarium and types
 

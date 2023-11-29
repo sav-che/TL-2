@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33265435) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33265435) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16242-1), [Wikidata](https://www.wikidata.org/wiki/Q21390508). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boberski, Ladislaus \[Wladyslaw\] (1846-1891/2), Austrian (Lemberg, West Galicia) lichenologist, k.k. school inspector of the city of Lemberg. 
-**Abbreviated name**: *Boberski*
+**Abbreviated name**: *Boberski* \[standard form in IPNI: *Boberski*\]
 
 #### Herbarium and types
 

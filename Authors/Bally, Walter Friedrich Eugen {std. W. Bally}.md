@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33265033) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33265033) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31267-1), [Wikidata](https://www.wikidata.org/wiki/Q18638654). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bally, Walter Friedrich Eugen (1882-1959), Swiss (Aarau) botanist, educated at the Aarau Gymnasium, at the University of Genève 1902 (with Chodat), at the Polytechnic University of Zürich 1902, Dipl. 1906, Dr. phil. Zürich 1907, habil. Bonn 1911, first assistant Bonn 1912, habil. Basel 1915, at the University of Basel 1916, botanical assistant at the Central Java Experiment Station at Salatiga 1919, director 1920-1921, botanist at the Malang Experiment Station, Eastern Java 1921-1931, from 1931 head of the division of tropical and subtropical cultures at the International Institute of Agriculture in Rome, from 1950 in retirement in Genève. 
-**Abbreviated name**: *W. Bally*
+**Abbreviated name**: *W. Bally* \[standard form in IPNI: *Bally*\]
 
 #### Herbarium and types
 

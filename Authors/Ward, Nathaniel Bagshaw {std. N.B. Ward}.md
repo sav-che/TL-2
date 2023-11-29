@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33066409) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 69](https://www.biodiversitylibrary.org/page/33066409) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11407-1), [Wikidata](https://www.wikidata.org/wiki/Q1966819). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ward, Nathaniel Bagshaw (1791-1868), British physician and botanist; inventor (1829) of the Wardian case; examiner in botany to the Society of Apothecaries 1836-1854; master (1854) and later treasurer of this Society; co-founder of the Microscopical Society; practicing in London; in retirement at St. Leonard's, Sussex. 
-**Abbreviated name**: *N.B. Ward*
+**Abbreviated name**: *N.B. Ward* \[standard form in IPNI: *N.B.Ward*\]
 
 #### Herbarium and types
 

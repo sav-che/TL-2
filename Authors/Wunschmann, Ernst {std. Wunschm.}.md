@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33066820) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33066820) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11907-1), [Wikidata](https://www.wikidata.org/wiki/Q19194816). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wunschmann, Ernst (1848-?), German (Berlin) botanist and high school teacher; studied natural sciences at the Friedrich Wilhelms-Universität, Berlin 1868-1872; Dr. phil. ib. 1872; teacher at the Charlottenschule, Friedenau nr Berlin; professor's title 1895. 
-**Abbreviated name**: *Wunschm.*
+**Abbreviated name**: *Wunschm.* \[standard form in IPNI: *Wunschm.*\]
 
 #### Herbarium and types
 

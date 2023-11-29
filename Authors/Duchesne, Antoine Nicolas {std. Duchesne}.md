@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33120820) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33120820) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2346-1), [Wikidata](https://www.wikidata.org/wiki/Q586815). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Duchesne, Antoine Nicolas (1747-1827), French botanist and horticulturist. 
-**Abbreviated name**: *Duchesne*
+**Abbreviated name**: *Duchesne* \[standard form in IPNI: *Duchesne*\]
 
 #### Herbarium and types
 

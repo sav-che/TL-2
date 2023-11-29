@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33068389) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33068389) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3808-1), [Wikidata](https://www.wikidata.org/wiki/Q1730425). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Heller, Carl Bartholomäus (1824-1880), Moravia-born Austrian traveller and naturalist; in Mexico 1845-1848. 
-**Abbreviated name**: *C. Heller*
+**Abbreviated name**: *C. Heller* \[standard form in IPNI: *C.Heller*\]
 
 #### Herbarium and types
 

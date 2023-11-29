@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33355730) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 643](https://www.biodiversitylibrary.org/page/33355730) of TL-2 Vol. III
+> Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Müller, Karl (recte: "Carl") Alfred Ernst (1855-1907), German botanist, mainly plant physiologist; Dr. phil. Berl. 1883; from 1886-1895 at Pringsheim's plant-physiological institute; from 1895 at the Technische Hochschule Berlin (Charlottenburg); from 1896 as professor; from 1886 also part time and from 1903 fully paid by the Gärtnerlehranstalt at Dahlem while remaining associated with the Technische Hochschule. 
-**Abbreviated name**: *K. A. E. Müll.*
+**Abbreviated name**: *K. A. E. Müll.* \[standard form in IPNI: *K.A.E.Müll.*\]
 
 #### Herbarium and types
 

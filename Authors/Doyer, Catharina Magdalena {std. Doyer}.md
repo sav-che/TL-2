@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33260071) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33260071) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18184-1), [Wikidata](https://www.wikidata.org/wiki/Q36524100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Doyer, Catharina Magdalena (1898-1979), Dutch botanist born in Zuidbroek, studied at Utrecht, Ph.D. 15 Jun 1925, later at the Centraalbureau voor Schimmelcultures at Baarn (Netherlands), died 24 Nov 1979 at Huizen. 
-**Abbreviated name**: *Doyer*
+**Abbreviated name**: *Doyer* \[standard form in IPNI: *Doyer*\]
 
 #### Herbarium and types
 

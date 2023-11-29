@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33068828) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33068828) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4887-1), [Wikidata](https://www.wikidata.org/wiki/Q4224659). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kny, Carl Ignaz Leopold (1841-1916), German botanist; pupil of A. Braun; Dr. phil. Berlin 1863; professor of botany at the Landwirtschaftliche Hochschule, Berlin from 1868. 
-**Abbreviated name**: *Kny*
+**Abbreviated name**: *Kny* \[standard form in IPNI: *Kny*\]
 
 #### Herbarium and types
 

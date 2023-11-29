@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/page/33068721) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 479](https://www.biodiversitylibrary.org/page/33068721) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4597-1), [Wikidata](https://www.wikidata.org/wiki/Q432734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jussieu, Bernard de (1699-1777), French botanist, uncle and teacher of A. L. de Jussieu, curator of the Trianon garden. 
-**Abbreviated name**: *B. Juss.*
+**Abbreviated name**: *B. Juss.* \[standard form in IPNI: *B.Juss.*\]
 
 #### Herbarium
 

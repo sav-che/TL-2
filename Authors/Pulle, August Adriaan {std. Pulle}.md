@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33189896) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33189896) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8019-1), [Wikidata](https://www.wikidata.org/wiki/Q1100833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pulle, August Adriaan (1878-1955), Netherlands botanist; Dr. phil. Utrecht 1906; from 1906-1914 lecturer, from 1914-1949 professor of systematic botany at the University of Utrecht; botanical explorer of Suriname; founder of the Utrecht school of systematic botany and long-time editor of the Flora of Suriname. 
-**Abbreviated name**: *Pulle*
+**Abbreviated name**: *Pulle* \[standard form in IPNI: *Pulle*\]
 
 #### Herbarium and types
 

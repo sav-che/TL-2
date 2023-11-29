@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33068245) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33068245) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3526-1), [Wikidata](https://www.wikidata.org/wiki/Q816171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hacquet, Belsazar (Balthasar) (1739-1815), Bretagne (Brittany) born French-Austrian physician, botanist and geologist; born at Conquet (Bretagne); high school teacher at Laibach (Ljubljana); 1788 prof. natural history at Lemberg (Lwow); later mining counsel at Vienna; explorer of Croatia and the Carpathians. 
-**Abbreviated name**: *Hacq.*
+**Abbreviated name**: *Hacq.* \[standard form in IPNI: *Hacq.*\]
 
 #### Herbarium and types
 

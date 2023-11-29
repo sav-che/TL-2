@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33333623) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33333623) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9425-1), [Wikidata](https://www.wikidata.org/wiki/Q21608616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Segret, L. (1867-1949), French clergyman and botanist. 
-**Abbreviated name**: *Segret*
+**Abbreviated name**: *Segret* \[standard form in IPNI: *Segret*\]
 
 #### Herbarium and types
 

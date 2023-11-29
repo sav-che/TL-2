@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-21 20:58:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33266384) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33266384) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16544-1), [Wikidata](https://www.wikidata.org/wiki/Q21506491). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brinkman, Alfred Henry (1873-1945), English born bryologist, on Lighthouse service, England 1895-1908, emigrated to Canada 1908, settled at Craigmyle, Alberta, surveyor and topographer in Rocky Mountain forests. 
-**Abbreviated name**: *Brinkm.*
+**Abbreviated name**: *Brinkm.* \[standard form in IPNI: *Brinkm.*\]
 
 #### Herbarium and types
 

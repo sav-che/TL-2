@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33333461) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33333461) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9252-1), [Wikidata](https://www.wikidata.org/wiki/Q21608414). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schramm, Alphons (1823-1875), French (Alsatian) government official and botanist in French Guiana and, from 1848-1873 in Guadeloupe. 
-**Abbreviated name**: *Schramm*
+**Abbreviated name**: *Schramm* \[standard form in IPNI: *Schramm*\]
 
 #### Herbarium and types
 

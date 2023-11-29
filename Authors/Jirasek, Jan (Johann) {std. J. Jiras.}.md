@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33068686) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33068686) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4491-1), [Wikidata](https://www.wikidata.org/wiki/Q21517037). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jirasek, Jan \[Johann\] (1754-1797), Austrian botanist and engineer, "Ober-Wald-Commissar" in Salzburg. 
-**Abbreviated name**: *J. Jiras.*
+**Abbreviated name**: *J. Jiras.* \[standard form in IPNI: *Jirasek*\]
 
 #### Herbarium and types
 

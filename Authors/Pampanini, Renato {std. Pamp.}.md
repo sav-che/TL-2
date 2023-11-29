@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33189471) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 38](https://www.biodiversitylibrary.org/page/33189471) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7298-1), [Wikidata](https://www.wikidata.org/wiki/Q133535). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pampanini, Renato (1875-1949), Italian botanist; studied at Fribourg, Lausanne and Genève (with R.H. Chodat); Dr. phil. Fribourg 1902; from 1904-1933 at the Istituto botanico di Firenze, from 1912 as assistant; professor of botany at Cagliari 1933-1948, ultimately at Torino. 
-**Abbreviated name**: *Pamp.*
+**Abbreviated name**: *Pamp.* \[standard form in IPNI: *Pamp.*\]
 
 #### Herbarium and types
 

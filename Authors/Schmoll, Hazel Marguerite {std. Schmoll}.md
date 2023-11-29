@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33333404) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33333404) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9178-1), [Wikidata](https://www.wikidata.org/wiki/Q5893077). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmoll, Hazel Marguerite (1891-x), American teacher and botanist; Dr. phil. Chicago; BA and BE Univ. Colorado 1913; assistant in biology Vassar College 1913-1917; curator of botany State History and Natural History State Museum Denver 1919-1920, 1921-1933; curator Colorado State Bureau of Mines 1920-1921; after 1933 Senior botanist, WPA project, Field Mus. Chicago. 
-**Abbreviated name**: *Schmoll*
+**Abbreviated name**: *Schmoll* \[standard form in IPNI: *Schmoll*\]
 
 #### Herbarium and types
 

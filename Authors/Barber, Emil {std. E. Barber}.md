@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33265042) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33265042) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/460-1), [Wikidata](https://www.wikidata.org/wiki/Q1335807). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Barber, Emil (1857-1917), German (Ober-Lausitz) botanist, grew up in Arnsdorf (O.L.), at the teacher's college at Reichenbach (O.L.) 1874-1877, teacher at Hoyerswerda 1877-1878, Freiwalda 1878-1880, from 1880-1917 id. at Görlitz, from 1884-1914 also director of the Görlitz Botanical Garden. 
-**Abbreviated name**: *E. Barber*
+**Abbreviated name**: *E. Barber* \[standard form in IPNI: *E.Barber*\]
 
 #### Herbarium and types
 

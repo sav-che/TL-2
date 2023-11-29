@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33120767) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33120767) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2164-1), [Wikidata](https://www.wikidata.org/wiki/Q21510052). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 De Toni, Ettore (Hector) (1858-?), Italian botanist. 
-**Abbreviated name**: *E. De Toni*
+**Abbreviated name**: *E. De Toni* \[standard form in IPNI: *E.De Toni*\]
 
 #### Herbarium and types
 

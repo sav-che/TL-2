@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33212600) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33212600) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10938-1), [Wikidata](https://www.wikidata.org/wiki/Q5933674). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tweedie, John \["James"\] (1775-1862), British (Scottish) gardener at Eglinton Castle, Ayrshire and Royal Botanic Garden, Edinburgh; to Buenos Aires, Argentina 1825, travelled and collected up the Uruguay river in Argentina, Uruguay, Rio Grande do Sul, Santa Catharina, Rio de Janeiro (1832), in the Tucuman region (1835) at the Serra de Tandil (1837). 
-**Abbreviated name**: *Tweedie*
+**Abbreviated name**: *Tweedie* \[standard form in IPNI: *Tweedie*\]
 
 #### Herbarium and types
 

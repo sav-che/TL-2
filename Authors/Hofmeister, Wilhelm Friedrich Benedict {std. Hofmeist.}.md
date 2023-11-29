@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33068492) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33068492) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4030-1), [Wikidata](https://www.wikidata.org/wiki/Q215935). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hofmeister, Wilhelm Friedrich Benedict (1824-1877), German botanist who developed the theory of the alternation of generations in plants; son of the publisher Friedrich Hofmeister at Leipzig, professor of botany at Heidelberg (1863), Tübingen (1872).
-**Abbreviated name**: *Hofmeist.*
+**Abbreviated name**: *Hofmeist.* \[standard form in IPNI: *Hofmeist.*\]
 
 #### Herbarium and types
 

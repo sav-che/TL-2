@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/page/33121063) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 932](https://www.biodiversitylibrary.org/page/33121063) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3091-1), [Wikidata](https://www.wikidata.org/wiki/Q21513897). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 George, Edward (1830-1900), British bryologist and algologist. 
-**Abbreviated name**: *George*
+**Abbreviated name**: *George* \[standard form in IPNI: *George*\]
 
 #### Herbarium and types
 

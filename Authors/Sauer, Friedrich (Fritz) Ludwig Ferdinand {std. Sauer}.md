@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33333203) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33333203) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8945-1), [Wikidata](https://www.wikidata.org/wiki/Q21387811). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sauer, Friedrich \[Fritz\] Ludwig Ferdinand (1852-?), German (Prussian) botanist ; studied at the Potsdam Gymnasium and the University of Berlin; Dr. phil. Halle 1880. 
-**Abbreviated name**: *Sauer*
+**Abbreviated name**: *Sauer* \[standard form in IPNI: *Sauer*\]
 
 #### Herbarium and types
 

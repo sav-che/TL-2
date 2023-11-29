@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33266453) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33266453) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1201-1), [Wikidata](https://www.wikidata.org/wiki/Q15480). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Browne, Patrick {std. P. Browne}|first entry]] for this author
 
 ### Author
 
 \* Browne, Patrick (1720-1790), Irish naturalist and physician, born at Woodstock (Mayo), went to Antigua 1737 but had to return because of illness, studied natural sciences, especially botany, in Paris and (with Gronovius) in Leiden, Dr. med. Lugd. 1743, practised in London 1744-1745, went to the West Indies (Barbados, Montserrat, Antigua, St. Christopher (St. Kitts), settling as a physician in Jamaica 1746, collected ib. 1746-1755, returned to England 1755, visited Montserrat and Antigua again ca. 1781, retired to Ireland, died in Rushbrook, County Mayo. 
-**Abbreviated name**: *P. Browne*
+**Abbreviated name**: *P. Browne* \[standard form in IPNI: *P.Browne*\]
 
 #### Herbarium and types
 

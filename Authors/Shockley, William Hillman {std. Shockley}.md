@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33333706) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33333706) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9588-1), [Wikidata](https://www.wikidata.org/wiki/Q21608816). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shockley, William Hillman (1855-1925), American mining engineer and plant collector; Mass. Inst. Technol. grad. 1875; in the Nevada silver fields at Candelaria Nevada 1880-1893; travelled widely; retirement to California in 1913. 
-**Abbreviated name**: *Shockley*
+**Abbreviated name**: *Shockley* \[standard form in IPNI: *Shockley*\]
 
 #### Herbarium and types
 

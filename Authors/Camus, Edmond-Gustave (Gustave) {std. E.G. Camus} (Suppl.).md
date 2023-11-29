@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33266655) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33266655) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/12373-1), [Wikidata](https://www.wikidata.org/wiki/Q3823236). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Camus, Edmond Gustave {std. E.G. Camus}|first entry]] for this author
 
 ### Author
 
 \* Camus, Edmond-Gustave \["Gustave"\] (1852-1915), French botanist and pharmacist, born in Paris, studied at the École de Pharmacie de Paris 1874, having received his diplome de Pharmacien de Ire classe continuing his botanical studies with G.A. Chatin (plant anatomist and the director of the École de Pharmacie) mainly on the flora of France, "director" and founder of the "Société pour l'étude de la Flore française" 1891, named "Société pour l'étude de la Flore franco-helvétique" 1894-1913, had a pharmacy 1878-1908, dedicating himself fully to botany from 1908. 
-**Abbreviated name**: *E.G. Camus*
+**Abbreviated name**: *E.G. Camus* \[standard form in IPNI: *E.G.Camus*\]
 
 #### Herbarium and types
 

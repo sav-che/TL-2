@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33333560) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 421](https://www.biodiversitylibrary.org/page/33333560) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9351-1), [Wikidata](https://www.wikidata.org/wiki/Q76745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwann, Theodor (1810-1882), German (Rhineland-Prussian) microscopist; Dr. med. Berlin 1834; assistant with Johannes Müller at Berlin 1834-1839; postulated the biological nature of alcoholic fermentation (1837); co-operated with M.J. Schleiden in developing the "cell-theory"; professor of anatomy at Louvain 1839; id. at Liège 1848; also professor of physiology ib. from 1858. 
-**Abbreviated name**: *Schwann*
+**Abbreviated name**: *Schwann* \[standard form in IPNI: *Schwann*\]
 
 #### Herbarium and types
 

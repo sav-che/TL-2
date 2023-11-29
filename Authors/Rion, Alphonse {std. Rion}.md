@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33190268) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33190268) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8404-1), [Wikidata](https://www.wikidata.org/wiki/Q21607233). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rion, Alphonse (1809-1856), Swiss (Valais) clergyman and botanist; teacher at the Lyceum of Sitten; ord. 1832; priest at Zenegyen nr Viège 1834-1835; from 1835 at Sion, ultimately as canon and teacher. 
-**Abbreviated name**: *Rion*
+**Abbreviated name**: *Rion* \[standard form in IPNI: *Rion*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33190213) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33190213) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8312-1), [Wikidata](https://www.wikidata.org/wiki/Q47125128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reuss, Leopold (*fl*. 1831), German (Bavarian) botanist and clergyman ("Domvikar") at Passau. 
-**Abbreviated name**: *L. Reuss*
+**Abbreviated name**: *L. Reuss* \[standard form in IPNI: *L.Reuss*\]
 
 #### Herbarium and types
 

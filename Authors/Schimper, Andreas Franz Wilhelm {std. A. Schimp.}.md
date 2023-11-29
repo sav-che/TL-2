@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33333299) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33333299) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9088-1), [Wikidata](https://www.wikidata.org/wiki/Q63760). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schimper, Andreas Franz Wilhelm (1856-1901), German (Alsatian) botanist; son of Wilhelm Philipp Schimper (1808-1880); studied with A. de Bary at the University of Strassburg; Dr. phil. ib. 1878; at the botanical garden of Lyon 1878; with J. Sachs in Würzburg 1879-1880; fellow of John Hopkins University, Baltimore 1880-1882; assistant to E. Strasburger at Bonn 1882; lecturer in physiological botany ib. 1883, extraordinary professor 1886; travelled in the E. United States 1880-1881, the West Indies 1882-1883, Brazil 1886, Ceylon and Java 1889-1890; with the German *Valdivia* expedition ("Deutsche Tiefsee-Expedition") 1898-1899; professor of botany at Basel 1898 (effective 1899)-1901; outstanding physiological plant geographer. 
-**Abbreviated name**: *A. Schimp.*
+**Abbreviated name**: *A. Schimp.* \[standard form in IPNI: *A.Schimp.*\]
 
 #### Herbarium and types
 

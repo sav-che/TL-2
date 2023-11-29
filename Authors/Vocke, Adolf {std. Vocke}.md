@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33212805) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33212805) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11230-1), [Wikidata](https://www.wikidata.org/wiki/Q19125433). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vocke, Adolf (1821-1901), German (Prussian) botanist and gardener; trained at the Nathusiusschen Baumschulen, Neuhaldensleben; gardener e.g. at te Breslau Botanical Garden; bought a commercial nursery at Nordhausen ca. 1860; sold the nursery in 1870 to dedicate himself exclusively to botany, especially plant collecting. 
-**Abbreviated name**: *Vocke*
+**Abbreviated name**: *Vocke* \[standard form in IPNI: *Vocke*\]
 
 #### Herbarium and types
 

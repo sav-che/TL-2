@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33068466) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33068466) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3992-1), [Wikidata](https://www.wikidata.org/wiki/Q21515886). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hodgson, William (1824-1901), English botanist and schoolmaster at Watermillock, and Aspatria, Cumberland. 
-**Abbreviated name**: *Hodgs.*
+**Abbreviated name**: *Hodgs.* \[standard form in IPNI: *Hodgs.*\]
 
 #### Herbarium and types
 

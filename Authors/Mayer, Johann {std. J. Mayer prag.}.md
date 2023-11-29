@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33355475) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33355475) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/35188-1), [Wikidata](https://www.wikidata.org/wiki/Q21520171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mayer, Johann (1754-1807), Bohemian physician and naturalist of Praha. 
-**Abbreviated name**: *J. Mayer prag.*
+**Abbreviated name**: *J. Mayer prag.* \[standard form in IPNI: *J.Mayer*\]
 
 #### Herbarium and types
 

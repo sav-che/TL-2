@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33068420) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33068420) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3893-1), [Wikidata](https://www.wikidata.org/wiki/Q21515761). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Herzfeld, Stephanie (1868-1930), Austrian high school teacher and botanist; Dr. phil. Wien 1923; for many years honorary collaborator at WU; pupil of Wettstein. 
-**Abbreviated name**: *Herzfeld*
+**Abbreviated name**: *Herzfeld* \[standard form in IPNI: *Herzfeld*\]
 
 #### Herbarium and types
 

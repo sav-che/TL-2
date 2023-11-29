@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33212207) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33212207) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10427-1), [Wikidata](https://www.wikidata.org/wiki/Q36531601). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tardent, Charles (*fl*. 1841), Swiss naturalist. 
-**Abbreviated name**: *Tardent*
+**Abbreviated name**: *Tardent* \[standard form in IPNI: *Tardent*\]
 
 #### Herbarium and types
 

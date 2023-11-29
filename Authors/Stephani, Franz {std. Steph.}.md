@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33334028) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 889](https://www.biodiversitylibrary.org/page/33334028) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10104-1), [Wikidata](https://www.wikidata.org/wiki/Q4526859). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stephani, Franz (1842-1927), German (Berlin) botanist (hepaticologist), from 1859-1863 and 1867-1868 employee, from 1868-1869 director of a woollen yarn spinning mill at Dessau, travelling in Europe 1863-1864; in New York for further professional training 1864-1866; merchant in Waldkirchen (Erzgebirge, Saxonia) 1869-1880; director of a wholesale toys store in Leipzig 1880-1884; from 1884-1907 with the publishing house Julius Klinghardt, Leipzig, from 1889 as confidential clerk; from 1907 in retirement at Leipzig, at Oetsch nr Leipzig 1910-1927. 
-**Abbreviated name**: *Steph.*
+**Abbreviated name**: *Steph.* \[standard form in IPNI: *Steph.*\]
 
 #### Herbarium and types
 

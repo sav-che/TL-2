@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33260146) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33260146) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2366-1), [Wikidata](https://www.wikidata.org/wiki/Q21511032). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dulfer, Hans (1900-1975), Dutch botanist, born 18 Nov 1900 at Amsterdam, went to school in Haarlem, later in The Hague and Apeldoorn until 1919, to Free University in Amsterdam studying natural sciences 1919-1926, Ph.D. 21 Jun 1926, assistant at Hortus Botanicus in Amsterdam 1926-1928, teacher in The Hague from 1928 and Hoorn from 1930, moved to Wilhelmsburg (Austria) in 1940, died 14 Mar 1975. 
-**Abbreviated name**: *Dulfer*
+**Abbreviated name**: *Dulfer* \[standard form in IPNI: *Dulfer*\]
 
 #### Herbarium and types
 

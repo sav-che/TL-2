@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33355433) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33355433) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6184-1), [Wikidata](https://www.wikidata.org/wiki/Q5880543). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marzari-Pencati, Giuseppe, Conte (1779-1836), Italian botanist. 
-**Abbreviated name**: *Marzari-Pencati*
+**Abbreviated name**: *Marzari-Pencati* \[standard form in IPNI: *Marz.-Penc.*\]
 
 #### Herbarium and types
 

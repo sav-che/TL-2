@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33066888) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 548](https://www.biodiversitylibrary.org/page/33066888) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12053-1), [Wikidata](https://www.wikidata.org/wiki/Q21613697). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zobel, August (1861-1934), German (Prussian) botanist at Dessau; studied at a teacher's seminary at Osterburg (Altmark); first teacher's exam. 1881; teacher at Wolfsburg 1881-1884, at Loedderitz 1884-1885; second teacher's exam. 1885; teacher and cantor at Güntersberge 1885-1900; high school teacher at Dessau 1900-1923. 
-**Abbreviated name**: *Zobel*
+**Abbreviated name**: *Zobel* \[standard form in IPNI: *A.Zobel*\]
 
 #### Herbarium and types
 

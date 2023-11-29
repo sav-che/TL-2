@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33333229) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33333229) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26188-1), [Wikidata](https://www.wikidata.org/wiki/Q4404104). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Savicz, Vsevolod Pavlovicz (1885-1972), Russian lichenologist; studied at the University of St. Petersburg 1904-1912; with the Botanical Institute of the Academy of Sciences, later V.L. Komarov Botanical Institute, Leningrad, from 1937 in charge of the Cryptogamic Department. 
-**Abbreviated name**: *V. Savicz*
+**Abbreviated name**: *V. Savicz* \[standard form in IPNI: *Savicz*\]
 
 #### Herbarium and types
 

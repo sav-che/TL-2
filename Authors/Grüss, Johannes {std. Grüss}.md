@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1016](https://www.biodiversitylibrary.org/page/33121147) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1016](https://www.biodiversitylibrary.org/page/33121147) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/19686-1), [Wikidata](https://www.wikidata.org/wiki/Q21514339). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Grüss, Johannes (1860-x), German palaeobiologist and physiologist, highschool-teacher in Berlin. 
-**Abbreviated name**: *Grüss*
+**Abbreviated name**: *Grüss* \[standard form in IPNI: *Grüss*\]
 
 #### Collections
 

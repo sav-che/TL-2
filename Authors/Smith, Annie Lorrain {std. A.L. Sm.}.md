@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33333802) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33333802) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9773-1), [Wikidata](https://www.wikidata.org/wiki/Q4267084). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Annie Lorrain (1854-1937), British lichenologist and mycologist; associated with the British Museum (Natural History) 1892-1899, 1901-1933 ("unofficial worker"), assistant to Wm. Carruthers, Royal Agricultural Society, 1899-1901; president of the British mycological Society 1917. 
-**Abbreviated name**: *A.L. Sm.*
+**Abbreviated name**: *A.L. Sm.* \[standard form in IPNI: *A.L.Sm.*\]
 
 #### Herbarium and types
 

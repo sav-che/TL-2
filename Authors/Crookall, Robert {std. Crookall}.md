@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/page/33266153) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/page/33266153) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/34331-1), [Wikidata](https://www.wikidata.org/wiki/Q36660544). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Crookall, Robert (1889/1890-?), British palaeobotanist and geologist, studied at the University of Bristol, Dr. phil. 1925, D.Sc. 1932. 
-**Abbreviated name**: *Crookall*
+**Abbreviated name**: *Crookall* \[standard form in IPNI: *Crookall*\]
 
 #### Herbarium and types
 

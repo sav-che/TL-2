@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33066391) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33066391) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11369-1), [Wikidata](https://www.wikidata.org/wiki/Q19125944). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walther, Alexander Wilhelm Hannibal Franz (1813-1890), German (Bavarian/Oberfranken) physician and botanist at Bayreuth. 
-**Abbreviated name**: *Al. Walther*
+**Abbreviated name**: *Al. Walther* \[standard form in IPNI: *A.W.H.Walther*\]
 
 #### Herbarium and types
 

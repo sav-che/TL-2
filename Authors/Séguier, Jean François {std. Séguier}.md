@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33333623) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33333623) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9426-1), [Wikidata](https://www.wikidata.org/wiki/Q1360507). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Séguier, Jean François (1703-1784), French botanist, historian, bibliographer and archeologist at Nîmes; studied law at Montpellier and botany at Paris with Antoine de Jussieu; accompanied the archeologist Francesco Scipione on his European travels 1732-1736, visiting e.g. Holland (Boerhaave, J.F. Gronovius, G.P. van Swinden); to Verona with Scipione 1736-1755; at Nîmes 1755-1784 working mainly on archeology. 
-**Abbreviated name**: *Séguier*
+**Abbreviated name**: *Séguier* \[standard form in IPNI: *Ség.*\]
 
 #### Herbarium and types
 

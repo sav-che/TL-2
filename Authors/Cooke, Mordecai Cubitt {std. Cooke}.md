@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33120667) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33120667) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1783-1), [Wikidata](https://www.wikidata.org/wiki/Q2351239). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cooke, Mordecai Cubitt {std. Cooke} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Cooke, Mordecai Cubitt (1825-1914), British mycologist and algologist, at India Museum 1861-1880, at Kew 1880-1892. 
-**Abbreviated name**: *Cooke*
+**Abbreviated name**: *Cooke* \[standard form in IPNI: *Cooke*\]
 
 #### Herbarium and types
 

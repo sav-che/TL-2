@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33189774) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33189774) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7767-1), [Wikidata](https://www.wikidata.org/wiki/Q12017419). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pluskal (Pluska-Moravicanský), Franiscek Sal. (1811-1901), Moravian botanist; practicing physician at Lomnitz 1839-1857; later in Welechrad. 
-**Abbreviated name**: *Pluskal*
+**Abbreviated name**: *Pluskal* \[standard form in IPNI: *Pluskal*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33068916) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33068916) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5065-1), [Wikidata](https://www.wikidata.org/wiki/Q15030481). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krieger, Louis Charles Christopher (1873-1940), American mycological artist, who painted e.g. for Farlow's *Icones farlowianae*, for USDA, and for Howard A. Kelly. 
-**Abbreviated name**: *L. Krieg.*
+**Abbreviated name**: *L. Krieg.* \[standard form in IPNI: *L.Krieg.*\]
 
 #### Herbarium and types
 

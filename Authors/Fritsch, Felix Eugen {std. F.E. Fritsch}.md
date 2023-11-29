@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 891](https://www.biodiversitylibrary.org/page/33121022) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 891](https://www.biodiversitylibrary.org/page/33121022) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2923-1), [Wikidata](https://www.wikidata.org/wiki/Q4011595). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fritsch, Felix Eugen(e) {std. F.E. Fritsch} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fritsch, Felix Eugen (1879-1954), British algologist. 
-**Abbreviated name**: *F. E. Fritsch*
+**Abbreviated name**: *F. E. Fritsch* \[standard form in IPNI: *F.E.Fritsch*\]
 
 #### Collections of algae
 

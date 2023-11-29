@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33265814) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33265814) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17215-1), [Wikidata](https://www.wikidata.org/wiki/Q21508516). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chopra, Ram Saran (1904-1973), Indian bryologist, born in Chahal Gujranwala, now Pakistan, pioneer in investigations of medicinal plants of India, at the Department of Botany, Panjab University c/o Khalsa College Amritsar (India), collected 1949-1956 in Mussoorie (W. Himalaya) and Darjeeling (E. Himalaya). 
-**Abbreviated name**: *R.S. Chopra*
+**Abbreviated name**: *R.S. Chopra* \[standard form in IPNI: *R.S.Chopra*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33333424) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33333424) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9209-1), [Wikidata](https://www.wikidata.org/wiki/Q47125823). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schoch, Emil (*fl*. 1903), Swiss (Zürich) botanist; Dr. phil. Zürich 1903; student of Hans Schinz. 
-**Abbreviated name**: *E. Schoch*
+**Abbreviated name**: *E. Schoch* \[standard form in IPNI: *E.Schoch*\]
 
 #### Herbarium and types
 

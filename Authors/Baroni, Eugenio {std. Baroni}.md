@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33120255) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33120255) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/31345-1), [Wikidata](https://www.wikidata.org/wiki/Q5850435). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baroni, Eugenio {std. Baroni} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Baroni, Eugenio (1865-1943), Italian botanist at Firenze. 
-**Abbreviated name**: *Baroni*
+**Abbreviated name**: *Baroni* \[standard form in IPNI: *Baroni*\]
 
 #### Herbarium and types
 

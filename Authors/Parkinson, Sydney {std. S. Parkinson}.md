@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33189534) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33189534) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7350-1), [Wikidata](https://www.wikidata.org/wiki/Q530787). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parkinson, Sydney (1745-1771), British woollen draper; employed by Joseph Banks to work on the latter's collections, 1767; sent out with Cook on the Endeavour; died at Batavia. 
-**Abbreviated name**: *S. Parkinson*
+**Abbreviated name**: *S. Parkinson* \[standard form in IPNI: *Parkinson*\]
 
 #### Drawings
 

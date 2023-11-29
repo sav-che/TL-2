@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33069020) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33069020) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5377-1), [Wikidata](https://www.wikidata.org/wiki/Q21518493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lebour, George Alexander Louis (1847-1918), French-born British geologist; in Geological Survey 1867-1873; later lecturer (1873-1879) and professor of geology (1879-1918) at Durham University. 
-**Abbreviated name**: *G. Lebour*
+**Abbreviated name**: *G. Lebour* \[standard form in IPNI: *G.Lebour*\]
 
 #### Herbarium and types
 

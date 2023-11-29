@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33355262) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33355262) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5783-1), [Wikidata](https://www.wikidata.org/wiki/Q21519532). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lowe, Charles William (1885-1969), British-born botanist; M. Sc. Birmingham 1915; settled in Canada; lecturer at the University of Manitoba until 1931, professor until 1950, from then on in Victoria, Canada 
-**Abbreviated name**: *C. Lowe*
+**Abbreviated name**: *C. Lowe* \[standard form in IPNI: *C.Lowe*\]
 
 #### Herbarium and types
 

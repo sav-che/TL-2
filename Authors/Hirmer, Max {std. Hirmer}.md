@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33068452) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33068452) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3965-1), [Wikidata](https://www.wikidata.org/wiki/Q1293097). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hirmer, Max (1893-x), German palaeobotanist at München; Dr. phil. München 1917 (under Goebel); extraordinary professor of palaeobotany at München 1928-1936; 1936 released on political grounds; subsequently working at the Preusische Geologische Landesanstalt and continuing his father's publishing firm. 
-**Abbreviated name**: *Hirmer*
+**Abbreviated name**: *Hirmer* \[standard form in IPNI: *Hirmer*\]
 
 #### Collections
 

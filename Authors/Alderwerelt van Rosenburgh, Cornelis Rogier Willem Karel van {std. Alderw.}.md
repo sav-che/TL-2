@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33120159) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33120159) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/125-1), [Wikidata](https://www.wikidata.org/wiki/Q723907). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Alderwerelt van Rosenburgh, Cornelis Rogier ... {std. Alderw.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Alderwerelt van Rosenburgh, Cornelis Rogier Willem Karel van (1863-1936); Dutch pteridologist working in the East Indies. 
-**Abbreviated name**: *Alderwerelt*
+**Abbreviated name**: *Alderwerelt* \[standard form in IPNI: *Alderw.*\]
 
 #### Herbarium and types
 

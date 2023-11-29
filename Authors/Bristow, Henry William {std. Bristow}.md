@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33120461) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 330](https://www.biodiversitylibrary.org/page/33120461) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1153-1), [Wikidata](https://www.wikidata.org/wiki/Q627909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bristow, Henry William (1817-1889), British geologist and palaeobiologist. 
-**Abbreviated name**: *Bristow*
+**Abbreviated name**: *Bristow* \[standard form in IPNI: *Bristow*\]
 
 #### Collections
 

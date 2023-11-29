@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33069019) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 777](https://www.biodiversitylibrary.org/page/33069019) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5368-1), [Wikidata](https://www.wikidata.org/wiki/Q3028229). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leandri, Jacques Désiré (1903-x), Corsica-born French botanist at the Muséum d'histoire naturelle, Paris. 
-**Abbreviated name**: *Leandri*
+**Abbreviated name**: *Leandri* \[standard form in IPNI: *Leandri*\]
 
 #### Herbarium and types
 

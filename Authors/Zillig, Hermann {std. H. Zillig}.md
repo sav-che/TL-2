@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33066878) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33066878) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12032-1), [Wikidata](https://www.wikidata.org/wiki/Q18335125). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zillig, Hermann (1893-1952), German (Franconian) botanist and phytopathologist; studied at the University of Würzburg 1912-1915; on active service 1915-1918; studying meteorology 1919-1920; assistant at the Botanical Institute of Würzburg 1920-1921; Dr. phil. 1920; with the Biologische Reichsanstalt für Land- und Forstwirtschaft at Trier 1921-1926, at Bernkastel-Kues 1926-1952. 
-**Abbreviated name**: *H. Zillig*
+**Abbreviated name**: *H. Zillig* \[standard form in IPNI: *Zillig*\]
 
 #### Herbarium and types
 

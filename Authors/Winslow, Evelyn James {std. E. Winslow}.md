@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33066720) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33066720) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11771-1), [Wikidata](https://www.wikidata.org/wiki/Q18911132). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winslow, Evelyn James (1870-1949), American teacher and pteridologist; around 1919 assistant principal at Lasell Seminary, Auburndale, Mass.; founder and managing editor, American Fern Journal 1910-1935. 
-**Abbreviated name**: *E. Winslow*
+**Abbreviated name**: *E. Winslow* \[standard form in IPNI: *E.J.Winslow*\]
 
 #### Herbarium and types
 

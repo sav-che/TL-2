@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/page/33333848) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 709](https://www.biodiversitylibrary.org/page/33333848) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9832-1), [Wikidata](https://www.wikidata.org/wiki/Q21609146). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smyttère, Philippe Joseph Emmanuel de (1800-?), Northern French botanist and physician; government physician and pharmacist in Paris. 
-**Abbreviated name**: *Smyttère*
+**Abbreviated name**: *Smyttère* \[standard form in IPNI: *Smyttère*\]
 
 #### Herbarium and types
 

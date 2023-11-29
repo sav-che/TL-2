@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33068800) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 558](https://www.biodiversitylibrary.org/page/33068800) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4823-1), [Wikidata](https://www.wikidata.org/wiki/Q62794). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kittlitz, Friedrich Heinrich \[Baron\] von (1799-1871), German soldier (1813 sic-1825) and ornithologist, on the Senjavin expedition (1826-1829); at Köln 1832-1845; later at Berlin and Wiesbaden as "Privatgelehrter." 
-**Abbreviated name**: *Kittlitz*
+**Abbreviated name**: *Kittlitz* \[standard form in IPNI: *Kittlitz*\]
 
 #### Herbarium and types
 

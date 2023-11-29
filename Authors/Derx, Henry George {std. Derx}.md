@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33259260) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33259260) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17948-1), [Wikidata](https://www.wikidata.org/wiki/Q36572024). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Derx, Henry George (1898-1953), Dutch microbiologist at Amsterdam, sometime head of the Treub Laboratory of Kebun Raya, Indonesia, Bogor, died 15 Aug 1953 at Amsterdam. 
-**Abbreviated name**: *Derx*
+**Abbreviated name**: *Derx* \[standard form in IPNI: *Derx*\]
 
 #### Herbarium and types
 

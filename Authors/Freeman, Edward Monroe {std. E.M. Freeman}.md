@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33259901) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33259901) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18961-1), [Wikidata](https://www.wikidata.org/wiki/Q5344482). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Freeman, Edward Monroe (1875-1954), American botanist (plant pathologist), born 12 Feb 1875 in St. Paul, Minnesota, B.Sc. 1898, M.S. 1899 and Ph.D. 1905 Univ. of Minnesota, pharmacy instructor Minnesota 1890-1901, botanist 1902-1903, asst. prof. 1903-1905, pathologist U.S.D.A. 1905-1907, prof. plant pathology and botany, all Univ. of Minnesota, Minneapolis 1907-1943, president, Amer. Phytopathological Society 1918 and Minnesota Academy of Science 1935-1936, died 5 Feb 1954 in St. Paul. 
-**Abbreviated name**: *E.M. Freeman*
+**Abbreviated name**: *E.M. Freeman* \[standard form in IPNI: *E.M.Freeman*\]
 
 #### Herbarium and types
 

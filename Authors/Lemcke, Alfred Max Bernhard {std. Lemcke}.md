@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33069081) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33069081) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5461-1), [Wikidata](https://www.wikidata.org/wiki/Q21518622). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lemcke, Alfred Max Bernhard (1864-?), German botanist at the agricultural experiment station at Königsberg i. Pr. 
-**Abbreviated name**: *Lemcke*
+**Abbreviated name**: *Lemcke* \[standard form in IPNI: *Lemcke*\]
 
 #### Herbarium and types
 

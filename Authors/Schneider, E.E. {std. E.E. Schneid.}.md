@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33333411) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33333411) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9190-1), [Wikidata](https://www.wikidata.org/wiki/Q36550168). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schneider, E.E. (*fl*. 1912), American wood expert in the Bureau of Forestry of the Philippine Islands. 
-**Abbreviated name**: *E.E. Schneid.*
+**Abbreviated name**: *E.E. Schneid.* \[standard form in IPNI: *E.E.Schneid.*\]
 
 #### Herbarium and types
 

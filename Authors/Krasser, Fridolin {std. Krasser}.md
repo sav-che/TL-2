@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33068905) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 663](https://www.biodiversitylibrary.org/page/33068905) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5033-1), [Wikidata](https://www.wikidata.org/wiki/Q88768). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krasser, Fridolin (1863-1922), Austrian botanist and palaeobotanist; Dr. phil. Wien 1887; from 1887 in various functions in Wien, e.g. assistant at the Naturh. Museum 1896-1902; 1901-1906 at the ?nologisch-pomologischen Lehranstalt in Klosterneuburg; from 1906-1922 professor of botany at the technical university of Praha. 
-**Abbreviated name**: *Krasser*
+**Abbreviated name**: *Krasser* \[standard form in IPNI: *Krasser*\]
 
 #### Herbarium and types
 

@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33066507) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33066507) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11517-1), [Wikidata](https://www.wikidata.org/wiki/Q19003293). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weiss, Friedrich Wilhelm (1744-1826), German (Hannoverian) physician and botanist; Dr. med. Göttingen 1769; lecturer in medicine at Göttingen University 1769-1784; Fürstlich-Rotenburgischer Hofrat and personal physician to the Landgraf of Hessen-Rotenburg from 1784. 
-**Abbreviated name**: *F.W. Weiss*
+**Abbreviated name**: *F.W. Weiss* \[standard form in IPNI: *Weiss*\]
 
 #### Herbarium and types
 

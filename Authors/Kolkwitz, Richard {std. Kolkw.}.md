@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33068852) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33068852) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4944-1), [Wikidata](https://www.wikidata.org/wiki/Q84701). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kolkwitz, Richard (1873-1956), German botanist and ecologist at Berlin-Dahlem. 
-**Abbreviated name**: *Kolkw.*
+**Abbreviated name**: *Kolkw.* \[standard form in IPNI: *Kolkw.*\]
 
 #### Herbarium and types
 

@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 377](https://www.biodiversitylibrary.org/page/33258855) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 377](https://www.biodiversitylibrary.org/page/33258855) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3381-1), [Wikidata](https://www.wikidata.org/wiki/Q1386773). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Greville, Robert Kaye {std. Grev.}|first entry]] for this author
 
 ### Author
 
 \* Greville, Robert Kaye (1794-1866), Scottish botanist, social activist and painter, born 13 Dec 1794 in Bishop Auckland (Durham), studied medicine in London and Edinburgh but acquiring independent means chose not to practice, joined the Wernerian Natural History Society 1819 and made frequent botanical excursions to the Scottish Highlands, F.R.S.E. 1821, LL.D. 1824 Univ. of Glasgow, F.L.S. 1827, president, Bot. Soc. Edinburgh 1836, 1846 and 1865, an active opponent of slavery and advocate of temperance, elected M.P. for Edinburgh 1856, resorted to painting landscapes of the Scottish Highlands when other financial resources diminished, died 4 Jun 1866 in Murrayfield, Edinburgh. 
-**Abbreviated name**: *Grev.*
+**Abbreviated name**: *Grev.* \[standard form in IPNI: *Grev.*\]
 
 #### Herbarium and types
 

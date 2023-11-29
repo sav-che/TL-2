@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/page/33190281) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 810](https://www.biodiversitylibrary.org/page/33190281) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8441-1), [Wikidata](https://www.wikidata.org/wiki/Q5875913). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Robert, Gaspard Nicolas (1776-1857), French botanist, gardener and pharmacist; "jardinier"-botaniste du port de Toulon" 1794; Dr. pharm. Paris 1801; pharmacist and botanist and director of the botanical garden "du port de Toulon" 1801-1847; reafforested the "Faron" region nr. Toulon. 
-**Abbreviated name**: *G.N. Robert*
+**Abbreviated name**: *G.N. Robert* \[standard form in IPNI: *Robert*\]
 
 #### Herbarium and types
 

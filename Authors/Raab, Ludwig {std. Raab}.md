@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33189930) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33189930) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8061-1), [Wikidata](https://www.wikidata.org/wiki/Q47124832). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Raab, Ludwig (*fl*. 1900), German (Bavarian) botanist and high school teacher at Straubing (Bavaria). 
-**Abbreviated name**: *Raab*
+**Abbreviated name**: *Raab* \[standard form in IPNI: *L.Raab*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33355824) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33355824) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6950-1), [Wikidata](https://www.wikidata.org/wiki/Q1231633). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Newman, Edward (1801-1876), British printer, editor, pteridologist and entomologist; prolific author 
-**Abbreviated name**: *Newm.*
+**Abbreviated name**: *Newm.* \[standard form in IPNI: *Newman*\]
 
 #### Herbarium and types
 

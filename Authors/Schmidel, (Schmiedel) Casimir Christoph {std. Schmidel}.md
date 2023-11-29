@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33333376) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33333376) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9147-1), [Wikidata](https://www.wikidata.org/wiki/Q69261). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidel, \[Schmiedel\] Casimir Christoph (1718-1792), German (Bavarian) physician and naturalist; Dr. med. Jena 1742; professor of medicine and pharmacology at the University of Bayreuth/Erlangen 1743-1763; physician to Margrave Carl Alexander in Ansbach 1763; Dr. med. h.c. Erlangen 1783. 
-**Abbreviated name**: *Schmidel*
+**Abbreviated name**: *Schmidel* \[standard form in IPNI: *Schmidel*\]
 
 #### Herbarium and types
 

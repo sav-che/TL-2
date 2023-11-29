@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33266487) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33266487) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1239-1), [Wikidata](https://www.wikidata.org/wiki/Q55021352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Buch, Christian Leopold von, Freiherr von Gelmersdorf etc. {std. Buch}|first entry]] for this author
 
 ### Author
 
 \* Buch, Christian Leopold von (1774-1853), German geologist, palaeontologist and mineralogist of independent means, landed proprietor, studied at the Bergakademie Freiburg and at universities in Halle and Göttingen, travelled widely in Europe and the Canary Islands, Prussian Kammerrath 1806, extraordinary member of the Akademie der Wissenschaften in Berlin 1806, full member 1808, corresponding member of the Institut de France, Foreign member of the Linnean Society and of the Royal Society \[London\]. 
-**Abbreviated name**: *Buch*
+**Abbreviated name**: *Buch* \[standard form in IPNI: *Buch*\]
 
 #### Collections
 

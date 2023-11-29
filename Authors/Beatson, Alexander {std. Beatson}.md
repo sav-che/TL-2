@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33120286) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33120286) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/584-1), [Wikidata](https://www.wikidata.org/wiki/Q2641792). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Watson (recte Beatson), Alexander {std. Beatson}|second entry]] for this author
 
 ### Author
 
 Beatson, Alexander (1759-1833), Scottish soldier, Governor of St. Helena 1808-1813. 
-**Abbreviated name**: *Beatson*
+**Abbreviated name**: *Beatson* \[standard form in IPNI: *Beatson*\]
 
 #### Herbarium and types
 

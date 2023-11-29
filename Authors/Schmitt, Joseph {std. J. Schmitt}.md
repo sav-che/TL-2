@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33333401) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33333401) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9173-1), [Wikidata](https://www.wikidata.org/wiki/Q21608186). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmitt, Joseph (1862-1915), French physician and botanist; Dr. phil. Paris 1904, professor at the Faculté de Médecine, Nancy. 
-**Abbreviated name**: *J. Schmitt*
+**Abbreviated name**: *J. Schmitt* \[standard form in IPNI: *Schmitt*\]
 
 #### Herbarium and types
 

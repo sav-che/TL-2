@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33333261) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33333261) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9030-1), [Wikidata](https://www.wikidata.org/wiki/Q1452994). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scheer, Friedrich (Frederick) (1792-1868), German (Swedish-Pommeranian born, from the island of Rügen) merchant and botanist; settled in England as city merchant in London, living for many years on Kew Green, ultimately at Northfleet, Kent; active supporter of the continuation of Kew Gardens in 1839/1840. 
-**Abbreviated name**: *Scheer*
+**Abbreviated name**: *Scheer* \[standard form in IPNI: *Scheer*\]
 
 #### Herbarium and types
 

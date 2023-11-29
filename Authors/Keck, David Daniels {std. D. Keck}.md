@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2004-04-14 09:08:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33068754) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33068754) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4693-1), [Wikidata](https://www.wikidata.org/wiki/Q5232777). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Keck, David Daniels (1903-x); American botanist; Ph. D. Berkeley 1930; collaborated with Clausen and Hiesey in their pioneer experimental systematics at Stanford (1926-1950); specialist on *Penstemon*; head curator at the New York Bot. Gard. 1950-1959; at the National Science Foundation 1959-1970; subsequently living in New Zealand (1971-1976) and California (1976-x). 
-**Abbreviated name**: *D. Keck*
+**Abbreviated name**: *D. Keck* \[standard form in IPNI: *D.D.Keck*\]
 
 #### Herbarium and types
 

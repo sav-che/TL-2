@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-01-03 02:30:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33120627) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33120627) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1600-1), [Wikidata](https://www.wikidata.org/wiki/Q2348823). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Chiovenda, Emilio {std. Chiov.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Chiovenda, Emilio (1871-1940), Italian botanist. 
-**Abbreviated name**: *Chiov.*
+**Abbreviated name**: *Chiov.* \[standard form in IPNI: *Chiov.*\]
 
 #### Herbarium and types
 

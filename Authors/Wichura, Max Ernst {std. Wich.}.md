@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33066597) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33066597) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11637-1), [Wikidata](https://www.wikidata.org/wiki/Q1912473). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wichura, Max Ernst (1817-1866), German magistrate, traveller and botanist; studied law at Breslau 1836-1839; stages at Breslau, Berlin and Ratibor; municipal judge at Breslau 1851; from 1858 municipal administrator, from 1859 "Regierungsrath", travelled in Lapponia 1856; participated in the Prussian Eastern Asiatic Expedition 1859-1863; from 1865-1866 working at the Botanical Museum in Berlin. 
-**Abbreviated name**: *Wich.*
+**Abbreviated name**: *Wich.* \[standard form in IPNI: *Wich.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33355657) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 570](https://www.biodiversitylibrary.org/page/33355657) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6622-1), [Wikidata](https://www.wikidata.org/wiki/Q2975984). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moore, Spencer Le Marchant (1850-1931), British botanist and explorer; B. Sc. London 1872; at Kew 1872-1879; to Matto Grosso 1891-1892; to Western Australia 1894-1896; from 1898 connected with BMNH. 
-**Abbreviated name**: *S. Moore*
+**Abbreviated name**: *S. Moore* \[standard form in IPNI: *S.Moore*\]
 
 #### Herbarium and types
 

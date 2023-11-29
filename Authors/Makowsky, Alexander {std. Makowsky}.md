@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33355349) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33355349) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6014-1), [Wikidata](https://www.wikidata.org/wiki/Q5666194). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Makowsky, Alexander (1833-1908), Czech botanist, mineralogist and geologist; high school teacher at Olmütz (1858-1864) and Brünn (Brno) 1864-1868; professor of natural history at the Technische Hochschule, Brünn, 1872-1905; Hofrat 1906. 
-**Abbreviated name**: *Makowsky*
+**Abbreviated name**: *Makowsky* \[standard form in IPNI: *Makowsky*\]
 
 #### Herbarium and types
 

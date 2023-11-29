@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33066436) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33066436) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11429-1), [Wikidata](https://www.wikidata.org/wiki/Q2896275). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Waterhouse, Benjamin (1754-1846), American physician and naturalist; M.D. Univ. Leiden 1780; practicing physician at Newport 1782; professor of theory and practice of physic Harvard 1783-1812; lecturer in natural history 1788-1809; physician to U.S. Marine Hospital, Charlestown, Mass. 1807-1809; practicing physician again in Cambridge from 1812; introduced vaccine for small pox in U.S. 
-**Abbreviated name**: *Waterhouse*
+**Abbreviated name**: *Waterhouse* \[standard form in IPNI: *Waterh.*\]
 
 #### Herbarium and types
 

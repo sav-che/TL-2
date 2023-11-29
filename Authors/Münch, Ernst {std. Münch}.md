@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33355739) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33355739) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23716-1), [Wikidata](https://www.wikidata.org/wiki/Q115431). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Münch, Ernst (1876-1946), German forest botanist and phytopathologist; Dr. phil. München 1909; at the München Forestry Institute 1904-1914; at the Berlin Biological Institute for Agriculture and Forestry 1914-1921; Professor of forestry botany at the Forestry College of Tharandt 1921-1933; at the Staatswirtschaftliche Fakultät Munchen 1933-1946. 
-**Abbreviated name**: *Münch*
+**Abbreviated name**: *Münch* \[standard form in IPNI: *Münch*\]
 
 #### Herbarium and types
 

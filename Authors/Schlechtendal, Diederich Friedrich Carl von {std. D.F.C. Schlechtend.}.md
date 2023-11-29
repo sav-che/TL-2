@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-06-10 09:01:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33333343) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33333343) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9115-1), [Wikidata](https://www.wikidata.org/wiki/Q21608034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlechtendal, Diederich Friedrich Carl von (1767-1842), German (Kleve/Prussian) botanist; father of D.F.L. von Schlechtendal; judicial magistrate at Kleve until 1798; "Stadtgerichtsdirector" (municipal judiciary) in Berlin 1798-1814; subsequently in charge of the law courts at Minden, and, ultimately, Oberlandesgerichts-Präsident at Paderborn; Dr. phil. h.c. Berlin 1838. 
-**Abbreviated name**: *D.F.C. Schlechtend.*
+**Abbreviated name**: *D.F.C. Schlechtend.* \[standard form in IPNI: *D.F.K.Schltdl.*\]
 
 #### Herbarium and types
 

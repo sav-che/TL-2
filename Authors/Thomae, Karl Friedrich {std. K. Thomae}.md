@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33212311) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33212311) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10583-1), [Wikidata](https://www.wikidata.org/wiki/Q21610610). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomae, Karl Friedrich (1863-?), German (Hessen-Nassau) botanist; studied at Leipzig University, student of J.A. Schenk; Dr. phil. ib. 1886. 
-**Abbreviated name**: *K. Thomae*
+**Abbreviated name**: *K. Thomae* \[standard form in IPNI: *K.Thomae*\]
 
 #### Herbarium and types
 

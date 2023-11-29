@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33264726) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33264726) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/30668-1), [Wikidata](https://www.wikidata.org/wiki/Q345654). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Agardh, Carl Adolf {std. C. Agardh}|first entry]] for this author
 
 ### Author
 
 \* Agardh, Carl Adolph (1785-1859), Swedish botanist at Lund; studied at Lund University 1799-1805; Dr. phil. ib. 1805; "docent" in mathematics 1807; "demonstrator" in botany 1810; "adjunct" in applied economy 1811; professor of botany and applied economy, succeeding Retzius, 1812; in various ecclesiastical functions from 1816; bishop Karlstads stift 1835; bishop 1837; dr. theol. (1844) 1845; d. Karlstad 28 Jun 1859; travelled in Europe; Denmark, Germany and Poland 1809; Denmark, Germany, Netherlands, Belgium, France and Italy 1821, 1827, 1833. 
-**Abbreviated name**: *C. Agardh*
+**Abbreviated name**: *C. Agardh* \[standard form in IPNI: *C.Agardh*\]
 
 #### Herbarium and types
 

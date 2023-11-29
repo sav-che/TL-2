@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33355941) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33355941) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24407-1), [Wikidata](https://www.wikidata.org/wiki/Q2981163). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ostenfeld, Carl Emil Hansen (1873-1931), Danish botanist; Ph. D. Kjøbenhavn 1906; inspector of the Botanical Museum from 1900-1918; professor of botany, at the Veterinary College, 1918-1923, and director of the Botanical Garden of Kjøbenhavn 1923-1931. 
-**Abbreviated name**: *Ostenf.*
+**Abbreviated name**: *Ostenf.* \[standard form in IPNI: *Ostenf.*\]
 
 #### Herbarium and types
 

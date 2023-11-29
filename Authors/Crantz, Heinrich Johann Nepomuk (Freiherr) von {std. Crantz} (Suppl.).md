@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33266126) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 449](https://www.biodiversitylibrary.org/page/33266126) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1865-1), [Wikidata](https://www.wikidata.org/wiki/Q112261). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Crantz, Heinrich Johann Nepomuk (Freiherr) von {std. Crantz}|first entry]] for this author
 
 ### Author
 
 \* Crantz, Heinrich Johann Nepomuk \[Freiherr\] von (1722-1799), Luxembourg born Austrian physician and botanist at Vienna, on voyage to work mainly with Paris physicians 1750-1754, active physician 1754 with students as professor until 1790, ultimately Austrian "Regierungsrath". 
-**Abbreviated name**: *Crantz*
+**Abbreviated name**: *Crantz* \[standard form in IPNI: *Crantz*\]
 
 #### Herbarium and types
 

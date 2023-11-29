@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33355203) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33355203) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12654-1), [Wikidata](https://www.wikidata.org/wiki/Q3736167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lippmaa, Teodor (until 1924: Lipman) (1892-1943), Estonian botanist; Dr. phil. Tartu 1926; at Tartu University as assistant lecturer (1923), lecturer (1927) and professor of botany (1930-1943); worker on vegetable pigments, geobotany and Estonian floristics. 
-**Abbreviated name**: *Lippmaa*
+**Abbreviated name**: *Lippmaa* \[standard form in IPNI: *Lippmaa*\]
 
 #### Herbarium and types
 

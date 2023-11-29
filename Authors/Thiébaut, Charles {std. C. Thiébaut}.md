@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-12-27 13:11:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33212299) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33212299) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10568-1), [Wikidata](https://www.wikidata.org/wiki/Q21610589). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thiébaut, Charles (1837-1884), French naval officer (capitaine de frégate), collector of algae on his voyages e.g. to Madagascar and Mexico; published also on French atlantic vegetation. 
-**Abbreviated name**: *C. Thiébaut*
+**Abbreviated name**: *C. Thiébaut* \[standard form in IPNI: *C.Thiébaut*\]
 
 #### Herbarium and types
 

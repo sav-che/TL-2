@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33121029) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 898](https://www.biodiversitylibrary.org/page/33121029) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2954-1), [Wikidata](https://www.wikidata.org/wiki/Q76705). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fuhlrott, Johann Carl (1804-1877), German botanist and high-school teacher at Elberfeld who discovered *Homo neanderthalensis*. 
-**Abbreviated name**: *Fuhlrott*
+**Abbreviated name**: *Fuhlrott* \[standard form in IPNI: *Fuhlrott*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-03-15 11:23:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33120201) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33120201) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/292-1), [Wikidata](https://www.wikidata.org/wiki/Q21390575). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arsène, Frère Gustave (Brouard, A.G. Joseph) {std. Arsène} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Arsène, Frère Gustave \[also "Gerfroy"\] (Brouard, Arsène Gustave Joseph) (1867-1938), French clergyman who collected in France and Central America. 
-**Abbreviated name**: *Arsène*
+**Abbreviated name**: *Arsène* \[standard form in IPNI: *Arsène*\]
 
 #### Herbarium and types
 

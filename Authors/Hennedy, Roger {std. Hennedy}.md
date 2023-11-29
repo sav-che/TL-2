@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33068398) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33068398) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3839-1), [Wikidata](https://www.wikidata.org/wiki/Q18672261). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hennedy, Roger (1809-1877), Scottish botanist, professor of botany at Glasgow. 
-**Abbreviated name**: *Hennedy*
+**Abbreviated name**: *Hennedy* \[standard form in IPNI: *Hennedy*\]
 
 #### Herbarium and types
 

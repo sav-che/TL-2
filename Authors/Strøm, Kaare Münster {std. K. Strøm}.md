@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-11-06 10:00:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33212053) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33212053) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10222-1), [Wikidata](https://www.wikidata.org/wiki/Q6343507). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Strøm, Kaare Münster (1902-x), Norwegian algologist; Dr. phil. Oslo 1927; studied in various foreign institutions 1920-1932, University Stipendium, Oslo 1931; lecturer limnology ib. 1939; professor of geography 1948, of limnology 1962. 
-**Abbreviated name**: *K. Strøm*
+**Abbreviated name**: *K. Strøm* \[standard form in IPNI: *K.Strøm*\]
 
 #### Herbarium and types
 

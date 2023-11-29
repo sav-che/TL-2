@@ -7,31 +7,32 @@ tl2_forenames: Christian Leopold von, Freiherr von Gelmersdorf etc.
 tl2_name_abbrev: L. v. Buch
 tl2_dates: 1774-1853
 tl2_page_id: 33120518
-author_lsid: 1240-1
-wikidata_id: Q194214
+author_lsid: 1239-1
+wikidata_id: Q55021352
 ipni_surname: Buch
-ipni_forenames: Hans Robert Viktor
-ipni_standard_form: H.Buch
-ipni_dates: 1883-1964
+ipni_forenames: Christian Leopold von
+ipni_standard_form: Buch
+ipni_dates: 1774-1853
 ipni_taxon_scope: 
 - Botany
+- Pteridophytes
 - Bryophytes
+- Spermatophytes
 ipni_geo_scope: 
 ipni_version: 1.1
 ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33120518) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33120518) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1240-1), [Wikidata](https://www.wikidata.org/wiki/Q194214). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Buch, Christian Leopold von {std. Buch} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Buch, Christian Leopold von, Freiherr von Gelmersdorf etc. (1774-1853), German traveller and naturalist. 
-**Abbreviated name**: *L. v. Buch*
+**Abbreviated name**: *L. v. Buch* \[standard form in IPNI: *H.Buch*\]
 
 #### Collections
 

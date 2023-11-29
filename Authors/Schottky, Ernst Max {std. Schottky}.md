@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33333447) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33333447) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9241-1), [Wikidata](https://www.wikidata.org/wiki/Q6169076). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schottky, Ernst Max (1888-1915), German (Zürich-born) botanist; studied natural sciences and geography at the University of Berlin; especially botany under A. Engler; Dr. phil. Berlin 1912; active in the "Wandervögel" movement; on active duty (war-time volunteer) in the German army 1914; fell at La Bassée on 12 Jan 1915. 
-**Abbreviated name**: *Schottky*
+**Abbreviated name**: *Schottky* \[standard form in IPNI: *Schottky*\]
 
 #### Herbarium and types
 

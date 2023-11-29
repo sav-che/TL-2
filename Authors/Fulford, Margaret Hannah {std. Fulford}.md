@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33258554) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33258554) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2957-1), [Wikidata](https://www.wikidata.org/wiki/Q21513629). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fulford, Margaret Hannah (1904-1999), American botanist (bryologist and lichenologist), born 14 Jun 1904 in Cincinnati, Ohio, B.A. 1926, B.E. 1927 and M.A. 1928, Univ. of Cincinnati, Ph.D. 1935 Yale Univ., New Haven, Conn., instructor of botany 1927-1940, curator of the herb. 1927-1974, asst. prof. 1940-1946, assoc. prof. 1946-1954 and prof. of botany 1954-1974, all Univ. of Cincinnati, B.S.A. Merit Award 1979, died 28 Nov 1999 in Cincinnati. 
-**Abbreviated name**: *Fulford*
+**Abbreviated name**: *Fulford* \[standard form in IPNI: *Fulford*\]
 
 #### Herbarium and types
 

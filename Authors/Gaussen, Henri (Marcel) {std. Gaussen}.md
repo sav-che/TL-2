@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33258628) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33258628) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3052-1), [Wikidata](https://www.wikidata.org/wiki/Q3131177). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gaussen, Henri \[Marcel\] (1891-1981), French phytogeographer and specialist in gymnosperms, born 14 Jul 1891 in Cabrières-d'Aigues (Vaucluse), Dr. ès-sciences 1926 Paris, chair of botany at Toulouse 1928-1947, founder of the scientific section of the Institut Français in Pondichery, India, Grand Prix de la Société de Géographie pour Travaux et Publications Géographiques 1971, died 27 Jul 1981 in Toulouse. 
-**Abbreviated name**: *Gaussen*
+**Abbreviated name**: *Gaussen* \[standard form in IPNI: *Gaussen*\]
 
 #### Herbarium and types
 

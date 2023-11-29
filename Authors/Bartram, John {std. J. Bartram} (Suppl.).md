@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33265081) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33265081) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/519-1), [Wikidata](https://www.wikidata.org/wiki/Q528476). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bartram, John {std. J. Bartram}|first entry]] for this author
 
 ### Author
 
 \* Bartram, John (1699-1777), American pioneer botanist, bought a farm on the Schuylkill River at Kingsessing, Pa. 1728, laid out a botanical garden on the farm 1730, supplied plants and seeds to Peter Collinson thus introducing many new species into Europe, travelled and collected along the Schuylkill river 1736 and Blue Mts., Pa. (1735?), Virginia and Delaware 1737, travelled to Virginia and the Blue Ridge 1738, from 1742 professional collector of plant material of Pennsylvania and surroundings, liberal Quaker, disowed by the Friends 1757, travelled along the Ohio river and in W. Virginia 1761, appointed King's botanist 1765, in Florida (on his last trip) with his son William ca. 1765. 
-**Abbreviated name**: *J. Bartram*
+**Abbreviated name**: *J. Bartram* \[standard form in IPNI: *Bartram*\]
 
 #### Herbarium and types
 

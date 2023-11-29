@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33212803) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33212803) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/28409-1), [Wikidata](https://www.wikidata.org/wiki/Q2657319). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Viviani, Domenico (1772-1840), Italian botanist; Dr. med. Roma; public professor of botany at Genova; professor of botany and natural history at the Atheneum (later: University) ib. 1803-1837; founder of the Genova botanical garden. 
-**Abbreviated name**: *Viv.*
+**Abbreviated name**: *Viv.* \[standard form in IPNI: *Viv.*\]
 
 #### Herbarium and types
 

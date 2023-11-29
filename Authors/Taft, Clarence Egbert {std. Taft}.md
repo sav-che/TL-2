@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33212192) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33212192) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10383-1), [Wikidata](https://www.wikidata.org/wiki/Q21610145). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Taft, Clarence Egbert (1906-x), American botanist (algologist); Dr. phil. Ohio State University 1934; botanical assistant Univ. Oklahoma 1929-1931; Univ. scholar, Dept. Bot., Ohio State Univ. 1931-1932, graduate assistant 1932-1933, chief assistant 1933-1934, instructor 1934-1951, professor of botany 1951-1977. 
-**Abbreviated name**: *Taft*
+**Abbreviated name**: *Taft* \[standard form in IPNI: *Taft*\]
 
 #### Herbarium and types
 

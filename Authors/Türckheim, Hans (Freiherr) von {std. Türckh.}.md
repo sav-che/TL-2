@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33212569) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33212569) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10894-1), [Wikidata](https://www.wikidata.org/wiki/Q214792). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Türckheim, Hans \[Freiherr\] von (1853-1920), German (Baden) plant collector and traveller; studied law at Strassburg and Berlin; state examinator 1876; for a short time administrator in Ellrich a. Harz and Delitzsch, shortly afterwards to Guatemala in charge of a coffee plantation ca. 1878-1908; in retirement at Karlsruhe from 1908; collected in Santo Domingo 1909-1910. 
-**Abbreviated name**: *Türckh.*
+**Abbreviated name**: *Türckh.* \[standard form in IPNI: *Türckh.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33333471) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33333471) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12843-1), [Wikidata](https://www.wikidata.org/wiki/Q5895683). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schreiber, Herrmann \[Hermann?\] Rudolf Ferdinand (1811-1853), German (Prussian) botanist. 
-**Abbreviated name**: *He. Schreiber*
+**Abbreviated name**: *He. Schreiber* \[standard form in IPNI: *Schreib.*\]
 
 #### Herbarium and types
 

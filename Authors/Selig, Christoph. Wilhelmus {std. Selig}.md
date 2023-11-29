@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33333637) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33333637) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9455-1), [Wikidata](https://www.wikidata.org/wiki/Q36530706). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Selig, Christoph. Wilhelmus (*fl*. 1802), German (Bavarian) physician and botanist 
-**Abbreviated name**: *Selig*
+**Abbreviated name**: *Selig* \[standard form in IPNI: *Selig*\]
 
 #### Herbarium and types
 

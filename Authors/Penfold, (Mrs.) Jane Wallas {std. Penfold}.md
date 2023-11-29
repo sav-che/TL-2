@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33189622) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33189622) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7486-1), [Wikidata](https://www.wikidata.org/wiki/Q33688050). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Penfold, \[Mrs.\] Jane Wallas (*fl*. 1820-1850), British botanical artist and naturalist; lived in Madeira. 
-**Abbreviated name**: *Penfold*
+**Abbreviated name**: *Penfold* \[standard form in IPNI: *Penfold*\]
 
 #### Herbarium and types
 

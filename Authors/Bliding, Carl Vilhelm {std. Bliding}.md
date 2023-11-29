@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33265410) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33265410) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/32461-1), [Wikidata](https://www.wikidata.org/wiki/Q21506192). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bliding, Carl Vilhelm (1891-x), Swedish teacher (lector) and botanist, Dr. phil. 1928, lector at Borås, student of the taxonomy and development of the Ulvaceae. 
-**Abbreviated name**: *Bliding*
+**Abbreviated name**: *Bliding* \[standard form in IPNI: *Bliding*\]
 
 #### Herbarium and types
 

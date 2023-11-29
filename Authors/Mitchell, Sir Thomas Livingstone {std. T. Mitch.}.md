@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33355611) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 524](https://www.biodiversitylibrary.org/page/33355611) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12685-1), [Wikidata](https://www.wikidata.org/wiki/Q2142133). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mitchell, Sir Thomas Livingstone (1792-1855), Scottish-born soldier, explorer and botanist; deputy surveyor general New South Wales 1827, surveyor general 1828. 
-**Abbreviated name**: *T. Mitch.*
+**Abbreviated name**: *T. Mitch.* \[standard form in IPNI: *T.Mitch.*\]
 
 #### Collection
 

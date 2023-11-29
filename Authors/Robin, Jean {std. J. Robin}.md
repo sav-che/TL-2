@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33190283) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33190283) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8453-1), [Wikidata](https://www.wikidata.org/wiki/Q324150). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Robin, Jean (1550-1629), French botanist and royal gardener; from 1590 at the Jardin des Plantes, Paris. 
-**Abbreviated name**: *J. Robin*
+**Abbreviated name**: *J. Robin* \[standard form in IPNI: *J.Robin*\]
 
 #### Herbarium and types
 

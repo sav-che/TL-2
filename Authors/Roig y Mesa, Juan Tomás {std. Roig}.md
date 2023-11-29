@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33190337) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33190337) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8542-1), [Wikidata](https://www.wikidata.org/wiki/Q21607346). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roig y Mesa, Juan Tomás (1878-?), Cuban botanist; Dr. pharm. Univ. Habana 1910; Dr. Ci. nat. 1912; head of the botany dept. of the Ist. exp. agron. Santiago de las Vegas 1913; teacher natural history at Pinar del Rio 1917-1932; again at Santiago de las Vegas as head of the botany dept. from 1932. 
-**Abbreviated name**: *Roig*
+**Abbreviated name**: *Roig* \[standard form in IPNI: *Roig*\]
 
 #### Herbarium and types
 

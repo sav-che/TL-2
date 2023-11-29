@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33189886) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33189886) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7985-1), [Wikidata](https://www.wikidata.org/wiki/Q9010119). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Prodan, Iuliu \[Julius\] (1875-1959), Roumanian botanist; studied at Cluj (lic. sci. nat. 1899); high school teacher at Gherla, Nasaud, Eger & Zombor 1899-1919; professor of botany at the faculty of agronomy, Cluj 1919-1940. 
-**Abbreviated name**: *Prodan*
+**Abbreviated name**: *Prodan* \[standard form in IPNI: *Prodan*\]
 
 #### Herbarium and types
 

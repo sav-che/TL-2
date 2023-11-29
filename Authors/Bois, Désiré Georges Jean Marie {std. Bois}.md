@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33120385) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33120385) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/911-1), [Wikidata](https://www.wikidata.org/wiki/Q3045181). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bois, Désiré (Georges Jean Marie) {std. Bois} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bois, Désiré Georges Jean Marie (1856-1946), French horticulturist at the Muséum d'Histoire naturelle. 
-**Abbreviated name**: *D. Bois*
+**Abbreviated name**: *D. Bois* \[standard form in IPNI: *Bois*\]
 
 #### Herbarium and types
 

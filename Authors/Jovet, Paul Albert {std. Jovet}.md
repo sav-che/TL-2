@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33068706) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33068706) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4565-1), [Wikidata](https://www.wikidata.org/wiki/Q21517160). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jovet, Paul Albert (1896-x), French botanist, specialized in the flora of W. and S.W. France. 
-**Abbreviated name**: *Jovet*
+**Abbreviated name**: *Jovet* \[standard form in IPNI: *Jovet*\]
 
 #### Herbarium and types
 

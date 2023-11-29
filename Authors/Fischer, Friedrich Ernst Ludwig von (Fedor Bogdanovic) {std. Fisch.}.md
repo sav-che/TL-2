@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-11-26 00:36:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33120966) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 835](https://www.biodiversitylibrary.org/page/33120966) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2744-1), [Wikidata](https://www.wikidata.org/wiki/Q64109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fischer, Friedrich Ernst Ludwig von (Fedor Bogdanovic) (1782-1854), Russian botanist of German origin, director of the St. Petersburg botanical garden 1823-1850. 
-**Abbreviated name**: *Fisch.*
+**Abbreviated name**: *Fisch.* \[standard form in IPNI: *Fisch.*\]
 
 #### Herbarium and types
 

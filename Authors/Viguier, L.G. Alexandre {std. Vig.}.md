@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33212778) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33212778) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11186-1), [Wikidata](https://www.wikidata.org/wiki/Q2919045). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Viguier, L.G. Alexandre (1790-1867), French physician; Dr. med. Montpellier 1814. 
-**Abbreviated name**: *Vig.*
+**Abbreviated name**: *Vig.* \[standard form in IPNI: *Vig.*\]
 
 #### Herbarium and types
 

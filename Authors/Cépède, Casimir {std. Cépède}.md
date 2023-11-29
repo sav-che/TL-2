@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33265700) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33265700) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/34285-1), [Wikidata](https://www.wikidata.org/wiki/Q36522727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cépède, Casimir (1880 \[?\]-1954), French biologist and bacteriologist. 
-**Abbreviated name**: *Cépède*
+**Abbreviated name**: *Cépède* \[standard form in IPNI: *Cépède*\]
 
 #### Herbarium and types
 

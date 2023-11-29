@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33265000) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33265000) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/20004620-1), [Wikidata](https://www.wikidata.org/wiki/Q21505564). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Baines, Thomas (1823-1895), of Lancaster, British gardener, at first at Catteral House near Garstang (Lancs) and at Southgate House, London. 
-**Abbreviated name**: *Th. Baines, Lancs.*
+**Abbreviated name**: *Th. Baines, Lancs.* \[standard form in IPNI: *T.Baines*\]
 
 #### Herbarium and types
 

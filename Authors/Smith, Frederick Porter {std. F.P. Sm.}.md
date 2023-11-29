@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33333810) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33333810) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9791-1), [Wikidata](https://www.wikidata.org/wiki/Q5869085). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Frederick Porter (1833-1888), British medical missionary in Central China; MB Univ. London 1855; after his return to England medical practitioner at Shepton Mallett. 
-**Abbreviated name**: *F.P. Sm.*
+**Abbreviated name**: *F.P. Sm.* \[standard form in IPNI: *F.P.Sm.*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33260203) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33260203) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2418-1), [Wikidata](https://www.wikidata.org/wiki/Q674466). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Duval, Henri Auguste {std. Duval}|first entry]] for this author
 
 ### Author
 
 \* Duval, Henri Auguste (1777-1814), French physician and botanist, born 28 Apr 1777 at Alençon (Orne), died 16 Mar 1814 at Paris. 
-**Abbreviated name**: *Duval*
+**Abbreviated name**: *Duval* \[standard form in IPNI: *Duval*\]
 
 #### Herbarium and types
 

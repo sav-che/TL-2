@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33212272) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33212272) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10537-1), [Wikidata](https://www.wikidata.org/wiki/Q5952669). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Texidor y Cos, Juan (1836-1885), Spanish botanist and pharmacist; professor of pharmaceutical botany at the University of Cataluña 1864-1866; at the University of Santiago de Compostela 1866-1871, later in Madrid and again in Barcelona. 
-**Abbreviated name**: *Texidor*
+**Abbreviated name**: *Texidor* \[standard form in IPNI: *Texidor*\]
 
 #### Herbarium and types
 

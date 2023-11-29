@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33333996) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33333996) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10052-1), [Wikidata](https://www.wikidata.org/wiki/Q5655298). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steck, Abraham (*fl*. 1757), Swiss botanist and physician. 
-**Abbreviated name**: *Steck*
+**Abbreviated name**: *Steck* \[standard form in IPNI: *Steck*\]
 
 #### Herbarium and types
 

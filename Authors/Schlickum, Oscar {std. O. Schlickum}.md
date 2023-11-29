@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33333361) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33333361) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9124-1), [Wikidata](https://www.wikidata.org/wiki/Q21608059). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlickum, Oscar (1838-1889), German (Prussian) pharmacist and botanist; son of Julius Schlickum; studied pharmacy with his father in Winningen, pharm. assistant in Neuwied 1861-1863; State examination pharm. Bonn 1865; from 1866 in charge of the Winningen pharmacy. 
-**Abbreviated name**: *O. Schlickum*
+**Abbreviated name**: *O. Schlickum* \[standard form in IPNI: *O.Schlick.*\]
 
 #### Herbarium and types
 

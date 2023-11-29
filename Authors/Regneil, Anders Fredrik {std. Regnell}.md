@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33190120) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33190120) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8240-1), [Wikidata](https://www.wikidata.org/wiki/Q4753777). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Regneil, Anders Fredrik (1807-1884), Swedish physician and botanist; Dr. med. Uppsala 1837, Dr. phil. h.c. Uppsala 1877; practicing in Stockholm 1836-1839; settled in Brazil 1840 as physician, from 1841-1884 at Caldas, Minas Geraes, collecting from 1841-1874 in Minas Geraes and São Paulo; left a fortune to be spent on science. 
-**Abbreviated name**: *Regnell*
+**Abbreviated name**: *Regnell* \[standard form in IPNI: *Regnell*\]
 
 #### Herbarium and types
 

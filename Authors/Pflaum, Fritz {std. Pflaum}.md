@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33189699) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33189699) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7624-1), [Wikidata](https://www.wikidata.org/wiki/Q47124405). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pflaum, Fritz (*fl*. 1897), German (Bavarian) botanist; Dr. phil. München 1897. 
-**Abbreviated name**: *Pflaum*
+**Abbreviated name**: *Pflaum* \[standard form in IPNI: *Pflaum*\]
 
 #### Herbarium and types
 

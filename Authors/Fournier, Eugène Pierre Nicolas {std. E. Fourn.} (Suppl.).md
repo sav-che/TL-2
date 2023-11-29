@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33259862) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33259862) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2857-1), [Wikidata](https://www.wikidata.org/wiki/Q2616180). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fournier, Eugène Pierre Nicolas {std. E. Fourn.}|first entry]] for this author
 
 ### Author
 
 \* Fournier, Eugène Pierre Nicolas \[Pierre Nicolas Eugène\] (1834-1884), French physician and botanist, born 15 Feb 1834 in Paris, Dr. en médecine 1861 Paris, Dr. ès-sciences 1865 Paris, from 1855 a member (and also secretary) of the Société Botanique de France, awarded Prix Desmazières 1875, seriously ill in later years, died 20 Jun 1884 in Auteuil (Paris). 
-**Abbreviated name**: *E. Fourn.*
+**Abbreviated name**: *E. Fourn.* \[standard form in IPNI: *E.Fourn.*\]
 
 #### Herbarium and types
 

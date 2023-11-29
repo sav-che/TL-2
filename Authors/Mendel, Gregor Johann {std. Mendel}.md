@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33355498) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33355498) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6345-1), [Wikidata](https://www.wikidata.org/wiki/Q37970). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mendel, Gregor Johann (1822-1884), Czech geneticist, clergyman and teacher at Brno. 
-**Abbreviated name**: *Mendel*
+**Abbreviated name**: *Mendel* \[standard form in IPNI: *Mendel*\]
 
 #### Herbarium and types
 

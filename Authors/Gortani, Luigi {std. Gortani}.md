@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33258788) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33258788) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3281-1), [Wikidata](https://www.wikidata.org/wiki/Q21514145). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gortani, Luigi (1850-1908), Italian /Austrian building engineer, architect and botanist, born in Cedarchis di Arta (Friuli) (then part of the Austrian Empire), civil engineering and architect degree 1875 Univ. of Padua, died 16 Feb 1908 in Tolmasso (Tolmezzo). 
-**Abbreviated name**: *Gortani*
+**Abbreviated name**: *Gortani* \[standard form in IPNI: *Gortani*\]
 
 #### Note
 

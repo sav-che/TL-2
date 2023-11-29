@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33066719) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33066719) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/35137-1), [Wikidata](https://www.wikidata.org/wiki/Q21612832). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winslow, Andreas Peter \[Pettersson\] (1835-1900), Swedish botanist and teacher; studied at Lund Univ. 1855-1862; Dr. phil. 1862; high school teacher at Göteborg 1865-1900; especially interested in Rosa. 
-**Abbreviated name**: *Winslow*
+**Abbreviated name**: *Winslow* \[standard form in IPNI: *Winslow*\]
 
 #### Herbarium and types
 

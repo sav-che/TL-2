@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 929](https://www.biodiversitylibrary.org/page/33121060) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 929](https://www.biodiversitylibrary.org/page/33121060) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3069-1), [Wikidata](https://www.wikidata.org/wiki/Q98686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Geinitz, Franz Eugen (1854-1925), German geologist, mineralogist and palaeobiologist at Rostock. 
-**Abbreviated name**: *F. E. Geinitz*
+**Abbreviated name**: *F. E. Geinitz* \[standard form in IPNI: *F.E.Geinitz*\]
 
 #### Collections
 

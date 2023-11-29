@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33066797) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33066797) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11871-1), [Wikidata](https://www.wikidata.org/wiki/Q21612994). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Worsdell, Wilson Crosfield (1867-1957), American-born British horticulturist and botanist; studied horticulture in Holland and England; sometime demonstrator in botany at University College of London and working at the Jodrell Laboratory; acting professor of botany S. African College, Cape Town 1909-1910; lecturer in botany Victoria College, Stellenbosch 1912-1913; subsequently working at the Jodrell Laboratory and the Royal Botanic Gardens Kew. 
-**Abbreviated name**: *Worsdell*
+**Abbreviated name**: *Worsdell* \[standard form in IPNI: *Worsd.*\]
 
 #### Herbarium and types
 

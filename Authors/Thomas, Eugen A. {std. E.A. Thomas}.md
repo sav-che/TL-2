@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33212314) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33212314) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10591-1), [Wikidata](https://www.wikidata.org/wiki/Q18608249). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomas, Eugen A. (1912-x), Swiss cryptogamist; Dr. phil. Zürich 1939; biologist at the Chemical laboratory of the Canton Zürich 1939, later in charge of the limnological department of this Laboratory; lecturer at Zürich University 1956. 
-**Abbreviated name**: *E.A. Thomas*
+**Abbreviated name**: *E.A. Thomas* \[standard form in IPNI: *E.A.Thomas*\]
 
 #### Herbarium and types
 

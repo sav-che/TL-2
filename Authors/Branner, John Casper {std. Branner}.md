@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-02-23 11:48:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33266327) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33266327) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/38059-1), [Wikidata](https://www.wikidata.org/wiki/Q5933144). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Branner, John Casper (1850-1922), American geologist and botanist, born in Newmarket, Tenn., studied at Cornell University, grad. 1874, geologist on the Imperial Geological Commission, Brazil 1875-1877, topographical geologist at the Geological Survey of Pennsylvania 1883-1885, professor of geology at the University of Indiana 1885-1892, State geologist of Arkansas 1887-1892, professor of geology at Leland Stanford Junior University from 1892. 
-**Abbreviated name**: *Branner*
+**Abbreviated name**: *Branner* \[standard form in IPNI: *Branner*\]
 
 #### Herbarium and types
 

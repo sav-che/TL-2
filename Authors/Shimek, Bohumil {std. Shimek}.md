@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33333702) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33333702) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9576-1), [Wikidata](https://www.wikidata.org/wiki/Q4938244). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shimek, Bohumil (1861-1937), American botanist; civil engineer and naturalist; instructor Iowa City Acad. 1883-1885, id. High School Iowa City 1885-1888, id. in zoology Univ. Nebraska 1888-1890, instructor at Iowa State University 1890-1893, assistant professor 1893, full professor 1903, id. head of the department of botany and curator of the herbarium from 1914-1932; research professor from 1919-1937; Dr. phil. h.c. Univ. Praha. 
-**Abbreviated name**: *Shimek*
+**Abbreviated name**: *Shimek* \[standard form in IPNI: *Shimek*\]
 
 #### Herbarium and types
 

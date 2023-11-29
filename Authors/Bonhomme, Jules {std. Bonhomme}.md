@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265509) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265509) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/32492-1), [Wikidata](https://www.wikidata.org/wiki/Q17631254). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bonhomme, Jules (fl. 1858-1880), French botanist at Millau (Aveyron). 
-**Abbreviated name**: *Bonhomme*
+**Abbreviated name**: *Bonhomme* \[standard form in IPNI: *Bonhomme*\]
 
 #### Herbarium and types
 

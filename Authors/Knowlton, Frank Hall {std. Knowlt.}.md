@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33068825) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33068825) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4883-1), [Wikidata](https://www.wikidata.org/wiki/Q15697444). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Knowlton, Frank Hall (1860-1926), American geologist, taxidermist and botanist at Georg Washington \[Columbian\] University, D. C. (1887-1896); from 1894 palaeobotanist in the U.S. Geological Survey; Ph. D. George Washington Univ. 1896, D. Se. 1921. 
-**Abbreviated name**: *Knowlt.*
+**Abbreviated name**: *Knowlt.* \[standard form in IPNI: *Knowlt.*\]
 
 #### Herbarium and types
 

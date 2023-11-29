@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33068477) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33068477) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4010-1), [Wikidata](https://www.wikidata.org/wiki/Q21515916). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoffberg, Carl Fredrik (1729-1790), Swedish physician and botanist, ultimately court-physician (1762-1788) at Stockholm. 
-**Abbreviated name**: *Hoffb.*
+**Abbreviated name**: *Hoffb.* \[standard form in IPNI: *Hoffb.*\]
 
 #### Herbarium and types
 

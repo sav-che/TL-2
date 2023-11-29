@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33068381) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33068381) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3790-1), [Wikidata](https://www.wikidata.org/wiki/Q47118708). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hein, Heinrich (*fl*. 1877), German gardener (–Kunstgärtner–) in Hamburg 
-**Abbreviated name**: *H. Hein*
+**Abbreviated name**: *H. Hein* \[standard form in IPNI: *Hein*\]
 
 #### Herbarium and types
 

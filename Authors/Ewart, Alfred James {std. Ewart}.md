@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33120938) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 807](https://www.biodiversitylibrary.org/page/33120938) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2605-1), [Wikidata](https://www.wikidata.org/wiki/Q614703). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ewart, Alfred James {std. Ewart} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Ewart, Alfred James (1872-1937), British born government botanist of Victoria at Melbourne, professor of botany 1906-1937. 
-**Abbreviated name**: *Ewart*
+**Abbreviated name**: *Ewart* \[standard form in IPNI: *Ewart*\]
 
 #### Herbarium and types
 

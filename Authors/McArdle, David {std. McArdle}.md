@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33355295) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33355295) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23119-1), [Wikidata](https://www.wikidata.org/wiki/Q21520200). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 McArdle, David (1849-1934), Irish plant collector and clerk at the Botanic Gardens Glasnevin 1869-1923 
-**Abbreviated name**: *McArdle*
+**Abbreviated name**: *McArdle* \[standard form in IPNI: *McArdle*\]
 
 #### Herbarium and types
 

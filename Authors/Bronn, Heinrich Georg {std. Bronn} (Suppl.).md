@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33266428) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33266428) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1173-1), [Wikidata](https://www.wikidata.org/wiki/Q64395). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bronn, Heinrich Georg {std. Bronn}|first entry]] for this author
 
 ### Author
 
 \* Bronn, Heinrich Georg (1800-1862), German palaeontologist, born in Ziegelhausen near Heidelberg, studied at the University of Heidelberg, Dr. phil. ib. 1822, Privatdocent ib. 1822, extraordinary professor 1833, regular professor of zoology and general biological sciences 1838, director of the Heidelberg Zoological Museum, member of Leopoldina 1832 ("Esper"), died 5 Jul 1862 at Heidelberg. 
-**Abbreviated name**: *Bronn*
+**Abbreviated name**: *Bronn* \[standard form in IPNI: *Bronn*\]
 
 #### Herbarium and types
 

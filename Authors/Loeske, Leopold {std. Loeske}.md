@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33355230) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33355230) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22489-1), [Wikidata](https://www.wikidata.org/wiki/Q15300538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Loeske, Leopold (1865-1935), German amateur bryologist, journalist, later administrator. 
-**Abbreviated name**: *Loeske*
+**Abbreviated name**: *Loeske* \[standard form in IPNI: *Loeske*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33189469) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33189469) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7295-1), [Wikidata](https://www.wikidata.org/wiki/Q47123991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palustre (*fl*. 1840), French physician and botanist. 
-**Abbreviated name**: *Palustre*
+**Abbreviated name**: *Palustre* \[standard form in IPNI: *Palustre*\]
 
 #### Herbarium and types
 

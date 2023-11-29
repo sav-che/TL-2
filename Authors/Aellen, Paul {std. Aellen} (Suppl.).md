@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33264721) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33264721) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/77-1), [Wikidata](https://www.wikidata.org/wiki/Q122747). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Aellen, Paul {std. Aellen}|first entry]] for this author
 
 ### Author
 
 \* Aellen, Paul (1896-1973), Swiss (Basel) botanist and teacher, studied natural sciences at the University of Basel 1915-ca. 1920; director of the École Pestalozzi, Schaffhausen 1921-1927; teacher at various institutions at Basel 1928-1958; specialist on Chenopodium and allies. 
-**Abbreviated name**: *Aellen*
+**Abbreviated name**: *Aellen* \[standard form in IPNI: *Aellen*\]
 
 #### Herbarium and types
 

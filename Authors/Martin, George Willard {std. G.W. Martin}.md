@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33355407) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33355407) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6158-1), [Wikidata](https://www.wikidata.org/wiki/Q5546284). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Martin, George Willard (1886-1971), American mycologist; M. Sc. Rutgers Univ. 1915; in U. S. Army in France 1915-1919; at Rutgers Univ. 1919-1921; at Univ. Chicago 1921-1923; Ph. D. Chicago 1922; from 1923-1955 at the State University of Iowa, Iowa City. 
-**Abbreviated name**: *G. W. Martin*
+**Abbreviated name**: *G. W. Martin* \[standard form in IPNI: *G.W.Martin*\]
 
 #### Herbarium and types
 

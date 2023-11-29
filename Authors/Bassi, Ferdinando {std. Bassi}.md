@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33120267) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33120267) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/528-1), [Wikidata](https://www.wikidata.org/wiki/Q3742551). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bassi, Ferdinando {std. Bassi} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bassi, Ferdinando (1710-1774), Italian botanist, prefect of the Bologna botanical garden. 
-**Abbreviated name**: *Bassi*
+**Abbreviated name**: *Bassi* \[standard form in IPNI: *Bassi*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33259278) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33259278) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/12404-1), [Wikidata](https://www.wikidata.org/wiki/Q3184192). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Desrousseaux, Louis Auguste Joseph (1753-1838), French cloth manufacturer and botanist at Sedan, born there 27 Jul 17553, died 20 Jan 1838 at Vendières, Marne, member of the Linnean Society at Paris from 1790. 
-**Abbreviated name**: *Desr.*
+**Abbreviated name**: *Desr.* \[standard form in IPNI: *Desr.*\]
 
 #### Herbarium and types
 

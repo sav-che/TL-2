@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33212845) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33212845) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12981-1), [Wikidata](https://www.wikidata.org/wiki/Q3437113). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Farkaš-Vukotinović, Ludwig {std. Vuk.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Vukotinovic, Ludwig \[Ljudevit\] von Farkaš (1813-1893), Croatian politician, magistrate and botanist; asst. judge in Pressburg (Bratislava) 1836, judge 1840; member of the diet of Croatia 1847; in the Croatian National Guard 1848-1850; judge at Križevci (Kreuz) 1850-1853; privately active in Agram (Zagreb) 1853-1860; co-founder of the Croatian Museum; prefect of the Križevci district 1860-1867; from 1867 private politician and scientist. 
-**Abbreviated name**: *Vuk.*
+**Abbreviated name**: *Vuk.* \[standard form in IPNI: *Vuk.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33120985) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33120985) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2819-1), [Wikidata](https://www.wikidata.org/wiki/Q1392483). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Forchhammer, Johan Georg (1794-1865), Danish palaeobiologist and geologist at København. 
-**Abbreviated name**: *Forchhammer*
+**Abbreviated name**: *Forchhammer* \[standard form in IPNI: *Forchh.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33189561) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33189561) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7377-1), [Wikidata](https://www.wikidata.org/wiki/Q21522667). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pasquale, Fortunato (1856-1917), Italian botanist and agronomist at Napoli; son of Giuseppe Antonio Pasquale; connected with the R. Istituto Tecnico di Napoli. 
-**Abbreviated name**: *F. Pasq.*
+**Abbreviated name**: *F. Pasq.* \[standard form in IPNI: *F.Pasq.*\]
 
 #### Herbarium and types
 

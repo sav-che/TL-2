@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33189924) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33189924) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25180-1), [Wikidata](https://www.wikidata.org/wiki/Q932451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Quélet, Lucien (1832-1899), French mycologist; Dr. med. Strasbourg 1856; practicing physician at Hérimoncourt (Doubs); founder and first president of the Société mycologique de France 1885; prix Desmazières 1878; prix Montagne 1886. 
-**Abbreviated name**: *Quél.*
+**Abbreviated name**: *Quél.* \[standard form in IPNI: *Quél.*\]
 
 #### Herbarium and types
 

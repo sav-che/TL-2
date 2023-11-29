@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33333360) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33333360) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12828-1), [Wikidata](https://www.wikidata.org/wiki/Q124937). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlich, Wilhelm \[Philipp Daniel\], \[later: Sir William Schlich\], (1840-1925), German-born (Hessen) British forester; Dr. phil. Giessen 1867 (thesis submitted 1866; degree awarded 1867); in the Indian Forest Service, Burma 1867-1870; id. Sind 1870-1872; conservator of forests Bengal 1872-1878; on furlough 1878-1880; conservator of forests Punjab 1880-1881; Inspector-general of forests 1881-1883 (deputy), 1883-1885; at Royal Indian Engineering College, Coopers Hill, head of Forestry Dept. 1885-1906; id. at Oxford 1906-1911; professor of forestry Oxford 1911-1919. 
-**Abbreviated name**: *Schlich*
+**Abbreviated name**: *Schlich* \[standard form in IPNI: *Schlich*\]
 
 #### Herbarium and types
 

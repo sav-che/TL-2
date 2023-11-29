@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33212074) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33212074) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10175-1), [Wikidata](https://www.wikidata.org/wiki/Q21609893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stolz, Adolf \[Ferdinand\] (1871-1917), South-Africa-born (son of a Moravian brother) German missionary and botanical collector; merchant at Neuwied a. Rh. and Wriezen 1885-1897; merchant in the service of the mission of the Moravian Brethern (Herrnhuter Mission) in Nyassaland (German East Africa; h.t. Malawi) charged with the development of plantations 1898-1914; from 1914-1917 in Germany, ultimately in the mission's hospital for tropical diseases at Tübingen. 
-**Abbreviated name**: *Stolz*
+**Abbreviated name**: *Stolz* \[standard form in IPNI: *Stolz*\]
 
 #### Herbarium and types
 

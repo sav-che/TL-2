@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/page/33212670) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 628](https://www.biodiversitylibrary.org/page/33212670) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11019-1), [Wikidata](https://www.wikidata.org/wiki/Q4263287). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vahl, Jens Laurentius Moestue (1796-1854), Danish botanist, plant collector and librarian; travelled in Sweden, Germany, Austria and France 1822-1826; in Greenland with V.A. Graah's expedition 1828-1829; engaged in botanical and meteorological work ib. 1829-1836; with a French expedition to Spitsbergen 1838-1839; from 1840 connected with the Botanical Museum, Copenhagen, from 1842-1850 as librarian; Dr. phil. Rostock 1842; son of M. Vahl. 
-**Abbreviated name**: *J. Vahl*
+**Abbreviated name**: *J. Vahl* \[standard form in IPNI: *J.Vahl*\]
 
 #### Herbarium and types
 

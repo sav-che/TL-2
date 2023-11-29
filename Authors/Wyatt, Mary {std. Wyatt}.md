@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33066821) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33066821) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/35136-1), [Wikidata](https://www.wikidata.org/wiki/Q21613125). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wyatt, Mary (x-c. 1850), British dealer in shells and algae exsiccatae at Torquay. 
-**Abbreviated name**: *Wyatt*
+**Abbreviated name**: *Wyatt* \[standard form in IPNI: *Wyatt*\]
 
 #### Herbarium and types
 

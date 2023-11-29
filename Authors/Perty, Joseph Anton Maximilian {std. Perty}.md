@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33189656) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33189656) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7552-1), [Wikidata](https://www.wikidata.org/wiki/Q86450). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Perty, Joseph Anton Maximilian (1804-1884), German botanist and zoologist; Dr. med. Landshut 1826; Dr. phil. Erlangen 1828; habil. München 1831; at München until 1833; from 1833-1876 professor of zoology at Bern. 
-**Abbreviated name**: *Perty*
+**Abbreviated name**: *Perty* \[standard form in IPNI: *Perty*\]
 
 #### Herbarium and types
 

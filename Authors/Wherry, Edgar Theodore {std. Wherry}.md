@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33066583) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33066583) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11609-1), [Wikidata](https://www.wikidata.org/wiki/Q8771913). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wherry, Edgar Theodore (1885-1982), American mineralogist, chemist and botanist; Dr. phil. Univ. Pennsylvania 1909; instructor in mineralogy, Lehigh Univ. 1908-1910; assistant professor ib. 1910-1913; assistant curator mineralogy U.S. Natl. Museum 1913-1917; crystallographer, U.S. Bur. Chemistry, Washington 1917-1923; chemist in charge of crop chemistry 1923-1930; associate professor of botany, Univ. Pennsylvania 1930-1941, regular prof. 1941-1955. 
-**Abbreviated name**: *Wherry*
+**Abbreviated name**: *Wherry* \[standard form in IPNI: *Wherry*\]
 
 #### Herbarium and types
 

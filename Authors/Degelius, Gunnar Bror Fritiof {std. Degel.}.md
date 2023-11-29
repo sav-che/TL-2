@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33120741) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33120741) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2078-1), [Wikidata](https://www.wikidata.org/wiki/Q21339039). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Degelius, Gunnar Bror Fritiof {std. Degel.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Degelius, Gunnar Bror Fritiof (1903-x), Swedish botanist. 
-**Abbreviated name**: *Degel.*
+**Abbreviated name**: *Degel.* \[standard form in IPNI: *Degel.*\]
 
 #### Herbarium and types
 

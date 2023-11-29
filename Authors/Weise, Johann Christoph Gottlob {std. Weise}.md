@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33066502) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33066502) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11519-1), [Wikidata](https://www.wikidata.org/wiki/Q21612400). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weise, Johann Christoph Gottlob (1762-1840), German (Sachsen-Weimar) engineer, geographer and garden inspector at Weimar; with the military school at Dresden ca. 1793-1801; surveyor for the French army on the battlefield of Jena 1806; in charge of the military library of the Duke of Jena 1807; inspector of the ducal gardens from 1811. 
-**Abbreviated name**: *Weise*
+**Abbreviated name**: *Weise* \[standard form in IPNI: *Weise*\]
 
 #### Herbarium and types
 

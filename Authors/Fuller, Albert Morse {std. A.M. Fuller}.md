@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33258555) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33258555) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2958-1), [Wikidata](https://www.wikidata.org/wiki/Q21288426). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fuller, Albert Morse (1899-1981), American botanist, born 3 Mai 1899 in Kinnickinnic (St. Croix Co.), Wisconsin, State Teacher's College (now Univ. of Wisconsin-River Falls), River Falls, Wisconsin 1918, asst. principal, high school, Red Granite, Wisconsin 1918-1919, B.A. 1923 Univ. of Wisconsin at Madison, asst. 1923-1930, assoc. 1931-1933 and curator of Botany from 1933, all Milwaukee Public Museum, Milwaukee, Wisconsin, M.S. 1948 Marquette Univ., Milwaukee, died Jan 1981 in Wisconsin. 
-**Abbreviated name**: *A.M. Fuller*
+**Abbreviated name**: *A.M. Fuller* \[standard form in IPNI: *A.M.Fuller*\]
 
 #### Herbarium and types
 

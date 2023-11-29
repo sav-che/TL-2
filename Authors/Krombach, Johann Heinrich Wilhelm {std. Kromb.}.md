@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33068920) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33068920) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5074-1), [Wikidata](https://www.wikidata.org/wiki/Q3460050). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krombach, Johann Heinrich Wilhelm (1791-1881), German-born Luxemburg botanist and pharmacist; assistant pharmacist at Soest (1810-1811), Mainz (1811-1813), Aachen (1814-1815); pharmacist at Diekirch, Luxemburg 1815-1870; Luxemburg citizen 1830; professor of natural sciences Diekirch 1830-1870, at Luxemburg 1871-1881. 
-**Abbreviated name**: *Kromb.*
+**Abbreviated name**: *Kromb.* \[standard form in IPNI: *Kromb.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33190206) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33190206) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8304-1), [Wikidata](https://www.wikidata.org/wiki/Q21607127). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Retzdorff, Adolf Eduard Willy (1856-1910), German (Prussian) amateur botanist; worked for Caspary in E. Prussia 1876 and with L. Wittmack at the Berlin agricultural museum 1876-1877; trained to be a civil servant 1878-1880; law court clerk 1880-1889; from 1889 provincial tax revenue officer ("Steuersekretär); from 1890 treasurer of the Bot. Ver. Brandenburg. 
-**Abbreviated name**: *Retzdorff*
+**Abbreviated name**: *Retzdorff* \[standard form in IPNI: *Retzd.*\]
 
 #### Herbarium and types
 

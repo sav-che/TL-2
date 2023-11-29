@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33066831) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33066831) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11945-1), [Wikidata](https://www.wikidata.org/wiki/Q21404524). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Young, Aaron (1819-1898), American botanist; studied at Bowdoin College 1841-1842; at Jefferson medical college, Philadelphia 1842-1843; assistant in chemistry Bowdoin College 1840-1841; apothecary in Bangor, Maine, ear surgeon and peddled cure-all in Maine, newspaper editor id.; American consul at Rio Grande do Sul, Brazil 1863-1873; practicing physician in Boston from 1875. 
-**Abbreviated name**: *Aa. young*
+**Abbreviated name**: *Aa. young* \[standard form in IPNI: *A.Young*\]
 
 #### Herbarium and types
 

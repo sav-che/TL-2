@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33333880) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33333880) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9889-1), [Wikidata](https://www.wikidata.org/wiki/Q6183770). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sondén, Carl Marten (1846-1913), Swedish physician and botanist; Dr. med. Uppsala 1874; professor at a school for midwives in Stockholm 1896-1911. 
-**Abbreviated name**: *Sondén*
+**Abbreviated name**: *Sondén* \[standard form in IPNI: *Sondén*\]
 
 #### Herbarium and types
 

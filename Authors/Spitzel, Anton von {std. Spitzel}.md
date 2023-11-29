@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 793](https://www.biodiversitylibrary.org/page/33333932) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 793](https://www.biodiversitylibrary.org/page/33333932) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9976-1), [Wikidata](https://www.wikidata.org/wiki/Q5697514). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spitzel, Anton von (1807-1853), German (Bavarian) botanist, plant collector and forester in Loser (1832-1835), Grubhof (1835-1836) and München. 
-**Abbreviated name**: *Spitzel*
+**Abbreviated name**: *Spitzel* \[standard form in IPNI: *Spitzel*\]
 
 #### Herbarium and types
 

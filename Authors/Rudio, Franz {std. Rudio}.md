@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/page/33190443) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/page/33190443) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8708-1), [Wikidata](https://www.wikidata.org/wiki/Q21607516). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rudio, Franz (1811-1877), German (Hessen) botanist and pharmacist; Dr. phil. Giessen; emigrated to Brazil 1858, collected plants near Rio de Janeiro in 1859; settled in the colony of Porto do Cachoeiro, Espirito Santo. 
-**Abbreviated name**: *Rudio*
+**Abbreviated name**: *Rudio* \[standard form in IPNI: *Rudio*\]
 
 #### Herbarium and types
 

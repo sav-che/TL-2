@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33355302) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33355302) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5904-1), [Wikidata](https://www.wikidata.org/wiki/Q2005497). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 McCormick, Robert (1800-1890), British navy surgeon and explorer who collected on the arctic expedition of W. E. Parry and the antarctic expedition of J. C. Ross. 
-**Abbreviated name**: *McCormick*
+**Abbreviated name**: *McCormick* \[standard form in IPNI: *McCormick*\]
 
 #### Herbarium and types
 

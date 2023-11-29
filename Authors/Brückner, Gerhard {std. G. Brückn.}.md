@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33266458) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33266458) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1208-1), [Wikidata](https://www.wikidata.org/wiki/Q5878492). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brückner, Gerhard (1902-x), German botanist, Berlin-Lichterfelde born 4 Jan 1902, educated at the Schillergymnasium at Berlin-Lichterfelde, studied at the Friedrich-Wilhelms-Universität at Berlin 26 Apr 1920-1925, with e.g. L. Diels, A. Engler, K.O.P.R.R. Graebner, and R.K.F. Pilger, from Mai 1925 employed by the Preussische Versuchs- und Forschungsanstalt für Getreideverarbeitung und Veredelung in Berlin, Dr. phil. Berlin 1926. 
-**Abbreviated name**: *G. Brückn.*
+**Abbreviated name**: *G. Brückn.* \[standard form in IPNI: *G.Brückn.*\]
 
 #### Herbarium and types
 

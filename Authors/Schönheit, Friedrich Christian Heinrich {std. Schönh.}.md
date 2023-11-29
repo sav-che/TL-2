@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33333426) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33333426) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12840-1), [Wikidata](https://www.wikidata.org/wiki/Q1458708). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schönheit, Friedrich Christian Heinrich (1789-1870), German (Thüringian) botanist and clergyman in Teichröda 1815-1826, and Singen 1826-1870. 
-**Abbreviated name**: *Schönh.*
+**Abbreviated name**: *Schönh.* \[standard form in IPNI: *Schönh.*\]
 
 #### Herbarium and types
 

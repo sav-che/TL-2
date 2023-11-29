@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33120623) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33120623) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/34742-1), [Wikidata](https://www.wikidata.org/wiki/Q708134). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chesney, Francis Rawdon (1789-1872), British general who collected plants on an expedition to the Euphrates. 
-**Abbreviated name**: *Chesney*
+**Abbreviated name**: *Chesney* \[standard form in IPNI: *Chesney*\]
 
 #### Herbarium and types
 

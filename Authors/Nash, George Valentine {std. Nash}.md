@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33355778) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33355778) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6860-1), [Wikidata](https://www.wikidata.org/wiki/Q2663440). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nash, George Valentine (1864-1921), American botanist and horticulturist; at the New York Botanical Garden from its initiation as collector (1896), curator of plantations (1899) and head gardener (1900); collected extensively in Florida and the West Indies. 
-**Abbreviated name**: *Nash*
+**Abbreviated name**: *Nash* \[standard form in IPNI: *Nash*\]
 
 #### Herbarium and types
 

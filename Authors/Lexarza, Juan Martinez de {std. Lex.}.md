@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33069111) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33069111) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5546-1), [Wikidata](https://www.wikidata.org/wiki/Q4260405). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lexarza, Juan Martinez de (1785-1824), Mexican physician and botanist. 
-**Abbreviated name**: *Lex.*
+**Abbreviated name**: *Lex.* \[standard form in IPNI: *Lex.*\]
 
 #### Herbarium and types
 

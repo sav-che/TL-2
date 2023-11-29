@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-11-24 14:04:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33265436) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33265436) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/880-1), [Wikidata](https://www.wikidata.org/wiki/Q4088747). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bobrov, Eugenii Grigorevich (1902-1983), Russian botanist at the V.L. Komarov Botanical Institute of the Academy of Sciences of the U.S.S.R., St. Petersburg, major contributor to the Flora URSS. 
-**Abbreviated name**: *Bobrov*
+**Abbreviated name**: *Bobrov* \[standard form in IPNI: *Bobrov*\]
 
 #### Herbarium and types
 

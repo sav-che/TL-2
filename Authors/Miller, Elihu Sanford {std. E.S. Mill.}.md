@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33355577) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33355577) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6478-1), [Wikidata](https://www.wikidata.org/wiki/Q21521503). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Miller, Elihu Sanford (1848-1940), American botanist and horticulturist; at Wading River, N.Y. 1848-1888, 1902-1904, at Floral Park 1883-1902. 
-**Abbreviated name**: *E.S. Mill.*
+**Abbreviated name**: *E.S. Mill.* \[standard form in IPNI: *E.S.Mill.*\]
 
 #### Herbarium and types
 

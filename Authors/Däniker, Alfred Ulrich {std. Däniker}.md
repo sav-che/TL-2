@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33259049) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33259049) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/1988-1), [Wikidata](https://www.wikidata.org/wiki/Q14971649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Däniker, Alfred Ulrich (1894-1957), Swiss botanist and ecologist, born at Steinmaur, Switzerland, travelled and studied in Europe 1921-1924, on an expedition to New Caledonia and the Loyalty Islands 1924-1926 (including a visit to Australia), from 1929 in charge of the Botanic Garden and Museum in Zürich, extraordinary professor and director of the Botanic Garden and Museum. 
-**Abbreviated name**: *Däniker*
+**Abbreviated name**: *Däniker* \[standard form in IPNI: *Däniker*\]
 
 #### Herbarium and types
 

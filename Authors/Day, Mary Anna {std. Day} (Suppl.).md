@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33259162) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33259162) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2045-1), [Wikidata](https://www.wikidata.org/wiki/Q21509971). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Day, Mary Anna {std. Day}|first entry]] for this author
 
 ### Author
 
 \* Day, Mary Anna (1852-1924), American botanist and librarian, born in Nelson, Cheshire Cy., New Hampshire, first education in the Lancester Academy, Mass., ca. 1868-1870, taught in the Massachusetts public schools 1871-1878 at Sudbury and Clinton, later for six years in the Clinton Public Library, at the Gray Herbarium, Harvard College 1893 until retirement. 
-**Abbreviated name**: *Day*
+**Abbreviated name**: *Day* \[standard form in IPNI: *Day*\]
 
 #### Herbarium and types
 

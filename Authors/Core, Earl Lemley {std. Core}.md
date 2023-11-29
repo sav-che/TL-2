@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33266037) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 360](https://www.biodiversitylibrary.org/page/33266037) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1804-1), [Wikidata](https://www.wikidata.org/wiki/Q5325972). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Core, Earl Lemley (1902-1984), American botanist, born at Morgantown, West Virginia, educated at Morgantown High School until 1920, taught in rural schools 1920-1923, at West Virginia University 1923-1926, A.B. 1926, M.A. 1928, Ph.D. Columbia University 1936, teacher from 1928 at West Virginia University until 1972, Chairman Dept. of Biol. 1948-1966, botanist of the Colombian Cinchona Mission at Bogotá 1943-1945, after retirement wrote the history of Monongalia Country, West Virginia. 
-**Abbreviated name**: *Core*
+**Abbreviated name**: *Core* \[standard form in IPNI: *Core*\]
 
 #### Herbarium and types
 

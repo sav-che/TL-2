@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33212439) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33212439) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10746-1), [Wikidata](https://www.wikidata.org/wiki/Q5864794). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tornabene, Francesco \[later: Francisco\] (1813-1897), Italian (Sicilian) Benedictine monk (from Montecassino) and botanist; founder and director of the Botanical Garden at Catania 1847 \[1858\]-1892; from 1850 also professor of botany at Catania University. 
-**Abbreviated name**: *Tornab.*
+**Abbreviated name**: *Tornab.* \[standard form in IPNI: *Tornab.*\]
 
 #### Herbarium and types
 

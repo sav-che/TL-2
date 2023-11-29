@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/page/33212661) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/page/33212661) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10996-1), [Wikidata](https://www.wikidata.org/wiki/Q5994491). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Urbina y Altamirano, Manuel (1843-1906), Mexican botanist; studied at the Escuela nacional de Medecina, Mexico; medical and pharmaceutical examinations 1864; practicing physician and active in various medical and scientific functions; professor of botany at the Museo nacional from 1881, from 1889 also zoology; also connected with the Instituto médico nacional. 
-**Abbreviated name**: *Urbino*
+**Abbreviated name**: *Urbino* \[standard form in IPNI: *Urbina*\]
 
 #### Herbarium and types
 

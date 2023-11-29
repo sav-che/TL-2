@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33266699) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33266699) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/13904-1), [Wikidata](https://www.wikidata.org/wiki/Q21390352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cantley, Nathaniel (x-1888), British (Thurso, Scotland, Caithness born) gardener, Kew gardener 1869-1872, assistant director Mauritius Botanic Garden 1873, superintendent Singapore Botanic Gardens 1880-1888. 
-**Abbreviated name**: *Cantley*
+**Abbreviated name**: *Cantley* \[standard form in IPNI: *Cantley*\]
 
 #### Herbarium and types
 

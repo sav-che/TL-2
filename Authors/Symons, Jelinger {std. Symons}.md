@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33212181) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33212181) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12910-1), [Wikidata](https://www.wikidata.org/wiki/Q21447770). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Symons, Jelinger (1778-1851), British clergyman and botanist; M.A. Cantab. 1797; curate Whitbarn, Durham, and rector Radnage 1833-1851. 
-**Abbreviated name**: *Symons*
+**Abbreviated name**: *Symons* \[standard form in IPNI: *Symons*\]
 
 #### Herbarium and types
 

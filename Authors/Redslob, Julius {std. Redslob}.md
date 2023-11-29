@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 629](https://www.biodiversitylibrary.org/page/33190100) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 629](https://www.biodiversitylibrary.org/page/33190100) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8224-1), [Wikidata](https://www.wikidata.org/wiki/Q36597723). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Redslob, Julius (*fl*. 1863), German botanist. 
-**Abbreviated name**: *Redslob*
+**Abbreviated name**: *Redslob* \[standard form in IPNI: *Redslob*\]
 
 #### Herbarium and types
 

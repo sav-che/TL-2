@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/page/33190342) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/page/33190342) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25748-1), [Wikidata](https://www.wikidata.org/wiki/Q21607354). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rolland, Léon \[Louis\] (1841-1912), French mycologist; lived at Le Hávre 1866-1879, later at Paris and Neuilly. 
-**Abbreviated name**: *Rolland*
+**Abbreviated name**: *Rolland* \[standard form in IPNI: *Rolland*\]
 
 #### Herbarium and types
 

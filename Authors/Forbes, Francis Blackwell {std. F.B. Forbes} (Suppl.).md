@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33259816) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33259816) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2814-1), [Wikidata](https://www.wikidata.org/wiki/Q4491809). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Forbes, Francis Blackwell {std. F.B. Forbes}|first entry]] for this author
 
 ### Author
 
 \* Forbes, Francis Blackwell (1839-1908), American businessman, botanist and member of a Mass. family long involved in the China trade, born 11 Aug 1839 in New York City, went to China and arrived in Hong Kong Nov 1857 (18 years old), started studying 1869 and began collecting plants 1872, visited Europe (London, Paris and St. Petersburg) 1875-1877, F.L.S. 1875, returned to China (Shanghai) until 1882, settled in England but went to Paris in 1886, left for Boston in 1904, where he died 21 Mai 1908. 
-**Abbreviated name**: *F.B. Forbes*
+**Abbreviated name**: *F.B. Forbes* \[standard form in IPNI: *F.B.Forbes*\]
 
 #### Herbarium and types
 

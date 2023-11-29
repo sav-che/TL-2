@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 504](https://www.biodiversitylibrary.org/page/33333643) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 504](https://www.biodiversitylibrary.org/page/33333643) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9480-1), [Wikidata](https://www.wikidata.org/wiki/Q115704). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Senebier, Jean (1742-1809), Swiss linguist, bibliographer, meteorologist, physiologist, botanist, philosopher and clergyman; pastor at Genève (1765) and Chancy 1769-1773; librarian of the city of Genève 1773-1809; in temporary retirement at Rolle, Vaud during the Genève revolution (1793). 
-**Abbreviated name**: *Seneb.*
+**Abbreviated name**: *Seneb.* \[standard form in IPNI: *Seneb.*\]
 
 #### Herbarium and types
 

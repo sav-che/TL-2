@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 941](https://www.biodiversitylibrary.org/page/33190412) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 941](https://www.biodiversitylibrary.org/page/33190412) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8666-1), [Wikidata](https://www.wikidata.org/wiki/Q3159927). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rousseau, \[Joseph Jules Jean\] Jacques (1905-1970), Canadian botanist; student of Marie-Victorin; Dr. phil. Univ. Montréal 1934; demonstrator of botany Univ. Montreal 1926-1928; assistant, later associate professor of botany ib. 1928-1944; director of the Montreal botanical garden 1944-1957; director of human history branch, Natl. Mus. Canada Ottawa 1957-1959; professor at the Musée de l'Homme, Paris 1959-1962; professor at the Centre d'Études nordiques, Université Laval, Québec City 1962-1970; member of the editorial committee for botanical nomenclature 1954-1964. 
-**Abbreviated name**: *J. Rousseau*
+**Abbreviated name**: *J. Rousseau* \[standard form in IPNI: *J.Rousseau*\]
 
 #### Herbarium and types
 

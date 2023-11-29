@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 785](https://www.biodiversitylibrary.org/page/33190256) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 785](https://www.biodiversitylibrary.org/page/33190256) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8379-1), [Wikidata](https://www.wikidata.org/wiki/Q21340769). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Riddelsdell, Harry Joseph (1866-1941), British clergyman and botanist (batologist); subwarden St. Michael's Theological College, Llandoff, Aberdare, 1897-1914; rector, Wigginton, Oxford 1914-1918; Bloxham, Oxford 1918-1936. 
-**Abbreviated name**: *Riddelsdell*
+**Abbreviated name**: *Riddelsdell* \[standard form in IPNI: *Ridd.*\]
 
 #### Herbarium and types
 

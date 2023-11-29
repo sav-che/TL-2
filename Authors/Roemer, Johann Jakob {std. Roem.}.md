@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33190315) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33190315) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8503-1), [Wikidata](https://www.wikidata.org/wiki/Q115659). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roemer, Johann Jakob (1763-1819), Swiss (Zürich) botanist; studied medicine and natural history at the University of Zürich 1783-1784, and Göttingen 1784-1786; Dr. phil. 1784; practicing physician at Zürich 1786-1797 and 1804-1819; lectured also at the Zürich medical college; director of the botanical garden of the Naturforschende Gesellschaft Zürich 1797-1819. 
-**Abbreviated name**: *Roem.*
+**Abbreviated name**: *Roem.* \[standard form in IPNI: *Roem.*\]
 
 #### Herbarium and types
 

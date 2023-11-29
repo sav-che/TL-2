@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33264881) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33264881) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/30960-1), [Wikidata](https://www.wikidata.org/wiki/Q21505316). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Arens, Pedro \[Martin José\] (1884-1954), German (Peru-born) botanist, returned to Germany 1896, studied at the Gymnasium and University of Bonn, Dr. phil. Bonn 1907, botanist at the rubber experiment Station at Bandung, Java, 1908-1910, botanist and assistant director of the rubber experiment Station at Malang (Java), director of the scientific branch of the Rubber Cultuurmaatschappij, Karang, Deli (Sumatra), from 1931 in retirement at Hilversum, Netherlands working on Malesian mosses. 
-**Abbreviated name**: *P. Arens*
+**Abbreviated name**: *P. Arens* \[standard form in IPNI: *Arens*\]
 
 #### Herbarium and types
 

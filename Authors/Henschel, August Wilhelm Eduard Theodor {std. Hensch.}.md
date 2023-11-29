@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33068404) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33068404) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3855-1), [Wikidata](https://www.wikidata.org/wiki/Q120079). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Henschel, August Wilhelm Eduard Theodor (1790-1856), German physician, botanist and historian of the life sciences at Breslau (Wroclaw). 
-**Abbreviated name**: *Hensch.*
+**Abbreviated name**: *Hensch.* \[standard form in IPNI: *Hensch.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33265980) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33265980) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1764-1), [Wikidata](https://www.wikidata.org/wiki/Q9078739). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Conrad, Solomon White (1779-1831), American bookseller, amateur mineralogist, conchologist and botanist, born 31 Jul 1779, Germantown, Pa., died 2 Oct 1831, Philadelphia, Pa., Professor of botany at the University of Pennsylvania elected 21 Mar 1829. 
-**Abbreviated name**: *Conrad*
+**Abbreviated name**: *Conrad* \[standard form in IPNI: *Conrad*\]
 
 #### Herbarium and types
 

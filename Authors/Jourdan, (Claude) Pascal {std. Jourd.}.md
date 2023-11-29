@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33068706) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33068706) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4562-1), [Wikidata](https://www.wikidata.org/wiki/Q21517158). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jourdan, \[Claude\] Pascal (1835-1881), French botanist. 
-**Abbreviated name**: *Jourd.*
+**Abbreviated name**: *Jourd.* \[standard form in IPNI: *Jourd.*\]
 
 #### Herbarium and types
 

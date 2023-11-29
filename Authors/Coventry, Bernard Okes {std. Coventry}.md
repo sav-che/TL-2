@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/page/33266106) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/page/33266106) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1847-1), [Wikidata](https://www.wikidata.org/wiki/Q21509178). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Coventry, Bernard Okes (x-1929), British botanist in the Indian Forest Service, collected plants in Kashmir 1923-1925. 
-**Abbreviated name**: *Coventry*
+**Abbreviated name**: *Coventry* \[standard form in IPNI: *Coventry*\]
 
 #### Herbarium and types
 

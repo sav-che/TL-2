@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33068985) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33068985) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5244-1), [Wikidata](https://www.wikidata.org/wiki/Q7192353). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lamy de la Chapelle, Pierre Marie Édouard (1804 \[not 1803\]-1886), French cryptogamist and banker at Limoges. 
-**Abbreviated name**: *Lamy*
+**Abbreviated name**: *Lamy* \[standard form in IPNI: *Lamy*\]
 
 #### Herbarium and types
 

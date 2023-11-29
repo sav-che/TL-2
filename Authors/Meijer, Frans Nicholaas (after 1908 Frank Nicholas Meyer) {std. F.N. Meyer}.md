@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-05-17 16:09:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33355489) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33355489) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12677-1), [Wikidata](https://www.wikidata.org/wiki/Q3082749). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meijer, Frans Nicholaas (after 1908 Frank Nicholas Meyer) (1875-1918), Dutch botanist, gardener and botanical explorer; with Hugo de Vries before 1900; travelled through the United States and Mexico 1901-1904; at the Missouri Botanical Garden 1904-1905; with USDA as plant collector at the initiative of David Fairchild in 1905-1908, 1909-1912, 1913-1915 and 1916-1918; naturalised U.S. citizen 1908; drowned (murdered?) in the Yang-tsze-kiang. 
-**Abbreviated name**: *F. N. Meyer*
+**Abbreviated name**: *F. N. Meyer* \[standard form in IPNI: *F.N.Meijer*\]
 
 #### Herbarium and types
 

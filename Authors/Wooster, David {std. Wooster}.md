@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33066792) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33066792) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12445-1), [Wikidata](https://www.wikidata.org/wiki/Q21513419). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wooster, David (ca. 1824-1888), British nurseryman, sometime associated with J.C. Loudon, later with Walter Trevelyan. 
-**Abbreviated name**: *Wooster*
+**Abbreviated name**: *Wooster* \[standard form in IPNI: *Wooster*\]
 
 #### Herbarium and types
 

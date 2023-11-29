@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33066578) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 238](https://www.biodiversitylibrary.org/page/33066578) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11602-1), [Wikidata](https://www.wikidata.org/wiki/Q21612564). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wheeler, Charles Fay (1842-1910), American botanist; studied medecine at the University of Michigan 1866-1867; had a drug and book store at Hubbardston, Michigan 1867-1889; instructor at Michigan Agricultural College, 1889-1895, assistant professor and consulting botanist to the Experiment Station of the College 1892-1902; expert in charge of economic gardens at the Bureau of Plant Industry, USDA 1902-1910. 
-**Abbreviated name**: *C.F. Wheeler*
+**Abbreviated name**: *C.F. Wheeler* \[standard form in IPNI: *C.F.Wheeler*\]
 
 #### Herbarium and types
 

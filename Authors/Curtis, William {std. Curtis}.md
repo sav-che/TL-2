@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33120706) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33120706) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1927-1), [Wikidata](https://www.wikidata.org/wiki/Q460867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Curtis, William {std. Curtis} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Curtis, William (1746-1799), English botanist, entomologist, and editor of the Botanical Magazine 1787-1799. 
-**Abbreviated name**: *Curtis*
+**Abbreviated name**: *Curtis* \[standard form in IPNI: *Curtis*\]
 
 #### Herbarium and types
 

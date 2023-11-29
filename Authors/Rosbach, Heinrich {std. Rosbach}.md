@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/page/33190353) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 882](https://www.biodiversitylibrary.org/page/33190353) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8582-1), [Wikidata](https://www.wikidata.org/wiki/Q5893536). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rosbach, Heinrich (*fl*. 1880), German (Prussian) botanist; regional physician at Trier ("Königl. preuss. Kreisphysicus und Sanitätsrath"). 
-**Abbreviated name**: *Rosbach*
+**Abbreviated name**: *Rosbach* \[standard form in IPNI: *Rosbach*\]
 
 #### Herbarium and types
 

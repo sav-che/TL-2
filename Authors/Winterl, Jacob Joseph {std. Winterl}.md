@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33066724) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33066724) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11778-1), [Wikidata](https://www.wikidata.org/wiki/Q736342). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winterl, Jacob Joseph (1739-1809), Austrian botanist, chemist and physician; Dr. med. et phil. Wien 1767; professor of medicine at the University of Tyrnan (W. Slovakia); in charge of the botanic garden of Ofen (Buda/Budapest) from 1771-1809, from 1771 or 1775-1802 ordinary professor of botany at the University of Pesth (Budapest). 
-**Abbreviated name**: *Winterl*
+**Abbreviated name**: *Winterl* \[standard form in IPNI: *Winterl*\]
 
 #### Herbarium and types
 

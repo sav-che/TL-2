@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33068289) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33068289) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3632-1), [Wikidata](https://www.wikidata.org/wiki/Q21514642). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hansen, Lars (1788-1876), German teacher, musician and botanist at Husby in Angeln. 
-**Abbreviated name**: *L. Hans.*
+**Abbreviated name**: *L. Hans.* \[standard form in IPNI: *Hansen*\]
 
 #### Herbarium and types
 

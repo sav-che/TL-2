@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33189718) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33189718) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24832-1), [Wikidata](https://www.wikidata.org/wiki/Q21516560). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Picard, François (1879-1939), French entomologist and mycologist; professor of zoology at the École nationale d'Agriculture, Montpellier 1909-1921; at the Paris Laboratoire d'évolution des êtres organisés 1921-1939. 
-**Abbreviated name**: *F. Picard*
+**Abbreviated name**: *F. Picard* \[standard form in IPNI: *F.Picard*\]
 
 #### Herbarium and types
 

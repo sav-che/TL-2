@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33068438) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33068438) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3940-1), [Wikidata](https://www.wikidata.org/wiki/Q21515807). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hildt, Johann Adolph (x-1805), German botanist. 
-**Abbreviated name**: *Hildt*
+**Abbreviated name**: *Hildt* \[standard form in IPNI: *Hildt*\]
 
 #### Herbarium and types
 

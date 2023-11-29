@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/page/33069103) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/page/33069103) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5526-1), [Wikidata](https://www.wikidata.org/wiki/Q21518733). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leuduger-Fortmorel, Georges (1830-1902), French physician and diatomologist; ultimately at Saint-Brieuc. 
-**Abbreviated name**: *Leud.-Fortm.*
+**Abbreviated name**: *Leud.-Fortm.* \[standard form in IPNI: *Leud.-Fortm.*\]
 
 #### Herbarium and types
 

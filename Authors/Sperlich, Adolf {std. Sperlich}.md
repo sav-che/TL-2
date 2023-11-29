@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33333926) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33333926) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9962-1), [Wikidata](https://www.wikidata.org/wiki/Q21609281). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sperlich, Adolf (1879-1963), Austrian botanist; Dr. phil. Innsbrück 1902; habil. Univ. Innsbrück 1908; lecturer (Privat-Dozent) 1908-1914; extra-ordinary professor of botany at the University of Innsbrück 1914-1928; ordinary professor 1928-; director of the botanical garden of the University of Innsbrück from 1928. 
-**Abbreviated name**: *Sperlich*
+**Abbreviated name**: *Sperlich* \[standard form in IPNI: *Sperlich*\]
 
 #### Herbarium and types
 

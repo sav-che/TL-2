@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5200-1), [Wikidata](https://www.wikidata.org/wiki/Q434939). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Laestadius, Lars Levi (1800-1861), Swedish clergyman and botanist; born in Arjepluog (Lapland); clergyman at Karesuando (1825-1848) and Pajala (Norrbotten) (1848-1861); pupil of Wahlenberg. 
-**Abbreviated name**: *Laest.*
+**Abbreviated name**: *Laest.* \[standard form in IPNI: *Laest.*\]
 
 #### Herbarium and types
 

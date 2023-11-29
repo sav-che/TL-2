@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/page/33334009) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/page/33334009) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10070-1), [Wikidata](https://www.wikidata.org/wiki/Q12742476). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stefureac, Traian I. (1908-x), Rumanian bryologist; studied and worked at the Faculty of Sciences Cernauti; from 1940 with the faculty of natural sciences of the University of Bucarest (Botanical Institute of the University). 
-**Abbreviated name**: *Stefur.*
+**Abbreviated name**: *Stefur.* \[standard form in IPNI: *Ştefur.*\]
 
 #### Herbarium and types
 

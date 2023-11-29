@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33355809) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 722](https://www.biodiversitylibrary.org/page/33355809) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12706-1), [Wikidata](https://www.wikidata.org/wiki/Q4316797). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nelson, Aven (1859-1952), American botanist, plant collector and educator at the University of Wyoming, as professor of biology from 1887; founder of the Rocky Mountain herbarium (RM); Dr. phil. Denver 1904; president of the University of Wyoming 1917-1922. 
-**Abbreviated name**: *A. Nels.*
+**Abbreviated name**: *A. Nels.* \[standard form in IPNI: *A.Nelson*\]
 
 #### Herbarium and types
 

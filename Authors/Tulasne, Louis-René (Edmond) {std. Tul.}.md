@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33212572) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33212572) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10899-1), [Wikidata](https://www.wikidata.org/wiki/Q918803). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tulasne, Louis-René \["Edmond"\] (1815-1885), French botanist; studied law, Lic. jur. 1885, public notary ib. 1835-1839; settled in Paris 1839-1965 as a private scientist dedicating himself to botany (from 1842-1865 research associate "aide-naturaliste" at the Muséum d'Histoire naturelle), charity and the Christian religion; in retirement in Hyères, S. France 1865-1885. 
-**Abbreviated name**: *Tul.*
+**Abbreviated name**: *Tul.* \[standard form in IPNI: *Tul.*\]
 
 #### Herbarium and types
 

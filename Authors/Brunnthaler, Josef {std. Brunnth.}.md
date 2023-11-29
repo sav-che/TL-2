@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33120516) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33120516) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1231-1), [Wikidata](https://www.wikidata.org/wiki/Q6279727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brunnthaler, Josef {std. Brunnth.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Brunnthaler, Josef (1871-1914), Austrian botanist. 
-**Abbreviated name**: *Brunnthaler*
+**Abbreviated name**: *Brunnthaler* \[standard form in IPNI: *Brunnth.*\]
 
 #### Herbarium and types
 

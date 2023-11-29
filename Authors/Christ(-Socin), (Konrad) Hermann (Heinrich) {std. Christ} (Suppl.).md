@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33265819) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33265819) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1627-1), [Wikidata](https://www.wikidata.org/wiki/Q115901). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Christ, Konrad Hermann Heinrich {std. Christ}|first entry]] for this author
 
 ### Author
 
 \* Christ\[-Socin\], \[Konrad\] Hermann \[Heinrich\] (1833-1933), Swiss botanist, born at Basel, educated at the Gymnasium in Basel, studied jura at the universities of Basel and Berlin, Dr. jur. 1856, notary examination 1857, "Zivilgerichtsschreiber" at Basel 1859-1869, notary 1869, member of the "Appellationsgericht" 1895-1907, active botanist from 1846, first botanical publication 1853/54, last publications (3) 1933. 
-**Abbreviated name**: *H. Christ*
+**Abbreviated name**: *H. Christ* \[standard form in IPNI: *Christ*\]
 
 #### Herbarium and types
 

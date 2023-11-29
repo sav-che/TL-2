@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33355632) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33355632) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6567-1), [Wikidata](https://www.wikidata.org/wiki/Q36527611). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moisan, Charles Auguste (*fl*. 1839), French botanist and pharmacist at Nantes. 
-**Abbreviated name**: *Moisan*
+**Abbreviated name**: *Moisan* \[standard form in IPNI: *Moisan*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33190221) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33190221) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/35163-1), [Wikidata](https://www.wikidata.org/wiki/Q36634491). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reymond, M.L.C. (*fl*. 1854), French clergyman and botanist at Paris. 
-**Abbreviated name**: *Reymond*
+**Abbreviated name**: *Reymond* \[standard form in IPNI: *Reymond*\]
 
 #### Herbarium and types
 

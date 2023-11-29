@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33212778) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33212778) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11188-1), [Wikidata](https://www.wikidata.org/wiki/Q4110557). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Viguier, René (1880-1931), French botanist; technician at the École nationale supérieure d'Agriculture and at the Muséum d'Histoire naturelle (with van Tieghem); maître de conférences Sorbonne 1912; professor of botany at the University and director of the municipal botanical garden at Caen 1919-1931. 
-**Abbreviated name**: *R. Vig.*
+**Abbreviated name**: *R. Vig.* \[standard form in IPNI: *R.Vig.*\]
 
 #### Herbarium and types
 

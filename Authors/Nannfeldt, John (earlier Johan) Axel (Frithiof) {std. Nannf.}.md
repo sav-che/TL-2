@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33355776) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 689](https://www.biodiversitylibrary.org/page/33355776) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6853-1), [Wikidata](https://www.wikidata.org/wiki/Q2330447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nannfeldt, John \[earlier Johan\] Axel \[Frithiof\] (1904-x), Swedish botanist; Dr. phil. Uppsala 1932; from 1939-1970 director of the Botanical Museum at Uppsala. 
-**Abbreviated name**: *Nannf.*
+**Abbreviated name**: *Nannf.* \[standard form in IPNI: *Nannf.*\]
 
 #### Herbarium and types
 

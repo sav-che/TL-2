@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33355227) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33355227) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5700-1), [Wikidata](https://www.wikidata.org/wiki/Q153159). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lönnrot, Elias (1802-1884), Finnish botanist. 
-**Abbreviated name**: *Lönnrot*
+**Abbreviated name**: *Lönnrot* \[standard form in IPNI: *Lönnrot*\]
 
 #### Herbarium and types
 

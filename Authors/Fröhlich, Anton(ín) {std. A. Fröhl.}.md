@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-11-24 13:24:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33258539) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33258539) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2929-1), [Wikidata](https://www.wikidata.org/wiki/Q21513582). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fröhlich, Anton\[ín\] (1882-1969), Czech botanist, born 1 Jun 1882 in Hradišti (Moravia) where he attended gymnasium and studied natural sciences, Dr. fil. 1911, prof. in gymnasium in Mikulově 1920-1944, died 18 Feb 1969 in Znojmo (Moravia). 
-**Abbreviated name**: *A. Fröhl.*
+**Abbreviated name**: *A. Fröhl.* \[standard form in IPNI: *A.Fröhl.*\]
 
 #### Herbarium and types
 

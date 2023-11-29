@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/page/33069103) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 861](https://www.biodiversitylibrary.org/page/33069103) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5525-1), [Wikidata](https://www.wikidata.org/wiki/Q21518729). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leuba, Fritz (1848-1910) Swiss pharmacist and mycologist at Corcelles near Neuchâtel. 
-**Abbreviated name**: *Leuba*
+**Abbreviated name**: *Leuba* \[standard form in IPNI: *Leuba*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33355618) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33355618) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6542-1), [Wikidata](https://www.wikidata.org/wiki/Q6000689). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moebius, Martin August Johannes (1859-1946), German botanist; Dr. phil. Heidelberg 1883, habil. 1887; at Heidelberg 1887-1893, from 1893-1933 librarian and botanist at the Forschungsinstitut Senckenberg, and director of the Senckenberg botanical garden (1893-1928), Frankfurt a.M.; professor of botany at Frankfurt 1914-1925; from 1939 at Homburg v.d. Höhe. 
-**Abbreviated name**: *Moebius*
+**Abbreviated name**: *Moebius* \[standard form in IPNI: *Moebius*\]
 
 #### Herbarium and types
 

@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33265703) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 26](https://www.biodiversitylibrary.org/page/33265703) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17032-1), [Wikidata](https://www.wikidata.org/wiki/Q2138005). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cesati, Vincenzo barone de {std. Ces.}|first entry]] for this author
 
 ### Author
 
 \* Cesati, Vincenzo barone de (1806-1883), Italian (Milano born) botanist and biohistorian, educated at the Theresiana College at Vienna (law and natural science), some time at Milano again, Brescia, Genova, refugee in Piemont, later moved to Vercelli, Pisa, ultimately, 1868-1883, professor of botany at the University of Napoli and director of the Napoli botanical garden. 
-**Abbreviated name**: *Ces.*
+**Abbreviated name**: *Ces.* \[standard form in IPNI: *Ces.*\]
 
 #### Herbarium and types
 

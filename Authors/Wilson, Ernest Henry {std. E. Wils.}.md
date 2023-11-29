@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33066690) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33066690) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11732-1), [Wikidata](https://www.wikidata.org/wiki/Q1356381). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilson, Ernest Henry (1876-1930), British-born American botanist, plant collector and traveller; Kew gardener 1897-1899; collected in China for Veitch & Son 1899-1902, 1903-1905; to U.S. 1906, collecting in China on behalf of Arnold Arboretum 1906-1909, 1910-1911, in Japan 1914, 1917-1919; assistant director Arnold Arboretum 1919-1927, in Far East, India and Africa 1920-1921; keeper Arnold Arboretum 1927-1930, "Chinese Wilson", Sc.D. h.c. Trinity College, Hartford, Conn. 
-**Abbreviated name**: *E. Wils.*
+**Abbreviated name**: *E. Wils.* \[standard form in IPNI: *E.H.Wilson*\]
 
 #### Herbarium and types
 

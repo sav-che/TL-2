@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33066718) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33066718) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13020-1), [Wikidata](https://www.wikidata.org/wiki/Q2886110). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winkler, Moritz (1812-1889), German (Silesian) land steward and factory manager at Giessmanndorf nr Neisse in Silesia; active amateur floristic botanist; brother of \[K.G.\] A. Winkler; travelled and collected in Central and Southern Europe; assembled a large and rich European herbarium. 
-**Abbreviated name**: *M. Winkl.*
+**Abbreviated name**: *M. Winkl.* \[standard form in IPNI: *M.Winkl.*\]
 
 #### Herbarium and types
 

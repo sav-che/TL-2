@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33189841) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33189841) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7912-1), [Wikidata](https://www.wikidata.org/wiki/Q348325). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Powell, John Wesley (1834-1902), American naturalist, geologist, ethnologist, and administrator; major of artillery, U.S. army, in Civil War 1861-1865; after the war professor of geology in Illinois Wesleyan College and Illinois Normal Univ.; exploring the Rocky Mountains from 1867; from 1871-1879 head of the Survey of the Rocky Mountains; director U.S. Bureau of Ethnology 1879-1902; also Director U.S. Geol. Survey 1881-1894. 
-**Abbreviated name**: *J.W. Powell*
+**Abbreviated name**: *J.W. Powell* \[standard form in IPNI: *J.W.Powell*\]
 
 #### Herbarium and types
 

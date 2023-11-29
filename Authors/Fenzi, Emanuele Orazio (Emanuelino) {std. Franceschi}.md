@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33259634) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33259634) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/13542-1), [Wikidata](https://www.wikidata.org/wiki/Q5864759). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Franceschi (Francheschi), Francesco {std. Franceschi} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fenzi, Emanuele Orazio \['Emanuelino'\] (1843-1924) \[published in America from 1893-1913 as Franceschi, Francesco\], Italian lawyer, banker and horticulturalist, born 12 Mar 1843 in Florence, Dr. of Law 1864 Univ. of Pisa, first secretary, then president of the Royal Tuscan Society of Horticulture, emigrated (fled?) to Calif. (Los Angeles) in 1893 and renamed himself Francesco Franceschi (possibly to cover his role in the failure of a family bank), settled in Santa Barbara, Calif. and started a nursery business that greatly influenced Californian horticulture, left Calif. in 1913 for a position offered by the Italian government to establish an experimental garden in Libya, Frank N. Meyer Memorial Medal 1922, died 5 Nov 1924 in Tripoli. 
-**Abbreviated name**: *Franceschi*
+**Abbreviated name**: *Franceschi* \[standard form in IPNI: *Franceschi*\]
 
 #### Herbarium and types
 

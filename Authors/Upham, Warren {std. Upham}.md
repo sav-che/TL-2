@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33212646) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33212646) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10992-1), [Wikidata](https://www.wikidata.org/wiki/Q7970563). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Upham, Warren (1850-1934), American geologist, librarian, archeologist and botanist; A.B. Dartmouth Coll. 1871; with the geological survey of New Hampshire 1874-1878, with the geological survey of Minnesota 1879-1885, the United States Geological Survey 1893-1895; secretary and librarian of the Minnesota Historical Society 1895-1914, archeologist to this Society 1914-1933. 
-**Abbreviated name**: *Upham*
+**Abbreviated name**: *Upham* \[standard form in IPNI: *Upham*\]
 
 #### Herbarium and types
 

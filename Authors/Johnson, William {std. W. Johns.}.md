@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33068692) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33068692) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4517-1), [Wikidata](https://www.wikidata.org/wiki/Q21516164). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Johnson, William (1844-1919), British lichenologist, Primitive Methodist minister in Yorkshire (1864-1908). 
-**Abbreviated name**: *W. Johns.*
+**Abbreviated name**: *W. Johns.* \[standard form in IPNI: *W.Johnson*\]
 
 #### Herbarium and types
 

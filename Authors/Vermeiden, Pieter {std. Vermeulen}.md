@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33212755) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33212755) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11143-1), [Wikidata](https://www.wikidata.org/wiki/Q5841576). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vermeiden, Pieter (1899-1981), Dutch orchidologist and school teacher; studied biology at the University of Amsterdam concurrent with his teaching 1930-1935; high school teacher at Doetinchem and Amsterdam; Dr. phil. Univ. Amsterdam 1947; from 1947 curator of the herbarium at the Hugo de Vries Laboratory, Amsterdam; lecturer (privaat docent) for didactics and methodology Univ. Amsterdam 1953, in Indonesia 1956; after his retirement in 1969 continuing his work on orchids. 
-**Abbreviated name**: *Vermeulen*
+**Abbreviated name**: *Vermeulen* \[standard form in IPNI: *Verm.*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33120161) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33120161) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/148-1), [Wikidata](https://www.wikidata.org/wiki/Q21505081). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Allen, Guy Oldfield {std. G.O. Allen} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Allen, Guy Oldfield (1883-1963), British algologist. 
-**Abbreviated name**: *G.O. Allen*
+**Abbreviated name**: *G.O. Allen* \[standard form in IPNI: *G.O.Allen*\]
 
 #### Herbarium and types
 

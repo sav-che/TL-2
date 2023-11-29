@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33355502) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 415](https://www.biodiversitylibrary.org/page/33355502) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6353-1), [Wikidata](https://www.wikidata.org/wiki/Q21393819). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Menezes (Meneses), Carlos Azevedo de (1863-1928), Portuguese botanist; municipal librarian at Funchal, Madeira. 
-**Abbreviated name**: *Menezes*
+**Abbreviated name**: *Menezes* \[standard form in IPNI: *Menezes*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33333735) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 596](https://www.biodiversitylibrary.org/page/33333735) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9632-1), [Wikidata](https://www.wikidata.org/wiki/Q67462). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sievers, Wilhelm (1860-1921), German (Hamburg), geographer and explorer; Dr. phil. Göttingen 1882; lecturer for geography Univ. Würzburg 1887, e.o. prof. id. 1890; ordinary professor of geography Univ. Giessen 1903-1921. 
-**Abbreviated name**: *W. Sievers*
+**Abbreviated name**: *W. Sievers* \[standard form in IPNI: *W.Siev.*\]
 
 #### Herbarium and types
 

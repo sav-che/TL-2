@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33120446) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33120446) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1108-1), [Wikidata](https://www.wikidata.org/wiki/Q21341402). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Breidler, Johann {std. Breidl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Breidler, Johann (1828-1913), Austrian architect and botanist at Vienna. 
-**Abbreviated name**: *Breidl.*
+**Abbreviated name**: *Breidl.* \[standard form in IPNI: *Breidl.*\]
 
 #### Herbarium and types
 

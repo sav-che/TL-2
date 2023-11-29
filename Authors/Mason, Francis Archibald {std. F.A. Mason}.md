@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33355436) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33355436) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6193-1), [Wikidata](https://www.wikidata.org/wiki/Q21520081). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mason, Francis Archibald (1878-1936), British professional chemist and naturalist; director of the biological laboratories of Murphy and Co., Headingley, Leeds. 
-**Abbreviated name**: *F. Mason*
+**Abbreviated name**: *F. Mason* \[standard form in IPNI: *F.A.Mason*\]
 
 #### Herbarium and types
 

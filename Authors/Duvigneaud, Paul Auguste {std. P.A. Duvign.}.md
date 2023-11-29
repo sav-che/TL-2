@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33260212) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33260212) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18318-1), [Wikidata](https://www.wikidata.org/wiki/Q3371153). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Duvigneaud, Paul Auguste (1913-x), Belgian botanist, Dr. en Sci. Bot., professor of botany at the "Université libre de Bruxelles", director of the laboratory of systematic botany and phytogeography. 
-**Abbreviated name**: *P.A. Duvign.*
+**Abbreviated name**: *P.A. Duvign.* \[standard form in IPNI: *P.A.Duvign.*\]
 
 #### Herbarium and types
 

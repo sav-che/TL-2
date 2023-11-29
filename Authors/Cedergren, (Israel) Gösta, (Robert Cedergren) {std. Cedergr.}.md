@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33265680) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33265680) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1474-1), [Wikidata](https://www.wikidata.org/wiki/Q21508079). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cedergren, \[Israel\] Gösta, \[Robert Cedergren\] (1888-1954), Swedish botanist, born at Tillinge in Upland, educated at a "Privatgymnasium" in Uppsala, studied at the University of Uppsala 1908, fil. mag. 1917, from 1911 assistant at the Uppsala Botanical Institute, teacher at various schools, e.g. at Karlstad, Malmö, ultimately at Karlshamn 1936-1949. 
-**Abbreviated name**: *Cedergr.*
+**Abbreviated name**: *Cedergr.* \[standard form in IPNI: *Cedergr.*\]
 
 #### Herbarium and types
 

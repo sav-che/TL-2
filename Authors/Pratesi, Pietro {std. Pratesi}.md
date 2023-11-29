@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33189854) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33189854) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7932-1), [Wikidata](https://www.wikidata.org/wiki/Q36654653). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pratesi, Pietro (*fl*. 1800), Italian botanist; curator of the Pavia botanical garden 1800-1806. 
-**Abbreviated name**: *Pratesi*
+**Abbreviated name**: *Pratesi* \[standard form in IPNI: *Pratesi*\]
 
 #### Herbarium and types
 

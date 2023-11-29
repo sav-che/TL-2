@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33212107) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33212107) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10255-1), [Wikidata](https://www.wikidata.org/wiki/Q77647). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sturm, Jacob (1771-1848), German botanical artist and engraver at Nürnberg; one of the founders of the Naturhistorische Gesellschaft Nürnberg; Dr. phil. h.c. Breslau 1846. 
-**Abbreviated name**: *Sturm*
+**Abbreviated name**: *Sturm* \[standard form in IPNI: *Sturm*\]
 
 #### Herbarium and types
 

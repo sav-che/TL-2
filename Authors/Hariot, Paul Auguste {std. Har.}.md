@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33068294) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33068294) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3658-1), [Wikidata](https://www.wikidata.org/wiki/Q2330556). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hariot, Paul Auguste (1854-1917), French naturalist; pupil of Bornet; from 1882 active at the cryptogamic department of the Muséum d'histoire naturelle, Paris; botanist on the Mission to Cape Horn on "la Romanche", 1883. 
-**Abbreviated name**: *Har.*
+**Abbreviated name**: *Har.* \[standard form in IPNI: *Har.*\]
 
 #### Herbarium and types
 

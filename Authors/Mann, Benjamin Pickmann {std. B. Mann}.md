@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33355364) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33355364) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6069-1), [Wikidata](https://www.wikidata.org/wiki/Q2896195). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mann, Benjamin Pickmann (1848-1926), American scientific bibliographer and entomologist; A. B. Harvard 1870; instructor bot. Bowdoin Coll. 1877-1881; asst. entomologist USDA 1881-1886; asst. examiner U.S. Patent Office 1887. 
-**Abbreviated name**: *B. Mann*
+**Abbreviated name**: *B. Mann* \[standard form in IPNI: *B.Mann*\]
 
 #### Herbarium and types
 

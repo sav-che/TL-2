@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33189783) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33189783) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7780-1), [Wikidata](https://www.wikidata.org/wiki/Q21341243). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Poetsch, \[Pötsch\], Ignaz Sigismund (1823-1884), Bohemian-born Austrian botanist and physician; Dr. med. Wien 1849; until 1852 working in various hospitals in Wien; 1852-1854 practicing in Gaming; from 1854-1877 physician (Stifts– und Convictsarzt) at Kremsmünster; from 1875-1884 in retirement at Randegg. 
-**Abbreviated name**: *Poetsch*
+**Abbreviated name**: *Poetsch* \[standard form in IPNI: *Poetsch*\]
 
 #### Herbarium and types
 

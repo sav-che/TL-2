@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33066821) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33066821) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11912-1), [Wikidata](https://www.wikidata.org/wiki/Q117245). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wydler, Heinrich (1800-1883), Swiss botanist; studied medicine and natural sciences in Zürich and Göttingen; sometime teacher at a private school; travelled in the West Indies at the request of A.P. de Candolle 1827; adjunct at the St. Petersburg botanical garden 1828-1830; curator of the de Candolle herbarium 1830-1834; Dr. med. h.c. Basel 1933; high school teacher at Bern 1834, also e.o. prof. botany Bern 1835-1839, 1842-1853, 1857-1874; from 1853 living as private scientist at Bern and Strasbourg. 
-**Abbreviated name**: *Wydl.*
+**Abbreviated name**: *Wydl.* \[standard form in IPNI: *Wydler*\]
 
 #### Herbarium and types
 

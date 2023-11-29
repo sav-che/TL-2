@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33068807) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33068807) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4841-1), [Wikidata](https://www.wikidata.org/wiki/Q21337455). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Klement, Oscar (1897-x), Bohemian lichenologist; pupil of Anders; in Czechoslovakia until 1945; later in Hannover and Kempten. 
-**Abbreviated name**: *Klem.*
+**Abbreviated name**: *Klem.* \[standard form in IPNI: *Klem.*\]
 
 #### Herbarium and types
 

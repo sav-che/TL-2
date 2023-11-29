@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33212813) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33212813) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11240-1), [Wikidata](https://www.wikidata.org/wiki/Q36601391). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vogler, Johann Andreas (*fl*. 1781), German (Hessen) physician; Dr. med. Giessen 1781, later physician at Ems; brother of J.P. Vogler. 
-**Abbreviated name**: *J.A. Vogler*
+**Abbreviated name**: *J.A. Vogler* \[standard form in IPNI: *J.A.Vogler*\]
 
 #### Herbarium and types
 

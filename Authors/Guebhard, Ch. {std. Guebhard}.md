@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33258914) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33258914) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/13485-1), [Wikidata](https://www.wikidata.org/wiki/Q36524890). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Guebhard, Ch. (fl. 1829-1850), Romanian botanist. 
-**Abbreviated name**: *Guebhard*
+**Abbreviated name**: *Guebhard* \[standard form in IPNI: *Guebhard*\]
 
 #### Herbarium and types
 

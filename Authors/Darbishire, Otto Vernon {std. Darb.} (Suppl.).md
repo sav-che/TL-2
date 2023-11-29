@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33259110) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33259110) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17690-1), [Wikidata](https://www.wikidata.org/wiki/Q6054753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Darbishire, Otto Vernon {std. Darb.}|first entry]] for this author
 
 ### Author
 
 \* Darbishire, Otto Vernon (1870-1934), English botanist, born at Conway (N. Wales) 16 Mar 1870, at schools in Dresden and Florence, some time at University College, Bangor and at Oxford (at Balliol under Jowett), B.A. with honours in botany, some years at Kiel, student, "assistant" (with Reinke), Ph.D. Kiel 1898, lecturer in botany at Manchester University 1898-1909, at Armstrong College, Newcastle-upon-Tyne 1919, lecturer 1911 at Botany Dept. Bristol University, 1919 Melville Wills Chair botany until 1934. 
-**Abbreviated name**: *Darb.*
+**Abbreviated name**: *Darb.* \[standard form in IPNI: *Darb.*\]
 
 #### Herbarium and types
 

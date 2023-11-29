@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33212539) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 497](https://www.biodiversitylibrary.org/page/33212539) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27919-1), [Wikidata](https://www.wikidata.org/wiki/Q36558217). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tripp, Frances E. (1868-?), British mycologist. 
-**Abbreviated name**: *Tripp*
+**Abbreviated name**: *Tripp* \[standard form in IPNI: *Tripp*\]
 
 #### Herbarium and types
 

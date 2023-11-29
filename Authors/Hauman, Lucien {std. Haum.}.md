@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33068343) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33068343) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12532-1), [Wikidata](https://www.wikidata.org/wiki/Q6697106). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hauman, Lucien (1880-1965), Belgian botanist; educated at Gembloux; pupil of Leo Errera; at the Faculty of Agronomy in Buenos Aires, Argentina, from 1904-1926; professor of botany at the Université libre de Bruxelles 1928-1950; Dr. agron. h.c. Buenos Aires 1949. 
-**Abbreviated name**: *Haum.*
+**Abbreviated name**: *Haum.* \[standard form in IPNI: *Hauman*\]
 
 #### Herbarium and types
 

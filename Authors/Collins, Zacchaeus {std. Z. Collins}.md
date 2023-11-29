@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33120658) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33120658) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1745-1), [Wikidata](https://www.wikidata.org/wiki/Q15856380). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Collins, Zacchaeus (1764-1831), Quaker merchant, philanthropist, promoter of botany. 
-**Abbreviated name**: *Z. Collins*
+**Abbreviated name**: *Z. Collins* \[standard form in IPNI: *Z.Collins*\]
 
 #### Herbarium and types
 

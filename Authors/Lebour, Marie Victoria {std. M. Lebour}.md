@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33069021) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33069021) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5378-1), [Wikidata](https://www.wikidata.org/wiki/Q21582292). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lebour, Marie Victoria (*fl*. 1925), British naturalist, for some time at the laboratory of the Marine Biological Association of the United Kingdom, Plymouth. 
-**Abbreviated name**: *M. Lebour*
+**Abbreviated name**: *M. Lebour* \[standard form in IPNI: *M.Lebour*\]
 
 #### Collections
 

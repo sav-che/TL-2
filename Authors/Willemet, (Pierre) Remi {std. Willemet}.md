@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33066652) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33066652) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11695-1), [Wikidata](https://www.wikidata.org/wiki/Q1688430). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Willemet, \[Pierre\] Remi (1735-1807), French (Lorraine) botanist, pharmacist, professor of natural history at the medical college and director of the botanical garden at Nancy. 
-**Abbreviated name**: *Willemet*
+**Abbreviated name**: *Willemet* \[standard form in IPNI: *Willemet*\]
 
 #### Herbarium and types
 

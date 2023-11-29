@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33068805) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33068805) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4832-1), [Wikidata](https://www.wikidata.org/wiki/Q15633478). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Klebahn, Heinrich (1859-1942), German mycologist and phytopathologist; Dr. phil. Jena 1884; high school teacher (linguistics) at Bremen 1885-1894, at Hamburg 1894-1899; from 1899-1905 at the Hamburg botanical Garden; from 1905-1930 at the agricultural institute of Bromberg; teaching at Hamburg University 1921-1934. 
-**Abbreviated name**: *Kleb.*
+**Abbreviated name**: *Kleb.* \[standard form in IPNI: *Kleb.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33212552) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33212552) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10853-1), [Wikidata](https://www.wikidata.org/wiki/Q7349665). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Troup, Robert Scott (1874-1939), British silviculturist and botanist; B.Sci. Aberdeen; at Cooper's Hill College as probationer for the Indian Forest service 1894; with the Forest Department Burma 1897; forest economist at the Forest Research Institute, Dehra Dun 1905; assistant inspector general of forests 1917-1919; controller of timber supplies 1917-1918; professor of forestry at Oxford 1920-1939. 
-**Abbreviated name**: *Troup*
+**Abbreviated name**: *Troup* \[standard form in IPNI: *Troup*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33121006) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 875](https://www.biodiversitylibrary.org/page/33121006) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2897-1), [Wikidata](https://www.wikidata.org/wiki/Q77670). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fresenius, (Johann Baptist) Georg (Wolfgang) {std. Fresen.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fresenius, Johann Baptist Georg Wolfgang (1808-1866), German physician and naturalist in Frankfurt. 
-**Abbreviated name**: *Fresen.*
+**Abbreviated name**: *Fresen.* \[standard form in IPNI: *Fresen.*\]
 
 #### Herbarium and types
 

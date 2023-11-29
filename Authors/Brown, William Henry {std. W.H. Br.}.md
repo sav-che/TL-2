@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33266450) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33266450) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/39274-1), [Wikidata](https://www.wikidata.org/wiki/Q21506552). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brown, William Henry (1884-1939), American botanist, studied at Richmond College and at Johns Hopkins University, Dr. phil. 1910, at Michigan Exp. Station 1910-1911, from 1911 employed with the Bureau of Science at Manila, Philippine Islands, director id. 1924-1933, also professor of botany at the University of the Philippines, in retirement at Manila 1933-1937, in charge of the Botanical Laboratory and the Botanical Garden at Johns Hopkins University, Baltimore, from Feb 1938. 
-**Abbreviated name**: *W.H. Br.*
+**Abbreviated name**: *W.H. Br.* \[standard form in IPNI: *W.H.Br.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33259666) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33259666) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18752-1), [Wikidata](https://www.wikidata.org/wiki/Q21512909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ferraris, Teodoro (1874-1943), Italian mycologist and plant pathologist, born 23 Apr 1874 in Crescentino (Vercelli), attended gymnasium in Chivasso and the lyceum of Ivrea, studied at the Univ. of Rome until 1898, asst., Cattedra de Storia Naturale e Patologia Vegetale, Arellino 1898-1900, Dr. Sci. Nat. 1900, Prof. of botany and plant pathology, Alba (Cueno) 1909, died 30 Jul 1943 in Verrua Savoia (Torino). 
-**Abbreviated name**: *Ferraris*
+**Abbreviated name**: *Ferraris* \[standard form in IPNI: *Ferraris*\]
 
 #### Herbarium and types
 

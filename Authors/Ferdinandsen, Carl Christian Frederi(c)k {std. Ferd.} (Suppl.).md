@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33259641) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33259641) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18722-1), [Wikidata](https://www.wikidata.org/wiki/Q5728130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ferdinandsen, Carl Christian Frederic(k) {std. Ferd.}|first entry]] for this author
 
 ### Author
 
 \* Ferdinandsen, Carl Christian Frederi\[c\]k (1879-1944), Danish mycologist, born 18 \[not 8\] Feb 1879 in Valsølille, Sorø, attended gymnasium and later the Univ. \[Copenhagen?\], asst. at the Botanical Museum 1906-1916, Mag. scient. (bot.) 1909, botanist at the Inst. for Plant Pathology 1917-1919, Dr. phil. 1918, Prof. Plant Pathology 1920, died 28 Mar 1944 in Copenhagen. 
-**Abbreviated name**: *Ferd.*
+**Abbreviated name**: *Ferd.* \[standard form in IPNI: *Ferd.*\]
 
 #### Herbarium and types
 

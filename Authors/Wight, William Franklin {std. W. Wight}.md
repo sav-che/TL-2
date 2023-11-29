@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33066622) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33066622) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11659-1), [Wikidata](https://www.wikidata.org/wiki/Q433419). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wight, William Franklin (1874-1954), American botanist; B.S. Mich. Agric. Coll. 1894; A.M. Stanford 1900; assistant for systematic botany Stanford 1899-1900; with USDA from 1900 working on agricultural exploration, fruit breeding, systematic pomology and the flora of Alaska. 
-**Abbreviated name**: *W. Wight*
+**Abbreviated name**: *W. Wight* \[standard form in IPNI: *W.Wight*\]
 
 #### Herbarium and types
 

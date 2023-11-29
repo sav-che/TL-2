@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33264819) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33264819) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/172-1), [Wikidata](https://www.wikidata.org/wiki/Q21505128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Alten, Johann Wilhelm von {std. J. Alten}|first entry]] for this author
 
 ### Author
 
 \* Alten, Johann Wilhelm von (1770-1854), German pharmacist, botanist and malacologist at Augsburg (Bayern), member of the Regensburgische Botanische Gesellschaft 1807. 
-**Abbreviated name**: *J.W. v. Alten*
+**Abbreviated name**: *J.W. v. Alten* \[standard form in IPNI: *J.Alten*\]
 
 #### Herbarium and types
 

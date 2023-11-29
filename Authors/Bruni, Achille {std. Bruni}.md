@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33266469) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33266469) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/34864-1), [Wikidata](https://www.wikidata.org/wiki/Q21506576). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bruni, Achille (1817-1881), Italian agriculturist, born at Barletta, director of the Orto agrario di Giovinazzo 1851 as well as the botanical garden at Avellino, professor of agriculture at the University of Napoli 1865-1868, professor of agronomy at the Provincial technical Istituto at Bari 1873-1875, from 1875 at Napoli. 
-**Abbreviated name**: *Bruni*
+**Abbreviated name**: *Bruni* \[standard form in IPNI: *Bruni*\]
 
 #### Herbarium and types
 

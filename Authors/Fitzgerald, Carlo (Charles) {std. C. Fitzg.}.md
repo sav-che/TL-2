@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33259732) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33259732) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/20043492-1), [Wikidata](https://www.wikidata.org/wiki/Q88815891). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fitzgerald, Carlo \[Charles\] (1850-1894?), American-born Italian botanist (bryologist), born in Baltimore, Maryland, moved to Italy and collected plants in Elba, Corsica, Tuscany, etc. 
-**Abbreviated name**: *C. Fitzg.*
+**Abbreviated name**: *C. Fitzg.* \[standard form in IPNI: *C.Fitzg.*\]
 
 #### Herbarium and types
 

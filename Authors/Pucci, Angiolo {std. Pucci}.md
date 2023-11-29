@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33189893) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33189893) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8006-1), [Wikidata](https://www.wikidata.org/wiki/Q21395058). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pucci, Angiolo (1851-1935), Italian botanist and horticulturist; professor at the Pomological and Horticultural College at Firenze. 
-**Abbreviated name**: *Pucci*
+**Abbreviated name**: *Pucci* \[standard form in IPNI: *Pucci*\]
 
 #### Herbarium and types
 

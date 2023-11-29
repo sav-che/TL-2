@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33355436) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33355436) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6194-1), [Wikidata](https://www.wikidata.org/wiki/Q11925452). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mason, Herbert Louis (1896-x), American botanist; B.A. Stanford 1922; Ph.D. Berkeley 1932; Mills. coll. 1923-1925; Univ. of Calif. Berkeley, in various functions from 1925. 
-**Abbreviated name**: *H. Mason*
+**Abbreviated name**: *H. Mason* \[standard form in IPNI: *H.Mason*\]
 
 #### Herbarium and types
 

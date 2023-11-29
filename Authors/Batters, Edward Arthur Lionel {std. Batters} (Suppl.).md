@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33265107) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33265107) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/546-1), [Wikidata](https://www.wikidata.org/wiki/Q21505786). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Batters, Edward Arthur Lionel {std. Batters}|first entry]] for this author
 
 ### Author
 
 \* Batters, Edward Arthur Lionel (1860-1907), British phycologist, educated at King's College School, London and Trinity Hall, Cambridge, B.A. (law) 1882, later L.L.B., called to the Bar at Lincoln's Inn, being of independent means turned to the study of British marine algae. 
-**Abbreviated name**: *Batters*
+**Abbreviated name**: *Batters* \[standard form in IPNI: *Batters*\]
 
 #### Herbarium and types
 

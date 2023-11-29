@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33355356) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 269](https://www.biodiversitylibrary.org/page/33355356) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22828-1), [Wikidata](https://www.wikidata.org/wiki/Q4278489). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Malta, Nicolajs (1890-1944), Latvian botanist; Dr. phil. Riga 1927; from 1927 lecturer at the University of Riga; died in Germany. 
-**Abbreviated name**: *Malta*
+**Abbreviated name**: *Malta* \[standard form in IPNI: *Malta*\]
 
 #### Herbarium and types
 

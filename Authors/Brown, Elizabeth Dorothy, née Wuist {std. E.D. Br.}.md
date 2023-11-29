@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-03-29 15:08:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33266440) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33266440) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1188-1), [Wikidata](https://www.wikidata.org/wiki/Q21394325). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brown, Elizabeth Dorothy, née Wuist (1880-?), American botanist, born at Dayton, Ohio, married Forest Buffen Harkness Brown, studied at the University of Michigan, Ph.D. 1912. 
-**Abbreviated name**: *E.D. Br.*
+**Abbreviated name**: *E.D. Br.* \[standard form in IPNI: *E.D.Br.*\]
 
 #### Herbarium and types
 

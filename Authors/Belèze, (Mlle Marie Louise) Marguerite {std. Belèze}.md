@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33265259) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33265259) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/20017706-1), [Wikidata](https://www.wikidata.org/wiki/Q21505905). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Belèze, \[Mlle Marie Louise\] Marguerite (1851-1913), French botanist in Paris. 
-**Abbreviated name**: *Belèze*
+**Abbreviated name**: *Belèze* \[standard form in IPNI: *Belèze*\]
 
 #### Herbarium and types
 

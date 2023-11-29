@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33189769) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33189769) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7764-1), [Wikidata](https://www.wikidata.org/wiki/Q354612). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Plukenet, Leonard (1642-1706), British botanist and physician, probably educated at Westminster School; practicing physician in London, later Queen's botanist to Mary II (wife of Willem III) and superintendent of Hampton Court. 
-**Abbreviated name**: *Pluk.*
+**Abbreviated name**: *Pluk.* \[standard form in IPNI: *Pluk.*\]
 
 #### Herbarium and types
 

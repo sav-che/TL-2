@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33333895) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33333895) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9918-1), [Wikidata](https://www.wikidata.org/wiki/Q3166791). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Soulavie, Jean Louis Giraud (1752-1813), French naturalist diplomate, historian, and clergyman; before the French revolution Roman catholic priest at Nîmes, later vicar at Châlons and deputy for the clergy in the États-généraux; later in Geneva as French resident minister for the Jacobines. 
-**Abbreviated name**: *Soulavie*
+**Abbreviated name**: *Soulavie* \[standard form in IPNI: *Soulavie*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/page/33068886) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/page/33068886) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4953-1), [Wikidata](https://www.wikidata.org/wiki/Q16354687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Konrad, Paul (1877-1948), Swiss geometrician; amateur mycologist and botanical artist at Neuchâtel, from 1902 with the Compagnie des Tramways de Neuchâtel, director 1938-1948; Dr. sci. h.c. Neuchâtel 1932. 
-**Abbreviated name**: *Konrad*
+**Abbreviated name**: *Konrad* \[standard form in IPNI: *Konrad*\]
 
 #### Herbarium and types
 

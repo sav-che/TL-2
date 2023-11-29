@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33258944) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33258944) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19786-1), [Wikidata](https://www.wikidata.org/wiki/Q36613526). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gutner, Lidia Solomonovna (1903-1942), Russian mycologist, born 13 Jun 1903 in Mogilev oblast, Belarus, graduated 1925 Leningrad State Univ., trainee and lab. assist. 1925-1930, Leningrad Agricultural Inst., lab. assist. and ultimately assist. dir. 1930-1932, 1935-1942, Lab. of Systematics, All-Union Inst. of Plant Protection, plant pathologist 1933-1934, All-Union State Association of Pest Control & Agricultural Diseases, died 4 Feb 1942 in Kotlas, U.S.S.R. (now Russia). 
-**Abbreviated name**: *Gutner*
+**Abbreviated name**: *Gutner* \[standard form in IPNI: *Gutner*\]
 
 #### Herbarium and types
 

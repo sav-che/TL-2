@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33355401) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33355401) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6148-1), [Wikidata](https://www.wikidata.org/wiki/Q69554). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Martens, Eduard (Karl) von (1831-1904), German zoologist and botanist, son of Georg Matthias Martens; Dr. med. Tübingen 1855; assistant at the Zoological Museum of the University of Berlin 1856, from 1859 custos; zoologist and botanist on the Prussian expedition on the Thétis (1860-1862); from 1862-1864 travelling in Indonesia; professor of zoology at the University of Berlin 1874, interim and later second director of the Zoological Museum from 1883; Geheimrath 1898. 
-**Abbreviated name**: *E. Martens*
+**Abbreviated name**: *E. Martens* \[standard form in IPNI: *E.Martens*\]
 
 #### Herbarium and types
 

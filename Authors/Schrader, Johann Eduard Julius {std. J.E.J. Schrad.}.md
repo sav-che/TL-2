@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33333460) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33333460) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9249-1), [Wikidata](https://www.wikidata.org/wiki/Q21608403). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schrader, Johann Eduard Julius (1809-1898), German (Berlin/Prussian) librarian and botanist in Berlin; Dr. phil. Bonn 1834; student of C.F.P. von Martius, J.H. Link and L.C. Treviranus. 
-**Abbreviated name**: *J.E.J. Schrad.*
+**Abbreviated name**: *J.E.J. Schrad.* \[standard form in IPNI: *J.E.J.Schrad.*\]
 
 #### Herbarium and types
 

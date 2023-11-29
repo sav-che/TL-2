@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33355900) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33355900) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7098-1), [Wikidata](https://www.wikidata.org/wiki/Q6005292). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ogata, Masasuke (1883-1944), Japanese botanist. 
-**Abbreviated name**: *Ogata*
+**Abbreviated name**: *Ogata* \[standard form in IPNI: *Ogata*\]
 
 #### Herbarium and types
 

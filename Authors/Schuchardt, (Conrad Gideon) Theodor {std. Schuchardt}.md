@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33333493) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33333493) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12848-1), [Wikidata](https://www.wikidata.org/wiki/Q21608460). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schuchardt, \[Conrad Gideon\] Theodor (1829-1892), German (Silesian) botanist; Dr. phil. Göttingen 1853; high school teacher at Dresden 1856-1857; idem at the agricultural college of Regenwalde (Hinterpommern) 1857-1858; lecturer in botany and director of the botanical garden of the agricultural college of Waldau nr Königsberg 1858-1859; later at Görlitz as founder and owner of a chemical phamaceutical factory. 
-**Abbreviated name**: *Schuchardt*
+**Abbreviated name**: *Schuchardt* \[standard form in IPNI: *Schuch.*\]
 
 #### Herbarium and types
 

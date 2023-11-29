@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33258646) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33258646) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3068-1), [Wikidata](https://www.wikidata.org/wiki/Q21513850). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Geilinger, Gottlieb (1881-1955), Swiss plant-geographer, born 21 Dec 1881, doctorate 1908 Univ. of Zurich, Prof. in the Kantonsschule Winterthur where he died. 
-**Abbreviated name**: *Geil.*
+**Abbreviated name**: *Geil.* \[standard form in IPNI: *Geil.*\]
 
 #### Note
 

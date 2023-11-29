@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33212064) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33212064) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10250-1), [Wikidata](https://www.wikidata.org/wiki/Q4439520). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stuntz, Stephen Conrad (1875-1918), American botanist and bibliographer; B.S. Wisconsin 1899; assistant to library and herbarium Univ. Wisconsin 1895-1902; cataloger Library of Congress 1902-1908; bibliographer Bureau of Soils, U.S.D.A. 1908-1910; botanist, Office of Foreign Seed and Plant Introduction ib. 1910-1918. 
-**Abbreviated name**: *Stuntz*
+**Abbreviated name**: *Stuntz* \[standard form in IPNI: *Stuntz*\]
 
 #### Herbarium and types
 

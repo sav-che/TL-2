@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33120728) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33120728) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1992-1), [Wikidata](https://www.wikidata.org/wiki/Q434331). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Danser, Benedictus Hubertus {std. Danser} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Danser, Benedictus Hubertus (1891-1943), Dutch botanist, pupil of Hugo de Vries, later professor of botany at Groningen. 
-**Abbreviated name**: *Danser*
+**Abbreviated name**: *Danser* \[standard form in IPNI: *Danser*\]
 
 #### Herbarium and types
 

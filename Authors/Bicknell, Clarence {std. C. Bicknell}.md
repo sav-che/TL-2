@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33120342) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33120342) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/772-1), [Wikidata](https://www.wikidata.org/wiki/Q890698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bicknell, Clarence {std. C. Bicknell} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bicknell, Clarence (1842-1918), English born physician, after 1879 in Bordighera, worker on the flora of Liguria. 
-**Abbreviated name**: *C. Bicknell*
+**Abbreviated name**: *C. Bicknell* \[standard form in IPNI: *C.Bicknell*\]
 
 #### Herbarium and types
 

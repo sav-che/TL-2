@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33259507) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33259507) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2611-1), [Wikidata](https://www.wikidata.org/wiki/Q47117000). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fabre, Esprit (1791-1866), French gardener, born 12 Jun 1791 in Agde (Hérault), lived in Agde and published on the culture of vegetables and plants found in the vicinity of his home, died 21 Jun 1866 in Agde. 
-**Abbreviated name**: *E. Fabre*
+**Abbreviated name**: *E. Fabre* \[standard form in IPNI: *E.Fabre*\]
 
 #### Herbarium and types
 

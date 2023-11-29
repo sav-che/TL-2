@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33333850) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33333850) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9837-1), [Wikidata](https://www.wikidata.org/wiki/Q5668989). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Snelling, Lilian (1879-1972), British botanical artist; at the Royal Botanic Garden, Edinburgh 1916-1921; artist and lithographer at the Royal Botanic Gardens, Kew 1922-1952, illustrated e.g. the Botanical Magazine. 
-**Abbreviated name**: *Snelling*
+**Abbreviated name**: *Snelling* \[standard form in IPNI: *Snelling*\]
 
 #### Herbarium and types
 

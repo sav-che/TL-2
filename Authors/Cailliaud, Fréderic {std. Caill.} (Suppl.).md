@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33266607) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33266607) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1350-1), [Wikidata](https://www.wikidata.org/wiki/Q967538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cailliaud, Frédéric {std. Caill.}|first entry]] for this author
 
 ### Author
 
 \* Cailliaud, Fréderic (1787-1869), French traveller and mineralogist, born in Nantes, studied mineralogy, went to Paris 1809, sent out to Egypt exploring upper Egypt 1815, later sent out on a further archeological expedition to the oasis Siouah and Nubie, curator of the Musée d'histoire naturelle in Nantes from 1836. 
-**Abbreviated name**: *Caill.*
+**Abbreviated name**: *Caill.* \[standard form in IPNI: *Caill.*\]
 
 #### Herbarium and types
 

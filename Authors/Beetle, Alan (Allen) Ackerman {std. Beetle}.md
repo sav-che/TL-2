@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-10-28 20:46:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33265239) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33265239) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/613-1), [Wikidata](https://www.wikidata.org/wiki/Q4706055). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Beetle, Alan \[Allen\] Ackerman (1913-x), American botanist and collector; Dr. phil. Berkeley (Calif.) 1941; agrostologist in the College of Agriculture of the University of Wyoming. 
-**Abbreviated name**: *Beetle*
+**Abbreviated name**: *Beetle* \[standard form in IPNI: *Beetle*\]
 
 #### Herbarium and types
 

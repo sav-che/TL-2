@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33266567) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33266567) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16746-1), [Wikidata](https://www.wikidata.org/wiki/Q21506703). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Burrell, William Holmes (1865-1945), Britisch (London born) pharmacist and biologist, lived in Yorkshire 1914-1945, curator of the Ingham Herbarium, Leeds University. 
-**Abbreviated name**: *Burrell*
+**Abbreviated name**: *Burrell* \[standard form in IPNI: *Burrell*\]
 
 #### Herbarium and types
 

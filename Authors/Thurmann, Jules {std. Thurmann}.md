@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33212379) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33212379) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10650-1), [Wikidata](https://www.wikidata.org/wiki/Q3188942). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thurmann, Jules (1804-1855), Swiss botanist (Alsatian-born) and school teacher; trained to be an army engineer at Thun, turning to natural history in 1830, especially dedicating himself to the geology of the Jura; from 1832 teacher of mathematics and natural history at Porrentruy (Brunntrut), from 1837 as director of the local teacher's college. 
-**Abbreviated name**: *Thurmann*
+**Abbreviated name**: *Thurmann* \[standard form in IPNI: *Thurm.*\]
 
 #### Herbarium and types
 

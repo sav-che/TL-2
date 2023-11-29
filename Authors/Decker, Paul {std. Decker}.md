@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33259187) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33259187) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2072-1), [Wikidata](https://www.wikidata.org/wiki/Q21510112). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Decker, Paul (1867-x), German schoolteacher born 13 Nov 1867 in Griesel (Kreis Krossen), educated at the seminar at Neuzelle, teaching at the gymnasium at Forst (Lausitz). 
-**Abbreviated name**: *Decker*
+**Abbreviated name**: *Decker* \[standard form in IPNI: *Decker*\]
 
 #### Herbarium and types
 

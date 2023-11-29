@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33266473) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33266473) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/38034-1), [Wikidata](https://www.wikidata.org/wiki/Q21506582). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bruns, Ferdinand Carl August (1869-?), German (Hamburg born) botanist and teacher, studied at the Hamburg teachers college until 1890, teacher at general schools and the secondary school at the Holstentor, Hamburg, teacher at the German school in Teheran 1908, studied at the University of Hamburg 1921-1928 (botany, zoology and geography), teacher at the Wilhelm-Gymnasium Hamburg 1927, Dr. phil. Hamburg 1929. 
-**Abbreviated name**: *Bruns*
+**Abbreviated name**: *Bruns* \[standard form in IPNI: *Bruns*\]
 
 #### Herbarium and types
 

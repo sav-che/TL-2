@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33068839) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33068839) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4915-1), [Wikidata](https://www.wikidata.org/wiki/Q36592569). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koelderer, Johann Georg (*fl*. 1747), German physician; Dr. med. Strasbourg 1748. 
-**Abbreviated name**: *Koeld.*
+**Abbreviated name**: *Koeld.* \[standard form in IPNI: *Koeld.*\]
 
 #### Herbarium and types
 

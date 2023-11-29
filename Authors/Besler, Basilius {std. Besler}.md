@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33120338) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33120338) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/734-1), [Wikidata](https://www.wikidata.org/wiki/Q65027). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Besler, Basilius (1561-1629), German apothecary and botanist. 
-**Abbreviated name**: *Besler*
+**Abbreviated name**: *Besler* \[standard form in IPNI: *Besler*\]
 
 #### Herbarium and types
 

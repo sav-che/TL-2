@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33069085) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 843](https://www.biodiversitylibrary.org/page/33069085) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5475-1), [Wikidata](https://www.wikidata.org/wiki/Q21518663). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lenoble, Félix (1867-1949), French floristic botanist; trained at the teachers College of Saint-Cloud; high school teacher at Rennes and Valence; from 1900-1933 "inspecteur du travail" (factory inspector) at Angoulême, Marseille, Privas, Valence and Dijon. 
-**Abbreviated name**: *Lenoble*
+**Abbreviated name**: *Lenoble* \[standard form in IPNI: *Lenoble*\]
 
 #### Herbarium and types
 

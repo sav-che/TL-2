@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33189893) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33189893) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8007-1), [Wikidata](https://www.wikidata.org/wiki/Q18224739). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Puccinelli, Benedetto Luigi (1808-1850), Italian botanist; professor of botany at Lucca, director of the botanical garden of the University 1833-1850. 
-**Abbreviated name**: *Puccin.*
+**Abbreviated name**: *Puccin.* \[standard form in IPNI: *Puccin.*\]
 
 #### Herbarium and types
 

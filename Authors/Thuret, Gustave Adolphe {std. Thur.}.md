@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33212377) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33212377) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10649-1), [Wikidata](https://www.wikidata.org/wiki/Q1556688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thuret, Gustave Adolphe (1817-1875), French botanist (phycologist) of private means; studied law in Paris; Lic. droit. 1838, devoting himself to botanical research after having served for a short time as attaché to the French embassy in Constantinople 1840-1841; in Rentilly nr Paris until 1847, at Versailles 1847-1852, at Cherbourg 1852-1856; from 1856-1875 at Cap d'Antibes (Villa Thuret) collaborating with J.B.E. Bornet. 
-**Abbreviated name**: *Thur.*
+**Abbreviated name**: *Thur.* \[standard form in IPNI: *Thur.*\]
 
 #### Herbarium and types
 

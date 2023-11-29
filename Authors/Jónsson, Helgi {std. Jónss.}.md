@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33068702) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33068702) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4548-1), [Wikidata](https://www.wikidata.org/wiki/Q9002441). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jónsson, Helgi (1867-1925), Icelandic algologist. 
-**Abbreviated name**: *Jónss.*
+**Abbreviated name**: *Jónss.* \[standard form in IPNI: *Jónss.*\]
 
 #### Herbarium and types
 

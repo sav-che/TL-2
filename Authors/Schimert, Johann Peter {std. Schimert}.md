@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33333299) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33333299) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9087-1), [Wikidata](https://www.wikidata.org/wiki/Q36598731). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schimert, Johann Peter (*fl*. 1776), Transylvanian botanist; Dr. med. Tyrnau 1776. 
-**Abbreviated name**: *Schimert*
+**Abbreviated name**: *Schimert* \[standard form in IPNI: *Schimert*\]
 
 #### Herbarium and types
 

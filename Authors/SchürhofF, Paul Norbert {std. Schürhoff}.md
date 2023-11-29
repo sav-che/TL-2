@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33333501) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33333501) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9281-1), [Wikidata](https://www.wikidata.org/wiki/Q21392072). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 SchürhofF, Paul Norbert (1878-1939), German (Westphalian) botanist (cytologist) and entomologist; Dr. phil. Bonn 1905; lecturer ("Privat-Docent") in botany at the University of Berlin from 1924. 
-**Abbreviated name**: *Schürhoff*
+**Abbreviated name**: *Schürhoff* \[standard form in IPNI: *Schürhoff*\]
 
 #### Herbarium and types
 

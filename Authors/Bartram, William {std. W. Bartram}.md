@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33120263) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33120263) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/520-1), [Wikidata](https://www.wikidata.org/wiki/Q18243). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bartram, William {std. W. Bartram} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bartram, William (1739-1823), American botanist at Philadelphia, son of John Bartram. 
-**Abbreviated name**: *W. Bartram*
+**Abbreviated name**: *W. Bartram* \[standard form in IPNI: *W.Bartram*\]
 
 #### Herbarium and types
 

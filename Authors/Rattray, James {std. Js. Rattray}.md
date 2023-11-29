@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33190056) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33190056) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8159-1), [Wikidata](https://www.wikidata.org/wiki/Q47125033). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rattray, James (*fl*. 1835), Scottish botanist. 
-**Abbreviated name**: *Js. Rattray*
+**Abbreviated name**: *Js. Rattray* \[standard form in IPNI: *J.Rattray*\]
 
 #### Herbarium and types
 

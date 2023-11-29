@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/page/33190472) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/page/33190472) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8749-1), [Wikidata](https://www.wikidata.org/wiki/Q5877754). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Russ, Georg Philipp (*fl*. 1868), German botanist; high school teacher at Hanau. 
-**Abbreviated name**: *Russ*
+**Abbreviated name**: *Russ* \[standard form in IPNI: *Russ*\]
 
 #### Herbarium and types
 

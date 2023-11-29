@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33266013) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33266013) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1787-1), [Wikidata](https://www.wikidata.org/wiki/Q18534138). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cooper, Daniel {std. Cooper}|first entry]] for this author
 
 ### Author
 
 \* Cooper, Daniel, A. (1817?-1842), British naturalist and medical Student, associate Linn. Soc. 1837, curator of the botanical Society of London 1837-1839, assistant Zoological Department of the British Museum 1839-1841, assistant-surgeon in the army 1842. 
-**Abbreviated name**: *Cooper*
+**Abbreviated name**: *Cooper* \[standard form in IPNI: *Cooper*\]
 
 #### Herbarium and types
 

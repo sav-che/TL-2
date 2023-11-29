@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33333507) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33333507) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/14935-1), [Wikidata](https://www.wikidata.org/wiki/Q373452). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schultes, Julius Hermann (1820-1887), German (Bavarian) botanist; son of J.A. Schultes (the second named Julius Hermann sic); Dr. med. Landshut 1843; assistant at the Rijksherbarium Leiden with Blume 1843-1852; assistant with C.F.P. von Martius 1852, active as assistant physician in München 1854; assistant at the Royal Herbarium München 1854-1887. 
-**Abbreviated name**: *J.H. Schult. II*
+**Abbreviated name**: *J.H. Schult. II* \[standard form in IPNI: *J.H.Schult.bis*\]
 
 #### Note
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33355400) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33355400) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22941-1), [Wikidata](https://www.wikidata.org/wiki/Q4002954). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Martelli, Ugolino (1860-1934), Italian botanist, "gentiluomo di nobilissimo casato", hence independent, at Pisa and Florence; founder of Webbia. (1905). 
-**Abbreviated name**: *Martelli*
+**Abbreviated name**: *Martelli* \[standard form in IPNI: *Martelli*\]
 
 #### Herbarium and types
 

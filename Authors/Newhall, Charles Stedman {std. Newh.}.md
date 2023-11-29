@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33355823) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33355823) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6949-1), [Wikidata](https://www.wikidata.org/wiki/Q21522112). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Newhall, Charles Stedman (1842-1935), American clergyman and dendrologist; BA. Amherst 1869, MA 1892; studied at Union Theological Seminary; filled various pastorates; ultimately superintendent of the forest reserves of Northern California. 
-**Abbreviated name**: *Newh.*
+**Abbreviated name**: *Newh.* \[standard form in IPNI: *Newhall*\]
 
 #### Herbarium and types
 

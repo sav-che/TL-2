@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/page/33333915) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 776](https://www.biodiversitylibrary.org/page/33333915) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9953-1), [Wikidata](https://www.wikidata.org/wiki/Q21609269). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spatzier, Johann \[Jan\] (1806-1883), Austrian-Silesian (Moravian) naturalist and pharmacist at Jägerndorf (Krnov) 1835-1883. 
-**Abbreviated name**: *Spatzier*
+**Abbreviated name**: *Spatzier* \[standard form in IPNI: *Spatzier*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-07-31 09:29:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33068734) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33068734) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4627-1), [Wikidata](https://www.wikidata.org/wiki/Q5484291). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kamiénski, Frans (Franciszek) (1851-1912), Polish botanist, sometime director of the Odessa botanical garden. 
-**Abbreviated name**: *Kamiénski*
+**Abbreviated name**: *Kamiénski* \[standard form in IPNI: *Kamieński*\]
 
 #### Herbarium and types
 

@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-09-06 05:14:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33120842) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33120842) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2406-1), [Wikidata](https://www.wikidata.org/wiki/Q703990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Durieu de Maisonneuve, Michel-Charles {std. Durieu} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Durieu de Maisonneuve, Michel Charles (1796-1878), French botanist at Bordeaux. 
-**Abbreviated name**: *Durieu*
+**Abbreviated name**: *Durieu* \[standard form in IPNI: *Durieu*\]
 
 #### Herbarium and types
 

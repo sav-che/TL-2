@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33212793) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33212793) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11214-1), [Wikidata](https://www.wikidata.org/wiki/Q3189320). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Virey, Jules-Joseph (1775-1846), French naturalist and pharmacist; military pharmacist 1794-1813; from 1804-1813 as acting chief pharmacist at the Val-de-Grâce hospital, Paris; M.D. Paris 1814; lecturer at the Athenée de Paris 1814-1815; sometime representative for the Haute-Marne in the Chambre des Députés. 
-**Abbreviated name**: *Virey*
+**Abbreviated name**: *Virey* \[standard form in IPNI: *Virey*\]
 
 #### Herbarium and types
 

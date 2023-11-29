@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33212064) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33212064) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10251-1), [Wikidata](https://www.wikidata.org/wiki/Q21609980). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stupper, Carl \[Karl\] (1808-1874), Austrian physician, pharmacist and botanist at Vienna; Mag. pharm. chem. 1834; Dr. med. Wien 1842. 
-**Abbreviated name**: *Stupper*
+**Abbreviated name**: *Stupper* \[standard form in IPNI: *Stupper*\]
 
 #### Herbarium and types
 

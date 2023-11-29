@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33189799) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33189799) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7809-1), [Wikidata](https://www.wikidata.org/wiki/Q12017426). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Polívka, Frantisek (1860-1923), Czech botanist; high school teacher at Olomouc (Olmütz). 
-**Abbreviated name**: *Polívka*
+**Abbreviated name**: *Polívka* \[standard form in IPNI: *Polívka*\]
 
 #### Herbarium and types
 

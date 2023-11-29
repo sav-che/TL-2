@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33264876) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33264876) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/14303-1), [Wikidata](https://www.wikidata.org/wiki/Q3749571). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ardissone, Francesco {std. Ardiss.}|first entry]] for this author
 
 ### Author
 
 \* Ardissone, Francesco (1837-1910), Italian botanist, science teacher at the R. Scuola Technica di Acireale 1862, from 1863 id. at the Licea di Fano, from 1870 (or 1871)-1910 professor of botany at the Scuola superiore di Agricoltura di Milano as well as director of the Botanical Garden at Brera (Hortus braidensis). 
-**Abbreviated name**: *Ardiss.*
+**Abbreviated name**: *Ardiss.* \[standard form in IPNI: *Ardiss.*\]
 
 #### Herbarium and types
 

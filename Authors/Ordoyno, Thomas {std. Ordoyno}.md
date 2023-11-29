@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33355933) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33355933) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7161-1), [Wikidata](https://www.wikidata.org/wiki/Q36690613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ordoyno, Thomas (*fl*. 1790s-1810s), British nurseryman and seedsman of Newark-on-Trent. 
-**Abbreviated name**: *Ordoyno*
+**Abbreviated name**: *Ordoyno* \[standard form in IPNI: *Ordoyno*\]
 
 #### Herbarium and types
 

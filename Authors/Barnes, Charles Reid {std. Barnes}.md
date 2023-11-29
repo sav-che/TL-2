@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33120254) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33120254) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/31339-1), [Wikidata](https://www.wikidata.org/wiki/Q289681). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Barnes, Charles Reid {std. Barnes} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Barnes, Charles Reid (1858-1910), American bryologist. 
-**Abbreviated name**: *Barnes*
+**Abbreviated name**: *Barnes* \[standard form in IPNI: *Barnes*\]
 
 #### Herbarium and types
 

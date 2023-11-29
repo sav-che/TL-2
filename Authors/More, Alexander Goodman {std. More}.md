@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33355662) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33355662) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6635-1), [Wikidata](https://www.wikidata.org/wiki/Q15994648). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 More, Alexander Goodman (1830-1895), British botanist, entomologist, and ornithologist; assistant, later curator of the Natural History museum, Dublin (1867-1887). 
-**Abbreviated name**: *More*
+**Abbreviated name**: *More* \[standard form in IPNI: *More*\]
 
 #### Herbarium and types
 

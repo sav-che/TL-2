@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33333550) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 411](https://www.biodiversitylibrary.org/page/33333550) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9337-1), [Wikidata](https://www.wikidata.org/wiki/Q21608513). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schuster, C. (1860-1935), German (East-Prussian) botanical bibliographer; educated at Tilsit Gymnasium; with the pomological institute of Proskau 1878-1880; with a tree-nursery at Trier 1880-1882; from 1882 with a commercial horticultural establishment in Strassburg and various private and public parks in Militsch, Kiel and Potsdam; from ca. 1886 with the Berlin Botanical Garden, bookkeeper for the development of the new garden at Dahlem; from 1907-1926 librarian in Engler's new Botanical Museum. 
-**Abbreviated name**: *C. Schust.*
+**Abbreviated name**: *C. Schust.* \[standard form in IPNI: *C.Schust.*\]
 
 #### Herbarium and types
 

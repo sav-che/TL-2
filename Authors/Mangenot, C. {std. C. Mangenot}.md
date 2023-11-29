@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33355362) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33355362) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6062-1), [Wikidata](https://www.wikidata.org/wiki/Q36527123). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mangenot, C. (*fl*. 1883), French physician and algologist. 
-**Abbreviated name**: *C. Mangenot*
+**Abbreviated name**: *C. Mangenot* \[standard form in IPNI: *C.Mangenot*\]
 
 #### Herbarium and types
 

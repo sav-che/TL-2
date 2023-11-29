@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-06-16 08:29:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33265240) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33265240) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/615-1), [Wikidata](https://www.wikidata.org/wiki/Q4080467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Béguinot, Augusto {std. Bég.}|first entry]] for this author
 
 ### Author
 
 \* Béguinot, Augusto (1875-1940), Italian botanist, educated at the Lyceum-Gymnasium E.Q. Visconti, Rome, studied at the University of Rome 1894-1898, Dr. Sci. nat. 1898, field research on the Italian flora 1898-1900, assistant at the Istituto Botanico, Padova 1901, adjunct id. 1902, docent 1903-1915, director of the institute 1915-1920, also director Botanical Garden Ferrara 1918-1920, professor of botany at the University of Sassari 1921, id. Messina 1923, Modena 1924-1929, regular professor of botany at the University of Genoa and director of the Istituto botanico Hanbury and the Genoa botanical Garden. 
-**Abbreviated name**: *Bég.*
+**Abbreviated name**: *Bég.* \[standard form in IPNI: *Bég.*\]
 
 #### Herbarium and types
 

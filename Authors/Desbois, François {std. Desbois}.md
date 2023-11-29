@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33259260) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 214](https://www.biodiversitylibrary.org/page/33259260) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/13949-1), [Wikidata](https://www.wikidata.org/wiki/Q21510272). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Desbois, François (1827-1902), French horticulturist born at Angers, France, worked at Auderghem, near Brussels, member of the "Société royale de botanique" of Gand \[Gent\], with the "Cercle horticole Van Houtte". 
-**Abbreviated name**: *Desbois*
+**Abbreviated name**: *Desbois* \[standard form in IPNI: *Desbois*\]
 
 #### Herbarium and types
 

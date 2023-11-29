@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33068460) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33068460) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3981-1), [Wikidata](https://www.wikidata.org/wiki/Q21515876). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hobkirk, Charles Codrington Pressick (1837-1902), British (Yorkshire) banker, local historian, and bryologist at Huddersfield and Dewsbury; after retirement in 1897 at Horsforth and Ilkley. 
-**Abbreviated name**: *Hobk.*
+**Abbreviated name**: *Hobk.* \[standard form in IPNI: *Hobk.*\]
 
 #### Herbarium and types
 

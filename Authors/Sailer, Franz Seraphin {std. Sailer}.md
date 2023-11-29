@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1060](https://www.biodiversitylibrary.org/page/33190531) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1060](https://www.biodiversitylibrary.org/page/33190531) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8819-1), [Wikidata](https://www.wikidata.org/wiki/Q21607617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sailer, Franz Seraphin (1792-1847), Austrian botanist and clergyman; ordained 1816; chaplain at Gallneukirchen 1816-1821; curate at Altenberg and ultimately parson at Pöstingberg until 1835; "Konsistorialrath" at Linz 1835-1847. 
-**Abbreviated name**: *Sailer*
+**Abbreviated name**: *Sailer* \[standard form in IPNI: *Sailer*\]
 
 #### Herbarium and types
 

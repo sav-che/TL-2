@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33120611) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 480](https://www.biodiversitylibrary.org/page/33120611) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1489-1), [Wikidata](https://www.wikidata.org/wiki/Q36560711). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chaborski, Gabriela (*fl*. 1918), Swiss microbiologist. 
-**Abbreviated name**: *Chaborski*
+**Abbreviated name**: *Chaborski* \[standard form in IPNI: *Chaborski*\]
 
 #### Herbarium and types
 

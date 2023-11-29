@@ -28,16 +28,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33266404) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 97](https://www.biodiversitylibrary.org/page/33266404) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1161-1), [Wikidata](https://www.wikidata.org/wiki/Q553714). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Britton, Nathaniel Lord {std. Britton}|first entry]] for this author
 
 ### Author
 
 \* Britton, Nathaniel Lord (1859-1934), American botanist, born at New Dorp, Staten Island, sent to the School of Mines College but interested in botany from an early age, joined the Torrey botanical Club 1877, graduated from the School of Mines 1879, assistant in geology at Columbia College 1879, also served as botanist on the Geological Survey of Jersey 1881-1887, instructor in botany and geology at Columbia University 1887, adjunct professor of botany 1890, professor of botany 1891, director-in-chief New York Botanical Garden 1896-1930, married Elizabeth Knight 1885, especially interested in the flora of the West Indies from 1898, D.Sc. Columbia University 1904, L.L.D. University Pittsburgh 1912, leading the American nomenclatural movement ("American Code"). 
-**Abbreviated name**: *Britton*
+**Abbreviated name**: *Britton* \[standard form in IPNI: *Britton*\]
 
 #### Herbarium and types
 

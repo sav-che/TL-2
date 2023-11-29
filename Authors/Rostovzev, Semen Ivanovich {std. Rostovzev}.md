@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/page/33190383) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/page/33190383) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8633-1), [Wikidata](https://www.wikidata.org/wiki/Q4398540). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rostovzev, Semen Ivanovich (ca. 1862-1916); Russian botanist. 
-**Abbreviated name**: *Rostovzev*
+**Abbreviated name**: *Rostovzev* \[standard form in IPNI: *Rostovzev*\]
 
 #### Herbarium and types
 

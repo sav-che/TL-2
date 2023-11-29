@@ -30,14 +30,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33066377) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33066377) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12990-1), [Wikidata](https://www.wikidata.org/wiki/Q730310). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wallich, Nathaniel (b. Nathan Wulff \["Wolff"\] (1786-1854), Danish physician and botanist; studied with M. Vahl at Copenhagen; surgeon at Serampore 1807, working with W. Roxburgh at Calcutta 1809; to Mauritius for health reasons 1812, entered the British colonial medical service at Calcutta 1814; assistant superintendent Calcutta Botanic Garden 1815-1816, superintendent ib. 1817-1846 with interruptions for tours of inspection, European and sick leave; collected in Nepal 1820-1822, Singapore and Penang 1822, in Assam 1833 and the Cape 1842-1844 as well as in India. 
-**Abbreviated name**: *Wallich*
+**Abbreviated name**: *Wallich* \[standard form in IPNI: *Wall.*\]
 
 #### Herbarium and types
 

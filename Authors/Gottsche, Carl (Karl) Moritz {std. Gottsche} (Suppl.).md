@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33258792) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33258792) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19524-1), [Wikidata](https://www.wikidata.org/wiki/Q115257). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gottsche, Carl Moritz {std. Gottsche}|first entry]] for this author
 
 ### Author
 
 \* Gottsche, Carl \[Karl\] Moritz (1808-1892), Danish-born German physician and hepaticologist (noted for superb drawings), born 3 Jul 1808 in Altona (then part of Denmark), graduated in Berlin and Copenhagen as doctor of medicine and surgery in 1831, settled in Altona 1834 to care for his father and practice medicine, after his father's death in 1837 he devoted his life to botany and often traveled (e.g. E. Asia 1885), died 28 Sep 1892 \[of typhus?\] in Altona (then part of Prussia). 
-**Abbreviated name**: *Gottsche*
+**Abbreviated name**: *Gottsche* \[standard form in IPNI: *Gottsche*\]
 
 #### Note
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-12-22 09:30:12.0
 ipni_record_modified: 2004-03-31 04:18:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33266168) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33266168) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/20000035-2), [Wikidata](https://www.wikidata.org/wiki/Q2871138). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cuénod, Auguste Jean (1868-1954), Swiss botanist from Vevey, from 1895 "médecin-oculist" in Tunisia, author of a work on phyllotaxy 1934-1954, and on the Flore de Tunisie, died in Tunis 1954. 
-**Abbreviated name**: *Cuénod*
+**Abbreviated name**: *Cuénod* \[standard form in IPNI: *Cuénod*\]
 
 #### Herbarium and types
 

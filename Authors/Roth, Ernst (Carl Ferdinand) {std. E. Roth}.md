@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 919](https://www.biodiversitylibrary.org/page/33190390) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 919](https://www.biodiversitylibrary.org/page/33190390) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/13095-1), [Wikidata](https://www.wikidata.org/wiki/Q21607456). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roth, Ernst \[Carl Ferdinand\] (1857-1918), German (Berlin/Prussian) botanist and librarian; Dr. phil. Berlin 1883 (student of P. Ascherson); assistant at the Bot. Mus. Berlin 1883-1886; librarian at the Berlin Royal Library (as assistant 1886, later librarian); head librarian of the University Library, Halle 1891; head of the library of the "Leopoldina" 1904. 
-**Abbreviated name**: *E. Roth*
+**Abbreviated name**: *E. Roth* \[standard form in IPNI: *E.Roth*\]
 
 #### Herbarium and types
 

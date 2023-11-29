@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-08-11 09:48:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33120648) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33120648) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1722-1), [Wikidata](https://www.wikidata.org/wiki/Q655719). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cogniaux, (Célestin) Alfred {std. Cogn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Cogniaux, Célestin Alfred (1841-1916), Belgian botanist. 
-**Abbreviated name**: *Cogn.*
+**Abbreviated name**: *Cogn.* \[standard form in IPNI: *Cogn.*\]
 
 #### Herbarium and types
 

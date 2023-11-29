@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33066373) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33066373) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11344-1), [Wikidata](https://www.wikidata.org/wiki/Q21612055). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wall, Wilhelm August (1813-1861), Swedish teacher and botanist; Dr. phil. Uppsala 1839; teacher at Västerås gymnasium 1840-1850, from 1847 "Gymnasium adjunct". 
-**Abbreviated name**: *W. Wall*
+**Abbreviated name**: *W. Wall* \[standard form in IPNI: *W.Wall*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33190210) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33190210) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12768-1), [Wikidata](https://www.wikidata.org/wiki/Q89237). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reuss, August Emanuel \[Rudolf\] von (1811-1873), Bohemian physician, botanist, mineralogist and palaeontologist; Dr. med. Praha 1833; physician at Bilin 1834-1849; professor of mineralogy and geology at Praha 1849-1863; professor of mineralogy at the University, Wien 1863-1873. 
-**Abbreviated name**: *A.E. Reuss*
+**Abbreviated name**: *A.E. Reuss* \[standard form in IPNI: *A.E.Reuss*\]
 
 #### Herbarium and types
 

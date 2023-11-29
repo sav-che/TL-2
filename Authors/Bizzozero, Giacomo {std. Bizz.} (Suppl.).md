@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33265381) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33265381) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16177-1), [Wikidata](https://www.wikidata.org/wiki/Q21506156). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bizzozero, Giacomo {std. Bizz.}|first entry]] for this author
 
 ### Author
 
 \* Bizzozero, Giacomo (1852-1885), Italian botanist, born nr. Vicenza, moved with his family to Padua in 1860, trained to be a gardener, as such at the Botanical Garden of Padua (with a short period in a commercial garden in the province Este), later as an assistant gardener and ultimately, 1883, assistant to the director (P.A. Saccardo). 
-**Abbreviated name**: *Bizz.*
+**Abbreviated name**: *Bizz.* \[standard form in IPNI: *Bizz.*\]
 
 #### Herbarium and types
 

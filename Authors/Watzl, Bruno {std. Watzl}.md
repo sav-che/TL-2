@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33066450) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33066450) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11445-1), [Wikidata](https://www.wikidata.org/wiki/Q21612293). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Watzl, Bruno (1886-x), Austrian botanist; Dr. phil. Wien 1909 (student of Richard Wettstein); professor at the Bundesgymnasium Wien XIX. 
-**Abbreviated name**: *Watzl*
+**Abbreviated name**: *Watzl* \[standard form in IPNI: *Watzl*\]
 
 #### Herbarium and types
 

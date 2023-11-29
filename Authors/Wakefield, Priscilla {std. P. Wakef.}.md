@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33066365) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 25](https://www.biodiversitylibrary.org/page/33066365) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12987-1), [Wikidata](https://www.wikidata.org/wiki/Q532982). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wakefield, Priscilla (née Bell)(1751-1832), British author and philanthropist; early promoter of savings banks; writer of children's books and popular books on science and travel. 
-**Abbreviated name**: *P. Wakef.*
+**Abbreviated name**: *P. Wakef.* \[standard form in IPNI: *P.Wakef.*\]
 
 #### Herbarium and types
 

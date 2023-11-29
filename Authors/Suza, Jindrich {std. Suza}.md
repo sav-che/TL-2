@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33212146) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33212146) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27386-1), [Wikidata](https://www.wikidata.org/wiki/Q12024839). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Suza, Jindrich (1890-1951), Moravian (later Czechoslovakian) botanist (lichenologist, phytogeographer), assistant at the botanical Department of Masaryk University at Brno 1921-1934; later professor of botany at Praha; Dr. phil. Brno 1924. 
-**Abbreviated name**: *Suza*
+**Abbreviated name**: *Suza* \[standard form in IPNI: *Suza*\]
 
 #### Herbarium and types
 

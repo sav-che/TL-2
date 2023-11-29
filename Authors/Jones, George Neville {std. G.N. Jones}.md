@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/page/33068696) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/page/33068696) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21051-1), [Wikidata](https://www.wikidata.org/wiki/Q5542848). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jones, George Neville (1904-1970), British born American botanist; emigrated to Manitoba, Canada with his parents; Ph. D. Seattle 1937; instructor in biology Harvard 1937-1939; professor of botany, University of Illinois, Urbana, 1939-1970. 
-**Abbreviated name**: *G. N. Jones*
+**Abbreviated name**: *G. N. Jones* \[standard form in IPNI: *G.N.Jones*\]
 
 #### Herbarium and types
 

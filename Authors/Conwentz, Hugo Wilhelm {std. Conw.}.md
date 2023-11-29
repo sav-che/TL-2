@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33120665) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 534](https://www.biodiversitylibrary.org/page/33120665) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1775-1), [Wikidata](https://www.wikidata.org/wiki/Q73508). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Conwentz, Hugo Wilhelm {std. Conw.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Conwentz, Hugo Wilhelm (1855-1922), German palaeobotanist, director of nature conservation for Prussia. 
-**Abbreviated name**: *Conw.*
+**Abbreviated name**: *Conw.* \[standard form in IPNI: *Conw.*\]
 
 #### Collections
 

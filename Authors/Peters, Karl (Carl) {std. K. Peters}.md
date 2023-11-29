@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33189665) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33189665) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7566-1), [Wikidata](https://www.wikidata.org/wiki/Q21522880). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Peters, Karl \[Carl\] (1865-1925), German (Prussian) botanist and gardener at Berlin and Berlin-Dahlem; from 1886-1925, subsequently as Reviergehilfe, Öbergärtner (1894), Garteninspektor (1907), and Oberinspektor (1913). 
-**Abbreviated name**: *K. Peters*
+**Abbreviated name**: *K. Peters* \[standard form in IPNI: *K.Peters*\]
 
 #### Herbarium and types
 

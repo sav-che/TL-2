@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33189581) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33189581) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24632-1), [Wikidata](https://www.wikidata.org/wiki/Q2331561). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Paulet, Jean Jacques (1740-1826), French physician and mycologist. Studied medicine at Montpellier; Dr. med. ib. 1764; practicing physician in Paris 1764-1802; in retirement at Fontainebleau. 
-**Abbreviated name**: *Paul*
+**Abbreviated name**: *Paul* \[standard form in IPNI: *Paulet*\]
 
 #### Herbarium and types
 

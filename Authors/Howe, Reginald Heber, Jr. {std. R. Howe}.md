@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33068590) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33068590) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4161-1), [Wikidata](https://www.wikidata.org/wiki/Q21339552). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Howe, Reginald Heber, Jr. (1875-1932), American cryptogamist, high school teacher at Middlesex School, Concord, Mass., headmaster of the Belmont Hillschool (1923), curator of the Thoreau Museum of Natural History. 
-**Abbreviated name**: *R. Howe*
+**Abbreviated name**: *R. Howe* \[standard form in IPNI: *R.Howe*\]
 
 #### Herbarium and types
 

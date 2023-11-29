@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33120767) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33120767) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2161-1), [Wikidata](https://www.wikidata.org/wiki/Q47116409). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Déterville (*fl*. 1800), French publisher. 
-**Abbreviated name**: *Déterville*
+**Abbreviated name**: *Déterville* \[standard form in IPNI: *Déterv.*\]
 
 #### Note
 

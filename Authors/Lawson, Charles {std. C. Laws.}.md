@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33069015) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 773](https://www.biodiversitylibrary.org/page/33069015) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5350-1), [Wikidata](https://www.wikidata.org/wiki/Q2959591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lawson, Charles (1794-1873), Scottish botanist; son of the Edinburgh nurseryman Peter Lawson; succeeded his father 1821. 
-**Abbreviated name**: *C. Laws.*
+**Abbreviated name**: *C. Laws.* \[standard form in IPNI: *C.Lawson*\]
 
 #### Herbarium and types
 

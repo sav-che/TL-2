@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33260096) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33260096) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2322-1), [Wikidata](https://www.wikidata.org/wiki/Q63040). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Drude, Carl Georg Oscar {std. Drude}|first entry]] for this author
 
 ### Author
 
 \* Drude, \[Carl Georg\] Oscar (1852-1933), German botanist, born at Braunschweig, 5 Jun 1852, educated at the gymnasium of Braunschweig, at the Collegium Carolinum 1870-71, and id. in Göttingen, student of Grisebach, Dr. phil. Göttingen 1874, habilitation id. 1876, from 1879 professor of botany at the "Polytechnikum" at Dresden, joined the Naturw. Gesellschaft Isis 1879, died 1 Feb 1933 in Bühlau nr. Dresden. 
-**Abbreviated name**: *Drude*
+**Abbreviated name**: *Drude* \[standard form in IPNI: *Drude*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/page/33190450) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/page/33190450) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8724-1), [Wikidata](https://www.wikidata.org/wiki/Q47125440). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ruge, Georg (*fl*. 1893), German (Hannoverian) botanist; Dr. phil. München 1893. 
-**Abbreviated name**: *Ruge*
+**Abbreviated name**: *Ruge* \[standard form in IPNI: *Ruge*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33266127) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33266127) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1867-1), [Wikidata](https://www.wikidata.org/wiki/Q21509223). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cratty, Robert Irvin (1853-1940), American botanist and educator, born in Butler County, Pennsylvania, 5 Feb 1853, teacher in public schools until 1877, in the vicinity of Armstrong, curator of the herbarium (personal) until 1918, collection 1918 to Iowa State College, retired 1932. 
-**Abbreviated name**: *Cratty*
+**Abbreviated name**: *Cratty* \[standard form in IPNI: *Cratty*\]
 
 #### Herbarium and types
 

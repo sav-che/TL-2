@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33258677) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33258677) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3130-1), [Wikidata](https://www.wikidata.org/wiki/Q5565422). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gibelli, Giuseppe {std. Gibelli}|first entry]] for this author
 
 ### Author
 
 \* Gibelli, Giuseppe \[Josephus\] (1831-1898), Italian /Austrian botanist and illustrator, born 9 Feb 1831 in Santa Cristina (Pavia) (then part of the Austro-Hungarian Empire), studied medicine at Pavia Univ., Ph.D. 1854, taught at Veterinary school in Mailand, returned to Pavia 1861, prof., Modena Botanic Garden 1874-1879, and then at botanical gardens in Bologna 1879-1883 and Torino 1883-1898, died 16 Sep 1898 in Turin. 
-**Abbreviated name**: *Gibelli*
+**Abbreviated name**: *Gibelli* \[standard form in IPNI: *Gibelli*\]
 
 #### Herbarium and types
 

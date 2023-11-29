@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-09-19 08:19:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/page/33212738) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 696](https://www.biodiversitylibrary.org/page/33212738) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11122-1), [Wikidata](https://www.wikidata.org/wiki/Q44907). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vellozo \[Velloso, Veloso\], José Mariano da Conceição (1742-1811), Brazilian clergyman and botanist; entered Franciscan order 1761; ord. 1762; instructor in geometry São Paulo 1771; charged to study the flora of Rio de Janeiro 1782; from 1790 in Lisboa, in charge of the Tipografia Caliográfica e Tipoplástica de Arco do Cego. 
-**Abbreviated name**: *Vell.*
+**Abbreviated name**: *Vell.* \[standard form in IPNI: *Vell.*\]
 
 #### Herbarium and types
 

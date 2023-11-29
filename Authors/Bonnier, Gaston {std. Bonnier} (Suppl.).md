@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33265515) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33265515) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/959-1), [Wikidata](https://www.wikidata.org/wiki/Q724379). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bonnier, Gaston Eugène Marie {std. Bonnier}|first entry]] for this author
 
 ### Author
 
 \* Bonnier, Gaston (1853-1922), French botanist (Paris born), educated at the Lycée Henry IV, studied at the École normale supérieure 1873-1876, teacher at the University 1877-1879, Dr. phil. 1879, Maître de conférences 1879-1887, professor of botany at the Faculté des Sciences 1887-1922. 
-**Abbreviated name**: *Bonnier*
+**Abbreviated name**: *Bonnier* \[standard form in IPNI: *Bonnier*\]
 
 #### Herbarium and types
 

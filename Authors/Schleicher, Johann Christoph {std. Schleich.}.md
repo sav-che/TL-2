@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33333352) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33333352) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9118-1), [Wikidata](https://www.wikidata.org/wiki/Q63744). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schleicher, Johann Christoph (1768-1834), German-born (Hessen-Nassau) botanist; settled ca. 1790 in Bex, Vaud, Switzerland as owner of a firm selling living plants as well as herbarium specimens. 
-**Abbreviated name**: *Schleich.*
+**Abbreviated name**: *Schleich.* \[standard form in IPNI: *Schleich.*\]
 
 #### Herbarium and types
 

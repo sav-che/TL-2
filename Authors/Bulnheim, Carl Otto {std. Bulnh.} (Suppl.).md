@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33266526) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33266526) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1282-1), [Wikidata](https://www.wikidata.org/wiki/Q21506645). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bulnheim, Carl Otto {std. Bulnh.}|first entry]] for this author
 
 ### Author
 
 \* Bulnheim, Carl Otto (1820-1865), German teacher and botanist, born in Bautzen, Sachsen, educated at the gymnasium of Bautzen 1830-1839, studied theology at the University of Leipzig 1839-1843, teacher at a charity school Leipzig, later id. at the first "Bürgerschule" ib. and in other Leipzig schools, director of the above "Bürgerschule" 1863-1865, as botanist dedicated to the Saxonian flora as well as to phycology. 
-**Abbreviated name**: *Bulnh.*
+**Abbreviated name**: *Bulnh.* \[standard form in IPNI: *Bulnh.*\]
 
 #### Herbarium and types
 

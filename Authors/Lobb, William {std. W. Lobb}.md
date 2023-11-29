@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33355216) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33355216) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5687-1), [Wikidata](https://www.wikidata.org/wiki/Q2579760). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lobb, William, (1809-1863), British plant collector and explorer for Veitch & Son who collected mainly in the Americas; brother of Thomas Lobb. 
-**Abbreviated name**: *W. Lobb*
+**Abbreviated name**: *W. Lobb* \[standard form in IPNI: *W.Lobb*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33189793) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33189793) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7794-1), [Wikidata](https://www.wikidata.org/wiki/Q3188854). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Poisson, Jules (1833-1919), French botanist; at the Paris Muséum d'Histoire naturelle from 1843 (sic "élève jardinier") until 1909, from 1864 as "préparateur" (botany), from 1873 aide-naturaliste. 
-**Abbreviated name**: *J. Poiss.*
+**Abbreviated name**: *J. Poiss.* \[standard form in IPNI: *J.Poiss.*\]
 
 #### Herbarium and types
 

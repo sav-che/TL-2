@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33333569) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33333569) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9366-1), [Wikidata](https://www.wikidata.org/wiki/Q3609344). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schweinfurth, Charles (1890-1970), American botanist (orchidologist); A.B. Harvard 1913; curator of O. Arnes herbarium 1914-1931, from 1931 idem with the Orchid Herbarium of Oakes Ames at the Botanical Museum, Harvard University; honorary professor of botany Univ. Mayor de San Marcos, Peru 1948; id. Cuzco 1962. 
-**Abbreviated name**: *C. Schweinf.*
+**Abbreviated name**: *C. Schweinf.* \[standard form in IPNI: *C.Schweinf.*\]
 
 #### Herbarium and types
 

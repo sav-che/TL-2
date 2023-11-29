@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33189859) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33189859) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7944-1), [Wikidata](https://www.wikidata.org/wiki/Q21523224). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Prescott, Gerald Webber (1899-x), American algologist; Dr. phil. Iowa State 1928; act. prof. bot. Willamette Univ. 1928-1929; asst. prof. Albion College 1929-1932, assoc., prof. id. 1932-1946; assoc. prof. Michigan State 1946-1949; prof. ib. 1949-1968; in retirement associated with the University of Montana. 
-**Abbreviated name**: *Prescott*
+**Abbreviated name**: *Prescott* \[standard form in IPNI: *Prescott*\]
 
 #### Herbarium and types
 

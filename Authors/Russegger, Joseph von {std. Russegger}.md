@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/page/33190472) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/page/33190472) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8751-1), [Wikidata](https://www.wikidata.org/wiki/Q668522). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Russegger, Joseph von (1802-1863), Austrian traveller; trained as a mining engineer in Schemnitz (now Banska Stiavnica); in Austrian government service 1825; general manager at Böckstein nr Gastein 1827-1835; travelled in the Near East and Europe 1835-1841; mining director at Wieliczka 1841; at Hull 1843; director of the mining academy and of the lower Austrian mining industry at Schemnitz 1850-1863; ennobled (Ritter) 1853. 
-**Abbreviated name**: *Russegger*
+**Abbreviated name**: *Russegger* \[standard form in IPNI: *Russegger*\]
 
 #### Herbarium and types
 

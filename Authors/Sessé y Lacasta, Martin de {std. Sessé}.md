@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33333664) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33333664) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9514-1), [Wikidata](https://www.wikidata.org/wiki/Q2983613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sessé y Lacasta, Martin de (1751-1808), Spanish physician and botanist; practiced in Madrid 1775-1776; army doctor in Spain and Cuba; to Mexico City 1785; director of the Royal botanical expedition to New Spain and director of the Royal botanical garden in Mexico 1787; devoting himself only to botany from 1789; in the field in Western Mexico 1789-1792; to the Atlantic slope of Mexico 1793, to Cuba and Puerto Rico 1795-1798; returned to Madrid in 1803. 
-**Abbreviated name**: *Sessé*
+**Abbreviated name**: *Sessé* \[standard form in IPNI: *Sessé*\]
 
 #### Herbarium and types
 

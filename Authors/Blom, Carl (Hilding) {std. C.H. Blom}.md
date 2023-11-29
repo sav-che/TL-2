@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33265416) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33265416) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/860-1), [Wikidata](https://www.wikidata.org/wiki/Q21506202). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Blom, Carl \[Hilding\] (1885-1972), Swedish botanist and printer, assistant in a bookshop 1912, later connected with Göteborg's Botaniska Trädgard, ultimately curator of the herbarium id. 
-**Abbreviated name**: *C.H. Blom*
+**Abbreviated name**: *C.H. Blom* \[standard form in IPNI: *C.H.Blom*\]
 
 #### Herbarium and types
 

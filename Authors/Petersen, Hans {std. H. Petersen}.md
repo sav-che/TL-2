@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33189666) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33189666) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7568-1), [Wikidata](https://www.wikidata.org/wiki/Q21522884). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petersen, Hans (1836-1927), German (Schleswig) botanist and high school teacher at Sonderburg on Alsen (now Als) from 1862-1894; from 1895-1927 living in retirement at Schwesing (Husum). 
-**Abbreviated name**: *H. Petersen*
+**Abbreviated name**: *H. Petersen* \[standard form in IPNI: *H.Petersen*\]
 
 #### Herbarium and types
 

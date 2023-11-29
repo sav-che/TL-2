@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-06-30 07:57:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33266605) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33266605) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1349-1), [Wikidata](https://www.wikidata.org/wiki/Q15229276). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Caflisch, Jakob Friedrich {std. Caflisch}|first entry]] for this author
 
 ### Author
 
 \* Caflisch, Jakob Friedrich (1817-1882), German botanist and teacher at Augsburg, born in Herbishofen bei Memmingen, educated at the Latin school at Memmingen, at the teacher's seminary at Altdorf 1836-1838, teacher at Leipheim, Neu-Ulm and Augsburg, definitive teacher at the school of St. Jakob and St. Ulrich in Augsburg 1842-1861, in early retirement because of failing eyesight 
-**Abbreviated name**: *Caflisch*
+**Abbreviated name**: *Caflisch* \[standard form in IPNI: *Caflisch*\]
 
 #### Herbarium and types
 

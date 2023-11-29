@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33212221) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33212221) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27552-1), [Wikidata](https://www.wikidata.org/wiki/Q15453057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Taubenhaus, Jacob Joseph (1884-1937), American (Israeli-Palestine-born) phytopathologist and mycologist; studied at Cornell University (B.S. 1908, M.S. 1909) and the University of Pennsylvania; Dr. phil. 1913; assistant plant pathologist Delaware Agric. Expt. Station 1913-1916; assoc. id. 1916-1924; chief Div. Plant Pathology, Texas Agric. Expt. Station 1924-1937. 
-**Abbreviated name**: *Taubenhaus*
+**Abbreviated name**: *Taubenhaus* \[standard form in IPNI: *Taubenh.*\]
 
 #### Herbarium and types
 

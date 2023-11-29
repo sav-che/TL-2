@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33355365) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33355365) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22861-1), [Wikidata](https://www.wikidata.org/wiki/Q1166908). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mann, Horace Jr. (1844-1868), German-American botanist; assistant at the Gray Herbarium; B. Sc. Harvard 1867; curator of botany at the Boston Society of natural history. 
-**Abbreviated name**: *H. Mann*
+**Abbreviated name**: *H. Mann* \[standard form in IPNI: *H.Mann*\]
 
 #### Herbarium and types
 

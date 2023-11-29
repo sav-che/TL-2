@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-07-07 07:21:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33266474) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33266474) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1233-1), [Wikidata](https://www.wikidata.org/wiki/Q21506587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bruttan, Andreas {std. Bruttan}|first entry]] for this author
 
 ### Author
 
 \* Bruttan, Andreas (1829-1893), Esthonian highschool teacher and cryptogamist at Dorpat, born in Livland, educated at a "Kreisschule" in Wenden, at the teacher seminary in Dorpat 1840-1842, idem at St. Petersburg 1845-1852, teacher in Russian language in Arensburg, teacher in Dorpat 1852-1861, id. at the gymnasium 1861-1873, inspector of the local teachers 1873-1881, inspector and teacher of natural sciences at the German university 1881-1886. 
-**Abbreviated name**: *Bruttan*
+**Abbreviated name**: *Bruttan* \[standard form in IPNI: *Bruttan*\]
 
 #### Herbarium and types
 

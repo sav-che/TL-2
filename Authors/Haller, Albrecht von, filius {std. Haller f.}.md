@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33068271) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33068271) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3586-1), [Wikidata](https://www.wikidata.org/wiki/Q4132690). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Haller, Albrecht von, filius (1758-1823), Swiss botanist at Bern; son of A. von Haller; studied at Bern; followed a political and administrative career at Bern (temporarily at Interlaken) paralleling a scientific career as professor of botany at the Bern medical institute (1798) and director of the Bern botanical garden (1806). 
-**Abbreviated name**: *Haller f.*
+**Abbreviated name**: *Haller f.* \[standard form in IPNI: *Haller f.*\]
 
 #### Herbarium and types
 

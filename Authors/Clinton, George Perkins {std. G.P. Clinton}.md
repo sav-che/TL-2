@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33120643) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33120643) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1700-1), [Wikidata](https://www.wikidata.org/wiki/Q21508764). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Clinton, George Perkins {std. G.P. Clinton} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Clinton, George Perkins (1867-1937), American mycologist. 
-**Abbreviated name**: *G. P. Clinton*
+**Abbreviated name**: *G. P. Clinton* \[standard form in IPNI: *G.P.Clinton*\]
 
 #### Herbarium and types
 

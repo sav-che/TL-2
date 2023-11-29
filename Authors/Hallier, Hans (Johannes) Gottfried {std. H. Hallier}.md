@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33068274) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33068274) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/13068-1), [Wikidata](https://www.wikidata.org/wiki/Q75908). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hallier, Hans \[Johannes\] Gottfried (1868-1932), German botanist who collected in Indonesia and the Philippines and who settled ultimately (Nov 1908) at Leiden; son of Ernst Hallier. 
-**Abbreviated name**: *H. Hallier*
+**Abbreviated name**: *H. Hallier* \[standard form in IPNI: *Hallier f.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33355768) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 681](https://www.biodiversitylibrary.org/page/33355768) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12703-1), [Wikidata](https://www.wikidata.org/wiki/Q123876). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nägeli, Carl Wilhelm \[von\], \[Naegeli\] (1817-1891), Swiss-born botanist; Dr. phil. Zürich 1840; Dr. med. h.c. Freiburg 1854; habil. 1842; professor of botany at Zürich 1848-1852; at Freiburg i.Br. 1852-1855; at the ETH Zürich 1855-1857; at München 1857-1891. 
-**Abbreviated name**: *Näg.*
+**Abbreviated name**: *Näg.* \[standard form in IPNI: *Nägeli*\]
 
 #### Herbarium and types
 

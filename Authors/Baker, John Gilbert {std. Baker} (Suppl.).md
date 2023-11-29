@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33265004) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33265004) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/407-1), [Wikidata](https://www.wikidata.org/wiki/Q730330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baker, John Gilbert {std. Baker}|first entry]] for this author
 
 ### Author
 
 \* Baker, John Gilbert (1834-1920), British botanist, educated as Quaker, attending the Friend's schools at Ackworth and Bootham, York, in a drapery business in Thirsk 1847-1864, at the same time developing his interest in botany, one of the founders of the Thirsk Natural History Society until 1865, lost his herbarium and library by fire in 1864, joined the staff of the Royal Botanic Gardens, Kew, as first assistant of the herbarium 1866, at the same time lecturing on botany at the London Hospital Medical School 1869-1881, id. at the Chelsea Physic Garden 1869-1881, keeper of the Kew herbarium and library 1890-1899, in retirement living at Kew. 
-**Abbreviated name**: *Baker*
+**Abbreviated name**: *Baker* \[standard form in IPNI: *Baker*\]
 
 #### Herbarium and types
 

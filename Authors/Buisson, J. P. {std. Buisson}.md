@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33120532) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33120532) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1275-1), [Wikidata](https://www.wikidata.org/wiki/Q36587446). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buisson, J. P. (*fl*. 1779), French botanist, "démonstrateur d'histoire naturelle phytologique" at the Collège de Pharmacie, Paris. 
-**Abbreviated name**: *Buisson*
+**Abbreviated name**: *Buisson* \[standard form in IPNI: *Buisson*\]
 
 #### Herbarium and types
 

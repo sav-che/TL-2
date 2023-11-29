@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33068904) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 662](https://www.biodiversitylibrary.org/page/33068904) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5024-1), [Wikidata](https://www.wikidata.org/wiki/Q21517889). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krapf, Karl J. von (*fl*. 1782), Austrian botanist, "kaiserlich-königlicher Hofrath und Leibarzt." 
-**Abbreviated name**: *Krapf*
+**Abbreviated name**: *Krapf* \[standard form in IPNI: *Krapf*\]
 
 #### Herbarium and types
 

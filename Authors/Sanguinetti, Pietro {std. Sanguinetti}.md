@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33333138) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33333138) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8897-1), [Wikidata](https://www.wikidata.org/wiki/Q21607710). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sanguinetti, Pietro (1802-1868), Italian botanist; director of the botanical garden in Rome 1851-1855 and professor of botany at the Sapienza 1851-1868. 
-**Abbreviated name**: *Sanguinetti*
+**Abbreviated name**: *Sanguinetti* \[standard form in IPNI: *Sanguin.*\]
 
 #### Herbarium and types
 

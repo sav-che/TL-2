@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-09-23 09:25:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33068411) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33068411) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/34264-1), [Wikidata](https://www.wikidata.org/wiki/Q18202604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Héribaud-Joseph, Frère (Caumel, Jean Baptiste) (1841-1918), French clergyman and botanist. 
-**Abbreviated name**: *Hérib.*
+**Abbreviated name**: *Hérib.* \[standard form in IPNI: *Hérib.*\]
 
 #### Herbarium and types
 

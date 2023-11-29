@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33355157) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33355157) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5635-1), [Wikidata](https://www.wikidata.org/wiki/Q6343553). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Linkola, Kaarlo (until 1906 Collan) (1888-1942), Finnish botanist; Dr. phil. Helsinki 1919; assistant at the Botanical Institute of the agricultural section of Helsinki Univ. 1913-1922, from 1917 also working at the Tammisto experiment station; professor of botany at Turku Univ. 1923-1925, id. at Helsinki 1925-1942. 
-**Abbreviated name**: *Linkola*
+**Abbreviated name**: *Linkola* \[standard form in IPNI: *Linkola*\]
 
 #### Herbarium and types
 

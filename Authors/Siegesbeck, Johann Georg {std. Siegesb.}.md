@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33333731) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33333731) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9620-1), [Wikidata](https://www.wikidata.org/wiki/Q92216). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Siegesbeck, Johann Georg (1686-1755), German (Prussian) botanist; Dr. med. Wittenberg 1716; physician at Seehausen i.M. 1718-1730; regional physician at Helmstedt 1730-1735; physician and director of the botanical garden of St. Petersburg 1735-1747; practicing physician at Seehausen 1747-1755; originally a friend, later an adversary of Linnaeus. 
-**Abbreviated name**: *Siegesb.*
+**Abbreviated name**: *Siegesb.* \[standard form in IPNI: *Siegesb.*\]
 
 #### Herbarium and types
 

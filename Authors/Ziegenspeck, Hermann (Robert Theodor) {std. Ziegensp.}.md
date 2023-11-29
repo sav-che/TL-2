@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33066876) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33066876) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13044-1), [Wikidata](https://www.wikidata.org/wiki/Q21613648). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ziegenspeck, Hermann \[Robert Theodor\] (1891-1959), German (Bavarian) botanist and pharmacist; studied at Jena; Dr. phil. 1916; Pharmac. State Exam. 1919; Habil. Königsberg 1925; lecturer and assistant with C. Mez at the Botanical Institute of the University of Königsberg i. Pr. 1924-1932; pharmacist at Augsburg 1932-1944, in Kötzting 1944-1949; from 1949 again at Augsburg. 
-**Abbreviated name**: *Ziegensp.*
+**Abbreviated name**: *Ziegensp.* \[standard form in IPNI: *Ziegensp.*\]
 
 #### Herbarium and types
 

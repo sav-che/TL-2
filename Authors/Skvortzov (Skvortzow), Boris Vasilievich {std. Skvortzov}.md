@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-05-17 12:22:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 642](https://www.biodiversitylibrary.org/page/33333781) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 642](https://www.biodiversitylibrary.org/page/33333781) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9731-1), [Wikidata](https://www.wikidata.org/wiki/Q5732387). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Skvortzov \[Skvortzow\], Boris Vasilievich (1890-1980), Polish-born botanist of Russian descent who was educated in Harbin (Manchuria); Dr. phil. St. Petersburg as a student of K.Y. Gobi and V.L. Komarov 1917; school teacher in Harbin, Manchuria, N.E. China 1902; scientific secretary of the Manchuria Research Society 1922-1928; research fellow at the Institute of Forestry of the Academia Sinica 1950; professor at the Academy of Forestry Harbin 1958; to Brazil as research associate at the Botanical Institute of São Paulo 1963. 
-**Abbreviated name**: *Skvortzov*
+**Abbreviated name**: *Skvortzov* \[standard form in IPNI: *Skvortsov*\]
 
 #### Herbarium and types
 

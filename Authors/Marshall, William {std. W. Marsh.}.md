@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33355397) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33355397) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6140-1), [Wikidata](https://www.wikidata.org/wiki/Q21519993). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marshall, William (1815-1890), British solicitor and botanist. 
-**Abbreviated name**: *W. Marsh.*
+**Abbreviated name**: *W. Marsh.* \[standard form in IPNI: *W.Marshall*\]
 
 #### Herbarium and types
 

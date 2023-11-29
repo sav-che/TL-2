@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33066476) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33066476) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11474-1), [Wikidata](https://www.wikidata.org/wiki/Q21612328). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weberbauer, Otto (1846-1881), German (Silesian) mycologist; from 1868 living at Landeck, living on the proceeds of the family brewery. 
-**Abbreviated name**: *O. Weberb.*
+**Abbreviated name**: *O. Weberb.* \[standard form in IPNI: *O.Weberb.*\]
 
 #### Herbarium and types
 

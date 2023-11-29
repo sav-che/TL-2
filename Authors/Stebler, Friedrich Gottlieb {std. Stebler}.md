@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33333995) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 856](https://www.biodiversitylibrary.org/page/33333995) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10050-1), [Wikidata](https://www.wikidata.org/wiki/Q118997). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stebler, Friedrich Gottlieb (1852-1935), Swiss (Bern) agronomist, botanist and folklore student; Dr. phil. Halle 1876; head of the Swiss Seed testing institute in Zürich. 
-**Abbreviated name**: *Stebler*
+**Abbreviated name**: *Stebler* \[standard form in IPNI: *Stebler*\]
 
 #### Herbarium and types
 

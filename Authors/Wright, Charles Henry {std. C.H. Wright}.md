@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33066806) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33066806) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11881-1), [Wikidata](https://www.wikidata.org/wiki/Q1064826). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wright, Charles Henry (1864-1941), British botanist; studied at Oxford University; assistant Kew Herbarium 1884-1908, asst. keeper ib. 1908-1929; asst. examiner in botany, S. Kensington 1899-1901; lecturer in botany 1905-1929. 
-**Abbreviated name**: *C.H. Wright*
+**Abbreviated name**: *C.H. Wright* \[standard form in IPNI: *C.H.Wright*\]
 
 #### Herbarium and types
 

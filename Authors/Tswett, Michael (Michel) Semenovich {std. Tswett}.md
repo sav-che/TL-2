@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33212562) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33212562) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10885-1), [Wikidata](https://www.wikidata.org/wiki/Q241118). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tswett, Michael \[Michel\] Semenovich (1872-1919), Russian (Italy-born) botanist; studied at Lausanne and Genève; Lic. sci. nat. Genève 1896 as student of M. Thury; assistant (1901-1902), lecturer (1902-1907) at the University of Warsaw; professor of botany and agronomy at the Veterinary Institute of Warsaw 1907; professor of botany and microbiology at the Polytechnic Institute ib. 1908-1915; professor of botany at Dorpat 1917; specially interested in botanical chromatography. 
-**Abbreviated name**: *Tswett*
+**Abbreviated name**: *Tswett* \[standard form in IPNI: *Tswett*\]
 
 #### Herbarium and types
 

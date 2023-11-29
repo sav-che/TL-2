@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 935](https://www.biodiversitylibrary.org/page/33121066) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 935](https://www.biodiversitylibrary.org/page/33121066) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3104-1), [Wikidata](https://www.wikidata.org/wiki/Q21513928). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gerhardt, Julius (1827-x), German highschool teacher and cryptogamist at Liegnitz. 
-**Abbreviated name**: *Gerhardt*
+**Abbreviated name**: *Gerhardt* \[standard form in IPNI: *Gerhardt*\]
 
 #### Herbarium and types
 

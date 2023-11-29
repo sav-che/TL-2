@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33333831) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33333831) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9804-1), [Wikidata](https://www.wikidata.org/wiki/Q770032). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Johannes Jacobus (1867-1947), Belgian-born Dutch botanist, especially orchidologist and horticulturist; horticultural training at Amsterdam, Kew and Brussels; inspector of a coffee plantation in the Dutch East Indies, 1891; with the Buitenzorg (Bogor) Botanical Garden as temporary official, 1891-1893, assistant curator 1893-1902, in Leiden 1902-1905; temporary assistant herbarium Buitenzorg 1905, deputy keeper 1909, keeper 1914-1924; acting director of the garden 1922; in retirement in the Netherlands at Hilversum 1924-1925, Utrecht 1925-1928 and Leiden 1928-1947; Dr. phil. h.c. Utrecht 1911. 
-**Abbreviated name**: *J.J. Sm.*
+**Abbreviated name**: *J.J. Sm.* \[standard form in IPNI: *J.J.Sm.*\]
 
 #### Herbarium and types
 

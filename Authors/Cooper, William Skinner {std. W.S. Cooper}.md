@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33266016) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33266016) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/20016949-1), [Wikidata](https://www.wikidata.org/wiki/Q8018488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cooper, William Skinner (1884-1978), American botanist, ecologist, geomorphologist, born in Detroit, Mich., studied at the University of Chicago, Ph.D. 1911, professor at the University of Minnesota, Minneapolis, Minn. 
-**Abbreviated name**: *W.S. Cooper*
+**Abbreviated name**: *W.S. Cooper* \[standard form in IPNI: *W.S.Cooper*\]
 
 #### Herbarium and types
 

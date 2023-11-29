@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33265338) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33265338) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16059-1), [Wikidata](https://www.wikidata.org/wiki/Q652595). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bessey, Charles Edwin (1845-1915), American botanist and educator, entered Michigan Agricultural College 1866 (studied with e.g. A.N. Prentiss and W.J. Beal), graduated B. Sc. 1869, M. Sc. 1872, professor of botany at Iowa Agricultural College at Ames 1870-1884, in between engaged in graduate work at Harvard 1872-1873 and 1875-1876, Ph.D. Univ. Iowa 1879, L.L.D. Iowa College 1898; professor of botany at the University of Nebraska 1884-1915, pioneer in botanical laboratory instruction. 
-**Abbreviated name**: *Bessey*
+**Abbreviated name**: *Bessey* \[standard form in IPNI: *Bessey*\]
 
 #### Herbarium and types
 

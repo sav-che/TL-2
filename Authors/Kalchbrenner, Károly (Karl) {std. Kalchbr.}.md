@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33068727) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 485](https://www.biodiversitylibrary.org/page/33068727) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4617-1), [Wikidata](https://www.wikidata.org/wiki/Q736795). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kalchbrenner, Károly (Karl) (1807-1886), Austro-Hungarian clergyman and mycologist; studied at Halle; later clergyman at Szepes-Olaszi (Zips, Wallendorf). 
-**Abbreviated name**: *Kalchbr.*
+**Abbreviated name**: *Kalchbr.* \[standard form in IPNI: *Kalchbr.*\]
 
 #### Herbarium and types
 

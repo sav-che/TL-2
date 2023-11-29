@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33190242) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33190242) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8361-1), [Wikidata](https://www.wikidata.org/wiki/Q18783919). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Richardson, Richard (1663-1741), British (Yorkshire) physician, botanist, antiquary and book-collector, who studied in Oxford (University College, Bachelor of Physics) and Leiden, under Paul Hermann and Boerhaave (M.D. Leiden 1790), F.R.S. 1712; entertained an extensive correspondence with many botanists. 
-**Abbreviated name**: *R. Richardson*
+**Abbreviated name**: *R. Richardson* \[standard form in IPNI: *R.Richardson*\]
 
 #### Herbarium and types
 

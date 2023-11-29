@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33068643) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 401](https://www.biodiversitylibrary.org/page/33068643) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4370-1), [Wikidata](https://www.wikidata.org/wiki/Q5343712). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jacob, Edward (c. 1710-1788), British surgeon and botanist at Faversham. 
-**Abbreviated name**: *Jacob*
+**Abbreviated name**: *Jacob* \[standard form in IPNI: *Jacob*\]
 
 #### Herbarium and types
 

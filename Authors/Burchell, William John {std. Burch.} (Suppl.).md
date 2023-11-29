@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33266533) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33266533) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1291-1), [Wikidata](https://www.wikidata.org/wiki/Q1397207). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Burchell, William John {std. Burch.}|first entry]] for this author
 
 ### Author
 
 \* Burchell, William John (1781-1863), British gardener, collector, explorer, Kew gardener, elected F.L.S. 1803, with the East India Company, schoolmaster and botanist at St. Helena 1805-1810, undertook private collecting expeditions in South Africa 1811-1815, explored and collected in Brazil, 1825-1826, around Rio de Janeiro, in the interior of Brazil and Argentina 1825-1829, returned to England, heir to R.A. Salisbury. 
-**Abbreviated name**: *Burch.*
+**Abbreviated name**: *Burch.* \[standard form in IPNI: *Burch.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33333442) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33333442) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9234-1), [Wikidata](https://www.wikidata.org/wiki/Q21608337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schorler, Bernhard (1859-1920), German (Saxonian) botanist; studied in Jena and Leipzig; high school teacher in Dresden 1887; curator of the herbarium of the Sächsische Gartenbauschule, from 1898 at the herbarium and library of the Technische Hochschule, Dresden. 
-**Abbreviated name**: *Schorler*
+**Abbreviated name**: *Schorler* \[standard form in IPNI: *Schorler*\]
 
 #### Herbarium and types
 

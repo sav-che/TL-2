@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33355503) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33355503) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6357-1), [Wikidata](https://www.wikidata.org/wiki/Q2332473). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mennega, Alberta Maria Wilhelmina (1912-x), Dutch wood anatomist and plant systematist at the University of Utrecht; Dr. phil. Utrecht 1938. 
-**Abbreviated name**: *Mennega*
+**Abbreviated name**: *Mennega* \[standard form in IPNI: *Mennega*\]
 
 #### Herbarium and types
 

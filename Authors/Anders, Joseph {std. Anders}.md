@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33120174) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33120174) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/185-1), [Wikidata](https://www.wikidata.org/wiki/Q14912090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Anders, Josef {std. Anders} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Anders, Joseph (1863-1936), Czeck lichenologist. 
-**Abbreviated name**: *Anders*
+**Abbreviated name**: *Anders* \[standard form in IPNI: *Anders*\]
 
 #### Herbarium and types
 

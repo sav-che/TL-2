@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33259885) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33259885) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2871-1), [Wikidata](https://www.wikidata.org/wiki/Q3568565). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Francis, William Douglas (1889-1959), Australian botanist, born 6 Mar 1889 \[sometimes given as 1891 or 1892\] in Bega, New South Wales, moved to Kin Kin where his family started a dairy farm, military service W.W.-I and wounded in France, returned to Australia, appointed asst. government botanist 1919, promoted to government botanist 1950, retired 1954, also devoted much time to the controversial subject of the origin of life and was criticized for his ideas that were privately published, died 2 Jan 1959 at Kangaroo Point (Brisbane). 
-**Abbreviated name**: *W.D. Francis*
+**Abbreviated name**: *W.D. Francis* \[standard form in IPNI: *W.D.Francis*\]
 
 #### Herbarium and types
 

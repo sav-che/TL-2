@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33068708) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 466](https://www.biodiversitylibrary.org/page/33068708) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4569-1), [Wikidata](https://www.wikidata.org/wiki/Q1875135). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jüngst, Ludwig Volrad (1804-1880), German botanist at Bielefeld. 
-**Abbreviated name**: *Jüngst*
+**Abbreviated name**: *Jüngst* \[standard form in IPNI: *Jüngst*\]
 
 #### Herbarium and types
 

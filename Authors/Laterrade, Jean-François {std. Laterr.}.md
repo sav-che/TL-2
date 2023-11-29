@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33069005) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33069005) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5307-1), [Wikidata](https://www.wikidata.org/wiki/Q10988842). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Laterrade, Jean-François (1784-1858), French botanist; at first high school teacher; founded the Société Linnéenne de Bordeaux on 25 Jun 1818; director of the Bordeaux botanical garden 1842. 
-**Abbreviated name**: *Laterr.*
+**Abbreviated name**: *Laterr.* \[standard form in IPNI: *Laterr.*\]
 
 #### Herbarium and types
 

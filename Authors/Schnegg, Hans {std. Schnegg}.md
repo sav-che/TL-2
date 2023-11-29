@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33333407) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33333407) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9187-1), [Wikidata](https://www.wikidata.org/wiki/Q1698362). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schnegg, Hans (1875-1950), German (Bavarian) mycologist and fermentation-physiologist; assistant at the Institute for plant physiology at München; Dr. phil. München 1901, as student of Karl Goebel; from 1913-1943 teacher at the agricultural and brewery college of Weihenstephan, also extra-ordinary professor at the Technical University of München. 
-**Abbreviated name**: *Schnegg*
+**Abbreviated name**: *Schnegg* \[standard form in IPNI: *Schnegg*\]
 
 #### Herbarium and types
 

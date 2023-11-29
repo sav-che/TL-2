@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33120791) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 660](https://www.biodiversitylibrary.org/page/33120791) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18068-1), [Wikidata](https://www.wikidata.org/wiki/Q36612176). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ditmar, L. P. Fr. (*fl*. 1809), German lawyer and botanist at Rostock. 
-**Abbreviated name**: *Ditmar*
+**Abbreviated name**: *Ditmar* \[standard form in IPNI: *Ditmar*\]
 
 #### Herbarium and types
 

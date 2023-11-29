@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33066411) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33066411) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12993-1), [Wikidata](https://www.wikidata.org/wiki/Q21612240). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Warion, \[Jean Pierre\] Adrien (1837-1880), French (Lorraine) military physician and botanist; Dr. méd. Service de Santé, Paris (Val de Grâce) (1861), École de Strasbourg 1861; subsequently stationed at Rome (1861), Algeria (1863), Morocco (1866), Vincennes (1869), with the Armée du Nord at Metz (1870), later again in North Africa, from 1877 at Perpignan. 
-**Abbreviated name**: *Warion*
+**Abbreviated name**: *Warion* \[standard form in IPNI: *Warion*\]
 
 #### Herbarium and types
 

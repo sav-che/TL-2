@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33212381) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33212381) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10652-1), [Wikidata](https://www.wikidata.org/wiki/Q5337491). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thurston, Edgar (1855-1935), British botanist and anthropologist; studied medicine at King's College, London (L.R.C.P. 1877); superintendent of the Government Museum, Madras 1885-1909; from 1910 in retirement in Cornwall dedicating himself to the local flora and to horticulture. 
-**Abbreviated name**: *E. Thurst.*
+**Abbreviated name**: *E. Thurst.* \[standard form in IPNI: *E.Thurst.*\]
 
 #### Herbarium and types
 

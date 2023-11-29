@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33120676) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33120676) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17415-1), [Wikidata](https://www.wikidata.org/wiki/Q2618968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Copeland, Edwin Bingham {std. Copel.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Copeland, Edwin Bingham (1873-1964), American pteridologist at the University of California. 
-**Abbreviated name**: *Copeland*
+**Abbreviated name**: *Copeland* \[standard form in IPNI: *Copel.*\]
 
 #### Herbarium and types
 

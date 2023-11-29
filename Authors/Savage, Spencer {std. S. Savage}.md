@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33333221) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33333221) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8968-1), [Wikidata](https://www.wikidata.org/wiki/Q21393152). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Savage, Spencer (1886-1966), English librarian and botanist; clerk with the Linnean Society of London from 1911, librarian and assistant secretary 1929-1951. 
-**Abbreviated name**: *S.Savage*
+**Abbreviated name**: *S.Savage* \[standard form in IPNI: *Savage*\]
 
 #### Herbarium and types
 

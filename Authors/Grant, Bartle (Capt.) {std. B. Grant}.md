@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33258809) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 331](https://www.biodiversitylibrary.org/page/33258809) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/20011734-2), [Wikidata](https://www.wikidata.org/wiki/Q21390538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Grant, Bartle (Capt.) (1856-1924), Scottish soldier, born 16 Sep 1856 at Rothiemurchus, educated at Edgeborough School, Guildford (Surrey), then a gentleman cadet in Royal Military Academy, Woolwich, followed by the Royal Military College Sandhurst, sub-Lieut. with the VIIIth (King's Royal Irish) Hussars 1875, in Afghanistan (awarded an Afghan Medal) and then India, made Capt. 1883 and then Major 1886, but stripped of latter rank for falling into debt, entered the Border Regiment as Capt. 1890, stationed at Rangoon, returned to England 1898, called back into service during Boer War and entered the Royal Garrison Regiment in Malta, his only child was the post-impressionist painter and designer Duncan James Corrowr Grant (1885-1978), died 16 Apr 1924 in Twickenham (ashes interred in Rothiemurchus). 
-**Abbreviated name**: *B. Grant*
+**Abbreviated name**: *B. Grant* \[standard form in IPNI: *B.Grant*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33333361) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 222](https://www.biodiversitylibrary.org/page/33333361) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9123-1), [Wikidata](https://www.wikidata.org/wiki/Q21608056). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlickum, Julius (1804-1884), German (Prussian) pharmacist and botanist at Winningen a.d. Mösel. 
-**Abbreviated name**: *J. Schlickum*
+**Abbreviated name**: *J. Schlickum* \[standard form in IPNI: *J.Schlick.*\]
 
 #### Herbarium and types
 

@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33355788) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33355788) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23973-1), [Wikidata](https://www.wikidata.org/wiki/Q77700). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Necker, Noel Joseph de (1730-1793), French-born botanist and historiographer; later "kurpfälzischer Botaniker" in Mannheim 
-**Abbreviated name**: *Neck.*
+**Abbreviated name**: *Neck.* \[standard form in IPNI: *Neck.*\]
 
 #### Herbarium and types
 

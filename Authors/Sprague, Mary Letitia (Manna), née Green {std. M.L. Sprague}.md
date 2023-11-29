@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33333937) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33333937) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12879-1), [Wikidata](https://www.wikidata.org/wiki/Q21609342). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sprague, Mary Letitia \["Manna"\], née Green (1886-1978), British botanist, nomenclaturist and botanical bibliographer; with the Royal Botanical Gardens, Kew, 1912-1945, from 1912-1925 as temporary technical assistant for Index kewensis and Index londinensis, from 1925 permanent assistant responsible for the Index kewensis supplements; married Thomas Archibald Sprague 1938. 
-**Abbreviated name**: *M.L. Sprague*
+**Abbreviated name**: *M.L. Sprague* \[standard form in IPNI: *M.L.Sprague*\]
 
 #### Herbarium and types
 

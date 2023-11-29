@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33266660) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33266660) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/34866-1), [Wikidata](https://www.wikidata.org/wiki/Q5565253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Camus, Jules \[Giulio\] (1847-1917), French biologist, born Magny-en-Vexin (Seine-et-Oise), moved to Italy 1873, director of the agricultural station in Modena 1881, moved as teacher (1884), later professor (1889) in french language and literature to the royal military school in Torino, died 25 Jan 1917. 
-**Abbreviated name**: *J. Camus*
+**Abbreviated name**: *J. Camus* \[standard form in IPNI: *Camus*\]
 
 #### Herbarium and types
 

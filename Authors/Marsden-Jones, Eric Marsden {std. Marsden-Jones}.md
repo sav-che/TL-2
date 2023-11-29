@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33355394) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33355394) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6131-1), [Wikidata](https://www.wikidata.org/wiki/Q21519980). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marsden-Jones, Eric Marsden (1887-1960), British experimental taxonomist; established the Potterne Biological Station, near Devizes, Wiltshire 1923 (-1940); collaborated with W. B. Turrill at Kew. 
-**Abbreviated name**: *Marsden-Jones*
+**Abbreviated name**: *Marsden-Jones* \[standard form in IPNI: *Marsden-Jones*\]
 
 #### Herbarium and types
 

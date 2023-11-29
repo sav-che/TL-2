@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-10-27 11:16:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33265442) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33265442) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/893-1), [Wikidata](https://www.wikidata.org/wiki/Q10307778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boeckeler, Johann Otto {std. Boeck.}|first entry]] for this author
 
 ### Author
 
 \* Böckeler \[Boeckeler\], \[Johann\] Otto (1803-1899), German (Hannover) botanist and pharmacist, educated at the Lyceum of Hannover, with the Löwenapotheke at Hildesheim to be trained as a pharmacist, in addition studying the flora of the Hildesheim surroundings, with a pharmacy at Altona for further training, studied pharmacy at the University of Göttingen until 1826, "provisor" at a pharmacy in Bremen 1826-1827, pharmacist at Varel (Oldenburg) 1827-1857, dedicating himself to botany (Cyperaceae) 1857-1899. 
-**Abbreviated name**: *Boeck.*
+**Abbreviated name**: *Boeck.* \[standard form in IPNI: *Boeckeler*\]
 
 #### Herbarium and types
 

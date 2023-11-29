@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33266036) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 359](https://www.biodiversitylibrary.org/page/33266036) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17431-1), [Wikidata](https://www.wikidata.org/wiki/Q3752277). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cordier, François Simon {std. Cordier}|first entry]] for this author
 
 ### Author
 
 \* Cordier, Françis Simon (1797-1874), French mycologist, born at Brillon (Meuse), studied literature at Troyes, also medicine, sometime army physician, "bachelier ès lettres" 1818, doctor in medicine 1819, studied botany in Paris at the Muséum d'Histoire naturelle, 1829-1830, teacher of natural history and medicine, later practicing medicine. 
-**Abbreviated name**: *Cordier*
+**Abbreviated name**: *Cordier* \[standard form in IPNI: *Cordier*\]
 
 #### Herbarium and types
 

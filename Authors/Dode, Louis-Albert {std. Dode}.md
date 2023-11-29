@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33259999) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33259999) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2245-1), [Wikidata](https://www.wikidata.org/wiki/Q4164115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dode, Louis-Albert (1875-1945), French Dr. in law and keen dendrologist, born at Moulins, Allier, 15 Jan 1875, founder of the Société dendrologique de France, possessed a large private arboretum where he introduced and cultivated many exotic species, died in 1945. 
-**Abbreviated name**: *Dode*
+**Abbreviated name**: *Dode* \[standard form in IPNI: *Dode*\]
 
 #### Herbarium and types
 

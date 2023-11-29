@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33333235) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33333235) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8994-1), [Wikidata](https://www.wikidata.org/wiki/Q21607833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scamman, Edith Henry (1882-1967), American botanist; B.A. Wellesley College 1907, M.A. comparative literature Radcliffe College 1909; engaged in church-work until 1935; studied botany with M.L. Fernald at Radcliffe 1935; on nine collecting trips to Alaska between 1936 and 1954; associated with the Gray Herbarium through M.L. Fernald and C.A. Weatherby, especially interested in Pteridophytes; collected in Costa Rica between 1951 and 1956 and in Puerto Rico and Guadeloupe 1960; on the Gray Herbarium visiting committee 1942-1946; research associate 1949-1962; honorary research associate 1962-1967. 
-**Abbreviated name**: *Scamman*
+**Abbreviated name**: *Scamman* \[standard form in IPNI: *Scamman*\]
 
 #### Herbarium and types
 

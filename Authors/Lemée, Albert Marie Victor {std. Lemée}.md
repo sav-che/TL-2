@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-08-06 13:58:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33069081) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 839](https://www.biodiversitylibrary.org/page/33069081) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5462-1), [Wikidata](https://www.wikidata.org/wiki/Q5662641). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lemée, Albert Marie Victor (1872-19..), French colonial botanist, later at Rennes. 
-**Abbreviated name**: *Lemée*
+**Abbreviated name**: *Lemée* \[standard form in IPNI: *Lemée*\]
 
 #### Herbarium and types
 

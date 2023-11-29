@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33266464) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33266464) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1219-1), [Wikidata](https://www.wikidata.org/wiki/Q21506568). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brumhard, Philipp (1879-?), German, born at Klein-Helmsdorf bei Osterfeld, Thüringen, educated at the "Vorschule" and the "Realgymnasium" at Weimar, studied at the universities of Breslau and Jena, Dr. phil. Breslau 1905. 
-**Abbreviated name**: *Brumh.*
+**Abbreviated name**: *Brumh.* \[standard form in IPNI: *Brumh.*\]
 
 #### Herbarium and types
 

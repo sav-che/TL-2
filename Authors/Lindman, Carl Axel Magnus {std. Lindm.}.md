@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33355147) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 60](https://www.biodiversitylibrary.org/page/33355147) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5620-1), [Wikidata](https://www.wikidata.org/wiki/Q719778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lindman, Carl Axel Magnus (1856-1928), Swedish botanist and traveller; Dr. phil. Uppsala 1886; teacher at Stockholm 1887-1904; from 1905 at the Natural History Museum at Stockholm; travelled widely in Europe and North Africa; in Brazil 1892-1894. 
-**Abbreviated name**: *Lindm.*
+**Abbreviated name**: *Lindm.* \[standard form in IPNI: *Lindm.*\]
 
 #### Herbarium and types
 

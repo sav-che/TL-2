@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33069102) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33069102) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5523-1), [Wikidata](https://www.wikidata.org/wiki/Q21518471). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Le Turquier de Longchamp, Joseph Alexandre (1748-1829), French clergyman and botanist; from 1800 at Rouen. 
-**Abbreviated name**: *Le Turq.*
+**Abbreviated name**: *Le Turq.* \[standard form in IPNI: *Le Turq.*\]
 
 #### Herbarium and types
 

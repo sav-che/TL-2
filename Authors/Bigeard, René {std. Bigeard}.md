@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33265358) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33265358) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16123-1), [Wikidata](https://www.wikidata.org/wiki/Q21506110). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bigeard, René (1840-1917), French mycologist, grew up on the paternal farm, adjunct teacher 1861-1862 at Anost, from 1862 idem at Vendenesse-sur-Arroux, 1866 id. at Antully and at Mouthiers-en-Bresse from 1874, later at Nolay, active member of the Société mycologique de France from ca. 1884. 
-**Abbreviated name**: *Bigeard*
+**Abbreviated name**: *Bigeard* \[standard form in IPNI: *Bigeard*\]
 
 #### Herbarium and types
 

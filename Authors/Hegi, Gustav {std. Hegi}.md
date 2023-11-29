@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33068372) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33068372) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3781-1), [Wikidata](https://www.wikidata.org/wiki/Q116048). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hegi, Gustav (1876-1932), Swiss botanist; studied at Zürich with Schinz; from 1902 curator, later lecturer and professor of botany (1910) at München; consul-general for Switzerland at München. 
-**Abbreviated name**: *Hegi*
+**Abbreviated name**: *Hegi* \[standard form in IPNI: *Hegi*\]
 
 #### Herbarium and types
 

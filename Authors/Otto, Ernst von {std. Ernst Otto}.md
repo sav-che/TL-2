@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33355946) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33355946) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7206-1), [Wikidata](https://www.wikidata.org/wiki/Q5406518). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Otto, Ernst von (1799-1863), German botanist; landowner at Possendorf nr. Dresden 1826-1856; ultimately at Dresden. 
-**Abbreviated name**: *Ernst Otto*
+**Abbreviated name**: *Ernst Otto* \[standard form in IPNI: *E.Otto*\]
 
 #### Herbarium and types
 

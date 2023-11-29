@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2015-02-17 14:14:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33120212) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33120212) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/338-1), [Wikidata](https://www.wikidata.org/wiki/Q5140488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Austin, Coe Finch {std. Aust.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Austin, Coe Finch (1831-1880), American bryologist. 
-**Abbreviated name**: *Aust.*
+**Abbreviated name**: *Aust.* \[standard form in IPNI: *Austin*\]
 
 #### Herbarium and types
 

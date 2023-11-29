@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/page/33190295) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 824](https://www.biodiversitylibrary.org/page/33190295) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8474-1), [Wikidata](https://www.wikidata.org/wiki/Q78631). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rock, Joseph Francis Charles \[until 1933 Joseph Franz Karl\] (1884-1962), Austrian-born American botanical explorer, botanist, geographer and ethnologist; to the United States 1905, in Hawaii 1907- 1920; naturalized U.S. citizen 1913; explorer for the Bureau of Plant Industry, USDA, the Arnold Arboretum, the National Geographic Society and other U.S. institutions and agencies, frequently travelling and working in China until 1949; from then on in India, Europe, U.S.A., ultimately on Oahu, Hawaii; "father of Hawaiian botany".
-**Abbreviated name**: *Rock*
+**Abbreviated name**: *Rock* \[standard form in IPNI: *Rock*\]
 
 #### Herbarium and types
 

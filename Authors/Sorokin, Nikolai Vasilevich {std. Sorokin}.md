@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33333891) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33333891) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9908-1), [Wikidata](https://www.wikidata.org/wiki/Q4429212). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sorokin, Nikolai Vasilevich (1846-1909), Russian botanist; professor of botany and director of the botanical garden of the University of Kazan. 
-**Abbreviated name**: *Sorokin*
+**Abbreviated name**: *Sorokin* \[standard form in IPNI: *Sorokin*\]
 
 #### Herbarium and types
 

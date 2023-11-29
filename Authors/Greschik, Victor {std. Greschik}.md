@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1000](https://www.biodiversitylibrary.org/page/33121131) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1000](https://www.biodiversitylibrary.org/page/33121131) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3376-1), [Wikidata](https://www.wikidata.org/wiki/Q21514266). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Greschik, Victor (1862-1946), Carpathian bryologist at Leutschau (Levoca) (now Czechoslovakia). 
-**Abbreviated name**: *Greschik*
+**Abbreviated name**: *Greschik* \[standard form in IPNI: *Greschik*\]
 
 #### Herbarium and types
 

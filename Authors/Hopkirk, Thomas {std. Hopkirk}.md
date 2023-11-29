@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33068545) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33068545) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4098-1), [Wikidata](https://www.wikidata.org/wiki/Q7790802). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hopkirk, Thomas (1785-1841), Scottish botanist at Glasgow. 
-**Abbreviated name**: *Hopkirk*
+**Abbreviated name**: *Hopkirk* \[standard form in IPNI: *Hopkirk*\]
 
 #### Herbarium and types
 

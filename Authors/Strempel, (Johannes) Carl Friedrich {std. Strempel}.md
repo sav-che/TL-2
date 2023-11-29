@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33212050) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33212050) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10214-1), [Wikidata](https://www.wikidata.org/wiki/Q1040728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Strempel, \[Johannes\] Carl Friedrich (1800-1872), German (Mecklenburg) physician and botanist; studied in Rostock and (1818-1822) Berlin; Dr. phil. Berlin 1822; practicing physician in Schwerin ca. 1822-1825; from 1825 physician (from 1838 as "Ober-Medizinalrath") in Rostock. 
-**Abbreviated name**: *Strempel*
+**Abbreviated name**: *Strempel* \[standard form in IPNI: *Strempel*\]
 
 #### Herbarium and types
 

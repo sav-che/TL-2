@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33068811) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33068811) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4853-1), [Wikidata](https://www.wikidata.org/wiki/Q18986251). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kloos, Abraham Willem, Jr. (1880-1952), Dutch botanist; Dr. phil. h.c. Leiden 1946; civil engineer; high school teacher at Schiermonnikoog (1904-1905), Goes (1905-1911) and Dordrecht (1911-1945); student of the adventitious flora of the Netherlands. 
-**Abbreviated name**: *Kloos*
+**Abbreviated name**: *Kloos* \[standard form in IPNI: *Kloos*\]
 
 #### Herbarium and types
 

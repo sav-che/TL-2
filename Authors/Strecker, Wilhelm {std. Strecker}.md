@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33212048) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33212048) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10210-1), [Wikidata](https://www.wikidata.org/wiki/Q2575289). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Strecker, Wilhelm (1858-1934), German (Prussian) agriculturist; Dr. phil. Göttingen 1884; lecturer ib. 1884-1888; in charge of the "Landeskultur-Spezialkommission" in Witzenhausen 1890-1895; professor of agricultural technique Leipzig 1895-1927. 
-**Abbreviated name**: *Strecker*
+**Abbreviated name**: *Strecker* \[standard form in IPNI: *Strecker*\]
 
 #### Herbarium and types
 

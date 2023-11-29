@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33190036) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33190036) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12756-1), [Wikidata](https://www.wikidata.org/wiki/Q21606852). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rainer, Moriz (Moritz) von und zu Haarbach (1793-1847), Austrian botanist; for eighteen years banker in Milano; ultimately at Graz. 
-**Abbreviated name**: *Rainer*
+**Abbreviated name**: *Rainer* \[standard form in IPNI: *Rainer*\]
 
 #### Herbarium and types
 

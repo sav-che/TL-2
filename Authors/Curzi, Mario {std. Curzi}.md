@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33266197) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33266197) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17600-1), [Wikidata](https://www.wikidata.org/wiki/Q21392352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Curzi, Mario (1898-1944), Italian botanist and mycologist at Pavia. 
-**Abbreviated name**: *Curzi*
+**Abbreviated name**: *Curzi* \[standard form in IPNI: *Curzi*\]
 
 #### Herbarium and types
 

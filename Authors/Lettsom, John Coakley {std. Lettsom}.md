@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33069101) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33069101) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5522-1), [Wikidata](https://www.wikidata.org/wiki/Q6224512). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lettsom, John Coakley (1744-1815), British botanist; had a botanic garden at Camberwell; Dr. med. Leiden 1769. 
-**Abbreviated name**: *Lettsom*
+**Abbreviated name**: *Lettsom* \[standard form in IPNI: *Lettsom*\]
 
 #### Herbarium and types
 

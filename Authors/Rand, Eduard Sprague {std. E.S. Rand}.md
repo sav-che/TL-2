@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33190046) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 575](https://www.biodiversitylibrary.org/page/33190046) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8132-1), [Wikidata](https://www.wikidata.org/wiki/Q3048678). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rand, Eduard Sprague (1834-1897), American horticulturist at Glen Ridge near Boston. 
-**Abbreviated name**: *E.S. Rand*
+**Abbreviated name**: *E.S. Rand* \[standard form in IPNI: *E.S.Rand*\]
 
 #### Herbarium and types
 

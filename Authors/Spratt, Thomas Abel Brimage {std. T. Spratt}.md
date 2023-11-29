@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33333941) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33333941) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9987-1), [Wikidata](https://www.wikidata.org/wiki/Q557403). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spratt, Thomas Abel Brimage (1811-1888), British vice-admiral; member of the mediterranean hydrographical survey. 
-**Abbreviated name**: *T. Spratt*
+**Abbreviated name**: *T. Spratt* \[standard form in IPNI: *T.Spratt*\]
 
 #### Herbarium and types
 

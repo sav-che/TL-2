@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33355277) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33355277) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5824-1), [Wikidata](https://www.wikidata.org/wiki/Q4272397). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Luetzelburg, Philipp von (1880-1948), German botanist and explorer; Dr. phil. München 1909; collected extensively in northeastern Brazil 1910-1922, 1935-1937 and, with Rondon (1928-1929) in Amazonia; back in Germany 1922-1924, and 1937-1948. 
-**Abbreviated name**: *Luetzelb.*
+**Abbreviated name**: *Luetzelb.* \[standard form in IPNI: *Luetzelb.*\]
 
 #### Herbarium and types
 

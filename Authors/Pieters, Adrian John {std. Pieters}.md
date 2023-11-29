@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33189732) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33189732) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7692-1), [Wikidata](https://www.wikidata.org/wiki/Q5658282). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pieters, Adrian John (1866-1940), American botanist (plant physiologist and morphologist); Ph.D. Univ. Mich. 1915; assistant botanist USDA, Washington 1895-1900, botanist ib. 1900-1906; seed grower 1906-1910; instructor in botany Univ. Michigan 1912-1915, agronomist Bureau Plant Industry, USDA 1915-1926, principal agronomist 1926-1935; in charge of Lespedeza investigations 1935-1940; one of the founders of the Bureau of Plant Industry 1901; "father of Lespedeza". 
-**Abbreviated name**: *Pieters*
+**Abbreviated name**: *Pieters* \[standard form in IPNI: *Pieters*\]
 
 #### Herbarium and types
 

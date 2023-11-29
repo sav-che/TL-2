@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33265538) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33265538) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/34358-1), [Wikidata](https://www.wikidata.org/wiki/Q36659118). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Borkowski, Roman (1882-?), Russian (?) botanist, who studied at the University of Neuchâtel, Switzerland, Dr. phil. ib. 1913. 
-**Abbreviated name**: *Bork.*
+**Abbreviated name**: *Bork.* \[standard form in IPNI: *Bork.*\]
 
 #### Herbarium and types
 

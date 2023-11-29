@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33259258) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33259258) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2139-1), [Wikidata](https://www.wikidata.org/wiki/Q18984194). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Derganc, Leodegar (fl. 1897-1905), Austrian "Statthalterei-Beamter" in Vienna. 
-**Abbreviated name**: *Derganc*
+**Abbreviated name**: *Derganc* \[standard form in IPNI: *Derganc*\]
 
 #### Herbarium and types
 

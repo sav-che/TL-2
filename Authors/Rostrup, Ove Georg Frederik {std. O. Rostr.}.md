@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/page/33190386) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 915](https://www.biodiversitylibrary.org/page/33190386) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25809-1), [Wikidata](https://www.wikidata.org/wiki/Q12330677). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rostrup, Ove Georg Frederik (1864-1933), Danish botanist and phytopathologist; director "Statsanstalten Dansk Frøkontrol" 1891-1902; scientist at the department of plant pathology of the Agricultural college 1902-1933; son of E. Rostrup. 
-**Abbreviated name**: *O. Rostr.*
+**Abbreviated name**: *O. Rostr.* \[standard form in IPNI: *O.Rostr.*\]
 
 #### Herbarium and types
 

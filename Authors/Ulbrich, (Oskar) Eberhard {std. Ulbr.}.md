@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33212613) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33212613) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10967-1), [Wikidata](https://www.wikidata.org/wiki/Q74592). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ulbrich, \[Oskar\] Eberhard (1879-1952), German (Berlin) botanist; studied natural sciences at the University of Berlin 1899-1905; Dr. phil. ib. 1905, student of A. Engler; free-lance assistant at the Botanical Museum and Herbarium, Berlin 1902-1905 (1903-1904 with L. Kny at the Agric. College); assistant 1905-1908, tenured assistant 1908-1920; curator 1920-1926, professor from 1926; in charge of the Department of fungi from 1938. 
-**Abbreviated name**: *Ulbr.*
+**Abbreviated name**: *Ulbr.* \[standard form in IPNI: *Ulbr.*\]
 
 #### Herbarium and types
 

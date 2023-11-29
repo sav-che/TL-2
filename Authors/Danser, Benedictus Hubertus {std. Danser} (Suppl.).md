@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33259102) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33259102) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/1992-1), [Wikidata](https://www.wikidata.org/wiki/Q434331). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Danser, Benedictus Hubertus {std. Danser}|first entry]] for this author
 
 ### Author
 
 \* Danser, Benedictus Hubertus (1891-1943), Dutch botanist, born 24 Mai 1891 at Schiedam (nr. Rotterdam), school master at Schiedam 1910, studied at the University of Amsterdam with cum laude 1921, teacher at a secondary school 1920-1925 at Haarlem, unsalaried university lecturer in plant geography at Amsterdam but went immediately to Buitenzorg (Bogor, Netherl. Ind.) with the Land's Plantentuin, returned 1929 to the Netherlands as professor at the University of Groningen. 
-**Abbreviated name**: *Danser*
+**Abbreviated name**: *Danser* \[standard form in IPNI: *Danser*\]
 
 #### Herbarium and types
 

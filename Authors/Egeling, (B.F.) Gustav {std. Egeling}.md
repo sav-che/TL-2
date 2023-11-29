@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33260252) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33260252) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18388-1), [Wikidata](https://www.wikidata.org/wiki/Q21511493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Egeling, \[B.F.\] Gustav (1858-after 1922), German botanist (lichenologist) and pharmacist, born 1 Mai 1858 at Kassel, from 1873 living in Potsdam, pupil in the "Löwenapotheke" at Potsdam until 1879, 1880 pharmacist at Kassel, returned to Potsdam until 1889, went to the United States (Beaumont in Texas), later to Mexico and Puerto Rico, died (after?) 1922 in Ponce. 
-**Abbreviated name**: *Egeling*
+**Abbreviated name**: *Egeling* \[standard form in IPNI: *Egeling*\]
 
 #### Herbarium and types
 

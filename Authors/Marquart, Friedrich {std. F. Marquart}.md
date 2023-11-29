@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33355390) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33355390) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/35187-1), [Wikidata](https://www.wikidata.org/wiki/Q36555721). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marquart, Friedrich (*fl*. 1842), Moravian surgeon, veterinarian and mycologist, professor of pathology and veterinary control at the University of Olmütz. 
-**Abbreviated name**: *F. Marquart*
+**Abbreviated name**: *F. Marquart* \[standard form in IPNI: *F.Marquart*\]
 
 #### Herbarium and types
 

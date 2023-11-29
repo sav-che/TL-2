@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33259727) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33259727) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18833-1), [Wikidata](https://www.wikidata.org/wiki/Q36544989). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fisher, Eileen Elizabeth (1909-x), Australian mycologist and plant pathologist, born 14 Jun 1909 in Melbourne, B.Sc. 1930 and M.Sc. 1931 Univ. of Melbourne, Ph.D. ca. 1940 Cambridge, England, senior demonstrator in botany, teacher at Botany School, Univ. of Melbourne 1932. 
-**Abbreviated name**: *E.E. Fisher*
+**Abbreviated name**: *E.E. Fisher* \[standard form in IPNI: *E.E.Fisher*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33212033) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33212033) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10193-1), [Wikidata](https://www.wikidata.org/wiki/Q6191761). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Strachey, Richard (1817-1908), British colonial administrator, geophysicist and naturalist; with Bombay Engineers 1836, with Bengal Engineers 1839; collected in Punch, Kashmir, and Gharwal Kumaon, 1846-1849; in various military and administrative positions until 1871; stationed in England 1871-1876; retired as Lieutenant-general. 
-**Abbreviated name**: *Strachey*
+**Abbreviated name**: *Strachey* \[standard form in IPNI: *Strachey*\]
 
 #### Herbarium and types
 

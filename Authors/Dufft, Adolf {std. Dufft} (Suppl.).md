@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33260136) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 148](https://www.biodiversitylibrary.org/page/33260136) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2356-1), [Wikidata](https://www.wikidata.org/wiki/Q21511008). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dufft, Adolf {std. Dufft}|first entry]] for this author
 
 ### Author
 
 \* Dufft, Adolf (1800-1875), German factory owner in Potsdam, born 30 Nov 1800, interested in and publishing on lichens especially Cladonia, died 24 Sep 1875 at Potsdam. 
-**Abbreviated name**: *Dufft*
+**Abbreviated name**: *Dufft* \[standard form in IPNI: *Dufft*\]
 
 #### Herbarium and types
 

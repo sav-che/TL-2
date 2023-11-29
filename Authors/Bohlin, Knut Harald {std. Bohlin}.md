@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33120384) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33120384) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/909-1), [Wikidata](https://www.wikidata.org/wiki/Q5580748). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bohlin, Knut Harald {std. Bohlin} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bohlin, Knut Harald (1869-x), Swedish highschool teacher and algologist. 
-**Abbreviated name**: *Bohlin*
+**Abbreviated name**: *Bohlin* \[standard form in IPNI: *Bohlin*\]
 
 #### Herbarium and types
 

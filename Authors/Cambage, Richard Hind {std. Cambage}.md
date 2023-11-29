@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33266626) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33266626) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/12111-1), [Wikidata](https://www.wikidata.org/wiki/Q7326472). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cambage, Richard Hind (1859-1928), Australian mining surveyor and botanist, born at Milton, N.S.W., started out as a teacher but qualified as a licensed surveyor with the Department of Lands 1882-1885, mining surveyor 1902-1916, chief mining surveyor 1916-1924, ultimately under the Dept. of Lands (Mines), in addition surveying at the Sydney Technical College 1909-1915, in botany mainly interested in Eucalyptus and Acacia. 
-**Abbreviated name**: *Cambage*
+**Abbreviated name**: *Cambage* \[standard form in IPNI: *Cambage*\]
 
 #### Herbarium and types
 

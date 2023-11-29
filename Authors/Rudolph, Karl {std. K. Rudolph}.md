@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/page/33190443) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 972](https://www.biodiversitylibrary.org/page/33190443) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8711-1), [Wikidata](https://www.wikidata.org/wiki/Q1732748). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rudolph, Karl (1881-1937), Bohemian botanist of German (Saxonian) origin; studied botany, palaeontology and geology in Wien 1900-1905; student of R. v. Wettstein; Dr. phil. Wien 1905; assistant with F. Czapeck in Czernowicz 1906-1910 and Praha 1910-1913; with G. Beck in Praha 1913-1914; on active duty in the Austrian army 1914-1919; habil. Praha 1919, extraordinary professor of plant systematics at the German University, Praha 1924, "wirklicher" (paid) extraordinary professor ib. 1931; developed quaternary palaeobotany with F. Firbas in Central Europe. 
-**Abbreviated name**: *K. Rudolph*
+**Abbreviated name**: *K. Rudolph* \[standard form in IPNI: *K.Rudolph*\]
 
 #### Herbarium and types
 

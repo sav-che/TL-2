@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33068851) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33068851) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4940-1), [Wikidata](https://www.wikidata.org/wiki/Q5561664). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kolbe, Robert Wilhelm (1882-1960), Russian born diatomologist with Finnish nationality, of German-Finnish-Russian descent; studied at the Friedrich-Wilhelms-Universität, Berlin 1898-1899 and at the Technische Hochschule Dresden until 1904; business administrator in Russia until 1918; emigrated to Finland 1918/1919, returned to Germany to take his degree in the natural sciences with e.g. Kolkwitz and Engler; diatomologist in Germany until 1946, finally in Sweden at the Stockholm natural history museum. 
-**Abbreviated name**: *Kolbe*
+**Abbreviated name**: *Kolbe* \[standard form in IPNI: *Kolbe*\]
 
 #### Herbarium and types
 

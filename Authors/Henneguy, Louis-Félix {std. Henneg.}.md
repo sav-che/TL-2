@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33068399) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33068399) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/29507-1), [Wikidata](https://www.wikidata.org/wiki/Q55045295). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Henneguy, Louis-Félix (1850-1928), French physician and embryologist at Montpellier, later at Paris, first editor of the Archives d'Anatomie microscopique. 
-**Abbreviated name**: *Henneg.*
+**Abbreviated name**: *Henneg.* \[standard form in IPNI: *Henneg.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33066579) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33066579) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11604-1), [Wikidata](https://www.wikidata.org/wiki/Q36601769). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wheeler, James Lowe (*fl*. 1830-1870), British botanist; demonstrator at the Chelsea Physic Garden 1821-1834. 
-**Abbreviated name**: *J.L. Wheeler*
+**Abbreviated name**: *J.L. Wheeler* \[standard form in IPNI: *J.L.Wheeler*\]
 
 #### Herbarium and types
 

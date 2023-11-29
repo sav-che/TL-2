@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33259549) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33259549) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/20016438-1), [Wikidata](https://www.wikidata.org/wiki/Q6223090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Farmer, John Bretland (Sir) (1865-1944), British botanist, born 5 Apr 1865 in Atherstone (Warks.), attended Queen Elizabeth Grammar School in Atherstone but, owing to ill-health, after five years was educated privately, M.A. 1883 Oxon., demonstrator in natural sciences 1883-1887, demonstrator in botany 1887-1892, Asst. Prof. of Botany, Royal College of Science (now Imperial College), London 1892-1895, then Prof. 1895-1929, F.R.S. 1900, visited Ceylon (now Sri Lanka) ca. 1905, knighted 1926, died 26 Jan 1944 in Exmouth (Devon). 
-**Abbreviated name**: *J.B. Farmer*
+**Abbreviated name**: *J.B. Farmer* \[standard form in IPNI: *J.B.Farmer*\]
 
 #### Herbarium and types
 

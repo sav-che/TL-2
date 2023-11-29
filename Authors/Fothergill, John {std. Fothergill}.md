@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 864](https://www.biodiversitylibrary.org/page/33120995) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 864](https://www.biodiversitylibrary.org/page/33120995) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2849-1), [Wikidata](https://www.wikidata.org/wiki/Q1232397). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fothergill, John (1712-1780), British physician and botanist 
-**Abbreviated name**: *Fothergill*
+**Abbreviated name**: *Fothergill* \[standard form in IPNI: *Foth.*\]
 
 #### Herbarium and types
 

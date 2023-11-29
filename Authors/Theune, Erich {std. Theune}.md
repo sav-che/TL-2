@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33212298) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33212298) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10562-1), [Wikidata](https://www.wikidata.org/wiki/Q21610578). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Theune, Erich (1884-?), German (Prussian) botanist; state teacher's exam. 1906; teacher at Leitzkau 1907-1908; id. at Weissenfels 1908-1910; lower high school teacher's exam. 1910, senior high school exam. 1913; studied natural sciences at Leipzig 1911-1912, id. Halle 1913-1916; from 1916 assistant at the Botanical Institute, Halle 
-**Abbreviated name**: *Theune*
+**Abbreviated name**: *Theune* \[standard form in IPNI: *Theune*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33265254) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33265254) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/623-1), [Wikidata](https://www.wikidata.org/wiki/Q19949728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Beille, Lucien (1862-1946), French (Aurillac) pharmacist, physician and botanist at Bordeaux, studied at the University of Bordeaux, professor of materia medica ib. 1908, director of the Jardin botanique de la ville de Bordeaux from 1901; Dr. sci. nat. Bordeaux 1902. 
-**Abbreviated name**: *Beille*
+**Abbreviated name**: *Beille* \[standard form in IPNI: *Beille*\]
 
 #### Herbarium and types
 

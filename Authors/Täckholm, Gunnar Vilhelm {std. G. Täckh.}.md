@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33212189) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 147](https://www.biodiversitylibrary.org/page/33212189) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10380-1), [Wikidata](https://www.wikidata.org/wiki/Q6217824). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Täckholm, Gunnar Vilhelm (1891-1933), Swedish botanist; Dr. phil. Stockholm 1922; with the botanical institute of Stockholm College 1913-1923; high school teacher at Kungsholmen, Stockholm 1923-1925 and from 1929; professor of botany at Cairo University 1925-1929. 
-**Abbreviated name**: *G. Täckh.*
+**Abbreviated name**: *G. Täckh.* \[standard form in IPNI: *G.Täckh.*\]
 
 #### Herbarium and types
 

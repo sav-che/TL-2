@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1013](https://www.biodiversitylibrary.org/page/33190484) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1013](https://www.biodiversitylibrary.org/page/33190484) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8767-1), [Wikidata](https://www.wikidata.org/wiki/Q529211). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ruysch \[Ruijsch\], Frederik (1638-1731), Dutch physician and anatomist; M.D. Leiden 1664; practicing physician in the Hague and Amsterdam; praelector of anatomy for the Amsterdam surgeon's guild 1666-1731; in addition professor of botany at the Amsterdam Athenaeum illustre and superintendent of its botanical garden 1685. 
-**Abbreviated name**: *Ruysch*
+**Abbreviated name**: *Ruysch* \[standard form in IPNI: *Ruysch*\]
 
 #### Herbarium and types
 

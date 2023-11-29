@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33333412) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 273](https://www.biodiversitylibrary.org/page/33333412) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9193-1), [Wikidata](https://www.wikidata.org/wiki/Q21608219). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schneider, George (1848-1917), French-born gardener; went to England 1870; from 1872 employee of Veitch & Sons, Chelsea. 
-**Abbreviated name**: *Geo. Schneid.*
+**Abbreviated name**: *Geo. Schneid.* \[standard form in IPNI: *G.Schneid.*\]
 
 #### Herbarium and types
 

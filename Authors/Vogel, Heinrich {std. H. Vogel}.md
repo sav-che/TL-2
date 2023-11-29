@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33212809) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 767](https://www.biodiversitylibrary.org/page/33212809) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11234-1), [Wikidata](https://www.wikidata.org/wiki/Q47128196). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vogel, Heinrich (fl. 1875), German (Thuringian) botanist. 
-**Abbreviated name**: *H. Vogel*
+**Abbreviated name**: *H. Vogel* \[standard form in IPNI: *H.Vogel*\]
 
 #### Herbarium and types
 

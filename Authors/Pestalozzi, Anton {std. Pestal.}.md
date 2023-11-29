@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33189657) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33189657) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7557-1), [Wikidata](https://www.wikidata.org/wiki/Q5923862). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pestalozzi, Anton (*fl*. 1890), Swiss botanist; assistant to the botanical museum at Zürich 1896. 
-**Abbreviated name**: *Pestal.*
+**Abbreviated name**: *Pestal.* \[standard form in IPNI: *Pestal.*\]
 
 #### Herbarium and types
 

@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/page/33355876) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/page/33355876) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24207-1), [Wikidata](https://www.wikidata.org/wiki/Q932083). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nylander, William (1822-1899), Finnish lichenologist; M. D. Helsinki 1847; to Paris at the Muséum d'Histoire naturelle (1848); first professor of botany at the University of Helsinki 1857-1863; from 1863-1899 again in Paris. 
-**Abbreviated name**: *Nyl.*
+**Abbreviated name**: *Nyl.* \[standard form in IPNI: *Nyl.*\]
 
 #### Herbarium and types
 

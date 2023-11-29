@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33068822) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33068822) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4879-1), [Wikidata](https://www.wikidata.org/wiki/Q3180575). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Knoop, Johann Hermann (± 1700-1769), German born gardener at Marienburg near Leeuwarden, later teacher in mathematics and free-lance publicist. 
-**Abbreviated name**: *Knoop*
+**Abbreviated name**: *Knoop* \[standard form in IPNI: *Knoop*\]
 
 #### Herbarium and types
 

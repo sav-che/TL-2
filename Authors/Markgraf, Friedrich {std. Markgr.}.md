@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33355384) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33355384) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6109-1), [Wikidata](https://www.wikidata.org/wiki/Q91845). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Markgraf, Friedrich (1897-x), German botanist; Dr. phil. Berlin 1922 (student of Engler and Diels); from 1921-1943 at the Botanical Museum, Berlin – Dahlem; Habil. Berlin 1927; prof. of botany Berlin 1934-1943; 1943-1945 at Müncheberg; 1945-1957 at the Botanical Garden Munchen; 1957-1958 at Ankara; from 1958-1967 at Zürich as professor of botany and director of the botanical garden. 
-**Abbreviated name**: *Markgr.*
+**Abbreviated name**: *Markgr.* \[standard form in IPNI: *Markgr.*\]
 
 #### Herbarium and types
 

@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33355655) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33355655) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6613-1), [Wikidata](https://www.wikidata.org/wiki/Q5787578). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moore, David (until 1828: Muir) (1808-1879), Scottish botanist; brother of Charles Moore; at Trinity College Garden Dublin 1829-1834; botanist to Ordnance survey of Ireland 1834-1838; curator of Glasnevin Garden 1838-1879; Dr. phil. h.c. Zürich 1863. 
-**Abbreviated name**: *D. Moore*
+**Abbreviated name**: *D. Moore* \[standard form in IPNI: *Moore*\]
 
 #### Herbarium and types
 

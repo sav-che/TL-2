@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33355322) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 235](https://www.biodiversitylibrary.org/page/33355322) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22706-1), [Wikidata](https://www.wikidata.org/wiki/Q613031). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 MacOwan, Peter (1830-1909), British botanist; B. A. Univ. London 1857; from 1861 in South-Africa; teacher at Grahamstown (1861-1869); at Gill College, Somerset East (1861-1881); director botanical garden Capetown (1881-1892); Government Botanist (1892-1905). 
-**Abbreviated name**: *MacOwan*
+**Abbreviated name**: *MacOwan* \[standard form in IPNI: *MacOwan*\]
 
 #### Herbarium and types
 

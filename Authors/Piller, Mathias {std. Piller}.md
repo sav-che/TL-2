@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33189738) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33189738) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7704-1), [Wikidata](https://www.wikidata.org/wiki/Q6006104). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Piller, Mathias (1733-1788), Austrian botanist and clergyman (S. J.); professor of natural history at the Theresianum in Vienna; later idem in Buda. 
-**Abbreviated name**: *Piller*
+**Abbreviated name**: *Piller* \[standard form in IPNI: *Piller*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33212397) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33212397) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10670-1), [Wikidata](https://www.wikidata.org/wiki/Q557382). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tillandz (Til-landz), Elias Erici \[orig. Tillander\] (1640-1693), Swedish physician and botanist; studied in Åbo and Uppsala; Dr. med. Leiden 1670, later professor of medicine at Åbo \[Finland\]. 
-**Abbreviated name**: *Tillandz*
+**Abbreviated name**: *Tillandz* \[standard form in IPNI: *Tillandz*\]
 
 #### Herbarium and types
 

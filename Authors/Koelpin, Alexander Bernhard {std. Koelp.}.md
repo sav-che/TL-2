@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33068841) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33068841) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4918-1), [Wikidata](https://www.wikidata.org/wiki/Q1287925). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koelpin, Alexander Bernhard (1739-1801), German physician, botanist and teacher at the academic gymnasium at Stettin. 
-**Abbreviated name**: *Koelp.*
+**Abbreviated name**: *Koelp.* \[standard form in IPNI: *Koelp.*\]
 
 #### Herbarium and types
 

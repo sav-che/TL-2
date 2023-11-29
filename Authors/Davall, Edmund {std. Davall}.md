@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33120732) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33120732) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2010-1), [Wikidata](https://www.wikidata.org/wiki/Q3048095). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Davall, Edmund (1763-1798), English botanist who settled in Switzerland and became an inspector of forests. Entertained correspondence with J. E. Smith. 
-**Abbreviated name**: *Davall*
+**Abbreviated name**: *Davall* \[standard form in IPNI: *Davall*\]
 
 #### Herbarium and types
 

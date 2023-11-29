@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33190289) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33190289) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8461-1), [Wikidata](https://www.wikidata.org/wiki/Q21607292). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Robolsky, H. (1796-1849), German botanist and teacher at Neuhaldensleben (Saxony). 
-**Abbreviated name**: *Robolsky*
+**Abbreviated name**: *Robolsky* \[standard form in IPNI: *Robolsky*\]
 
 #### Herbarium and types
 

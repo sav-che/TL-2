@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33068340) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33068340) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3720-1), [Wikidata](https://www.wikidata.org/wiki/Q116720). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hassler, Émile (1861-1937), Swiss botanical collector and physician who settled in Paraguay (1885-1937) with several prolonged stays in Europe; Dr. phil. h.c. Ascunsión 1930. 
-**Abbreviated name**: *Hassl.*
+**Abbreviated name**: *Hassl.* \[standard form in IPNI: *Hassl.*\]
 
 #### Herbarium and types
 

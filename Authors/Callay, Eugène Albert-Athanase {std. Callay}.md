@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33120557) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33120557) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1360-1), [Wikidata](https://www.wikidata.org/wiki/Q5850647). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Callay, Eugène-Albert-Athanase {std. Callay} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Callay, Eugène Albert-Athanase (1822-1896), French pharmacist and botanist at Le Chesne. 
-**Abbreviated name**: *Callay*
+**Abbreviated name**: *Callay* \[standard form in IPNI: *Callay*\]
 
 #### Herbarium and types
 

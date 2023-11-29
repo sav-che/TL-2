@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33355817) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33355817) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24026-1), [Wikidata](https://www.wikidata.org/wiki/Q36595934). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Neuman, Julius John (*fl*. 1914), American botanist with the Wisconsin geological and natural history survey. 
-**Abbreviated name**: *J. Neuman*
+**Abbreviated name**: *J. Neuman* \[standard form in IPNI: *J.Neuman*\]
 
 #### Herbarium and types
 

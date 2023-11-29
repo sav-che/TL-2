@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33265392) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33265392) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/838-1), [Wikidata](https://www.wikidata.org/wiki/Q2984580). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Blake, Stanley Thatcher (1911-1973), Australian botanist, born at Brisbane, Queensland on 3 September 1911, educated at the University of Queensland, M. Sc. 1934 (D. Sc. same university 1956), travelled 1935-1937 in W. Queensland, worked on potential rubber-production plants 1936-1946, from 1946-1973 at the Brisbane Queensland Herbarium. 
-**Abbreviated name**: *S.T. Blake*
+**Abbreviated name**: *S.T. Blake* \[standard form in IPNI: *S.T.Blake*\]
 
 #### Herbarium and types
 

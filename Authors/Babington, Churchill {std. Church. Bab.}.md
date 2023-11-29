@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33264955) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33264955) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31138-1), [Wikidata](https://www.wikidata.org/wiki/Q2754985). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Babington, Churchill (1821-1889), British clergyman, lichenologist and archeologist, cousin of C.C. Babington, educated by his father (Rev. Mathew Drake Babington), St. John's College, Cambridge 1839, graduated 1843, Fellow St. John's College 1856, held the chapelry of Horningsey nr. Cambridge 1848-1861, obtained the living of Cockfield (as rector), Suffolk 1866-1889, D.D. 1879, Hon. fellow St. John's College 1880. 
-**Abbreviated name**: *Church. Bab.*
+**Abbreviated name**: *Church. Bab.* \[standard form in IPNI: *C.Bab.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33265124) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33265124) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/566-1), [Wikidata](https://www.wikidata.org/wiki/Q19274042). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bayer, Johann Nepomuk (1802-1870), Austrian botanist, born in Gross-Krosse/Velká Kras, in former Austrian Silesia \[now Czechoslovakia\], general railroad inspector in the Austrian-Hungarian Empire, mainly stationed in Vienna, sometime in Pest \[Budapest\] 1852 \[- ca. 1855\]; collected and published on the flora of Lower Austria, Moravia, Bohemia and Austrian Silesia 
-**Abbreviated name**: *J.N. Bayer*
+**Abbreviated name**: *J.N. Bayer* \[standard form in IPNI: *Bayer*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33189817) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 346](https://www.biodiversitylibrary.org/page/33189817) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7866-1), [Wikidata](https://www.wikidata.org/wiki/Q48627). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Porter, Thomas Conrad (1822-1901), American botanist; Dr. Div. Rutgers 1865; presbyterian clergyman, ordained 1843 or 1844, practicing 1846-1849; from 1849-1860 teaching natural sciences at Marshall and Franklin College, Mercersburg/Lancaster; from 1866-1897 professor of botany and zoology at Lafayette College, Pa. and minister at Easton, Pa. 1877-1884,; German scholar and poet. 
-**Abbreviated name**: *Porter*
+**Abbreviated name**: *Porter* \[standard form in IPNI: *Porter*\]
 
 #### Herbarium and types
 

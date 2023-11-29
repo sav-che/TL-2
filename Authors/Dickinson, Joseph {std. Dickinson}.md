@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/page/33120775) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 644](https://www.biodiversitylibrary.org/page/33120775) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2191-1), [Wikidata](https://www.wikidata.org/wiki/Q18576577). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dickinson, Joseph {std. Dickinson} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dickinson, Joseph (1805?-1865), British botanist, lecturer at the Liverpool School of Medicine. 
-**Abbreviated name**: *Dickinson*
+**Abbreviated name**: *Dickinson* \[standard form in IPNI: *Dickinson*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33120960) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33120960) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2716-1), [Wikidata](https://www.wikidata.org/wiki/Q21512991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Field, Henry Claylands (1825-1911), British born civil engineer and pteridologist who settled (1855) in New Zealand. 
-**Abbreviated name**: *Field*
+**Abbreviated name**: *Field* \[standard form in IPNI: *Field*\]
 
 #### Herbarium and types
 

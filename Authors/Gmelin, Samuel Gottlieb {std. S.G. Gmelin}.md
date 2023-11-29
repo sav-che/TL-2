@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 958](https://www.biodiversitylibrary.org/page/33121089) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 958](https://www.biodiversitylibrary.org/page/33121089) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3206-1), [Wikidata](https://www.wikidata.org/wiki/Q61471). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gmelin, Samuel Gottlieb (1745-1774), German naturalist and traveller in Russia, nephew of J. G. Gmelin. 
-**Abbreviated name**: *S. G. Gmelin*
+**Abbreviated name**: *S. G. Gmelin* \[standard form in IPNI: *S.G.Gmel.*\]
 
 #### Herbarium and types
 

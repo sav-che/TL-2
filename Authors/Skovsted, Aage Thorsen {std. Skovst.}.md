@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 639](https://www.biodiversitylibrary.org/page/33333778) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 639](https://www.biodiversitylibrary.org/page/33333778) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9725-1), [Wikidata](https://www.wikidata.org/wiki/Q15823216). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Skovsted, Aage Thorsen (1903-1983), Danish botanist; Dr. phil. 1937; assistant at the Danish College of Agriculture 1927-1930; cytogeneticist at the Empire Cotton Growing Corporation's Research Station, Trinidad 1930-1936; at the physiological department of the Carlsberg laboratories in Copenhagen 1936-1956; from 1956 teacher in genetics (from 1959 in botany) at the State Teacher's College; head of the Botanical Museum, Copenhagen 1960-1973. 
-**Abbreviated name**: *Skovst.*
+**Abbreviated name**: *Skovst.* \[standard form in IPNI: *Skovst.*\]
 
 #### Herbarium and types
 

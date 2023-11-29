@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/page/33190303) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/page/33190303) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/30175-1), [Wikidata](https://www.wikidata.org/wiki/Q5950135). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rodríguez y Femenías, Juan Joaquín (1839-1905), Spanish (Menorca) botanist, banker and politician and newspaper owner at Mago (Mahon), Menorca. 
-**Abbreviated name**: *J. Rodríguez*
+**Abbreviated name**: *J. Rodríguez* \[standard form in IPNI: *J.J.Rodr.*\]
 
 #### Herbarium and types
 

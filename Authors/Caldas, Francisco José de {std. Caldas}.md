@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2019-02-21 11:51:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33120555) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33120555) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12108-1), [Wikidata](https://www.wikidata.org/wiki/Q1442069). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Caldas, Francisco José de, (1768-1816), Spanish astronomer at Santa Fé de Bogotá, pupil of Mutis. 
-**Abbreviated name**: *Caldas*
+**Abbreviated name**: *Caldas* \[standard form in IPNI: *Caldas*\]
 
 #### Herbarium and types
 

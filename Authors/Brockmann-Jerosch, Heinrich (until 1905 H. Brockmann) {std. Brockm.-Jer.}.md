@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33266417) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33266417) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/12362-1), [Wikidata](https://www.wikidata.org/wiki/Q121971). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brockmann-Jerosch, Heinrich \[until 1905 H. Brockmann\] (1879-1939), Swiss botanist, born in Winterthur, educated at the Gymnasium of Winterthur, practising agriculture 1898-1899 in Echallens, Waadt, at the Technical University of Zürich 1899, Ing. 1902, original family name Krzymowski, adopted his mother's name Brockmann from 1901, botanical assistant with Carl Schröter 1901-1904, Dr. phil. Univ. Zürich 1906, married Marie Jerosch 1905, from then he used the name Brockmann-Jerosch, "Privatdocent" at the University of Zürich 1903-1933, from 1922 with the professor's title, also professor for geography at a secondary school from 1920 as well as long-time curator of the Geobotanisches Forschungsinstitut Rübel in Zürich. 
-**Abbreviated name**: *Brockm.-Jer.*
+**Abbreviated name**: *Brockm.-Jer.* \[standard form in IPNI: *Brockm.-Jer.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33266657) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33266657) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16853-1), [Wikidata](https://www.wikidata.org/wiki/Q15974143). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Camus, Fernand \[Antonin\] (1852-1922), French botanist, born at Cholet, Maine-et-Loire, educated at the Lycée d'Angers, studied medicine at Nantes, Dr. med. ib. 1880, stage in the military hospital at Rennes 1875-1876, laboratory-assistant at the Sorbonne 1877, "licencierès-sciences naturelles" 1882, teacher at the École Pompée, Ivry-sur-Seine 1884-1899, from 1906 at the Laboratoire de Phanérogamie at the Muséum national d'histoire naturelle, Paris as assistant to L. Mangin. 
-**Abbreviated name**: *F. Camus*
+**Abbreviated name**: *F. Camus* \[standard form in IPNI: *F.A.Camus*\]
 
 #### Herbarium and types
 

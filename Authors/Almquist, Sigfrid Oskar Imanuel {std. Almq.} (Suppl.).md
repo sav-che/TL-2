@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2015-08-26 00:40:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33264811) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 84](https://www.biodiversitylibrary.org/page/33264811) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/30799-1), [Wikidata](https://www.wikidata.org/wiki/Q5547566). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Almquist, Sigfrid Oscar Immanuel {std. Almq.}|first entry]] for this author
 
 ### Author
 
 \* Almquist, Sigfrid Oskar Imanuel (1844-1923), Swedish botanist, brother of Ernst Bernhard Almquist, studied at Uppsala, fil. kand. ib. 1868, fil. dr. ib. 1869, highschool teacher at Stockholm 1870-1880, lector in natural history and chemistry at the Stockholm teachers college at Norrmalm 1880-1909, interim rector ib. 1891-1906. 
-**Abbreviated name**: *S. Almq.*
+**Abbreviated name**: *S. Almq.* \[standard form in IPNI: *Almq.*\]
 
 #### Herbarium and types
 

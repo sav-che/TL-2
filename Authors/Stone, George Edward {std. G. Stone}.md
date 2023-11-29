@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33212071) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33212071) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10180-1), [Wikidata](https://www.wikidata.org/wiki/Q21609897). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stone, George Edward (1860-1941), American botanist and educator; at Massachusetts Inst. Technol. 1885-1888; studied in Germany with W. Pfeffer 1890-1893; Dr. phil. Leipzig 1893; assistant professor of botany at the Massachusetts Agricultural College, Amherst 1893-1916 and plant physiologist Mass. Agr. Expt. Sta. 1895-1916. 
-**Abbreviated name**: *G. Stone*
+**Abbreviated name**: *G. Stone* \[standard form in IPNI: *G.Stone*\]
 
 #### Herbarium and types
 

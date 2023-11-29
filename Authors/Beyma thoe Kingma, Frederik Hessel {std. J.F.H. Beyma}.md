@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33265349) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33265349) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/28164-1), [Wikidata](https://www.wikidata.org/wiki/Q21506052). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Beyma thoe Kingma, Frederik Hessel (1885-1966), Dutch mycologist connected with the Central Bureau voor Schimmelcultures at Baarn (nr. Utrecht). 
-**Abbreviated name**: *J.F.H. Beyma*
+**Abbreviated name**: *J.F.H. Beyma* \[standard form in IPNI: *J.F.H.Beyma*\]
 
 #### Herbarium and types
 

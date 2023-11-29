@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33265947) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33265947) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1742-1), [Wikidata](https://www.wikidata.org/wiki/Q18238178). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Collinder, Erik (1848-1920), Swedish teacher and botanist, born at Arbrå, Hälsingland, educated at Gävle high school 1871, at Uppsala University, fil. kand. 1877, ultimately teacher at Sundsvall 1879-1913. 
-**Abbreviated name**: *Collinder*
+**Abbreviated name**: *Collinder* \[standard form in IPNI: *Collinder*\]
 
 #### Herbarium and types
 

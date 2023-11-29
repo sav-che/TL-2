@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33265233) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33265233) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/15866-1), [Wikidata](https://www.wikidata.org/wiki/Q215979). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Beckmann, Johann (1739-1811), German (Hoya, Hannover) agricultural scientist and technologist; educated at the Gymnasium of Stade 1754-1759; studied theology, natural sciences and administration at the University of Göttingen 1759-1762; travelled in Brunswick and Holland 1762-1763; teacher at the German Gymnasium in St. Petersburg 1763-1765, travelled in Sweden and Denmark 1765-1766; extraordinary professor at Göttingen 1766-1770, id. ordinary professor 1770-1811. 
-**Abbreviated name**: *Beckm.*
+**Abbreviated name**: *Beckm.* \[standard form in IPNI: *Beckm.*\]
 
 #### Herbarium and types
 

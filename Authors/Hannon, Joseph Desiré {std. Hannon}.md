@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33068288) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33068288) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3623-1), [Wikidata](https://www.wikidata.org/wiki/Q3184228). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hannon, Joseph Desiré (1822-1870), Belgian botanist and zoologist; Dr. sci. Liège 1845; from 1849 at the Université de Bruxelles. 
-**Abbreviated name**: *Hannon*
+**Abbreviated name**: *Hannon* \[standard form in IPNI: *Hannon*\]
 
 #### Herbarium and types
 

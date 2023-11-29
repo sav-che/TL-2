@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33066357) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33066357) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12985-1), [Wikidata](https://www.wikidata.org/wiki/Q533348). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wahlenberg, Georg \[from 1804: Göran\] (1780-1851), Swedish botanist; Dr. med. Uppsala 1806; botanical demonstrator Uppsala 1814; titular professor 1826; regular professor of botany and medicine ib., succeeding C.P. Thunberg 1829; travelled in Pommern 1796, Gotland 1799, Lapland and northern Norway (1800, 1802, 1807, 1810), Germany, Switzerland, Austria and the Carpathics (Hungary) 1811-1814; early plant geographer and staunch Linnaean. 
-**Abbreviated name**: *Wahlenb.*
+**Abbreviated name**: *Wahlenb.* \[standard form in IPNI: *Wahlenb.*\]
 
 #### Herbarium and types
 

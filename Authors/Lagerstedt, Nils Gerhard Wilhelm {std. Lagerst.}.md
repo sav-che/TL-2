@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33068966) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 724](https://www.biodiversitylibrary.org/page/33068966) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5208-1), [Wikidata](https://www.wikidata.org/wiki/Q5931539). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lagerstedt, Nils Gerhard Wilhelm (1847-1925), Swedish high school teacher, librarian and botanist at Stockholm (Östermalm); Dr. phil. Uppsala 1869. 
-**Abbreviated name**: *Lagerst.*
+**Abbreviated name**: *Lagerst.* \[standard form in IPNI: *Lagerst.*\]
 
 #### Herbarium and types
 

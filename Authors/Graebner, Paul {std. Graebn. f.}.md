@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33258800) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 322](https://www.biodiversitylibrary.org/page/33258800) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3309-1), [Wikidata](https://www.wikidata.org/wiki/Q21514188). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Graebner, Paul (1900-1978), German botanist, born 4 Feb 1900 in Berlin-Lichterfelde, Ph.D. 1924 Berlin, employed, Westfälisches Provinzial-Museum für Naturkunde, Münster 1931 (at least). 
-**Abbreviated name**: *Graebn. f.*
+**Abbreviated name**: *Graebn. f.* \[standard form in IPNI: *P.Graebn.*\]
 
 #### Note
 

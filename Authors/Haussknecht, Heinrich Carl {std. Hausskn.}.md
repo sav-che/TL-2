@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33068345) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33068345) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3732-1), [Wikidata](https://www.wikidata.org/wiki/Q67102). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Haussknecht, Heinrich Carl (1838-1903), German botanist of independent means at Weimar; botanical explorer of the Orient. 
-**Abbreviated name**: *Hausskn.*
+**Abbreviated name**: *Hausskn.* \[standard form in IPNI: *Hausskn.*\]
 
 #### Herbarium and types
 

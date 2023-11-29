@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33258724) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33258724) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3202-1), [Wikidata](https://www.wikidata.org/wiki/Q84525). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gmelin, Carl (Karl) Christian {std. C.C. Gmelin}|first entry]] for this author
 
 ### Author
 
 \* Gmelin, Carl \[Karl\] Christian (1762-1837), German physician and naturalist, born 18 Mar 1762 in Badenweiler nr. Freiburg, studied, Univ. of Strassburg, Dr. of medicine 1784 Friedrich-Alexander-Univ., Erlangen, prof. of natural sciences and dir. from 1786 of the botanical garden at Karlsruhe, died 26 Jun 1837 in Karlsruhe (Baden-Württemberg). 
-**Abbreviated name**: *C.C. Gmel.*
+**Abbreviated name**: *C.C. Gmel.* \[standard form in IPNI: *C.C.Gmel.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33333601) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33333601) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9395-1), [Wikidata](https://www.wikidata.org/wiki/Q6257130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scouler, John (1804-1871), Scottish geologist and botanist; surgeon and naturalist on the voyage to Columbia River (American Northwest) 1824-1825 with David Douglas; travelled to Calcutta via the Cape 1826; professor of geology Glasgow 1829-1833; professor of geology, zoology and botany to the Royal Dublin Society 1833-1854. 
-**Abbreviated name**: *Scouler*
+**Abbreviated name**: *Scouler* \[standard form in IPNI: *Scouler*\]
 
 #### Herbarium and types
 

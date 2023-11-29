@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33266511) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 204](https://www.biodiversitylibrary.org/page/33266511) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/32579-1), [Wikidata](https://www.wikidata.org/wiki/Q21506615). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Budde, Herrmann (1890-1954), German botanist, algologist and pollen analyst, student of the Westphalian bogs and phytosociologist, school teacher, later lecturer at a teacher's training college, subsequently lecturer and professor at the University of Münster. 
-**Abbreviated name**: *Budde*
+**Abbreviated name**: *Budde* \[standard form in IPNI: *Budde*\]
 
 #### Herbarium and types
 

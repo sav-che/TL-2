@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33355477) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33355477) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6280-1), [Wikidata](https://www.wikidata.org/wiki/Q47122254). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mayr, Johann (*fl*. 1797), German engraver and printer at Regensburg. 
-**Abbreviated name**: *J. Mayr*
+**Abbreviated name**: *J. Mayr* \[standard form in IPNI: *J.Mayr*\]
 
 #### Herbarium and types
 

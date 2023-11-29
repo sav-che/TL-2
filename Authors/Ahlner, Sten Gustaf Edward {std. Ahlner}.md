@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33264737) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33264737) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/30694-1), [Wikidata](https://www.wikidata.org/wiki/Q21388731). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ahlner, Sten Gustaf Edward (1905-x), Swedish lichenologist; studied at the University of Uppsala, fil. mag. 1930, fil. lic. 1936, Dr. phil. Uppsala 1948, lecturer at the University of Uppsala, from 1950 at the Naturhistoriska Riksmuseum, Stockholm. 
-**Abbreviated name**: *Ahlner*
+**Abbreviated name**: *Ahlner* \[standard form in IPNI: *Ahlner*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33266703) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33266703) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16877-1), [Wikidata](https://www.wikidata.org/wiki/Q21506946). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cappelletti, Carlo (1900-x), Italian botanist, born in Verona, studied at the University of Torino, studied with Mattirolo, graduate 1921, assistant at the University of Padua, lecturer 1927, professor of botany at the University of Torino 1932, id. at Padua 1948-1970. 
-**Abbreviated name**: *Cappelletti*
+**Abbreviated name**: *Cappelletti* \[standard form in IPNI: *Capp.*\]
 
 #### Herbarium and types
 

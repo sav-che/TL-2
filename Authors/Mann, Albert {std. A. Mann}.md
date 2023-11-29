@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33355363) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33355363) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6068-1), [Wikidata](https://www.wikidata.org/wiki/Q21519902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mann, Albert (1853-1935), American diatomologist; A. B. and A. M. Wesleyan Univ. 1879; Episcopalian minister, 1880-1892; Dr. phil. München 1894; professor of biology Wesleyan Univ. 1895-1899/1900; from 1905-1935 custodian of diatoms at USDA and the Smithsonian Institution 
-**Abbreviated name**: *A. Mann*
+**Abbreviated name**: *A. Mann* \[standard form in IPNI: *A.Mann*\]
 
 #### Herbarium and types
 

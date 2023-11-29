@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33189547) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33189547) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7362-1), [Wikidata](https://www.wikidata.org/wiki/Q359462). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parodi, Lorenzo Raimundo (1895-1966), Argentinian botanist (esp. agrostologist); studied with L. Hauman at the Univ. of Buenos Aires, Ir. agron. ib. 1918; professor of botany at the Faculties of Agronomy in Buenos Aires (1926-1966) and La Plata (1922-1947) and at the Museo de La Plata (1934-1947). 
-**Abbreviated name**: *Parodi*
+**Abbreviated name**: *Parodi* \[standard form in IPNI: *Parodi*\]
 
 #### Herbarium and types
 

@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33264870) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33264870) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/252-1), [Wikidata](https://www.wikidata.org/wiki/Q1372712). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arcangeli, Giovanni {std. Arcang.}|first entry]] for this author
 
 ### Author
 
 \* Arcangeli, Giovanni (1840-1921), Italian botanist, director a.i. botanical garden of Firenze 1877-1878, director of the botanical garden of the University of Torino 1879-1883, id. of Pisa 1883-1915. 
-**Abbreviated name**: *Arcang.*
+**Abbreviated name**: *Arcang.* \[standard form in IPNI: *Arcang.*\]
 
 #### Herbarium and types
 

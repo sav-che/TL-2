@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/page/33333903) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 764](https://www.biodiversitylibrary.org/page/33333903) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9936-1), [Wikidata](https://www.wikidata.org/wiki/Q21341677). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sowter, Frederick Archibald (1899-1972), British sales manager, bryologist and lichenologist at Leicester. 
-**Abbreviated name**: *Sowter*
+**Abbreviated name**: *Sowter* \[standard form in IPNI: *Sowter*\]
 
 #### Herbarium and types
 

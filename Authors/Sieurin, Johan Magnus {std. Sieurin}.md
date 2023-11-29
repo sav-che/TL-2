@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33333734) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33333734) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9629-1), [Wikidata](https://www.wikidata.org/wiki/Q21608875). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sieurin, Johan Magnus (1813-1846), Swedish botanist and physician; Dr. phil. Uppsala (under E. Fries) 1836; med. lic. ibid. 1844; assistant for natural history and librarian at the Karolinska Inst., Stockholm 1840-1845; ships physician on the Carlskrona 1845; drowned off Cape Matanzas, Cuba. 
-**Abbreviated name**: *Sieurin*
+**Abbreviated name**: *Sieurin* \[standard form in IPNI: *Sieurin*\]
 
 #### Herbarium and types
 

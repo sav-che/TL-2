@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33212304) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33212304) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12930-1), [Wikidata](https://www.wikidata.org/wiki/Q1875093). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thienemann, \[Friedrich August\] Ludwig (1793-1858), German (Saxony) ornithologist, physician, librarian and traveller; Dr. med. Leipzig 1820; travelled in Iceland and Norway 1820-1821; lecturer Univ. Leipzig 1822; assistant curator Natural History Cabinet Dresden 1825-1831; librarian in Dresden 1839-1842; from 1842 active as private scientist. 
-**Abbreviated name**: *L. Thienem.*
+**Abbreviated name**: *L. Thienem.* \[standard form in IPNI: *L.Thienem.*\]
 
 #### Herbarium and types
 

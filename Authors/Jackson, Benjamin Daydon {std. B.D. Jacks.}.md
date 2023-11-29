@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33068638) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33068638) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4362-1), [Wikidata](https://www.wikidata.org/wiki/Q817450). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jackson, Benjamin Daydon (1846-1927), British botanist and botanical bibliographer; original compiler and editor of the Kew Index; Linnaean scholar; botanical secretary Linnaean Society (1880-1902); general secretary id. (1902-1926). 
-**Abbreviated name**: *B. D. Jacks.*
+**Abbreviated name**: *B. D. Jacks.* \[standard form in IPNI: *B.D.Jacks.*\]
 
 #### Herbarium and types
 

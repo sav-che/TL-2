@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33212321) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33212321) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27687-1), [Wikidata](https://www.wikidata.org/wiki/Q21610647). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thompson, Arnold (1876-1959), British bryologist and teacher (Sphagnaceae); studied at London University and Tübingen (1902-1903), teacher Bootham School York 1903-1906 and at King Edward VII School, Sheffield 1906-1936; in retirement at Skipton; secretary British Bryological Society 1936-1947, president 1948-1949. 
-**Abbreviated name**: *Arn. Thomps.*
+**Abbreviated name**: *Arn. Thomps.* \[standard form in IPNI: *A.Thomps.*\]
 
 #### Herbarium and types
 

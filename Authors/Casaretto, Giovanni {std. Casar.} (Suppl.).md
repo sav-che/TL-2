@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33266752) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33266752) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1435-1), [Wikidata](https://www.wikidata.org/wiki/Q3107130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Casaretto, Giovanni {std. Casar.}|first entry]] for this author
 
 ### Author
 
 \* Casaretto, Giovanni (1812-1879), Italian botanist, born in Genova, studied at the Scolopi in Carcare, medicine at the Università di Genova, botany with Viviani, travelled in the Crimea 1836, went to Brazil collecting plants. 
-**Abbreviated name**: *Casar.*
+**Abbreviated name**: *Casar.* \[standard form in IPNI: *Casar.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33190330) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 859](https://www.biodiversitylibrary.org/page/33190330) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8526-1), [Wikidata](https://www.wikidata.org/wiki/Q21607334). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rogers, Julia Ellen (1866-?), American author of popular books on trees; studied at Iowa State University and Cornell Univ., M.S. Cornell 1902; high school teacher in Des Moines 1881-1887, and Cedar Rapids, Iowa, 1892-1900; from 1903 lecturer in civic improvement and nature subjects, residing in New Jersey, later in Long Beach, California. 
-**Abbreviated name**: *J.E. Rogers*
+**Abbreviated name**: *J.E. Rogers* \[standard form in IPNI: *J.E.Rogers*\]
 
 #### Herbarium and types
 

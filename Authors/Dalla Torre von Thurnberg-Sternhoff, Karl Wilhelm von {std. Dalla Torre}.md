@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33120723) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 592](https://www.biodiversitylibrary.org/page/33120723) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1964-1), [Wikidata](https://www.wikidata.org/wiki/Q79155). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dalla Torre von Thunberg-Sternhoff, Carl Wilhelm {std. Dalla Torre} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dalla Torre von Thurnberg-Sternhoff, Karl Wilhelm von (1850-1928), Austrian botanist and entomologist. 
-**Abbreviated name**: *Dalla Torre*
+**Abbreviated name**: *Dalla Torre* \[standard form in IPNI: *Dalla Torre*\]
 
 #### Herbarium and types
 

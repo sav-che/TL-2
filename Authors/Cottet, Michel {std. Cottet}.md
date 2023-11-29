@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33266084) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33266084) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1832-1), [Wikidata](https://www.wikidata.org/wiki/Q21509149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cottet, Michel (1825-1896), Swiss canon and vicar in Gruyères, Canton Freiburg, from 1850 idem in Romont. 
-**Abbreviated name**: *Cottet*
+**Abbreviated name**: *Cottet* \[standard form in IPNI: *Cottet*\]
 
 #### Herbarium and types
 

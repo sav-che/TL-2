@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33333311) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33333311) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9092-1), [Wikidata](https://www.wikidata.org/wiki/Q21388096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schindler, Anton Karl (1879-1964), German (Bremen) botanist; studied in Göttingen, Strassburg, Halle; Dr. phil. Erlangen 1904; professor of natural sciences at the University of Peking 1905-1907, idem Shanghai 1907-1910; high school teacher at Magdeburg and Posen 1910-1916; on active service 1916-1918; teacher in Jüterbog 1918-1925; studied dentistry 1925-1929; practiced in Grossalmerode nr. Kassel 1929-1932; in Döberitz nr. Berlin 1932-1956; fled to Düsseldorf 1956. 
-**Abbreviated name**: *Schiudl.*
+**Abbreviated name**: *Schiudl.* \[standard form in IPNI: *Schindl.*\]
 
 #### Herbarium and types
 

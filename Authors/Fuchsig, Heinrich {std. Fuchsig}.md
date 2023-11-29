@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33258549) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33258549) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19026-1), [Wikidata](https://www.wikidata.org/wiki/Q21513611). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fuchsig, Heinrich (1887-x), Austrian botanist, Ph.D. 1910 Graz, prof. of Natural History in Vienna in 1924. 
-**Abbreviated name**: *Fuchsig*
+**Abbreviated name**: *Fuchsig* \[standard form in IPNI: *Fuchsig*\]
 
 #### Herbarium and types
 

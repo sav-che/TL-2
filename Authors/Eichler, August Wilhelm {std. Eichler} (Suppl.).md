@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33260264) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33260264) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2488-1), [Wikidata](https://www.wikidata.org/wiki/Q62142). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Eichler, August Wilhelm {std. Eichler}|first entry]] for this author
 
 ### Author
 
 Eichler, August Wilhelm (1839-1887), German botanist, born 22 Apr 1839 at Neukirchen, Hessen, moved to Eschwege and visited school there, studied mathematics and natural sciences at Marburg 1857-1860, promotion in 1861, became assistant of Martius at Munich, teacher in botany at Munich 1865, from 1868 editor of "Flora Brasiliensis", professor of botany at Graz 1871, moved to Kiel in 1873, professor in Berlin from 1878, got leukaemia in 1886, died 2 Mar 1887. 
-**Abbreviated name**: *Eichler*
+**Abbreviated name**: *Eichler* \[standard form in IPNI: *Eichler*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33189676) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33189676) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7587-1), [Wikidata](https://www.wikidata.org/wiki/Q4360385). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petrak, Franz (1886-1973), Austrian mycologist, born in Mährisch-Weisskirchen (later Hranice); studied in Vienna from 1906-1910 with R. von Wettstein; Dr. sci. ib. 1913; high school teacher in Wien until 1916; in the Austrian Army 1916-1918; from 1918-1938; living as a private scientist in his home town selling exsiccatae; at the Naturh. Museum, Wien 1938-1951; travelled in the United States Apr 1950-Feb 1951. 
-**Abbreviated name**: *Petr.*
+**Abbreviated name**: *Petr.* \[standard form in IPNI: *Petr.*\]
 
 #### Herbarium and types
 

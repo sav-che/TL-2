@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33212732) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 690](https://www.biodiversitylibrary.org/page/33212732) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11108-1), [Wikidata](https://www.wikidata.org/wiki/Q6135970). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Veitch, James Herbert (1868-1907), British horticulturist and collector; son of John Gould Veitch (1839-1870), worked in the Chelsea nursery of the Veitch family from 1885; travelled around the world 1891-1893; managing director of James Veitch & Sons Ltd. 1898; sent E.H. Wilson to Tibet and China for plant collecting. 
-**Abbreviated name**: *J.H. Veitch*
+**Abbreviated name**: *J.H. Veitch* \[standard form in IPNI: *J.H.Veitch*\]
 
 #### Herbarium and types
 

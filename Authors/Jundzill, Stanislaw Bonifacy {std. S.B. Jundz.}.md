@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33068711) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33068711) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4577-1), [Wikidata](https://www.wikidata.org/wiki/Q2362764). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jundzill, Stanislaw Bonifacy (1761-1847), Polish botanist at Wilna. 
-**Abbreviated name**: *S. B. Jundz.*
+**Abbreviated name**: *S. B. Jundz.* \[standard form in IPNI: *S.B.Jundz.*\]
 
 #### Herbarium and types
 

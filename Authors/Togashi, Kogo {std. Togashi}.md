@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33212426) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 384](https://www.biodiversitylibrary.org/page/33212426) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10712-1), [Wikidata](https://www.wikidata.org/wiki/Q21610822). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Togashi, Kogo (1895-1952), Japanese mycologist and plant pathologist; Dr. sci. Hokkaido Univ. 1931; assistant professor Kyoto University 1925; professor of plant pathology Morioka College of Agriculture and Forestry 1926. 
-**Abbreviated name**: *Togashi*
+**Abbreviated name**: *Togashi* \[standard form in IPNI: *Togashi*\]
 
 #### Herbarium and types
 

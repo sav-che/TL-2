@@ -24,9 +24,8 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-01-10 11:45:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33259829) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 325](https://www.biodiversitylibrary.org/page/33259829) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2835-1), [Wikidata](https://www.wikidata.org/wiki/Q58062). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Forster, Johann Georg Adam {std. G. Forster}|first entry]] for Johann Georg
 
@@ -36,7 +35,7 @@ ipni_record_modified: 2012-01-10 11:45:17.0
 ### Author
 
 \* Forster, Johann Georg \[b. George!\] Adam (1754-1794), German explorer and botanist, born 27 Dec 1754, son of J.R. Forster whom he accompanied to Russia, England and on Capt. J. Cook's second voyage (1772-1775), died 10 Jan 1794 in Paris. 
-**Abbreviated name**: *G. Forst.*
+**Abbreviated name**: *G. Forst.* \[standard form in IPNI: *G.Forst.*\]
 
 **and**
 

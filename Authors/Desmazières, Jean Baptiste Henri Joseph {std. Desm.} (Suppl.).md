@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33259270) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33259270) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17965-1), [Wikidata](https://www.wikidata.org/wiki/Q4157332). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Desmazières, Jean Baptiste Henri Joseph {std. Desm.}|first entry]] for this author
 
 ### Author
 
 \* Desmazières, Jean Baptiste Henri Joseph (1786-1862), French merchant, amateur botanist and horticulturist, mycologist and agrostologist, born 10 Jul 1786, Lille, France, died 23 Jun 1862 at Lambersart near Lille, pharmacist at Lille. 
-**Abbreviated name**: *Desm.*
+**Abbreviated name**: *Desm.* \[standard form in IPNI: *Desm.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33265941) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33265941) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/13569-1), [Wikidata](https://www.wikidata.org/wiki/Q21508845). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Coleman, Nathan (1825-1887), American school teacher, later professor, born 13 Aug 1825, Cheshire, Mass., died 21 Jun 1897, Marshall, Texas, lived 1873-1875 Grand Rapids as school teacher. 
-**Abbreviated name**: *N. Coleman*
+**Abbreviated name**: *N. Coleman* \[standard form in IPNI: *N.Coleman*\]
 
 #### Herbarium and types
 

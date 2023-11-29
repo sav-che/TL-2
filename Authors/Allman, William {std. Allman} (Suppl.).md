@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-07-25 09:15:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33264804) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33264804) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/156-1), [Wikidata](https://www.wikidata.org/wiki/Q4019921). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Allman, William {std. Allman}|first entry]] for this author
 
 ### Author
 
 \* Allman, William (1776-1846), Jamaica born Irish botanist and physician, M.D. Dublin 1804, practised medicine in Clonmel 1804-1809, professor of botany Dublin 1809-1844. 
-**Abbreviated name**: *Allman*
+**Abbreviated name**: *Allman* \[standard form in IPNI: *Allman*\]
 
 #### Herbarium and types
 

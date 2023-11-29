@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33265255) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33265255) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/15887-1), [Wikidata](https://www.wikidata.org/wiki/Q3658812). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Beilschmied, Carl (Karl) Traugott {std. Beilschm.}|first entry]] for this author
 
 ### Author
 
 \* Beilschmied, Carl \[Karl\] Traugott (1793-1848), German (Schlesien) botanist and pharmacist, educated at the gymnasium of Bunzlau, practical pharmaceutical training in Beuthen a.d. O. 1807, id. Breslau 1814-1817, pharmacist at Beuthen 1817-1819, id. Berlin 1819, id. Bonn 1820, studied at the University of Bonn 1820-1822, pharmacist at Ohlau 1822, from 1826 owner of the Mende'sche pharmacy, combining his work at the pharmacy with field botany as well as editing the german version of Wikström's botanical annual bibliographies; Dr. phil. h.c. Breslau 1837; moved to Herrnstadt 1845, died of tuberculosis. 
-**Abbreviated name**: *Beilschm.*
+**Abbreviated name**: *Beilschm.* \[standard form in IPNI: *Beilschm.*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33265097) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33265097) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/15765-1), [Wikidata](https://www.wikidata.org/wiki/Q7323833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bastow, Richard Austin (1839-1920), British (Scottish) architect and botanist, architectural draughtsman, went to Tasmania as such in 1884, later living in Victoria, Australia, in St. Kilda nr. Melbourne. 
-**Abbreviated name**: *Bastow*
+**Abbreviated name**: *Bastow* \[standard form in IPNI: *Bastow*\]
 
 #### Herbarium and types
 

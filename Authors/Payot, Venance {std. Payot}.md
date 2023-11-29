@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33189598) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33189598) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24660-1), [Wikidata](https://www.wikidata.org/wiki/Q3555389). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Payot, Venance (1826-1902), French (Savoie) commercial naturalist and mountain guide; local administrator and botanist at Chamonix; botanical explorer of the Mont Blanc region. 
-**Abbreviated name**: *Payot*
+**Abbreviated name**: *Payot* \[standard form in IPNI: *Payot*\]
 
 #### Herbarium and types
 

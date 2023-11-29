@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33264907) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33264907) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/40068-1), [Wikidata](https://www.wikidata.org/wiki/Q21505367). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Artzt, Franz Friedrich Anton (1844-1922), German (Sachsen) botanist and engineer (Königlicher sächsischer Vermessungsingenieur, Plauen i.V.). 
-**Abbreviated name**: *Artzt*
+**Abbreviated name**: *Artzt* \[standard form in IPNI: *Artzt*\]
 
 #### Herbarium and types
 

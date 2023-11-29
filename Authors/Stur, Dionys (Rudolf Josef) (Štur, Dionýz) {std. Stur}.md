@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33212065) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 61](https://www.biodiversitylibrary.org/page/33212065) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10252-1), [Wikidata](https://www.wikidata.org/wiki/Q905900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stur, Dionys \[Rudolf Josef\] \[Štur, Dionýz\] (1827-1893), Slovak botanist, geologist and paleobotanist; studied at Wien and Schemnitz; student of St. Endlicher with the Geol. Reichsanstalt, Wien from 1850, Bergrath 1867, geologist-in-chief 1873-1877, from 1877-1885 assistant director, director 1885-1892; Cothenius medal Leopoldina 1890. 
-**Abbreviated name**: *Stur*
+**Abbreviated name**: *Stur* \[standard form in IPNI: *Stur*\]
 
 #### Herbarium and types
 

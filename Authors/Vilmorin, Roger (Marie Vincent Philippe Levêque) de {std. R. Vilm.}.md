@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33212789) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33212789) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11203-1), [Wikidata](https://www.wikidata.org/wiki/Q970135). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vilmorin, Roger \[Marie Vincent Philippe Levêque\] de (1905-1980), French botanist, geneticist and horticulturist; son of Philippe de Vilmorin; member of the Editorial Committee for the International Code of Botanical Nomenclature 1954-1972; president International Commission for the Nomenclature of Cultivated Plants of I.U.B.S. 1955-1961; with Vilmorin-Andrieux from 1925-1962 as director of the Service des graines, subsequently engaged with M. Guinochet on a new Flore de France. 
-**Abbreviated name**: *R. Vilm.*
+**Abbreviated name**: *R. Vilm.* \[standard form in IPNI: *R.Vilm.*\]
 
 #### Herbarium and types
 

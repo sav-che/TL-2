@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33212553) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33212553) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10858-1), [Wikidata](https://www.wikidata.org/wiki/Q21610977). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Truan y Luard, Alfredo (1837-1890), Swiss-born Spanish photographer, lithographer and diatomist; trained as photographer in Switzerland, 1853-1863; from 1863 in Gijon, Spain in charge of a glass factory, and dedicating himself in his spare time to the study of diatoms. 
-**Abbreviated name**: *Truan*
+**Abbreviated name**: *Truan* \[standard form in IPNI: *Truan*\]
 
 #### Herbarium and types
 

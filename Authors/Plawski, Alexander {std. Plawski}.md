@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33189762) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33189762) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7748-1), [Wikidata](https://www.wikidata.org/wiki/Q36508176). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Plawski, Alexander (*fl*. 1830), Polish botanist. 
-**Abbreviated name**: *Plawski*
+**Abbreviated name**: *Plawski* \[standard form in IPNI: *Plawski*\]
 
 #### Herbarium and types
 

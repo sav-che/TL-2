@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33068956) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 714](https://www.biodiversitylibrary.org/page/33068956) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5182-1), [Wikidata](https://www.wikidata.org/wiki/Q21518266). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lachenal, Werner de (1736-1800), Swiss botanist; Dr. med. Basel 1759; professor of anatomy and botany at Basel (1776-1800) 
-**Abbreviated name**: *Lachen.*
+**Abbreviated name**: *Lachen.* \[standard form in IPNI: *Lachen.*\]
 
 #### Herbarium and types
 

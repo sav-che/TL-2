@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33265728) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33265728) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/32689-1), [Wikidata](https://www.wikidata.org/wiki/Q7910974). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chapman, Valentine Jackson (1910-1980), British botanist, born in Alcester, Warwickshire, born on St. Valentine's Day (hence his name; also "Val"), educated at Marlborough College, Wiltshire and at the University of Cambridge, BA at Pembroke College 1932, Dr. phil. at Gonville and Caius Colleges, Cambridge 1935, Henry Fellow Harvard U.S.A. 1935-1936, assistant lecturer at Manchester University 1936-1937, Drosier research fellow at Gonville and Caius Colleges, Cambridge 1937-1946, professor of botany at Auckland University College, Univ. New Zealand 1946-1980. 
-**Abbreviated name**: *V.J. Chapm.*
+**Abbreviated name**: *V.J. Chapm.* \[standard form in IPNI: *V.J.Chapm.*\]
 
 #### Herbarium and types
 

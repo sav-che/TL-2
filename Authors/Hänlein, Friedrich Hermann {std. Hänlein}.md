@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33068250) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33068250) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3536-1), [Wikidata](https://www.wikidata.org/wiki/Q21514616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hänlein, Friedrich Hermann (1851-?), German botanist and microbiologist; born at Reinsdorf nr. Waldheim; studied at Leipzig under Luerssen. 
-**Abbreviated name**: *Hänlein*
+**Abbreviated name**: *Hänlein* \[standard form in IPNI: *Hänlein*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33264825) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33264825) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/178-1), [Wikidata](https://www.wikidata.org/wiki/Q21340902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ames, Lawrence Marion {std. L. Ames}|first entry]] for this author
 
 ### Author
 
 \* Ames, Lawrence Marion (1900-1966), American mycologist and phytopathologist, grew up at farms in Michigan and Illinois, at Blackburn Academy, Carlinville, Ill. 1920-1923, at Michigan State College, East Lansing, B.S. 1927, M.S. 1929; main teacher E.A. Bessey; assistant pathologist Ohio Agr. Exp. Sta., Wooster 1929-1930; at the cryptogamic laboratories of Harvard 1930-1932; Ph.D. Harvard 1933, associate pathologist U.S. Bureau of Entomology 1932-1944, specialized in fimicolous and cellulose-inhabiting fungi; research mycologist with the Army Corps of engineers Laboratories, Fort Belvoir, Virginia; later at Arlington County as scientific officer in the U.S. Army 1944-1961; in retirement consultant with the National Research Council. 
-**Abbreviated name**: *L. Ames*
+**Abbreviated name**: *L. Ames* \[standard form in IPNI: *L.M.Ames*\]
 
 #### Herbarium and types
 

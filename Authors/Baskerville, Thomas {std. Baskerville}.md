@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33265093) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33265093) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/20008581-2), [Wikidata](https://www.wikidata.org/wiki/Q3990580). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Baskerville, Thomas (1812-1840), British physician, member of the Royal College of Surgeons, London, M.R.C.S. 1835, practised in Canterbury. 
-**Abbreviated name**: *Baskerville*
+**Abbreviated name**: *Baskerville* \[standard form in IPNI: *T.Baskerv.*\]
 
 #### Herbarium and types
 

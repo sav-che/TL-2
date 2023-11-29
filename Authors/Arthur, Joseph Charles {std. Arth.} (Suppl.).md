@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33264900) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33264900) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/294-1), [Wikidata](https://www.wikidata.org/wiki/Q1706753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arthur, Joseph Charles {std. Arth.}|first entry]] for this author
 
 ### Author
 
 \* Arthur, Joseph Charles (1850-1942), American mycologist, educated at Charles City, Iowa, studied at Iowa State College (with C.E. Bessey) 1869-1872, B.S. ib. 1872, instructor ib. 1876-1878, M.S. 1878, met E.W.D. Holway in this period, (the association was to last 48 years), studied briefly at Harvard and John Hopkins 1877-1879, instructor at the University of Wisconsin 1879-1881, at the University of Minnesota 1882, botanist at the New York Agricultural Experiment Station, Geneva, New York 1882-1887, Dr. Sci. Cornell 1886, professor of botany at Purdue University 1887, professor of vegetable physiology and botanist in the Purdue University Agricultural Experiment Station 1888-1915, professor emeritus from 1915, continuing his work on the Uredinales, LLD Iowa 1916, Dr. Sc. h.c. Purdue 1931. 
-**Abbreviated name**: *Arth.*
+**Abbreviated name**: *Arth.* \[standard form in IPNI: *Arthur*\]
 
 #### Herbarium and types
 

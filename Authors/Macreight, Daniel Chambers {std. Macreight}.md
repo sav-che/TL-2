@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33355323) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33355323) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5960-1), [Wikidata](https://www.wikidata.org/wiki/Q5798218). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Macreight, Daniel Chambers (1799-1868), Irish physician and botanist; BA Dublin 1820, MD 1827; lecturer at Middlesex Hospital, 1837 
-**Abbreviated name**: *Macreight*
+**Abbreviated name**: *Macreight* \[standard form in IPNI: *Macreight*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33259265) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 219](https://www.biodiversitylibrary.org/page/33259265) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2149-1), [Wikidata](https://www.wikidata.org/wiki/Q21510267). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Des Étangs, \[Nicolas\] Stanislas \[Chaãles\] (1801-1876), French botanist and justice of the peace at Bar-sur-Aube, born 23 trim. an x (14 Dec 1801) at Andelot, died 10 Dec 1876, Paris. 
-**Abbreviated name**: *Des Étangs*
+**Abbreviated name**: *Des Étangs* \[standard form in IPNI: *Des Étangs*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33068642) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33068642) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4367-1), [Wikidata](https://www.wikidata.org/wiki/Q21516856). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jackson, Vincent Wilson (1876-x), Canadian botanist. 
-**Abbreviated name**: *V. Jacks.*
+**Abbreviated name**: *V. Jacks.* \[standard form in IPNI: *V.W.Jacks.*\]
 
 #### Herbarium and types
 

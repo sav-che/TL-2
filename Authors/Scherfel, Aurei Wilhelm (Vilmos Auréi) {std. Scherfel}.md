@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33333279) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33333279) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9058-1), [Wikidata](https://www.wikidata.org/wiki/Q21607891). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scherfel, Aurei Wilhelm (Vilmos Auréi) (1835-1895), Austro-Hungarian botanist and pharmacist; practicing pharmacist at Felka; founder and first director of the Tatra Museum in Poprad-Felka (Slovakia), explorer of the western Carpathic Mts. 
-**Abbreviated name**: *Scherfel*
+**Abbreviated name**: *Scherfel* \[standard form in IPNI: *Scherfel*\]
 
 #### Herbarium and types
 

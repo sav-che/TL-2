@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33355496) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 409](https://www.biodiversitylibrary.org/page/33355496) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6330-1), [Wikidata](https://www.wikidata.org/wiki/Q21520343). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Melén, Eric Gustaf (1801-1828), Swedish physician and botanist; student of C. P. Thunberg; Dr. med. Upsal. 1826; hospital physician at Kalmar 1826-1828 
-**Abbreviated name**: *Melén*
+**Abbreviated name**: *Melén* \[standard form in IPNI: *Melén*\]
 
 #### Herbarium and types
 

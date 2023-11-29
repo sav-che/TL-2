@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33120172) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33120172) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/179-1), [Wikidata](https://www.wikidata.org/wiki/Q1669326). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ames, Oakes {std. Ames} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Ames, Oakes (1874-1950), American orchidologist, professor of economic botany at Harvard University 
-**Abbreviated name**: *Ames*
+**Abbreviated name**: *Ames* \[standard form in IPNI: *Ames*\]
 
 #### Herbarium and types
 

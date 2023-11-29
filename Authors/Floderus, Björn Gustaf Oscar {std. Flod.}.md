@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33259764) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 260](https://www.biodiversitylibrary.org/page/33259764) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2787-1), [Wikidata](https://www.wikidata.org/wiki/Q5733753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Floderus, Björn Gustaf Oscar (1867-1941), Swedish physician esp. interested in the genus *Salix*, born 14 Aug 1867 in Uppsala, studied medicine at the Univ. of Uppsala from 1885, med. cand. 1889, docent in surgery at Uppsala 1897, Dr. med. 1898 in Stockholm where he resided from 1899 and where he died on 12 Mai 1941. 
-**Abbreviated name**: *Flod.*
+**Abbreviated name**: *Flod.* \[standard form in IPNI: *Flod.*\]
 
 #### Note
 

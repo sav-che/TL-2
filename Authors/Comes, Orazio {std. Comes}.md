@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33265963) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33265963) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/13921-1), [Wikidata](https://www.wikidata.org/wiki/Q3884907). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Comes, Orazio (1848-1923), Italian botanist, born at Monopoli, Bari, professor of botany at the Scuola super. agric. Portici, also professor at the University of Napoli, ultimately director of the Scuola super. agric. Portici, director of the Botanical Garden of the University of Napoli 1877-1917. 
-**Abbreviated name**: *Comes*
+**Abbreviated name**: *Comes* \[standard form in IPNI: *Comes*\]
 
 #### Herbarium and types
 

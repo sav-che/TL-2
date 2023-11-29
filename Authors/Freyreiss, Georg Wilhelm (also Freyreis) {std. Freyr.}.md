@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33121008) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33121008) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2902-1), [Wikidata](https://www.wikidata.org/wiki/Q3101335). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Freyreiss, Georg Wilhelm (also Freyreis) (1789-1825), German traveller who collected in Brazil (1813-1818). 
-**Abbreviated name**: *Freyr.*
+**Abbreviated name**: *Freyr.* \[standard form in IPNI: *Freyr.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33068486) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33068486) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4015-1), [Wikidata](https://www.wikidata.org/wiki/Q4147110). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoffmann, \[Karl August\] Otto (1853-1909), German synantherologist of the Engler School, studied at Berlin and Göttingen, from 1877 high school teacher at the Friedrichs-Werdersche Gymnasium at Berlin. 
-**Abbreviated name**: *O. Hoffm.*
+**Abbreviated name**: *O. Hoffm.* \[standard form in IPNI: *O.Hoffm.*\]
 
 #### Herbarium and types
 

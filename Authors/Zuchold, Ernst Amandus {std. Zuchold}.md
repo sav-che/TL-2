@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33066902) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33066902) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12070-1), [Wikidata](https://www.wikidata.org/wiki/Q21613727). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zuchold, Ernst Amandus (x-1867), German (Saxonian) bibliographer, bookseller and antiquarian at Leipzig. 
-**Abbreviated name**: *Zuchold*
+**Abbreviated name**: *Zuchold* \[standard form in IPNI: *Zuchold*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33068995) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33068995) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5272-1), [Wikidata](https://www.wikidata.org/wiki/Q3087749). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Langstedt, Friedrich Ludwig (1750-1804), German botanist. 
-**Abbreviated name**: *Langst.*
+**Abbreviated name**: *Langst.* \[standard form in IPNI: *Langst.*\]
 
 #### Herbarium and types
 

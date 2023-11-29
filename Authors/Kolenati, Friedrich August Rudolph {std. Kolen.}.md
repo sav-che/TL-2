@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33068851) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 609](https://www.biodiversitylibrary.org/page/33068851) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4941-1), [Wikidata](https://www.wikidata.org/wiki/Q79162). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kolenati, Friedrich August Rudolph (1812-1864), Bohemian zoologist and botanist at the polytechnic institute of Brünn, travelled in Russia 1842-1845, founded the society "Lotos". 
-**Abbreviated name**: *Kolen.*
+**Abbreviated name**: *Kolen.* \[standard form in IPNI: *Kolen.*\]
 
 #### Herbarium and types
 

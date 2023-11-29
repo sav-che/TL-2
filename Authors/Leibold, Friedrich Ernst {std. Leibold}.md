@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33069067) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33069067) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5439-1), [Wikidata](https://www.wikidata.org/wiki/Q15300543). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leibold, Friedrich Ernst (1804-1864), German gardener and botanical explorer; at the Cape 1835-1838 (with Baron von Ludwig); in Cuba and Mexico 1839-1844; settled in the United States 1847; farmer in Texas, ultimately at New Orleans. 
-**Abbreviated name**: *Leibold*
+**Abbreviated name**: *Leibold* \[standard form in IPNI: *Leibold*\]
 
 #### Herbarium and types
 

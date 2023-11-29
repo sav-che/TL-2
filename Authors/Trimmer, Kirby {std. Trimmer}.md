@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33212534) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33212534) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10824-1), [Wikidata](https://www.wikidata.org/wiki/Q21610957). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trimmer, Kirby (1804-1887), British clergyman and botanist; BA Oxford 1828; curate St. George Tombland, Norwich 1828, idem at Bunham, Norton and Stanhoe, from 1842 vicar at St. George Tombland. 
-**Abbreviated name**: *Trimmer*
+**Abbreviated name**: *Trimmer* \[standard form in IPNI: *Trimmer*\]
 
 #### Herbarium and types
 

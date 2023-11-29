@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33120943) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 812](https://www.biodiversitylibrary.org/page/33120943) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2628-1), [Wikidata](https://www.wikidata.org/wiki/Q84485). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Falkenberg, Paul {std. Falkenb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Falkenberg, Paul (*fl*. 1900), German algologist. 
-**Abbreviated name**: *Falkenb.*
+**Abbreviated name**: *Falkenb.* \[standard form in IPNI: *Falkenb.*\]
 
 #### Herbarium and types
 

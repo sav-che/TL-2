@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33260237) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 249](https://www.biodiversitylibrary.org/page/33260237) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2455-1), [Wikidata](https://www.wikidata.org/wiki/Q5040299). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ebermaier, Carl (Karl) Heinrich (1802-1870), German botanist and physician, born 4 Feb 1802 at Rheda, studied in Bonn and Berlin, "Medizinalrath" in Düsseldorf, died 1 Jan 1870. 
-**Abbreviated name**: *C.H. Eberm.*
+**Abbreviated name**: *C.H. Eberm.* \[standard form in IPNI: *C.H.Eberm.*\]
 
 #### Herbarium and types
 

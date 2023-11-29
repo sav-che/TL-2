@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33189682) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33189682) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7597-1), [Wikidata](https://www.wikidata.org/wiki/Q21522909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petrowsky \[Petrowski, Petrovsky\], Andrei \[Andreas\] Stanislavovic (1832-1882), Russian botanist; high school teacher at Jaroslaw. 
-**Abbreviated name**: *Petrowsky*
+**Abbreviated name**: *Petrowsky* \[standard form in IPNI: *Petrovsky*\]
 
 #### Herbarium and types
 

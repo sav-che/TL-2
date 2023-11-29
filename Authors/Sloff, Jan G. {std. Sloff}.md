@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33333787) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33333787) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9748-1), [Wikidata](https://www.wikidata.org/wiki/Q21609036). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sloff, Jan G. (1892-1979), Dutch botanist and high school teacher at Bergen op Zoom; co-founder and moving force behind the Institute for Vegetation Research of the Netherlands (IVON), mainly dedicated to the mapping of the distribution of phanerogams in the Netherlands. 
-**Abbreviated name**: *Sloff*
+**Abbreviated name**: *Sloff* \[standard form in IPNI: *Sloff*\]
 
 #### Herbarium and types
 

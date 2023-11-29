@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33069021) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 779](https://www.biodiversitylibrary.org/page/33069021) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5379-1), [Wikidata](https://www.wikidata.org/wiki/Q36555386). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lebreton, F. (*fl*. 1787), French botanist. 
-**Abbreviated name**: *Lebreton*
+**Abbreviated name**: *Lebreton* \[standard form in IPNI: *Lebreton*\]
 
 #### Herbarium and types
 

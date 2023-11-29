@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33266550) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33266550) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1303-1), [Wikidata](https://www.wikidata.org/wiki/Q21506687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Burkhardt, Christian Friedrich (1785-1854), German botanist and pharmacist, born in Suriname, to Amsterdam and Zeist, in Herrnhut missionary establishments 1791, studied pharmacy in the "Unitäts-Knabenanstalt" in Niesky, in Switzerland 1808-1814, in 1815 in Herrnhut, in 1817 in Niesky at the "Apotheke zu Gnadenfrei", from 1819 as head of the pharmacy, in retirement 1853-1854. 
-**Abbreviated name**: *Burkhardt*
+**Abbreviated name**: *Burkhardt* \[standard form in IPNI: *Burkhardt*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33189674) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33189674) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7585-1), [Wikidata](https://www.wikidata.org/wiki/Q1680975). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petiver, James (1658-1718), British botanist, entomologist and apothecary to the Charterhouse; demonstrator at Chelsea (1709), owner of an important natural history cabinet. 
-**Abbreviated name**: *Petiver*
+**Abbreviated name**: *Petiver* \[standard form in IPNI: *Petiver*\]
 
 #### Herbarium and types
 

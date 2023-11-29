@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33066752) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33066752) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11801-1), [Wikidata](https://www.wikidata.org/wiki/Q19199007). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wittstein, Georg Christian (1810-1887), German (Hannover) pharmacist; studied pharmacy in various Hannoverian pharmacies; student, later assistant at the Pharmaceutical Institute, Univ. München 1835-1850; Dr. phil. München 1840; teacher at a technical school in Ansbach 1851-1853; in charge of a private school for chemistry in München 1853-1879. 
-**Abbreviated name**: *Wittst.*
+**Abbreviated name**: *Wittst.* \[standard form in IPNI: *Wittst.*\]
 
 #### Herbarium and types
 

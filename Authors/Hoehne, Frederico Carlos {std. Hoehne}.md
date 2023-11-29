@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33068469) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33068469) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3999-1), [Wikidata](https://www.wikidata.org/wiki/Q5499235). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoehne, Frederico Carlos (1882-1959), Brazilian botanist; at Rio de Janeiro 1907-1917; from 1917-1952 at the botanical institute of São Paulo. 
-**Abbreviated name**: *Hoehne*
+**Abbreviated name**: *Hoehne* \[standard form in IPNI: *Hoehne*\]
 
 #### Herbarium and types
 

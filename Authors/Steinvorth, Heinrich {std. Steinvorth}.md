@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 880](https://www.biodiversitylibrary.org/page/33334019) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 880](https://www.biodiversitylibrary.org/page/33334019) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10085-1), [Wikidata](https://www.wikidata.org/wiki/Q21609742). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steinvorth, Heinrich (1817-1905), German (Hannoverian) botanist and high school teacher at the Johanneum, Lüneburg; later in retirement at Hannover. 
-**Abbreviated name**: *Steinvorth*
+**Abbreviated name**: *Steinvorth* \[standard form in IPNI: *Steinv.*\]
 
 #### Herbarium and types
 

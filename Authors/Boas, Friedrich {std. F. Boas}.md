@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33265434) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33265434) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/35386-1), [Wikidata](https://www.wikidata.org/wiki/Q1458481). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boas, Friedrich (1886-post 1956), German botanist and agriculturist, born Hennenbach, Bayern, educated at the humanistic gymnasium at Ansbach, leaving certificate 1906, study chemistry at the University and Technical College of München 1906-1910, assistant with Radlkofer at the Botanical Museum ib. 1909, sometime assistant of Goebel at the plant-physiology laboratory ib., Dr. phil. München 1912, later lecturer at the Bayerische Hochschule für Landwirtschaft und Brauerei at Weihenstephan (Freising), extraordinary professor ib. 1920, ultimately professor at the Botanisches und pathologisches Institut der Technischen Hochschule, München. 
-**Abbreviated name**: *F. Boas*
+**Abbreviated name**: *F. Boas* \[standard form in IPNI: *F.Boas*\]
 
 #### Herbarium and types
 

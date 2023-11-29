@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33212157) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33212157) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12909-1), [Wikidata](https://www.wikidata.org/wiki/Q21610094). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Swanton, Ernest William \[Brockton\] (1870-1958), British botanist, schoolmaster and private tutor; curator Haslemere Museum 1897-1948. 
-**Abbreviated name**: *Swanton*
+**Abbreviated name**: *Swanton* \[standard form in IPNI: *Swanton*\]
 
 #### Herbarium and types
 

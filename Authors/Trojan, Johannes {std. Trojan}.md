@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33212544) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33212544) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10841-1), [Wikidata](https://www.wikidata.org/wiki/Q21610967). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trojan, Johannes (1837-1925), German (Prussian; Danzig) poet, author and amateur botanist; studied medicine and (later) linguistics in Göttingen, Bonn and Berlin; journalist with the Berliner Montagszeitung and with the satirical weekly Kladderadatsch from 1862, editor of Kladderadatsch from 1886-1909; from 1909 in retirement at Warnemünde and, ultimately, Rostock. 
-**Abbreviated name**: *Trojan*
+**Abbreviated name**: *Trojan* \[standard form in IPNI: *Trojan*\]
 
 #### Herbarium and types
 

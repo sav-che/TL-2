@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33068617) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 375](https://www.biodiversitylibrary.org/page/33068617) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4246-1), [Wikidata](https://www.wikidata.org/wiki/Q21516673). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hussenot, Louis Cincinnatus Séverin Léon (1809-1845), French (Lorraine) botanist. 
-**Abbreviated name**: *Hussenot*
+**Abbreviated name**: *Hussenot* \[standard form in IPNI: *Hussenot*\]
 
 #### Herbarium and types
 

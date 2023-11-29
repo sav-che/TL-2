@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33068433) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 191](https://www.biodiversitylibrary.org/page/33068433) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3932-1), [Wikidata](https://www.wikidata.org/wiki/Q3568881). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hiern, William Philip (1839-1925), British botanist of independent means who worked at Kew and BM; M.A. Oxford 1868. 
-**Abbreviated name**: *Hiern*
+**Abbreviated name**: *Hiern* \[standard form in IPNI: *Hiern*\]
 
 #### Herbarium and types
 

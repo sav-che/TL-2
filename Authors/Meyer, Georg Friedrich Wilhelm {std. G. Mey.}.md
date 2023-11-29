@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33355534) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 447](https://www.biodiversitylibrary.org/page/33355534) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23322-1), [Wikidata](https://www.wikidata.org/wiki/Q3101308). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meyer, Georg Friedrich Wilhelm (1782-1856), German botanist in Göttingen; from 1820 physiographer of the Kingdom of Hanover. 
-**Abbreviated name**: *G. Mey.*
+**Abbreviated name**: *G. Mey.* \[standard form in IPNI: *G.Mey.*\]
 
 #### Herbarium and types
 

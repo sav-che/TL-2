@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33333970) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33333970) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10019-1), [Wikidata](https://www.wikidata.org/wiki/Q1333160). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Standley, Paul Carpenter (1884-1963), American botanist; M.Sc. New Mexico State College 1908; assistant ib. 1908-1909; botanist at the U.S. National Museum, Smithsonian Institution 1909-1928; id. with the Field Museum of Natural History, Chicago 1928-1950; with the Escuela agrícola Panamericana 1950-1956; in retirement at Tegucigalpa 1957-1963; prolific botanist, collector and student of the New World floras, botanical explorer of Central and Western North America. 
-**Abbreviated name**: *Standl.*
+**Abbreviated name**: *Standl.* \[standard form in IPNI: *Standl.*\]
 
 #### Herbarium and types
 

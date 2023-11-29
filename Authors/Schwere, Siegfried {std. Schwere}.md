@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33333587) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33333587) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9373-1), [Wikidata](https://www.wikidata.org/wiki/Q21608549). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwere, Siegfried (*fl*. 1896), Swiss botanist; Dr. phil. Zürich 1896. 
-**Abbreviated name**: *Schwere*
+**Abbreviated name**: *Schwere* \[standard form in IPNI: *Schwere*\]
 
 #### Herbarium and types
 

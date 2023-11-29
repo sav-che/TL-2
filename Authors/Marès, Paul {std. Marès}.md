@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33355379) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33355379) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6100-1), [Wikidata](https://www.wikidata.org/wiki/Q6067238). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marès, Paul (1826-1900), French botanist, explorer of Algeria and the Balearic Islands. 
-**Abbreviated name**: *Marès*
+**Abbreviated name**: *Marès* \[standard form in IPNI: *Marès*\]
 
 #### Herbarium and types
 

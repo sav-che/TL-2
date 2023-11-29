@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33355614) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33355614) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6531-1), [Wikidata](https://www.wikidata.org/wiki/Q11455300). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Miyabe, Kingo (1860-1951), Japanese botanist; D. Sc. Harvard 1889; at Hokkaido University, Sapporo and Tokyo, director of the Botanic garden of the Faculty of Agriculture 1884-1927. 
-**Abbreviated name**: *Miyabe*
+**Abbreviated name**: *Miyabe* \[standard form in IPNI: *Miyabe*\]
 
 #### Herbarium and types
 

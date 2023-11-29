@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 876](https://www.biodiversitylibrary.org/page/33334015) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 876](https://www.biodiversitylibrary.org/page/33334015) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10081-1), [Wikidata](https://www.wikidata.org/wiki/Q21512713). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steiner, Maximilian (1904-x), Austrian botanist (lichenologist and physiologist); Dr. phil. Wien 1926; assistant at the plant physiological institute of the University ib. 1926-1929; biologist I.G. Farben, Ludwigshafen 1930-1931; assistant Technische Hochschule Stuttgart 1932; habil. ib. 1935; lecturer ib. 1936; assistant Botanisches Institut Göttingen 1939; from 1940 professor of botany at Bonn. 
-**Abbreviated name**: *M. Steiner*
+**Abbreviated name**: *M. Steiner* \[standard form in IPNI: *M.Steiner*\]
 
 #### Herbarium and types
 

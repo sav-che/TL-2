@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-06-13 10:36:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33259262) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33259262) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2147-1), [Wikidata](https://www.wikidata.org/wiki/Q5686982). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Descourtilz, Michel Étienne {std. Descourt.}|first entry]] for this author
 
 ### Author
 
 \* Descourtilz, Michel Étienne (1775-1836), French botanist and physician at the "Faculté de Paris", born 25 Nov 1775, died 1836. 
-**Abbreviated name**: *Descourt.*
+**Abbreviated name**: *Descourt.* \[standard form in IPNI: *Descourt.*\]
 
 #### Herbarium and types
 

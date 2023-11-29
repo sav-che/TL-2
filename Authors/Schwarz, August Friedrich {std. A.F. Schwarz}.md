@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33333562) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33333562) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9355-1), [Wikidata](https://www.wikidata.org/wiki/Q17310399). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwarz, August Friedrich (1852-1915), German (Bavarian) floristic botanist and veterinarian; studied at the Veterinary College München; army veterinarian at Augsburg and Nürnberg. 
-**Abbreviated name**: *A.F. Schwarz*
+**Abbreviated name**: *A.F. Schwarz* \[standard form in IPNI: *A.F.Schwarz*\]
 
 #### Herbarium and types
 

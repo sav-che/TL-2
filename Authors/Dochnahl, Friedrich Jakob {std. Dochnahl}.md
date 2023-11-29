@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33259991) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33259991) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/13955-1), [Wikidata](https://www.wikidata.org/wiki/Q102563). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dochnahl, Friedrich Jakob (1820-1904), German botanist, fruit grower and market gardener in Neustadt (S.). 
-**Abbreviated name**: *Dochnahl*
+**Abbreviated name**: *Dochnahl* \[standard form in IPNI: *Dochnahl*\]
 
 #### Herbarium and types
 

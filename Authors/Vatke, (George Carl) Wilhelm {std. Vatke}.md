@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 679](https://www.biodiversitylibrary.org/page/33212721) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 679](https://www.biodiversitylibrary.org/page/33212721) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11088-1), [Wikidata](https://www.wikidata.org/wiki/Q6167475). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vatke, \[George Carl\] Wilhelm (1849-1889), German (Berlin) botanist; studied at the University of Berlin as student of A. Braun; assistant at the Berlin Botanical Garden 1876-1879; from 1879 privately active, exclusively with botany, visiting various European herbaria, assembling a considerable herbarium and library; mostly working at Berlin. 
-**Abbreviated name**: *Vatke*
+**Abbreviated name**: *Vatke* \[standard form in IPNI: *Vatke*\]
 
 #### Herbarium and types
 

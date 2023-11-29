@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2014-06-16 15:41:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33189729) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33189729) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24855-1), [Wikidata](https://www.wikidata.org/wiki/Q21522996). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pierce, Newton Barris (1856-1916), American phytopathologist for the U.S. government for the Pacific coast region 1889-1906; later private collector and breeder of rare plants at Santa Ana, Calif. 
-**Abbreviated name**: *N. Pierce*
+**Abbreviated name**: *N. Pierce* \[standard form in IPNI: *N.Pierce*\]
 
 #### Herbarium and types
 

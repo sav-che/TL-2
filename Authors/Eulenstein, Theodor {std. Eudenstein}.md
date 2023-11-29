@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/page/33120936) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/page/33120936) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2587-1), [Wikidata](https://www.wikidata.org/wiki/Q21512422). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eulenstein, Theodor (x-1875), German diatomologist. 
-**Abbreviated name**: *Eudenstein*
+**Abbreviated name**: *Eudenstein* \[standard form in IPNI: *Eulenst.*\]
 
 #### Herbarium and types
 

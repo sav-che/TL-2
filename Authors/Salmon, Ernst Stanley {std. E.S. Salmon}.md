@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33333173) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33333173) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8849-1), [Wikidata](https://www.wikidata.org/wiki/Q17421769). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Salmon, Ernst Stanley (1872-1959), British mycologist; at Jodrell Laboratory, Kew, 1899-1906; mycologist S.E.Agric. Coll., Wye 1906-1937; reader in mycology, London Univ. 1912; professor ib. 1925; specialist on hop diseases and Erysiphaceae; amateur bryologist. 
-**Abbreviated name**: *E.S. Salmon*
+**Abbreviated name**: *E.S. Salmon* \[standard form in IPNI: *E.S.Salmon*\]
 
 #### Herbarium and types
 

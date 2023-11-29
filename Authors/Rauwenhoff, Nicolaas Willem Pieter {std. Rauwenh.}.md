@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33190064) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 593](https://www.biodiversitylibrary.org/page/33190064) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8172-1), [Wikidata](https://www.wikidata.org/wiki/Q17352967). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rauwenhoff, Nicolaas Willem Pieter (1826-1909), Dutch botanist; Dr. phil.; lecturer at the medical college of Rotterdam and high school teacher ib. 1860-1871; professor of botany and director of the botanical garden at Utrecht (succeeding F.A.W. Miquel) 1871-1896; first Dutch professor of botany to teach plant physiology. 
-**Abbreviated name**: *Rauwenh.*
+**Abbreviated name**: *Rauwenh.* \[standard form in IPNI: *Rauwenh.*\]
 
 #### Herbarium and types
 

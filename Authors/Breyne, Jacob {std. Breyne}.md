@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33120452) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33120452) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1132-1), [Wikidata](https://www.wikidata.org/wiki/Q77266). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Breyne, Jacob (1637-1697), Danzig merchant and naturalist (also: Breyn, Breynius). 
-**Abbreviated name**: *Breyne*
+**Abbreviated name**: *Breyne* \[standard form in IPNI: *Breyne*\]
 
 #### Herbarium and types
 

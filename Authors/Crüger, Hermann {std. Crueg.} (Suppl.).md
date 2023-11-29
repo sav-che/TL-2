@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33266163) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 486](https://www.biodiversitylibrary.org/page/33266163) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1896-1), [Wikidata](https://www.wikidata.org/wiki/Q20987271). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Crueger, Hermann {std. Crueg.}|first entry]] for this author
 
 ### Author
 
 \* Crüger, Hermann (1818-1864), German pharmacist and botanist, born at Hamburg, educated by his father F. Crüger in Kuhbier (Prignitz), pupil in a pharmacy in Lüneburg, later id. at Hamburg, moved to Trinidad 1841 also in a pharmacy, 1857 director of the botanical gardens at Port of Spain as colonial botanist, died in San Fernando, Trinidad. 
-**Abbreviated name**: *Crueg.*
+**Abbreviated name**: *Crueg.* \[standard form in IPNI: *Crueg.*\]
 
 #### Herbarium and types
 

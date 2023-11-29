@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33333371) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33333371) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9140-1), [Wikidata](https://www.wikidata.org/wiki/Q213929). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmeil, \[Franz\] Otto (1860-1943), German (Saxonian) botanist; high school teacher at Zörbig, Halle, Magdeburg, Marburg, Wiesbaden and, from 1893, in Heidelberg; reformer of the German high school biology curricula. 
-**Abbreviated name**: *Schmeil*
+**Abbreviated name**: *Schmeil* \[standard form in IPNI: *Schmeil*\]
 
 #### Herbarium and types
 

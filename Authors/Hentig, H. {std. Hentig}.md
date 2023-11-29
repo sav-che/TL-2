@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33068406) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33068406) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3860-1), [Wikidata](https://www.wikidata.org/wiki/Q36573734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hentig, H. (*fl*. 1881), German botanist. 
-**Abbreviated name**: *Hentig*
+**Abbreviated name**: *Hentig* \[standard form in IPNI: *Hentig*\]
 
 #### Herbarium and types
 

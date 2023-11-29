@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33189636) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33189636) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7519-1), [Wikidata](https://www.wikidata.org/wiki/Q5540473). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Perkins, George Henry (1844-1933), American botanist, zoologist and geologist; Dr. phil. at Yale 1869, from 1869-1933 at the University of Vermont in various positions, incl. 56 years as curator of the University Museum; vice-president of the University 1907-1931; State geologist of Vermont 1898-1933; LL.D. Univ. Vermont 1911, Litt. D. Knox College 1912. 
-**Abbreviated name**: *G. Perkins*
+**Abbreviated name**: *G. Perkins* \[standard form in IPNI: *G.Perkins*\]
 
 #### Herbarium and types
 

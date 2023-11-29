@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33333587) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 448](https://www.biodiversitylibrary.org/page/33333587) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9374-1), [Wikidata](https://www.wikidata.org/wiki/Q109692). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwerin, Fritz \[Kurt Alexander\] Graf von (1856-1934), German (Berlin) dendrologist; Dr. phil. Königsberg; landed proprietor at Wendisch-Wilmersdorf nr Berlin; president of the Deutsche dendrologische Gesellschaft 1903-1934. 
-**Abbreviated name**: *Schwer.*
+**Abbreviated name**: *Schwer.* \[standard form in IPNI: *Schwer.*\]
 
 #### Herbarium and types
 

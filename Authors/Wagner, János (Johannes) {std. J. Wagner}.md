@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33066313) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 11](https://www.biodiversitylibrary.org/page/33066313) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12984-1), [Wikidata](https://www.wikidata.org/wiki/Q4102229). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wagner, János \[Johannes\] (1870-1955), Hungarian (Banat-born) botanist and high school teacher; studied at the teacher's college at Znióváralja; teacher in Csáktornya, Kiskunfélogyhaza and 1901-1911 in Arad; from 1911-1914 teacher at a girls school in Budapest; school inspector 1914, general inspector of the teacher's college in Hungary 1919-1928; Dr. h.c. Szeged 1953; Dr. biol. sci. h.t. 1952. 
-**Abbreviated name**: *J. Wagner*
+**Abbreviated name**: *J. Wagner* \[standard form in IPNI: *J.Wagner*\]
 
 #### Herbarium and types
 

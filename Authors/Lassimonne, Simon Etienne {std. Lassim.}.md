@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33069005) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33069005) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5304-1), [Wikidata](https://www.wikidata.org/wiki/Q36678468). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lassimonne, Simon Etienne (fl. 1932), French botanist. 
-**Abbreviated name**: *Lassim.*
+**Abbreviated name**: *Lassim.* \[standard form in IPNI: *Lassim.*\]
 
 #### Herbarium and types
 

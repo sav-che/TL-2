@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33068416) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33068416) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3883-1), [Wikidata](https://www.wikidata.org/wiki/Q425571). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Herre, Albert William Christian Theodore (1868-1962), American ichthyologist and botanist; Ph. D. Stanford Univ. 1909; in various functions in Nevada, California, Washington and Manila 1910-1928; from 1928-1946 curator of the ichthyological collections, Natural history Museum, Stanford University. 
-**Abbreviated name**: *Herre*
+**Abbreviated name**: *Herre* \[standard form in IPNI: *Herre*\]
 
 #### Herbarium and types
 

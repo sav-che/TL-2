@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/page/33266783) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 476](https://www.biodiversitylibrary.org/page/33266783) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1468-1), [Wikidata](https://www.wikidata.org/wiki/Q5548443). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cavillier, François Georges {std. Cavill.}|first entry]] for this author
 
 ### Author
 
 \* Cavillier, François \[-Georges\] (1868-1953), Swiss (Vaudois) botanist, born at Bussigny sur Morges (Vaud), educated at schools at Bussigny and Aubonne, "préparateur" in the Burnat herbarium 1890-1898 in Genève, curator ib. 1898-1920, collected with Burnat on the latter's botanical trips, from 1920-1928 assistant at the Conservatoire botanique de Genève. 
-**Abbreviated name**: *Cavill.*
+**Abbreviated name**: *Cavill.* \[standard form in IPNI: *Cavill.*\]
 
 #### Herbarium and types
 

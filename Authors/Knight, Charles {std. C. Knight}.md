@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33068818) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 576](https://www.biodiversitylibrary.org/page/33068818) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4870-1), [Wikidata](https://www.wikidata.org/wiki/Q5079846). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Knight, Charles (1818-1891/92), British administrator and botanist (lichenologist) in New Zealand, ultimately auditor general. 
-**Abbreviated name**: *C. Knight*
+**Abbreviated name**: *C. Knight* \[standard form in IPNI: *C.Knight*\]
 
 #### Herbarium and types
 

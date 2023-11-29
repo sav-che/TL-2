@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33212461) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33212461) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10773-1), [Wikidata](https://www.wikidata.org/wiki/Q19002723). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Townsend, Frederick (1822-1905), British landowner and county squire, M.A. Trinity Coll., Cambridge 1855; actively engaged in floristic botany associated with C.C. Babington and W.W. Newbould, resided in Wickham, Hampshire 1865-1874; from 1874 on the family residence, Honington Hall, Warwickshire. 
-**Abbreviated name**: *Townsend*
+**Abbreviated name**: *Townsend* \[standard form in IPNI: *F.Towns.*\]
 
 #### Herbarium and types
 

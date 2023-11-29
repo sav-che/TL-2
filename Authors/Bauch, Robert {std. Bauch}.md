@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33265109) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33265109) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/15800-1), [Wikidata](https://www.wikidata.org/wiki/Q47113875). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bauch, Robert (1897-x), German (Berlin-born) botanist at the University of Rostock, privat docent ib. until 1932, subsequently extraordinary professor of botany ib. 
-**Abbreviated name**: *Bauch*
+**Abbreviated name**: *Bauch* \[standard form in IPNI: *Bauch*\]
 
 #### Herbarium and types
 

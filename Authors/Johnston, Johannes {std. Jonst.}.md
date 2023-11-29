@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33068702) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33068702) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12586-1), [Wikidata](https://www.wikidata.org/wiki/Q1700641). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Johnston, Johannes (1603-1675), German physician and botanist. 
-**Abbreviated name**: *Jonst.*
+**Abbreviated name**: *Jonst.* \[standard form in IPNI: *Jonst.*\]
 
 #### Herbarium and types
 

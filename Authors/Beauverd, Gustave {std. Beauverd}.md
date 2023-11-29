@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33120286) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33120286) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/15847-1), [Wikidata](https://www.wikidata.org/wiki/Q3046641). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Beauverd, Gustave {std. Beauverd} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Beauverd, Gustave (1867-1942), Swiss botanist, curator of the Boissier herbarium at Genève. 
-**Abbreviated name**: *Beauverd*
+**Abbreviated name**: *Beauverd* \[standard form in IPNI: *Beauverd*\]
 
 #### Herbarium and types
 

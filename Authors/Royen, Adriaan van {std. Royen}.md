@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 958](https://www.biodiversitylibrary.org/page/33190429) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 958](https://www.biodiversitylibrary.org/page/33190429) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8684-1), [Wikidata](https://www.wikidata.org/wiki/Q367689). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Royen, Adriaan van (1704-1779), Dutch botanist; Dr. med. Leiden 1728; lecturer in botany and medicine Leiden 1729; director of the botanic garden 1730-1754; regular professor of botany and medicine 1732-1754 (for botany) 1732-1775 (for medicine); associated with C. Linnaeus during the latter's years in Holland; correspondent of A. v. Haller. 
-**Abbreviated name**: *Royen*
+**Abbreviated name**: *Royen* \[standard form in IPNI: *Royen*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33066782) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33066782) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11850-1), [Wikidata](https://www.wikidata.org/wiki/Q1633064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Woodcock, Hubert Bayley Drysdale (1867-1957), British county courts judge on circuit and gardener; Q.C. 1923; for Leeds and Wakefield 1924-1935, Marylebone 1926-1940; had a garden at Lypiatt Park, Gloucestershire. 
-**Abbreviated name**: *Woodcock*
+**Abbreviated name**: *Woodcock* \[standard form in IPNI: *Woodcock*\]
 
 #### Herbarium and types
 

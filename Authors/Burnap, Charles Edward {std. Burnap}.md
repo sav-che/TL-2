@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33266561) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33266561) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/20034913-1), [Wikidata](https://www.wikidata.org/wiki/Q88812337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Burnap, Charles Edward (x-1912), American botanist, Harvard SB 1892. 
-**Abbreviated name**: *Burnap*
+**Abbreviated name**: *Burnap* \[standard form in IPNI: *Burnap*\]
 
 #### Herbarium and types
 

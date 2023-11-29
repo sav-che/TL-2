@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33355497) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33355497) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23243-1), [Wikidata](https://www.wikidata.org/wiki/Q1699596). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Melliss, John Charles (fl. 1863-1872), British botanist and commissioner of Crown property, surveyor on St. Helena ca. 1860-1891. 
-**Abbreviated name**: *Melliss*
+**Abbreviated name**: *Melliss* \[standard form in IPNI: *Melliss*\]
 
 #### Herbarium and types
 

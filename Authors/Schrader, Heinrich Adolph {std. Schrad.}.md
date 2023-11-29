@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33333455) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33333455) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9250-1), [Wikidata](https://www.wikidata.org/wiki/Q62591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schrader, Heinrich Adolph (1767-1836), German (Hildesheim/Hannover) botanist; Dr. med. Göttingen 1795; lecturer (1797); extra-ordinary professor (1802/3) and regular professor of botany (1809) at Göttingen University; director of the Göttingen botanical garden 1802/3-1836, succeeding G.F. Hoffman. 
-**Abbreviated name**: *Schrad.*
+**Abbreviated name**: *Schrad.* \[standard form in IPNI: *Schrad.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33355361) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33355361) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6058-1), [Wikidata](https://www.wikidata.org/wiki/Q377320). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Manetti, Xaverio \[Saverio\] (1723-1785), Italian botanist; physician in Florence and director of the local botanic garden. 
-**Abbreviated name**: *X. Manetti*
+**Abbreviated name**: *X. Manetti* \[standard form in IPNI: *Manetti*\]
 
 #### Herbarium and types
 

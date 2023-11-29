@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33189733) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33189733) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7695-1), [Wikidata](https://www.wikidata.org/wiki/Q1812134). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pijl, Leendert van der (1903-x), Dutch botanist and flower-biologist; studied at Amsterdam University 1923-1927; high school teacher at Arnhem 1926-1927; to the Netherlands East Indies 1927; high school teacher at Bandung 1927; Dr. phil. Amsterdam 1933; in Japanese captivity during World War II; rector at Bandung Gymnasium 1947; professor of botany at Bandung University 1948-1954; retired to the Hague, Netherlands; professor of botany at Nijmegen 1965-1975. 
-**Abbreviated name**: *v.d. Pijl*
+**Abbreviated name**: *v.d. Pijl* \[standard form in IPNI: *Pijl*\]
 
 #### Herbarium and types
 

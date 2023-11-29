@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33260110) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33260110) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18234-1), [Wikidata](https://www.wikidata.org/wiki/Q4172141). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Duby, Jean Étienne {std. Duby}|first entry]] for this author
 
 ### Author
 
 \* Duby \[de Steiger\], Jean-Étienne (1798-1885), Swiss theologian and botanist, born 15 Feb 1798 at Genève, studied at the Collège and Academy of Genève (theology from 1816) at the same time studying botany with A.P. de Candolle, consacrated in 1820 with theses "philosophico- théologiques: de Conscientia", received the title "docteur ès sciences" in 1824, visited Italy 1829-1830, returned to Genève and was clergyman for 32 years. 
-**Abbreviated name**: *Duby*
+**Abbreviated name**: *Duby* \[standard form in IPNI: *Duby*\]
 
 #### Herbarium and types
 

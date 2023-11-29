@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2018-12-12 10:39:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 961](https://www.biodiversitylibrary.org/page/33190432) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 961](https://www.biodiversitylibrary.org/page/33190432) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8688-1), [Wikidata](https://www.wikidata.org/wiki/Q713874). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Royle, John Forbes (1800-1858), British botanist and physician, educated at Edinburgh; MD München 1833; surgeon East India Company, Bengal 1819; curator of the Saharunpur garden 1833; to England 1831; professor of materia medica King's College, London 1837-1856; secretary Horticultural Society London 1851-1858. 
-**Abbreviated name**: *Royle*
+**Abbreviated name**: *Royle* \[standard form in IPNI: *Royle*\]
 
 #### Herbarium and types
 

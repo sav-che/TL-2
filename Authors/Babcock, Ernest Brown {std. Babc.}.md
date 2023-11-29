@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33264950) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33264950) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/357-1), [Wikidata](https://www.wikidata.org/wiki/Q514668). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Babcock, Ernest Brown (1877-1954), American botanist, born in Edgerton, Wisc., came to California 1896, educated at the Los Angeles Normal School and the University of California, B.S. 1905, assistant at the Biological Faculty ib. 1907, chairman of the Division of Genetics, College of Agriculture ib. 1913-1947, studied Crepis from a genetic and evolutionary point of view, L.L.D. Univ. California 1947. 
-**Abbreviated name**: *Babc.*
+**Abbreviated name**: *Babc.* \[standard form in IPNI: *Babc.*\]
 
 #### Herbarium and types
 

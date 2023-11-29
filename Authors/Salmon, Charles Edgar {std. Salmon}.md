@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33333174) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33333174) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8848-1), [Wikidata](https://www.wikidata.org/wiki/Q19001639). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Salmon, Charles Edgar (1872-1930), British botanist and practicing architect at Reigate (Surrey); active amateur local historian and student of the flora of Surrey, esp. *Limonium*. (*Statice*). 
-**Abbreviated name**: *Salmon*
+**Abbreviated name**: *Salmon* \[standard form in IPNI: *C.E.Salmon*\]
 
 #### Herbarium and types
 

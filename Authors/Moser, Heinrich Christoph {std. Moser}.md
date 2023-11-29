@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33355688) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33355688) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6695-1), [Wikidata](https://www.wikidata.org/wiki/Q33685605). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moser, Heinrich Christoph (*fl*. 1794), German botanist 
-**Abbreviated name**: *Moser*
+**Abbreviated name**: *Moser* \[standard form in IPNI: *Moser*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33120409) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33120409) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/974-1), [Wikidata](https://www.wikidata.org/wiki/Q4026914). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bor, Norman Loftus {std. Bor} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bor, Norman Loftus (1893-1972), Irish born British botanist who worked in India. 
-**Abbreviated name**: *N. L. Bor*
+**Abbreviated name**: *N. L. Bor* \[standard form in IPNI: *Bor*\]
 
 #### Herbarium and types
 

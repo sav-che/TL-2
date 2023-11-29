@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33355954) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 867](https://www.biodiversitylibrary.org/page/33355954) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7223-1), [Wikidata](https://www.wikidata.org/wiki/Q21522491). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Oyster, John Houck (1849-after 1904), American botanist at Paola, Kansas. 
-**Abbreviated name**: *Oyster*
+**Abbreviated name**: *Oyster* \[standard form in IPNI: *Oyster*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2004-09-23 09:13:21.0
 ipni_record_modified: 2004-09-23 09:13:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33266726) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33266726) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/20001200-1), [Wikidata](https://www.wikidata.org/wiki/Q423006). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Carnoy, Jean Baptiste (1836-1899), Belgian parish-priest and botanist, studied at the University of Louvain, Dr. sci. nat. 1865, later bishop of Louvain, continued as botanist at his Collège du Pape. 
-**Abbreviated name**: *Carnoy*
+**Abbreviated name**: *Carnoy* \[standard form in IPNI: *Carnoy*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33265600) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33265600) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/32515-1), [Wikidata](https://www.wikidata.org/wiki/Q15732136). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boyer, Charles Sumner (1856-1928), American diatomist, at Brown University 1875-1879, A.B. 1879, A.M. 1885, teacher in Philadelphia public schools 1883-1916. 
-**Abbreviated name**: *C.S. Boyer*
+**Abbreviated name**: *C.S. Boyer* \[standard form in IPNI: *C.S.Boyer*\]
 
 #### Herbarium and types
 

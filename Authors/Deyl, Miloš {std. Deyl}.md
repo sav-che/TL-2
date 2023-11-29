@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33259329) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33259329) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2184-1), [Wikidata](https://www.wikidata.org/wiki/Q6016606). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Deyl, Miloš (1906-1985), Czechoslovakian botanist, born at Smidary, Bohemia 19 Jun 1906, died suddenly in Prague on 21 Feb 1985, studied plant ecology with Karel Domin at the Charles University of Prague, scientist of the National Museum in Prague 1933-1976 (from 1965-1970 head of the botany department). 
-**Abbreviated name**: *Deyl*
+**Abbreviated name**: *Deyl* \[standard form in IPNI: *Deyl*\]
 
 #### Herbarium and types
 

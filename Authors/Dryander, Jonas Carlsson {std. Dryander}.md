@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/page/33120817) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/page/33120817) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2332-1), [Wikidata](https://www.wikidata.org/wiki/Q2500507). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dryander, Jonas Carlsson (1748-1810), Swedish botanist, librarian to Banks. 
-**Abbreviated name**: *Dryander*
+**Abbreviated name**: *Dryander* \[standard form in IPNI: *Dryand.*\]
 
 #### Types, manuscripts and correspondence
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33189469) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 36](https://www.biodiversitylibrary.org/page/33189469) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24493-1), [Wikidata](https://www.wikidata.org/wiki/Q5981485). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pammel, Louis Hermann (1862-1931), American botanist and conservationist; M.S. Univ. Wisc. 1889; Dr. phil. St. Louis 1896; assistant to W.G. Farlow 1885-1886; assistant Shaw school of Botany, St. Louis, 1886-1889; from 1889 at Ames, Iowa, as professor of botany; Dr. Sci. Univ. Wisc. 1925. 
-**Abbreviated name**: *Pammel*
+**Abbreviated name**: *Pammel* \[standard form in IPNI: *Pammel*\]
 
 #### Herbarium and types
 

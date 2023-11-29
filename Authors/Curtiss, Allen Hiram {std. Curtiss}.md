@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2015-07-20 19:54:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/page/33266196) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/page/33266196) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17599-1), [Wikidata](https://www.wikidata.org/wiki/Q16031427). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Curtiss, Allen Hiram (1845-1907), American botanist and collector of plants for distribution, born at Central Square, Oswego Co. state New York, moved with his parents to Virginia 1862, started botanical collecting 1863 near Alexandria, settled in Florida 1875 for the remainder of his life, professional collector (associated with U.S.D.A.); his pre-1875 herbarium sold to G-BOIS, brought together a large herbarium for the University of Virginia, collected widely in Florida, the Key-Isles, publisher of the Florida Farmer and Fruitgrower, later only worked on botanical collections, died at Jacksonville, Florida. 
-**Abbreviated name**: *Curtiss*
+**Abbreviated name**: *Curtiss* \[standard form in IPNI: *Curtiss*\]
 
 #### Herbarium and types
 

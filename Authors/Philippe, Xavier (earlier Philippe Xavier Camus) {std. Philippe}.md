@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33189705) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 234](https://www.biodiversitylibrary.org/page/33189705) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7637-1), [Wikidata](https://www.wikidata.org/wiki/Q19001500). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Philippe, Xavier (earlier: Philippe Xavier Camus) (1802-1866), French naturalist, municipal librarian and plant salesman living at Bagnères-de-Bigorre. 
-**Abbreviated name**: *Philippe*
+**Abbreviated name**: *Philippe* \[standard form in IPNI: *Philippe*\]
 
 #### Herbarium and types
 

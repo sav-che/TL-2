@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33266594) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33266594) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/13203-1), [Wikidata](https://www.wikidata.org/wiki/Q21388450). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Butters, Frederick King (1878-1945), American botanist, attended the Central High School at Minneapolis until June 1895, entered the College of Science, Literature and the Arts of the University of Minnesota ("Scientific course") 1895-1899 (with Conway Macmillan) at the Departement of Botany, at Harvard University 1899-1900, A.B. spring 1900, Ph. D. Harvard 1917, instructor for botany and pharmacy at the University of Minnesota 1901-1910, asst. professor for botany 1910-1919, assoc. professor 1919-1934, from 1934 professor. 
-**Abbreviated name**: *Butters*
+**Abbreviated name**: *Butters* \[standard form in IPNI: *Butters*\]
 
 #### Herbarium and types
 

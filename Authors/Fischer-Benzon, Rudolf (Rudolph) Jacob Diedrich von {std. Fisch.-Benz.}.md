@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33259724) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33259724) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/10-1), [Wikidata](https://www.wikidata.org/wiki/Q2174231). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fischer-Benzon, Rudolf \[Rudolph\] Jacob Diedrich von (1839-1911), German botanist and librarian, born 2 Feb 1839 in Westermühlen (Kreis Rendsburg), attended gymnasium in Schleswig 1852-1857, studied mathematics and natural sciences in Kiel, Dr. phil. 1865, taught at several gymnasia for 23 years, prof. 1889, appointed provincial librarian in 1895, died 18 Jul 1911 in Wyk on the isl. of Föhr. 
-**Abbreviated name**: *Fisch.-Benz.*
+**Abbreviated name**: *Fisch.-Benz.* \[standard form in IPNI: *Fisch.-Benz.*\]
 
 #### Herbarium and types
 

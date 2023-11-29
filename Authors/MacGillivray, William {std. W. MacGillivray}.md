@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33355308) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33355308) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5921-1), [Wikidata](https://www.wikidata.org/wiki/Q1388461). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 MacGillivray, William (1796-1852), Scottish botanist and zoologist, MA Aberdeen 1815; at the Surgeons Museum Edinburgh 1831-1841; professor of natural history Aberdeen 1841-1852. 
-**Abbreviated name**: *W. MacGillivray*
+**Abbreviated name**: *W. MacGillivray* \[standard form in IPNI: *W.MacGill.*\]
 
 #### Herbarium and types
 

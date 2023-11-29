@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33333501) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 362](https://www.biodiversitylibrary.org/page/33333501) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9283-1), [Wikidata](https://www.wikidata.org/wiki/Q1449024). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schütt, Franz (1859-1921), German (Mecklenburg) botanist; habil. Univ. Kiel 1887; extra-ordinary professor of botany ib. 1894; regular professor of botany and director of the botanic garden Greifswald 1895. 
-**Abbreviated name**: *F. Schütt*
+**Abbreviated name**: *F. Schütt* \[standard form in IPNI: *F.Schütt*\]
 
 #### Herbarium and types
 

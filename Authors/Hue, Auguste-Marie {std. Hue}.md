@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33068598) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33068598) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4200-1), [Wikidata](https://www.wikidata.org/wiki/Q2871308). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hue, Auguste-Marie (1840-1917), French clergyman and lichenologist, "précepteur" at Canisy (Manche), later "aumônier des Petites-Soeurs" at Levallois-Perret. 
-**Abbreviated name**: *Hue*
+**Abbreviated name**: *Hue* \[standard form in IPNI: *Hue*\]
 
 #### Herbarium and types
 

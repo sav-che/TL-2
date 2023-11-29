@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33259900) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 396](https://www.biodiversitylibrary.org/page/33259900) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2891-1), [Wikidata](https://www.wikidata.org/wiki/Q21513498). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fredriks\[s\]on, Anders Theodor (1868-1905), Swedish botanist, born 26 Nov 1868 in Uppsala, fil. kand. 1892, fil. lic. 1894, Dr. phil. 1895 Univ. of Uppsala, asst. for mathematics and natural sciences at Stockholm 1901, died 15 Apr 1905 in Stockholm. 
-**Abbreviated name**: *Fredr.*
+**Abbreviated name**: *Fredr.* \[standard form in IPNI: *Fredr.*\]
 
 #### Herbarium and types
 

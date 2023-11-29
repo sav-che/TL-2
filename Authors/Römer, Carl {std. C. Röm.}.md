@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33190312) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 841](https://www.biodiversitylibrary.org/page/33190312) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8501-1), [Wikidata](https://www.wikidata.org/wiki/Q21607374). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Römer, Carl (1815-1881), German (Eupen; in 1815 Rheinpreussen) botanist; student of A.L.S. Lejeune; industrial administrator at Namiest (Moravia) ca. 1850-1870; later in Eupen and Quedlinburg. 
-**Abbreviated name**: *C. Röm.*
+**Abbreviated name**: *C. Röm.* \[standard form in IPNI: *C.Römer*\]
 
 #### Herbarium and types
 

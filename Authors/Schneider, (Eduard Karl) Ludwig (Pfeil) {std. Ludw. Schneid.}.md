@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33333415) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33333415) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12837-1), [Wikidata](https://www.wikidata.org/wiki/Q1874633). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schneider, \[Eduard Karl\] Ludwig \[Pfeil\], (1809-1889), German (Prussian) botanist, magistrate and liberal politician; studied law at the University of Berlin; "Auscultator" at the Magdeburger law-court 1834-1836; studied botany in Berlin with C.S. Kunth 1836-1840; local administrator at Erfurt 1840-1844; burgomaster of Schönebeck a.d. Elbe 1844-1856; member of the regional diet 1847, of the Prussian National Assembly 1848, of the House of representatives 1849; from 1856-1858 and 1860-1861 in Magdeburg; 1858-1860 in Switzerland; member of the House of representatives 1861-1866; in Berlin 1861-1869, in retirement in Zerbst 1871-1878 and Schönebeck 1879-1889. 
-**Abbreviated name**: *Ludw. Schneid.*
+**Abbreviated name**: *Ludw. Schneid.* \[standard form in IPNI: *L.Schneid.*\]
 
 #### Herbarium and types
 

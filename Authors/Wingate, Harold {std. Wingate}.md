@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33066705) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33066705) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11760-1), [Wikidata](https://www.wikidata.org/wiki/Q21612824). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wingate, Harold (1852-1926), American businessman with the International Navigation Company and amateur botanist; student of Myxomycetes in Philadelphia. 
-**Abbreviated name**: *Wingate*
+**Abbreviated name**: *Wingate* \[standard form in IPNI: *Wingate*\]
 
 #### Herbarium and types
 

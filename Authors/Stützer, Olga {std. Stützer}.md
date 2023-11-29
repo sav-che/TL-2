@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33212062) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33212062) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10259-1), [Wikidata](https://www.wikidata.org/wiki/Q26712064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stützer, Olga (*fl*. 1935), German botanist from Mainz. 
-**Abbreviated name**: *Stützer*
+**Abbreviated name**: *Stützer* \[standard form in IPNI: *O.Stützer*\]
 
 #### Herbarium and types
 

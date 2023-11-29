@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33120858) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33120858) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18400-1), [Wikidata](https://www.wikidata.org/wiki/Q76549). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ehrenberg, Christian Gottfried {std. Ehrenb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Ehrenberg, Christian Gottfried (1795-1876), German biologist, professor of natural sciences at the University of Berlin. 
-**Abbreviated name**: *Ehrenb.*
+**Abbreviated name**: *Ehrenb.* \[standard form in IPNI: *Ehrenb.*\]
 
 #### Herbarium and types
 

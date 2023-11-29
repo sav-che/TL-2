@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-07-10 09:37:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33265898) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33265898) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1701-1), [Wikidata](https://www.wikidata.org/wiki/Q282329). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Clinton, George William {std. Clinton}|first entry]] for this author
 
 ### Author
 
 \* Clinton, Georges William (1807-1885), American botanist, born in New York City, studied medicine two or three years and turned to law, resident of Buffalo 1836-1881 devoting himself to the bar, regent of the Buffalo University from 1856, returned to botany 1861 with the establishment of the Buffalo Society of Natural Sciences, from 1881 resident of Albany. 
-**Abbreviated name**: *Clinton*
+**Abbreviated name**: *Clinton* \[standard form in IPNI: *Clinton*\]
 
 #### Herbarium and types
 

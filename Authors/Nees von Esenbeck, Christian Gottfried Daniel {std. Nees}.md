@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33355792) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 705](https://www.biodiversitylibrary.org/page/33355792) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6888-1), [Wikidata](https://www.wikidata.org/wiki/Q76349). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nees von Esenbeck, Christian Gottfried Daniel (1776-1858), German nature-philosopher, physician and botanist; Dr. med. Giessen, 1800; physician at Sickershausen 1802; president of the "Leopoldina" 1818-1858; professor of botany at Erlangen (1818-1819), Bonn (1819-1830) and Breslau (1831-1851), formally dismissed 1851. 
-**Abbreviated name**: *Nees*
+**Abbreviated name**: *Nees* \[standard form in IPNI: *Nees*\]
 
 #### Herbarium and types
 

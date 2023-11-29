@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33189896) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33189896) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25143-1), [Wikidata](https://www.wikidata.org/wiki/Q21606769). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Puiggari, Juan Ignacio (1823-1900/1901), Spanish (Catalan) botanist; Dr. med. Barcelona 1849; in Brazil 1849; practicing at Barcelona 1849-1877; from 1877 in Brazil exploring the cryptogamic flora of São Paulo. 
-**Abbreviated name**: *Puigg.*
+**Abbreviated name**: *Puigg.* \[standard form in IPNI: *Puigg.*\]
 
 #### Herbarium and types
 

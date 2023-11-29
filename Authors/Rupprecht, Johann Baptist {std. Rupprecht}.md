@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 992](https://www.biodiversitylibrary.org/page/33190463) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 992](https://www.biodiversitylibrary.org/page/33190463) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8746-1), [Wikidata](https://www.wikidata.org/wiki/Q21607552). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rupprecht, Johann Baptist (1776-1846), Austrian botanist and gardener in Vienna. 
-**Abbreviated name**: *Rupprecht*
+**Abbreviated name**: *Rupprecht* \[standard form in IPNI: *Ruppr.*\]
 
 #### Herbarium and types
 

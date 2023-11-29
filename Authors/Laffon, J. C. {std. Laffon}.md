@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 719](https://www.biodiversitylibrary.org/page/33068961) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5202-1), [Wikidata](https://www.wikidata.org/wiki/Q21518296). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Laffon, J. C. (*fl*. 1848), Swiss botanist at Schaffhausen. 
-**Abbreviated name**: *Laffon*
+**Abbreviated name**: *Laffon* \[standard form in IPNI: *Laffon*\]
 
 #### Herbarium and types
 

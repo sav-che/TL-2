@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-02-12 12:26:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 993](https://www.biodiversitylibrary.org/page/33190464) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 993](https://www.biodiversitylibrary.org/page/33190464) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12802-1), [Wikidata](https://www.wikidata.org/wiki/Q62887). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ruprecht, Franz Josef (1814-1870) Austro-Bohemian botanist; studied medicine in Praha 1830-1836 (Carl-Ferdinand University); Dr. med. Praha 1838; practicing physician Praha 1838; curator of the botanical collections of the Academy of Sciences at St. Petersburg 1839 at the invitation of Trinius; from 1851-1855 connected with the St. Petersburg botanical garden; from 1855 director of the Botanical Museum of the Academy. 
-**Abbreviated name**: *Rupr.*
+**Abbreviated name**: *Rupr.* \[standard form in IPNI: *Rupr.*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33120690) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33120690) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1839-1), [Wikidata](https://www.wikidata.org/wiki/Q2029038). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Coulter, Thomas {std. Coult.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Coulter, Thomas (1793-1846), Irish botanist, in Central Mexico 1825-1834, curator of the herbarium of Trinity College, Dublin. 
-**Abbreviated name**: *T. Coulter*
+**Abbreviated name**: *T. Coulter* \[standard form in IPNI: *Coult.*\]
 
 #### Herbarium and types
 

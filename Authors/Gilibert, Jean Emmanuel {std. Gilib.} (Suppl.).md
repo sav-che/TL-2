@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33258691) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33258691) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19335-1), [Wikidata](https://www.wikidata.org/wiki/Q2621687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gilibert, Jean Emmanuel {std. Gilib.}|first entry]] for this author
 
 ### Author
 
 \* Gilibert, Jean Emmanuel (1741-1814), French botanist, physician and politician, born 21 Jun 1741 in Saint-Clair (Lyon), studied medicine in Montpellier 1760-1763, at Chazay-d'Azergues 1766-1768, through the intercession of A. von Haller and A. Gouan went to Lithuania (Grodno and Vilnius) 1775-1783, where at the behest of Stanislas II (King of Poland) he was to modernize teaching of natural history and medicine, returned to Lyon 1783 and practiced medicine, played an active role in the French Revolution, elected "Girondist" mayor of Lyon 1793, briefly imprisoned, returned to teaching 1796-1803, died 2 Sep 1814 in Lyon. 
-**Abbreviated name**: *Gilib.*
+**Abbreviated name**: *Gilib.* \[standard form in IPNI: *Gilib.*\]
 
 #### Herbarium and types
 

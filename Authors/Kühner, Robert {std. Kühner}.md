@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 683](https://www.biodiversitylibrary.org/page/33068925) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 683](https://www.biodiversitylibrary.org/page/33068925) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21788-1), [Wikidata](https://www.wikidata.org/wiki/Q2226482). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kühner, Robert (1904-x), French mycologist; Dr. sci. nat. Paris 1926; high school teacher at Lille (1921-1932); botanical assistant, Fac. Sci. Alger and Paris (1932-1934); lecturer, later professor, at the Fac. Sci. Lyon (1938). 
-**Abbreviated name**: *Kühner*
+**Abbreviated name**: *Kühner* \[standard form in IPNI: *Kühner*\]
 
 #### Herbarium and types
 

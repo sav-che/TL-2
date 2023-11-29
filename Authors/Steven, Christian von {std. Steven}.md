@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 911](https://www.biodiversitylibrary.org/page/33334050) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 911](https://www.biodiversitylibrary.org/page/33334050) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10125-1), [Wikidata](https://www.wikidata.org/wiki/Q967040). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steven, Christian von (1781-1863), Finnish botanist; studied at Turku, St. Petersburg 1795-1797, Jena 1797-1798; Dr. med. St. Petersburg 1798; inspector of silk production in the Caucasus with headquarters in Kislar 1800-1805; in Finland 1805-1806; assistant inspector for Southern Russia with Marschall von Bieberstein 1806-1826, at Simferopol (living there until his death), travelling extensively in Southern Russia; established the Nikita Botanical Garden in the Crimea 1812; travelled in Central Europe 1820-1821; retired from the directorship of the Botanical Garden in 1827; general inspector of the silk industry for the whole of Russia 1826-1841; general inspector for S. Russian agriculture 1841-1850. 
-**Abbreviated name**: *Steven*
+**Abbreviated name**: *Steven* \[standard form in IPNI: *Steven*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33212272) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33212272) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12924-1), [Wikidata](https://www.wikidata.org/wiki/Q1290187). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thaer, \[Konrad Wilhelm\] Albrecht (1828-1906), German (Prussian) botanist and agronomist; Dr. phil. Berlin 1851; in England 1851-1853; manager of the estates Rudersdorf and Börnicke 1853-1859; with his father at the estate (1859-1866) and agricultural college at Möglin (1859-1861); habil. Berlin 1861; professor (e.o.) of agronomy at Berlin University 1866-1871; regular professor of agronomy at the agricultural faculty of the Ludwigs-University, Giessen 1871. 
-**Abbreviated name**: *Thaer*
+**Abbreviated name**: *Thaer* \[standard form in IPNI: *Thaer*\]
 
 #### Herbarium and types
 

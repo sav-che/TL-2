@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33066905) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33066905) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/29199-1), [Wikidata](https://www.wikidata.org/wiki/Q6074265). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zwackh-Holzhausen, \[Philipp Franz\] Wilhelm Ritter von (1825-1903), German (Baden) botanist (lichenologist), soldier and nobleman of private means. 
-**Abbreviated name**: *Zwackh.*
+**Abbreviated name**: *Zwackh.* \[standard form in IPNI: *Zwackh*\]
 
 #### Herbarium and types
 

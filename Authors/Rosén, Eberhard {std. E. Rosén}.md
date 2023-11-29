@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 887](https://www.biodiversitylibrary.org/page/33190358) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 887](https://www.biodiversitylibrary.org/page/33190358) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8588-1), [Wikidata](https://www.wikidata.org/wiki/Q21607411). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rosén, Eberhard (knighted 1770: Rosenblad)(1714-1796), Swedish physician and botanist; Dr. med. Uppsala 1741 (under N. Rosén); professor of medicine and anatomy at Lund 1744-1784. 
-**Abbreviated name**: *E. Rosén*
+**Abbreviated name**: *E. Rosén* \[standard form in IPNI: *E.Rosén*\]
 
 #### Herbarium and types
 

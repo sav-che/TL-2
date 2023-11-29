@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33266012) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 335](https://www.biodiversitylibrary.org/page/33266012) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17410-1), [Wikidata](https://www.wikidata.org/wiki/Q21508997). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Coons, George Herbert (1885-x), American botanist, plant pathologist, born at Bloomington, III., studied at the University of Illinois, Urbana, A.B. 1908 at the University of Nebraska, AM 1911, University of Michigan, Ph.D. 1915, professor of botany at Michigan State College 1925-1929, from 1929 principal pathologist at U.S.D.A., specialist of sugarbeet technology. 
-**Abbreviated name**: *Coons*
+**Abbreviated name**: *Coons* \[standard form in IPNI: *Coons*\]
 
 #### Herbarium and types
 

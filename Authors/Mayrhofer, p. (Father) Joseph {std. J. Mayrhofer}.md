@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33355477) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33355477) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/35189-1), [Wikidata](https://www.wikidata.org/wiki/Q21520179). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mayrhofer, p. \[Father?\] Joseph (1831-1880), German botanist, "Conventual des Benedictinerstifter Weltenburg." 
-**Abbreviated name**: *J. Mayrhofer*
+**Abbreviated name**: *J. Mayrhofer* \[standard form in IPNI: *J.Mayrhofer*\]
 
 #### Herbarium and types
 

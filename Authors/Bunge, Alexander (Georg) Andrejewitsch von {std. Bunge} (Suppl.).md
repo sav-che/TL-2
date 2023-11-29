@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33266527) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33266527) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/12367-1), [Wikidata](https://www.wikidata.org/wiki/Q65899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bunge, Alexander Andrejewitsch von {std. Bunge}|first entry]] for this author
 
 ### Author
 
 \* Bunge, Alexander \[Georg\] Andrejewitsch von (1803-1890), Russian (Ukranian, Kiew) botanist, explorer and physician, moved with his family to Dorpat 1815, studied at the Dorpat Gymnasium 1818-1821, studied medicine at the University of Dorpat \[also Tartu, Jurjew\] 1821-1825, Dr. med. ib. 1825, with Ledebour in Siberia 1826, physician at ironworks Kolyvan Voskresenskischen, hospital physician at Barnaul and Zmeinogorsk (Gouv. Tomsk), on expedition to China 1830-1831, to the Altai 1832, professor of botany at Kazan 1833-1836, id. at Dorpat 1836-1867, expedition to Khorasan and Afghanistan 1857-1859, emeritus in Dorpat 1867. 
-**Abbreviated name**: *Bunge*
+**Abbreviated name**: *Bunge* \[standard form in IPNI: *Bunge*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 887](https://www.biodiversitylibrary.org/page/33190358) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 887](https://www.biodiversitylibrary.org/page/33190358) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12789-1), [Wikidata](https://www.wikidata.org/wiki/Q21607408). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rose, Lewis Samuel (originally: Rosenbaum) (1893-1973), American (native Californian) plant collector in California; long-time associate of the California Academy of Sciences, from 1930 as a volunteer in its Department of Botany. 
-**Abbreviated name**: *L. Rose*
+**Abbreviated name**: *L. Rose* \[standard form in IPNI: *L.Rose*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33189733) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33189733) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7696-1), [Wikidata](https://www.wikidata.org/wiki/Q21523009). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pike, Nicolas (1815-1905), American soldier, herpetologist and algologist; U.S. consul at Porto, Portugal 1856-1866 and Mauritius (1866-1876). 
-**Abbreviated name**: *Pike*
+**Abbreviated name**: *Pike* \[standard form in IPNI: *Pike*\]
 
 #### Herbarium and types
 

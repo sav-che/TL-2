@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33212796) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 754](https://www.biodiversitylibrary.org/page/33212796) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11218-1), [Wikidata](https://www.wikidata.org/wiki/Q1389217). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Visiani, Roberto de (1800-1878), Italian (Dalmatia-born) botanist and physician; Dr. med. 1822, assistant with G.A. Bonato at Padua 1822-1826; physician at Cattaro 1829, Demis 1830, and Budua 1835; assistant professor at Padua; regular professor and director of the botanical garden ib. 1837-1877; explorer of and writer on the floras of Dalmatia and Venice. 
-**Abbreviated name**: *Vis.*
+**Abbreviated name**: *Vis.* \[standard form in IPNI: *Vis.*\]
 
 #### Herbarium and types
 

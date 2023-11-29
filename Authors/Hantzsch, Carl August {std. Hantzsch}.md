@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3639-1), [Wikidata](https://www.wikidata.org/wiki/Q21514664). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hantzsch, Carl August (1825-1886), German diatomologist. 
-**Abbreviated name**: *Hantzsch*
+**Abbreviated name**: *Hantzsch* \[standard form in IPNI: *Hantzsch*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33266354) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33266354) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1106-1), [Wikidata](https://www.wikidata.org/wiki/Q65173). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brefeld, Julius Oscar {std. Bref.}|first entry]] for this author
 
 ### Author
 
 \* Brefeld, Julius Oscar (1839-1925), German (Telgte nr. Münster in Westfalen) mycologist, studied pharmacy at the universities of Berlin and Heidelberg, pharmaceutical state examination at Heidelberg, habilitation at Berlin 1873, sometime private lecturer in botany in Würzburg, professor of botany at the Forestry Academy at Eberswalde 1878, id. and director of the Botanical Gardens at Münster 1882, director of the Plant physiological Institute of the University of Breslau, replacing F. Cohn, because of eye trouble in retirement living in Berlin as Regierungsrat 1907-1925 
-**Abbreviated name**: *Bref.*
+**Abbreviated name**: *Bref.* \[standard form in IPNI: *Bref.*\]
 
 #### Herbarium and types
 

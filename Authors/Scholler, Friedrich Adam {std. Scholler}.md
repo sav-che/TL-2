@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33333433) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33333433) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9226-1), [Wikidata](https://www.wikidata.org/wiki/Q3087686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scholler, Friedrich Adam (1718-1795), German (Bayreuth) botanist; teacher at the community of Moravian Brethern at Barby (Prussian Saxony). 
-**Abbreviated name**: *Scholler*
+**Abbreviated name**: *Scholler* \[standard form in IPNI: *Scholler*\]
 
 #### Herbarium and types
 

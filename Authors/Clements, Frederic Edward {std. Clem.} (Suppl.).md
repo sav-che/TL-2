@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33265883) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33265883) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17308-1), [Wikidata](https://www.wikidata.org/wiki/Q920184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Clements, Frederic Edward {std. Clem.}|first entry]] for this author
 
 ### Author
 
 \* Clements, Frederic Edward (1874-1945), American ecologist, mycologist, climatologist and neo-lamarckian philosopher, born at Lincoln, Nebraska, B.Sc. University of Nebraska 1894, A.M. 1896, Ph.D. 1898, married Edith Schwartz in Lincoln, Nebraska 1899, instructor and associate professor of botany and professor of plant physiology 1903-1906, professor 1906-1907, professor of botany at Univ. Minnesota 1907-1917, ecologist with the Carnegie Institution from 1917-1945. 
-**Abbreviated name**: *Clem.*
+**Abbreviated name**: *Clem.* \[standard form in IPNI: *Clem.*\]
 
 #### Herbarium and types
 

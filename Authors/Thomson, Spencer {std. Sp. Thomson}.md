@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33212328) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33212328) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10620-1), [Wikidata](https://www.wikidata.org/wiki/Q21610684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomson, Spencer (c. 1817-1886), British physician and popular writer on botany and medicine; MD St. Andrews 1840; practicing physician at Burton-on-Trent and Torquay. 
-**Abbreviated name**: *Sp. Thomson*
+**Abbreviated name**: *Sp. Thomson* \[standard form in IPNI: *S.Thomson*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33212214) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33212214) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/35143-1), [Wikidata](https://www.wikidata.org/wiki/Q73246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Taschenberg, Ernst Ludwig (1818-1898), German (Prussian Saxony) botanist and entomologist; studied in Berlin and Leipzig ; assistant teacher at the Francke'schen Stiftungen Halle and from 1845-1847 associated with the Zoological Museum ib.; high school teacher at Seesen and Zahna 1847-1855; from 1855 again in Halle as inspector of the Zoological Museum and extraordinary professor of zoology at the university. 
-**Abbreviated name**: *Taschenb.*
+**Abbreviated name**: *Taschenb.* \[standard form in IPNI: *Taschenb.*\]
 
 #### Herbarium and types
 

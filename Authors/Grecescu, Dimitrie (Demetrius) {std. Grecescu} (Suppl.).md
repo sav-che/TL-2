@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33258829) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 351](https://www.biodiversitylibrary.org/page/33258829) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3360-1), [Wikidata](https://www.wikidata.org/wiki/Q12726698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Grecescu, Dimitrie {std. Grecescu}|first entry]] for this author
 
 ### Author
 
 \* Grecescu, Dimitrie \[Demetrius\] (1841-1910), Romanian botanist and physician, born 15 Jun 1841 in Cernetz, studied medicine in Paris 1868, Academia Româna 1907, died 20 Oct 1910 in Bucharest. 
-**Abbreviated name**: *Grecescu*
+**Abbreviated name**: *Grecescu* \[standard form in IPNI: *Grecescu*\]
 
 #### Herbarium and types
 

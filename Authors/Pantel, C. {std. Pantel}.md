@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33189478) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33189478) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7312-1), [Wikidata](https://www.wikidata.org/wiki/Q36528944). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pantel, C. (*fl*. 1885), French botanist and geographer 
-**Abbreviated name**: *Pantel*
+**Abbreviated name**: *Pantel* \[standard form in IPNI: *Pantel*\]
 
 #### Herbarium and types
 

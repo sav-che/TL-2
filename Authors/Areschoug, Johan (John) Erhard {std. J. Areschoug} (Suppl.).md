@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33264885) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33264885) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/265-1), [Wikidata](https://www.wikidata.org/wiki/Q747922). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Areschoug, John Erhard {std. J. Areschoug}|first entry]] for this author
 
 ### Author
 
 \* Areschoug, Johan \[John\] Erhard (1811-1887), Swedish algologist, studied at Lund 1829, fil. kand. ib. 1835, fil. dr. 1838, lecturer ("docent") in botany at Lund 1839, teacher natural sciences at the Göteborg Gymnasium 1841-1849, Borgström "adjunkt" for botany and agricultural economics at Uppsala University 1849, extraordinary professor of botany ib. 1858, Borgström professor id. 1859-1876, director of the Uppsala botanical garden 1863-1876, in retirementin Stockholm. 
-**Abbreviated name**: *J. Areschoug*
+**Abbreviated name**: *J. Areschoug* \[standard form in IPNI: *Aresch.*\]
 
 #### Herbarium and types
 

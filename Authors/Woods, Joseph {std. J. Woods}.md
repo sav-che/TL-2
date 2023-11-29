@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33066784) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33066784) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11856-1), [Wikidata](https://www.wikidata.org/wiki/Q920730). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Woods, Joseph (1776-1864), British architect and botanist; architect in London until 1833; from then on living at Lewes in retirement and dedicating himself to botany. 
-**Abbreviated name**: *J. Woods*
+**Abbreviated name**: *J. Woods* \[standard form in IPNI: *J.Woods*\]
 
 #### Herbarium and types
 

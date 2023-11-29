@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33355542) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 455](https://www.biodiversitylibrary.org/page/33355542) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6430-1), [Wikidata](https://www.wikidata.org/wiki/Q5981478). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Michalet, \[Louis\] Eugène (1826-1862), French botanist and magistrate at Besançon. 
-**Abbreviated name**: *Michalet*
+**Abbreviated name**: *Michalet* \[standard form in IPNI: *Michalet*\]
 
 #### Herbarium and types
 

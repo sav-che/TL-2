@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33333641) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 502](https://www.biodiversitylibrary.org/page/33333641) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9477-1), [Wikidata](https://www.wikidata.org/wiki/Q98077). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Senckenberg, Johann Christian (1707-1772), German (Frankfurt a.M.) physician and naturalist; founder of the Senckenberg Stiftung consisting of a library, botanical garden, chemical laboratory and hospital. 
-**Abbreviated name**: *Senckenberg*
+**Abbreviated name**: *Senckenberg* \[standard form in IPNI: *Senck.*\]
 
 #### Herbarium and types
 

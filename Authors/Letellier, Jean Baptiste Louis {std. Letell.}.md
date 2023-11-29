@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33069099) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33069099) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/22264-1), [Wikidata](https://www.wikidata.org/wiki/Q21394987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Letellier, Jean Baptiste Louis (*fl*. 1829-1842), French mycologist. 
-**Abbreviated name**: *Letell.*
+**Abbreviated name**: *Letell.* \[standard form in IPNI: *Letell.*\]
 
 #### Herbarium and types
 

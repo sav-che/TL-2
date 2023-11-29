@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33068662) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33068662) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4414-1), [Wikidata](https://www.wikidata.org/wiki/Q21516906). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jameson, Hampden Curney (1852-1939), British clergyman and botanist; curacies at Norlands, Lincoln and Castbourne; vicar at Eastbourne 1896-1917; from 1917-1939 in retirement at Leatherhead. 
-**Abbreviated name**: *H. Jameson*
+**Abbreviated name**: *H. Jameson* \[standard form in IPNI: *H.Jameson*\]
 
 #### Herbarium and types
 

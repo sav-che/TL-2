@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33068893) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33068893) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12625-1), [Wikidata](https://www.wikidata.org/wiki/Q4233024). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Korshinsky \[Koržinskij\], Sergei Iwanowitsch (1861-1900), Russian botanist; Dr. Phil. Kasan 1888, professor of botany at Tomsk 1888-1892, botanist at the botanical garden in St. Petersburg 1892-1900; traveller in Siberia and Turkestan; outstanding plant geographer. 
-**Abbreviated name**: *Korshinsky*
+**Abbreviated name**: *Korshinsky* \[standard form in IPNI: *Korsh.*\]
 
 #### Herbarium and types
 

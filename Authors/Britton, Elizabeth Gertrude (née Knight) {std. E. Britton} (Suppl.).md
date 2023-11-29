@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33266399) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33266399) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/12361-1), [Wikidata](https://www.wikidata.org/wiki/Q2567402). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Britton, Elizabeth Gertrude (née Knight) {std. E. Britton}|first entry]] for this author
 
 ### Author
 
 \* Britton, Elizabeth Gertrude (née Knight) (1858-1934), American botanist, née E.G. Knight, married to N.L. Britton 27 Aug 1885, born in the City of New York, spent part of her early life at Matanzas, Cuba, with her grandfather at a sugar estate, graduated from the Normal (Hunter) College New York 1875, teacher at the Model School ib., tutor in natural science at Normal College 1883, collected and studied mosses from 1880, from 1885 associated with her husband at Columbia College and subsequently at the New York Botanical Garden, Honorary curator of mosses 1912-1934, prime mover in organizing The Wild Flower Preservation Society of America, 
-**Abbreviated name**: *E. Britton*
+**Abbreviated name**: *E. Britton* \[standard form in IPNI: *E.Britton*\]
 
 #### Herbarium and types
 

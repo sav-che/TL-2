@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33355524) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33355524) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6402-1), [Wikidata](https://www.wikidata.org/wiki/Q47122518). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meurer, Pfarrer (*fl*. 1848), German clergyman and botanist; high school teacher at Rinteln. 
-**Abbreviated name**: *Meurer*
+**Abbreviated name**: *Meurer* \[standard form in IPNI: *Meurer*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33212380) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33212380) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12933-1), [Wikidata](https://www.wikidata.org/wiki/Q717391). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thurn, Everard Ferdinand Im (1852-1932), British colonial administrator and collector; MA Oxford, curator of the Museum at Georgetown, British Guiana 1877-1882; magistrate at Pomeroon 1882-1891, government agent, N.W. District 1891-1899; colonial secretary in Ceylon 1901; governor of the Fiji Islands 1904-1910; first to make an ascent of Mt. Roraima (1884); LL.D. Edinburgh Univ. 1911. 
-**Abbreviated name**: *Thurn*
+**Abbreviated name**: *Thurn* \[standard form in IPNI: *Thurn*\]
 
 #### Herbarium and types
 

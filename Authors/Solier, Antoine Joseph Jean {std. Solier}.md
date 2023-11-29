@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33333866) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 727](https://www.biodiversitylibrary.org/page/33333866) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9876-1), [Wikidata](https://www.wikidata.org/wiki/Q4775497). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Solier, Antoine Joseph Jean (1792-1851), French botanist, entomologist and soldier; studied at the Paris École polytechnique, in the Napoleonic army as lieutenant with the engineers 1813-1815; captain in the French army at Marseille 1815-1823 and Montpellier 1823-1824, again in Marseille 1824-1832; in retirement ib. 1832-1851. 
-**Abbreviated name**: *Solier*
+**Abbreviated name**: *Solier* \[standard form in IPNI: *Solier*\]
 
 #### Herbarium and types
 

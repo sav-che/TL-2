@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33068773) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33068773) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4752-1), [Wikidata](https://www.wikidata.org/wiki/Q21517444). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kessel, Stephen Lackey (1897-x), Australian forester, conservator of forests W. Australia 1921-1941. 
-**Abbreviated name**: *Kessel*
+**Abbreviated name**: *Kessel* \[standard form in IPNI: *Kessell*\]
 
 #### Herbarium and types
 

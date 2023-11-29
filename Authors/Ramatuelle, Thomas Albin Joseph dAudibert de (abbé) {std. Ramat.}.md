@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33190040) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 569](https://www.biodiversitylibrary.org/page/33190040) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8119-1), [Wikidata](https://www.wikidata.org/wiki/Q3525686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ramatuelle, Thomas Albin Joseph d'Audibert de (abbé) (1750-1794), French clergyman and botanist at Aix-en-Provence; died from falling off the roof of a prison during the French revolution. 
-**Abbreviated name**: *Ramat.*
+**Abbreviated name**: *Ramat.* \[standard form in IPNI: *Ramat.*\]
 
 #### Herbarium and types
 

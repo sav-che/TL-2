@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33266443) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33266443) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16604-1), [Wikidata](https://www.wikidata.org/wiki/Q21506545). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brown, Margaret Sibella (1866-1961), Australian (born Sydney Mines, N.S.) bryologist, educated at private schools at Halifax, N.S., Stuttgart, Württemberg, and London. 
-**Abbreviated name**: *M.S. Br.*
+**Abbreviated name**: *M.S. Br.* \[standard form in IPNI: *M.S.Br.*\]
 
 #### Herbarium and types
 

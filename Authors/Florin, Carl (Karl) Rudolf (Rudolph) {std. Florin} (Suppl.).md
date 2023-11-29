@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33259767) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33259767) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2790-1), [Wikidata](https://www.wikidata.org/wiki/Q2938999). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Florin, Carl Rudolf {std. Florin}|first entry]] for this author
 
 ### Author
 
 \* Florin, Carl \[Karl\] Rudolf \[Rudolph\] (1894-1965), Swedish botanist and paleontologist who specialized in Coniferae, born 5 Apr 1894 in Solna nr. Stockholm, attended secondary school in Stockholm, fil. kand. 1919, fil. lic. 1920, Dr. Sci. and docent 1931, all Univ. of Stockholm, asst. (keeper), paleobotanical dept., Swedish Museum of Natural History 1918, prof. 1932, Prof. Bergianus 1944 and assoc. prof. of systematic botany 1947, all Univ. of Stockholm, Swedish Royal Acad. Sciences 1946, A.A.A.S. 1946, visiting prof., Univ. of Calif. 1960, president Swedish Bot. Soc., Corr. Member B.S.A., and many other honors and medals, died 24 Sep 1965. 
-**Abbreviated name**: *Florin*
+**Abbreviated name**: *Florin* \[standard form in IPNI: *Florin*\]
 
 #### Note
 

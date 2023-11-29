@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33212706) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 664](https://www.biodiversitylibrary.org/page/33212706) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12510-1), [Wikidata](https://www.wikidata.org/wiki/Q2093328). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Geel, Pierre (Petrus) Corneille van {std. Van Geel} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Van Geel, Pierre Corneille (1796-1836), Belgian clergyman, botanist and polemical publicist; ordained 1815; with Drapiez founder of a "horticultural establishment" at Bruxelles \[later Jardin botanique de l'État, Jardin national de botanique de Belgique\]; later residing in The Hague and Paris. 
-**Abbreviated name**: *==Name in the standard form is not specified==.*
+**Abbreviated name**: *==Name in the standard form is not specified==.* \[standard form in IPNI: *Van Geel*\]
 
 #### Herbarium and types
 

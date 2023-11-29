@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33068751) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33068751) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4677-1), [Wikidata](https://www.wikidata.org/wiki/Q3566168). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kavina, Karel (1890-1948), Czechoslovakian botanist and mycologist at Praha; pupil of J. Velenovsky. 
-**Abbreviated name**: *Kavina*
+**Abbreviated name**: *Kavina* \[standard form in IPNI: *Kavina*\]
 
 #### Herbarium and types
 

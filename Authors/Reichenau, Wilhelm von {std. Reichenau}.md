@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33190136) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33190136) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8251-1), [Wikidata](https://www.wikidata.org/wiki/Q2576017). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reichenau, Wilhelm von (1847-after 1913), German botanist and ornithologist from Dillenburg, Nassau, later director of the Natural History Museum at Mainz. 
-**Abbreviated name**: *Reichenau*
+**Abbreviated name**: *Reichenau* \[standard form in IPNI: *Reichenau*\]
 
 #### Herbarium and types
 

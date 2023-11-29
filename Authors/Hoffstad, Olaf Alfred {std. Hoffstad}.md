@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33068489) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33068489) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4022-1), [Wikidata](https://www.wikidata.org/wiki/Q7082928). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoffstad, Olaf Alfred (1865-1943), Norwegian botanist; teacher at Trondhjem, Egersund, Haugesund and Roros; from 1892 at Sandefjord. 
-**Abbreviated name**: *Hoffstad*
+**Abbreviated name**: *Hoffstad* \[standard form in IPNI: *Hoffstad*\]
 
 #### Herbarium and types
 

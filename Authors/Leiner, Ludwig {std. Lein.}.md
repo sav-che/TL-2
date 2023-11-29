@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33069070) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33069070) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/22213-1), [Wikidata](https://www.wikidata.org/wiki/Q19720963). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leiner, Ludwig (1830-1901), German pharmacist and naturalist at Konstanz. 
-**Abbreviated name**: *Lein.*
+**Abbreviated name**: *Lein.* \[standard form in IPNI: *Leiner*\]
 
 #### Herbarium and types
 

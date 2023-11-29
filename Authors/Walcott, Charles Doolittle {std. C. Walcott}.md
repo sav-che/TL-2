@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33066367) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 27](https://www.biodiversitylibrary.org/page/33066367) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11326-1), [Wikidata](https://www.wikidata.org/wiki/Q362124). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walcott, Charles Doolittle (1850-1927), American palaeontologist with the U.S. Geological Survey 1879-1894; director of the Survey 1894-1907; secretary of the Smithsonian Institution 1907-1927; president of the National Academy of Sciences 1917-1923; founder of the National Research Council. 
-**Abbreviated name**: *C. Walcott*
+**Abbreviated name**: *C. Walcott* \[standard form in IPNI: *C.Walcott*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33212078) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33212078) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10167-1), [Wikidata](https://www.wikidata.org/wiki/Q21609880). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stokes, Whitley (1763-1845), Irish physician and botanist (bryologist), MD Dublin 1793; lecturer in natural history, Dublin, Trinity College 1814 (1816?); professor of medicine, Dublin 1830-1843. friend of Dawson Turner. 
-**Abbreviated name**: *W. Stokes*
+**Abbreviated name**: *W. Stokes* \[standard form in IPNI: *W.Stokes*\]
 
 #### Herbarium and types
 

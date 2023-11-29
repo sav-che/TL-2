@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33333492) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33333492) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9278-1), [Wikidata](https://www.wikidata.org/wiki/Q11779272). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schubert \[Szubert\], Michael \[Mikael\] (1787-1860), German-born botanist; professor of botany and director of the botanical garden at Warsaw. 
-**Abbreviated name**: *M. Schub.*
+**Abbreviated name**: *M. Schub.* \[standard form in IPNI: *M.Schub.*\]
 
 #### Herbarium and types
 

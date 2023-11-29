@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33066381) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33066381) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11350-1), [Wikidata](https://www.wikidata.org/wiki/Q112374). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wallis, Gustav (1830-1878), German (Hanoverian) gardener and botanical explorer; gardener at Detmold and München; collected in South and Central America 1854-1868 (part of the time for J. Linden), in Europe 1868-1869; in the Philippines and Japan 1870-1871; in North America 1871-1872; in Colombia, Panama and Ecuador 1872-1878 for James Veitch; died in Ecuador. 
-**Abbreviated name**: *Wallis*
+**Abbreviated name**: *Wallis* \[standard form in IPNI: *Wallis*\]
 
 #### Herbarium and types
 

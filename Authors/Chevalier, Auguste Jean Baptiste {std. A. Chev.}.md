@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2004-09-16 06:14:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33120624) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33120624) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1584-1), [Wikidata](https://www.wikidata.org/wiki/Q766644). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Chevalier, Auguste Jean Baptiste {std. A. Chev.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Chevalier, Auguste Jean Baptiste (1873-1956), French botanist, explorer and bio-historian. 
-**Abbreviated name**: *A. Chev.*
+**Abbreviated name**: *A. Chev.* \[standard form in IPNI: *A.Chev.*\]
 
 #### Herbarium and types
 

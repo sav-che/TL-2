@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-07-10 18:20:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33189599) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33189599) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7433-1), [Wikidata](https://www.wikidata.org/wiki/Q5820043). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Payson, Edwin Blake (1893-1927), American botanist; Dr. phil. Univ. Washington 1921; BA Univ. Wyoming 1917; professor of botany Univ. Wyoming 1921-1927. 
-**Abbreviated name**: *Payson*
+**Abbreviated name**: *Payson* \[standard form in IPNI: *Payson*\]
 
 #### Herbarium and types
 

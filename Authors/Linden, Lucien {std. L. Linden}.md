@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33355095) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33355095) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5613-1), [Wikidata](https://www.wikidata.org/wiki/Q3246790). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Linden, Lucien (1851-1940), Belgian horticulturist, son of J. J. Linden, 
-**Abbreviated name**: *L. Linden*
+**Abbreviated name**: *L. Linden* \[standard form in IPNI: *L.Linden*\]
 
 #### Herbarium and types
 

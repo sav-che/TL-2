@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33259212) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 166](https://www.biodiversitylibrary.org/page/33259212) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17892-1), [Wikidata](https://www.wikidata.org/wiki/Q21510134). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dekker, Johannes (1879-x), Dutch pharmacist, born 6 Jun 1879, educated at Haarlem, studied first at Leiden University, later at Utrecht University, Dr. degree 1902 at Bern with Wilhelm Oswald Alexander Tschirsch (1856-1939), military dispenser in Dutch East Indies 1902-1910, director of the division Commercial Museum of the Colonial Museum at Haarlem (Netherlands) 1910-1916, scientific advisor of the firm of Jurgens 1916-1922, municipal chemist at Rotterdam 1922-1925, from 1929 pharmaceutical chemist Middelburg. 
-**Abbreviated name**: *Dekker*
+**Abbreviated name**: *Dekker* \[standard form in IPNI: *Dekker*\]
 
 #### Herbarium and types
 

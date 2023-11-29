@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/page/33355755) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 668](https://www.biodiversitylibrary.org/page/33355755) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6808-1), [Wikidata](https://www.wikidata.org/wiki/Q2003863). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Murray, George Robert Milne (1858-1911), British cryptogamist; pupil of de Bary; assistant (1876-1895) and keeper of the Department of Botany of BM(NH) 1895-1905; naturalist on the West Indian Eclipse Expedition of 1886; scientific director, National Antarctic Expedition "Discovery" 1901 (organisation only). 
-**Abbreviated name**: *G. Murray*
+**Abbreviated name**: *G. Murray* \[standard form in IPNI: *G.Murray*\]
 
 #### Herbarium and types
 

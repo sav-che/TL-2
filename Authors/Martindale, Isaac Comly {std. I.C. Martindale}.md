@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33355408) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33355408) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22963-1), [Wikidata](https://www.wikidata.org/wiki/Q21520027). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Martindale, Isaac Comly (1842-1893), American quaker, botanist, entomologist, and bank-clerk of Camden, New Jersey. 
-**Abbreviated name**: *I. C. Martindale*
+**Abbreviated name**: *I. C. Martindale* \[standard form in IPNI: *I.C.Martind.*\]
 
 #### Herbarium and types
 

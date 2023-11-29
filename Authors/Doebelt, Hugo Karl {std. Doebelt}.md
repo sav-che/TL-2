@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33260007) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33260007) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/20002707-1), [Wikidata](https://www.wikidata.org/wiki/Q36572113). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Doebelt, Hugo Karl (1885-x), German botanist, born 15 Jun 1885 at Halle a. S., educated at the Oberrealschule of Halle until 1904, natural sciences at the University of Halle 1909. 
-**Abbreviated name**: *Doebelt*
+**Abbreviated name**: *Doebelt* \[standard form in IPNI: *Doebelt*\]
 
 #### Herbarium and types
 

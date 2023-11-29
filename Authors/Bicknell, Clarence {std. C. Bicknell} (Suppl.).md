@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265353) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265353) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/772-1), [Wikidata](https://www.wikidata.org/wiki/Q890698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bicknell, Clarence {std. C. Bicknell}|first entry]] for this author
 
 ### Author
 
 \* Bicknell, Clarence (1842-1918), British curate, archeologist and botanist, B.A. Trinity College, Cambridge 1865, M.A. 1873, took Orders in the Church of England, curate at St. Paul's Walworth and at Stoke (Shropshire), chaplain at Bordighera (Riviera) 1879-1881, from then on following scientific and artistic pursuits settled at Bordighera. 
-**Abbreviated name**: *C. Bicknell*
+**Abbreviated name**: *C. Bicknell* \[standard form in IPNI: *C.Bicknell*\]
 
 #### Herbarium and types
 

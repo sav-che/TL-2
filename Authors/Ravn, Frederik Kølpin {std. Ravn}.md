@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33190073) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33190073) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8184-1), [Wikidata](https://www.wikidata.org/wiki/Q3373722). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ravn, Frederik Kølpin (1873-1920), Danish botanist; Dr. phil. Copenh. 1900; assistant at the Agricultural College of Copenhagen with E. Rostrup 1892-1907; professor of phytopathology ib. 1907-1920. 
-**Abbreviated name**: *Ravn*
+**Abbreviated name**: *Ravn* \[standard form in IPNI: *Ravn*\]
 
 #### Herbarium and types
 

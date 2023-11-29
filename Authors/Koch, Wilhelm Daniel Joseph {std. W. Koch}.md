@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 591](https://www.biodiversitylibrary.org/page/33068833) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 591](https://www.biodiversitylibrary.org/page/33068833) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21570-1), [Wikidata](https://www.wikidata.org/wiki/Q63388). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Koch, Wilhelm Daniel Joseph (1771-1849), German physician and botanist; Dr. med. Giessen 1794; practiced at Kaiserslautern from 1797 until 1824, then professor of botany at Erlangen. 
-**Abbreviated name**: *W. Koch*
+**Abbreviated name**: *W. Koch* \[standard form in IPNI: *W.D.J.Koch*\]
 
 #### Herbarium and types
 

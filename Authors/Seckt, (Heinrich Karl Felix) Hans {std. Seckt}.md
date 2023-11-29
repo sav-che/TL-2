@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33333610) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 471](https://www.biodiversitylibrary.org/page/33333610) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12859-1), [Wikidata](https://www.wikidata.org/wiki/Q21608592). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seckt, \[Heinrich Karl Felix\] Hans (1879-1953), German (Berlin)-born botanist who emigrated to Argentina; Dr. phil. Berlin 1901; assistant at the Institute for plant physiology Berlin 1901-1906; professor at the "Instituto nacional del professorado secundario" in Buenos Aires 1906-1920; professor of botany at the University of Córdoba 1920-1947. 
-**Abbreviated name**: *Seckt*
+**Abbreviated name**: *Seckt* \[standard form in IPNI: *Seckt*\]
 
 #### Herbarium and types
 

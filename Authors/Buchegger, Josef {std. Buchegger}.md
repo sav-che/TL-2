@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33266494) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 187](https://www.biodiversitylibrary.org/page/33266494) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1244-1), [Wikidata](https://www.wikidata.org/wiki/Q21506606). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buchegger, Josef (1886-?), Austrian botanist, born in Vienna, Dr. phil. Vienna 10 Jul 1913, "Demonstrator" at the Botanical Institute of the University of Vienna 1913-1915, later teacher at secondary schools, ultimately professor at the Bundes-Gymnasium in Linz. 
-**Abbreviated name**: *Buchegger*
+**Abbreviated name**: *Buchegger* \[standard form in IPNI: *Buchegger*\]
 
 #### Herbarium and types
 

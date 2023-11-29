@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33212251) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33212251) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27606-1), [Wikidata](https://www.wikidata.org/wiki/Q4467304). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Teng, Shu-ch'ün (1902-x), Chinese mycologist at the Institute of applied mycology, Peking, China. 
-**Abbreviated name**: *S. Teng*
+**Abbreviated name**: *S. Teng* \[standard form in IPNI: *Teng*\]
 
 #### Herbarium and types
 

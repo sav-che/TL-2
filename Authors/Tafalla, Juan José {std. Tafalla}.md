@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33212192) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33212192) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10382-1), [Wikidata](https://www.wikidata.org/wiki/Q6455984). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tafalla, Juan José (1755(?)-1811), Spanish botanist; pharmacist in Navarra; with Ruiz and Pavon on their expedition to Peru; professor of botany at Lima from 1788. 
-**Abbreviated name**: *Tafalla*
+**Abbreviated name**: *Tafalla* \[standard form in IPNI: *Tafalla*\]
 
 #### Herbarium and types
 

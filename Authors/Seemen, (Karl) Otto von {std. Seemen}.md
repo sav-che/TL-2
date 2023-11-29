@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33333620) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33333620) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9419-1), [Wikidata](https://www.wikidata.org/wiki/Q3193437). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seemen, \[Karl\] Otto von (1838-1910), German (East-Prussian) botanist and soldier; officer in the Prussian army, at Münchengrätz and Königgrätz 1866, in the Franco-Prussian war 1870-1871; from then on in semi-retirement ("Rittmeister a.D.") in Berlin; professor's title 1909; Rother Adlerorden iv. Kl. 1910; active floristic botanist; specialist on *Salix*; longtime honorary collaborator at the Botanical Museum, Berlin. 
-**Abbreviated name**: *Seemen*
+**Abbreviated name**: *Seemen* \[standard form in IPNI: *Seemen*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33265279) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 82](https://www.biodiversitylibrary.org/page/33265279) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/674-1), [Wikidata](https://www.wikidata.org/wiki/Q17412346). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Berg, Alexander (fl. 1832), German pharmacist. 
-**Abbreviated name**: *A. Berg*
+**Abbreviated name**: *A. Berg* \[standard form in IPNI: *A.Berg*\]
 
 #### Herbarium and types
 

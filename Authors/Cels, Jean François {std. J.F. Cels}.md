@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33265697) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 20](https://www.biodiversitylibrary.org/page/33265697) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/39272-1), [Wikidata](https://www.wikidata.org/wiki/Q21508091). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cels, Jean François (1810-1888), French horticulturist, son of François Cels, continued his father’s establishment. 
-**Abbreviated name**: *J.F. Cels*
+**Abbreviated name**: *J.F. Cels* \[standard form in IPNI: *J.F.Cels*\]
 
 #### Herbarium and types
 

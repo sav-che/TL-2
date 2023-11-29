@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33259294) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33259294) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2166-1), [Wikidata](https://www.wikidata.org/wiki/Q36561288). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[De Toni, Giuseppe {std. G. De Toni}|first entry]] for this author
 
 ### Author
 
 \* De Toni, Giuseppe \[Joseph\] (fl. 1934-1939), Italian algologist, son of Giovanni Battista De Toni. 
-**Abbreviated name**: *G. De Toni*
+**Abbreviated name**: *G. De Toni* \[standard form in IPNI: *G.De Toni*\]
 
 #### Herbarium and types
 

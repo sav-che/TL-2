@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33120359) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33120359) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/841-1), [Wikidata](https://www.wikidata.org/wiki/Q728749). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Blakeslee, Albert Francis {std. Blakeslee} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Blakeslee, Albert Francis (1874-1954), American botanist. 
-**Abbreviated name**: *Blakeslee*
+**Abbreviated name**: *Blakeslee* \[standard form in IPNI: *Blakeslee*\]
 
 #### Herbarium and types
 

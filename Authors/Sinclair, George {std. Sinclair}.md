@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33333752) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 613](https://www.biodiversitylibrary.org/page/33333752) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9688-1), [Wikidata](https://www.wikidata.org/wiki/Q1508264). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sinclair, George (1786-1834), British gardener and botanist; with the Duke of Bedford at Woburn Abbey 1803-ca. 1824; from 1824 partner in Messrs Cormack and Son, nurserymen and seedsmen at New Cross, Kent. 
-**Abbreviated name**: *Sinclair*
+**Abbreviated name**: *Sinclair* \[standard form in IPNI: *G.Sinclair*\]
 
 #### Herbarium and types
 

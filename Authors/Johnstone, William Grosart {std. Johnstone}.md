@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33068694) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33068694) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4525-1), [Wikidata](https://www.wikidata.org/wiki/Q36701522). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Johnstone, William Grosart (died c. 1860), British algologist. 
-**Abbreviated name**: *Johnstone*
+**Abbreviated name**: *Johnstone* \[standard form in IPNI: *Johnstone*\]
 
 #### Herbarium and types
 

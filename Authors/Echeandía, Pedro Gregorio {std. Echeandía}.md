@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33260238) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33260238) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/20016086-1), [Wikidata](https://www.wikidata.org/wiki/Q6069008). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Echeandía, Pedro Gregorio (1749-1817), Spanish botanist, born 4 Jan 1746 Pamplona, pharmacist at Zaragoza, died 18 Jul 1817, Zaragoza. 
-**Abbreviated name**: *Echeandía*
+**Abbreviated name**: *Echeandía* \[standard form in IPNI: *Echeandía*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33189913) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33189913) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8022-1), [Wikidata](https://www.wikidata.org/wiki/Q1378093). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pulteney, Richard (1730-1801), British physician, naturalist and historian of science; MD Edinburgh 1764, FRS 1762; surgeon at Leicester and (from 1865) at Blandford. 
-**Abbreviated name**: *Pult.*
+**Abbreviated name**: *Pult.* \[standard form in IPNI: *Pult.*\]
 
 #### Herbarium and types
 

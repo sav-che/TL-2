@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33355097) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 48](https://www.biodiversitylibrary.org/page/33355097) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5617-1), [Wikidata](https://www.wikidata.org/wiki/Q75237). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lindheimer, Ferdinand Jacob (1801-1879), German botanist; in 1834 as political refugee to the United States; settled in 1840 at New-Braunfels, Texas, in which state he collected extensively. 
-**Abbreviated name**: *Lindh.*
+**Abbreviated name**: *Lindh.* \[standard form in IPNI: *Lindh.*\]
 
 #### Herbarium and types
 

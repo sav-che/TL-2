@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33355847) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33355847) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7011-1), [Wikidata](https://www.wikidata.org/wiki/Q66415). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Noeggerath \[Nöggerath\], Johann Jacob (1788-1877), German botanist, geologist and palaeobotanist; professor of mineralogy and mining at the Rhein. Friedr.-Wilh.-Univ., Bonn. and at the agricultural college of Poppelsdorf; director of the natural history museum of Bonn. 
-**Abbreviated name**: *Noegg.*
+**Abbreviated name**: *Noegg.* \[standard form in IPNI: *Noegg.*\]
 
 #### Herbarium and types
 

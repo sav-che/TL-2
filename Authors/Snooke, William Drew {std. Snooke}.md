@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33333850) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 711](https://www.biodiversitylibrary.org/page/33333850) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9840-1), [Wikidata](https://www.wikidata.org/wiki/Q21609152). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Snooke, William Drew (1787-1857), British naturalist. 
-**Abbreviated name**: *Snooke*
+**Abbreviated name**: *Snooke* \[standard form in IPNI: *Snooke*\]
 
 #### Herbarium and types
 

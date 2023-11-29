@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33066436) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 96](https://www.biodiversitylibrary.org/page/33066436) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11431-1), [Wikidata](https://www.wikidata.org/wiki/Q16944025). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Waters, Campbell Easter (1872-1955), American botanist and chemist; A.B. Hopkins Univ. 1895; Dr. phil. 1899; professor of chemistry and physics Connecticut Agricultural College 1901; assistant in chemistry, Johns Hopkins 1901-1904; chemist with the United States National Bureau of Standards 1904-1942, from 1937-1942 as assistant chief of its Division of chemistry. 
-**Abbreviated name**: *Waters*
+**Abbreviated name**: *Waters* \[standard form in IPNI: *Waters*\]
 
 #### Herbarium and types
 

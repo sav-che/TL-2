@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33266588) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33266588) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1325-1), [Wikidata](https://www.wikidata.org/wiki/Q21395016). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Busse, Walter \[Karl Otto\] (1865-1933), German (Berlin) botanist, studied pharmacy but turned to botany at the universities of Berlin and Freiburg i. Br., Dr. phil. Freiburg 1892, (with L. Klein), scientific assistant at the Kaiserliche Gesundheitsamt at Berlin, habil. 1900 Univ. Berlin as unsalaried lecturer on bacteriology, on a botanical-agricultural expedition to German Eastern Africa 1900-1901, at Buitenzorg, Java Oct 1902-Feb 1903, at Usambara 1903, to Cameroon and Togo 1904, returned to Germany 1905, appointed at the Kais. Biol. Anstalt Land-Forstwiss. 1906, government councillor at the Reichskolonialamt (overseas ministry) as Privatdozent, travelled in Turkestan 1909, Caucasus and Crimea 1909, in North America 1909, Turkey 1910, Geheimer Regierungsrat 1911, Geheimer Oberregierungsrat 1915, on military duty 1916-1918, from 1919 in retirement but still involved in tropical agriculture, died in Rome 15 Dec 1933. 
-**Abbreviated name**: *Busse*
+**Abbreviated name**: *Busse* \[standard form in IPNI: *Busse*\]
 
 #### Herbarium and types
 

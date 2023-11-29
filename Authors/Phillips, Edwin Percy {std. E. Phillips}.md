@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33189711) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33189711) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7641-1), [Wikidata](https://www.wikidata.org/wiki/Q5346743). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Phillips, Edwin Percy (1884-1967), South African botanist; Dr. sci. Univ. Cape 1915; with the South African Museum at Capetown 1917-1918; from 1918-1944 at the National Herbarium, Pretoria (chief (1939-1944). 
-**Abbreviated name**: *E. Phillips*
+**Abbreviated name**: *E. Phillips* \[standard form in IPNI: *E.Phillips*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33265724) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 47](https://www.biodiversitylibrary.org/page/33265724) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1507-1), [Wikidata](https://www.wikidata.org/wiki/Q21508177). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chancerel, Lucien (1858-x), French botanist, born 1858, at Paris. 
-**Abbreviated name**: *Chanc.*
+**Abbreviated name**: *Chanc.* \[standard form in IPNI: *Chanc.*\]
 
 #### Herbarium and types
 

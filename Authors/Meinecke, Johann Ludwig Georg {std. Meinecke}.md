@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33355490) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 403](https://www.biodiversitylibrary.org/page/33355490) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6318-1), [Wikidata](https://www.wikidata.org/wiki/Q21520332). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meinecke, Johann Ludwig Georg (1721-1823), German physicist and biologist; high school teacher at Halle 1805-1811; idem at Kassel 1811-1814; professor of technology at Halle 1814-1823 
-**Abbreviated name**: *Meinecke*
+**Abbreviated name**: *Meinecke* \[standard form in IPNI: *Meinecke*\]
 
 #### Herbarium and types
 

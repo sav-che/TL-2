@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33259262) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33259262) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2148-1), [Wikidata](https://www.wikidata.org/wiki/Q3383683). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Déséglise, Pierre-Alfred (1823-1883), French botanist, born at Bourges (Lamotte d'Insay) (Cher), 28 Oct 1823, died at Genève 13 Dec 1883, student and friend of Alexandre Boreau, studied botany with Gustave Tourangin, herborists in the French-German war of 1870-1871, settled in Genève 1871, assistant at the Conservatoire botanique 1874-1883. 
-**Abbreviated name**: *Déségl.*
+**Abbreviated name**: *Déségl.* \[standard form in IPNI: *Déségl.*\]
 
 #### Herbarium and types
 

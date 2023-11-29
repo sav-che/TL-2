@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33259733) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 229](https://www.biodiversitylibrary.org/page/33259733) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/12499-1), [Wikidata](https://www.wikidata.org/wiki/Q3281581). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fitzgerald, Robert Desmond {std. Fitzg.}|first entry]] for this author
 
 ### Author
 
 \* Fitzgerald \[FitzGerald\], Robert David (1830-1892), Irish-born Australian botanist, artist, ornithologist and taxidermist, born 30 Nov 1830 in Tralee (Co. Kerry), studied civil engineering, Queen's College, Cork, Ireland, emigrated to Australia 1856, Deputy Surveyor General of New South Wales 1873, Chief Mining Surveyor 1874-1882, retired 1887, F.L.S. 1874, Royal Society New South Wales 1876, received a number of awards for his work on orchids, died 13 Aug 1892 at Hunter's Hill, Sydney. 
-**Abbreviated name**: *Fitzg.*
+**Abbreviated name**: *Fitzg.* \[standard form in IPNI: *Fitzg.*\]
 
 #### Note
 

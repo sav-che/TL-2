@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33355310) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33355310) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23157-1), [Wikidata](https://www.wikidata.org/wiki/Q5080838). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 McIlvaine, Charles (1840-1909), American mycologist, soldier (1861-1863), "scriptor jocosus" and famous mycophagist. 
-**Abbreviated name**: *McIlv.*
+**Abbreviated name**: *McIlv.* \[standard form in IPNI: *McIlv.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33333733) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33333733) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9622-1), [Wikidata](https://www.wikidata.org/wiki/Q21608864). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Siegmund, Wilhelm (1821-1897), Bohemian botanist, factory-owner and "Stadtrat" in Reichenberg (Bohemia). 
-**Abbreviated name**: *Siegm.*
+**Abbreviated name**: *Siegm.* \[standard form in IPNI: *Siegm.*\]
 
 #### Herbarium and types
 

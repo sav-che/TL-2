@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33066773) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33066773) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13030-1), [Wikidata](https://www.wikidata.org/wiki/Q21612937). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wolpert, Josef \[Johann Baptist\] (1881-?), German (Franconian) botanist; Dr. phil. München 1909; assistant at the botanical division of the Kön. forstliche Versuchsanstalt, München 1911. 
-**Abbreviated name**: *Wolpert*
+**Abbreviated name**: *Wolpert* \[standard form in IPNI: *Wolpert*\]
 
 #### Herbarium and types
 

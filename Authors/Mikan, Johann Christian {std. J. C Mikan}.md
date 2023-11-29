@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33355568) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 481](https://www.biodiversitylibrary.org/page/33355568) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6459-1), [Wikidata](https://www.wikidata.org/wiki/Q4292977). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mikan, Johann Christian (1769-1844), Bohemian (Czech) botanist and entomologist; Dr. med. Praha 1793; professor of natural history Praha 1800-1831; travelled in Brazil with Pohl 1817-1819. 
-**Abbreviated name**: *J. C Mikan*
+**Abbreviated name**: *J. C Mikan* \[standard form in IPNI: *J.C.Mikan*\]
 
 #### Herbarium and types
 

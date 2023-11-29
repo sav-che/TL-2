@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33212733) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 691](https://www.biodiversitylibrary.org/page/33212733) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/28305-1), [Wikidata](https://www.wikidata.org/wiki/Q950581). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Velenovský, Josef (1858-1949), Bohemian botanist (taxonomist, morphologist, palaeobotanist, bryologist and mycologist); extraordinary prof. of phytopathology at the Charles University, Praha 1892; ordinary prof. of phytopathology and plant systematics ib. 1898-1927; director of the botanical garden of Charles University 1900-1927. 
-**Abbreviated name**: *Velen.*
+**Abbreviated name**: *Velen.* \[standard form in IPNI: *Velen.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33259631) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33259631) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18716-1), [Wikidata](https://www.wikidata.org/wiki/Q20558351). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Feltgen, Johann (1833-1904), Luxembourg physician, studied the fungi of Luxembourg, lived in the Kanton Mersch, died 11 Mai 1904. 
-**Abbreviated name**: *Feltgen*
+**Abbreviated name**: *Feltgen* \[standard form in IPNI: *Feltgen*\]
 
 #### Note
 

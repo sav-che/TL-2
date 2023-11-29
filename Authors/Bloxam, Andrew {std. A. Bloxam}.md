@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33265421) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 224](https://www.biodiversitylibrary.org/page/33265421) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16225-1), [Wikidata](https://www.wikidata.org/wiki/Q4354691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bloxam, Andrew (1801-1878), British clergyman and naturalist, educated at Rugby school, studied at Worcester College, Oxford 1820, B.A. 1824, M.A. 1827, naturalist on the Blonde Frigate, took holy orders, perpetual curate of Twycross, Leicestershire 1839-1871 and rector of Harborough Magna, Warwickshire 1871-1878. 
-**Abbreviated name**: *A. Bloxam*
+**Abbreviated name**: *A. Bloxam* \[standard form in IPNI: *A.Bloxam*\]
 
 #### Herbarium and types
 

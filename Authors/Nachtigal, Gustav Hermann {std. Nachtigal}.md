@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33355767) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33355767) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6828-1), [Wikidata](https://www.wikidata.org/wiki/Q60549). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nachtigal, Gustav Hermann (1834-1885), German collector and explorer of Africa; military physician; from 1861 in Algeria, from 1863 in Tunisia; travelling in northern Africa 1868-1875; from 1882-1884 German consul at Tunis; first colonizer of Togo and Cameroon (1884-1885); died at sea when returning to Germany. 
-**Abbreviated name**: *Nachtigal*
+**Abbreviated name**: *Nachtigal* \[standard form in IPNI: *Nacht.*\]
 
 #### Herbarium and types
 

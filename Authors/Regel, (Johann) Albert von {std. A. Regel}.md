@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33190108) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 637](https://www.biodiversitylibrary.org/page/33190108) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8235-1), [Wikidata](https://www.wikidata.org/wiki/Q354083). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Regel, \[Johann\] Albert von (1845-1908), Swiss-born Russian physician and botanist at St. Petersburg, explorer of Turkestan and Eastern Asia 1876-1888; oldest son of E.A. von Regel. 
-**Abbreviated name**: *A. Regel*
+**Abbreviated name**: *A. Regel* \[standard form in IPNI: *A.Regel*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33212180) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 138](https://www.biodiversitylibrary.org/page/33212180) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10354-1), [Wikidata](https://www.wikidata.org/wiki/Q5933649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Syme, John Thomas Irvine Boswell (afterwards Boswell-Syme) (1822-1888), British botanist; curator Botanical Society, Edinburgh; from 1851 in London; lecturer at Charing Cross (1854-1867) and Westminster (1855-1867) Hospitals ; at the Free Church College, Edinburgh 1868. 
-**Abbreviated name**: *Syme*
+**Abbreviated name**: *Syme* \[standard form in IPNI: *Syme*\]
 
 #### Herbarium and types
 

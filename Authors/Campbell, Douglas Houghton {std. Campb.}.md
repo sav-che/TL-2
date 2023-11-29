@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/page/33120560) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 429](https://www.biodiversitylibrary.org/page/33120560) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1376-1), [Wikidata](https://www.wikidata.org/wiki/Q4251095). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Campbell, Douglas Houghton {std. Campb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Campbell, Douglas Houghton (1859-1953), American botanist. 
-**Abbreviated name**: *Campb.*
+**Abbreviated name**: *Campb.* \[standard form in IPNI: *Campb.*\]
 
 #### Herbarium and types
 

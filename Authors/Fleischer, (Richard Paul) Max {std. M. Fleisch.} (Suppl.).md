@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33259751) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33259751) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18843-1), [Wikidata](https://www.wikidata.org/wiki/Q11771859). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fleischer, Max {std. M. Fleisch.}|first entry]] for this author
 
 ### Author
 
 \* Fleischer, \[Richard Paul\] Max (1861-1930), German painter and bryologist, born 4 Jul 1861 in Plasniki nr. Lipine (Upper Silesia), first educated at home, studied at the art school in Breslau (Wroclaw), drawing master 1881 in Berlin, worked in Paris and Britain after 1887, studied zoology 1892 in Zurich, visited Buitenzorg (now Bogor), Java as a painter 1899-1902, also studied and collected mosses, returned to Germany but visited Java again 1908-1913, returned to Europe, prof. 1917 remaining in Berlin until 1926, Dr. h.c. 1923 Univ. of Utrecht, moved to The Hague, The Netherlands, died 3 Apr 1930 in Menton-Garavan, France. 
-**Abbreviated name**: *M. Fleisch.*
+**Abbreviated name**: *M. Fleisch.* \[standard form in IPNI: *M.Fleisch.*\]
 
 #### Herbarium and types
 

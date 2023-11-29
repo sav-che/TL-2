@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33068926) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33068926) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5113-1), [Wikidata](https://www.wikidata.org/wiki/Q72181). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kützing, Friedrich Traugott (Kuetzing) (1807-1893), German algologist; Dr. phil. Marburg 1837; teacher at Nordhausen (1835-1883). 
-**Abbreviated name**: *Kütz.*
+**Abbreviated name**: *Kütz.* \[standard form in IPNI: *Kütz.*\]
 
 #### Herbarium and types
 

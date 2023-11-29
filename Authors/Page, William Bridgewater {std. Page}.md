@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33189510) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 5](https://www.biodiversitylibrary.org/page/33189510) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7245-1), [Wikidata](https://www.wikidata.org/wiki/Q21522526). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Page, William Bridgewater (1790-1871), British nurseryman at Hammersmith and Southampton. 
-**Abbreviated name**: *Page*
+**Abbreviated name**: *Page* \[standard form in IPNI: *Page*\]
 
 #### Herbarium and types
 

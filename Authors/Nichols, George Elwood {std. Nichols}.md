@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33355827) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33355827) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24051-1), [Wikidata](https://www.wikidata.org/wiki/Q3101551). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nichols, George Elwood (1882-1939), American bryologist and ecologist; Dr. phil. Yale 1909; with Yale from 1904 as assistant, instructor (1909), ass. professor (1915), assoc. professor (1924), Eaton professor of botany 1926-1939. 
-**Abbreviated name**: *Nichols*
+**Abbreviated name**: *Nichols* \[standard form in IPNI: *Nichols*\]
 
 #### Herbarium and types
 

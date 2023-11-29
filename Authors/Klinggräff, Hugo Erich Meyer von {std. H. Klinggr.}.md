@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33068809) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 567](https://www.biodiversitylibrary.org/page/33068809) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4847-1), [Wikidata](https://www.wikidata.org/wiki/Q5933938). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Klinggräff, Hugo Erich Meyer von (1820-1902), German bryologist; brother of C. J. M. von Klinggräff; educated in Croatia (Zmrock, 1826-1842); on the family estate of Paleschken 1842-1846; Dr. phil. Königsberg 1846; in Croatia 1846-1848; from 1848 active in various parts of Prussia, mainly at Marienwerder. 
-**Abbreviated name**: *H. Klinggr.*
+**Abbreviated name**: *H. Klinggr.* \[standard form in IPNI: *H.Klinggr.*\]
 
 #### Herbarium and types
 

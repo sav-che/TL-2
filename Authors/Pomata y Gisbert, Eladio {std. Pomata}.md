@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33189804) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33189804) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7822-1), [Wikidata](https://www.wikidata.org/wiki/Q36548857). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pomata y Gisbert, Eladio (*fl*. 1880), Spanish botanist. 
-**Abbreviated name**: *Pomata*
+**Abbreviated name**: *Pomata* \[standard form in IPNI: *Pomata*\]
 
 #### Herbarium and types
 

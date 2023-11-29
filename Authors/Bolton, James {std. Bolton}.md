@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2015-05-06 15:20:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33120395) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33120395) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16309-1), [Wikidata](https://www.wikidata.org/wiki/Q2556630). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bolton, James {std. Bolton} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bolton, James (x-1799), British botanist at Halifax. 
-**Abbreviated name**: *Bolton*
+**Abbreviated name**: *Bolton* \[standard form in IPNI: *Bolton*\]
 
 #### Herbarium and types
 

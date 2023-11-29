@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33355507) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33355507) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6365-1), [Wikidata](https://www.wikidata.org/wiki/Q5561805). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mercier de Coppet, Elysée (1802-1863), Swiss botanist. 
-**Abbreviated name**: *Mercier*
+**Abbreviated name**: *Mercier* \[standard form in IPNI: *Mercier*\]
 
 #### Herbarium and types
 

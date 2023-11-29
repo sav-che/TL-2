@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33266114) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33266114) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1854-1), [Wikidata](https://www.wikidata.org/wiki/Q6433624). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cox, Ewan Hillhouse Methuen (1893-1977), British rock gardener, plant hunter in China. 
-**Abbreviated name**: *Cox*
+**Abbreviated name**: *Cox* \[standard form in IPNI: *Cox*\]
 
 #### Herbarium and types
 

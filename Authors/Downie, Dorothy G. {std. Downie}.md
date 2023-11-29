@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33260069) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33260069) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2296-1), [Wikidata](https://www.wikidata.org/wiki/Q5813621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Downie, Dorothy G. (?-1960), British botanist, BS at Edinburgh 1917, assistant to W.G. Craib at Aberdeen, went to America and became lecturer at Chicago University 1925-1928, studying cycads and orchid mycorrhiza, Ph.D. 1928 at University of Chicago, died 22 Aug 1960. 
-**Abbreviated name**: *Downie*
+**Abbreviated name**: *Downie* \[standard form in IPNI: *Downie*\]
 
 #### Herbarium and types
 

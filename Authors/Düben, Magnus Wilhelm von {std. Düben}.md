@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33260133) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33260133) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2335-1), [Wikidata](https://www.wikidata.org/wiki/Q1884616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Düben, Magnus Wilhelm von (1814-1845), Swedish botanist, born 12 Feb 1814 at Vegeholm i Strövelstorps, Skåne, studied at Lund 1828, fil. doctor 1835, docent in botany 1838, teacher at the Göteborgs gymnasium 1839-1841, adjunkt at the zoology museum at Lund 1843-1845, died 9 Aug 1845 at Lund. 
-**Abbreviated name**: *Düben*
+**Abbreviated name**: *Düben* \[standard form in IPNI: *Düben*\]
 
 #### Herbarium and types
 

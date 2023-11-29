@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33120839) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 708](https://www.biodiversitylibrary.org/page/33120839) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2400-1), [Wikidata](https://www.wikidata.org/wiki/Q1839687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Durand, Théophile-Alexis {std. T. Durand} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Durand, Théophile Alexis (1855-1912), Belgian botanist. 
-**Abbreviated name**: *Th. Durand*
+**Abbreviated name**: *Th. Durand* \[standard form in IPNI: *T.Durand*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33334004) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33334004) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12279-1), [Wikidata](https://www.wikidata.org/wiki/Q4526861). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steetz, Joachim (1804-1862), German (Hamburg) botanist; studied pharmacy at Halle 1825-1826, and Würzburg 1826-1829; Dr. med. Würzburg 1829; physician at the hospital of the Holy Spirit, Hamburg 1830-1862; from 1849 lecturer at the Hamburg botanical garden. 
-**Abbreviated name**: *Steetz*
+**Abbreviated name**: *Steetz* \[standard form in IPNI: *Steetz*\]
 
 #### Herbarium and types
 

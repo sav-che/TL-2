@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33333694) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33333694) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9556-1), [Wikidata](https://www.wikidata.org/wiki/Q2596205). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shear, Cornelius Lott (1865-1956), American botanist (agrostologist and mycologist); MA Univ. Nebraska 1901; Dr. phil. George Washington Univ. 1906; with the United states Department of Agriculture 1898-1901 as agrostologist, from 1901-1935 as mycologist in the Bureau of Plant Industry; from 1935-1950 in retirement and still active at USDA. 
-**Abbreviated name**: *Shear*
+**Abbreviated name**: *Shear* \[standard form in IPNI: *Shear*\]
 
 #### Herbarium and types
 

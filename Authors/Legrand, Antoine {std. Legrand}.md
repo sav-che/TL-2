@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33069058) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33069058) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5421-1), [Wikidata](https://www.wikidata.org/wiki/Q5697413). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Legrand, Antoine (1839-1905), French botanist; civil servant with public works (road inspector) at Châteauroux (1860), Perpignan (1861), Saint-Étienne (1864) Montbrison (1866); at Bourges (1875) as "agent-voyer en chef de l'Aube. 
-**Abbreviated name**: *Legrand*
+**Abbreviated name**: *Legrand* \[standard form in IPNI: *Le Grand*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 627](https://www.biodiversitylibrary.org/page/33212669) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 627](https://www.biodiversitylibrary.org/page/33212669) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11017-1), [Wikidata](https://www.wikidata.org/wiki/Q14626703). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vachell, Eleanor (1879-1948), British botanist at Cardiff, student of the flora of Glamorgan. 
-**Abbreviated name**: *Vachell*
+**Abbreviated name**: *Vachell* \[standard form in IPNI: *Vachell*\]
 
 #### Herbarium and types
 

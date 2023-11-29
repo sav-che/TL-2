@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33266760) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 453](https://www.biodiversitylibrary.org/page/33266760) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1442-1), [Wikidata](https://www.wikidata.org/wiki/Q18654806). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cassel, Franz Peter {std. Cassel}|first entry]] for this author
 
 ### Author
 
 \* Cassel, Franz Peter \[Francisci Petri\] (1784-1821), German botanist born in Köln, studied at the Universities of Göttingen and Paris, teacher at the Gymnasium in Köln, from 1817 professor at the University of Gent, ib. 1818-1819 Rektor, also director of the botanical garden in Gent. 
-**Abbreviated name**: *Cassel*
+**Abbreviated name**: *Cassel* \[standard form in IPNI: *Cassel*\]
 
 #### Herbarium and types
 

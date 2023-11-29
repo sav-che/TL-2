@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/page/33355773) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 686](https://www.biodiversitylibrary.org/page/33355773) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6834-1), [Wikidata](https://www.wikidata.org/wiki/Q6021133). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Naezén, Daniel Eric (1752-1808), Swedish physician and botanist; studied with Linnaeus fil.; Dr. phil. Uppsala 1779; Dr. med. ib. 1783; regional physician for the Umeå district from 1782-1808. 
-**Abbreviated name**: *Naezén*
+**Abbreviated name**: *Naezén* \[standard form in IPNI: *Naezén*\]
 
 #### Herbarium and types
 

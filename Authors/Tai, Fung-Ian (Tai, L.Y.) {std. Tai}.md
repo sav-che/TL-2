@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33212194) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 152](https://www.biodiversitylibrary.org/page/33212194) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10388-1), [Wikidata](https://www.wikidata.org/wiki/Q11075379). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tai, Fung-Ian \[Tai, L.Y.\] (1893-x), Chinese mycologist and phytopathologist; B.S. Cornell Univ. 1918; professor of plant pathology at Nanking (Southeastern Univ.). 
-**Abbreviated name**: *Tai*
+**Abbreviated name**: *Tai* \[standard form in IPNI: *F.L.Tai*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33333298) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33333298) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9084-1), [Wikidata](https://www.wikidata.org/wiki/Q21607960). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schilling, August Jakob (1865-?), German (Hessen) botanist; Dr. phil. Basel 1891; habil. Technical Univ. Darmstadt 1895. 
-**Abbreviated name**: *A. Schilling*
+**Abbreviated name**: *A. Schilling* \[standard form in IPNI: *A.J.Schill.*\]
 
 #### Herbarium and types
 

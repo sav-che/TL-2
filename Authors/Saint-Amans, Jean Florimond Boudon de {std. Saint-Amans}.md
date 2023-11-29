@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1061](https://www.biodiversitylibrary.org/page/33190532) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1061](https://www.biodiversitylibrary.org/page/33190532) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/26009-1), [Wikidata](https://www.wikidata.org/wiki/Q2464225). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saint-Amans, Jean Florimond Boudon de (1748-1831), French botanist and soldier; from 1768-1773 with a French expeditionary force in the French Antilles; from 1773 private scientist at Agen, sometime professor of natural history at the École centrale of Lot-et-Garonne; from 1800-1831 president of the conseil-général of the département Lot-et-Garonne, also devoting himself to archeology and numismatics. 
-**Abbreviated name**: *Saint-Amans*
+**Abbreviated name**: *Saint-Amans* \[standard form in IPNI: *St.-Amans*\]
 
 #### Herbarium and types
 

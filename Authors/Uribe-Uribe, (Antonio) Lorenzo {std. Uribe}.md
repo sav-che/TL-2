@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/page/33212661) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/page/33212661) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10997-1), [Wikidata](https://www.wikidata.org/wiki/Q2837242). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Uribe-Uribe, \[Antonio\] Lorenzo (1900-1980), Colombian clergyman (S.J.) and botanist; entered the company of Jesus 1916, studied in Bogotá, Oña (Spain) and Valkenburg (Netherlands); ordained 1930; studied natural sciences in Fribourg (Switzerland), Braga and Roma; Dr. phil. theol. Univ. Gregor. 1935; professor of philosophy and natural sciences at the Universidad Javeriana, Bogotá 1935; professor of botany at the Instituto de Ciencias Naturales 1952, director of the institute 1953-1958; curator 1958-1980; editor of Mutisia and Caldasia. 
-**Abbreviated name**: *Uribe*
+**Abbreviated name**: *Uribe* \[standard form in IPNI: *L.Uribe*\]
 
 #### Herbarium and types
 

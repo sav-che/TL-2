@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33212484) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33212484) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10795-1), [Wikidata](https://www.wikidata.org/wiki/Q5670474). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Traunfellner, Aloys (1782-1840), Austrian pharmacist and botanist; practicing pharmacist in Klagenfurt from 1801; collected in Dalmatia (1806) and Istria. 
-**Abbreviated name**: *Traunfellner*
+**Abbreviated name**: *Traunfellner* \[standard form in IPNI: *Traunf.*\]
 
 #### Herbarium and types
 

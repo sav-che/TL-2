@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33120971) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 840](https://www.biodiversitylibrary.org/page/33120971) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2760-1), [Wikidata](https://www.wikidata.org/wiki/Q1102060). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fitch, Walter Hood (1817-1892), Scottish botanical artist, illustrator of many of the publications by the Hookers, of the Botanical Magazine 1834-1877. 
-**Abbreviated name**: *W. Fitch*
+**Abbreviated name**: *W. Fitch* \[standard form in IPNI: *Fitch*\]
 
 #### Original drawings
 

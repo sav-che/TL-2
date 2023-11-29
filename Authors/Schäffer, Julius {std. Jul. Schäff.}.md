@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33333246) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33333246) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12819-1), [Wikidata](https://www.wikidata.org/wiki/Q91915). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schäffer, Julius (1882-1944), German mycologist; studied at the evangelical-theological seminary at Tübingen 1900-1904; teacher at the "Landerziehungsheim" Ilsenburg am Hartz; studied natural sciences at Dresden, teacher's examination 1910; high school teacher at Potsdam 1912-1939; from 1939-1944 in Diessen am Ammersee. 
-**Abbreviated name**: *Jul. Schäff.*
+**Abbreviated name**: *Jul. Schäff.* \[standard form in IPNI: *Jul.Schäff.*\]
 
 #### Herbarium and types
 

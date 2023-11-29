@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 961](https://www.biodiversitylibrary.org/page/33190432) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 961](https://www.biodiversitylibrary.org/page/33190432) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8687-1), [Wikidata](https://www.wikidata.org/wiki/Q19001599). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Royer, Charles Louis Alexis (1831-1883), French botanist; landowner at Quincy, Côte-d'-Or. 
-**Abbreviated name**: *Royer*
+**Abbreviated name**: *Royer* \[standard form in IPNI: *Royer*\]
 
 #### Herbarium and types
 

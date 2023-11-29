@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33355839) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33355839) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24075-1), [Wikidata](https://www.wikidata.org/wiki/Q87937). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Niessl von Mayendorf, Gustav (1839-1919), Austrian naturalist and botanist; 1857-1865 geometrist at Wien; from 1865-1906 professor of geodesy and astronomy at the University of Brno (Brünn); from 1906 again in Wien. 
-**Abbreviated name**: *Niessl*
+**Abbreviated name**: *Niessl* \[standard form in IPNI: *Niessl*\]
 
 #### Herbarium and types
 

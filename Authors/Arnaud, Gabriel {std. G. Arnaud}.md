@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33120195) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33120195) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/272-1), [Wikidata](https://www.wikidata.org/wiki/Q21338864). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arnaud, Gabriel {std. G. Arnaud} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Arnaud, Gabriel (1882-1957), French mycologist. 
-**Abbreviated name**: *G. Arnaud*
+**Abbreviated name**: *G. Arnaud* \[standard form in IPNI: *G.Arnaud*\]
 
 #### Herbarium and types
 

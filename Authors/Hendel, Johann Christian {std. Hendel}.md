@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33068396) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33068396) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3826-1), [Wikidata](https://www.wikidata.org/wiki/Q21515691). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hendel, Johann Christian (1742-1823), German publisher and bookseller. 
-**Abbreviated name**: *Hendel*
+**Abbreviated name**: *Hendel* \[standard form in IPNI: *Hendel*\]
 
 #### Herbarium and types
 

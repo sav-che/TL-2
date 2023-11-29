@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33068467) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33068467) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3994-1), [Wikidata](https://www.wikidata.org/wiki/Q71250). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoefer, Jean Chrétien Ferdinand (1811-1878), French historian of science. 
-**Abbreviated name**: *Hoef.*
+**Abbreviated name**: *Hoef.* \[standard form in IPNI: *Hoef.*\]
 
 #### Herbarium and types
 

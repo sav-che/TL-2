@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33355459) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33355459) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6241-1), [Wikidata](https://www.wikidata.org/wiki/Q457191). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mattioli, Pietro \[Pier\] Andrea Gregorio \[Matthiolus, Petrus Andreas\] (1500-? 1577), Italian physician and botanist. 
-**Abbreviated name**: *Mattioli*
+**Abbreviated name**: *Mattioli* \[standard form in IPNI: *Mattioli*\]
 
 #### Herbarium and types
 

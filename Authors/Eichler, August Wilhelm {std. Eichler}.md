@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33120866) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33120866) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2488-1), [Wikidata](https://www.wikidata.org/wiki/Q62142). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Eichler, August Wilhelm {std. Eichler} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Eichler, August Wilhelm (1839-1887), German botanist, one of the driving forces behind the *Flora brasiliensis*, expert morphologist. 
-**Abbreviated name**: *Eichler*
+**Abbreviated name**: *Eichler* \[standard form in IPNI: *Eichler*\]
 
 #### Herbarium and types
 

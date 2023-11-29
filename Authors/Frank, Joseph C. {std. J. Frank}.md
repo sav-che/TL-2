@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/page/33121002) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 871](https://www.biodiversitylibrary.org/page/33121002) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2876-1), [Wikidata](https://www.wikidata.org/wiki/Q21513475). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Frank, Joseph C. (1782-1835), German botanist and physician, traveller in the USA, whose collections were distributed by Hochstetter and Steudel for the *Unio itineraria*. 
-**Abbreviated name**: *J.Frank*
+**Abbreviated name**: *J.Frank* \[standard form in IPNI: *Frank*\]
 
 #### Herbarium and types
 

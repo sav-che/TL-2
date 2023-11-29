@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-11-10 15:00:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 963](https://www.biodiversitylibrary.org/page/33121094) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 963](https://www.biodiversitylibrary.org/page/33121094) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3221-1), [Wikidata](https://www.wikidata.org/wiki/Q62756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Goebel, Karl (Immanuel Eberhard) (later Ritter von) {std. K.I. Goebel} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Goebel, Karl Immanuel Eberhard (later: Ritter von) (1855-1932), German morphologist. 
-**Abbreviated name**: *K. I. Goebel*
+**Abbreviated name**: *K. I. Goebel* \[standard form in IPNI: *K.I.Goebel*\]
 
 #### Herbarium and types
 

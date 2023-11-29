@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33066577) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 237](https://www.biodiversitylibrary.org/page/33066577) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11599-1), [Wikidata](https://www.wikidata.org/wiki/Q36692778). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weymayr, Thassilo (*fl*. 1867), Austrian botanist and high school teacher at Graz, member of the Stift Admont. 
-**Abbreviated name**: *Weymayr*
+**Abbreviated name**: *Weymayr* \[standard form in IPNI: *Weymayr*\]
 
 #### Herbarium and types
 

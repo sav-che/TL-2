@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33066653) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 313](https://www.biodiversitylibrary.org/page/33066653) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11696-1), [Wikidata](https://www.wikidata.org/wiki/Q6075571). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Willemet, Pierre Rémi François de Paule (1762-1790), French botanist and physician; Dr. phil. Paris 1783; from 1784-1788 studying at military hospitals in Strasbourg; habil. Collège de médecine Nancy 1788; to Mysore in 1789 (physician to Tippo Saib); died at Seringapatnum 1790; son of P.R. Willemet; uncle of Soyer-Willemet. 
-**Abbreviated name**: *P. Willemet*
+**Abbreviated name**: *P. Willemet* \[standard form in IPNI: *P.Willemet*\]
 
 #### Herbarium and types
 

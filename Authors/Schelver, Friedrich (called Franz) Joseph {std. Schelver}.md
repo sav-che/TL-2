@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33333267) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 128](https://www.biodiversitylibrary.org/page/33333267) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9046-1), [Wikidata](https://www.wikidata.org/wiki/Q21607881). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schelver, Friedrich (called Franz) Joseph (1778-1832), German (Westphalen) physician, philosopher and botanist; Dr. med.; lecturer at the University of Halle 1802-1803; extra-ordinary professor of medicine and director of the botanical garden at Jena 1803-1806; professor of botany and medicine at Heidelberg 1806-1832; fierce opponent of the acknowledgement of sexuality in plants. 
-**Abbreviated name**: *Schelver*
+**Abbreviated name**: *Schelver* \[standard form in IPNI: *Schelver*\]
 
 #### Herbarium and types
 

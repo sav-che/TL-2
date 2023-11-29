@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33068301) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33068301) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3680-1), [Wikidata](https://www.wikidata.org/wiki/Q21515523). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Harris, Wilson P(ark?) (fl. 1904), American cryptogamist; forester; resident of Brooklyn, N.Y.; collected in Western Montana. 
-**Abbreviated name**: *W. Harris*
+**Abbreviated name**: *W. Harris* \[standard form in IPNI: *W.P.Harris*\]
 
 #### Herbarium and types
 

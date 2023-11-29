@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33189669) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33189669) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7573-1), [Wikidata](https://www.wikidata.org/wiki/Q6044790). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petersen, Otto Georg (1847-1937), Danish botanist, Dr. phil. Kjøbenhavn 1882; with the Botanical Museum 1878-1882, from 1882-1893 in various functions at the University and the Botanical Garden; from 1893-1902 lecturer, from 1902-1919 professor of botany at the Copenhagen Agricultural College. 
-**Abbreviated name**: *O. Petersen*
+**Abbreviated name**: *O. Petersen* \[standard form in IPNI: *Petersen*\]
 
 #### Herbarium and types
 

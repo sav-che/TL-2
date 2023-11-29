@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2015-01-06 12:21:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33333926) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 787](https://www.biodiversitylibrary.org/page/33333926) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9961-1), [Wikidata](https://www.wikidata.org/wiki/Q17333312). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sperk, Gustav (1845/1846-1870), Russian (Charkow) botanist. 
-**Abbreviated name**: *Sperk*
+**Abbreviated name**: *Sperk* \[standard form in IPNI: *Sperk*\]
 
 #### Herbarium and types
 

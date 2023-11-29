@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33066707) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 367](https://www.biodiversitylibrary.org/page/33066707) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13019-1), [Wikidata](https://www.wikidata.org/wiki/Q21612828). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winkler, \[Karl Gustaf\] Adolf (1810-1893), German (Silesian) military administrator and botanist, pseudonym A. Carex; studied law and military administration in Berlin; "Intendantur-Assessor" \[assistant military administrator\] at Koblenz 1840-1843, Frankfurt a.O. 1843-1844; in Berlin id. 1844-1848, administrator 1848-1857, senior administrator ("ältester Rat") Breslau 1857-1860; from 1860 in Berlin; administrator of the third Prussian army corps in the Franco-Prussian war 1870-1871; from 1871 in retirement as "Geheimer Kriegsrat"; brother of Moritz Winkler; treasurer of the Botanischc Verein der Provinz Brandenburg 1870-1890. 
-**Abbreviated name**: *A. Winkl.*
+**Abbreviated name**: *A. Winkl.* \[standard form in IPNI: *A.Winkl.*\]
 
 #### Herbarium and types
 

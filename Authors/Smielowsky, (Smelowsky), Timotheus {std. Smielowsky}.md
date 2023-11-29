@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33333797) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33333797) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9761-1), [Wikidata](https://www.wikidata.org/wiki/Q4424246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smielowsky, \[Smelowsky\], Timotheus (1769-1815), Russian pharmacist at St. Petersburg. 
-**Abbreviated name**: *Smielowsky*
+**Abbreviated name**: *Smielowsky* \[standard form in IPNI: *Smiel.*\]
 
 #### Herbarium and types
 

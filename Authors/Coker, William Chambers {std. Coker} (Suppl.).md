@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33265938) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33265938) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1727-1), [Wikidata](https://www.wikidata.org/wiki/Q2331087). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Coker, William Chambers {std. Coker}|first entry]] for this author
 
 ### Author
 
 \* Coker, William Chambers (1872-1953), American mycologist, born at Hartsville, South Carolina, studied at the University of North Carolina 1894, graduate work at Johns Hopkins University 1894, worked three years as a banker, Ph.D. Johns Hopkins 1897, associate professor of botany at the University of N. Carolina 1902, full professor ib. 1908 until his retirement 1945, died at Chapel Hill, N.C., 1953. 
-**Abbreviated name**: *Coker*
+**Abbreviated name**: *Coker* \[standard form in IPNI: *Coker*\]
 
 #### Herbarium and types
 

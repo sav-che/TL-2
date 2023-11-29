@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33333198) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33333198) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26141-1), [Wikidata](https://www.wikidata.org/wiki/Q2871394). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sartory, Auguste Theodore (1881-1950), French mycologist and bacteriologist; Dr. Sci. Paris 1908; "chargé de cours" École supérieure de pharmacie de Nancy, later "chef du service bactériologique" ib.; associate professor at the École supérieure de Pharmacie de Strasbourg 1919; doyen ib. 1936; id. Clermont-Ferrand 1939-1945 (war-time locations of Strasbourg faculty); professor of microbiology at Strasbourg 1947-1950. 
-**Abbreviated name**: *Sartory*
+**Abbreviated name**: *Sartory* \[standard form in IPNI: *Sartory*\]
 
 #### Herbarium and types
 

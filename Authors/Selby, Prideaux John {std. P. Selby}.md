@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33333635) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33333635) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9453-1), [Wikidata](https://www.wikidata.org/wiki/Q716834). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Selby, Prideaux John (1788-1867), British naturalist; M.A. Durham 1839; high sheriff, Northumberland 1823; mainly devoting himself to ornithology, forestry and entomology. 
-**Abbreviated name**: *P. Selby*
+**Abbreviated name**: *P. Selby* \[standard form in IPNI: *P.Selby*\]
 
 #### Herbarium and types
 

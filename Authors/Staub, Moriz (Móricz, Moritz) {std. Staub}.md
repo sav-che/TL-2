@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33333987) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33333987) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10038-1), [Wikidata](https://www.wikidata.org/wiki/Q20481607). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Staub, Moriz \[Móricz, Moritz\] (1842-1904), Hungarian botanist (of Swiss-Austrian parentage), schoolteacher in Budapest 1858-1868; studied natural sciences in Budapest (with L. Jurányi), Berlin and Bonn 1869-1870; professor of natural history at the royal teacher's college of Budapest 1872-1904; mainly specialized in phaenology and palaeobotany. 
-**Abbreviated name**: *Staub*
+**Abbreviated name**: *Staub* \[standard form in IPNI: *Staub*\]
 
 #### Herbarium and types
 

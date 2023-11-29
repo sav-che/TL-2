@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33333723) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 584](https://www.biodiversitylibrary.org/page/33333723) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9613-1), [Wikidata](https://www.wikidata.org/wiki/Q21608856). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sieber, Johann (x-1880), Austrian palaeobotanist. 
-**Abbreviated name**: *J. Sieber*
+**Abbreviated name**: *J. Sieber* \[standard form in IPNI: *J.Sieber*\]
 
 #### Herbarium and types
 

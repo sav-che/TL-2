@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33259366) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33259366) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2202-1), [Wikidata](https://www.wikidata.org/wiki/Q2722447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Diesing, Carl Moritz {std. Diesing}|first entry]] for this author
 
 ### Author
 
 \* Diesing, Karl Moritz (1800-1867), Austrian helminthologist and botanist, born at Krakau 16 Jun 1800, died in Vienna 10 Jan 1867, visited Gymnasium in Lemberg, studied medicine in Vienna from 1819, physician in 1826, custos of the Zoological Museum in Vienna, assistant also on the "Lehrkanzel" of botany under Jacquin, from 1840 with the Kaiserl. Akad. Wiss., Wien. 
-**Abbreviated name**: *Diesing*
+**Abbreviated name**: *Diesing* \[standard form in IPNI: *Diesing*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33068664) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33068664) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4417-1), [Wikidata](https://www.wikidata.org/wiki/Q88755). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Janchen, Erwin (1882-1970), Austrian botanist and nomenclaturist; pupil of Wettstein; Dr. phil. Wien 8Feb 1907; from 1905-1920 at the Botanical Institute; from 1920-1923 at the Bundesanstalt fur Pflanzenschutz; from 1923 at the Botanical Garden and Botanical Institute Wien.
-**Abbreviated name**: *Janch.*
+**Abbreviated name**: *Janch.* \[standard form in IPNI: *Janch.*\]
 
 #### Herbarium and types
 

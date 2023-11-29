@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/page/33121132) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/page/33121132) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3377-1), [Wikidata](https://www.wikidata.org/wiki/Q2299629). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Greshoff, Maurits {std. Greshoff} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Greshoff, Maurits (1862-1909), Dutch botanist and phytochemist, worked at Buitenzorg 1888-1892, at the Koloniaal Museum Haarlem 1895-1909. 
-**Abbreviated name**: *Greshoff*
+**Abbreviated name**: *Greshoff* \[standard form in IPNI: *Greshoff*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/page/33190476) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/page/33190476) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8757-1), [Wikidata](https://www.wikidata.org/wiki/Q21607560). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Russell, Paul George (1889-1963), American botanist; with the U.S. Department of Agriculture at Beltsville, MD. 
-**Abbreviated name**: *P.G. Russell*
+**Abbreviated name**: *P.G. Russell* \[standard form in IPNI: *P.G.Russell*\]
 
 #### Herbarium and types
 

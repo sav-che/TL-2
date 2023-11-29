@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-01-25 14:08:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33265791) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33265791) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1611-1), [Wikidata](https://www.wikidata.org/wiki/Q2613173). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Chodat, Robert Hippolyte {std. Chodat}|first entry]] for this author
 
 ### Author
 
 \* Chodat, Robert-Hippolyte (1865-1934), Swiss botanist, born 6 Apr 1865 in Moutier-Grand-Val, Berner Jura, educated at the gymnasium at Biel, final examination 1881, studied pharmacy at the University of Genève, Dr. phil. 1887 ib., in charge of a pharmacy in Genève 1887-1893, extraord. professor at the University 1889, full professor for systematics and pharmaceutic botany 1891-1934, Dr. phil. ETH Zürich h.c. 1930. 
-**Abbreviated name**: *Chodat*
+**Abbreviated name**: *Chodat* \[standard form in IPNI: *Chodat*\]
 
 #### Herbarium and types
 

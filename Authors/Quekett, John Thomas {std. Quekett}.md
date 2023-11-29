@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33189923) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33189923) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8048-1), [Wikidata](https://www.wikidata.org/wiki/Q6260615). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Quekett, John Thomas (1815-1861), British surgeon, microscopist and histologist; assistant conservator Hunterian museum 1843, conservator 1852-1861; professor of histology, Royal College of Surgeons 1852; secretary of the Royal microscopical Society, London, 1841-1860. 
-**Abbreviated name**: *Quekett*
+**Abbreviated name**: *Quekett* \[standard form in IPNI: *J.T.Quekett*\]
 
 #### Herbarium and types
 

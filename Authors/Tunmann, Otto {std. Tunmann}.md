@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33212578) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33212578) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10904-1), [Wikidata](https://www.wikidata.org/wiki/Q15296241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tunmann, Otto (1867-1919), German (Posen-born) pharmacologist and botanist; studied at Leipzig and Erlangen; Dr. phil. Bern 1900 as a student of Tschirch; pharmacist at Schöneck, Vogtland; assistant with Tschirch in Bern; habil. ib. 1908; professor of forensic chemistry, phytomicrochemistry and microchemical toxicology Bern 1913; ordinary professor of pharmacology Wien 1919. 
-**Abbreviated name**: *Tunmann*
+**Abbreviated name**: *Tunmann* \[standard form in IPNI: *Tunmann*\]
 
 #### Herbarium and types
 

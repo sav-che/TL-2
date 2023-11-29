@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33333898) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 759](https://www.biodiversitylibrary.org/page/33333898) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/27043-1), [Wikidata](https://www.wikidata.org/wiki/Q1235813). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sowerby, James (1757-1822), British botanical artist; trained at the Royal Academy Schools; illustrated many of the British botanical publications from 1777-1822; collaborator of e.g. William Curtis and James Edward Smith. 
-**Abbreviated name**: *Sowerby*
+**Abbreviated name**: *Sowerby* \[standard form in IPNI: *Sowerby*\]
 
 #### Herbarium and types
 

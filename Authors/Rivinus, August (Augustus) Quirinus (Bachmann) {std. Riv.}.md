@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/page/33190277) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 806](https://www.biodiversitylibrary.org/page/33190277) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8428-1), [Wikidata](https://www.wikidata.org/wiki/Q64018). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rivinus, August \[Augustus\] Quirinus \[Bachmann\] (1652-1723), German (Saxonian) botanist and physician; Dr.med. Helmstedt 1676, Dr. med. Leipzig 1677; practicing physician at Leipzig 1677-1688; assessor at the Leipzig medical faculty 1688, professor for physiology and botany 1691; ordinary professor of botany 1701; professor of therapy and botany 1719. 
-**Abbreviated name**: *Riv.*
+**Abbreviated name**: *Riv.* \[standard form in IPNI: *Riv.*\]
 
 #### Herbarium and types
 

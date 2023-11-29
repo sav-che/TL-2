@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33190050) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33190050) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8143-1), [Wikidata](https://www.wikidata.org/wiki/Q1738840). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Raper, Kenneth Bryan (1908-x), American mycologist; studied at Univ. N. Carolina (AB 1929), George Washington Univ. (AM 1931) and Harvard (Dr. phil. 1936); professor of microbiology Univ. of Wisconsin. 
-**Abbreviated name**: *Raper*
+**Abbreviated name**: *Raper* \[standard form in IPNI: *Raper*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33120732) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33120732) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2015-1), [Wikidata](https://www.wikidata.org/wiki/Q346939). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[David, (Abbé) Armand {std. David} (Suppl.)|second entry]] for this author
 
 ### Author
 
 David, \[Abbé\] Armand (1826-1900), French Lazarist missionary at Peking, botanical traveller and collector in China, 1862-1874. 
-**Abbreviated name**: *David*
+**Abbreviated name**: *David* \[standard form in IPNI: *David*\]
 
 #### Herbarium and types
 

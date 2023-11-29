@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33265063) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 336](https://www.biodiversitylibrary.org/page/33265063) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/493-1), [Wikidata](https://www.wikidata.org/wiki/Q16175075). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Barnola, Joaquín \[Maria\] de (fl. 1903-1923), Spanish clergyman (Societatis Jesu) and botanist. 
-**Abbreviated name**: *Barnola*
+**Abbreviated name**: *Barnola* \[standard form in IPNI: *Barnola*\]
 
 #### Herbarium and types
 

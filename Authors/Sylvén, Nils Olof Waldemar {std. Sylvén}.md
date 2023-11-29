@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-04-04 14:17:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33212178) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33212178) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10352-1), [Wikidata](https://www.wikidata.org/wiki/Q6200510). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sylvén, Nils Olof Waldemar (1880-1969), Swedish botanist; Dr. phil. Uppsala 1906; assistant at the Hortus Bergianus, Stockholm 1906-1907; id. with the Forestry Research Institute 1907-1909; lecturer at the Forestry College 1909-1917 in charge of the department of texture and oil plants, later of pasture plants of the Svalöv plant-breeding station 1918-1938; head of the Institute for breeding Forest trees, Ekebo, Svalöv 1938-1949; professor h.c. 1940; at Lund from 1950. 
-**Abbreviated name**: *Sylvén*
+**Abbreviated name**: *Sylvén* \[standard form in IPNI: *Sylvén*\]
 
 #### Herbarium and types
 

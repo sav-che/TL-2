@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33066626) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 286](https://www.biodiversitylibrary.org/page/33066626) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11664-1), [Wikidata](https://www.wikidata.org/wiki/Q102107). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilbrand, Johann Bernhard (1779-1846), German (Westphalen) botanist and physician; Dr. med. Würzburg 1806; "Privatdocent" at the University of Münster 1806-1808; professor of anatomy and natural history Giessen Univ. 1809-1844, from 1817 also director of the botanical garden; ardent promoter of the "Naturphilosophie". 
-**Abbreviated name**: *Wilbr.*
+**Abbreviated name**: *Wilbr.* \[standard form in IPNI: *Wilbr.*\]
 
 #### Herbarium and types
 

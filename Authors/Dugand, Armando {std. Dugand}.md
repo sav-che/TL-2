@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33260139) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33260139) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2360-1), [Wikidata](https://www.wikidata.org/wiki/Q4792754). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dugand, Armando (1906-1971), Colombian botanist and ornithologist, born 23 Jun 1906 at Barranquilla, attended schools in Colombia, France and the United States, director Instituto de Ciencias Naturales at the University of Bogotá 1940-1953, teaching botany from 1945-1953 as professor of systematic botany and 1953-1955 as associate professor at the Instituto de Ciencias Naturales, returned to Barranquilla as director of the Institute of Scientific Research of the University of the Atlantico, died 5 Dec 1971 of heart ailment. 
-**Abbreviated name**: *Dugand*
+**Abbreviated name**: *Dugand* \[standard form in IPNI: *Dugand*\]
 
 #### Herbarium and types
 

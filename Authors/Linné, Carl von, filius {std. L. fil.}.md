@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-08-09 14:10:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33355198) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33355198) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22405-1), [Wikidata](https://www.wikidata.org/wiki/Q178823). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Linné, Carl von, filius (1741-1783), Swedish botanist; studied at Uppsala, Dr. med. 1765, professor of medicine and botany ib. 1777-1783. 
-**Abbreviated name**: *L. fil.*
+**Abbreviated name**: *L. fil.* \[standard form in IPNI: *L.f.*\]
 
 #### Herbarium and types
 

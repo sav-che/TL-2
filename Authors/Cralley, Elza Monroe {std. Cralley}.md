@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33266119) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33266119) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17490-1), [Wikidata](https://www.wikidata.org/wiki/Q21509207). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cralley, Elza Monroe (1905-x), American plant pathologist, born 20 Nov 1905, B.S. McKendree College 1928, fellow at Wisconsin 1930-1931, Ph.D., plant pathologist 1931, assistant botanist at Wisconsin 1928-1930, plant pathol. Arkansas 1931-1936, asst. professor 1936-1941, full professor 1948-x, head department 1953-x. 
-**Abbreviated name**: *Cralley*
+**Abbreviated name**: *Cralley* \[standard form in IPNI: *Cralley*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33066726) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33066726) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/28849-1), [Wikidata](https://www.wikidata.org/wiki/Q96168). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wirtgen, Philipp Wilhelm (1806-1870), German (Prussian/Rheinland) teacher and botanist; trained as a primary school teacher at Neuwied's teachers college; teacher at Remagen 1824, idem at Winningen 1824-1831; idem at Koblenz 1831-1835 ("evangelische Elementarschule"), 1835-1870 at the "evangelische höhere Stadtschule"; student of the flora of Rheinland; Dr. phil. h.c. Bonn 1853. 
-**Abbreviated name**: *Wirtg.*
+**Abbreviated name**: *Wirtg.* \[standard form in IPNI: *Wirtg.*\]
 
 #### Herbarium and types
 

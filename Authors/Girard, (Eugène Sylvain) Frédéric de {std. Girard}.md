@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33258708) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 230](https://www.biodiversitylibrary.org/page/33258708) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3171-1), [Wikidata](https://www.wikidata.org/wiki/Q5869960). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Girard, \[Eugène Sylvain\] Frédéric de (1809-1850), French botanist, born 28 Jul 1809 in Agde (Hérault), studied with Aug. St.-Hilaire and helped him publish on the flora of Brazil, died 21 Oct 1850 in Montpellier. 
-**Abbreviated name**: *Girard*
+**Abbreviated name**: *Girard* \[standard form in IPNI: *Girard*\]
 
 #### Herbarium and types
 

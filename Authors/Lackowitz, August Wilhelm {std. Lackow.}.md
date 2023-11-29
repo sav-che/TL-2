@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33068958) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 716](https://www.biodiversitylibrary.org/page/33068958) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5187-1), [Wikidata](https://www.wikidata.org/wiki/Q21518274). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lackowitz, August Wilhelm (1836-1916), German botanist; high school teacher in Berlin. 
-**Abbreviated name**: *Lackow.*
+**Abbreviated name**: *Lackow.* \[standard form in IPNI: *Lackow.*\]
 
 #### Herbarium and types
 

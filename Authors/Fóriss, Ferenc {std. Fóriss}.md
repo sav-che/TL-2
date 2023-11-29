@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33259820) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33259820) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18868-1), [Wikidata](https://www.wikidata.org/wiki/Q21339966). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fóriss, Ferenc (1892-1977), Hungarian lichenologist and school teacher, born 2 Sep 1892 in Heves, attended high school in Budapest 1911-1914, teacher's dipl. 1914, asst. in the herb., Hungarian Natural History Museum 1914-1919, army corporal 1914-1918 during W.W.-I (Silver Medal for valor in combat), after the war chose teaching over a research career and taught in Miskolc 1919-1957, died 7 Jun 1977 in Miskolc. 
-**Abbreviated name**: *Fóriss*
+**Abbreviated name**: *Fóriss* \[standard form in IPNI: *Fóriss*\]
 
 #### Herbarium and types
 

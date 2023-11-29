@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33189749) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33189749) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7733-1), [Wikidata](https://www.wikidata.org/wiki/Q8072235). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pitcher, Zina (1797-1872), American physician and botanist, MD Middlebury College, Vermont 1822; in service on the frontier 1822-1836; later in Michigan; 1837-1852 regent and professor at the University of Michigan; 1840-1843 mayor of Detroit. 
-**Abbreviated name**: *Pitcher*
+**Abbreviated name**: *Pitcher* \[standard form in IPNI: *Pitcher*\]
 
 #### Herbarium and types
 

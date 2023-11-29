@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33212712) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33212712) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/34342-1), [Wikidata](https://www.wikidata.org/wiki/Q2073003). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Van Houtte, Louis Benoît (1810-1876), Belgian horticulturist; studied at the École centrale du Commerce, Paris, in Clermont-Ferrand 1826-1828; civil servant in Brussels 1830; travelled in Brazil, Guatemala, Honduras and the Cape Verde Islands collecting living plants 1834-1835; with the Brussels botanical garden 1836-1838; from 1839 at Gendbrugge as private commercial horticulturist; setting up a horticultural school and functioning longtime as burgomaster. 
-**Abbreviated name**: *Van Houtte*
+**Abbreviated name**: *Van Houtte* \[standard form in IPNI: *Van Houtte*\]
 
 #### Herbarium and types
 

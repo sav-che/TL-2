@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265979) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265979) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17375-1), [Wikidata](https://www.wikidata.org/wiki/Q21508943). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Conn, Harold Joel (1886-1952), American botanist, specialist in biological stains, born 29 Mai 1886, Middletown, Conn., Ph.B. Wesleyan 1908, Ph.D. Cornell 1911, assistant soil technologist at Exper. Station Cornell 1908-1911, at New York Exper. Station Geneva 1911-1920, chief research soil bacteriology 1920-1952. 
-**Abbreviated name**: *H.J. Conn*
+**Abbreviated name**: *H.J. Conn* \[standard form in IPNI: *H.J.Conn*\]
 
 #### Herbarium and types
 

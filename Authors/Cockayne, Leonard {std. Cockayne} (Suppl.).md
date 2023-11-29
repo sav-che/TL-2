@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33265910) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33265910) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1711-1), [Wikidata](https://www.wikidata.org/wiki/Q2268390). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cockayne, Leonard {std. Cockayne}|first entry]] for this author
 
 ### Author
 
 \* Cockayne, Leonard (1855-1934), British born botanist, studied at Owen's College Manchester 1872-1874, travelled to Australia 1876, school master in Queensland, moved to New Zealand about 1880, schoolmaster in the Taieri, collected plants for his garden, started publishing on botany from 1898, in Christchurch 1904-1914, living at Wellington 1914-1934. 
-**Abbreviated name**: *Cockayne*
+**Abbreviated name**: *Cockayne* \[standard form in IPNI: *Cockayne*\]
 
 #### Herbarium and types
 

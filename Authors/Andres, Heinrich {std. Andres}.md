@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33120180) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33120180) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/210-1), [Wikidata](https://www.wikidata.org/wiki/Q5893518). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Andres, Heinrich {std. Andres} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Andres, Heinrich (1883-1970), German cryptogamist. 
-**Abbreviated name**: *Andres*
+**Abbreviated name**: *Andres* \[standard form in IPNI: *Andres*\]
 
 #### Herbarium and types
 

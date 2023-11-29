@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-03-09 08:25:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33066799) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 459](https://www.biodiversitylibrary.org/page/33066799) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11872-1), [Wikidata](https://www.wikidata.org/wiki/Q708064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Worsley, Arthingon (1861-1944), British civil engineer and amateur horticulturist; lived in Isleworth, Middlesex from 1894; specialist on Amaryllis. 
-**Abbreviated name**: *Worsl.*
+**Abbreviated name**: *Worsl.* \[standard form in IPNI: *Worsley*\]
 
 #### Herbarium and types
 

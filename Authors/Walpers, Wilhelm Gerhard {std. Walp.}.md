@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33066385) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33066385) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11355-1), [Wikidata](https://www.wikidata.org/wiki/Q77671). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walpers, Wilhelm Gerhard (1816-1853), German (Thuringian) botanist; studied at the University of Greifswald (1836) and Breslau (1837-1838); Dr. phil. Greifswald 1839; from then on independent scientist in Berlin; habil. Univ. Berlin 1848. 
-**Abbreviated name**: *Walp.*
+**Abbreviated name**: *Walp.* \[standard form in IPNI: *Walp.*\]
 
 #### Herbarium and types
 

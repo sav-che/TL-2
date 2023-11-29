@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33068504) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33068504) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4061-1), [Wikidata](https://www.wikidata.org/wiki/Q4499539). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Holtermann, Carl (1866-1923), Norwegian-born German botanist; travelled in the old tropics 1895/96; later professor of botany at Berlin University. 
-**Abbreviated name**: *Holterm.*
+**Abbreviated name**: *Holterm.* \[standard form in IPNI: *Holterm.*\]
 
 #### Herbarium and types
 

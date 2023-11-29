@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33212441) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 399](https://www.biodiversitylibrary.org/page/33212441) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10748-1), [Wikidata](https://www.wikidata.org/wiki/Q21610888). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Torralbas, José Ildefonso (1842-1903), Cuban agronomist and botanist; Dr. phil. Univ. Habana 1890; professor at Habana University and director of the Botanical Museum. 
-**Abbreviated name**: *Torralbas*
+**Abbreviated name**: *Torralbas* \[standard form in IPNI: *Torralbas*\]
 
 #### Herbarium and types
 

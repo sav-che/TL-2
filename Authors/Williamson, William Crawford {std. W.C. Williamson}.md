@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33066668) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 328](https://www.biodiversitylibrary.org/page/33066668) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11715-1), [Wikidata](https://www.wikidata.org/wiki/Q930185). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Williamson, William Crawford (1816-1895), British surgeon, naturalist and palaeobotanist; curator Museum Manchester Natural History Society 1835-1838; studied medicine at University College, London 1839-1840; MRCS 1840; surgeon at a Manchester dispensary 1841-1868; professor of biology and geology, Owens College, Manchester from 1851, professor of botany 1880-1892. 
-**Abbreviated name**: *W.C. Williamson*
+**Abbreviated name**: *W.C. Williamson* \[standard form in IPNI: *Will.*\]
 
 #### Herbarium and types
 

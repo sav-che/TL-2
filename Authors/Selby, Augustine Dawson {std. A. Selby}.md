@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33333635) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33333635) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9452-1), [Wikidata](https://www.wikidata.org/wiki/Q21608639). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Selby, Augustine Dawson (1859-1924), American botanist and phytopathologist; B.S. Ohio State Univ. 1893; high school teacher at Huntington W.Va. 1884-1886, Ironton, Ohio 1886-1887, Columbus, Ohio 1890-1894, with Ohio Agricultural Experiment Station, Columbus, 1894-1923; collected in Colorado with L.M. Underwood 1901; worked at the New York Botanical Garden 1903-1904. 
-**Abbreviated name**: *A. Selby*
+**Abbreviated name**: *A. Selby* \[standard form in IPNI: *A.Selby*\]
 
 #### Herbarium and types
 

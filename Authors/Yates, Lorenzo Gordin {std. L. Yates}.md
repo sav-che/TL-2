@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33066829) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 489](https://www.biodiversitylibrary.org/page/33066829) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11935-1), [Wikidata](https://www.wikidata.org/wiki/Q5979036). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Yates, Lorenzo Gordin (1837-1909), British-born American naturalist (botanist, paleontologist, conchologist); to U.S. 1853; studied medicine and dentistry; settled in Centerville, California 1864 as practicing dentist; in various ways associated with the geological and botanical survey of California, ultimately (1905-1906) Horticultural Commissioner, Santa Barbara. 
-**Abbreviated name**: *L. Yates*
+**Abbreviated name**: *L. Yates* \[standard form in IPNI: *Yates*\]
 
 #### Herbarium and types
 

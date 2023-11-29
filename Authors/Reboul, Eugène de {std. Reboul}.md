@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33190087) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 616](https://www.biodiversitylibrary.org/page/33190087) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8210-1), [Wikidata](https://www.wikidata.org/wiki/Q21607043). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reboul, Eugène de (1781-1851), French botanist; emigrated to Italy and settled in Florence (calling himself Eugenio). 
-**Abbreviated name**: *Reboul*
+**Abbreviated name**: *Reboul* \[standard form in IPNI: *Reboul*\]
 
 #### Herbarium and types
 

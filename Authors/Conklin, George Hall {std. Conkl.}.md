@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33265978) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33265978) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17373-1), [Wikidata](https://www.wikidata.org/wiki/Q21508938). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Conklin, George Hall (1866-1940), American physician, surgeon and bryologist, born at Battle Creek, Mich., studied medicine at the University of Michigan, graduated (MD) 1888, post-graduate work at the same institution, practising medicine at Superior, Wisconsin 1889-1917 as county physician for Douglas County, served with a medical replacement unit on military duty 1917-1918 at Vichy, France, 1918-1919 id. at Gondrecour, Lorraine, post-graduate work at Chicago University (pediatrics), until 1929 dealing with medical aid of underprivileged children, directing physician of the City Health Department at Superior 1929-1933, in charge of the County Tuberculair Sanitorium at Hawtherne. 
-**Abbreviated name**: *Conkl.*
+**Abbreviated name**: *Conkl.* \[standard form in IPNI: *Conkl.*\]
 
 #### Herbarium and types
 

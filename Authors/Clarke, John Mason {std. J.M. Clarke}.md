@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33120639) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33120639) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1672-1), [Wikidata](https://www.wikidata.org/wiki/Q3809155). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clarke, John Mason (1857-1925), American palaeobotanist in the geological survey of New York. 
-**Abbreviated name**: *J. M. Clarke*
+**Abbreviated name**: *J. M. Clarke* \[standard form in IPNI: *J.M.Clarke*\]
 
 #### Collections
 

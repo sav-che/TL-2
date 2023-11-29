@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33068667) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33068667) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4430-1), [Wikidata](https://www.wikidata.org/wiki/Q21516938). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jaquet, Firmin (1858-1933), Swiss botanist. 
-**Abbreviated name**: *Jaquet*
+**Abbreviated name**: *Jaquet* \[standard form in IPNI: *Jaquet*\]
 
 #### Herbarium and types
 

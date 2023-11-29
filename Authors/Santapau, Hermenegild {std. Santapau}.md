@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33333141) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33333141) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8901-1), [Wikidata](https://www.wikidata.org/wiki/Q19001686). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Santapau, Hermenegild (1903-1970), Spanish-born clergyman and botanist; Dr. phil. Gregorian Univ., Roma, 1927; to India 1928; studying botany in London 1936-1940; professor of botany at St. Xavier's College, Bombay; 1940-1954 with the Botanical Survey of India; from 1961-1968 as director; rector of St. Xavier's College, Bombay 1968-1970. 
-**Abbreviated name**: *Santapau*
+**Abbreviated name**: *Santapau* \[standard form in IPNI: *Santapau*\]
 
 #### Herbarium and types
 

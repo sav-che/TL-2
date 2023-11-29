@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33258505) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33258505) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2914-1), [Wikidata](https://www.wikidata.org/wiki/Q21513545). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fries, Elias Petrus {std. E.P. Fr.}|first entry]] for this author
 
 ### Author
 
 \* Fries, Elias Petrus (1834-1858), Swedish botanist, born 14 Oct 1834 in Femsjö (Småland), student at Uppsala 1853, Dr. 1857, died 17 Dec 1858 in Uppsala. 
-**Abbreviated name**: *E.P. Fr.*
+**Abbreviated name**: *E.P. Fr.* \[standard form in IPNI: *E.P.Fr.*\]
 
 #### Note
 

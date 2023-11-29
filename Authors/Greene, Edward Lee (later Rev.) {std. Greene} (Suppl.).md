@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33258833) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33258833) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3366-1), [Wikidata](https://www.wikidata.org/wiki/Q2661665). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Greene, Edward Lee {std. Greene}|first entry]] for this author
 
 ### Author
 
 \* Greene, Edward Lee (later Rev.) (1843-1915), American botanist and clergyman, born 20 Aug 1843 in Hopkinton, Rhode Island, at age 12 moved with his family to Wisconsin, infantryman in Union Army during Civil War 1862-1865, Ph.B. 1866 Albion Acad., Wisconsin 1866, taught in rural schools in Illinois until 1870, taught botany and studied theology in Colorado 1871, ordained Episcopal minister 1873, collected plants in the American West for 12 years, converted to Catholicism 1885, first Prof. of Botany, Univ. of Calif., Berkeley 1885-1895, LL.D. 1895, Univ. of Notre Dame, Indiana, at Catholic Univ. of America, Washington, D.C. 1895-1904, hon. assoc. in Botany, Smithsonian Inst. 1904-1915, died 10 Nov 1915 in Washington, D.C. (buried in Notre Dame). 
-**Abbreviated name**: *Greene*
+**Abbreviated name**: *Greene* \[standard form in IPNI: *Greene*\]
 
 #### Note
 

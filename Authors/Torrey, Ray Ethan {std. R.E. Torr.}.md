@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33212450) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 408](https://www.biodiversitylibrary.org/page/33212450) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10755-1), [Wikidata](https://www.wikidata.org/wiki/Q21610893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Torrey, Ray Ethan (1887-1956), American botanist; B.S. Massachusetts Agricultural College \[later: Massachusetts State Coll. Amherst\] 1912, M.A. Harvard 1916; Dr. phil. ib., student of E.C. Jeffrey, 1918, assistant professor of biology at Grove City College, Pa., 1912-1915, instructor in botany, Wesleyan University 1918-1919; professor of botany at Massachusetts State Coll. \[later University of Massachusetts, Amherst\] 1919-1956. 
-**Abbreviated name**: *R.E. Torr.*
+**Abbreviated name**: *R.E. Torr.* \[standard form in IPNI: *R.E.Torr.*\]
 
 #### Herbarium and types
 

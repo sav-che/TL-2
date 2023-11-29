@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33264989) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 262](https://www.biodiversitylibrary.org/page/33264989) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/393-1), [Wikidata](https://www.wikidata.org/wiki/Q5564227). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bailey, Irving Widmer {std. I.W. Bailey}|first entry]] for this author
 
 ### Author
 
 \* Bailey, Irving Widmer (1884-1967), American botanist, anatomist at the Bussey Institution of Harvard University, studied at Harvard University, A.B. 1907, M.F. 1909. 
-**Abbreviated name**: *I.W. Bailey*
+**Abbreviated name**: *I.W. Bailey* \[standard form in IPNI: *I.W.Bailey*\]
 
 #### Herbarium and types
 

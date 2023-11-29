@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33066763) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33066763) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11821-1), [Wikidata](https://www.wikidata.org/wiki/Q4124761). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wolff, \[Karl Friedrich August\] Hermann (1866-1929), German (Braunschweig, Brunswick) veterinarian and botanist; studied veterinary medicine in Berlin 1885-1890; municipal veterinarian in Berlin from 1894; Dr. phil. Berlin 1925; travelled widely in S.E. Europe and the Near East; student of the Umbelliferae. 
-**Abbreviated name**: *H. Wolff*
+**Abbreviated name**: *H. Wolff* \[standard form in IPNI: *H.Wolff*\]
 
 #### Herbarium and types
 

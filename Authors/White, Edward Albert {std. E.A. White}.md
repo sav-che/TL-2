@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33066590) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33066590) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11616-1), [Wikidata](https://www.wikidata.org/wiki/Q21612583). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 White, Edward Albert (1872-1943), American botanist; B.Sc. Massachusetts State College 1895; in charge of greenhouse of this College 1895-1897; florist Arlington, Mass. 1897-1900; assistant professor of horticulture Texas A. & M. 1900-1902; professor of botany and forestry Connecticut Agric. College 1902-1906; professor of floriculture Mass. State Coll. 1906-1913; head of Dept. Floriculture, Cornell Univ. 1913-1939; prof. emeritus 1939-1943; specialist on orchidaceae as well as fungi. 
-**Abbreviated name**: *E.A. White*
+**Abbreviated name**: *E.A. White* \[standard form in IPNI: *E.A.White*\]
 
 #### Herbarium and types
 

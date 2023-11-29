@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 542](https://www.biodiversitylibrary.org/page/33066882) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 542](https://www.biodiversitylibrary.org/page/33066882) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12040-1), [Wikidata](https://www.wikidata.org/wiki/Q65811). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zimmermann, Walter \[Max\] (1892-1980), German (Baden) botanist; studied natural sciences in Karlsruhe, Freiburg, Berlin, München; Dr. phil. Freiburg i. Br. 1921; private lecturer Tübingen 1925; assistant professor ib. 1929-1959; military service 1910-1911, active service 1914-1919, 1939-1945; full professor (emeritus) Tübingen 1959-1980; outstanding phylogeneticist and botanist; originator of the "Telomtheorie". 
-**Abbreviated name**: *W. Zimmerm.*
+**Abbreviated name**: *W. Zimmerm.* \[standard form in IPNI: *W.Zimm.*\]
 
 #### Herbarium and types
 

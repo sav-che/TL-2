@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33333856) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33333856) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/35148-1), [Wikidata](https://www.wikidata.org/wiki/Q36557631). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Soehns, Franz (*fl*. 1897), German botanist. 
-**Abbreviated name**: *Soehns*
+**Abbreviated name**: *Soehns* \[standard form in IPNI: *Soehns*\]
 
 #### Herbarium and types
 

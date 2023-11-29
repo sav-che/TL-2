@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 947](https://www.biodiversitylibrary.org/page/33121078) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 947](https://www.biodiversitylibrary.org/page/33121078) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3167-1), [Wikidata](https://www.wikidata.org/wiki/Q3108176). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ginanni, Giuseppe, conte (1692-1753), Italian botanist at Ravenna. 
-**Abbreviated name**: *Ginanni*
+**Abbreviated name**: *Ginanni* \[standard form in IPNI: *Ginanni*\]
 
 #### Herbarium and types
 

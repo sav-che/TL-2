@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33068660) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 418](https://www.biodiversitylibrary.org/page/33068660) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4402-1), [Wikidata](https://www.wikidata.org/wiki/Q18222345). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jahn, Eduard Adolf Wilhelm (1871-1942), German teacher in Berlin; later at the Botanical Institute of the Forestry College at Hannover-Münden; pupil of Schwendener; specialist on myxomycetes. 
-**Abbreviated name**: *E. Jahn*
+**Abbreviated name**: *E. Jahn* \[standard form in IPNI: *E.Jahn*\]
 
 #### Herbarium and types
 

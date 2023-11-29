@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33189809) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33189809) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7843-1), [Wikidata](https://www.wikidata.org/wiki/Q5869109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Popenoe, Frederick Wilson (called Wilson Popenoe) (1892-1975), American botanist and explorer; studied at Pomona College; agricultural explorer for USDA from 1913-1923; with the United Fruit Company from 1923-1957; from 1944 as director of the Escuela Agricola Panamericana, Honduras. 
-**Abbreviated name**: *Popenoe*
+**Abbreviated name**: *Popenoe* \[standard form in IPNI: *Popenoe*\]
 
 #### Herbarium and types
 

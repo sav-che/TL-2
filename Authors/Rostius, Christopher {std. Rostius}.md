@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 910](https://www.biodiversitylibrary.org/page/33190381) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 910](https://www.biodiversitylibrary.org/page/33190381) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8631-1), [Wikidata](https://www.wikidata.org/wiki/Q6080972). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rostius, Christopher (1620-1687), German-born Swedish physician and botanist; Dr. med. Leiden 1657; "General-gouvernements-medicus" in the province of Skåne from 1658; first professor of medicine (incl. botany) and "archiater" at Lund University 1667-1676. 
-**Abbreviated name**: *Rostius*
+**Abbreviated name**: *Rostius* \[standard form in IPNI: *Rostius*\]
 
 #### Herbarium and types
 

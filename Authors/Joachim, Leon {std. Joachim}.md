@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33068686) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33068686) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4493-1), [Wikidata](https://www.wikidata.org/wiki/Q21517039). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Joachim, Leon (1873-1945), French (Alsatian) mycologist and pharmacist; practiced at Valdoie 1898-1910, at Auxerre 1910/1-1910; Dr. pharm. Paris 1914; at Noisy-le-Sec (Seine) 1919-1936, at Paris 1936-1945. 
-**Abbreviated name**: *Joachim*
+**Abbreviated name**: *Joachim* \[standard form in IPNI: *Joachim*\]
 
 #### Herbarium and types
 

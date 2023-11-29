@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33355362) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33355362) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22846-1), [Wikidata](https://www.wikidata.org/wiki/Q3262606). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mangin, Louis Alexandre (1852-1937), French cryptogamist; Dr. Sc. Paris 1882; high school teacher at Nancy and Paris 1873-1904; from 1904-1931 at the Muséum d'Histoire naturelle; first director of the Laboratoire de Cryptogamie (PC); Director of the Muséum 1920-1932. 
-**Abbreviated name**: *L. Mangin*
+**Abbreviated name**: *L. Mangin* \[standard form in IPNI: *L.Mangin*\]
 
 #### Herbarium and types
 

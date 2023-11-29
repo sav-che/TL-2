@@ -26,16 +26,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33120244) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33120244) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/31272-1), [Wikidata](https://www.wikidata.org/wiki/Q962745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Balsamo-Crivelli, Guiseppe Gabriel {std. Bals.-Criv.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Balsamo-Crivelli, Giuseppe Gabriel (1800-1874), Italian botanist. 
-**Abbreviated name**: *Bals.-Criv.*
+**Abbreviated name**: *Bals.-Criv.* \[standard form in IPNI: *Bals.-Criv.*\]
 
 #### Herbarium and types
 

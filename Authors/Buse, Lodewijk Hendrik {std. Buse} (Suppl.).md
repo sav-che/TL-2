@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-07-24 12:55:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33266584) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33266584) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1321-1), [Wikidata](https://www.wikidata.org/wiki/Q5978322). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Buse, L. H. {std. Buse}|first entry]] for this author
 
 ### Author
 
 \* Buse, Lodewijk Hendrik (1819-1888), Dutch botanist and lawyer, born at Haarlem, collected in its surroundings with H.D. Gildemeester Buse, studied law at Utrecht (doctor of laws), moved to Renkum soon after 1845 (the year of the foundation of the Dutch Botanical Society of wich B. was a founder-member), issued *Musci neerlandici* (exsicc.) together with his wife Mrs. Buse-Koppiers, travelled in England and Germany, corresponded with Juratzka and Milde, active in the Dutch Botanical Society until 1865. 
-**Abbreviated name**: *Buse*
+**Abbreviated name**: *Buse* \[standard form in IPNI: *Buse*\]
 
 #### Note
 

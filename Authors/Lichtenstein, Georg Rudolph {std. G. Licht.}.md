@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33355119) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 8](https://www.biodiversitylibrary.org/page/33355119) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5565-1), [Wikidata](https://www.wikidata.org/wiki/Q21519028). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lichtenstein, Georg Rudolph (1745-1807), German botanist; 1774-1804 professor of medicine at the Julius-Carl-Universität at Helmstädt. 
-**Abbreviated name**: *G. Licht.*
+**Abbreviated name**: *G. Licht.* \[standard form in IPNI: *G.Licht.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33190345) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33190345) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8562-1), [Wikidata](https://www.wikidata.org/wiki/Q21607365). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Romano, Girolamo (Gerolamo) (1765-1841), Italian botanist and clergyman at Gorgo nr Padua. 
-**Abbreviated name**: *Romano*
+**Abbreviated name**: *Romano* \[standard form in IPNI: *Romano*\]
 
 #### Herbarium and types
 

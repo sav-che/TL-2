@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33333698) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 559](https://www.biodiversitylibrary.org/page/33333698) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9563-1), [Wikidata](https://www.wikidata.org/wiki/Q21608785). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shepherd, Thomas (1779-1835), Scottish nurseryman; emigrated to Sydney, Australia, where he established Darling Nursery in 1827; lectured on horticulture and landscape gardening. 
-**Abbreviated name**: *Th. Sheph.*
+**Abbreviated name**: *Th. Sheph.* \[standard form in IPNI: *T.Sheph.*\]
 
 #### Herbarium and types
 

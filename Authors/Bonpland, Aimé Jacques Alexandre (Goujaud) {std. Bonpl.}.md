@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33120405) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33120405) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12355-1), [Wikidata](https://www.wikidata.org/wiki/Q405702). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bonpland, Aimé Jacques Alexandre (Goujaud) (1773-1858), French explorer and botanist. 
-**Abbreviated name**: *Bonpl.*
+**Abbreviated name**: *Bonpl.* \[standard form in IPNI: *Bonpl.*\]
 
 #### Herbarium and types
 

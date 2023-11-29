@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33068781) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33068781) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12593-1), [Wikidata](https://www.wikidata.org/wiki/Q4348381). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kihlman, Alfred Oswald \[after 1906: Kairamo\] (1858-1938), Finnish botanist at Helsinki and Hattula 
-**Abbreviated name**: *Kihlm.*
+**Abbreviated name**: *Kihlm.* \[standard form in IPNI: *Kihlm.*\]
 
 #### Herbarium and types
 

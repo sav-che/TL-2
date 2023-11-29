@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33355453) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33355453) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6223-1), [Wikidata](https://www.wikidata.org/wiki/Q3568657). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Maton, William George (1774-1835), British botanist. 
-**Abbreviated name**: *Maton*
+**Abbreviated name**: *Maton* \[standard form in IPNI: *Maton*\]
 
 #### Herbarium and types
 

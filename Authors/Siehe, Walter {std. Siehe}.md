@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33333733) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 594](https://www.biodiversitylibrary.org/page/33333733) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9623-1), [Wikidata](https://www.wikidata.org/wiki/Q21339293). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Siehe, Walter (1859-1928), German (Berlin) plant collector and salesman; botanical explorer of Turkey. 
-**Abbreviated name**: *Siehe*
+**Abbreviated name**: *Siehe* \[standard form in IPNI: *Siehe*\]
 
 #### Herbarium and types
 

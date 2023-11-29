@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33068780) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 538](https://www.biodiversitylibrary.org/page/33068780) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4778-1), [Wikidata](https://www.wikidata.org/wiki/Q21517494). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kiesling, Christian Gotthilf (1724-1754), German botanist. 
-**Abbreviated name**: *Kiesling*
+**Abbreviated name**: *Kiesling* \[standard form in IPNI: *Kiesling*\]
 
 #### Herbarium and types
 

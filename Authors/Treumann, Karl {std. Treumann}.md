@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33212516) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 474](https://www.biodiversitylibrary.org/page/33212516) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10813-1), [Wikidata](https://www.wikidata.org/wiki/Q47127611). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Treumann, Karl (*fl*. 1880), Baltic-German botanist; Mag. pharm. Dorpat 1880, later at St. Petersburg. 
-**Abbreviated name**: *Treumann*
+**Abbreviated name**: *Treumann* \[standard form in IPNI: *Treumann*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33068349) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33068349) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3739-1), [Wikidata](https://www.wikidata.org/wiki/Q21515598). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hay, George Upham (1844-1913), Canadian algologist and high school teacher at St. John, New Brunswick. 
-**Abbreviated name**: *G. Hay*
+**Abbreviated name**: *G. Hay* \[standard form in IPNI: *G.Hay*\]
 
 #### Herbarium and types
 

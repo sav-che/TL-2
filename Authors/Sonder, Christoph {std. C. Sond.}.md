@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33333880) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33333880) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9890-1), [Wikidata](https://www.wikidata.org/wiki/Q36531105). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sonder, Christoph (*fl*. 1890), German (Holstein) pharmacist and botanist; Dr. phil. Rostock 1890; pharmacist in Oldesloe, Schleswig-Holstein, nephew of O.W. Sonder. 
-**Abbreviated name**: *C. Sond.*
+**Abbreviated name**: *C. Sond.* \[standard form in IPNI: *C.Sond.*\]
 
 #### Herbarium and types
 

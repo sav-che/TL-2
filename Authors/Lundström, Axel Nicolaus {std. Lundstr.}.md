@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33355284) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33355284) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5846-1), [Wikidata](https://www.wikidata.org/wiki/Q5967737). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lundström, Axel Nicolaus (1847-1905), Swedish botanist; Dr. phil. Uppsala 1875; lecturer ib. 1875, curator botanical museum 1887-1892; at Ultuna agricultural college 1892-1897; professor of plant biology at Uppsala 1897-1905. 
-**Abbreviated name**: *Lundstr.*
+**Abbreviated name**: *Lundstr.* \[standard form in IPNI: *Lundstr.*\]
 
 #### Herbarium and types
 

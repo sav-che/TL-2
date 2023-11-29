@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33068959) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 717](https://www.biodiversitylibrary.org/page/33068959) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21947-1), [Wikidata](https://www.wikidata.org/wiki/Q21518279). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lacouture, Charles (1832-1908), French botanist; teacher of natural sciences at the Collège Saint-Clément de Metz until 1872; later at Dijon. 
-**Abbreviated name**: *Lacout.*
+**Abbreviated name**: *Lacout.* \[standard form in IPNI: *Lacout.*\]
 
 #### Herbarium and types
 

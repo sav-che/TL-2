@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33120175) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 44](https://www.biodiversitylibrary.org/page/33120175) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/192-1), [Wikidata](https://www.wikidata.org/wiki/Q21516170). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Anderson, George (x-1817), British botanist and horticulturist at Westham who grew species of *Salix, Paeonia*, and *Narcissus* and who collected in Brazil and Barbados in 1815. 
-**Abbreviated name**: *G. Anderson*
+**Abbreviated name**: *G. Anderson* \[standard form in IPNI: *G.Anderson*\]
 
 #### Herbarium and types
 

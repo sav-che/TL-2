@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33212119) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33212119) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/31424-1), [Wikidata](https://www.wikidata.org/wiki/Q21610005). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Suckow, Sigismund (1845-?), German (Silesian) botanist; Dr. phil. Breslau 1873; student of F. Cohn. 
-**Abbreviated name**: *S. Suckow*
+**Abbreviated name**: *S. Suckow* \[standard form in IPNI: *S.Suckow*\]
 
 #### Herbarium and types
 

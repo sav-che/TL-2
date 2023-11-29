@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33258634) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33258634) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/20004619-1), [Wikidata](https://www.wikidata.org/wiki/Q36573048). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gay, Hippolyte (fl. 1882-1909), French botanist and secondary school teacher in Algeria (1882-?), holding positions at the Collège du Blida, Collège de Médéa (1888, at least) and in Crescia (Khraicia). 
-**Abbreviated name**: *H. Gay*
+**Abbreviated name**: *H. Gay* \[standard form in IPNI: *H.Gay*\]
 
 #### Herbarium and types
 

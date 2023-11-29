@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33266474) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 167](https://www.biodiversitylibrary.org/page/33266474) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/32569-1), [Wikidata](https://www.wikidata.org/wiki/Q21506586). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brutschy, Adolf (1885-?), Swiss algologist, studied at the University of Zürich, Dr. phil. ib. 1912. 
-**Abbreviated name**: *Brutschy*
+**Abbreviated name**: *Brutschy* \[standard form in IPNI: *Brutschy*\]
 
 #### Herbarium and types
 

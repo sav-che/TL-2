@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33120639) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 508](https://www.biodiversitylibrary.org/page/33120639) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1680-1), [Wikidata](https://www.wikidata.org/wiki/Q16320610). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Claussen, Peter (Heinrich) {std. Claussen} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Claussen, Peter (1877-1959), German botanist, pupil of Schwendener, morphologist and developmental biologist. 
-**Abbreviated name**: *Claussen*
+**Abbreviated name**: *Claussen* \[standard form in IPNI: *Claussen*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/page/33120751) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/page/33120751) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2116-1), [Wikidata](https://www.wikidata.org/wiki/Q487488). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Demidow, Anatoli Nikolajewitsch (1812-1870), Russian explorer and maecenas. 
-**Abbreviated name**: *A. N. Demidow*
+**Abbreviated name**: *A. N. Demidow* \[standard form in IPNI: *A.N.Demidov*\]
 
 #### Herbarium and types
 

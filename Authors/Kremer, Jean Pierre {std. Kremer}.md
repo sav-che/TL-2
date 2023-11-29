@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33068912) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33068912) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21736-1), [Wikidata](https://www.wikidata.org/wiki/Q21517928). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kremer, Jean Pierre (1812-1867), French (Lorraine) botanist at Metz. 
-**Abbreviated name**: *Kremer*
+**Abbreviated name**: *Kremer* \[standard form in IPNI: *Kremer*\]
 
 #### Herbarium and types
 

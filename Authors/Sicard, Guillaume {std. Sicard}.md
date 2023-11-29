@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33333719) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33333719) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9607-1), [Wikidata](https://www.wikidata.org/wiki/Q21608849). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sicard, Guillaume (1829-1886), French pharmacist and mycologist at Noisy-le-Sec. 
-**Abbreviated name**: *Sicard*
+**Abbreviated name**: *Sicard* \[standard form in IPNI: *Sicard*\]
 
 #### Herbarium and types
 

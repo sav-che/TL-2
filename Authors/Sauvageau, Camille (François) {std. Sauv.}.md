@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33333214) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33333214) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26180-1), [Wikidata](https://www.wikidata.org/wiki/Q5026678). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sauvageau, Camille \[François\] (1861-1936), French botanist; studied at Montpellier (lic. sci. nat. 1884, agrégé 1884); assistant to Charles Flahault, Montpellier 1884-1888; high school teacher at Bordeaux 1884-1885; worked with P. van Tieghem, Paris 1885-1891; Dr. Sci. Paris 1891; lecturer Fac. Sci. Lyon 1892; professor at the Faculté des Sciences, Lyon 1892; id. Bordeaux 1901-1932; prix Montagne 1915. 
-**Abbreviated name**: *Sauv.*
+**Abbreviated name**: *Sauv.* \[standard form in IPNI: *Sauv.*\]
 
 #### Herbarium and types
 

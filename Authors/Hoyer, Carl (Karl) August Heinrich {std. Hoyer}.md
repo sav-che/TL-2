@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33068594) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 352](https://www.biodiversitylibrary.org/page/33068594) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4170-1), [Wikidata](https://www.wikidata.org/wiki/Q36525285). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoyer, Carl \[Karl\] August Heinrich (*fl*. 1838), German botanist and pharmacist at Rinteln. 
-**Abbreviated name**: *Hoyer*
+**Abbreviated name**: *Hoyer* \[standard form in IPNI: *Hoyer*\]
 
 #### Herbarium and types
 

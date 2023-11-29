@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33334013) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 874](https://www.biodiversitylibrary.org/page/33334013) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10079-1), [Wikidata](https://www.wikidata.org/wiki/Q21609713). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steinecke, Fritz (1892-?), German (Berlin) botanist; Dr. phil. Königsberg i. Pr. 1914; habil. ib. 1926; lecturer Botanical Garden, Königsberg i. Pr. 1934; extraord. prof. of botany ib. 1935; later teacher at Recklinghausen (1949) and Wuppertal-Barmen (1953). 
-**Abbreviated name**: *Steinecke*
+**Abbreviated name**: *Steinecke* \[standard form in IPNI: *Steinecke*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33212765) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33212765) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11158-1), [Wikidata](https://www.wikidata.org/wiki/Q353390). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Viborg, Erik (1759-1822), Danish botanist; student of M. Vahl; lecturer at the Botanical Garden of Copenhagen 1783-1801, lecturer at the Veterinary School 1783, from 1790 professor ib.; travelled in Western Europe 1787-1790; Dr. med. Univ. Kiel 1797; professor of botany at the University of Copenhagen 1797-1801; director of the botanical garden 1798-1801; director and professor at the Veterinary School from 1801. 
-**Abbreviated name**: *Viborg*
+**Abbreviated name**: *Viborg* \[standard form in IPNI: *Viborg*\]
 
 #### Herbarium and types
 

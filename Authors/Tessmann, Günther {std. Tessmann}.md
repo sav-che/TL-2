@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-06-19 18:12:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33212270) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33212270) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10534-1), [Wikidata](https://www.wikidata.org/wiki/Q1561875). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tessmann, Günther (*fl*. 1904-1926), German explorer, ethnographer and plant collector; in western-tropical Africa 1904-1909, 1910-1913, in Peru 1923-1926. 
-**Abbreviated name**: *Tessmann*
+**Abbreviated name**: *Tessmann* \[standard form in IPNI: *Tessmann*\]
 
 #### Herbarium and types
 

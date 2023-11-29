@@ -28,14 +28,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33212158) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33212158) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27408-1), [Wikidata](https://www.wikidata.org/wiki/Q632088). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Swartz, Olof \[Peter\] (1760-1818), Swedish botanist; Dr. med. Uppsala 1785; curator and professor at the "Bergianska trädgårdsskolan 1791; curator of the natural history cabinet of the Swedish Academy of Sciences 1806; permanent secretary of the Swedish Academy of Sciences 1811-1818; professor of botany at the "Chirurgiska skolan" (now Karol. Inst.) Stockholm 1813; travelled in Sweden 1779-1783, 1800, 1807; visited Boston 1783, travelled in the West Indies and N.E. South America 1784-1786; worked in London 1786-1787; F.M.L.S. 1791; in charge of the Hortus botanicus bergianus 1791-1818. 
-**Abbreviated name**: *Sw.*
+**Abbreviated name**: *Sw.* \[standard form in IPNI: *Sw.*\]
 
 #### Herbarium and types
 

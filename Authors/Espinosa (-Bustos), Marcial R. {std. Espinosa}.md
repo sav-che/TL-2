@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-12-12 08:54:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33260400) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33260400) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18565-1), [Wikidata](https://www.wikidata.org/wiki/Q5996128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Espinosa \[-Bustos\], Marcial R. (1874-1959), Chilean botanist (cryptogamist) and plant collector, born 30 Jun 1874 at Loncomilla (prov. Linares), 1900 professor at the Instituto Pedagógico in Santiago, stationed at the Liceos de Ancud until 1902 and Concepción 1903-1911, returned to Santiago at the cryptogamic department of the Museo Nacional de Historia natural, died 7 Aug 1959. 
-**Abbreviated name**: *Espinosa*
+**Abbreviated name**: *Espinosa* \[standard form in IPNI: *Espinosa*\]
 
 #### Herbarium and types
 

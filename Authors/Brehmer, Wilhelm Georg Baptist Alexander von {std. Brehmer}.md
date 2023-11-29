@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33266356) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33266356) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/12103-1), [Wikidata](https://www.wikidata.org/wiki/Q2575829). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brehmer, Wilhelm Georg Baptist Alexander von (1883-x), German (born Minden in Westfalen) botanist, educated at the Viktoria Gymnasium in Potsdam until 1901, studied pharmacy, examination for assistant pharmacist 1903, studied at the universities of Berlin, Kiel and again Berlin, state examination for pharmacist 14 Mai 1909, practicing as pharmacist 1909-1911, licensed pharmaceutical practicioner 1911, studied botany at the Friedrich-Wilhelms-Universität, Berlin 1911-1913, travelled in German-East-Africa 1913, studied at the Botanical Museum Berlin 1913-1914, scientific assistant ib. 1914-1915, Dr. phil. University of Berlin 1915, assistant at the Botanical Museum 1918, idem at the Potato Institute and the Botanical Institute of the University of Berlin 1919-1931, at the Pathological-anatomical division of the Biologische Reichsanstalt 1931-1940, director of infection research 1940-1948, at Bad Kreuznach 1948-1950, in charge of Paracelsus-Institute, Nürnberg 1950. 
-**Abbreviated name**: *Brehmer*
+**Abbreviated name**: *Brehmer* \[standard form in IPNI: *Brehmer*\]
 
 #### Herbarium and types
 

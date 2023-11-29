@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33068629) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33068629) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4308-1), [Wikidata](https://www.wikidata.org/wiki/Q8771887). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Irmscher, Edgar (1887-1968), German botanist; specialist on *Begonia*; studied plant physiology at Leipzig; from 1912-1919 with Engler in Berlin; curator (1919), later professor of botany at Hamburg until 1942; subsequently worked as emeritus professor at the Hohenheim agricultural college 1942-1968. 
-**Abbreviated name**: *Irmsch.*
+**Abbreviated name**: *Irmsch.* \[standard form in IPNI: *Irmsch.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33068693) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 451](https://www.biodiversitylibrary.org/page/33068693) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4523-1), [Wikidata](https://www.wikidata.org/wiki/Q7347255). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Johnston, Robert Mackenzie (1844-1918), Scottish palaeobotanist; to Victoria 1870; from 1882 registrar-general and government statistician of Tasmania. 
-**Abbreviated name**: *R. Johnst.*
+**Abbreviated name**: *R. Johnst.* \[standard form in IPNI: *R.M.Johnst.*\]
 
 #### Herbarium and types
 

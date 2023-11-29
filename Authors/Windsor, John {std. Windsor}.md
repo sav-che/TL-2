@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33066704) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 364](https://www.biodiversitylibrary.org/page/33066704) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11759-1), [Wikidata](https://www.wikidata.org/wiki/Q21612815). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Windsor, John (1787-1868), British surgeon and botanist; born at Settle, York; surgeon, Manchester from 1815. 
-**Abbreviated name**: *Windsor*
+**Abbreviated name**: *Windsor* \[standard form in IPNI: *Windsor*\]
 
 #### Herbarium and types
 

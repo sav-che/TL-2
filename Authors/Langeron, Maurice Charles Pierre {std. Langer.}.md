@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33068992) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33068992) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/22049-1), [Wikidata](https://www.wikidata.org/wiki/Q2879861). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Langeron, Maurice Charles Pierre (1874-1950), French parasitologist and bryologist and palaeobotanist at the Faculté de Médecine, Paris. 
-**Abbreviated name**: *Langer.*
+**Abbreviated name**: *Langer.* \[standard form in IPNI: *Langeron*\]
 
 #### Herbarium and types
 

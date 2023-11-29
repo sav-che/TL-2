@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33066308) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33066308) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11295-1), [Wikidata](https://www.wikidata.org/wiki/Q4102160). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Waga, Jakub \[Jakob\] Ignacy (1800-1872), Polish botanist; student of Michel Szubert; Mag. phil. Warsaw 1825; high school teacher at Warsaw, Radom and Szczuczyn; from 1828 at Lomza; school inspector ib. 1854-1862. 
-**Abbreviated name**: *Waga*
+**Abbreviated name**: *Waga* \[standard form in IPNI: *Waga*\]
 
 #### Herbarium and types
 

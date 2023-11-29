@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1013](https://www.biodiversitylibrary.org/page/33190484) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1013](https://www.biodiversitylibrary.org/page/33190484) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8768-1), [Wikidata](https://www.wikidata.org/wiki/Q21607578). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ryan, Elling (1849-1905), Norwegian botanist and pharmacist; pharmac. exam. 1871; later manager of a chemical factory at Graesvik nr Frederikstad; amateur bryologist. 
-**Abbreviated name**: *Ryan*
+**Abbreviated name**: *Ryan* \[standard form in IPNI: *Ryan*\]
 
 #### Herbarium and types
 

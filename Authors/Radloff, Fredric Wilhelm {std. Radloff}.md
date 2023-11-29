@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33190017) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33190017) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8090-1), [Wikidata](https://www.wikidata.org/wiki/Q6060833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Radloff, Fredric Wilhelm (1766-1838), Finnish physician and botanist; studied at Uppsala under C.P. Thunberg; Dr. med. Ups. 1788; professor's title 1805; provincial physician in Åland 1790-1799;, id. at Norrtälje 1799-1806; first secretary of the Finnish economic association 1806-1813, med. adjunct and botanical demonstrator at Åbo University 1805-1809; secretary Cabinet Council, Finland 1809-1813; again in Norrtälje 1814-1838. 
-**Abbreviated name**: *Radloff*
+**Abbreviated name**: *Radloff* \[standard form in IPNI: *Radloff*\]
 
 #### Herbarium and types
 

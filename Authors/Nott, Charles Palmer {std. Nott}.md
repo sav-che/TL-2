@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33355865) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 778](https://www.biodiversitylibrary.org/page/33355865) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7046-1), [Wikidata](https://www.wikidata.org/wiki/Q5081283). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nott, Charles Palmer (*fl*. 1896-1900), American botanist; educated at Brown University; assistant at University of California, Berkeley, 1896-1904, afterwards farmer. 
-**Abbreviated name**: *Nott*
+**Abbreviated name**: *Nott* \[standard form in IPNI: *Nott*\]
 
 #### Herbarium and types
 

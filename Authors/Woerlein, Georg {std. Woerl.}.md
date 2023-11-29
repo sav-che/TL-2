@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33066757) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33066757) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11807-1), [Wikidata](https://www.wikidata.org/wiki/Q18203180). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Woerlein, Georg (1848-1899), German (Bavarian) soldier and botanist; studied at the Nürnberg Polytechnic; in the Bavarian Army 1866-1876; from 1876 in München (Nymphenburg), sometime Bavarian paymaster ("königlicher Zahlmeister"). 
-**Abbreviated name**: *Woerl.*
+**Abbreviated name**: *Woerl.* \[standard form in IPNI: *Woerl.*\]
 
 #### Herbarium and types
 

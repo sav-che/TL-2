@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33265343) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33265343) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16064-1), [Wikidata](https://www.wikidata.org/wiki/Q21506043). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bethel, Ellsworth {std. Bethel}|first entry]] for this author
 
 ### Author
 
 \* Bethel, Ellsworth (1863-1925), American (Ohio-born) botanist, educated at Scio College and East Tennessee Wesleyan University; migrated to Colorado 1890, living in Denver until his death, teacher at East Denver high school until 1917, later employed by U.S.D.A., also, from 1912, connected with the State Museum, Denver. 
-**Abbreviated name**: *Bethel*
+**Abbreviated name**: *Bethel* \[standard form in IPNI: *Bethel*\]
 
 #### Herbarium and types
 

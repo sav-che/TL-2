@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33120621) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33120621) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1559-1), [Wikidata](https://www.wikidata.org/wiki/Q6174203). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chavannes, Édouard Louis (1805-1861), Swiss botanist and religious philanthropist. 
-**Abbreviated name**: *Chavannes*
+**Abbreviated name**: *Chavannes* \[standard form in IPNI: *Chav.*\]
 
 #### Herbarium and types
 

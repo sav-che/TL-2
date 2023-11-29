@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33068957) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33068957) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5183-1), [Wikidata](https://www.wikidata.org/wiki/Q2573873). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lachmann, Heinrich Wilhelm Ludolph (1800-1861), German physician and botanist at Braunschweig. 
-**Abbreviated name**: *Lachm.*
+**Abbreviated name**: *Lachm.* \[standard form in IPNI: *Lachm.*\]
 
 #### Herbarium and types
 

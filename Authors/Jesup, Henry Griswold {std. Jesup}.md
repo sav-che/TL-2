@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33068685) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33068685) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4483-1), [Wikidata](https://www.wikidata.org/wiki/Q21517016). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jesup, Henry Griswold (1826-1903), American botanist, studied at Yale, professor of natural history (1877-1893) and professor of botany (1893-1899) at Dartmouth College N. H. 
-**Abbreviated name**: *Jesup*
+**Abbreviated name**: *Jesup* \[standard form in IPNI: *Jesup*\]
 
 #### Herbarium and types
 

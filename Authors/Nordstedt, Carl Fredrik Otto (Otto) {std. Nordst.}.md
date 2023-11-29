@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 768](https://www.biodiversitylibrary.org/page/33355855) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 768](https://www.biodiversitylibrary.org/page/33355855) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24149-1), [Wikidata](https://www.wikidata.org/wiki/Q6015981). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nordstedt, Carl Fredrik Otto \["Otto"\] (1838-1924), Swedish phycologist of independent means; med. fil. kand. Lund 1861; amanuensis at the Lund botanical institute 1878-1886; curator at id. 1886-1909; Dr. phil. h.c. Lund 1881; Prof. id. 1903. 
-**Abbreviated name**: *Nordst.*
+**Abbreviated name**: *Nordst.* \[standard form in IPNI: *Nordst.*\]
 
 #### Herbarium and types
 

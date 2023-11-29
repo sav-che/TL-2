@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 864](https://www.biodiversitylibrary.org/page/33120995) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 864](https://www.biodiversitylibrary.org/page/33120995) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2853-1), [Wikidata](https://www.wikidata.org/wiki/Q766363). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fougeroux de Bondaroy, Auguste Denis (1732-1789), French agronomist and botanist, nephew of Duhamel du Monceau. 
-**Abbreviated name**: *Foug.*
+**Abbreviated name**: *Foug.* \[standard form in IPNI: *Foug.*\]
 
 #### Herbarium and types
 

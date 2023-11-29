@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33355756) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33355756) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6809-1), [Wikidata](https://www.wikidata.org/wiki/Q761545). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Murray, Johan Andreas (Anders) (1740-1791), Swedish botanist; pupil of Linnaeus 1756-1760; studied at Göttingen 1760-1763; Dr. med. ib. 1763; professor of medicine and botany at Göttingen 1764 (ordin. 1769)-1791. 
-**Abbreviated name**: *J. A. Murray*
+**Abbreviated name**: *J. A. Murray* \[standard form in IPNI: *Murray*\]
 
 #### Herbarium and types
 

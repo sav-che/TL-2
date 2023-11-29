@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33333689) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 550](https://www.biodiversitylibrary.org/page/33333689) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9539-1), [Wikidata](https://www.wikidata.org/wiki/Q5890115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shantz, Homer LeRoy (1876-1958), American botanist, agronomist and soil technologist; Dr. phil. Univ. Nebraska 1905; instructor in botany, Colorado Coll. 1901-1902; id. School of Agric, Nebraska 1903-1904, Missouri State Univ. 1905-1906, Louisiana State Univ. 1907; with the Bureau of Plant Industry, USDA 1908-1926; head of the department of botany Univ. Illinois, Urbana 1926-1928; president of the University of Arizona 1928-1936; travelled in Africa 1919-1920 (Smithsonian African Exp.), 1924 and 1958. 
-**Abbreviated name**: *Shantz*
+**Abbreviated name**: *Shantz* \[standard form in IPNI: *Shantz*\]
 
 #### Herbarium and types
 

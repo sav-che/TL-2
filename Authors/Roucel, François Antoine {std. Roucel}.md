@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/page/33190404) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 933](https://www.biodiversitylibrary.org/page/33190404) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8657-1), [Wikidata](https://www.wikidata.org/wiki/Q3083826). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roucel, François Antoine (1736-1831), Belgian (Baden-born) botanist; town physician of Aalst (Flanders, Belgium) from 1777. 
-**Abbreviated name**: *Roucel*
+**Abbreviated name**: *Roucel* \[standard form in IPNI: *Roucel*\]
 
 #### Herbarium and types
 

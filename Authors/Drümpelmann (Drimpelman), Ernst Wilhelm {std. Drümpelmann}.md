@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 683](https://www.biodiversitylibrary.org/page/33120814) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 683](https://www.biodiversitylibrary.org/page/33120814) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/34745-1), [Wikidata](https://www.wikidata.org/wiki/Q16403701). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Drümpelmann \[Drimpelman\], Ernst Wilhelm (1760-1830), German born Latvian botanist. 
-**Abbreviated name**: *Drümpelmann*
+**Abbreviated name**: *Drümpelmann* \[standard form in IPNI: *Drümp.*\]
 
 #### Herbarium and types
 

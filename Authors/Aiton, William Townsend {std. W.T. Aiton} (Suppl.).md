@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33264746) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 57](https://www.biodiversitylibrary.org/page/33264746) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/111-1), [Wikidata](https://www.wikidata.org/wiki/Q1350149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Aiton, William Townsend {std. W.T. Aiton}|first entry]] for this author
 
 ### Author
 
 \* Aiton, William Townsend (1766-1849), British gardener and botanist, son of W. Aiton, went to schools at Chiswick and Camberwell, from 1782 with his father at Kew learning gardening and botany, succeeded his father in charge of Kew Gardens, appointed "His Majesty's gardener" at Kew and Richmond 1796, also in charge of laying out gardens in Brighton, in London (Buckingham palace), Windsor, sometime "by Royal warrant Director-general of all Royal Gardens and Plantations", later in charge only of the "Botanic Garden and Pleasure grounds at Kew" until 1841. 
-**Abbreviated name**: *W.T. Aiton*
+**Abbreviated name**: *W.T. Aiton* \[standard form in IPNI: *W.T.Aiton*\]
 
 #### Herbarium and types
 

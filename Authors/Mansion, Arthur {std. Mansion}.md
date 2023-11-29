@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33355369) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 282](https://www.biodiversitylibrary.org/page/33355369) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22873-1), [Wikidata](https://www.wikidata.org/wiki/Q21519912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mansion, Arthur (1863-1905), Belgian bryologist; Dr. sei. Liège; high school teacher at Huy and, from 1902, at Namur. 
-**Abbreviated name**: *Mansion*
+**Abbreviated name**: *Mansion* \[standard form in IPNI: *Mans.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33190066) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 595](https://www.biodiversitylibrary.org/page/33190066) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8173-1), [Wikidata](https://www.wikidata.org/wiki/Q66514). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rauwolff, Leonhart \[Leonhard Rauwolf\] (1535-1596), German botanist, physician and traveller; M.D. Valence 1562; practiced medicine at Augsburg, Aich and Kempten 1563-1570; city physician Augsburg 1570-1573; travelled in the Near East 1573-1576; again at Augsburg 1576-1588; city physician at Linz 1588-1596; died in Hungary when on a campaign against the Turks. 
-**Abbreviated name**: *Rauwolff*
+**Abbreviated name**: *Rauwolff* \[standard form in IPNI: *Rauwolff*\]
 
 #### Herbarium and types
 

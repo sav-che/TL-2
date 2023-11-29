@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33068293) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 51](https://www.biodiversitylibrary.org/page/33068293) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3644-1), [Wikidata](https://www.wikidata.org/wiki/Q4390878). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hara, Kanesuke (1885-1962), Japanese mycologist and plant pathologist. 
-**Abbreviated name**: *K. Hara*
+**Abbreviated name**: *K. Hara* \[standard form in IPNI: *Hara*\]
 
 #### Herbarium and types
 

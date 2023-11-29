@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33066698) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33066698) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11752-1), [Wikidata](https://www.wikidata.org/wiki/Q90276). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wimmer, Franz Elfried (1881-1961), Austrian botanist and roman-catholic clergyman; studied theology and natural sciences at the Universities of Vienna and Graz; ordained priest 1907; professor of natural history at St. George's College, Istanbul 1905-1918; priest at several localities in and around Vienna 1918-1958, also unofficial research associate of the Vienna Natural History Museum, ultimately "correspondent" of that institution. 
-**Abbreviated name**: *F.E. Wimm.*
+**Abbreviated name**: *F.E. Wimm.* \[standard form in IPNI: *E.Wimm.*\]
 
 #### Herbarium and types
 

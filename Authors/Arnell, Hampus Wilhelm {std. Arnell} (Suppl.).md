@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33264888) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33264888) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/274-1), [Wikidata](https://www.wikidata.org/wiki/Q5559534). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arnell, Hampus Wilhelm {std. Arnell}|first entry]] for this author
 
 ### Author
 
 \* Arnell, Hampus Wilhelm (1848-1932), Swedish botanist and highschool teacher, educated at Härnösand highschool, final examination 1868, at the University of Uppsala 1868, fil. kand. 29 Mai 1872, disputation 18 Mai 1875, Dr. phil. 29 Mai 1875; docent for botany at Uppsala University 1875-1878, highschool teacher for chemistry and physics at Umeå highschool 1878-1879, id. as "adjunkt" at Härnösand 1879; lector natural history and chemistry Jönköping 1880, id. Gärle 1894, id. Uppsala 1901-1913, in retirement in Uppsala, travelled in Scandinavia and Siberia (1877). 
-**Abbreviated name**: *Arnell*
+**Abbreviated name**: *Arnell* \[standard form in IPNI: *Arnell*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33212081) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 13](https://www.biodiversitylibrary.org/page/33212081) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10192-1), [Wikidata](https://www.wikidata.org/wiki/Q6043036). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stojanov \[Stoyanoff\], Nikolai Andreev (1883-1968), White Russian-born Bulgarian botanist; studied at Kiew and Sofia; Dr. phil. München; professor of applied botany at the Institute of agricultural botany of the Agricultural Faculty at Sofia 1923-1936; professor of systematic botany and plant geography at the University of Sofia 1936-1961; later also director of the Botanical Institute of the Bulgarian Academy of Sciences. 
-**Abbreviated name**: *Stoj.*
+**Abbreviated name**: *Stoj.* \[standard form in IPNI: *Stoj.*\]
 
 #### Herbarium and types
 

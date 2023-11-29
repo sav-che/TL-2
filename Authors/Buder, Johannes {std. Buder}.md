@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33266512) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 205](https://www.biodiversitylibrary.org/page/33266512) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/32580-1), [Wikidata](https://www.wikidata.org/wiki/Q99587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buder, Johannes (1884-1966), German botanist, born and educated in Berlin, studied with Pfeffer in Leipzig, assistant ib. 1910, private lecturer (habilitation) ib. 1911, extraordinary professor succeeding Hugo Miehe ib. 1917, director of the Botanical Garden of the Leipzig University 1921-1922, ordinary professor at Greifswald 1922, idem at the University of Breslau and director of its Botanical Garden 1928, in charge of the Botanische Anstalten of Halle 1947. 
-**Abbreviated name**: *Buder*
+**Abbreviated name**: *Buder* \[standard form in IPNI: *Buder*\]
 
 #### Herbarium and types
 

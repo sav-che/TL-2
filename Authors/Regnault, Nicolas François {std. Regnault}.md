@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33190119) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 648](https://www.biodiversitylibrary.org/page/33190119) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8239-1), [Wikidata](https://www.wikidata.org/wiki/Q21607068). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Regnault, Nicolas François (1746-?), French physician and botanist. 
-**Abbreviated name**: *Regnault*
+**Abbreviated name**: *Regnault* \[standard form in IPNI: *Regnault*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33355924) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33355924) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7150-1), [Wikidata](https://www.wikidata.org/wiki/Q21484444). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Oort, Arend Joan Petrus (1903-x), Dutch mycologist; Dr. phil. Utrecht 1930; from 1929-1933 at the Laboratory for plant physiology, Wageningen; 1933-1949 scientist at the Laboratory of mycology, id; 1948-1968 prof. of phytopathology and director of the Laboratory of plant physiology of the Agricultural University of Wageningen; Dr. h.c. Gent 1963. 
-**Abbreviated name**: *Oort*
+**Abbreviated name**: *Oort* \[standard form in IPNI: *Oort*\]
 
 #### Herbarium and types
 

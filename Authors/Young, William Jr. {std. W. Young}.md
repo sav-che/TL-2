@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33066833) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33066833) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11954-1), [Wikidata](https://www.wikidata.org/wiki/Q21613321). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Young, William Jr. (1742-1785), American (German-born) botanist; came to Philadelphia from Cassel (Germany) 1744; nurseryman and gardener at Kingsessing 1761-1764; to England 1764; studied botany and gardening; returned to America 1766 as Queen's botanist and commercial gardener and plant collector; again in England 1768 accompanying a consignment of plants, in the Carolinas 1768, to England 1769-1770, 1771-1772; continued his collecting activities from Philadelphia 1772-1785. 
-**Abbreviated name**: *W. Young*
+**Abbreviated name**: *W. Young* \[standard form in IPNI: *W.Young*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33066840) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33066840) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11974-1), [Wikidata](https://www.wikidata.org/wiki/Q2833235). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zahlbruckner, Alexander (1860-1938), Austrian (Hungarian-born) botanist (lichenologist); studied at Vienna University 1878-1883 with e.g. A. v. Kerner and J. v. Wiesner; Dr. phil. ib. 1883; voluntary assistant with G. Beck at the Vienna Natural History Museum 1883; "Hilfsarbeiter" 1886, assistant 1891, asst. curator 1897, curator 1899, head curator 1912, director 1918-1922; continuing his lichenological work in retirement from 1922; general secretary of the II International Botanical Congress, Vienna 1905; Hofrat 1918; FMLS 1925; corr. memb. Bot. Soc. Amer. 1928. 
-**Abbreviated name**: *Zahlbr.*
+**Abbreviated name**: *Zahlbr.* \[standard form in IPNI: *Zahlbr.*\]
 
 #### Herbarium and types
 

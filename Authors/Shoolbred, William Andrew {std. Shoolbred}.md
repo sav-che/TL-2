@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33333707) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33333707) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9589-1), [Wikidata](https://www.wikidata.org/wiki/Q21608819). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shoolbred, William Andrew (1852-1928), British surgeon and amateur botanist; house surgeon at St. Bartholomew's Hospital; from 1878 at Chepstow as practicing physician. 
-**Abbreviated name**: *Shoolbred*
+**Abbreviated name**: *Shoolbred* \[standard form in IPNI: *Shoolbred*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33069003) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33069003) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/22076-1), [Wikidata](https://www.wikidata.org/wiki/Q15450242). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Larter, Clara Ethelinda (1847-1936), British botanist at Torquay. 
-**Abbreviated name**: *Larter*
+**Abbreviated name**: *Larter* \[standard form in IPNI: *Larter*\]
 
 #### Herbarium and types
 

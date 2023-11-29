@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33258753) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33258753) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3231-1), [Wikidata](https://www.wikidata.org/wiki/Q21514077). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Goffart, Jules \[Léopold Auguste\] (1864-1955), Belgian botanist, born 17 Apr 1864 in Fosses, Dr. ès-sciences naturelles 1903, prof. at Huy, then Liège in 1915, died 26 Jan 1955 in Liège. 
-**Abbreviated name**: *Goffart*
+**Abbreviated name**: *Goffart* \[standard form in IPNI: *Goffart*\]
 
 #### Herbarium and types
 

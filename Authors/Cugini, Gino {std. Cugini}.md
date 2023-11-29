@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33266172) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 495](https://www.biodiversitylibrary.org/page/33266172) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17566-1), [Wikidata](https://www.wikidata.org/wiki/Q21509614). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cugini, Gino (1852-1907), Italian phytopathologist, plant morphologist and mycologist, born at Bagnone, Massa-Carrara, studied at the University of Bologna, assistant in botany 1880, from 1887 Director at the Stazione agraria at Modena. 
-**Abbreviated name**: *Cugini*
+**Abbreviated name**: *Cugini* \[standard form in IPNI: *Cugini*\]
 
 #### Herbarium and types
 

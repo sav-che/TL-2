@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33120957) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33120957) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2698-1), [Wikidata](https://www.wikidata.org/wiki/Q5760146). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fernandez-Villar, Celestino (1838-1907), *Philipplne botanist*. 
-**Abbreviated name**: *Fern.-Vill.*
+**Abbreviated name**: *Fern.-Vill.* \[standard form in IPNI: *Fern.-Vill.*\]
 
 #### Types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33333632) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33333632) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9443-1), [Wikidata](https://www.wikidata.org/wiki/Q4190175). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seidlitz, Nicolai \[Karl Samuel\] von (1831-1907), Latvian (Baltic-German) botanist and statistician; studied botany at Dorpat 1852-1854; travelled in the Caucasus and Persia 1855-1857; Mag. bot. Dorpat 1858; director of a serilogical school in Nucha (Transkaukasia) 1858-1863; with the surveyors office of the Caucasus 1866-1868; with the Office of Statistics at Tiflis 1868-1877, later judge at Tiflis. 
-**Abbreviated name**: *Seidlitz*
+**Abbreviated name**: *Seidlitz* \[standard form in IPNI: *Seidlitz*\]
 
 #### Herbarium and types
 

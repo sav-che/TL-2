@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33258922) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33258922) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3456-1), [Wikidata](https://www.wikidata.org/wiki/Q18985155). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gugerli, Karl (1910-x), Swiss botanist, born 17 Mar 1910 in Zurich, Ph.D. 1940 Univ. of Zurich. 
-**Abbreviated name**: *Gugerli*
+**Abbreviated name**: *Gugerli* \[standard form in IPNI: *Gugerli*\]
 
 #### Herbarium and types
 

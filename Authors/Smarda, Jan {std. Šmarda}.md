@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33333796) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 657](https://www.biodiversitylibrary.org/page/33333796) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26899-1), [Wikidata](https://www.wikidata.org/wiki/Q21609041). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smarda, Jan (1904-1968), Moravian bryologist; Dr. sci. nat. Brno 1938; lecturer (1946) and professor of systematic botany (1954) at the University of Brno; from 1962 working in the Geographical Institute of the Academy of Sciences of CSR. 
-**Abbreviated name**: *Šmarda*
+**Abbreviated name**: *Šmarda* \[standard form in IPNI: *Šmarda*\]
 
 #### Herbarium and types
 

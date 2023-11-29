@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1007](https://www.biodiversitylibrary.org/page/33190478) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1007](https://www.biodiversitylibrary.org/page/33190478) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8759-1), [Wikidata](https://www.wikidata.org/wiki/Q15624698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rutenberg, Diedrich Christian (1851-1878), German (Bremen) plant collector and traveller; studied natural sciences at Jena with E. Häckel; travelled to South Africa 1877 (Cape, Orange Free State, Transvaal, and Madagascar 1877-1878; murdered by his Sakalava carriers while exploring the Meningaza river. 
-**Abbreviated name**: *Rulenberg*
+**Abbreviated name**: *Rulenberg* \[standard form in IPNI: *Rutenb.*\]
 
 #### Herbarium and types
 

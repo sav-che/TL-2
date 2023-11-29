@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33066720) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33066720) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/28843-1), [Wikidata](https://www.wikidata.org/wiki/Q4111929). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winter, \[Heinrich\] Georg (1848-1887), German (Sachsen) mycologist, son of the publisher Adolph Winter; trained to succeed his father as publisher in Leipzig and Giessen; studied natural sciences at the University of Leipzig 1870-1872; id. München 1872-1873 and Halle 1873; Dr. phil. Leipzig 1873; lecturer for botany at the Zürich Polytechnic 1876-1883, habil. ib. 1878; editor of Hedwigia 1879-1887; from 1883 in Leipzig in charge of the publication of the fungi for the second edition of Rabenhorst's Kryptogamenflora. 
-**Abbreviated name**: *G. Wint.*
+**Abbreviated name**: *G. Wint.* \[standard form in IPNI: *G.Winter*\]
 
 #### Herbarium and types
 

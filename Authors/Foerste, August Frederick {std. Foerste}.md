@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33120981) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33120981) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2799-1), [Wikidata](https://www.wikidata.org/wiki/Q4820694). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Foerste, August Frederick (1862-1936), American palaeobiologist. 
-**Abbreviated name**: *Foerste*
+**Abbreviated name**: *Foerste* \[standard form in IPNI: *Foerste*\]
 
 #### Collections
 

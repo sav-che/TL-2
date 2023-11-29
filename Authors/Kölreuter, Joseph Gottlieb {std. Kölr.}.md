@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33068841) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 599](https://www.biodiversitylibrary.org/page/33068841) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12619-1), [Wikidata](https://www.wikidata.org/wiki/Q64281). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kölreuter, Joseph Gottlieb (1733-1806), German botanist; early student of flower biology and of hybridization; Dr. med. Tübingen 1756; until 1761 at St. Petersburg; until 1763 at Calw; from then on director of the botanical garden at Karlsruhe. 
-**Abbreviated name**: *Kölr.*
+**Abbreviated name**: *Kölr.* \[standard form in IPNI: *Kölr.*\]
 
 #### Herbarium and types
 

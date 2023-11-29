@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33212317) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33212317) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10597-1), [Wikidata](https://www.wikidata.org/wiki/Q6783532). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomas, Mason Blanchard (1866-1912), American botanist; B.S. Cornell Univ. 1890; professor of biology at Wabash College, Crawfordsville, Indiana, succeeding John M. Coulter, 1891-1895; professor of botany ib. 1895-1912; dean of the Faculty 1904-1912. 
-**Abbreviated name**: *M.B. Thomas*
+**Abbreviated name**: *M.B. Thomas* \[standard form in IPNI: *M.B.Thomas*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/page/33120940) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 809](https://www.biodiversitylibrary.org/page/33120940) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18621-1), [Wikidata](https://www.wikidata.org/wiki/Q313348). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fabre, Jean-Henri (Casimir) {std. Fabre} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fabre, Jean Henri Casimir (1823-1915), French entomologist and mycologist. 
-**Abbreviated name**: *Fabre*
+**Abbreviated name**: *Fabre* \[standard form in IPNI: *Fabre*\]
 
 #### Herbarium and types
 

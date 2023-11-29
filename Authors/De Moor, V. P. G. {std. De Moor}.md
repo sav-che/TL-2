@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33120752) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 621](https://www.biodiversitylibrary.org/page/33120752) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2122-1), [Wikidata](https://www.wikidata.org/wiki/Q3557502). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[De Moor, V.P.G. {std. De Moor} (Suppl.)|second entry]] for this author
 
 ### Author
 
 De Moor, V. P. G. (1827-1895), Belgian botanist and government veterinarian. 
-**Abbreviated name**: *De Moor*
+**Abbreviated name**: *De Moor* \[standard form in IPNI: *De Moor*\]
 
 #### Herbarium and types
 

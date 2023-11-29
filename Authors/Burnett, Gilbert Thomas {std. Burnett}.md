@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33266565) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33266565) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1310-1), [Wikidata](https://www.wikidata.org/wiki/Q612297). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Burnett, Gilbert Thomas (1800-1835), British Professor of Botany at King's College London 1831 and at Chelsea 1835. 
-**Abbreviated name**: *Burnett*
+**Abbreviated name**: *Burnett* \[standard form in IPNI: *Burnett*\]
 
 #### Herbarium and types
 

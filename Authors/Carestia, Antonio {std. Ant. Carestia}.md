@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33266719) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33266719) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/14308-1), [Wikidata](https://www.wikidata.org/wiki/Q1111111). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Carestia, Antonio (1825-1908), Italian priest and botanist, born 2 Feb 1825 in Riva Valdobbia, died 12 Mar 1908 in Riva Valdobbia (Valsesia), from 1891 priest in Varallo (Piemonto), from 1908 in Valle Vogogna Valsesia (Novara). 
-**Abbreviated name**: *Ant. Carestia*
+**Abbreviated name**: *Ant. Carestia* \[standard form in IPNI: *Carestia*\]
 
 #### Herbarium and types
 

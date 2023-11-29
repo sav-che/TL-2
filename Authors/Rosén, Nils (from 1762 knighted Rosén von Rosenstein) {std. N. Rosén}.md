@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/page/33190359) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/page/33190359) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8591-1), [Wikidata](https://www.wikidata.org/wiki/Q1371153). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rosén, Nils (from 1762 knighted Rosén von Rosenstein) (1706-1773), Swedish botanist; studied at Lund; Dr. med. Harderwijk (Netherlands) 1730; professor of medicine (incl. botany) at Uppsala 1740-1742, preceding C. Linnaeus; professor of practical medicine Uppsala 1742; arkiater (royal physician) 1746; librarian Uppsala univ. library 1756-1757; brother of Eberhard Rosén. 
-**Abbreviated name**: *N. Rosén*
+**Abbreviated name**: *N. Rosén* \[standard form in IPNI: *N.Rosén*\]
 
 #### Herbarium and types
 

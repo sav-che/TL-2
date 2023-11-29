@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33259219) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33259219) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/12403-1), [Wikidata](https://www.wikidata.org/wiki/Q21510162). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Delavigne, Gislain Francois (x-1805), French immigrant in Germany, studied in Erlangen and Göttingen, later professor in botany at Charkow. 
-**Abbreviated name**: *Delavigne*
+**Abbreviated name**: *Delavigne* \[standard form in IPNI: *Delavigne*\]
 
 #### Herbarium and types
 

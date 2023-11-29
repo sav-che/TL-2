@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33068735) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 493](https://www.biodiversitylibrary.org/page/33068735) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12596-1), [Wikidata](https://www.wikidata.org/wiki/Q19856704). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kane, Lady Katherine Sophia (née Bailey) (1811-1886), Irish botanist, married to Sir Robert Kane (1838). 
-**Abbreviated name**: *Kane*
+**Abbreviated name**: *Kane* \[standard form in IPNI: *Kane*\]
 
 #### Herbarium and types
 

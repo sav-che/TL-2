@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33258943) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33258943) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3494-1), [Wikidata](https://www.wikidata.org/wiki/Q18985192). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gustafsson, Carl Emil (1868-1939), Swedish botanist, in Trälleborg (Trelleborg) ca. 1921. 
-**Abbreviated name**: *Gust.*
+**Abbreviated name**: *Gust.* \[standard form in IPNI: *Gust.*\]
 
 #### Herbarium and types
 

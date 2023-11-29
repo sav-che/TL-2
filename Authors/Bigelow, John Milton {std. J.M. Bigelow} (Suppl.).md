@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33265360) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33265360) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/784-1), [Wikidata](https://www.wikidata.org/wiki/Q1701108). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bigelow, John Milton {std. J.M. Bigelow}|first entry]] for this author
 
 ### Author
 
 \* Bigelow, John Milton (1804-1878), American surgeon and botanist, attended Medical College of Ohio, Cincinnati, graduated 1832, practising physician from 1832 e.g. in Lancaster, Ohio, surgeon to the Mexican Boundary Commission 1850, surgeon and botanist to the expedition of the Pacific Railroad Survey under Lieutenant A.W. Whipple (from Fort Smith, Arkansas to San Pedro, California 1853), collected further in California 1853, returned to eastern North America 1853 (c.q. 1854) and took up his practice in Lancaster, Ohio, removed to Detroit ca. 1860-1861 as professor of botany and pharmacy at Detroit Medical College, from 1868 surgeon to the Marine Hospital in Detroit. 
-**Abbreviated name**: *J.M. Bigelow*
+**Abbreviated name**: *J.M. Bigelow* \[standard form in IPNI: *J.M.Bigelow*\]
 
 #### Herbarium and types
 

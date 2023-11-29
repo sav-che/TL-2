@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33258559) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33258559) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/13065-1), [Wikidata](https://www.wikidata.org/wiki/Q5739033). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Furtado, Caetano \[Cajetano\] Xavier dos Remedios (1897-1980), Indian botanist, born 14 Oct 1897 in Merces, Goa, studied agriculture at the Agricultural College in Poona, B.Sc. 1921, worked in Burma (now Myanmar) for a short time as asst. botanist, joined the Singapore Botanic Garden in 1923 as field asst., later as botanist, Dr. Sci. 1940 Univ. of Bombay, retired 1952 but rehired until 1960, specialist in palms, Araceae and nomenclature, died 13 Jun 1980 in Singapore. 
-**Abbreviated name**: *Furtado*
+**Abbreviated name**: *Furtado* \[standard form in IPNI: *Furtado*\]
 
 #### Herbarium and types
 

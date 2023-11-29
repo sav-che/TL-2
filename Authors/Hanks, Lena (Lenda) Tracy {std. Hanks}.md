@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33068287) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 45](https://www.biodiversitylibrary.org/page/33068287) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3620-1), [Wikidata](https://www.wikidata.org/wiki/Q5972713). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hanks, Lena (Lenda) Tracy (1879-1944), American algologist, high school teacher at New York. 
-**Abbreviated name**: *Hanks*
+**Abbreviated name**: *Hanks* \[standard form in IPNI: *Hanks*\]
 
 #### Herbarium and types
 

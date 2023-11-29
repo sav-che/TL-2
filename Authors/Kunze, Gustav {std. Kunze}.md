@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33068944) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33068944) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21870-1), [Wikidata](https://www.wikidata.org/wiki/Q65400). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kunze, Gustav (1793-1851), German botanist; Dr. med. Leipzig 1819; from 1837-1851 director of the Leipzig botanical garden; professor of botany at Leipzig University (1835); induced his pupil Willkomm to go to Spain. 
-**Abbreviated name**: *Kunze*
+**Abbreviated name**: *Kunze* \[standard form in IPNI: *Kunze*\]
 
 #### Herbarium and types
 

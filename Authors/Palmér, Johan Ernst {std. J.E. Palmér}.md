@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33189464) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33189464) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7285-1), [Wikidata](https://www.wikidata.org/wiki/Q21522573). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palmér, Johan Ernst (1863-1946), Swedish farmer and botanist at Tånga (Bohuslän), later at Ör (Dalsland). 
-**Abbreviated name**: *J.E. Palmér*
+**Abbreviated name**: *J.E. Palmér* \[standard form in IPNI: *J.E.Palmér*\]
 
 #### Herbarium and types
 

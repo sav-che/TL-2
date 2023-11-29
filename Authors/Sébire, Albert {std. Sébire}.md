@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33333608) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 469](https://www.biodiversitylibrary.org/page/33333608) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9409-1), [Wikidata](https://www.wikidata.org/wiki/Q21608587). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sébire, Albert (1863-1936), French botanist and clergyman (Pères du Saint-Esprit); had an experimental garden at Thiés, Sénégal from 1887-ca. 1925(?); in retirement in Belgium. 
-**Abbreviated name**: *Sébire*
+**Abbreviated name**: *Sébire* \[standard form in IPNI: *Sébire*\]
 
 #### Herbarium and types
 

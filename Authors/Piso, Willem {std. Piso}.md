@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33189747) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33189747) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7729-1), [Wikidata](https://www.wikidata.org/wiki/Q1385325). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Piso, Willem (ca. 1611-1678), Dutch physician, pharmacist and botanist; M.D. Caen 1633; practicing physician at Amsterdam; in Brazil as physician of the Dutch settlement (1633-1644) with Johan Maurits van Nassau. 
-**Abbreviated name**: *Piso*
+**Abbreviated name**: *Piso* \[standard form in IPNI: *Piso*\]
 
 #### Herbarium and types
 

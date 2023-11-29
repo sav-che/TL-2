@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2004-04-15 08:14:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33355895) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33355895) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24229-1), [Wikidata](https://www.wikidata.org/wiki/Q491270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Örsted, Anders Sandö (Ørsted, Oersted) (1816-1872), Danish botanist and zoologist; Dr. phil. København 1854; high school teacher at København 1839-1844, travelled in Central America 1845-1848; lecturer, later professor of botany at the University of København 1851-1862. 
-**Abbreviated name**: *orst.*
+**Abbreviated name**: *orst.* \[standard form in IPNI: *Oerst.*\]
 
 #### Herbarium and types
 

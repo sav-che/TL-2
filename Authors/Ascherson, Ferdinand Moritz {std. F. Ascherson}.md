@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33120203) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33120203) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/306-1), [Wikidata](https://www.wikidata.org/wiki/Q21505375). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ascherson, Ferdinand Moritz {std. F. Ascherson} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Ascherson, Ferdinand Moritz (1798-1879), German physician and mycologist, father of P. F. A. Ascherson. 
-**Abbreviated name**: *F. Ascherson*
+**Abbreviated name**: *F. Ascherson* \[standard form in IPNI: *F.Asch.*\]
 
 #### Herbarium and types
 

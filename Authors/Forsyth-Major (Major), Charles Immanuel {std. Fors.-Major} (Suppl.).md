@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33259833) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33259833) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2838-1), [Wikidata](https://www.wikidata.org/wiki/Q116027). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Major, Charles Immanuel Forsyth (Forsyth Major) {std. Fors.-Major}|first entry]] for this author
 
 ### Author
 
 \* Forsyth-Major \[Major\], Charles Immanuel (1843-1923), Swiss-born British botanist, paleontologist and physician of Scottish descent, born 15 Aug 1843 in Basel, educated in Basel, Göttingen and Zurich universities, M.D. 1868 Basel, practiced medicine in Florence, but also studied fossil mammals, collected fossil vertebrates for the Italian government 1877, abandoned his medical practice 1886 to devote himself solely to scientific research, from 1886-1889 collected in Greece and collaborated with W. Barbey and others in publishing on the geology, paleontology and botany of the Ionian Isls., moved to London 1893, collected plants, animals and fossils in Madagascar 1894-1896 for the BMNH, F.R.S. 1908, retired to Corisca 1908, died 25 Mar 1923 in Kaufbeuren (Bavaria). 
-**Abbreviated name**: *Fors.-Major*
+**Abbreviated name**: *Fors.-Major* \[standard form in IPNI: *Fors.-Major*\]
 
 #### Note
 

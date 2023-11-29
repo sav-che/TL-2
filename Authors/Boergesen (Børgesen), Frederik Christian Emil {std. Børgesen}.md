@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-02-13 11:38:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33120379) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33120379) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16345-1), [Wikidata](https://www.wikidata.org/wiki/Q4992249). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Børgesen (Boerg., Börg.), Frederik Christian Emil {std. Børgesen} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Boergesen (Børgesen), Frederik Christian Emil (1866-1956), Danish cryptogamist who collected in the Danish West Indies. 
-**Abbreviated name**: *Boerg.*
+**Abbreviated name**: *Boerg.* \[standard form in IPNI: *Børgesen*\]
 
 #### Herbarium and types
 

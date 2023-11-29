@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33190274) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33190274) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8417-1), [Wikidata](https://www.wikidata.org/wiki/Q36655188). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rittershausen, Paul (*fl*. 1892), German (Hessen-Nassau) botanist; Dr. phil. Erlangen 1892. 
-**Abbreviated name**: *Rittershausen*
+**Abbreviated name**: *Rittershausen* \[standard form in IPNI: *Rittersh.*\]
 
 #### Herbarium and types
 

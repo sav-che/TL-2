@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33333237) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33333237) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9000-1), [Wikidata](https://www.wikidata.org/wiki/Q1612559). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schacht, Hermann (1814-1864), German (Hamburg) botanist; studied pharmacy at Altona (Holstein); practiced at Braunschweig, Hamburg, Emmerich, Aachen and at Altona until 1847; studied at Jena 1841-1842; assistant with M. Schleiden 1847; Dr. phil. Jena 1850; in Berlin 1850, as private lecturer from 1853-1860; on Madeira for health reasons 1855-1857; professor of botany and director of the botanical garden at Bonn 1860-1864; worked mainly on plant anatomy and embryology. 
-**Abbreviated name**: *Schacht*
+**Abbreviated name**: *Schacht* \[standard form in IPNI: *Schacht*\]
 
 #### Herbarium and types
 

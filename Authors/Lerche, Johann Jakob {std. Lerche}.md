@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33069088) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33069088) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5493-1), [Wikidata](https://www.wikidata.org/wiki/Q21518696). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lerche, Johann Jakob (1703-1780), German-born Russian military physician and botanist at St. Petersburg. 
-**Abbreviated name**: *Lerche*
+**Abbreviated name**: *Lerche* \[standard form in IPNI: *Lerche*\]
 
 #### Herbarium and types
 

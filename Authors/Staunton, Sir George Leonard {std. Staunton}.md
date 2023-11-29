@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33333988) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33333988) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10042-1), [Wikidata](https://www.wikidata.org/wiki/Q946151). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Staunton, Sir George Leonard (1737-1801), English physician and diplomat; practiced in the West-Indies 1762-1770, in Grenada 1772-1779; secretary to Lord Macartney in Madras 1781-1784 and in China 1792-1794; collected plants in China. 
-**Abbreviated name**: *Staunton*
+**Abbreviated name**: *Staunton* \[standard form in IPNI: *Staunton*\]
 
 #### Herbarium and types
 

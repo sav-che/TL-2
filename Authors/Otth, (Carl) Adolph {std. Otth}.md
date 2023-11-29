@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33355944) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 857](https://www.biodiversitylibrary.org/page/33355944) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12717-1), [Wikidata](https://www.wikidata.org/wiki/Q115917). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Otth, \[Carl\] Adolph (1803-1839), Swiss physician and naturalist; pupil of A.-P. de Candolle; collaborator of Seringe; physician at Bern, travelling widely; died of the plague while in Jerusalem. 
-**Abbreviated name**: *Otth*
+**Abbreviated name**: *Otth* \[standard form in IPNI: *Otth*\]
 
 #### Herbarium and types
 

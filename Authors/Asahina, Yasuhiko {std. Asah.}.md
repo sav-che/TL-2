@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33120203) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33120203) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/302-1), [Wikidata](https://www.wikidata.org/wiki/Q11092558). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Asahina, Yasuhiko {std. Asah.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Asahina, Yasuhiko (1881-1975), Japanese lichenologist. 
-**Abbreviated name**: *Asah.*
+**Abbreviated name**: *Asah.* \[standard form in IPNI: *Asahina*\]
 
 #### Herbarium and types
 

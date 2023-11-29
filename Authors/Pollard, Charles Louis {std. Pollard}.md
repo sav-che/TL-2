@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33189800) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 329](https://www.biodiversitylibrary.org/page/33189800) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7815-1), [Wikidata](https://www.wikidata.org/wiki/Q5764928). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pollard, Charles Louis (1872-1945), American botanist; AM Colombia Univ. 1894; curator of plants U.S. natl. Mus. 1895-1903. 
-**Abbreviated name**: *Pollard*
+**Abbreviated name**: *Pollard* \[standard form in IPNI: *Pollard*\]
 
 #### Herbarium and types
 

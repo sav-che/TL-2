@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33333894) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33333894) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9916-1), [Wikidata](https://www.wikidata.org/wiki/Q3592366). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Soulange-Bodin, Étienne chevalier (1774-1846), French horticulturist, politician and diplomat; educated at the Collège de Tours; in various diplomatic functions during the Napoleonic period; retired to Fromont after 1813; co-founder and general secretary of the Société d'Horticulture, Paris 1827, later idem of the Société royale et centrale d'Agriculture and president of the Société linnéenne de Paris. 
-**Abbreviated name**: *Soul.-Bod.*
+**Abbreviated name**: *Soul.-Bod.* \[standard form in IPNI: *Soul.-Bod.*\]
 
 #### Herbarium and types
 

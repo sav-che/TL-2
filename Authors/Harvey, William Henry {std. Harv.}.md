@@ -31,14 +31,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33068312) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33068312) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3705-1), [Wikidata](https://www.wikidata.org/wiki/Q1378128). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Harvey, William Henry (1811-1866), Irish botanist; colonial treasurer at the Cape 1836-1841; curator of TCD 1843; professor of botany Dublin 1856; traveller in the United States (1849-1850), South Africa (1835-1841), and Australia, New Zealand and Fiji (1853-1856). 
-**Abbreviated name**: *Harv.*
+**Abbreviated name**: *Harv.* \[standard form in IPNI: *Harv.*\]
 
 #### Herbarium and types
 

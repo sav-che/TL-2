@@ -25,16 +25,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33265352) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33265352) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/766-1), [Wikidata](https://www.wikidata.org/wiki/Q658494). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Biasoletto, Bartolommeo {std. Biasol.}|first entry]] for this author
 
 ### Author
 
 \* Biasoletto, Bartolomeo \[Amadeo\] (1793-1858), Italian pharmacist and botanist, born at Dignano d'Istria as son of a farmer, educated by the local priest, pharmacy student with an apothecary at Dignano, practicing pharmacist at Trieste, later owner of the pharmacy All'Orsonero, studied with N.J. Jacquin at the University of Vienna 1812-1814, Dr. phil. Padua 1823, travelled in Istria, Dalmatia and Montenegro with August von Sachsen. 
-**Abbreviated name**: *Biasol.*
+**Abbreviated name**: *Biasol.* \[standard form in IPNI: *Biasol.*\]
 
 #### Herbarium and types
 

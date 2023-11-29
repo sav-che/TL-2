@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33333983) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 844](https://www.biodiversitylibrary.org/page/33333983) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10031-1), [Wikidata](https://www.wikidata.org/wiki/Q21609538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Starcs, Karlis (1897-1953), Latvian botanist; Mag. rev. nat. Latvian Univ., Riga 1936; botanist at the Bio-entomological station of the Latvian Dept. of Agriculture 1919, soon afterwards (ca. 1922) until 1944 botanist at the Latvian Institute of Plant Protection; displaced 1944, at Weimar 1945; with the UNRRA Univ. at München 1946-1949; in D.P. camps in Bavaria 1945-1950; from 1950-1953 in the United States as gardener in Indianapolis. 
-**Abbreviated name**: *Starcs*
+**Abbreviated name**: *Starcs* \[standard form in IPNI: *Starcs*\]
 
 #### Herbarium and types
 

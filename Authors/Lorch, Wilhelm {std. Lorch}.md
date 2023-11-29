@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33355242) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33355242) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22532-1), [Wikidata](https://www.wikidata.org/wiki/Q15989582). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lorch, Wilhelm (1867-1954), German botanist; studied at München; high school teacher at Berlin. 
-**Abbreviated name**: *Lorch*
+**Abbreviated name**: *Lorch* \[standard form in IPNI: *Lorch*\]
 
 #### Herbarium and types
 

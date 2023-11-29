@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33066810) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33066810) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11895-1), [Wikidata](https://www.wikidata.org/wiki/Q36601915). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wuensche, Johann Georg (*fl*. 1804), German (Prussian-Saxony) physician and botanist at Wittenberg. 
-**Abbreviated name**: *J. Wuensche*
+**Abbreviated name**: *J. Wuensche* \[standard form in IPNI: *J.Wuensche*\]
 
 #### Herbarium and types
 

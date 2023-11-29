@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33265579) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33265579) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16398-1), [Wikidata](https://www.wikidata.org/wiki/Q3339971). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boulay, Abbé Jean Nicolas {std. Boulay}|first entry]] for this author
 
 ### Author
 
 \* Boulay, Nicolas-Jean (1837-1905), French clergyman and botanist (ecologist, systematist, specialized in bryophytes), ordained priest 1861, vicar at Rambervillers, later professor at the Petit Séminaire de Saint-Dié, professor of natural philosophy at the Collège ecclésiastique de l'Assomption à Nîmes 1872, at the École Belzunce at Marseille 1874, Lic. Sci. 1874, Dr. phil. Caen 1876, professor of botany at the Catholic Science faculty at the University of Lille 1876-1905. 
-**Abbreviated name**: *Boulay*
+**Abbreviated name**: *Boulay* \[standard form in IPNI: *Boulay*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33068759) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 517](https://www.biodiversitylibrary.org/page/33068759) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4711-1), [Wikidata](https://www.wikidata.org/wiki/Q8004607). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kellerman, William Ashbrook (1850-1908), American botanist and mycologist, studied at Cornell and Zürich, high school teacher at the Oshkosh State Normal School, Wisconsin (1874-1879), worked for his degree at Zürich (1879-1881), professor of botany at the University of Kentucky, Lexington (1881-1883), id. at Kansas State College of Agriculture, Manhattan (1883-1891), id. at Ohio State University, Columbus (1891-1908); died while botanizing in Guatemala. 
-**Abbreviated name**: *Kellerm.*
+**Abbreviated name**: *Kellerm.* \[standard form in IPNI: *Kellerm.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33333167) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 16](https://www.biodiversitylibrary.org/page/33333167) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8859-1), [Wikidata](https://www.wikidata.org/wiki/Q21337757). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Salwey, Thomas (1791-1877), British clergyman and lichenologist; BD Cambridge; rector Oswestry, Shropshire 1833-1872. 
-**Abbreviated name**: *Salwey*
+**Abbreviated name**: *Salwey* \[standard form in IPNI: *Salwey*\]
 
 #### Herbarium and types
 

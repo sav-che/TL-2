@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33212554) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 512](https://www.biodiversitylibrary.org/page/33212554) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10860-1), [Wikidata](https://www.wikidata.org/wiki/Q18911692). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 True, Rodney Howard (1866-1940), American botanist; student of W.F.P. Pfeffer 1893-1895; Dr. phil. Leipzig 1895; lecturer in pharmacognostic botany, Univ. Wisconson, Madison 1895; assistant professor ib. 1896-1899; lecturer in botany at Harvard 1899-1901; plant physiologist with USDA 1902-1920; professor of botany at Pennsylvania 1920-1937 and director Morris Arboretum ib. 1932-1940. 
-**Abbreviated name**: *True*
+**Abbreviated name**: *True* \[standard form in IPNI: *True*\]
 
 #### Herbarium and types
 

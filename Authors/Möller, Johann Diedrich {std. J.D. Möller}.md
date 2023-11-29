@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33355622) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 535](https://www.biodiversitylibrary.org/page/33355622) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6548-1), [Wikidata](https://www.wikidata.org/wiki/Q1693232). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Möller, Johann Diedrich (1844-1907), German (Holstein) botanical technician at Wedel, Holst., collaborator of P. T. Cleve. 
-**Abbreviated name**: *J. D. Möller*
+**Abbreviated name**: *J. D. Möller* \[standard form in IPNI: *J.D.Möller*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/page/33120826) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 695](https://www.biodiversitylibrary.org/page/33120826) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2363-1), [Wikidata](https://www.wikidata.org/wiki/Q1355541). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dujardin, Félix (1801-1860), French invertebrate zoologist and botanist at Rennes. 
-**Abbreviated name**: *Dujard.*
+**Abbreviated name**: *Dujard.* \[standard form in IPNI: *Dujard.*\]
 
 #### Collections
 

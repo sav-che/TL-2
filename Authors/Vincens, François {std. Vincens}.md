@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33212790) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33212790) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/28383-1), [Wikidata](https://www.wikidata.org/wiki/Q21611775). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vincens, François (1880-1925), French botanist; "préparateur" at the Faculty of Sciences, Toulouse 1909-1913; in Brazil 1913-1914; on active service 1914-1915; studied at the Muséum d'Histoire naturelle 1915-1919; Dr. phil. Paris 1917; director of the Laboratoire de Pathologie végétale, Saigon 1919-1921; engaged in bee-research at Cagnes and Montpellier 1921-1924; at the University of Algeria 1924-1925. 
-**Abbreviated name**: *Vincens*
+**Abbreviated name**: *Vincens* \[standard form in IPNI: *Vincens*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265499) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33265499) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/941-1), [Wikidata](https://www.wikidata.org/wiki/Q5937120). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bommer, Joseph (Jean) Édouard {std. J. Bommer}|first entry]] for this author
 
 ### Author
 
 \* Bommer, Jean-Édouard (1829-1895), Belgian pteridologist, self-taught botanist, curator of the collections of the Jardin botanique de Bruxelles 1855, id. at the Jardin botanique national de Belgique from 1870, also from 1855 curator of the collections of the Société royale d'Horticulture de Belgique, from 1872 professor of botany at the University of Bruxelles. 
-**Abbreviated name**: *J. Bommer*
+**Abbreviated name**: *J. Bommer* \[standard form in IPNI: *J.Bommer*\]
 
 #### Herbarium and types
 

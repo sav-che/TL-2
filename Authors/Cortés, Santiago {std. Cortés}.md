@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-09-17 22:27:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33266060) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33266060) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1816-1), [Wikidata](https://www.wikidata.org/wiki/Q20014256). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cortés, Santiago (1854-1924), Colombian botanist, published in the Revista médica de Bogotá. 
-**Abbreviated name**: *Cortés*
+**Abbreviated name**: *Cortés* \[standard form in IPNI: *Cortés*\]
 
 #### Herbarium and types
 

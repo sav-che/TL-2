@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33265034) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33265034) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/435-1), [Wikidata](https://www.wikidata.org/wiki/Q21505607). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Balsamo, Francesco {std. Balsamo}|first entry]] for this author
 
 ### Author
 
 \* Balsamo, Francesco (1850-1922), Italian botanist (algologist), educated at Napoli, Dipl. Sci. nat. Univ. Napoli 1874, associated with the Napoli Botanical Garden and its director V. de Cesati until 1881, assistant ib. 1881-1882, idem with Pasquale at the Botanical Institute, later idem with E. Delpino, professor of biology id. 1900. 
-**Abbreviated name**: *Balsamo*
+**Abbreviated name**: *Balsamo* \[standard form in IPNI: *Balsamo*\]
 
 #### Herbarium and types
 

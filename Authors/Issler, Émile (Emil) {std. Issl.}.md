@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33068631) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33068631) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4325-1), [Wikidata](https://www.wikidata.org/wiki/Q15622058). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Issler, Émile (Emil) (1872-1952), Alsatian botanist at Colmar. 
-**Abbreviated name**: *Issl.*
+**Abbreviated name**: *Issl.* \[standard form in IPNI: *Issler*\]
 
 #### Herbarium and types
 

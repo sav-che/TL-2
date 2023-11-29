@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33068600) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33068600) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12565-1), [Wikidata](https://www.wikidata.org/wiki/Q526673). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hügel, Karl Alexander Anselm, Freiherr von (1794/1796-1870), German born Austrian soldier, statesman, horticulturist, and traveller; from 1830-1837 collecting in Australasia; 1837-1849 in Vienna; ambassador in Florence 1849-1859; in Brussels 1860-1869. 
-**Abbreviated name**: *Hügel*
+**Abbreviated name**: *Hügel* \[standard form in IPNI: *Hügel*\]
 
 #### Herbarium
 

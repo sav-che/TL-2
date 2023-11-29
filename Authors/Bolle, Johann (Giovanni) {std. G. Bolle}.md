@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265493) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33265493) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/20002750-1), [Wikidata](https://www.wikidata.org/wiki/Q21506260). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bolle, Johann \[Giovanni\] (1850-?), Triest born viniculturist and agriculturist at the Experiment Station for viniculture at Gorizia (Görz, Goritz) in Slovenia. 
-**Abbreviated name**: *G. Bolle*
+**Abbreviated name**: *G. Bolle* \[standard form in IPNI: *G.Bolle*\]
 
 #### Herbarium and types
 

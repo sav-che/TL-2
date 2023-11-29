@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33258517) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33258517) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/2905-1), [Wikidata](https://www.wikidata.org/wiki/Q21513531). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Friche-Joset, François {std. Friche-Joset}|first entry]] for this author
 
 ### Author
 
 \* Friche-Joset, François \[b. François Joset\] (1799-1846), French-born Swiss horticulturist, born 27 Mai 1799 in Courfaivre (Mont-Terrrible, France, now Ct. Jura, Switzerland), successively at Soleure, Delémont, Porrentruy 1832-ca. 1841 and Altkirch where he died on 14 Dec 1846. 
-**Abbreviated name**: *Friche-Joset*
+**Abbreviated name**: *Friche-Joset* \[standard form in IPNI: *Friche-Joset*\]
 
 #### Bibliography and biography
 

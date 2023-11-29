@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33266486) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33266486) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1238-1), [Wikidata](https://www.wikidata.org/wiki/Q684026). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bubani, Pietro {std. Bubani}|first entry]] for this author
 
 ### Author
 
 \* Bubani, Pietro (1806-1888), Italian physician and botanist, born at Bagnacavallo nr. Ravenna, studied at the University of Bologna 1825-1829, Dr. med. 1829, banished from the Church States 1831, in exile in Marseilles 1835 and Montpellier (with Dunal), explorer of the Pyrenees 1836-1862, returned to Bagnacavallo 1847 (amnesty from Pius II), stayed again in the Pyrenees 1850-1862 doing field work, from 1862 again at Bagnacavallo writing his *Flora pyrenaea* until 1880. 
-**Abbreviated name**: *Bubani*
+**Abbreviated name**: *Bubani* \[standard form in IPNI: *Bubani*\]
 
 #### Herbarium and types
 

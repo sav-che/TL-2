@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33212044) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33212044) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10201-1), [Wikidata](https://www.wikidata.org/wiki/Q2778817). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stratingh, Gozewinus Acker (1804-1876), Dutch geologist, archeologist and botanist; Dr. med. Groningen 1828; Dr. phil. h.c. ib. 1850; dedicated himself (after a brief period as practicing physician) entirely to the natural sciences, working as a private scientist. 
-**Abbreviated name**: *Stratingh*
+**Abbreviated name**: *Stratingh* \[standard form in IPNI: *Strat.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33066581) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 241](https://www.biodiversitylibrary.org/page/33066581) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11608-1), [Wikidata](https://www.wikidata.org/wiki/Q21387900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wheldon, James Alfred (1862-1924), British pharmacist and botanist; studied at Cleveland College, Darlington and the Westminster College of Pharmacy, London; pharmac. exam. 1884; practicing pharmacist in York 1884-1890; pharmacist at H.M. Prison, Liverpool 1891-1921; co-founder Moss Exchange Club British Isles (later Brit. bryol. Soc). 
-**Abbreviated name**: *Wheld.*
+**Abbreviated name**: *Wheld.* \[standard form in IPNI: *Wheldon*\]
 
 #### Herbarium and types
 

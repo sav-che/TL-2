@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33120221) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33120221) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/31173-1), [Wikidata](https://www.wikidata.org/wiki/Q5749296). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baenitz, Carl (Karl) Gabriel {std. Baen.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Baenitz, Karl Gabriel (1837-1913), German botanist, mainly active in Silesia. 
-**Abbreviated name**: *Baen.*
+**Abbreviated name**: *Baen.* \[standard form in IPNI: *Baen.*\]
 
 #### Herbarium and types
 

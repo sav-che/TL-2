@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33260178) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33260178) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2405-1), [Wikidata](https://www.wikidata.org/wiki/Q912007). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Rietz, Gustaf Einar Du {std. Du Rietz}|first entry]] for this author
 
 ### Author
 
 \* Du Rietz, Gustaf Einar (1895-1967), Swedish botanist, plant ecologist, and lichenologist (treated in TL-2/4 under Rietz, but correctly to be listed as Du Rietz), born 25 Apr 1895 at Bromma near Stockholm, 1912 student at the University of Uppsala, B.A. Uppsala 1917, M.A. Uppsala 1921, Dr. phil. 1922, 1917-1923 amanuensis botanical institute, 1924-1926 curator bot. museum Uppsala, 1931-1934 deputy professor, 1934-1961 professor of plant biology, leader of the Uppsala school of phytosociology, died 7 Mar 1967 at Uppsala. 
-**Abbreviated name**: *Du Rietz*
+**Abbreviated name**: *Du Rietz* \[standard form in IPNI: *Du Rietz*\]
 
 #### Herbarium and types
 

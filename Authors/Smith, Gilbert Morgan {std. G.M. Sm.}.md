@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/page/33333811) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/page/33333811) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9795-1), [Wikidata](https://www.wikidata.org/wiki/Q16938452). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Gilbert Morgan (1885-1959), American botanist; B.S. Beloit Coll. 1907; Dr. sci. ib. 1927; Dr. phil. Wisconsin 1913; botanical assistant Univ. Wisconsin 1909-1910; instructor Pomona Coll. 1910-1911; assistant Univ. Wisconsin 1911-1912; instructor 1912-1917; assistant prof. 1917-1919; assoc. prof. 1919-1925; professor of botany, Stanford Univ. 1925-1950; in retirement at Palo Alto, Calif. 
-**Abbreviated name**: *G.M. Sm.*
+**Abbreviated name**: *G.M. Sm.* \[standard form in IPNI: *G.M.Sm.*\]
 
 #### Herbarium and types
 

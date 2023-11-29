@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 836](https://www.biodiversitylibrary.org/page/33355923) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 836](https://www.biodiversitylibrary.org/page/33355923) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7142-1), [Wikidata](https://www.wikidata.org/wiki/Q102707). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Oltmanns, Friedrich (1860-1945), German algologist; studied at Jena under Strasburger; Dr. phil. Strassburg 1884 under de Bary; assistant to Goebel at Rostock 1885-1892; professor of pharmacognosy, later of botany and pharmacology, at Freiburg i. Br. from 1892. 
-**Abbreviated name**: *Oltm.*
+**Abbreviated name**: *Oltm.* \[standard form in IPNI: *Oltm.*\]
 
 #### Herbarium and types
 

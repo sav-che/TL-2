@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33212337) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 295](https://www.biodiversitylibrary.org/page/33212337) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10633-1), [Wikidata](https://www.wikidata.org/wiki/Q21610690). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thorold, Charles Aubrey (1906-x), British mycologist; MA Oxford (Trinity) 1934; mycologist with the Kenya Department of Agriculture from 1930, later stationed at Trinidad. 
-**Abbreviated name**: *Thorold*
+**Abbreviated name**: *Thorold* \[standard form in IPNI: *Thorold*\]
 
 #### Herbarium and types
 

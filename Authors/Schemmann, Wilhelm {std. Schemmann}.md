@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33333268) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 129](https://www.biodiversitylibrary.org/page/33333268) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9047-1), [Wikidata](https://www.wikidata.org/wiki/Q21607882). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schemmann, Wilhelm (1845-ca. 1920), German (Prussian) botanist and school-teacher at Annen nr Witten; conducted a bryological exchange club. 
-**Abbreviated name**: *Schemmann*
+**Abbreviated name**: *Schemmann* \[standard form in IPNI: *Schemmann*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33355889) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33355889) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7075-1), [Wikidata](https://www.wikidata.org/wiki/Q16856694). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 O'Brien, Charlotte Grace (1845-1909), Irish botanist of Foynes, Limerick. 
-**Abbreviated name**: *C. O'brien*
+**Abbreviated name**: *C. O'brien* \[standard form in IPNI: *C.G.O'Brien*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33120797) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33120797) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12411-1), [Wikidata](https://www.wikidata.org/wiki/Q4172636). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dörfler, Ignaz {std. Dörfl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dörfler, Ignaz (1866-x), Austrian botanist, publisher and plant collector. 
-**Abbreviated name**: *Dörfl.*
+**Abbreviated name**: *Dörfl.* \[standard form in IPNI: *Dörfl.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33212309) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33212309) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/35142-1), [Wikidata](https://www.wikidata.org/wiki/Q21610606). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thode, \[Hans\] Justus (1859-1932), German-born S. African plant collector; to S. Africa 1885 or 1886, collected from 1886-1931 maintaining himself as tutor at missionary schools and farms. 
-**Abbreviated name**: *Thode*
+**Abbreviated name**: *Thode* \[standard form in IPNI: *Thode*\]
 
 #### Herbarium and types
 

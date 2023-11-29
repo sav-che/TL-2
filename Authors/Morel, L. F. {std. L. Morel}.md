@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33355664) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33355664) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6644-1), [Wikidata](https://www.wikidata.org/wiki/Q36615836). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morel, L. F. (*fl*. 1865), French clergyman, high school teacher and mycologist. 
-**Abbreviated name**: *L. Morel*
+**Abbreviated name**: *L. Morel* \[standard form in IPNI: *L.Morel*\]
 
 #### Herbarium and types
 

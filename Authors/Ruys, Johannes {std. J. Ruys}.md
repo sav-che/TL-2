@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1012](https://www.biodiversitylibrary.org/page/33190483) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1012](https://www.biodiversitylibrary.org/page/33190483) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8765-1), [Wikidata](https://www.wikidata.org/wiki/Q21607574). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ruys, Johannes (1856-1933), Dutch mycologist. 
-**Abbreviated name**: *J. Ruys*
+**Abbreviated name**: *J. Ruys* \[standard form in IPNI: *J.Ruys*\]
 
 #### Herbarium and types
 

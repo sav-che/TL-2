@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33265578) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33265578) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/34089-1), [Wikidata](https://www.wikidata.org/wiki/Q27064230). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boulanger, Émile (fl. 1890-1905), French pharmacist and mycologist, especially interested in truffles. 
-**Abbreviated name**: *Boulanger*
+**Abbreviated name**: *Boulanger* \[standard form in IPNI: *Boulanger*\]
 
 #### Herbarium and types
 

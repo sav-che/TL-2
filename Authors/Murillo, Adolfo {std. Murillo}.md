@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33355752) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33355752) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6797-1), [Wikidata](https://www.wikidata.org/wiki/Q21502992). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Murillo, Adolfo (1840-1899), Chilean botanist and physician; professor of gynecology at the University of Santiago 
-**Abbreviated name**: *Murillo*
+**Abbreviated name**: *Murillo* \[standard form in IPNI: *Murillo*\]
 
 #### Herbarium and types
 

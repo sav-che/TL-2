@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33266534) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 227](https://www.biodiversitylibrary.org/page/33266534) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1292-1), [Wikidata](https://www.wikidata.org/wiki/Q4101603). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Burck, William (1848-1910), Dutch botanist, born in Monnikendam near Amsterdam, studied at Leiden University, Ph.D., 1874, teacher at secondary schools at Leiden, Apeldoorn and at the School of Agriculture at Buitenzorg (Bogor), assistant director at the Botanic Gardens Buitenzorg in charge of the Herbarium 1881, scientific adviser for the government coffee culture 1893, retired 1902. 
-**Abbreviated name**: *Burck*
+**Abbreviated name**: *Burck* \[standard form in IPNI: *Burck*\]
 
 #### Herbarium and types
 

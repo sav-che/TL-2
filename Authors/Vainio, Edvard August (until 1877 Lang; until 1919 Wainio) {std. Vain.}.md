@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33212678) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 636](https://www.biodiversitylibrary.org/page/33212678) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12959-1), [Wikidata](https://www.wikidata.org/wiki/Q4351122). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vainio, Edvard August (until 1877: Lang; until 1919: Wainio) (1853-1929), Finnish lichenologist; studied at the University of Helsinki 1870; Dr. phil. ib. 1880; honorary lecturer for botany ib. 1880; travelled in Europe 1884-1885, 1889-1890, 1898; in W. Siberia 1880, in Brazil 1885; in various modest functions, mostly as teacher in natural sciences between 1874 and 1891; censor at the \[Russian\] press service in Helsinki 1891-1917; assistant professor and curator of the cryptogamic herbarium of Turku University 1922-1929. 
-**Abbreviated name**: *Vain.*
+**Abbreviated name**: *Vain.* \[standard form in IPNI: *Vain.*\]
 
 #### Herbarium and types
 

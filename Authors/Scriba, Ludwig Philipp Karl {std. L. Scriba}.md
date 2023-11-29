@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33333603) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33333603) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9396-1), [Wikidata](https://www.wikidata.org/wiki/Q21387894). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scriba, Ludwig Philipp Karl (1847-1933), German (Hessen) mechanical engineer and lichenologist; studied engineering at Zürich (exam. 1867); engineer in various factories in Bremen, Berlin, London and Frankfurt a.M.; started the Höchster Giessereien L. Scriba in 1878; Dr. h.c. Frankfurt a. Main 1927. 
-**Abbreviated name**: *L. Scriba*
+**Abbreviated name**: *L. Scriba* \[standard form in IPNI: *L.Scriba*\]
 
 #### Herbarium and types
 

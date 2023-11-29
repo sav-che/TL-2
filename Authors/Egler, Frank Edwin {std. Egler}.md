@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33260259) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33260259) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2477-1), [Wikidata](https://www.wikidata.org/wiki/Q5486439). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Egler, Frank Edwin (1911-x), American botanist, born 26 Apr 1911 at New York, studied at the University of Chicago, B.S. 1932, M.S. 1934 from University of Michigan, Ph.D. Yale University 1936, Yale Fellow at Bishop Museum Honolulu 1936-1937, asst. professor for botany at New York State College for Forestry from 1937. 
-**Abbreviated name**: *Egler*
+**Abbreviated name**: *Egler* \[standard form in IPNI: *Egler*\]
 
 #### Herbarium and types
 

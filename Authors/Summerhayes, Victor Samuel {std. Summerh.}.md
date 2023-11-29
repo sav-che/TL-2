@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33212134) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 92](https://www.biodiversitylibrary.org/page/33212134) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10292-1), [Wikidata](https://www.wikidata.org/wiki/Q1771270). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Summerhayes, Victor Samuel (1897-1974), British botanist (orchidologist); B.Sc. Univ. Coll. London 1920; travelled to Spitzbergen 1921; at the Royal Botanic Gardens, Kew, in charge of the orchid herbarium 1924-1964. 
-**Abbreviated name**: *Summerh.*
+**Abbreviated name**: *Summerh.* \[standard form in IPNI: *Summerh.*\]
 
 #### Herbarium and types
 

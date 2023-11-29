@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2018-07-06 15:30:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33265970) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33265970) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17370-1), [Wikidata](https://www.wikidata.org/wiki/Q5552381). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Conant, Norman Francis (1908-x), American bacteriologist and mycologist, born in Walpole, Mass., educated at Bates College, BS 1930, at Harvard AM 1931 and Ph.D. 1933, trav. fellow Paris 1933-1934, assistant at Harvard 1934-1935, from 1935 at Duke University Hospital. 
-**Abbreviated name**: *Conant*
+**Abbreviated name**: *Conant* \[standard form in IPNI: *Conant*\]
 
 #### Herbarium and types
 

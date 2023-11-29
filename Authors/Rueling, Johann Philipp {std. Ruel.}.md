@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 977](https://www.biodiversitylibrary.org/page/33190448) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 977](https://www.biodiversitylibrary.org/page/33190448) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8722-1), [Wikidata](https://www.wikidata.org/wiki/Q21607529). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rueling, Johann Philipp (1741-?), German (Niedersachsen) physician in Einbeck and Nordheim; studied medicine at Göttingen. 
-**Abbreviated name**: *Ruel.*
+**Abbreviated name**: *Ruel.* \[standard form in IPNI: *Ruel.*\]
 
 #### Herbarium and types
 

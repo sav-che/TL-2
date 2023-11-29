@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33120171) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33120171) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/177-1), [Wikidata](https://www.wikidata.org/wiki/Q2333145). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ambrosi, Francesco {std. Ambrosi} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Ambrosi, Francesco (1821-1897), Austro-Italian botanist, director of the Museo civico in Trient. 
-**Abbreviated name**: *Ambrosi*
+**Abbreviated name**: *Ambrosi* \[standard form in IPNI: *Ambrosi*\]
 
 #### Herbarium and types
 

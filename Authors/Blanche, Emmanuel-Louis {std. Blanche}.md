@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33265398) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33265398) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/844-1), [Wikidata](https://www.wikidata.org/wiki/Q5831526). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Blanche, Emmanuel-Louis (1824-1908), French botanist and physician, Dr. méd. Paris 1849, physician at the Hôpital de Rouen, professor at the medical and pharmaceutic school in Rouen. 
-**Abbreviated name**: *Blanche*
+**Abbreviated name**: *Blanche* \[standard form in IPNI: *Blanche*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33189739) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 268](https://www.biodiversitylibrary.org/page/33189739) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7711-1), [Wikidata](https://www.wikidata.org/wiki/Q534301). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pinchot, Gifford (1865-1946), American botanist, forester, conservationist and politician, M.A. Yale 1901, M.A. Princeton 1904; studied forestry in France, Germany, Switzerland, Austria; consulting forester 1892-1898; forester USDA 1898-1910, governor of Pennsylvania 1923-1927, 1931-1935. 
-**Abbreviated name**: *Pinchot*
+**Abbreviated name**: *Pinchot* \[standard form in IPNI: *Pinchot*\]
 
 #### Herbarium and types
 

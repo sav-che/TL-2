@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33333197) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33333197) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8927-1), [Wikidata](https://www.wikidata.org/wiki/Q5937087). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sartori, Joseph (1809-1880), German (Bavarian) botanist; came to Greece as court pharmacist with King Otto, 1833; explored the Greek flora based at Nauplia 1833-1835 and at Athens 1835-1863; ultimately court physician to King Otto; returned to München 1862; close associate of E. Boissier and Th. v. Heldreich. 
-**Abbreviated name**: *Sartori*
+**Abbreviated name**: *Sartori* \[standard form in IPNI: *Sartori*\]
 
 #### Herbarium and types
 

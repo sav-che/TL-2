@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33333895) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 756](https://www.biodiversitylibrary.org/page/33333895) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9917-1), [Wikidata](https://www.wikidata.org/wiki/Q47126558). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Soulat-Ribette (*fl*. 1892), French botanist and "chef d'institution" at Limoges. 
-**Abbreviated name**: *Soulat-Ribetté*
+**Abbreviated name**: *Soulat-Ribetté* \[standard form in IPNI: *Soulat-Rib.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33068391) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 149](https://www.biodiversitylibrary.org/page/33068391) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3822-1), [Wikidata](https://www.wikidata.org/wiki/Q15444962). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hempel, Gustav (1842-1904), German-born botanist and forester; studied at the mining academy of Freiberg 1861-1865 and at the forestry college at Tharand 1866-1868; from 1872-1876 at Giessen University; from 1873 in Austria, at the Mariabrunn Forestry College and at the Hochschule für Bodenkultur in Wien. 
-**Abbreviated name**: *Hemp.*
+**Abbreviated name**: *Hemp.* \[standard form in IPNI: *Hempel*\]
 
 #### Herbarium and types
 

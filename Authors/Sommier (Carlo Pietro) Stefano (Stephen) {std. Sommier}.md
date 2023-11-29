@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33333876) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33333876) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9887-1), [Wikidata](https://www.wikidata.org/wiki/Q5685893). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sommier \[Carlo Pietro\] Stefano \[Stephen\] (1848-1922), Italian botanist and plant collector; son of French parents living at Firenze, chose Italian citizenship 1869; travelled widely in Europe and the Caucasus; Dr. med. h.c. Uppsala 1907. 
-**Abbreviated name**: *Sommier*
+**Abbreviated name**: *Sommier* \[standard form in IPNI: *Sommier*\]
 
 #### Herbarium and types
 

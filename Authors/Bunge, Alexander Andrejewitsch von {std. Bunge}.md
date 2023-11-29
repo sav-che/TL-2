@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33120538) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 407](https://www.biodiversitylibrary.org/page/33120538) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12367-1), [Wikidata](https://www.wikidata.org/wiki/Q65899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bunge, Alexander (Georg) Andrejewitsch von {std. Bunge} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bunge, Alexander Andrejewitsch von (1803-1890), Russian botanist and explorer professor of natural history at Dorpat. 
-**Abbreviated name**: *Bunge*
+**Abbreviated name**: *Bunge* \[standard form in IPNI: *Bunge*\]
 
 #### Herbarium and types
 

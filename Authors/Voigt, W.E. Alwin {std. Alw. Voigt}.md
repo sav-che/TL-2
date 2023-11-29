@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/page/33212816) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 774](https://www.biodiversitylibrary.org/page/33212816) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11245-1), [Wikidata](https://www.wikidata.org/wiki/Q21611859). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Voigt, W.E. Alwin (1852-ca. 1927), German (Saxonian) zoologist; assistant teacher at Gablonz a.N. and Dresden 1872-1877; studied natural sciences at the University of Leipzig 1877-1879; Dr. phil. ib. 1877; high school teacher at Leipzig from 1871; later mainly active in zoology. 
-**Abbreviated name**: *Alw. Voigt*
+**Abbreviated name**: *Alw. Voigt* \[standard form in IPNI: *Alw.Voigt*\]
 
 #### Herbarium and types
 

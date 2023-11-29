@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33355833) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33355833) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6973-1), [Wikidata](https://www.wikidata.org/wiki/Q77958). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Niedenzu, Franz Josef (1857-1937), German botanist; Dr. phil. Breslau 1889; assistant at the Botanical Garden, Breslau 1886-1889; id. Berlin-Dahlem 1889-1892; professor of mathematics and natural history at the Braunsberg (E. Prussia) Lyceum Hosianum 1892-1926; Geh. Regierungsrat 1913. 
-**Abbreviated name**: *Nied.*
+**Abbreviated name**: *Nied.* \[standard form in IPNI: *Nied.*\]
 
 #### Herbarium and types
 

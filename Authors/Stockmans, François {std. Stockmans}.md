@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33212084) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 10](https://www.biodiversitylibrary.org/page/33212084) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10152-1), [Wikidata](https://www.wikidata.org/wiki/Q3085859). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stockmans, François (1904-x), Belgian botanist; "aide-naturaliste"; later director of the palaeontological department of the Brussels Museum of natural history and Laboratory director at the Institut royal des Sciences naturelles de Belgique; professor at the Université de Bruxelles. 
-**Abbreviated name**: *Stockmans*
+**Abbreviated name**: *Stockmans* \[standard form in IPNI: *Stockmans*\]
 
 #### Herbarium and types
 

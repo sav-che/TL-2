@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33066838) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 498](https://www.biodiversitylibrary.org/page/33066838) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11967-1), [Wikidata](https://www.wikidata.org/wiki/Q122420). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zacharias, Eduard (1852-1911), German (Berlin/Hamburg) botanist; studied in Hamburg at the Academic Gymnasium 1872-1874 and at the Universities of Heidelberg, Tübingen and Strassburg; Dr. phil. Strassburg 1877 with A. de Bary; Habil. Strassburg 1879, e.o. professor of botany 1882-1894; curator ("Kustos") of the Hamburg botanical garden 1894-1899, director 1899-1911; from 1901 also director of the Botanical Museum and the later (1908) Hamburg Botanical State Institutes. 
-**Abbreviated name**: *E. Zacharias*
+**Abbreviated name**: *E. Zacharias* \[standard form in IPNI: *E.Zacharias*\]
 
 #### Herbarium and types
 

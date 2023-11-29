@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33355214) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33355214) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5679-1), [Wikidata](https://www.wikidata.org/wiki/Q21519395). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lloyd, George N. (1804-1889), British botanist at Edinburgh. 
-**Abbreviated name**: *G. N. Lloyd*
+**Abbreviated name**: *G. N. Lloyd* \[standard form in IPNI: *G.N.Lloyd*\]
 
 #### Herbarium and types
 

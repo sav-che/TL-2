@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33333529) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 390](https://www.biodiversitylibrary.org/page/33333529) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9315-1), [Wikidata](https://www.wikidata.org/wiki/Q36655537). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schulz-Danzig, Paul (*fl*. 1926-1935), German phycologist from Danzig. 
-**Abbreviated name**: *Schulz-Danz.*
+**Abbreviated name**: *Schulz-Danz.* \[standard form in IPNI: *P.Schulz*\]
 
 #### Herbarium and types
 

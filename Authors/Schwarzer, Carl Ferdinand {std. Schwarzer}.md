@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33333566) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33333566) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9360-1), [Wikidata](https://www.wikidata.org/wiki/Q21608536). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwarzer, Carl Ferdinand (1829-1870), German (Silesian) veterinarian and botanist; studied veterinary science at the Royal Veterinary College at Berlin; active service in the Prussian army 1851-1852; practicing veterinarian at Löwen (Upper Silesia) 1852-1854, from 1854 idem at Kuhnern near Striegau (Silesia); active batologist. 
-**Abbreviated name**: *Schwarzer*
+**Abbreviated name**: *Schwarzer* \[standard form in IPNI: *Schwarzer*\]
 
 #### Herbarium and types
 

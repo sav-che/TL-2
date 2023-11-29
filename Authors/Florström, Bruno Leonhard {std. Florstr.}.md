@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33259774) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33259774) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/12500-1), [Wikidata](https://www.wikidata.org/wiki/Q16498064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Florström, Bruno Leonhard (1879-1914), Finnish botanist, born in Helsingfors (i.e. Helsinki), teacher of gymnastics and specialist on the genus *Taraxacum*, died 22 Dec 1914 in Tammerfors only 35 years of age. 
-**Abbreviated name**: *Florstr.*
+**Abbreviated name**: *Florstr.* \[standard form in IPNI: *Florstr.*\]
 
 #### Herbarium and types
 

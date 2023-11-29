@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33190324) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33190324) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8512-1), [Wikidata](https://www.wikidata.org/wiki/Q21607424). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rösler, Carl August (1770-1858), German (Württemberg) botanist and "Hüttenamts-Buchhalter" in Ludwigsthal (iron-works administrator). 
-**Abbreviated name**: *Rösler*
+**Abbreviated name**: *Rösler* \[standard form in IPNI: *Rösler*\]
 
 #### Herbarium and types
 

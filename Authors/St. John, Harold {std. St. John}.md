@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1072](https://www.biodiversitylibrary.org/page/33190543) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1072](https://www.biodiversitylibrary.org/page/33190543) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8830-1), [Wikidata](https://www.wikidata.org/wiki/Q2840308). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 St. John, Harold (1892-x), American botanist; Dr. phil. Harvard 1920; assistant, later associate professor of botany at the State College of Washington 1920-1929; professor of botany at the University of Hawaii 1929-1958; Whitney visiting professor at Chatham College, Pittsburgh, Pa. 1958-1959; teaching at Saigon 1959-1960; continuing botanical research in retirement in Hawaii. 
-**Abbreviated name**: *St. John*
+**Abbreviated name**: *St. John* \[standard form in IPNI: *H.St.John*\]
 
 #### Herbarium and types
 

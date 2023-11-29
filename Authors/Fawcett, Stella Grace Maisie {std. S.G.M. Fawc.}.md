@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33259578) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33259578) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18685-1), [Wikidata](https://www.wikidata.org/wiki/Q5103991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fawcett, Stella Grace Maisie (1912-1988), Australian botanist who published on mycology, alpine ecology, botanical history and *Eucalyptus*, born in Footscray, a suburb of Melbourne, B.Sc. 1935 and M.Sc. 1937 Melbourne Univ. (the latter degree supervised by Ethel Irene McLennan, 1891-1983), joined Soil Conservation Board (later Soil Conservation Authority) 1941 and stationed in Omeo (Victoria), married Denis John Carr (1915-x) in 1955, moved with him to Belfast when he was appointed Prof. of Botany, Queen's Univ. 1959, returned alone to Australia to collect plants 1965, rejoined her husband at Harvard Univ., Cambridge, Mass. and worked in the Gray Herb., both returned to Australian Natl. Univ., Canberra where she was Visiting Fellow 1967-1988, died 9 Sep 1988 in Canberra. 
-**Abbreviated name**: *S.G.M. Fawc.*
+**Abbreviated name**: *S.G.M. Fawc.* \[standard form in IPNI: *S.G.M.Fawc.*\]
 
 #### Note
 

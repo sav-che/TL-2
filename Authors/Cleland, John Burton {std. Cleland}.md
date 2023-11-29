@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33265878) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33265878) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17304-1), [Wikidata](https://www.wikidata.org/wiki/Q4223546). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cleland, John Burton (1878-1971), Australian microbiologist, pathologist and bacterialogist, educated at the Prince Alfred College Adelaide, Bachelor of medicine Sydney Univ. 1900, worked on tropical medicine and cancer research, scholar at the London Hospital 1904-1905, government pathologist W. Australia 1906-1909, principal microbiologist Dept. Public Health NSW 1913-1919, professor of pathology at Adelaide University 1919-1949, emeritus id. 1949. 
-**Abbreviated name**: *Cleland*
+**Abbreviated name**: *Cleland* \[standard form in IPNI: *Cleland*\]
 
 #### Herbarium and types
 

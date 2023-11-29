@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33333702) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 563](https://www.biodiversitylibrary.org/page/33333702) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9571-1), [Wikidata](https://www.wikidata.org/wiki/Q6458446). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shibata, Keita (1878-1949), Japanese botanist and biochemist; Dr. phil. Tokyo 1899; Dr. Sci. 1904; professor of botany at Hokkaido University, Sapporo, 1908-1910; studied with Pfeffer at Leipzig 1910-1911; lecturer in plant-biochemistry and physiology at Tokyo University 1910, e.o. professor of botany ib. 1912; ord. professor 1918-1938; director of the Iwata Institute for Plant biochemistry 1938-1949. 
-**Abbreviated name**: *Shib.*
+**Abbreviated name**: *Shib.* \[standard form in IPNI: *Shibata*\]
 
 #### Herbarium and types
 

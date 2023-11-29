@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33120591) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33120591) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1420-1), [Wikidata](https://www.wikidata.org/wiki/Q21062909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Carrington, Benjamin {std. Carrington} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Carrington, Benjamin (1827-1893), British physician and bryologist. 
-**Abbreviated name**: *Carring.*
+**Abbreviated name**: *Carring.* \[standard form in IPNI: *Carrington*\]
 
 #### Herbarium and types
 

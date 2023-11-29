@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33212186) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33212186) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10369-1), [Wikidata](https://www.wikidata.org/wiki/Q21610133). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Szepesfalvy, Janos (1882-1959), Hungarian bryologist at the Botanical Department of the Hungarian National Museum, Budapest. 
-**Abbreviated name**: *Szepesfalvy*
+**Abbreviated name**: *Szepesfalvy* \[standard form in IPNI: *Szep.*\]
 
 #### Herbarium and types
 

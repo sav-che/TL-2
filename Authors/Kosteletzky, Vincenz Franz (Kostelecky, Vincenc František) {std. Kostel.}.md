@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33068894) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33068894) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4981-1), [Wikidata](https://www.wikidata.org/wiki/Q4235284). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kosteletzky, Vincenz Franz (Kostelecky, Vincenc František) (1801-1887), Czech botanist; Dr. med. Praha 1824; professor of botany at the Carl-Ferdinands Universität and director of the botanic garden at Smichov in Praha (1826-) 1835-1872.
-**Abbreviated name**: *Kostel.*
+**Abbreviated name**: *Kostel.* \[standard form in IPNI: *Kostel.*\]
 
 #### Herbarium and types
 

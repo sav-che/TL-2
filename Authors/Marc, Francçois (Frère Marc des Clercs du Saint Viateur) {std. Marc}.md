@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33355372) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33355372) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/34941-1), [Wikidata](https://www.wikidata.org/wiki/Q5868773). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marc, Francçois \[Frère Marc des Clercs du Saint Viateur\] (1862-1912), French clergyman, lichenologist and bryologist. 
-**Abbreviated name**: *Marc*
+**Abbreviated name**: *Marc* \[standard form in IPNI: *Marc*\]
 
 #### Herbarium and types
 

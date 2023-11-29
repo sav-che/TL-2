@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33265200) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33265200) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/15847-1), [Wikidata](https://www.wikidata.org/wiki/Q3046641). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Beauverd, Gustave {std. Beauverd}|first entry]] for this author
 
 ### Author
 
 \* Beauverd, Gustave (1867-1942), Swiss (Genève) botanist and artist, educated at the collège industriel; engraver with the lithographic firm of Bauknecht, also in Genève, studied at the École des Beaux-Arts; draughtsman at the Atelier Sadag 1897; from Apr 1900 curator of the Herbier Boissier until 1918; after the transfer of the herbarium to the University of Genève in 1918 curator at the University herbarium until 1940. 
-**Abbreviated name**: *Beauverd*
+**Abbreviated name**: *Beauverd* \[standard form in IPNI: *Beauverd*\]
 
 #### Herbarium and types
 

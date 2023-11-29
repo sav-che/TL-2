@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33190068) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33190068) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8179-1), [Wikidata](https://www.wikidata.org/wiki/Q3127757). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ravenel, Henry William (1814-1887), American botanist, graduated from South Carolina College 1832; planter at St. John's, S.C. 1832-1853; from 1853-1887 at Aiken, S.C., LL.D. Univ. N. Carolina 1886. 
-**Abbreviated name**: *Ravenel*
+**Abbreviated name**: *Ravenel* \[standard form in IPNI: *Ravenel*\]
 
 #### Herbarium and types
 

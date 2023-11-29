@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 900](https://www.biodiversitylibrary.org/page/33121031) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 900](https://www.biodiversitylibrary.org/page/33121031) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2973-1), [Wikidata](https://www.wikidata.org/wiki/Q62242). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gaertner (Gärtner), Carl (Karl) Friedrich (von) {std. C.F. Gaertn.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gaertner, Carl (Karl) Friedrich von (1772-1850), German physician and botanist at Calw. 
-**Abbreviated name**: *C. F. Gaertn.*
+**Abbreviated name**: *C. F. Gaertn.* \[standard form in IPNI: *C.F.Gaertn.*\]
 
 #### Herbarium and types
 

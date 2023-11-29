@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33265099) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33265099) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/535-1), [Wikidata](https://www.wikidata.org/wiki/Q1992260). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Batalin, Alexander Feodorowicz (1847-1896), Russian botanist, educated at St. Petersburg Gymnasium, studied at the University of St. Petersburg 1865-1869, curator of the St. Petersburg Botanical Garden 1870; first botanist 1877, director 1892, professor of botany at the Medical Military Academy 1884-1893; originally working on plant physiology, from 1892 fully dedicating himself to plant systematics. 
-**Abbreviated name**: *Batal.*
+**Abbreviated name**: *Batal.* \[standard form in IPNI: *Batalin*\]
 
 #### Herbarium and types
 

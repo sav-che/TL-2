@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33258685) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33258685) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3144-1), [Wikidata](https://www.wikidata.org/wiki/Q77655). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gilg, Ernst Friedrich {std. Gilg}|first entry]] for this author
 
 ### Author
 
 \* Gilg, Ernst \[Friedrich\] (1867-1933), prolific German systematist and pharmacologist, born 12 Jan 1867 in Obereggenen (Baden), Ph.D. 1891 Berlin (under I. Urban), qualified (habilitated) 1894, curator of the botanical museum 1902-1932, a.o. prof. of botany, Berlin 1906, died 11 Oct 1933 in Berlin. 
-**Abbreviated name**: *Gilg*
+**Abbreviated name**: *Gilg* \[standard form in IPNI: *Gilg*\]
 
 #### Herbarium and types
 

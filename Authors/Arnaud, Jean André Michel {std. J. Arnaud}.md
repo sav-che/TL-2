@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33120195) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33120195) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/273-1), [Wikidata](https://www.wikidata.org/wiki/Q21505339). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arnaud, Jean André Michel {std. J. Arnaud} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Arnaud, Jean André Michel (1760-1831), French physician and botanist. 
-**Abbreviated name**: *J. Arnaud*
+**Abbreviated name**: *J. Arnaud* \[standard form in IPNI: *Arnaud*\]
 
 #### Herbarium and types
 

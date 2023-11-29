@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33355249) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33355249) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5759-1), [Wikidata](https://www.wikidata.org/wiki/Q17541111). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lorinser, Friedrich Wilhelm (1817-1895), Austrian (Bohemian-born) botanist and physician; "Landes-Sanitätsrath" and surgeon at the Wiedner hospital in Wien; brother of Gustav Lorinser 
-**Abbreviated name**: *F. Lorinser*
+**Abbreviated name**: *F. Lorinser* \[standard form in IPNI: *F.Lorinser*\]
 
 #### Herbarium and types
 

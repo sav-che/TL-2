@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33355072) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33355072) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22365-1), [Wikidata](https://www.wikidata.org/wiki/Q66039). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lindau, Gustav (1866-1923), German lichenologist; student of Schwendener; Dr. phil. Berlin 1888; 1888-1890 at Münster with Brefeld; from 1892-1923 (after 1899 "Kustos", 1902 professor) at Berlin-Dahlem. 
-**Abbreviated name**: *Lindau*
+**Abbreviated name**: *Lindau* \[standard form in IPNI: *Lindau*\]
 
 #### Herbarium and types
 

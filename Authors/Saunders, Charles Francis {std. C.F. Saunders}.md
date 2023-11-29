@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33333204) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33333204) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8951-1), [Wikidata](https://www.wikidata.org/wiki/Q21607775). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saunders, Charles Francis (1859-1941), American botanist; educated at Friend's Central High School, Philadelphia; after graduation (1875) employed at the office of a Philadelphia shipping firm; moved to California 1904; enthusiastic amateur botanist. 
-**Abbreviated name**: *C.F. Saunders*
+**Abbreviated name**: *C.F. Saunders* \[standard form in IPNI: *C.F.Saunders*\]
 
 #### Herbarium and types
 

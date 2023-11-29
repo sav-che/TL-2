@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33259297) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33259297) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/20021246-1), [Wikidata](https://www.wikidata.org/wiki/Q21502843). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Deventer, Wilhelmina Frederike von (fl. 1930), Dutch botanist at Utrecht, working under F.A.F.C. Went and Johanna Westerdijk. 
-**Abbreviated name**: *Deventer*
+**Abbreviated name**: *Deventer* \[standard form in IPNI: *Deventer*\]
 
 #### Herbarium and types
 

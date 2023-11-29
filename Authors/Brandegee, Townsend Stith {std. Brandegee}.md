@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33120434) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 303](https://www.biodiversitylibrary.org/page/33120434) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1071-1), [Wikidata](https://www.wikidata.org/wiki/Q1002345). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brandegee, Townsend Stith {std. Brandegee} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Brandegee, Townsend Stith (1843-1925), American botanist in California. 
-**Abbreviated name**: *T. S. Brandegee*
+**Abbreviated name**: *T. S. Brandegee* \[standard form in IPNI: *Brandegee*\]
 
 #### Herbarium and types
 

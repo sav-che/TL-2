@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33259409) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33259409) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/18076-1), [Wikidata](https://www.wikidata.org/wiki/Q5904348). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dixon, Hugh Neville {std. Dixon}|first entry]] for this author
 
 ### Author
 
 \* Dixon, Hugh Neville (1861-1944), Britsh botanist (bryologist), born 20 Apr 1861 at Wickham Bishops, Essex, died at Northampton 9 Mai 1944, entered Christ's College Cambridge 1879, graduated with honours 1883, leaving Cambridge, settled in Northampton 1883-1941, assistant later headmaster at the Northampton school for the deaf and dumb until 1911, from then on mainly working as bryologist. 
-**Abbreviated name**: *Dixon*
+**Abbreviated name**: *Dixon* \[standard form in IPNI: *Dixon*\]
 
 #### Herbarium and types
 

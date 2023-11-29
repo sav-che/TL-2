@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2016-01-22 16:56:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33259890) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33259890) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18939-1), [Wikidata](https://www.wikidata.org/wiki/Q67239). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Frank, Albert Bernhard \[Bernard\] (1839-1900), German botanist (physiologist and phytopathologist), born 17 Jan 1839 in Dresden where he attended Realschule and gymnasium, studied medicine and natural sciences (esp. botany) in Leipzig, Dr. Sci. Nat. 1865 Leipzig, curator ("custos") at the Univ., docent for botany, asst. prof. 1878 and prof. of plant physiology 1881 at agricultural high school in Berlin, died 27 Sep 1900 in Berlin. 
-**Abbreviated name**: *A.B. Frank*
+**Abbreviated name**: *A.B. Frank* \[standard form in IPNI: *A.B.Frank*\]
 
 #### Note
 

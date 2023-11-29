@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33264977) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 250](https://www.biodiversitylibrary.org/page/33264977) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31127-1), [Wikidata](https://www.wikidata.org/wiki/Q12768386). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bäumler, Johann Andreas (1847-1926), Slovakian \[Bratislava/Presburg, h.t. Hungarian, Pozsony\] cryptogamist, "Selchermeister" (pork-butcher) and real-estate owner, self-made botanist, especially mycologist. 
-**Abbreviated name**: *Bäuml.*
+**Abbreviated name**: *Bäuml.* \[standard form in IPNI: *Bäumler*\]
 
 #### Herbarium and types
 

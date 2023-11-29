@@ -28,16 +28,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-01-06 13:41:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33266423) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33266423) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16574-1), [Wikidata](https://www.wikidata.org/wiki/Q73990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brongniart, Adolphe Théodore {std. Brongn.}|first entry]] for this author
 
 ### Author
 
 \* Brongniart, Adolphe Théodore (1801-1876), French botanist and palaeobotanist, son of Alexandre Brongniart, trained by his father, studied medicine at the University of Paris, graduating 1816, idem botany 1819, dedicating himself to the general theory of plant sexuality and taxonomic botany, professor at the Muséum d'Histoire naturelle 1833, succeeding Desfontaines, member of the Académie des Sciences, Paris 1834, leading French plant taxonomist of the 19-th century. 
-**Abbreviated name**: *Brongn.*
+**Abbreviated name**: *Brongn.* \[standard form in IPNI: *Brongn.*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33120094) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33120094) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/28-1), [Wikidata](https://www.wikidata.org/wiki/Q1063507). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Abbot, Charles {std. C. Abbot} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Abbot, Charles (1761-1817), British clergyman and botanist, vicar of Oakley Raynes and Goldington, Beds. 
-**Abbreviated name**: *C. Abbot*
+**Abbreviated name**: *C. Abbot* \[standard form in IPNI: *C.Abbot*\]
 
 #### Herbarium and types
 

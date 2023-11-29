@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33258680) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 202](https://www.biodiversitylibrary.org/page/33258680) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3133-1), [Wikidata](https://www.wikidata.org/wiki/Q18671249). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gibson, George Stacey (1818-1883), British banker and amateur botanist, born 20 Jul 1818 in Saffron Walden (Essex), his Quaker family's fortune was founded on malting and brewing and then banking (the family bank merged with others in 1863 to become Barclays), mayor of Saffron Walden 1877-1878 and later alderman and Justice of the Peace for the borough, F.L.S. 1847, died 5 Apr 1883 "at the Temperance House, Bishopsgate", London. 
-**Abbreviated name**: *Gibson*
+**Abbreviated name**: *Gibson* \[standard form in IPNI: *Gibson*\]
 
 #### Herbarium and types
 

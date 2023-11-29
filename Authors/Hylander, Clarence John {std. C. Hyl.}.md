@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33068624) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33068624) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4264-1), [Wikidata](https://www.wikidata.org/wiki/Q21516694). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hylander, Clarence John (1897-x), American botanist. 
-**Abbreviated name**: *C. Hyl.*
+**Abbreviated name**: *C. Hyl.* \[standard form in IPNI: *C.Hyl.*\]
 
 #### Herbarium and types
 

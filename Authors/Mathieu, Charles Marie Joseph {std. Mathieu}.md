@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33355453) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 366](https://www.biodiversitylibrary.org/page/33355453) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23033-1), [Wikidata](https://www.wikidata.org/wiki/Q5764938). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mathieu, Charles Marie Joseph (1791-1873), Belgian pharmacist and botanist at Namur, later at Bruxelles (1857), and at Leur, Netherlands (1863). 
-**Abbreviated name**: *Mathieu*
+**Abbreviated name**: *Mathieu* \[standard form in IPNI: *Mathieu*\]
 
 #### Herbarium and types
 

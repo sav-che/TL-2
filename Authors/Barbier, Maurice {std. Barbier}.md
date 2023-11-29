@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33265048) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 321](https://www.biodiversitylibrary.org/page/33265048) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31311-1), [Wikidata](https://www.wikidata.org/wiki/Q21505647). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Barbier, Maurice (1866-1955), French mycologist, born at Lux (Côte-d'Or), educated at the Collège de Cluny and at the Lycée de Dijon, studied at the Faculté des Sciences of Dijon, Lic. ès Sciences ib., from 1898 member of the Société mycologique de France. 
-**Abbreviated name**: *Barbier*
+**Abbreviated name**: *Barbier* \[standard form in IPNI: *Barbier*\]
 
 #### Herbarium and types
 

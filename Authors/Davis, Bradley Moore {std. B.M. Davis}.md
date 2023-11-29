@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33259146) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33259146) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/14661-1), [Wikidata](https://www.wikidata.org/wiki/Q4954987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Davis, Bradley Moore (1871-1957), American botanist, born at Chicago, Illinois, studied with David Starr Jordan and Douglas Houghton Campbell at the University of Indiana, moved to Stanford BA 1892, MA 1894, Ph.D. Harvard 1895, assistant prof. Univ. Pennsylvania 1911, professor at the University of Michigan 1919-1942. 
-**Abbreviated name**: *B.M. Davis*
+**Abbreviated name**: *B.M. Davis* \[standard form in IPNI: *B.M.Davis*\]
 
 #### Herbarium and types
 

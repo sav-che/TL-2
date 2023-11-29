@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33355335) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33355335) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5986-1), [Wikidata](https://www.wikidata.org/wiki/Q1180650). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mágocsy-Dietz, Sándor \[Alexander\] (1855-1945), Hungarian botanist; high school teacher at the Budapest girls college (1888); extraord. prof. bot. Budapest 1897; full professor of botany Univ. Budapest 1901-1928. 
-**Abbreviated name**: *Mágocsy*
+**Abbreviated name**: *Mágocsy* \[standard form in IPNI: *Mágocsy*\]
 
 #### Herbarium and types
 

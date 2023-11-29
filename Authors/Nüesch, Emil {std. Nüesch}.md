@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 780](https://www.biodiversitylibrary.org/page/33355867) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 780](https://www.biodiversitylibrary.org/page/33355867) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24192-1), [Wikidata](https://www.wikidata.org/wiki/Q21522275). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nüesch, Emil (1877-1959), Swiss high school teacher and mycologist at St. Gallen, Dr. phil. h.c. Zürich 1942. 
-**Abbreviated name**: *Nüesch*
+**Abbreviated name**: *Nüesch* \[standard form in IPNI: *Nüesch*\]
 
 #### Herbarium and types
 

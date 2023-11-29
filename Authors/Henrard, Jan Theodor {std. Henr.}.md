@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33068401) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33068401) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3844-1), [Wikidata](https://www.wikidata.org/wiki/Q4497250). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Henrard, Jan Theodor (1881-1974), Dutch agrostologist and malacologist; studied pharmacy at Groningen (1901-1906) under Eykman; practicing pharmacist at Gorinchem 1909-1915, at the Hague 1915-1922; from 1921-1946 curator of the Rijksherbarium at Leiden, Dr. phil. (plant taxonomy) Utrecht 1929 under Pulle. 
-**Abbreviated name**: *Henr.*
+**Abbreviated name**: *Henr.* \[standard form in IPNI: *Henrard*\]
 
 #### Herbarium and types
 

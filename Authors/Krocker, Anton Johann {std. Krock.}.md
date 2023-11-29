@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33068917) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33068917) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5072-1), [Wikidata](https://www.wikidata.org/wiki/Q5101615). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krocker, Anton Johann (1744-1823), German botanist and physician in Breslau (now Wroclaw), Silezia. 
-**Abbreviated name**: *Krock.*
+**Abbreviated name**: *Krock.* \[standard form in IPNI: *Krock.*\]
 
 #### Herbarium and types
 

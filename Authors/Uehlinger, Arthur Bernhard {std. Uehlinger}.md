@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33212606) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 564](https://www.biodiversitylibrary.org/page/33212606) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10953-1), [Wikidata](https://www.wikidata.org/wiki/Q21611167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Uehlinger, Arthur Bernhard (1896-x), Swiss botanist and forester at Schaffhausen; Dr. phil. Zürich 1924. 
-**Abbreviated name**: *Uehlinger*
+**Abbreviated name**: *Uehlinger* \[standard form in IPNI: *Uehl.*\]
 
 #### Herbarium and types
 

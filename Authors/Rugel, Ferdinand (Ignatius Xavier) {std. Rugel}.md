@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/page/33190450) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/page/33190450) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8725-1), [Wikidata](https://www.wikidata.org/wiki/Q21607532). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rugel, Ferdinand (Ignatius Xavier) (1806-1878), German (Württemberg, Oberschwaben) born American botanical explorer, pharmacist and surgeon; practicing in Bern as pharmacist 1827-1840 and collecting in Switzerland, France, Spain and Sicily; to the United States, 1840, for R.J. Shuttleworth, collecting widely in S.W. states 1840-1848 and Cuba 1849; severing his ties with Shuttleworth 1849, after 1850 collecting occasionally in Tennessee and Texas; settled in Knoxville, Tennessee 1849, working for a wholesale drug firm; after the Civil War living in Jefferson County, Tennessee. 
-**Abbreviated name**: *Rugel*
+**Abbreviated name**: *Rugel* \[standard form in IPNI: *Rugel*\]
 
 #### Herbarium and types
 

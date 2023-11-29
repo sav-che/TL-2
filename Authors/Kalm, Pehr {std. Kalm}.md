@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33068729) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33068729) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4622-1), [Wikidata](https://www.wikidata.org/wiki/Q719204). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kalm, Pehr (1716-1779), Finnish-born botanist and traveller; pupil of Linnaeus; in North-America (1748-1751); from 1747 lecturer, later professor of economy and natural history at Abo (Turku). 
-**Abbreviated name**: *Kalm*
+**Abbreviated name**: *Kalm* \[standard form in IPNI: *Kalm*\]
 
 #### Herbarium and types
 
@@ -119,7 +118,7 @@ D.A.G. Dissertatio botanica-oeconomica, *de Erica vulgari* et Pteride aquilina, 
 ##### n.3489. Cqffé
 
 **Title**
-I.J.N. Enfaldige tanckar om *Cqffé* och de inhemska wäxter, som plaga brukas i des ställe, med wederbörandes minne, under... Pehr Kalms inseende, uti et academiskt försök utgifne at Elias Granroth, Gust. Son. Österbotninge. I Åbo större Lärosal, f.m.den \[14\] Maij 1755. Åbo, tryckt hos direct. och kongl. boktr. i storförstendömet Finland, Jacob Merckell \[1755\] Qu.
+I.J.N. Enfaldige tanckar om *Caffé* och de inhemska wäxter, som plaga brukas i des ställe, med wederbörandes minne, under... Pehr Kalms inseende, uti et academiskt försök utgifne at Elias Granroth, Gust. Son. Österbotninge. I Åbo större Lärosal, f.m.den \[14\] Maij 1755. Åbo, tryckt hos direct. och kongl. boktr. i storförstendömet Finland, Jacob Merckell \[1755\] Qu.
 **Abbreviated title**: *Caffé*.
 
 **Notes**

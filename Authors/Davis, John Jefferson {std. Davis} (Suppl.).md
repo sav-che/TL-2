@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33259152) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 106](https://www.biodiversitylibrary.org/page/33259152) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2029-1), [Wikidata](https://www.wikidata.org/wiki/Q21509931). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Davis, John Jefferson {std. Davis}|first entry]] for this author
 
 ### Author
 
 \* Davis, John Jefferson (1852-1937), American physician and botanist (mycologist), born at Davis, Illinois, B.S. University of Illinois 1872, M.D. Hahneman School of Medicine 1875, practiced medicine in Racine Wisconsin 1875-1911, retired 1911 and accepted curatorship of the Herbarium of University of Wisconsin 1911-1937. 
-**Abbreviated name**: *Davis*
+**Abbreviated name**: *Davis* \[standard form in IPNI: *Davis*\]
 
 #### Herbarium and types
 

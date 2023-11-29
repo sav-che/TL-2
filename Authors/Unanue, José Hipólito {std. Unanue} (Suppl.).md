@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33212628) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33212628) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10979-1), [Wikidata](https://www.wikidata.org/wiki/Q2332382). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Hipólito Unanue, José {std. Unanue}|first entry]] for this author
 
 ### Author
 
 Unanue, José Hipólito (1755-1853), Peruvian writer, physician and mathematician; professor of medicine at the Escuela de medicina of Lima; founder of the Escuela de Medicina of San Fernando; active in the movement of Peruvian independence (cosignatory manifesto 1812); in various government functions, ultimately as prime minister. 
-**Abbreviated name**: *Unanue*
+**Abbreviated name**: *Unanue* \[standard form in IPNI: *Unanue*\]
 
 #### Herbarium and types
 

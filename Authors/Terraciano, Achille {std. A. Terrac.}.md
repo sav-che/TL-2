@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-01-03 02:24:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33212265) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33212265) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10526-1), [Wikidata](https://www.wikidata.org/wiki/Q5656588). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Terraciano, Achille (1862-1917), Italian botanist; son \[?\] of Nicola Terraciano; assistant at the Orto botanico di Napoli 1885-1886; curator at the Istituto botanico, Roma 1886-1893; collected in Eritrea 1892-1893; teacher at the R. Scuola Tecnica, Padova, and at the R. Istituto Tecnico, Caserta 1894-1896; lecturer botany Napoli 1896; assistant at the Orto botanico 1896-1906; extraordinary profesor of botany at the University of Sassari 1906-1917. 
-**Abbreviated name**: *A. Terrac.*
+**Abbreviated name**: *A. Terrac.* \[standard form in IPNI: *A.Terracc.*\]
 
 #### Herbarium and types
 

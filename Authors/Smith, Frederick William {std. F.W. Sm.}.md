@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33333810) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33333810) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/35150-1), [Wikidata](https://www.wikidata.org/wiki/Q18819435). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Frederick William (1797-1835), British botanical artist. 
-**Abbreviated name**: *F.W. Sm.*
+**Abbreviated name**: *F.W. Sm.* \[standard form in IPNI: *F.W.Sm.*\]
 
 #### Herbarium and types
 

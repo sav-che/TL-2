@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33333521) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33333521) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9302-1), [Wikidata](https://www.wikidata.org/wiki/Q65833). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schultze, Maximilian Johann Siegmund \[Max Sigmund\] (1825-1874), German (Baden) diatomologist, microscopist and zoologist; studied in Greifswald and Berlin; Dr. med. Greifswald 1849 (1850); lecturer ("Privatdozent") Greifswald and prosektor 1825-1845; extraordinary professor of zoology at Halle 1845-1859; professor of anatomy at the University of Bonn 1859-1872. 
-**Abbreviated name**: *M. Schultze*
+**Abbreviated name**: *M. Schultze* \[standard form in IPNI: *M.Schultze*\]
 
 #### Herbarium and types
 

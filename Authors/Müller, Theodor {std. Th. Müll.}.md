@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33355738) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33355738) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6748-1), [Wikidata](https://www.wikidata.org/wiki/Q21516195). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Müller, Theodor (1894-1969), German lichenologist; war-invalid World War I; working on the lichens of the Eiffel at Klein Vernich. 
-**Abbreviated name**: *Th. Müll.*
+**Abbreviated name**: *Th. Müll.* \[standard form in IPNI: *T.Müll.*\]
 
 #### Herbarium and types
 

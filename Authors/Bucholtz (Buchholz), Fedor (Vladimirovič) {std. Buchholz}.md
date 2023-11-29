@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-08-23 13:43:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33266503) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33266503) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1249-1), [Wikidata](https://www.wikidata.org/wiki/Q4100512). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bucholtz \[Buchholz\], Fedor \[Vladimirovič\] (1872-1924), Polish born botanist and zoologist, from 1876 in Riga, educated at the Riga Gymnasium 1883-1891, studied botany in Moscow 1891-1895, stages at the University of Moscow 1895-1897, studied in Bern with Ed. Fischer 1896-1897, id. in München with Hartig and Tubeuf 1897, lecturer in botany and zoology at the Polytechnicum in Riga 1897-1903, Mag. bot. Moscow 1903, adjunct professor in Riga 1903-1907, professor of botany ib. (deputy) 1907-1912, full professor ib. 1912-1919, professor of botany and director of the botanical gardens in Dorpat \[Tartu\], Estonia, 1919-1924. 
-**Abbreviated name**: *Buchholz*
+**Abbreviated name**: *Buchholz* \[standard form in IPNI: *Bucholtz*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33355452) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33355452) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6215-1), [Wikidata](https://www.wikidata.org/wiki/Q4284790). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mathias, Mildred Esther \[Mrs. Gerald L. Hasler, 1930\], (1906-x), American botanist and conservationist at Los Angeles; specialist on Umbelliferae; Ph. D. Washington Univ. 1929; Jessie R. Barr Fellow, Henry Shaw School of botany 1927-1929; Missouri Botanical Garden 1929-1930; at New York Botanical Garden 1932-1936; University of California Berkeley 1937-1942; idem Los Angeles 1947-1974, from 1962 as professor of botany; Tyler Ecology award 1974. 
-**Abbreviated name**: *Mathias*
+**Abbreviated name**: *Mathias* \[standard form in IPNI: *Mathias*\]
 
 #### Herbarium and types
 

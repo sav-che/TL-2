@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265353) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33265353) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/773-1), [Wikidata](https://www.wikidata.org/wiki/Q5407654). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bicknell, Eugene Pintard {std. E.P. Bicknell}|first entry]] for this author
 
 ### Author
 
 \* Bicknell, Eugene Pintard (1859-1925), American banker and amateur botanist and ornithologist, connected with John Munroe & Company (foreign bankers in New York City), later a partner in that firm, published many botanical papers between 1884 and 1919, president of the Linnaean Society of New York 1879-1887, from 1880 member of the Torrey botanical Club, member of the corporation of the New York Botanical Garden 1910-1925. 
-**Abbreviated name**: *E.P. Bicknell*
+**Abbreviated name**: *E.P. Bicknell* \[standard form in IPNI: *E.P.Bicknell*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2014-11-04 09:06:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266014) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33266014) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17412-1), [Wikidata](https://www.wikidata.org/wiki/Q21509001). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cooper, Delmer Clair (1896-x), American botanist, born 10 Apr 1896, Sutherland, Iowa, hon. D.Sc. 1948, M.S. Purdue 1926, Ph.D. (bot) Wisconsin 1930, instructor of biology at Morningside College 1917-1919, Purdue 1926-1928, Wisconsin 1928-1930, research assoc. botany and genetics 1930-1936, botany 1936-1939, asst. professor of genetics 1942-1947, full professor 1947-x. 
-**Abbreviated name**: *D.C. Cooper*
+**Abbreviated name**: *D.C. Cooper* \[standard form in IPNI: *D.C.Cooper*\]
 
 #### Herbarium and types
 

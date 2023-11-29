@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33258771) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 293](https://www.biodiversitylibrary.org/page/33258771) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3257-1), [Wikidata](https://www.wikidata.org/wiki/Q39020268). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gomont, Maurice Augustin {std. Gomont}|first entry]] for this author
 
 ### Author
 
 \* Gomont, Maurice Augustin (1839-1909), French forester and algologist, born 11 Mai 1839 in Rouen, entered forestry school in Nancy 1858, appointed "garde-général des forêts" in Rouen, frustrated by administrative duties he resigned, began painting (with some success) but by the 1870s turned again to natural sciences, "Préparateur", Muséum natl. d'Histoire naturelle, Paris, where he focused his attention on algae, died 22 Jun 1909 in Rouen. 
-**Abbreviated name**: *Gomont*
+**Abbreviated name**: *Gomont* \[standard form in IPNI: *Gomont*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33212783) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33212783) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11197-1), [Wikidata](https://www.wikidata.org/wiki/Q5730819). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vilmorin, \[Charles Philippe\] Henry \[Levêque\] de (1843-1899), French botanist, geneticist and plant-breeder, son of Louis de Vilmorin; head of the Vilmorin-Andrieux et Cie 1867-1899 (from 1873 "chef de la Maison"); Légion d'Honneur 1882; Veitch Memorial Medal 1896. 
-**Abbreviated name**: *H. Vilm.*
+**Abbreviated name**: *H. Vilm.* \[standard form in IPNI: *H.Vilm.*\]
 
 #### Herbarium and types
 

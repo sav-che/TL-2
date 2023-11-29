@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33212169) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33212169) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10347-1), [Wikidata](https://www.wikidata.org/wiki/Q378863). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Swingle, Walter Tennyson (1871-1952), American botanist; M.Sc. State Agr. Coll. Kansas 1896; Dr. sci. h.c. 1922; with the United States Department of Agriculture 1891-1941; in 1895-1896 and 1898 studying at the Universities of Bonn (with E. Strasburger) and Leipzig (with Pfeffer); specialist on *Citrus*. 
-**Abbreviated name**: *Swingle*
+**Abbreviated name**: *Swingle* \[standard form in IPNI: *Swingle*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33120184) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 53](https://www.biodiversitylibrary.org/page/33120184) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/228-1), [Wikidata](https://www.wikidata.org/wiki/Q21505271). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Annenkov, Nicolas Ivanovich (1819-1889), Russian cryptogamist. 
-**Abbreviated name**: *Annenkov*
+**Abbreviated name**: *Annenkov* \[standard form in IPNI: *Annenkov*\]
 
 #### Herbarium and types
 

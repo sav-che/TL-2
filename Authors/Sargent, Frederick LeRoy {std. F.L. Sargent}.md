@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33333157) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33333157) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8918-1), [Wikidata](https://www.wikidata.org/wiki/Q18911820). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sargent, Frederick LeRoy (1863-1928), American botanist; studied at the Lawrence Science School, Harvard University 1883-1886; head Department of Botany, Madison, Wisconsin 1886-1887; instructor in botany at the Medical School, Boston 1894-1895; assistant Botanical Museum, Harvard University 1902-1904; later botany teacher at Cambridge, Mass. 
-**Abbreviated name**: *F.L. Sargent*
+**Abbreviated name**: *F.L. Sargent* \[standard form in IPNI: *F.L.Sarg.*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33264860) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 133](https://www.biodiversitylibrary.org/page/33264860) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/239-1), [Wikidata](https://www.wikidata.org/wiki/Q16500057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Antz, Carl Cäsar {std. Antz}|first entry]] for this author
 
 ### Author
 
 \* Antz, Carl \[Karl\] Cäsar (1805-1859), German (Mosel) military physician and botanist ultimately "Bataillonsarzt beim 2. Jägerbataillon", Greifswald. 
-**Abbreviated name**: *Antz*
+**Abbreviated name**: *Antz* \[standard form in IPNI: *Antz*\]
 
 #### Herbarium and types
 

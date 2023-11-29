@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33355936) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 849](https://www.biodiversitylibrary.org/page/33355936) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7173-1), [Wikidata](https://www.wikidata.org/wiki/Q5697501). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ortmann, Anton (1801-1861), German-Bohemian botanist and pharmacist at Ellbogen and Carlsbad; 1857-1861 burgomaster of Ellbogen. 
-**Abbreviated name**: *Ant. Ortmann*
+**Abbreviated name**: *Ant. Ortmann* \[standard form in IPNI: *Ortmann*\]
 
 #### Herbarium and types
 

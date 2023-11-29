@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33264743) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33264743) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/106-1), [Wikidata](https://www.wikidata.org/wiki/Q7996129). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ainslie, \[Sir\] Whitelaw (1767-1836), British physician and medical botanist, M.D. Leiden 1786, knighted 1837, surgeon in the East Indian Company 1788-1815, asst. surgeon until ca. 1789, garrison surgeon Chingleput, India ca. 1789, surgeon Ganjam 1794, superintending surgeon 1810, id. Madras army, southern div. 1814. 
-**Abbreviated name**: *W. Ainslie*
+**Abbreviated name**: *W. Ainslie* \[standard form in IPNI: *Ainslie*\]
 
 #### Herbarium and types
 

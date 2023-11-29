@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33121112) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 981](https://www.biodiversitylibrary.org/page/33121112) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12517-1), [Wikidata](https://www.wikidata.org/wiki/Q21514222). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Graumüller, Johann Christian Friedrich (1770-1824), German botanist and pharmacist at Jena, lectured at Jena University from 1807 onward. 
-**Abbreviated name**: *Graum.*
+**Abbreviated name**: *Graum.* \[standard form in IPNI: *Graum.*\]
 
 #### Herbarium and types
 

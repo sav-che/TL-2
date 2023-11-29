@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33265775) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33265775) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1587-1), [Wikidata](https://www.wikidata.org/wiki/Q16593613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chevallier, Louis Pierre Désiré (1852-1938), French clergyman and botanist, born at Précigné, Sarthe, explorer and botanical collector of the Algerian Sahara, teacher at the Petit Séminaire d'Autun. 
-**Abbreviated name**: *L. Chevall.*
+**Abbreviated name**: *L. Chevall.* \[standard form in IPNI: *L.Chevall.*\]
 
 #### Herbarium and types
 

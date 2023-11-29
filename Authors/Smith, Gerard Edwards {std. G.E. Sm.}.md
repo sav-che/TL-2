@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/page/33333811) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/page/33333811) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9793-1), [Wikidata](https://www.wikidata.org/wiki/Q3103946). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Gerard Edwards (1804-1881), British clergyman and botanist; BA Oxon. 1829; curate at Sellinge (Kent) 1829-1830; vicar at Cantley (Yorks.) 1844-1846; id. at Osmaston (Derby) 1854-1871. 
-**Abbreviated name**: *G.E. Sm.*
+**Abbreviated name**: *G.E. Sm.* \[standard form in IPNI: *G.E.Sm.*\]
 
 #### Herbarium and types
 

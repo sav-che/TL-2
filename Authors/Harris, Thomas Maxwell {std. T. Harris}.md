@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33068300) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33068300) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/19991-1), [Wikidata](https://www.wikidata.org/wiki/Q3525403). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Harris, Thomas Maxwell (1903-x), British palaeobotanist in London; trained at Cambridge; collected in East Greenland 1926-1927; specialized on Jurassic fossil plants. 
-**Abbreviated name**: *T. Harris*
+**Abbreviated name**: *T. Harris* \[standard form in IPNI: *T.M.Harris*\]
 
 #### Collections
 

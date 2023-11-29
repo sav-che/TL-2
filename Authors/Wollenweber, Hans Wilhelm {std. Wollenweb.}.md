@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33066766) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 426](https://www.biodiversitylibrary.org/page/33066766) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11828-1), [Wikidata](https://www.wikidata.org/wiki/Q21612926). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wollenweber, Hans Wilhelm (1879-1949), German (Westphalen) mycologist and parasitologist; trained as a gardener at the horticultural school Wildpark, Potsdam; garden-technician in Hannover 1902-1903; studied at the Universities of Göttingen and Berlin 1906-1909; Dr. phil. Berlin 1909; collaborator in the phytopathological laboratory of the Biologische Reichsanstalt, Berlin-Dahlem 1909, from 1919 in charge of the mycological laboratory ib. 
-**Abbreviated name**: *Wollenweb.*
+**Abbreviated name**: *Wollenweb.* \[standard form in IPNI: *Wollenw.*\]
 
 #### Herbarium and types
 

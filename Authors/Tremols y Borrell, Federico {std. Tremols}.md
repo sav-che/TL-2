@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33212510) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33212510) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10808-1), [Wikidata](https://www.wikidata.org/wiki/Q19289088). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tremols y Borrell, Federico (1831-1900), Spanish (Catalonian) botanist and pharmaceutical chemist; professor of inorganic chemistry at Granada, later prof. of the history of pharmacy at Barcelona. 
-**Abbreviated name**: *Tremols*
+**Abbreviated name**: *Tremols* \[standard form in IPNI: *Trémols*\]
 
 #### Herbarium and types
 

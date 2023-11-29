@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33069068) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 826](https://www.biodiversitylibrary.org/page/33069068) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/22209-1), [Wikidata](https://www.wikidata.org/wiki/Q461250). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leidy, Joseph (1823-1891), American anatomist, parasitologist and paleontologist at Philadelphia; founder of American vertebrate paleontology; one of the last of the great naturalists; Dr. med. Philadelphia 1844. 
-**Abbreviated name**: *Leidy*
+**Abbreviated name**: *Leidy* \[standard form in IPNI: *Leidy*\]
 
 #### Herbarium and types
 

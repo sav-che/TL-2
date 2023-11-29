@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33258572) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33258572) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/36682-1), [Wikidata](https://www.wikidata.org/wiki/Q442067). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gage, Andrew Thomas (1871-1945) (Major, later Lieut.-Col.), Scottish soldier, physician and botanist, born 14 Dec 1871 in Aberdeen, M.A. and LL.D. Aberdeen Univ., asst. to prof. of Botany, Aberdeen Univ. 1894-1895, Indian Medical Service 1897-1898, herb. curator, Calcutta Botanic Gardens 1898-1905, then superintendent and dir. of the Botanical Survey of India 1906-1925, prof. of Botany, Medical College, Calcutta, librarian and asst. secretary of the Linnean Society (London) 1924-1929, F.L.S. 1901, died 21 Jan 1945 in Strathpeffer (Ross). 
-**Abbreviated name**: *A.T. Gage*
+**Abbreviated name**: *A.T. Gage* \[standard form in IPNI: *Gage*\]
 
 #### Note
 

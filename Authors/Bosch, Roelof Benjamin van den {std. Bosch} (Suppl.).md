@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33265565) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 368](https://www.biodiversitylibrary.org/page/33265565) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1005-1), [Wikidata](https://www.wikidata.org/wiki/Q3438551). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bosch, Roelof Benjamin van den {std. Bosch}|first entry]] for this author
 
 ### Author
 
 \* Bosch, Roelof Benjamin van den (1810-1862), Dutch physician and botanist, born at Rotterdam, educated at Neuwied with the Community of the Moravian brethern and at the "Gymnasium" at Middelburg, studied medicine and botany at the University of Leiden 1829, on active service in the Dutch-Belgian war 1831-1832, continued his studies at Leiden, Dr. med. ib. 1837, from 1837 stationed as medical doctor at Goes (Zeeland). 
-**Abbreviated name**: *Bosch*
+**Abbreviated name**: *Bosch* \[standard form in IPNI: *Bosch*\]
 
 #### Herbarium and types
 

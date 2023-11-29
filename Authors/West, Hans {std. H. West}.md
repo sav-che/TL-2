@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33066543) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33066543) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11578-1), [Wikidata](https://www.wikidata.org/wiki/Q12315588). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 West, Hans (1758-1811), Danish botanist, art collector, philologist and administrator; studied modern languages at Odense; headmaster at Christiansted on St. Croix 1788-1800, later public notary; consul in the Netherlands 1802-1805; collected on St. Croix, St. Thomas, Vieques (Crab Island), Puertorico and Martinique. 
-**Abbreviated name**: *H. West*
+**Abbreviated name**: *H. West* \[standard form in IPNI: *H.West*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33120735) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33120735) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2050-1), [Wikidata](https://www.wikidata.org/wiki/Q5075976). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Deam, Charles Clemon {std. Deam} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Deam, Charles Clemon (1865-1953), American botanist. 
-**Abbreviated name**: *Deam*
+**Abbreviated name**: *Deam* \[standard form in IPNI: *Deam*\]
 
 #### Herbarium and types
 

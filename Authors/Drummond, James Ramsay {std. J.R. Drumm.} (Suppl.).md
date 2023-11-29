@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-10-26 08:06:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33260106) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33260106) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2325-1), [Wikidata](https://www.wikidata.org/wiki/Q6450944). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Drummond, James Ramsay {std. J.R. Drumm.}|first entry]] for this author
 
 ### Author
 
 \* Drummond, James Ramsay (1851-1921), Scottish botanist born 13 (or 25) Mai 1851 on a boat at sea near Madras, studied in Oxford, B.A. 1872, Indian Civil Service in Punjab 1874-1904, to Kew 1905-1921, died 11 Mar 1921 in Acton (Middx.). 
-**Abbreviated name**: *J.R. Drumm.*
+**Abbreviated name**: *J.R. Drumm.* \[standard form in IPNI: *J.R.Drumm.*\]
 
 #### Herbarium and types
 

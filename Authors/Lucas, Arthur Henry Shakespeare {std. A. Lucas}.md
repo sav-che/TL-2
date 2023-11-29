@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33355267) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 180](https://www.biodiversitylibrary.org/page/33355267) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5794-1), [Wikidata](https://www.wikidata.org/wiki/Q2865141). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lucas, Arthur Henry Shakespeare (1853-1936), British-born Australian botanist and science master; at Wesley College, Melbourne 1883, at Stanmore, N.S.W. 1892, at Sydney 1899-1923. 
-**Abbreviated name**: *A. Lucas*
+**Abbreviated name**: *A. Lucas* \[standard form in IPNI: *A.H.S.Lucas*\]
 
 #### Herbarium and types
 

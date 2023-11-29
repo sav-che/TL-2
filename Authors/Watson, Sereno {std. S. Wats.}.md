@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33066442) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 102](https://www.biodiversitylibrary.org/page/33066442) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11437-1), [Wikidata](https://www.wikidata.org/wiki/Q960820). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Watson, Sereno (1826-1892), American botanist; trained as a physician; secretary of the Planter's Insurance Company in Greensboro, Alabama 1856-1861; employed with the Journal of Education at Hartford, Conn. 1861-1866; to California 1867; joined C. King's Geological Exploration of the fortieth parallel as a volunteer 1867; official botanist of the expedition 1868; studied his collections at Yale 1869 and Harvard 1870-1874; assistant with A. Gray at the Gray Herbarium 1874-1888; curator ib. 1888-1892; travelled in N.W. United States 1880, Guatemala 1885 and Europe 1886. 
-**Abbreviated name**: *S. Wats.*
+**Abbreviated name**: *S. Wats.* \[standard form in IPNI: *S.Watson*\]
 
 #### Herbarium and types
 

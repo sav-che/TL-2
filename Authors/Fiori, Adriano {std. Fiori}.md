@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-01-03 07:28:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/page/33120963) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 832](https://www.biodiversitylibrary.org/page/33120963) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18815-1), [Wikidata](https://www.wikidata.org/wiki/Q3605723). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fiori, Adriano {std. Fiori} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fiori, Adriano (1865-1950), Italian botanist. 
-**Abbreviated name**: *Fiori*
+**Abbreviated name**: *Fiori* \[standard form in IPNI: *Fiori*\]
 
 #### Herbarium and types
 

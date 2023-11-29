@@ -21,14 +21,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-01-04 14:26:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33259792) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33259792) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/38525-1), [Wikidata](https://www.wikidata.org/wiki/Q18984675). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Foerster \[Förster\], Friedrich (1865-1918), German botanist and collector, born in Kehl, died 2 Dec 1918 in Oberkirch (Braunschweig). 
-**Abbreviated name**: *F. Foerst.*
+**Abbreviated name**: *F. Foerst.* \[standard form in IPNI: *F.Först.*\]
 
 #### Herbarium and types
 

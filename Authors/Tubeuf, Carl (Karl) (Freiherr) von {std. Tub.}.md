@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33212562) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33212562) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10887-1), [Wikidata](https://www.wikidata.org/wiki/Q1041447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tubeuf, Carl \[Karl\] \[Freiherr\] von (1862-1941), German (Franconian) botanist; studied at the Forestry College, Aschaffenburg 1883 and the University of München 1885; Dr. phil. München 1886; with the Karlsruhe Polytechnic 1887; botanical assistant at the Forestry Research Institute München; habil. Univ. München 1888, Techn. Hochschule 1892; head of the botanical laboratory of the "Land- und Forstwissenschaftliche kaiserliche Gesundheitsamte" Berlin 1898-1902, from 1901 as director of the Biology department; "Regierungsrath" 1899; professor of forestry science at the University of München 1902-1933. 
-**Abbreviated name**: *Tub.*
+**Abbreviated name**: *Tub.* \[standard form in IPNI: *Tubeuf*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33120651) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33120651) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1726-1), [Wikidata](https://www.wikidata.org/wiki/Q615827). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Coincy, Auguste Henri (Cornut de la Fontaine de) {std. Coincy} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Coincy, Auguste Henri Cornu de la Fontaine de, (1837-1903). French botanist. 
-**Abbreviated name**: *Coincy*
+**Abbreviated name**: *Coincy* \[standard form in IPNI: *Coincy*\]
 
 #### Herbarium and types
 

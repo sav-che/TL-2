@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-09-27 10:16:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33265809) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 132](https://www.biodiversitylibrary.org/page/33265809) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17209-1), [Wikidata](https://www.wikidata.org/wiki/Q21338802). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Choisy ("Pautré dit Choisy"), Maurice \[Gustave Benoît\] (1897-1969?), French botanist at Lyon, born 29 Jun 1897 at Priay, Ain, specialized in classification of ascolichens and lichenological nomenclature. 
-**Abbreviated name**: *M. Choisy*
+**Abbreviated name**: *M. Choisy* \[standard form in IPNI: *M.Choisy*\]
 
 #### Herbarium and types
 

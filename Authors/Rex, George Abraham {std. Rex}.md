@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33190219) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 748](https://www.biodiversitylibrary.org/page/33190219) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8323-1), [Wikidata](https://www.wikidata.org/wiki/Q5877766). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rex, George Abraham (1845-1895), American physician and mycologist in Philadelphia; Dr. med. Univ. Pennsylvania 1868; demonstrator of anatomy at the University of Pennsylvania; conservator of the Microscopical Section of the Academy of natural Sciences 1890-1895. 
-**Abbreviated name**: *Rex*
+**Abbreviated name**: *Rex* \[standard form in IPNI: *Rex*\]
 
 #### Herbarium and types
 

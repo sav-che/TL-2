@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 919](https://www.biodiversitylibrary.org/page/33334058) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 919](https://www.biodiversitylibrary.org/page/33334058) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10133-1), [Wikidata](https://www.wikidata.org/wiki/Q4442570). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stevenson, John Albert (1890-1979), American mycologist; studied forestry at the University of Minnesota, B.S. ib. 1912, assistant ib. 1912-1913; plant pathologist in Puerto Rico 1913-1918; pathology inspector Federal Horticultural Board, Washington, D.C. 1919-1925; in charge of foreign agricultural exploration USDA 1925-1927, with the National Fungus Collections at Beltville, Md. 1927-1960; in retirement at Beltsville from 1960-1979. 
-**Abbreviated name**: *J.A. Stevenson*
+**Abbreviated name**: *J.A. Stevenson* \[standard form in IPNI: *J.A.Stev.*\]
 
 #### Herbarium and types
 

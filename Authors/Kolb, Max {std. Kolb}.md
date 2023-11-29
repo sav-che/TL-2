@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33068850) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 608](https://www.biodiversitylibrary.org/page/33068850) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4938-1), [Wikidata](https://www.wikidata.org/wiki/Q15434709). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kolb, Max (1829-1915), German gardener, worked in botanical gardens in Berlin and Paris; from 1859 "Kön. Oberinspecktor am botanischen Garten in München." 
-**Abbreviated name**: *Kolb*
+**Abbreviated name**: *Kolb* \[standard form in IPNI: *Kolb*\]
 
 #### Herbarium and types
 

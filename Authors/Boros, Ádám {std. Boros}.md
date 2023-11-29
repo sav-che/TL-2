@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33265555) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 358](https://www.biodiversitylibrary.org/page/33265555) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/994-1), [Wikidata](https://www.wikidata.org/wiki/Q835208). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Boros, Ádám (1900-1973), Hungarian botanist (bryologist, florist, geo-botanist), studied at the University of Budapest 1918-1922, Dr. bot. 1922, employed by the Hungarian medical plants station from 1922, director ib. 1945, also with the state agricultural botany institute, lecturer at the Pázmány Péter University 1929, professor 1949, Dr. biol. sci. at the Science Academy Budapest. 
-**Abbreviated name**: *Boros*
+**Abbreviated name**: *Boros* \[standard form in IPNI: *Boros*\]
 
 #### Herbarium and types
 

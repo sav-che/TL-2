@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33068583) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33068583) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4138-1), [Wikidata](https://www.wikidata.org/wiki/Q18385149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hough, Romeyn Beck (1857-1924), American botanist at Lowville, N.J. 
-**Abbreviated name**: *Hough*
+**Abbreviated name**: *Hough* \[standard form in IPNI: *Hough*\]
 
 #### Herbarium and types
 

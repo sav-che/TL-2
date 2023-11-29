@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33068972) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 730](https://www.biodiversitylibrary.org/page/33068972) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5227-1), [Wikidata](https://www.wikidata.org/wiki/Q82122). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lamarck, Jean Baptiste Antoine Pierre Monnet de (1744-1829), French biologist; founder of the theory of evolution; 1761-1768 in French army; 1768-1778 bank employee in Paris; 1778-1793 botanist at the Jardin des Plantes; 1793-1829 professor of zoology at the Museum d'histoire naturelle 
-**Abbreviated name**: *Lam.*
+**Abbreviated name**: *Lam.* \[standard form in IPNI: *Lam.*\]
 
 #### Herbarium and types
 

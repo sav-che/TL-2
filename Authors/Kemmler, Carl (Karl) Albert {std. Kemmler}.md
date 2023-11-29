@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33068763) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 521](https://www.biodiversitylibrary.org/page/33068763) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4721-1), [Wikidata](https://www.wikidata.org/wiki/Q15989572). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kemmler, Carl \[Karl\] Albert (1813-1888), German clergyman and botanist at Untersontheim 1847-1863; from 1863 at Donnstetten, Württemberg. 
-**Abbreviated name**: *Kemmler*
+**Abbreviated name**: *Kemmler* \[standard form in IPNI: *Kemmler*\]
 
 #### Herbarium and types
 

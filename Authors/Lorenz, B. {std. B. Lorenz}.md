@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33355247) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 160](https://www.biodiversitylibrary.org/page/33355247) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5752-1), [Wikidata](https://www.wikidata.org/wiki/Q47121556). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lorenz, B. (*fl*. 1894), German botanist; high school teacher at Zittau. 
-**Abbreviated name**: *B. Lorenz*
+**Abbreviated name**: *B. Lorenz* \[standard form in IPNI: *B.Lorenz*\]
 
 #### Herbarium and types
 

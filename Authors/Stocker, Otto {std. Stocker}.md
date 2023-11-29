@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33212085) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33212085) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10151-1), [Wikidata](https://www.wikidata.org/wiki/Q2040709). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stocker, Otto (1888-1979), German (Baden) plant physiologist and ecologist; Dr. phil. Freiburg i. Br. 1923; scientific assistant at the Techn. Hochschule Karlsruhe 1913-1914; high school teacher at Bremerhaven 1915-1934; professor of botany and director of the Botanical Institute and Garden in Darmstadt 1934-1959; in retirement still actively travelling and publishing. 
-**Abbreviated name**: *Stocker*
+**Abbreviated name**: *Stocker* \[standard form in IPNI: *Stocker*\]
 
 #### Herbarium and types
 

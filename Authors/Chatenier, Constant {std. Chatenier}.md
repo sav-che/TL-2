@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265740) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265740) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1547-1), [Wikidata](https://www.wikidata.org/wiki/Q5784429). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chatenier, Constant (1849-1926), French botanist at Lus-la-Croix Haute. 
-**Abbreviated name**: *Chatenier*
+**Abbreviated name**: *Chatenier* \[standard form in IPNI: *Chatenier*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33068684) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33068684) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4480-1), [Wikidata](https://www.wikidata.org/wiki/Q96744). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jessen, Karl Friedrich Wilhelm (1821-1889), German botanist, bibliographer, historian of science and friend of Pritzel; Dr. phil. Kiel 1848; 1850 "Privatdozent" in Berlin; 1852-1877 professor of botany at the agricultural College of Eldena and the university of Greifswald; from 1877 in Berlin. 
-**Abbreviated name**: *Jess.*
+**Abbreviated name**: *Jess.* \[standard form in IPNI: *Jess.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33259705) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33259705) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/18818-1), [Wikidata](https://www.wikidata.org/wiki/Q15301643). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fischer, Alfred (1858-1913), German botanist (cryptogamist) and bacteriologist, born 17 Dec 1858 in Meissen where he attended school, later at the Annen-Realschule of Dresden, studied natural sciences in Leipzig 1876-1877, Würzburg 1877-1878 and Jena from 1879, Dr. Sci. Nat. 1879 Jena, docent 1882, then extraord. prof., Leipzig 1889, prof. and dir. of the Botanic Garden in Basel (Switzerland) 1901-1912, returned to Leipzig 1912, died 27 Mar 1913 (suicide). 
-**Abbreviated name**: *A. Fisch.*
+**Abbreviated name**: *A. Fisch.* \[standard form in IPNI: *A.Fisch.*\]
 
 #### Note
 

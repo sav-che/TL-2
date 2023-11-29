@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33212475) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 433](https://www.biodiversitylibrary.org/page/33212475) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12944-1), [Wikidata](https://www.wikidata.org/wiki/Q4462167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tranzschel \[Transhel\], Woldemar \[Andrejevich\] (1868-1942), Russian botanist; assistant Forestry Institute St. Petersburg; assistant for syst. bot. at the University of Warsaw 1898; curator at the department of cryptogams of the St. Petersburg Botanical Museum 1900, professor at the Institute for applied Zoology and Phytopathology, Leningrad. 
-**Abbreviated name**: *Tranzschel*
+**Abbreviated name**: *Tranzschel* \[standard form in IPNI: *Tranzschel*\]
 
 #### Herbarium and types
 

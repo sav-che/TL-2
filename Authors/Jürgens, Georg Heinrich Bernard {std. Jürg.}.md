@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33068709) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33068709) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4570-1), [Wikidata](https://www.wikidata.org/wiki/Q21517177). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jürgens, Georg Heinrich Bernard (1771-1846), German magistrate at Jever in Oldenburg, Friesian algologist. 
-**Abbreviated name**: *Jürg.*
+**Abbreviated name**: *Jürg.* \[standard form in IPNI: *Jürg.*\]
 
 #### Herbarium and types
 

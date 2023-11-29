@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33068359) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 117](https://www.biodiversitylibrary.org/page/33068359) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3764-1), [Wikidata](https://www.wikidata.org/wiki/Q629451). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hecker, Johann Julius (1707-1768), German botanist; high school teacher and Ober-Consistorialrath at Berlin 
-**Abbreviated name**: *Hecker*
+**Abbreviated name**: *Hecker* \[standard form in IPNI: *Hecker*\]
 
 #### Herbarium and types
 

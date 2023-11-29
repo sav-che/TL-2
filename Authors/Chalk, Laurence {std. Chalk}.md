@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33265716) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33265716) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1498-1), [Wikidata](https://www.wikidata.org/wiki/Q21387682). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chalk, Laurence (1895-1979), English botanist, born in Crowborough, Sussex, 7 April 1895, died 6 Mai 1979, served in France in the Royal Berkshire Regiment 1914-1918, from 1918 at Oxford University, bachelor’s degree in Forestry 1921 (MA 1926), lecturer at Oxford in wood anatomy 1924, doctorate 1929, worked with B.J. Rendle also at Oxford, University Reader in wood anatomy and lecturer of University College, retirement 1966. 
-**Abbreviated name**: *Chalk*
+**Abbreviated name**: *Chalk* \[standard form in IPNI: *Chalk*\]
 
 #### Herbarium and types
 

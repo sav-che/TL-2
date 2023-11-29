@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33120944) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 813](https://www.biodiversitylibrary.org/page/33120944) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18653-1), [Wikidata](https://www.wikidata.org/wiki/Q2701736). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Farlow, William Gilson (sometimes miscited as Gibson) {std. Farl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Farlow, William Gilson (1844-1919), American botanist, professor of cryptogamic botany at Harvard. 
-**Abbreviated name**: *Farl.*
+**Abbreviated name**: *Farl.* \[standard form in IPNI: *Farl.*\]
 
 #### Herbarium and types
 

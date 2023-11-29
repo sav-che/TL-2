@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33265101) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33265101) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/538-1), [Wikidata](https://www.wikidata.org/wiki/Q20724832). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bates, John Mallory (1846-1930), American episcopal clergyman, botanist and ornithologist, Trinity College Hartford A.B. 1872, A.M. 1875, graduated at Berkeley Divinity School, Middletown, Conn. 1875; principal highschool Middletown 1873-1874; clergyman from 1876, chaplain and head master Bethany College, Topeka Kansas 1883-1886, later in Nebraska, collecting there ca. 1890-1916. 
-**Abbreviated name**: *J.M. Bates*
+**Abbreviated name**: *J.M. Bates* \[standard form in IPNI: *Bates*\]
 
 #### Herbarium and types
 

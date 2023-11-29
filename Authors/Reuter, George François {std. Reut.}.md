@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33190213) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 742](https://www.biodiversitylibrary.org/page/33190213) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8313-1), [Wikidata](https://www.wikidata.org/wiki/Q2609755). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reuter, George François (1805-1872), Swiss (French-born) botanist (of Geneva parents), at Genève from 1826, at first active as engraver; from 1835 curator of the Candollean herbarium; with E. Boissier in Spain, 1841 and until 1849 curator of the Boissier herbarium and collaborator of Boissier accompanying him on his travels and collecting trips; from 1849-1872 director of the Genève botanical garden (succeeding Alph. de Candolle). 
-**Abbreviated name**: *Reut.*
+**Abbreviated name**: *Reut.* \[standard form in IPNI: *Reut.*\]
 
 #### Herbarium and types
 

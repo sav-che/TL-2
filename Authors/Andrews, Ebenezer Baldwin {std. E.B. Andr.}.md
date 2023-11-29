@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33264852) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33264852) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/29974-1), [Wikidata](https://www.wikidata.org/wiki/Q21505221). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Andrews, Ebenezer Baldwin (1821-1880), American (Connecticut born) clergyman and palaeontologist, also egg collector; graduated from Marietta College, Ohio 1842, professor of geology in Marietta College 1851-1869, from 1869 assistant geologist to the Ohio State Survey. 
-**Abbreviated name**: *E.B. Andr.*
+**Abbreviated name**: *E.B. Andr.* \[standard form in IPNI: *E.B.Andrews*\]
 
 #### Herbarium and types
 

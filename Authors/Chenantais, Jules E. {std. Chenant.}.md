@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33265755) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33265755) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17150-1), [Wikidata](https://www.wikidata.org/wiki/Q21337495). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chenantais, Jules E. (1854-1942), French algologist, mycologist and artist, studied medicine at Nantes and Paris, practicing physician in Nantes. 
-**Abbreviated name**: *Chenant.*
+**Abbreviated name**: *Chenant.* \[standard form in IPNI: *Chenant.*\]
 
 #### Herbarium and types
 

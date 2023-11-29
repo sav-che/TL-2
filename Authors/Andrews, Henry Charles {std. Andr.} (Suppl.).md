@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33264852) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 125](https://www.biodiversitylibrary.org/page/33264852) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/216-1), [Wikidata](https://www.wikidata.org/wiki/Q947133). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Andrews, Henry C. {std. Andr.}|first entry]] for this author
 
 ### Author
 
 \* Andrews, Henry Charles (fl. 1799-1830), British botanical painter and engraver of Knightbridge, London. 
-**Abbreviated name**: *Andr.*
+**Abbreviated name**: *Andr.* \[standard form in IPNI: *Andrews*\]
 
 #### Herbarium and types
 

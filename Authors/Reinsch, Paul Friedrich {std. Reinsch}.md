@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/page/33190177) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 706](https://www.biodiversitylibrary.org/page/33190177) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8275-1), [Wikidata](https://www.wikidata.org/wiki/Q6067171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reinsch, Paul Friedrich (1836-1914), German (Bavarian) botanist and palaeontologist; studied at Erlangen and München; high school teacher in Erlangen, Zweibrücken and Baselland; in early retirement at Erlangen. 
-**Abbreviated name**: *Reinsch*
+**Abbreviated name**: *Reinsch* \[standard form in IPNI: *Reinsch*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33265858) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33265858) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/20014442-2), [Wikidata](https://www.wikidata.org/wiki/Q21508662). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clark, Josephine Adelaide (1856-x), American botanist, born 9 Mar 1856, Weston, Mass., later at U.S. Dept. Agric., asst. librarian 1891-1900, librarian 1901-1907, at Smith College library 1907-1919. 
-**Abbreviated name**: *J.A. Clark*
+**Abbreviated name**: *J.A. Clark* \[standard form in IPNI: *J.A.Clark*\]
 
 #### Herbarium and types
 

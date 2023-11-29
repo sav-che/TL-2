@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33068749) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33068749) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4671-1), [Wikidata](https://www.wikidata.org/wiki/Q4217653). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kauffman, Calvin Henry (1869-1931), America mycologist of Pennsylvania-Dutch origin at the University of Michigan, Ann Arbor, Michigan; Ph. D. Ann Arbor 1907; instructor of botany 1904; assist. professor 1912; associate professor 1920; full professor 1923; founder of the Ann Arbor mycological school. 
-**Abbreviated name**: *Kauffm.*
+**Abbreviated name**: *Kauffm.* \[standard form in IPNI: *Kauffman*\]
 
 #### Herbarium and types
 

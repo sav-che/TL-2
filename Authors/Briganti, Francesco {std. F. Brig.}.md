@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33266382) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33266382) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16537-1), [Wikidata](https://www.wikidata.org/wiki/Q21506481). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Briganti, Francesco (1802-1865), Italian botanist, born 18 Apr 1802, Naples, as son of Vincenzo Briganti (see TL-2/1: 325-326), continued the works of his father as professor at the University of Naples, died 21 Dec 1865, Naples. 
-**Abbreviated name**: *F. Brig.*
+**Abbreviated name**: *F. Brig.* \[standard form in IPNI: *F.Brig.*\]
 
 #### Herbarium and types
 

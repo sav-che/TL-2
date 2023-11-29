@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33333228) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33333228) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26187-1), [Wikidata](https://www.wikidata.org/wiki/Q19862926). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Savicz \[-Ljubitzkaja\], Lydia Ivanovna (1886-1982), Russian botanist (bryologist) at the V.L. Komarov Botanical Institute, Leningrad 1911-1956. 
-**Abbreviated name**: *Savicz*
+**Abbreviated name**: *Savicz* \[standard form in IPNI: *L.I.Savicz*\]
 
 #### Herbarium and types
 

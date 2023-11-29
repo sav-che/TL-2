@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33120732) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33120732) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2014-1), [Wikidata](https://www.wikidata.org/wiki/Q5497956). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Davey, Frederick Hamilton {std. Davey} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Davey, Frederick Hamilton (1868-1915), British botanist in Cornwall. 
-**Abbreviated name**: *Davey*
+**Abbreviated name**: *Davey* \[standard form in IPNI: *Davey*\]
 
 #### Herbarium and types
 

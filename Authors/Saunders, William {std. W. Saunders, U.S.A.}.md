@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33333206) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33333206) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8955-1), [Wikidata](https://www.wikidata.org/wiki/Q6811116). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saunders, William (1822-1900), Scottish horticulturist; Kew gardener; to the U.S.A. 1848; partner of T. Meehan 1854; naturalized U.S. citizen 1857; botanist and superintendent of horticulture USDA, Washington 1862; planned Fairmount Park, Philadelphia; introduced the seedless (navel) orange into the United States. 
-**Abbreviated name**: *W. Saunders, U.S.A.*
+**Abbreviated name**: *W. Saunders, U.S.A.* \[standard form in IPNI: *W.Saunders*\]
 
 #### Herbarium and types
 

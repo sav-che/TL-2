@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33259170) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 124](https://www.biodiversitylibrary.org/page/33259170) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17871-1), [Wikidata](https://www.wikidata.org/wiki/Q21510100). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Debat, Louis {std. Debat}|first entry]] for this author
 
 ### Author
 
 \* Debat, Louis (1822-1906), French bryologist and lichenologist, born at Lyon, "Chef de service au Crédit Lyonnais", one of the founders of the Société botanique de Lyon, "doyen des bryologues lyonnais et jurassiens", explored the region around Lyon and Switzerland. 
-**Abbreviated name**: *Debat*
+**Abbreviated name**: *Debat* \[standard form in IPNI: *Debat*\]
 
 #### Herbarium and types
 

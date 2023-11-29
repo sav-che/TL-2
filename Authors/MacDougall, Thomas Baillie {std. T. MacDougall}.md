@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33355304) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33355304) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5908-1), [Wikidata](https://www.wikidata.org/wiki/Q6146019). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 MacDougall, Thomas Baillie (1895-1973), Scottish-born American plant collector, explorer and anthropologist 
-**Abbreviated name**: *T. MacDougall*
+**Abbreviated name**: *T. MacDougall* \[standard form in IPNI: *T.MacDoug.*\]
 
 #### Herbarium and types
 

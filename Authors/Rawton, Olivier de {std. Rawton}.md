@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33190075) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 604](https://www.biodiversitylibrary.org/page/33190075) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8189-1), [Wikidata](https://www.wikidata.org/wiki/Q36647616). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rawton, Olivier de (*fl*. 1882), French economie botanist. 
-**Abbreviated name**: *Rawton*
+**Abbreviated name**: *Rawton* \[standard form in IPNI: *Rawton*\]
 
 #### Herbarium and types
 

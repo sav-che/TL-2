@@ -28,14 +28,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33066477) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33066477) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11480-1), [Wikidata](https://www.wikidata.org/wiki/Q983408). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weddell, Hugh Algernon (1819-1877), British botanist (French by choice) and physician; grew up and worked in France; Dr. med. Paris 1841; associated with Adr. Jussieu; with F. de Castelnau to S. America 1843-1848 (Brazil, Bolivia, Peru); aide-naturaliste at the Muséum d'Histoire naturelle, Paris 1850-1857; visiting Bolivia again in 1853 in search of Cinchona; in 1857 settling in Bagnères-de-Bigorre, from 1861 in Poitiers. 
-**Abbreviated name**: *Wedd.*
+**Abbreviated name**: *Wedd.* \[standard form in IPNI: *Wedd.*\]
 
 #### Herbarium and types
 

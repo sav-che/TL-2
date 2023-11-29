@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33068282) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 40](https://www.biodiversitylibrary.org/page/33068282) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3608-1), [Wikidata](https://www.wikidata.org/wiki/Q21388075). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hanbury, Frederick Janson (1851-1938), British industrial pharmacist, botanist, horticulturist, and specialist on Hieracium; cousin of Daniel Hanbury. 
-**Abbreviated name**: *F. Hanb.*
+**Abbreviated name**: *F. Hanb.* \[standard form in IPNI: *F.Hanb.*\]
 
 #### Herbarium and types
 

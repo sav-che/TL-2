@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-03-09 07:37:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33120662) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33120662) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1752-1), [Wikidata](https://www.wikidata.org/wiki/Q545017). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Commelijn \[Commelin\], Jan (1629-1692), Netherlands druggist, merchant and botanist, uncle of Caspar Commelin. 
-**Abbreviated name**: *J. Commelijn*
+**Abbreviated name**: *J. Commelijn* \[standard form in IPNI: *J.Commelijn*\]
 
 #### Herbarium and types
 

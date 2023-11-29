@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33066361) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33066361) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11317-1), [Wikidata](https://www.wikidata.org/wiki/Q16650555). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wahlstedt, Lars Johan (1836-1917), Swedish botanist and lecturer; studied at Lund 1856-1862; Dr. phil. 1862; head of the botanical garden Lund 1862-1864; lecturer in natural sciences and Swedish at Kristianstad college 1865-1905. 
-**Abbreviated name**: *Wahlstedt*
+**Abbreviated name**: *Wahlstedt* \[standard form in IPNI: *Wahlst.*\]
 
 #### Herbarium and types
 

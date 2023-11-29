@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33068677) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 435](https://www.biodiversitylibrary.org/page/33068677) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4463-1), [Wikidata](https://www.wikidata.org/wiki/Q3656558). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jelliffe, Smith Ely (1866-1945), American botanist at New York; Ph. D. Columbia University 1899, professor of pharmacognosy at the College of Pharmacy, City of New York (1894). 
-**Abbreviated name**: *Jell.*
+**Abbreviated name**: *Jell.* \[standard form in IPNI: *Jell.*\]
 
 #### Herbarium and types
 

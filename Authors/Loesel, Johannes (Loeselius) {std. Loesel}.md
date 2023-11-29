@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33355228) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33355228) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5705-1), [Wikidata](https://www.wikidata.org/wiki/Q1697959). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Loesel, Johannes \[Loeselius\] (1607-1655), German botanist and physician; Dr. phil. Königsberg 1632; Dr. med. Leiden 1639, professor of medicine at Königsberg University 1639-1655. 
-**Abbreviated name**: *Loesel*
+**Abbreviated name**: *Loesel* \[standard form in IPNI: *Loesel*\]
 
 #### Herbarium and types
 

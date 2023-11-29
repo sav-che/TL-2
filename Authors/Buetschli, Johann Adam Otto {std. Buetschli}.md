@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33120531) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33120531) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/32572-1), [Wikidata](https://www.wikidata.org/wiki/Q62669). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bütschli, (Johann Adam) Otto {std. Buetschli} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Buetschli, Johann Adam Otto (1848-1920), German zoologist and algologist. 
-**Abbreviated name**: *Buetschli*
+**Abbreviated name**: *Buetschli* \[standard form in IPNI: *Buetschli*\]
 
 #### Herbarium and types
 

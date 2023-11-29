@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33333521) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 382](https://www.biodiversitylibrary.org/page/33333521) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9301-1), [Wikidata](https://www.wikidata.org/wiki/Q21608479). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schultze, Johannes Dominik (1752-1790), German (Hamburg) physician; studied at Göttingen 1772-1775; Dr. med. 1775; practicing physician in Hamburg 1776. 
-**Abbreviated name**: *J.D. Schultze*
+**Abbreviated name**: *J.D. Schultze* \[standard form in IPNI: *J.D.Schultze*\]
 
 #### Herbarium and types
 

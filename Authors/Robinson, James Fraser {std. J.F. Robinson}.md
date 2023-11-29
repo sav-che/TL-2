@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33190287) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33190287) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8458-1), [Wikidata](https://www.wikidata.org/wiki/Q21607289). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Robinson, James Fraser (1857-1927), British (English) schoolmaster and naturalist at Hull, Yorkshire. 
-**Abbreviated name**: *J.F. Robinson*
+**Abbreviated name**: *J.F. Robinson* \[standard form in IPNI: *J.F.Rob.*\]
 
 #### Herbarium and types
 

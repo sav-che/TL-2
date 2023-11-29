@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/page/33333633) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/page/33333633) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9447-1), [Wikidata](https://www.wikidata.org/wiki/Q21608635). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seits, Tobias Anton (1772-1833), Austrian botanist and clergyman; priest at Mondsee in Upper Austria. 
-**Abbreviated name**: *Seits*
+**Abbreviated name**: *Seits* \[standard form in IPNI: *Seits*\]
 
 #### Herbarium and types
 

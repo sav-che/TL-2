@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33068644) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33068644) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4380-1), [Wikidata](https://www.wikidata.org/wiki/Q370246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jacobsen, Jens Peter (1847-1885), Danish poet and phycologist at Copenhagen 
-**Abbreviated name**: *J. Jacobsen*
+**Abbreviated name**: *J. Jacobsen* \[standard form in IPNI: *J.Jacobsen*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33355303) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33355303) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/13590-1), [Wikidata](https://www.wikidata.org/wiki/Q21520227). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 McDermott, Laura Frances (1882-1923), American botanist; M. Sc. Univ. Calif. 1907; later high school teacher at San Diego. 
-**Abbreviated name**: *McDermott*
+**Abbreviated name**: *McDermott* \[standard form in IPNI: *McDermott*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33333859) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 720](https://www.biodiversitylibrary.org/page/33333859) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9863-1), [Wikidata](https://www.wikidata.org/wiki/Q11884399). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Söyrinki, Niilo (1907-x), Finnish botanist; Dr. phil. Helsinki 1938; assistant at the Botanical Dept., Univ. of Helsinki 1931-1933, at the Agricultural Faculty 1934-1945; associate professor ib. 1945-1959; professor of botany at Oulu University 1959. 
-**Abbreviated name**: *Söyrinki*
+**Abbreviated name**: *Söyrinki* \[standard form in IPNI: *Söyrinki*\]
 
 #### Herbarium and types
 

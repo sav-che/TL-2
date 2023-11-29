@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33068917) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33068917) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21750-1), [Wikidata](https://www.wikidata.org/wiki/Q21517933). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krieger, Willi (1886-1954), German desmidiologist; Dr. phil. Marburg 1927; from 1923 collaborator of Kolkwitz at the Berlin "Anstalt für Wasser-, Boden- und Lufthygiene". 
-**Abbreviated name**: *W. Krieg.*
+**Abbreviated name**: *W. Krieg.* \[standard form in IPNI: *Willi Krieg.*\]
 
 #### Herbarium and types
 

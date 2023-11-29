@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/page/33120983) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 852](https://www.biodiversitylibrary.org/page/33120983) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2812-1), [Wikidata](https://www.wikidata.org/wiki/Q1248394). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Forbes, Edward {std. E. Forbes} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Forbes, Edward (1815-1854), British naturalist from the Isle of Man. 
-**Abbreviated name**: *E. Forbes*
+**Abbreviated name**: *E. Forbes* \[standard form in IPNI: *E.Forbes*\]
 
 #### Herbarium and types
 

@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 731](https://www.biodiversitylibrary.org/page/33120862) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 731](https://www.biodiversitylibrary.org/page/33120862) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12494-1), [Wikidata](https://www.wikidata.org/wiki/Q123996). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ehrhart, Jakob Friedrich (1742-1795), German botanist of Swiss origin, pupil of Linnaeus, government botanist of Hannover at Herrenhausen 1780-1795. 
-**Abbreviated name**: *Ehrh.*
+**Abbreviated name**: *Ehrh.* \[standard form in IPNI: *Ehrh.*\]
 
 #### Herbarium and types
 

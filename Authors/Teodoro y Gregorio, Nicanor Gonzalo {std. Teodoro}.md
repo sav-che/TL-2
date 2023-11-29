@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33212262) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33212262) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10512-1), [Wikidata](https://www.wikidata.org/wiki/Q21610444). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Teodoro y Gregorio, Nicanor Gonzalo (1890-x), Philippine botanist; M.S. Univ. Wisconsin 1920; Dr. phil. ib. 1923; scientific assistant Bureau Agriculture Phil. Isl. 1917-1923, plant pathologist 1923-1924, acting chief plant pests control 1924-1927; chief plant disease section 1927-1932; with Los Banos Bot. Gard. 1932-1941; professor of botany Manila 1946-1949, dean 1948-1951. 
-**Abbreviated name**: *Teodoro*
+**Abbreviated name**: *Teodoro* \[standard form in IPNI: *N.G.Teodoro*\]
 
 #### Herbarium and types
 

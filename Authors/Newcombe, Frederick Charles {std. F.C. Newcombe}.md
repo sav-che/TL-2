@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33355823) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33355823) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6947-1), [Wikidata](https://www.wikidata.org/wiki/Q21522109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Newcombe, Frederick Charles (1858-1927), American botanist (plant physiologist); Dr. phil. Leipzig 1893; Instructor of botany (from 1905 full professor of botany) at the University of Michigan 1890-1923; in retirement at Honolulu 1923-1927. 
-**Abbreviated name**: *F. C. Newcombe*
+**Abbreviated name**: *F. C. Newcombe* \[standard form in IPNI: *Newc.*\]
 
 #### Herbarium and types
 

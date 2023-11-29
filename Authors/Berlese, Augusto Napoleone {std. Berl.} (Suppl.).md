@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33265298) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 101](https://www.biodiversitylibrary.org/page/33265298) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16001-1), [Wikidata](https://www.wikidata.org/wiki/Q3629679). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Berlese, Augusto Napoleone {std. Berl.}|first entry]] for this author
 
 ### Author
 
 \* Berlese, Augusto Napoleone (1864-1903), Italian mycologist and plant pathologist, studied at the Faculty of Sciences of the Atheneum of Padova 1882, Dr. phil. ib. 1885; assistant at the Botanical Institute, Padova, 1885; lecturer in mycology and phytopathology at the University of Padova 1889; teacher at the Liceo di Ascoli Piceno 1889-1899; id. at the school of viticulture and enology in Avellino 1891-1895; professor at the University of Camerino 1895-1899; id. at the R. Liceo Minghetti, Bologna 1898-1899; id. at the University of Sassari 1899-1901, id. at the Agricultural University of Milano 1901-1903. 
-**Abbreviated name**: *Berl.*
+**Abbreviated name**: *Berl.* \[standard form in IPNI: *Berl.*\]
 
 #### Herbarium and types
 

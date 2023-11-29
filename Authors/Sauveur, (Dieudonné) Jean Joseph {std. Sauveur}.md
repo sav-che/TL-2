@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33333219) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33333219) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12814-1), [Wikidata](https://www.wikidata.org/wiki/Q21607784). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sauveur, \[Dieudonné\] Jean Joseph (1797-1862), Belgian administrator and palaeobotanist; professor of legal medicine and hygiene, Univ. Liège, from 1825; later member of the state council for public hygiene and inspector of the sanitary services with the department of the interior; born and died in Liège. 
-**Abbreviated name**: *Sauveur*
+**Abbreviated name**: *Sauveur* \[standard form in IPNI: *Sauveur*\]
 
 #### Herbarium and types
 

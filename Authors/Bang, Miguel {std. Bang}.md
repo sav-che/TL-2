@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33120245) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33120245) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/443-1), [Wikidata](https://www.wikidata.org/wiki/Q21505621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bang, Miguel {std. Bang} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bang, Miguel (1853-?), Danish botanical collector active in Bolivia. 
-**Abbreviated name**: *Bang*
+**Abbreviated name**: *Bang* \[standard form in IPNI: *M.Bang*\]
 
 #### Herbarium and types
 

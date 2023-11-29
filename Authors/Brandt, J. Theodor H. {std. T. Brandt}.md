@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33266324) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33266324) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16466-1), [Wikidata](https://www.wikidata.org/wiki/Q6453070). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brandt, J. Theodor H. (1877-1939), German lichenologist, studied at the University of Münster in Westphalen, Dr. phil. ib. 1906. 
-**Abbreviated name**: *T. Brandt*
+**Abbreviated name**: *T. Brandt* \[standard form in IPNI: *J.T.H.Brandt*\]
 
 #### Herbarium and types
 

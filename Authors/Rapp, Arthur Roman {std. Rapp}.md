@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33190051) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 580](https://www.biodiversitylibrary.org/page/33190051) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8145-1), [Wikidata](https://www.wikidata.org/wiki/Q21606974). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rapp, Arthur Roman (1854-after 1894), Latvian (Livonian) physician and botanist; at the State Gymnasium of Dorpat (Jurjew) 1864-1872; studied medicine at Dorpat, Wien and Berlin; practicing physician at Laudohn 1882-1884, Kosenhof, Wainsel; and ultimately in Lemsal 1887-1892; retired to Dorpat 1892 because of ill-health. 
-**Abbreviated name**: *Rapp*
+**Abbreviated name**: *Rapp* \[standard form in IPNI: *Rapp*\]
 
 #### Herbarium and types
 

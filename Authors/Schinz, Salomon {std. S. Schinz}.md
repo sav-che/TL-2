@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33333320) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33333320) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9099-1), [Wikidata](https://www.wikidata.org/wiki/Q21607981). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schinz, Salomon (1734-1784), Swiss physician and botanist at Zürich; student of Johannes Gessner; Dr. med. Leiden 1756; professor of natural sciences at the Zürich Carolinum; practicing physician and physician to the orphanage; secretary of the Naturforschende Gesellschaft, Zürich 1759-1778. 
-**Abbreviated name**: *S. Schinz*
+**Abbreviated name**: *S. Schinz* \[standard form in IPNI: *S.Schinz*\]
 
 #### Herbarium and types
 

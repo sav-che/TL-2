@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33189850) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33189850) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25054-1), [Wikidata](https://www.wikidata.org/wiki/Q64995). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Prantl, Karl Anton Eugen (1849-1893), German (Bavaria-born) botanist; Dr. phil. München 1870; studied with von Naegeli and Radlkofer; 1871-1876 at Würzburg with Sachs; habil. Würzburg 1873; 1876-1889 professor of botany at the forestry college of Aschaffenburg; id. at Breslau 1889-1893; founder, with Adolf Engler, of *Die natürlichen Pflanzenfamilien*. 
-**Abbreviated name**: *Prantl*
+**Abbreviated name**: *Prantl* \[standard form in IPNI: *Prantl*\]
 
 #### Herbarium and types
 

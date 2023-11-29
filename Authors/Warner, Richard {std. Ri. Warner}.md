@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33066421) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33066421) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11412-1), [Wikidata](https://www.wikidata.org/wiki/Q7329816). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Warner, Richard (1711 \[1713?\]-1775), British classicist and botanist; B.A. Wadham Coll. Oxford 1734; "possessed of an ample fortune" living at Woodford Green dedicating himself to botany, classical and Shakespearean studies; correspondent of Linnaeus. 
-**Abbreviated name**: *Ri. Warner*
+**Abbreviated name**: *Ri. Warner* \[standard form in IPNI: *Warner*\]
 
 #### Herbarium and types
 

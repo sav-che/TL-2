@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33189810) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33189810) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7852-1), [Wikidata](https://www.wikidata.org/wiki/Q20819562). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Popovici, Alexandru P. (1866-?), Rumanian botanist, professor of botany at the University of Jassi; pupil of W. Pfeffer; Dr. phil. Bonn 1893. 
-**Abbreviated name**: *Popovici*
+**Abbreviated name**: *Popovici* \[standard form in IPNI: *Popovici*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33069088) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 846](https://www.biodiversitylibrary.org/page/33069088) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5487-1), [Wikidata](https://www.wikidata.org/wiki/Q935498). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lepechin, Ivan Ivanovich (1737-1802), Russian botanist; director of the St. Petersburg botanical garden. 
-**Abbreviated name**: *Lepech.*
+**Abbreviated name**: *Lepech.* \[standard form in IPNI: *Lepech.*\]
 
 #### Herbarium and types
 

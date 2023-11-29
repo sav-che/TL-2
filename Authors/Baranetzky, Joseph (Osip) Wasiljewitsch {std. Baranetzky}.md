@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33120249) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 118](https://www.biodiversitylibrary.org/page/33120249) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/451-1), [Wikidata](https://www.wikidata.org/wiki/Q4077675). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baranetzky, Joseph (Osip, Iosif) Wasiljewitsch {std. Baranetzky} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Baranetzky, Joseph \[Osip\] Wasiljewitsch (1843-1905), Russian botanist. 
-**Abbreviated name**: *Baranetzky*
+**Abbreviated name**: *Baranetzky* \[standard form in IPNI: *Baran.*\]
 
 #### Herbarium and types
 

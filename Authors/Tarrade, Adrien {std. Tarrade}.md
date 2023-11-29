@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33212214) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33212214) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10432-1), [Wikidata](https://www.wikidata.org/wiki/Q21610204). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tarrade, Adrien (1843-1889), French botanist (mycologist) and pharmacist in the Limoges area. 
-**Abbreviated name**: *Tarrade*
+**Abbreviated name**: *Tarrade* \[standard form in IPNI: *Tarrade*\]
 
 #### Herbarium and types
 

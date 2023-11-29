@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/page/33190276) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/page/33190276) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8426-1), [Wikidata](https://www.wikidata.org/wiki/Q13468133). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rivière, Charles Marie (1845-?), French horticulturist; brother of Auguste Rivière; director of the experimental garden of Hamma, Algeria (asst. dir. 1868-1877; dir. from 1877). 
-**Abbreviated name**: *C. Rivière*
+**Abbreviated name**: *C. Rivière* \[standard form in IPNI: *C.Rivière*\]
 
 #### Herbarium and types
 

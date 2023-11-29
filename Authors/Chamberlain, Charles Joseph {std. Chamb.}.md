@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33265719) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33265719) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/13908-1), [Wikidata](https://www.wikidata.org/wiki/Q5079608). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chamberlain, Charles Joseph (1863-1943), American botanist, born at Sullivan, Ohio, studied at Oberlin College, Oberlin, Ohio, graduated 1888, taught in public schools of Ohio and Minnesota, principal of the high school in Crookston, Minnesota, master's degree from Oberlin 1894, matriculated at the University of Chicago 1893 (sic), Dr. sci. ib. 1897, studied at Bonn with Eduard Strasburger 1901-1902, at Chicago 1893-1901 and 1902-1943, professor of morphology and cytology 1915-1929, emeritus from 1929. 
-**Abbreviated name**: *Chamb.*
+**Abbreviated name**: *Chamb.* \[standard form in IPNI: *Chamb.*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33355842) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 755](https://www.biodiversitylibrary.org/page/33355842) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6998-1), [Wikidata](https://www.wikidata.org/wiki/Q5933493). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nisbet, John (1853-1914), Scottish forestry botanist; in the Indian Forestry Service (1875), conservator of forests Burma (1895-1900); professor of forestry at West of Scotland Agricultural College (1908-1912). 
-**Abbreviated name**: *Nisbet*
+**Abbreviated name**: *Nisbet* \[standard form in IPNI: *Nisbet*\]
 
 #### Herbarium and types
 

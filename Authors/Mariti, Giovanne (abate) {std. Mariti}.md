@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33355383) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33355383) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/35186-1), [Wikidata](https://www.wikidata.org/wiki/Q3767688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mariti, Giovanne (abate) (1736-1806), Italian clergyman and botanist. 
-**Abbreviated name**: *Mariti*
+**Abbreviated name**: *Mariti* \[standard form in IPNI: *Mariti*\]
 
 #### Herbarium and types
 

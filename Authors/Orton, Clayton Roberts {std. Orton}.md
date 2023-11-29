@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33355937) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33355937) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24389-1), [Wikidata](https://www.wikidata.org/wiki/Q21522439). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Orton, Clayton Roberts (1885-1955), American botanist; MS Purdue Univ. 1915; at Vermont Exp. Sta. 1909-1910; Wisconsin Exp. Sta. 1910, Indiana Exp. Sta. 1911-1912, Pennsylvania State College 1913-1927; West Virginia University 1929-1955. 
-**Abbreviated name**: *Orton*
+**Abbreviated name**: *Orton* \[standard form in IPNI: *Orton*\]
 
 #### Herbarium and types
 

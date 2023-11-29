@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33355123) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 4](https://www.biodiversitylibrary.org/page/33355123) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5550-1), [Wikidata](https://www.wikidata.org/wiki/Q3068597). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 L'Herminier, Ferdinand (1802-1866), Guadeloupe physician and botanist of French descent at Point à Pitre, son of the French pharmacist and plant collector Félix Louis L'Herminier. 
-**Abbreviated name**: *L'Herminier*
+**Abbreviated name**: *L'Herminier* \[standard form in IPNI: *L'Herm.*\]
 
 #### Herbarium and types
 

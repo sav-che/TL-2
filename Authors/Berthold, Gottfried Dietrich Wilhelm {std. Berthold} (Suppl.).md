@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33265318) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 121](https://www.biodiversitylibrary.org/page/33265318) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16037-1), [Wikidata](https://www.wikidata.org/wiki/Q98149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Berthold, Gottfried Dietrich Wilhelm {std. Berthold}|first entry]] for this author
 
 ### Author
 
 \* Berthold, Gottfried Dietrich Wilhelm (1854-1937), German (Westfalen) botanist, educated at Dortmund (Rektoratsschule), studied at Würzburg 1874-1877, and Göttingen 1877-1878, Dr. phil. ib. 1878, assistant at the institute for plant physiology ib. 1878-1879, assistant at the Zoological Station at Napoli 1879-1881, habil. Göttingen 1881, worked with Morren in Liège 1883-1884, again at Napoli 1884-1886, extraordinary professor at Göttingen (1884-)1885-1887, from 1887-1923 regular professor ib. and director of the institute for plant physiology, in retirement from 1923. 
-**Abbreviated name**: *Berthold*
+**Abbreviated name**: *Berthold* \[standard form in IPNI: *Berthold*\]
 
 #### Herbarium and types
 

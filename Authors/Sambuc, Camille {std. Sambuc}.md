@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33333166) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33333166) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8861-1), [Wikidata](https://www.wikidata.org/wiki/Q21607662). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sambuc, Camille (1859-?), French naval pharmacist from Toulon, later professor of pharmacy at the Faculté de Médecine et de Pharmacie de Lyon. 
-**Abbreviated name**: *Sambuc*
+**Abbreviated name**: *Sambuc* \[standard form in IPNI: *Sambuc*\]
 
 #### Herbarium and types
 

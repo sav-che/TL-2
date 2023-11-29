@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33260042) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 54](https://www.biodiversitylibrary.org/page/33260042) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18142-1), [Wikidata](https://www.wikidata.org/wiki/Q449688). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Donk, Marinus Anton {std. Donk}|first entry]] for this author
 
 ### Author
 
 \* Donk, Marinus Anton (1908-1972), Dutch mycologist, born 14 Aug 1908 at Situbondo, Java, died 2 Sep 1972 at The Hague, went to a secondary school at The Hague, studied at the University of Utrecht 1927-1933, doctor's degree 7 Jul 1933, was a teacher 1933-1934, moved to the Dutch East Indies as teacher 1934-1940, mycologist at the herbarium of the Botanic Gardens at Buitenzorg \[Bogor\] with Herbarium Bogoriense 1940-1941, in Japanese internment 1942-1945, head of the Herbarium Bogoriense 1947-1955, extra ordinarius of botany at the Bandung University, returned to the Netherlands, 1956-1972 at the Leiden Rijksherbarium. 
-**Abbreviated name**: *Donk*
+**Abbreviated name**: *Donk* \[standard form in IPNI: *Donk*\]
 
 #### Herbarium and types
 

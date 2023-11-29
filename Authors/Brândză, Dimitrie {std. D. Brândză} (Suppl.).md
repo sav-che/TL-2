@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33266325) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33266325) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1081-1), [Wikidata](https://www.wikidata.org/wiki/Q888258). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brândzǎ, Dimitrie {std. D. Brândză}|first entry]] for this author
 
 ### Author
 
 \* Brândză, Dimitrie (1846-1895), Roumanian botanist, founder of Roumanian botany, founder of the Botanical Garden in Bucarest as well as of the Botanical Institute with herbarium, museum and library, the Natural History Museum under the aegis of the Roumanian Academy. 
-**Abbreviated name**: *D. Brândză*
+**Abbreviated name**: *D. Brândză* \[standard form in IPNI: *D.Brândză*\]
 
 #### Herbarium and types
 

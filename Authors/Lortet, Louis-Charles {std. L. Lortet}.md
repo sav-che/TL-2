@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33355251) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33355251) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5763-1), [Wikidata](https://www.wikidata.org/wiki/Q1114784). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lortet, Louis-Charles (1836-1909), French physician, parasitologist and botanist at Lyon; grandson of Clémence Lortet; Dr. med. Paris 1861; Dr. sci. nat. Lyon 1867; lecturer medical school, 1867, professor ib. 1868; lecturer in zoology at the Factulté des Sciences 1869; director of the Muséum d'histoire naturelle de Lyon 1869; professor of zoology Faculté des Sciences 1874-1877; professor of natural history at the Faculté mixte de Medecine et de Pharmacie 1877-1906. 
-**Abbreviated name**: *L. Lortet*
+**Abbreviated name**: *L. Lortet* \[standard form in IPNI: *L.Lortet*\]
 
 #### Herbarium and types
 

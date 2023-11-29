@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33212091) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33212091) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10149-1), [Wikidata](https://www.wikidata.org/wiki/Q4442403). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stirton, James (1833-1917), Scottish physician and cryptogamist; MD Edinburgh 1858; lecturer on gynecology Royal Infirmary; Glasgow 1879-1889; professor of gynecology Glasgow 1889-ca. 1904. 
-**Abbreviated name**: *Stirt.*
+**Abbreviated name**: *Stirt.* \[standard form in IPNI: *Stirt.*\]
 
 #### Herbarium and types
 

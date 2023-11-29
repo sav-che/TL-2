@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33355517) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 430](https://www.biodiversitylibrary.org/page/33355517) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23293-1), [Wikidata](https://www.wikidata.org/wiki/Q18343965). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Merrill, George Knox (1864-1927), American lichenologist, journalist and photographer; active at Rockland, Maine were he kept an art studio. 
-**Abbreviated name**: *G. Merr.*
+**Abbreviated name**: *G. Merr.* \[standard form in IPNI: *G.Merr.*\]
 
 #### Herbarium and types
 

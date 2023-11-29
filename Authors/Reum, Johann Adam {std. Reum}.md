@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33190209) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 738](https://www.biodiversitylibrary.org/page/33190209) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8307-1), [Wikidata](https://www.wikidata.org/wiki/Q15429452). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reum, Johann Adam (1780-1839), German (Sachsen-Meiningen) forest botanist and plant physiologist; studied at Jena, Würzburg and Heidelberg; teacher at a forestry college at Zillbach 1805-1811; Dr. phil. Jena 1808; teacher at the forestry college at Tharandt 1811-1816; professor of mathematics and forestry botany at the royal Saxonian forestry academy of Tharandt 1816-1839, also founder and director of the botanical garden of Tharandt from 1816. 
-**Abbreviated name**: *Reum*
+**Abbreviated name**: *Reum* \[standard form in IPNI: *Reum*\]
 
 #### Herbarium and types
 

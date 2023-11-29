@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33260050) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33260050) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2288-1), [Wikidata](https://www.wikidata.org/wiki/Q3506448). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dostál, Josef (1903-x), Czech (Bohemian) botanist, born 20 Dec 1903 at Praha, assistant botanist at the University Karlovy 1928-1955, from 1963 at the University of Palackého v Olomouci. 
-**Abbreviated name**: *Dostál*
+**Abbreviated name**: *Dostál* \[standard form in IPNI: *Dostál*\]
 
 #### Herbarium and types
 

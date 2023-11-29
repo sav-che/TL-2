@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33066541) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33066541) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11574-1), [Wikidata](https://www.wikidata.org/wiki/Q21612498). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wessén, Carl Johan (1812-1843), Swedish botanist; Dr. phil. Uppsala 1836; library assistant ib. 1839. 
-**Abbreviated name**: *Wessén*
+**Abbreviated name**: *Wessén* \[standard form in IPNI: *Wessén*\]
 
 #### Herbarium and types
 

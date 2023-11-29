@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33265361) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33265361) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/787-1), [Wikidata](https://www.wikidata.org/wiki/Q21506115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bijhouwer, Jan Tijs Pieter (1898-1938), Dutch agriculturist, studied at the Agricultural College, Wageningen, Dr. agr. 1926, Rockefeller fellow at the Arnold Arboretum 1927-1928, landscape architect from 1928, again in Massachussets 1928-1929, living in Rotterdam 1930-1933. 
-**Abbreviated name**: *Bijh.*
+**Abbreviated name**: *Bijh.* \[standard form in IPNI: *Bijh.*\]
 
 #### Herbarium and types
 

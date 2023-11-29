@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-12-30 14:26:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33069023) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 781](https://www.biodiversitylibrary.org/page/33069023) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5388-1), [Wikidata](https://www.wikidata.org/wiki/Q1230990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lecomte, (Paul) Henri (1856-1934), French botanist; Lic. sc. nat. Nancy 1881, id. phys. 1883, Dr. sci. nat. Paris 1889; from 1884-1906 teacher at the Lycées Saint-Louis and Henri IV; from 1906 director of the Laboratoire de Phanérogamie of the Museum d'Histoire naturelle; played an active rôle in the founding of the new Paris herbarium by means of Rockefeller money. 
-**Abbreviated name**: *Lecomte*
+**Abbreviated name**: *Lecomte* \[standard form in IPNI: *Lecomte*\]
 
 #### Herbarium and types
 

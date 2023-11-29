@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-01-25 14:08:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33120627) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 496](https://www.biodiversitylibrary.org/page/33120627) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1611-1), [Wikidata](https://www.wikidata.org/wiki/Q2613173). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Chodat, Robert-Hippolyte {std. Chodat} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Chodat, Robert Hippolyte (1865-1934), Swiss botanist at Genève, plant collector in Paraguay. 
-**Abbreviated name**: *Chodat*
+**Abbreviated name**: *Chodat* \[standard form in IPNI: *Chodat*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33068579) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 337](https://www.biodiversitylibrary.org/page/33068579) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4124-1), [Wikidata](https://www.wikidata.org/wiki/Q21341246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Horwood, Arthur Reginald (1879-1937), British lichenologist and palaeobotanist; from 1902-1922 at the Leicester City Museum, from 1924-1937 at Kew. 
-**Abbreviated name**: *Horw.*
+**Abbreviated name**: *Horw.* \[standard form in IPNI: *Horw.*\]
 
 #### Herbarium and types
 

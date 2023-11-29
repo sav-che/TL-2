@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33069060) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33069060) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5430-1), [Wikidata](https://www.wikidata.org/wiki/Q21518591). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lehmann, Eduard (also: Leman, Eduard Eduardovich) (1841-1902), Baltic-German (born at Riga) botanist and physician; studied at Dorpat 1860-1865; from 1866-1874 practicing physican); from 1874-1902 at Witebsk. 
-**Abbreviated name**: *Ed. Lehm.*
+**Abbreviated name**: *Ed. Lehm.* \[standard form in IPNI: *E.Lehm.*\]
 
 #### Herbarium and types
 

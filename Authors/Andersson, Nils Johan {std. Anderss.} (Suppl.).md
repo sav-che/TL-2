@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33264842) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 115](https://www.biodiversitylibrary.org/page/33264842) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/203-1), [Wikidata](https://www.wikidata.org/wiki/Q1348854). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Andersson, Nils Johan {std. Anderss.}|first entry]] for this author
 
 ### Author
 
 \* Andersson, Nils Johan (1821-1880), Swedish (Kalmar) botanist, studied at the University of Uppsala 1840, Dr. phil. 1845, lecturer in botany Uppsala 1846, natural history teacher Stockholm 1847, lector in botany and zoology ib. 1858-1874, appointed (but not effected) assistant in botany at the University of Lund 1855, professor and curator of the botanical collections of the Stockholm Riksmuseum 1856-1879, succeeding J.E. Wikström; botanist on the circumnavigation of the frigat Eugenie 1851-1853. 
-**Abbreviated name**: *N.J. Anderss.*
+**Abbreviated name**: *N.J. Anderss.* \[standard form in IPNI: *Andersson*\]
 
 #### Herbarium and types
 

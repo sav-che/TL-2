@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33120854) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33120854) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2467-1), [Wikidata](https://www.wikidata.org/wiki/Q379035). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Edmondston, Thomas (1825-1846), Scottish botanist, naturalist to H. M. S. Herald 1845/1846. 
-**Abbreviated name**: *Edmondston*
+**Abbreviated name**: *Edmondston* \[standard form in IPNI: *Edmondston*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33212306) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33212306) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10577-1), [Wikidata](https://www.wikidata.org/wiki/Q36692274). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thiriart, T.Fr. (*fl*. 1806), German printer and supervisor of the secondary school system in Köln during the Napoleonic occupation. 
-**Abbreviated name**: *Thiriart*
+**Abbreviated name**: *Thiriart* \[standard form in IPNI: *Thiriart*\]
 
 #### Herbarium and types
 

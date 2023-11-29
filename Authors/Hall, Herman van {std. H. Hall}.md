@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33068263) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 21](https://www.biodiversitylibrary.org/page/33068263) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3573-1), [Wikidata](https://www.wikidata.org/wiki/Q2489137). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hall, Herman van (1830-1890), Dutch botanist and botanical lexicographer; son of H. C. van Hall; curator at the Rijksherbarium; from 1866 high school teacher at Middelburg. 
-**Abbreviated name**: *H. Hall*
+**Abbreviated name**: *H. Hall* \[standard form in IPNI: *H.Hall*\]
 
 #### Herbarium and types
 

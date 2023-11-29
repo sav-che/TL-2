@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33066561) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 221](https://www.biodiversitylibrary.org/page/33066561) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11597-1), [Wikidata](https://www.wikidata.org/wiki/Q78599). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wettstein von Westersheim, Richard (1863-1931), Austrian botanist; studied at Vienna University with J. von Wiesner and A. Kerner 1881-1884; Dr. phil. ib. 1884; assistant with Kerner 1884-1888; "Habilitation" and private lecturer at the university 1886; "Adjunkt" (head assistant) 1888-1892; professor of botany and curator of the botanical garden of the German University Prague, succeeding M. Willkomm 1892-1899; id. Vienna University, succeeding Kerner 1899-1931; "Hofrat" 1911; travelled in Brazil 1901, United States 1926, in South-West Africa, South Africa, Moçambique and East Africa 1929-1930; with J. von Wiesner co-president International Botanical Congress Vienna, 1905. 
-**Abbreviated name**: *Wettst.*
+**Abbreviated name**: *Wettst.* \[standard form in IPNI: *Wettst.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33066629) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33066629) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11670-1), [Wikidata](https://www.wikidata.org/wiki/Q3057217). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilczek, Ernst (1867-1948), Swiss botanist; Dr. phil. Zürich 1892; extraordinary professor of systematic and pharmaceutical botany at Lausanne University 1892, ordinary professor 1902-1934; travelled in the Argentine Andes 1897, in Morocco 1928. 
-**Abbreviated name**: *E. Wilcz.*
+**Abbreviated name**: *E. Wilcz.* \[standard form in IPNI: *Wilczek*\]
 
 #### Herbarium and types
 

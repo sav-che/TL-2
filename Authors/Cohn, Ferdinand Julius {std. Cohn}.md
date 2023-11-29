@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/page/33120650) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/page/33120650) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1724-1), [Wikidata](https://www.wikidata.org/wiki/Q76774). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cohn, Ferdinand Julius {std. Cohn} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Cohn, Ferdinand Julius (1828-1898), German botanist and bacteriologist, "geheimer Regierungsrath" at Breslau. 
-**Abbreviated name**: *Cohn*
+**Abbreviated name**: *Cohn* \[standard form in IPNI: *Cohn*\]
 
 #### Herbarium and types
 

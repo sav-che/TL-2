@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33190325) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 854](https://www.biodiversitylibrary.org/page/33190325) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8516-1), [Wikidata](https://www.wikidata.org/wiki/Q79112). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roezl, Benedict (1824-1885), Bohemian horticulturist and seedsman; gardener in various Central European gardens, with VanHoutte at Gent, "chef de culture" at the Belgian school of horticulture; collecting in the United States, Mexico, Cuba and South America between 1854 and 1875; in retirement at Smichov, Praha; one of the most active collectors of living orchids. 
-**Abbreviated name**: *Roezl*
+**Abbreviated name**: *Roezl* \[standard form in IPNI: *Roezl*\]
 
 #### Herbarium and types
 

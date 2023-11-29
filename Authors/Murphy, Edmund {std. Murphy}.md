@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33355753) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33355753) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6800-1), [Wikidata](https://www.wikidata.org/wiki/Q5818770). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Murphy, Edmund (1828-1866), Irish horticulturist and botanist; professor of horticulture, Queen's College, York 1849. 
-**Abbreviated name**: *Murphy*
+**Abbreviated name**: *Murphy* \[standard form in IPNI: *Murphy*\]
 
 #### Herbarium and types
 

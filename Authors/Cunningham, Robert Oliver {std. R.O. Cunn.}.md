@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33266187) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33266187) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/35756-1), [Wikidata](https://www.wikidata.org/wiki/Q7348142). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cunningham, Robert Oliver (1841-1918), British botanist, born at Prestonpans, E. Lothian, elder brother of D.D. Cunningham, see above, died at Paignton, Devon, M.D. Edinburgh, FLS 1870, professor of natural history, Belfast 1871-1902, visited Patagonia and Strait of Magellan 1866-1869. 
-**Abbreviated name**: *R.O. Cunn.*
+**Abbreviated name**: *R.O. Cunn.* \[standard form in IPNI: *R.O.Cunn.*\]
 
 #### Herbarium and types
 

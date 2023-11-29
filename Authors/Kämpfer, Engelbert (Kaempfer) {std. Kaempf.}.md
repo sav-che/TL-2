@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33068726) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33068726) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4611-1), [Wikidata](https://www.wikidata.org/wiki/Q58042). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kämpfer, Engelbert \[Kaempfer\] (1651-1716), German physician and traveller; secretary of the Swedish embassy to Russia and Persia; with the Dutch East Indian Company 1685-1693; subsequently physician to the Count of Lippe. 
-**Abbreviated name**: *Kaempf.*
+**Abbreviated name**: *Kaempf.* \[standard form in IPNI: *Kaempf.*\]
 
 #### Herbarium and types
 

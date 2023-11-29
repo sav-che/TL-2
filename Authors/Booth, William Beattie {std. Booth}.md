@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33120408) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33120408) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/970-1), [Wikidata](https://www.wikidata.org/wiki/Q6167569). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Booth, William Beattie (c. 1804-1874), British gardener. 
-**Abbreviated name**: *Booth*
+**Abbreviated name**: *Booth* \[standard form in IPNI: *Booth*\]
 
 #### Herbarium and types
 

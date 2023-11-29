@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33258783) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33258783) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3270-1), [Wikidata](https://www.wikidata.org/wiki/Q21390111). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Goodman, George Jones (1904-1999), American botanist, born 5 Nov 1904 in Evanston, Wyoming, A.B. 1929 Univ. of Wyoming, Laramie, M.Sc. 1930 and Ph.D. 1933, Washington Univ., St. Louis, Missouri (under J.M. Greenman), Asst. Prof. of Botany, Univ. of Oklahoma, Norman 1933-1936, then Assoc. Prof. of Botany and Curator of Herb., Iowa State College, Ames 1936-1945, returned to Univ. of Oklahoma as Prof. of Botany and Curator of Robert Bebb Herb. 1945-1975, Curator emeritus 1975-1999, died 23 Mai 1999 in Norman, Oklahoma. 
-**Abbreviated name**: *Goodman*
+**Abbreviated name**: *Goodman* \[standard form in IPNI: *Goodman*\]
 
 #### Herbarium and types
 

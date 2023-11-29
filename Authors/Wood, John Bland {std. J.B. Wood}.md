@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33066778) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 438](https://www.biodiversitylibrary.org/page/33066778) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11844-1), [Wikidata](https://www.wikidata.org/wiki/Q21612956). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wood, John Bland (1813-1890), British physician and bryologist; studied at Dublin, Edinburgh and London; practicing physician at Broughton nr Manchester; ultimately in retirement at Withington. 
-**Abbreviated name**: *J.B. Wood*
+**Abbreviated name**: *J.B. Wood* \[standard form in IPNI: *J.B.Wood*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3642-1), [Wikidata](https://www.wikidata.org/wiki/Q21515482). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Happe, Andreas Friederich (1733-1802), German naturalist and artist at the Berlin Academy of Sciences. 
-**Abbreviated name**: *Happe*
+**Abbreviated name**: *Happe* \[standard form in IPNI: *Happe*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33120846) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33120846) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2419-1), [Wikidata](https://www.wikidata.org/wiki/Q3066356). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Duval-Jouve, Joseph {std. Duval-Jouve} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Duval-Jouve \[earlier: Duval\], Joseph (1810-1883), French botanist and palaeobiologist; inspector of the Academy at Strassbourg (PR), later at Montpellier. 
-**Abbreviated name**: *Duval-Jouve*
+**Abbreviated name**: *Duval-Jouve* \[standard form in IPNI: *Duval-Jouve*\]
 
 #### Herbarium and types
 

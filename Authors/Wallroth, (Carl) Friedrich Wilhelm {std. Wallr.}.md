@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33066383) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33066383) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11354-1), [Wikidata](https://www.wikidata.org/wiki/Q71374). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wallroth, \[Carl\] Friedrich Wilhelm (1792-1857), German (Prussian Saxony) botanist; studied medicine at Halle (with K.P.J. Sprengel); Dr. med. Göttingen 1815; physician in the Hannover army 1815; practicing physician in Heringen 1816; regional physician 1822, from 1825 in Nordhausen. 
-**Abbreviated name**: *Wallr.*
+**Abbreviated name**: *Wallr.* \[standard form in IPNI: *Wallr.*\]
 
 #### Herbarium and types
 

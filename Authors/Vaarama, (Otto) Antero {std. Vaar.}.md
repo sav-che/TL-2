@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 624](https://www.biodiversitylibrary.org/page/33212666) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 624](https://www.biodiversitylibrary.org/page/33212666) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11013-1), [Wikidata](https://www.wikidata.org/wiki/Q21611303). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vaarama, \[Otto\] Antero (1912-1975), Finnish botanist (bryologist); studied biology at the University of Helsinki; Dr. phil. ib. 1938; teacher of natural sciences and plant conservation at the Horticultural College of Lepaa 1939-1945; chief assistant at the State Horticultural Institution Piikkiö 1945-1955; professor of botany at the University of Turku 1955-1975; pioneer of bryophyte cytology. 
-**Abbreviated name**: *Vaar.*
+**Abbreviated name**: *Vaar.* \[standard form in IPNI: *Vaar.*\]
 
 #### Herbarium and types
 

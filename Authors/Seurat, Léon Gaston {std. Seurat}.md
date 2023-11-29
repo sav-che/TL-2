@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33333678) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33333678) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9519-1), [Wikidata](https://www.wikidata.org/wiki/Q16864242). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seurat, Léon Gaston (1872-?), French zoologist and botanist. 
-**Abbreviated name**: *Seurat*
+**Abbreviated name**: *Seurat* \[standard form in IPNI: *Seurat*\]
 
 #### Herbarium and types
 

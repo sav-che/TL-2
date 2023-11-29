@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2018-08-23 18:16:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33212224) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33212224) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10452-1), [Wikidata](https://www.wikidata.org/wiki/Q36600434). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Taupenot, J.M. (*fl*. 1851), French high school teacher and botanist at Chaumont. 
-**Abbreviated name**: *Taupenot*
+**Abbreviated name**: *Taupenot* \[standard form in IPNI: *Taupenot*\]
 
 #### Herbarium and types
 

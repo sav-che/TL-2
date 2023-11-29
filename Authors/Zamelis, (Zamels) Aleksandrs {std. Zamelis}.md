@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33066855) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 515](https://www.biodiversitylibrary.org/page/33066855) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13040-1), [Wikidata](https://www.wikidata.org/wiki/Q2643352). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zamelis, \[Zamels\] Aleksandrs (1897-1943), Latvian botanist and geneticist; studied natural sciences at St. Petersburg 1914-1917 and Riga 1917-1921; Mag. rer. nat. Riga 1921, habil. ib. 1925; assistant at the Botanical Institute of the University of Riga 1922-1925, hon. lecturer from 1925-1943; Dr. phil. 1942; also professor of genetics at the Agricultural Academy at Jelgava 1942-1943. 
-**Abbreviated name**: *Zamelis*
+**Abbreviated name**: *Zamelis* \[standard form in IPNI: *Zämelis*\]
 
 #### Herbarium and types
 

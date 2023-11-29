@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33189890) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33189890) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8000-1), [Wikidata](https://www.wikidata.org/wiki/Q3271281). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Provancher, Léon (1820-1892), Canadian clergyman, botanist, entomologist and conchologist; ord. Québec 1844; minister at various Québec parishes 1844-1854, at St.-Joachim 1854-1862; from 1862-1871 at Portneuf; in retirement at Cap-Rouge nr. Québec from 1871; founder of le Naturaliste canadien. 
-**Abbreviated name**: *Prov.*
+**Abbreviated name**: *Prov.* \[standard form in IPNI: *Prov.*\]
 
 #### Herbarium and types
 

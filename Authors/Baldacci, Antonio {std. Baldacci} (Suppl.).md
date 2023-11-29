@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33265016) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 289](https://www.biodiversitylibrary.org/page/33265016) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/418-1), [Wikidata](https://www.wikidata.org/wiki/Q3619217). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baldacci, Antonio {std. Baldacci}|first entry]] for this author
 
 ### Author
 
 \* Baldacci, Antonio (1867-1950), Italian (Bologna born) botanist and plant collector on the Balkan and in Greece; studied at the University of Bologna, assistant at the Botanical Museum id., also lecturer at the University 1899, later professor of botany. 
-**Abbreviated name**: *Baldacci*
+**Abbreviated name**: *Baldacci* \[standard form in IPNI: *Bald.*\]
 
 #### Herbarium and types
 

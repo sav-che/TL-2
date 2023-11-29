@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33212168) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 126](https://www.biodiversitylibrary.org/page/33212168) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27414-1), [Wikidata](https://www.wikidata.org/wiki/Q21610115). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Swingle, Deane Bret (1879-1944), American botanist (mycologist); M.S. Univ. Wisconsin 1901; Dr. phil. 1931; assist. pathologist USDA 1901-1906; professor of botany and bacteriology, Univ. Montana from 1906; dean division of science 1932. 
-**Abbreviated name**: *D. Swingle*
+**Abbreviated name**: *D. Swingle* \[standard form in IPNI: *D.B.Swingle*\]
 
 #### Herbarium and types
 

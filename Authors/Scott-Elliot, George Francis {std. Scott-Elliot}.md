@@ -28,14 +28,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2014-04-22 13:34:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/page/33333600) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 461](https://www.biodiversitylibrary.org/page/33333600) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9393-1), [Wikidata](https://www.wikidata.org/wiki/Q5877823). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scott-Elliot, George Francis (1862-1934), India-born British botanist; BA Cambridge 1882; botanist on the French and English Delimitation Commission of the Sierra Leone Boundary 1891-1892; in East Africa 1893-1894; lecturer in botany Glasgow Royal Technical College 1896-1904. 
-**Abbreviated name**: *Scott-Elliot*
+**Abbreviated name**: *Scott-Elliot* \[standard form in IPNI: *Scott Elliot*\]
 
 #### Herbarium and types
 

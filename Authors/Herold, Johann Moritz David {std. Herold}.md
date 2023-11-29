@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33068415) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33068415) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3881-1), [Wikidata](https://www.wikidata.org/wiki/Q1695613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Herold, Johann Moritz David (1790-1862), German entomologist at Marburg. 
-**Abbreviated name**: *Herold*
+**Abbreviated name**: *Herold* \[standard form in IPNI: *Herold*\]
 
 #### Note
 

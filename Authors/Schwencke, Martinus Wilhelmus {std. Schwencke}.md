@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33333581) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 442](https://www.biodiversitylibrary.org/page/33333581) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9370-1), [Wikidata](https://www.wikidata.org/wiki/Q21608546). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwencke, Martinus Wilhelmus (1 707-1 785), Dutch botanist and physician; practicing in 's Gravenhage \[The Hague\]; kept a "hortus medicus" and gave botany courses to surgeons and pharmacists. 
-**Abbreviated name**: *Schwencke*
+**Abbreviated name**: *Schwencke* \[standard form in IPNI: *Schwencke*\]
 
 #### Herbarium and types
 

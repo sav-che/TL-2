@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 938](https://www.biodiversitylibrary.org/page/33190409) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 938](https://www.biodiversitylibrary.org/page/33190409) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8665-1), [Wikidata](https://www.wikidata.org/wiki/Q6527). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rousseau, Jean Jacques (1712-1778); French writer and philosopher. 
-**Abbreviated name**: *Rousseau*
+**Abbreviated name**: *Rousseau* \[standard form in IPNI: *Rousseau*\]
 
 #### Herbarium and types
 

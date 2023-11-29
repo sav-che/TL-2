@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33120523) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33120523) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1254-1), [Wikidata](https://www.wikidata.org/wiki/Q3383203). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buchoz, Pierre Joseph (1731-1807), French (Lorraine) physician and naturalist. 
-**Abbreviated name**: *Buchoz*
+**Abbreviated name**: *Buchoz* \[standard form in IPNI: *Buc'hoz*\]
 
 #### Herbarium and types
 

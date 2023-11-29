@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33265875) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 198](https://www.biodiversitylibrary.org/page/33265875) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1681-1), [Wikidata](https://www.wikidata.org/wiki/Q18983846). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clavaud, Armand (1828-1890), French botanist at Bordeaux, born 10 Apr 1828 at Blanzac, active in the Société Linnéenne de Bordeaux, also active with Durieu de Maisonneuve, whom he succeeded as "Professeur de botanique municipal" from 1878, author of the "Flore de la Gironde", died 1 Dec 1890 at Bordeaux. 
-**Abbreviated name**: *Clavaud*
+**Abbreviated name**: *Clavaud* \[standard form in IPNI: *Clavaud*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33259730) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33259730) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2761-1), [Wikidata](https://www.wikidata.org/wiki/Q123099). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fitschen, Jost (1869-1947), German teacher and dendrologist who specialized in conifers, born 1 Jan 1869 in Brest (Kr. Stade), attended the "Volksschule" and from 1886-1889 the seminary in Stade, teacher in Geversdorf 1889-1894, with O. Schmeil taught in Magdeburg 1894-1901, finally teacher and later rector in Hamburg-Altona 1901-1930, from 1930 until his death on 26 Jan 1947 in Hamburg-Altona he could only read or dictate because of a nervous disease. 
-**Abbreviated name**: *Fitschen*
+**Abbreviated name**: *Fitschen* \[standard form in IPNI: *Fitschen*\]
 
 #### Herbarium and types
 

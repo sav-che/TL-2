@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33189789) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33189789) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7791-1), [Wikidata](https://www.wikidata.org/wiki/Q16027656). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Poirault, \[Marie Henri\] Georges (1858-1936), French botanist; son of J.P.F. Poirault; on oceanographic voyage of Talisman, 1883; with A.S. Famintzin, St. Petersburg 1886-1888; Dr. sci. Paris 1894; at Mus. Hist. nat. Paris, 1888-1889; director of the Villa Thuret at Antibes 1899-1936. 
-**Abbreviated name**: *G. Poirault*
+**Abbreviated name**: *G. Poirault* \[standard form in IPNI: *G.Poirault*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33333133) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 32](https://www.biodiversitylibrary.org/page/33333133) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8887-1), [Wikidata](https://www.wikidata.org/wiki/Q22106656). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sandford, E. (*fl*. 1882), British gardener at Dale Park. 
-**Abbreviated name**: *Sandford*
+**Abbreviated name**: *Sandford* \[standard form in IPNI: *Sandford*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33266730) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 423](https://www.biodiversitylibrary.org/page/33266730) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1420-1), [Wikidata](https://www.wikidata.org/wiki/Q21062909). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Carrington, Benjamin {std. Carrington}|first entry]] for this author
 
 ### Author
 
 \* Carrington, Benjamin (1827-1893), British physician and bryologist, born at Lincoln, studied at Liverpool and at the University of Edinburgh, apprenticed at Liverpool, graduated M.R.C.S. Eng. 1850 and M.D. Edinburgh 1851, practised at Radcliffe near Manchester and subsequently at Lincoln, Yeadon, Southport and Eccles, Medical officer of Health 1871-1891, ultimately at Brighton. 
-**Abbreviated name**: *Carrington*
+**Abbreviated name**: *Carrington* \[standard form in IPNI: *Carrington*\]
 
 #### Herbarium and types
 

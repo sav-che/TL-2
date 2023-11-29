@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33355397) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33355397) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6139-1), [Wikidata](https://www.wikidata.org/wiki/Q6103888). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marshall, Reginald Charles (1893- ?), British forester; conservator of forests, Trinidad and Tobago 
-**Abbreviated name**: *R. Marsh.*
+**Abbreviated name**: *R. Marsh.* \[standard form in IPNI: *R.C.Marshall*\]
 
 #### Herbarium and types
 

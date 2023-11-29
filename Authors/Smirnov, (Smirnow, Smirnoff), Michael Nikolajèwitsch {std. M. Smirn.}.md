@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33333798) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 659](https://www.biodiversitylibrary.org/page/33333798) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9763-1), [Wikidata](https://www.wikidata.org/wiki/Q61739290). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smirnov, \[Smirnow, Smirnoff\], Michael Nikolajèwitsch (1849-1889), Russian botanist; school inspector at Tiflis. 
-**Abbreviated name**: *M. Smirn.*
+**Abbreviated name**: *M. Smirn.* \[standard form in IPNI: *M.Smirn.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33189716) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33189716) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7650-1), [Wikidata](https://www.wikidata.org/wiki/Q21522966). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Phinney, Arthur John (1850-1942), American botanist; MD Pulte Med. Coll. 1877; in the Indiana Geological Survey 1881-1886; with the U.S. Geological Survey from 1890; practicing physician at Indianapolis. 
-**Abbreviated name**: *Phinney*
+**Abbreviated name**: *Phinney* \[standard form in IPNI: *Phinney*\]
 
 #### Herbarium and types
 

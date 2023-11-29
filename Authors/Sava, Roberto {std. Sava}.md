@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33333220) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 81](https://www.biodiversitylibrary.org/page/33333220) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8967-1), [Wikidata](https://www.wikidata.org/wiki/Q47125681). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sava, Roberto (*fl*. 1844), Italian physician and botanist at Prato. 
-**Abbreviated name**: *Sava*
+**Abbreviated name**: *Sava* \[standard form in IPNI: *Sava*\]
 
 #### Herbarium and types
 

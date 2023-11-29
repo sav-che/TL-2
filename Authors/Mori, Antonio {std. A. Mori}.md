@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33355668) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 581](https://www.biodiversitylibrary.org/page/33355668) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6650-1), [Wikidata](https://www.wikidata.org/wiki/Q5699154). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mori, Antonio (1847-1902), Italian botanist; acting director botanical garden of Pisa 1880-1881; director of the botanical garden of Alodena (1883-1902), professor of botany from 1888. 
-**Abbreviated name**: *A. Mori*
+**Abbreviated name**: *A. Mori* \[standard form in IPNI: *Mori*\]
 
 #### Herbarium and types
 

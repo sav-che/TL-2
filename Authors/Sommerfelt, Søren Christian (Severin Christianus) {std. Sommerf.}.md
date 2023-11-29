@@ -28,14 +28,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33333875) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 736](https://www.biodiversitylibrary.org/page/33333875) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/27003-1), [Wikidata](https://www.wikidata.org/wiki/Q4428698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sommerfelt, Søren Christian \[Severin Christianus\] (1794-1838), Norwegian clergyman and botanist; studied theology in Copenhagen 1812, cand. theol. Kristiania \[Oslo\] 1817; vicar in Saltdallen 1818, and in Ringebo Gudbrandsdalen 1827. 
-**Abbreviated name**: *Sommerf.*
+**Abbreviated name**: *Sommerf.* \[standard form in IPNI: *Sommerf.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33265757) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33265757) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17152-1), [Wikidata](https://www.wikidata.org/wiki/Q21508363). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cheney, Lellen Sterling (1858-1938), American botanist, born at Essex, Ohio, studied at the State University of Wisconsin 1889, B.S. ib. 1891, fellow 1891-1892, M.S. 1896, in charge of the herbarium 1891-1903, assistant professor on pharmaceutical botany 1896-1903, associate professor 1896 
-**Abbreviated name**: *Cheney*
+**Abbreviated name**: *Cheney* \[standard form in IPNI: *Cheney*\]
 
 #### Herbarium and types
 

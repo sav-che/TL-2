@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33355736) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 649](https://www.biodiversitylibrary.org/page/33355736) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6746-1), [Wikidata](https://www.wikidata.org/wiki/Q21521837). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mueller, Nicolaus Jacob Carl (1842-1901), German plant physiologist and morphologist; Dr. phil. Heidelberg 1866; from 1866-1872 Privat-Dozent at Heidelberg; from 1872-1901 at the Forestry College of Münden (Hannover). 
-**Abbreviated name**: *N. J. C. Muell.*
+**Abbreviated name**: *N. J. C. Muell.* \[standard form in IPNI: *N.J.C.Muell.*\]
 
 #### Herbarium and types
 

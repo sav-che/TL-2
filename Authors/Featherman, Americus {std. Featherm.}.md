@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33259583) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33259583) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/13402-1), [Wikidata](https://www.wikidata.org/wiki/Q21512731). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Featherman, Americus (1822-1891, or later), German-born American physician, novelist, botanist and anthropologist, born 1822 in Göttingen (probably as Federmann and possibly with a different first name), came to the U.S.A. at age 17, studied medicine in Paris 1847-1850 and practiced in Missouri, asst. examiner, Confederate Patent Office, Richmond, Virginia 1862-1865, prof. of romance languages and botany, Louisiana State Seminary of Learning and Military Academy (later Louisiana State Univ.), Baton Rouge, Louisiana 1869-1872, returned to Europe (and Paris) 1875. 
-**Abbreviated name**: *Featherm.*
+**Abbreviated name**: *Featherm.* \[standard form in IPNI: *Featherm.*\]
 
 #### Herbarium and types
 

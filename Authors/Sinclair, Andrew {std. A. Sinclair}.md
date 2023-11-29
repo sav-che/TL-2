@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33333751) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 612](https://www.biodiversitylibrary.org/page/33333751) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9687-1), [Wikidata](https://www.wikidata.org/wiki/Q4758589). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sinclair, Andrew (ca. 1796-1861), British physician and plant collector; surgeon Royal Navy from ca. 1824; on HMS Sulphur 1834-1842; surgeon convict ship in Australia 1842; colonial secretary New Zealand 1844-1856; collected in Australia, New Zealand and in regions visited by the Sulphur; actively pursuing botanical collecting in retirement; drowned on an expedition nr Mt. Sinclair. 
-**Abbreviated name**: *A. Sinclair*
+**Abbreviated name**: *A. Sinclair* \[standard form in IPNI: *A.Sinclair*\]
 
 #### Herbarium and types
 

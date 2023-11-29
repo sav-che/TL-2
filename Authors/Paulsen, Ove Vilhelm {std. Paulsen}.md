@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33189584) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 113](https://www.biodiversitylibrary.org/page/33189584) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7410-1), [Wikidata](https://www.wikidata.org/wiki/Q2654979). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Paulsen, Ove Vilhelm (1874-1947), Danish botanist; M.Sc. Copenhagen 1897; Dr. phil. ib. 1911; in the Danish West Indies 1895-1896, on the Pamir expedition 1898-1899; from 1900-1918 curator at the Botanical Museum, Copenhagen; professor of botany at the Danish pharmaceutical college 1920-1944. 
-**Abbreviated name**: *Paulsen*
+**Abbreviated name**: *Paulsen* \[standard form in IPNI: *Paulsen*\]
 
 #### Herbarium and types
 

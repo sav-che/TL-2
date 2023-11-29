@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2004-01-15 09:09:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33264839) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33264839) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/202-1), [Wikidata](https://www.wikidata.org/wiki/Q5554595). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Andersson, Carl Filip Gunnar {std. G. Andersson}|first entry]] for this author
 
 ### Author
 
 \* Andersson, \[Carl Filip\] Gunnar (1865-1928), Swedish botanist, educated at a secondary school in Ystad and the cathedral school at Lund until 1884; at the University of Lund with F.W.C. Areschoug 1884, specializing in plant anatomy, Dr. phil. Lund 1892, curator at the palaeobotanical department of the Stockholm Riksmuseum 1891-1898; lecturer in plant geography at the University of Stockholm 1893, id. for botany 1899, botanist at the Forestry Research Institute in Stockholm 1903, lecturer at the Forestry Institute 1906-1909, professor of economic geography at the Stockholm College of Commerce from 1909; travelled to Italy 1892, Spitsbergen 1898, North America 1912, Australia 1914. 
-**Abbreviated name**: *G. Andersson*
+**Abbreviated name**: *G. Andersson* \[standard form in IPNI: *G.Andersson*\]
 
 #### Herbarium and types
 

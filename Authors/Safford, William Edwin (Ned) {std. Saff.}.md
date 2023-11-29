@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1051](https://www.biodiversitylibrary.org/page/33190522) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1051](https://www.biodiversitylibrary.org/page/33190522) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8805-1), [Wikidata](https://www.wikidata.org/wiki/Q3568593). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Safford, William Edwin ("Ned") (1859-1926), American botanist and conchologist; United States Naval Academy grad. 1880; from 1880-1902 in the U.S. Navy, 1899-1900 as lieutenant governor of Guam; with the Office of Economic and Systematic Botany of the Bureau of Plant Industry (USDA) of the United States 1902-1926. 
-**Abbreviated name**: *Saff.*
+**Abbreviated name**: *Saff.* \[standard form in IPNI: *Saff.*\]
 
 #### Herbarium and types
 

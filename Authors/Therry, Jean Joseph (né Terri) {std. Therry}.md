@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33212297) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33212297) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12927-1), [Wikidata](https://www.wikidata.org/wiki/Q21610574). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Therry, Jean Joseph \[né Terri\] (1833-1888), French merchant and banker, self-taught botanist at Lyon; one of the founders of the Société botanique de Lyon. 
-**Abbreviated name**: *Therry*
+**Abbreviated name**: *Therry* \[standard form in IPNI: *Therry*\]
 
 #### Herbarium and types
 

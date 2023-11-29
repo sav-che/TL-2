@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33355693) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 606](https://www.biodiversitylibrary.org/page/33355693) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23684-1), [Wikidata](https://www.wikidata.org/wiki/Q1143078). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mougeot, Jean Baptiste (1776-1858), Alsatian physician and botanist; 1798-1802 French army health officer in Germany; from 1803 physician at Bruyères; 1833-1858 member of the Conseil général des Vosges. 
-**Abbreviated name**: *Moug.*
+**Abbreviated name**: *Moug.* \[standard form in IPNI: *Moug.*\]
 
 #### Herbarium and types
 

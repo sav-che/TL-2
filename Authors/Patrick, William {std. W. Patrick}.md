@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33189575) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33189575) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7390-1), [Wikidata](https://www.wikidata.org/wiki/Q47124147). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Patrick, William (*fl*. 1831), Scottish clergyman and botanist. 
-**Abbreviated name**: *W. Patrick*
+**Abbreviated name**: *W. Patrick* \[standard form in IPNI: *Patrick*\]
 
 #### Herbarium and types
 

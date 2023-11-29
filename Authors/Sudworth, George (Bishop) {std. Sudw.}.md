@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33212122) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 80](https://www.biodiversitylibrary.org/page/33212122) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10274-1), [Wikidata](https://www.wikidata.org/wiki/Q2385317). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sudworth, George \[Bishop\] (1864-1927), American dendrologist; A.B. Univ. Michigan 1885; instructor in botany Michigan Agric. College 1885-1886; botanist in the United States Department of Agriculture, Division of Forestry 1886-1895; dendrologist Bureau of Forestry 1895-1904; chief dendrologist 1904-1927. 
-**Abbreviated name**: *Sudw.*
+**Abbreviated name**: *Sudw.* \[standard form in IPNI: *Sudw.*\]
 
 #### Herbarium and types
 

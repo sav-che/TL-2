@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33121061) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33121061) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3073-1), [Wikidata](https://www.wikidata.org/wiki/Q21513855). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Geisenheyner, (Franz Adolf) Ludwig (Louis) {std. Geisenh.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Geisenheyner, Franz Adolf Louis (1841-1926), German highschool teacher and botanist at Kreuznach. 
-**Abbreviated name**: *Geisenh.*
+**Abbreviated name**: *Geisenh.* \[standard form in IPNI: *Geisenh.*\]
 
 #### Herbarium and types
 

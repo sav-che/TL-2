@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33212597) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 555](https://www.biodiversitylibrary.org/page/33212597) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10930-1), [Wikidata](https://www.wikidata.org/wiki/Q6167667). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tutcher, William James (1867-1920), British gardener and botanist; "young gardener" subsequently "sub-foreman" at Kew 1888-1891; assistant superintendent botanical and forestry department Hongkong 1901, superintendent 1910-1920. 
-**Abbreviated name**: *Tutcher*
+**Abbreviated name**: *Tutcher* \[standard form in IPNI: *Tutcher*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33212278) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33212278) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12925-1), [Wikidata](https://www.wikidata.org/wiki/Q20979248). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thayer, Emma, née Homan (1842-1908), American artist, educated at Rutgers University and the National Academy of Design; in Colorado from 1882; married George A. Graves 1860 (d. 1864), Elmer A. Thayer 1877. 
-**Abbreviated name**: *Thayer*
+**Abbreviated name**: *Thayer* \[standard form in IPNI: *Thayer*\]
 
 #### Herbarium and types
 

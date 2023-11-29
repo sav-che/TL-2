@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33066663) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33066663) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11709-1), [Wikidata](https://www.wikidata.org/wiki/Q21387977). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Williams, Robert Statham (1859-1945), American bryologist; business man, miner and explorer in Montana 1879-1898; in Alaska 1898-1899; from 1899 scientist of independent means; Museum aid New York Botanical Garden 1899-1906, asst. curator 1906, administrative assistant 1910-1932; research assistant in bryology 1932-1936; research associate from 1934; in retirement in Minneapolis, Minn.; collected in Montana 1879-1898, Alaska 1898-1899, Bolivia 1901-1903, Philippines 1903-1905, Panama 1908. 
-**Abbreviated name**: *R.S. Williams*
+**Abbreviated name**: *R.S. Williams* \[standard form in IPNI: *R.S.Williams*\]
 
 #### Herbarium and types
 

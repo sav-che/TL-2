@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33259080) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 34](https://www.biodiversitylibrary.org/page/33259080) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/1969-1), [Wikidata](https://www.wikidata.org/wiki/Q2917982). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dalziel, John McEwen {std. Dalziel}|first entry]] for this author
 
 ### Author
 
 \* Dalziel, John McEven (1872-1948), British colonial public health officer, born in Nagpur, India, traveller as missionary in China 1895-1902 and in West tropical Africa 1905-1922, ultimately at Kew 1923-1936, M.B., Edinburgh 1895, MD 1903, FLS 1917. 
-**Abbreviated name**: *Dalziel*
+**Abbreviated name**: *Dalziel* \[standard form in IPNI: *Dalziel*\]
 
 #### Herbarium and types
 

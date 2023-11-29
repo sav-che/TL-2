@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33068621) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33068621) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4252-1), [Wikidata](https://www.wikidata.org/wiki/Q36574101). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Huteau, H. (*fl*. 1894), French botanist, teacher at the teacher's college of Bourg. 
-**Abbreviated name**: *Huteau*
+**Abbreviated name**: *Huteau* \[standard form in IPNI: *Huteau*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33120675) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 544](https://www.biodiversitylibrary.org/page/33120675) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1785-1), [Wikidata](https://www.wikidata.org/wiki/Q20989023). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cooke, William Bridge (1908-x), American mycologist. 
-**Abbreviated name**: *W. B. Cooke*
+**Abbreviated name**: *W. B. Cooke* \[standard form in IPNI: *W.B.Cooke*\]
 
 #### Herbarium and types
 

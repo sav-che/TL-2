@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33333278) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33333278) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12825-1), [Wikidata](https://www.wikidata.org/wiki/Q21607890). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scherer, Johann \[Baptist\] Andreas (1755-1844), Bohemian botanist; studied at Praha and Wien under J.G. Mikan and N.J. v. Jacquin; practicing physician at Wien; professor of chemistry at the "Theresianische Ritterakademie", Wien 1797-1803; id. at the Technical Institute Praha, later professor of "special natural history" in Wien 1803-1833. 
-**Abbreviated name**: *Scherer*
+**Abbreviated name**: *Scherer* \[standard form in IPNI: *Scherer*\]
 
 #### Herbarium and types
 

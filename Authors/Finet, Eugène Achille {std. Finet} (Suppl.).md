@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33259687) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33259687) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2734-1), [Wikidata](https://www.wikidata.org/wiki/Q1657041). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Finet, Eugène Achille {std. Finet}|first entry]] for this author
 
 ### Author
 
 \* Finet, Eugène Achille (1863-1913), French botanist, born 14 Oct 1863 in Argenteuil (Seine-et-Oise), attended lyceum in Versailles until 1877, Bacc. ès-lettres 1881 Sainte-Barbe, "preparateur" for chemistry in several laboratories from 1882, switched to the Lab. of Phanerogams, Museum natl. d'Histoire naturelle, Paris Apr 1898 and specialized in orchids, a family for which his father Frédéric Finet (1827-1903) ran a well-known nursery, also collected in s.e. Asia and Java with H. Lecomte 1911-1912, died 30 Jan 1913 in Paris. 
-**Abbreviated name**: *Finet*
+**Abbreviated name**: *Finet* \[standard form in IPNI: *Finet*\]
 
 #### Herbarium and types
 

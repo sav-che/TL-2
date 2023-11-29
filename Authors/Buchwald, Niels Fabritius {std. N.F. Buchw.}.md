@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33266507) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33266507) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16667-1), [Wikidata](https://www.wikidata.org/wiki/Q19842613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buchwald, Niels Fabritius (1898-x), Danish botanist, born at Aalborg, Jutland, studied at the University of Copenhagen, cand. mag. 1924, assistant with the Royal Veterinary and Agricultural College, travelled in Iceland 1925, Copenhagen 1925, Rockefeller-Stipendiat at Cornell, U.S.A. 1930-1931, amanuensis 1935 ib., professor of phytopathology 1944. 
-**Abbreviated name**: *N.F. Buchw.*
+**Abbreviated name**: *N.F. Buchw.* \[standard form in IPNI: *N.F.Buchw.*\]
 
 #### Herbarium and types
 

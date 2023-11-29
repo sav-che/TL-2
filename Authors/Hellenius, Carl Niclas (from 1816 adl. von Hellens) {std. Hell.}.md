@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33068387) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 145](https://www.biodiversitylibrary.org/page/33068387) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12538-1), [Wikidata](https://www.wikidata.org/wiki/Q5799101). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hellenius, Carl Niclas (from 1816 adl. von Hellens) (1745-1820), Finnish botanist, professor of economics and natural history at Åbo 1793-1816. 
-**Abbreviated name**: *Hell.*
+**Abbreviated name**: *Hell.* \[standard form in IPNI: *Hell.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33066723) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33066723) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11774-1), [Wikidata](https://www.wikidata.org/wiki/Q21612839). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winter, John Mack (1899-1964), American botanist; Dr. phil. Univ. Nebraska 1932; assistant in botany Univ. Nebraska 1926-1928; instructor in botany Northwestern Univ. 1928-1930, professor of biology Univ. Nebraska 1930-1932; id. Peru State Teachers College 1932-1946; at South Dakota University, Brookings 1946-1948, id. at Vermillion S.D. 1948-1963. 
-**Abbreviated name**: *J.M. Wint.*
+**Abbreviated name**: *J.M. Wint.* \[standard form in IPNI: *J.M.Winter*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33264837) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33264837) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/199-1), [Wikidata](https://www.wikidata.org/wiki/Q371504). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Anderson, Thomas {std. T. Anderson}|first entry]] for this author
 
 ### Author
 
 \* Anderson, Thomas (1832-1870), Scottish botanist and physician, MD Edinburgh 1853, in the Bengal Medical Service 1854-1858, superintendent of the Calcutta Botanical Gardens, 1860/61-1868, visited as such Java 1861 to obtain Cinchona stock for Darjeeling, returned to Edinburgh 1868. 
-**Abbreviated name**: *Th. Anderson*
+**Abbreviated name**: *Th. Anderson* \[standard form in IPNI: *T.Anderson*\]
 
 #### Herbarium and types
 

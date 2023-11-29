@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33066355) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 15](https://www.biodiversitylibrary.org/page/33066355) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11312-1), [Wikidata](https://www.wikidata.org/wiki/Q21611990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wahl, Carl Georg von (1869-?), Baltic German (Livonian) botanist; studied natural sciences at Dorpat 1890-1893; botany at Berlin 1893-1896, student of A. Engler, K. Schumann, S. Schwendener; Dr. phil. Berlin 1896; later head of the botanical division of the "Badische Staatliche Landwirtschaftliche Versuchsanstalt Augustenberg near Karlsruhe. 
-**Abbreviated name**: *C. Wahl*
+**Abbreviated name**: *C. Wahl* \[standard form in IPNI: *C.Wahl*\]
 
 #### Herbarium and types
 

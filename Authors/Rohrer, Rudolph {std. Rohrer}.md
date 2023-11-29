@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33190337) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 866](https://www.biodiversitylibrary.org/page/33190337) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8539-1), [Wikidata](https://www.wikidata.org/wiki/Q21034870). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rohrer, Rudolph (1805-1839), West-Galician (Krakow-born) printer and botanist, active in Moravia. 
-**Abbreviated name**: *Rohrer*
+**Abbreviated name**: *Rohrer* \[standard form in IPNI: *Rohrer*\]
 
 #### Herbarium and types
 

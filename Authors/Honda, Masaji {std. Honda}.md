@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33068509) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33068509) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4078-1), [Wikidata](https://www.wikidata.org/wiki/Q3259531). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Honda, Masaji (1897-x), Japanese botanist. 
-**Abbreviated name**: *Honda*
+**Abbreviated name**: *Honda* \[standard form in IPNI: *Honda*\]
 
 #### Herbarium and types
 

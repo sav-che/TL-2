@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-11-06 00:33:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33258696) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 218](https://www.biodiversitylibrary.org/page/33258696) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3148-1), [Wikidata](https://www.wikidata.org/wiki/Q18984952). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gillespie, John Wynn (1901-1932), American botanist, A.M. 1926 Stanford Univ., Palo Alto, Calif. (thesis entitled "Notes on the fungus Dicaeoma evadens..."), Bernice P. Bishop Museum Fellow, Yale Univ., New Haven, Conn., during which period he visited Fiji Jul 1927-Apr 1928, Research Associate in Botany, Bernice P. Bishop Museum 1928-1932, Ph.D. 1930 Stanford Univ., Natl. Research Fellowship, Gray Herb., Harvard Univ., Cambridge, Mass., appointed prof. of botany, Arizona State Teachers College (now Arizona State Univ.), Tempe 1932, visited Kew summer 1932 and died of pneumonia on 13 Sep 1932 in Albany, Georgia, U.S.A. while enroute home. 
-**Abbreviated name**: *Gillespie*
+**Abbreviated name**: *Gillespie* \[standard form in IPNI: *Gillespie*\]
 
 #### Note
 

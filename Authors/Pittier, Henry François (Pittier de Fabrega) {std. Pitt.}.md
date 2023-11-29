@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33189750) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 279](https://www.biodiversitylibrary.org/page/33189750) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/31430-1), [Wikidata](https://www.wikidata.org/wiki/Q116003). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pittier, Henry François (Pittier de Fabrega) (1857-1950), Swiss botanist and civil engineer, D. Sc. Lausanne 1885; Ph.D. Jena; at Lausanne 1882-1887; to Costa Rica in 1887; with USDA 1905-1919 exploring Central America, Colombia and Venezuela; from 1919-1950 in Venezuela; naturalized U.S. citizen. 
-**Abbreviated name**: *Pitt.*
+**Abbreviated name**: *Pitt.* \[standard form in IPNI: *Pittier*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33333134) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33333134) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8889-1), [Wikidata](https://www.wikidata.org/wiki/Q2315806). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sandifort, Gerard (1779-1848), Dutch botanist and physician; prosector and adjunct to his father, the professor of anatomy at the Leiden University 1799; Dr. med. ib. 1801; honorary professor of anatomy 1801, ord. professor id. 1812, re-affirmed by the Dutch government in 1815; in charge of the Leiden Botanical Garden 1819-1822. 
-**Abbreviated name**: *Sandif.*
+**Abbreviated name**: *Sandif.* \[standard form in IPNI: *Sandifort*\]
 
 #### Herbarium and types
 

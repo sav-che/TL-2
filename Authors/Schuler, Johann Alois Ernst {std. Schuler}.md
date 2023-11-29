@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33333504) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 365](https://www.biodiversitylibrary.org/page/33333504) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9287-1), [Wikidata](https://www.wikidata.org/wiki/Q21388478). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schuler, Johann Alois Ernst (1853-1946), Austrian botanist; high school teacher (with the title professor) at the "Staatsoberrealschule" in Triest 1886-1895; idem at the Marine Academy of Fiume 1895-1913; in retirement in Triest 1913-1921, later in Fiume. 
-**Abbreviated name**: *Schuler*
+**Abbreviated name**: *Schuler* \[standard form in IPNI: *Schuler*\]
 
 #### Herbarium and types
 

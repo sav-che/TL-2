@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 931](https://www.biodiversitylibrary.org/page/33121062) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 931](https://www.biodiversitylibrary.org/page/33121062) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3081-1), [Wikidata](https://www.wikidata.org/wiki/Q21339476). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Genth, Carl Friedrich Ferdinand (1810-1837), German cryptogamist. 
-**Abbreviated name**: *Genth*
+**Abbreviated name**: *Genth* \[standard form in IPNI: *Genth*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33120699) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 568](https://www.biodiversitylibrary.org/page/33120699) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17535-1), [Wikidata](https://www.wikidata.org/wiki/Q18910951). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Crombie, James Morrison {std. Cromb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Crombie, James Mascall (Morrison) (1831-1906), British lichenologist. 
-**Abbreviated name**: *Cromb.*
+**Abbreviated name**: *Cromb.* \[standard form in IPNI: *Cromb.*\]
 
 #### Herbarium and types
 

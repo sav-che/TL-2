@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33189686) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33189686) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/35197-1), [Wikidata](https://www.wikidata.org/wiki/Q21522918). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petzold, \[Karl\] Wilhelm (1848-1897), German (Saxonian) botanist and geologist; Dr. phil. Halle 1876; in the campaign in France 1870-1871; high school teacher at Neu-Brandenburg 1874-1877, id. at Weisenburg i. E. (Wissembourg) 1877-1879, id. at Braunschweig 1880-1897. 
-**Abbreviated name**: *W. Petzold*
+**Abbreviated name**: *W. Petzold* \[standard form in IPNI: *W.Petz.*\]
 
 #### Herbarium and types
 

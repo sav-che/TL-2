@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33333160) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33333160) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8869-1), [Wikidata](https://www.wikidata.org/wiki/Q6090892). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Samuelsson, Gunnar (1885-1944), Swedish botanist; Dr. phil. Uppsala 1913; lecturer Uppsala 1913; curator Bot. Mus., Univ. Uppsala 1914-1919; professor and director of the botany department of the Stockholm Riksmuseum from 1924-1944. 
-**Abbreviated name**: *Sam.*
+**Abbreviated name**: *Sam.* \[standard form in IPNI: *Sam.*\]
 
 #### Herbarium and types
 

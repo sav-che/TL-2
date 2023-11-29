@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33259796) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33259796) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2805-1), [Wikidata](https://www.wikidata.org/wiki/Q36687607). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Folin, Thorild Conrad (1881-fl. 1942), Swedish chemical engineer and botanist, born 23 Mai 1881 in Stockholm, at Bergvik, specialist on the genus *Hieracium*. 
-**Abbreviated name**: *Folin*
+**Abbreviated name**: *Folin* \[standard form in IPNI: *Folin*\]
 
 #### Herbarium and types
 

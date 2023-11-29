@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33120447) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33120447) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1123-1), [Wikidata](https://www.wikidata.org/wiki/Q21506467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brereton, John Andrew (1787-1839) American navy, later army, physician and botanist. 
-**Abbreviated name**: *Brereton*
+**Abbreviated name**: *Brereton* \[standard form in IPNI: *Brereton*\]
 
 #### Herbarium and types
 

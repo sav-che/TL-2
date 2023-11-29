@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-09-28 13:32:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33266188) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 511](https://www.biodiversitylibrary.org/page/33266188) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/12389-1), [Wikidata](https://www.wikidata.org/wiki/Q451753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Curran, Mary Katharine (née Layne) (1844-1920), M.K. Layne married Hugh Curran who died in 1874, she later married T.S. Brandegee and published under the name M.K. Brandegee. For further information see under this name in TL-2/1: 302-303 and suppl. 3: 9-10. 
-**Abbreviated name**: *Curran*
+**Abbreviated name**: *Curran* \[standard form in IPNI: *Curran*\]
 **Alternate abbreviation:** (*K. Brandegee*)
 
 #### Bibliography and biography

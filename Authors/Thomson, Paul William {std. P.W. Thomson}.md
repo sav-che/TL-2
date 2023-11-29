@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33212327) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 285](https://www.biodiversitylibrary.org/page/33212327) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27698-1), [Wikidata](https://www.wikidata.org/wiki/Q12372096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomson, Paul William (1892-1957), Estonian botanist and quaternary geologist; teacher at a gymnasium in Dorpat 1921-1932; lecturer in geology and paleontology at the University of Dorpat 1928-1939, also connected with the Experiment Station of the Estonian peat-bog association at Tooma nr Vägera; from 1941-1945 director of the Geological-palaeontological Institute at Tosen; geologist with the Amt für Bodenforschung Krefeld from 1947. 
-**Abbreviated name**: *P.W. Thomson*
+**Abbreviated name**: *P.W. Thomson* \[standard form in IPNI: *P.W.Thomson*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33355903) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33355903) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12715-1), [Wikidata](https://www.wikidata.org/wiki/Q55069834). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Oken, Lorenz (until 1802: Okenfuss) (1779-1851), German naturalist, physician, philosopher and philologist; Dr. med. Freiburg i.B. 1804; at Jena university 1807-1819; at München 1827-1832, at Zürich from 1832; main proponent of the German "Naturphilosophie" and longtime editor of Isis. 
-**Abbreviated name**: *Oken*
+**Abbreviated name**: *Oken* \[standard form in IPNI: *Oken*\]
 
 #### Herbarium and types
 

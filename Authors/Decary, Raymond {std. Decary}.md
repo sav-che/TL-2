@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33259186) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 140](https://www.biodiversitylibrary.org/page/33259186) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/13940-1), [Wikidata](https://www.wikidata.org/wiki/Q346745). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Decary, Raymond (1891-1973), French administer for the colonies, born at Méry sur Seine, lived in Madagascar since 1916 where he was able to find the time to study the geology, flora, fauna, and ethnography of the island until his retirement in 1944, collected on several scientific expeditions for the Paris Museum of Natural History, died 1973. 
-**Abbreviated name**: *Decary*
+**Abbreviated name**: *Decary* \[standard form in IPNI: *Decary*\]
 
 #### Herbarium and types
 

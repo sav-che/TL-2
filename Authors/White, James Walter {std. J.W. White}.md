@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33066592) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 252](https://www.biodiversitylibrary.org/page/33066592) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11621-1), [Wikidata](https://www.wikidata.org/wiki/Q19003327). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 White, James Walter (1846-1932), British botanist and pharmaceutical chemist; set up a chemist's business at Clifton, Bristol in 1874; special lecturer in botany at the University of Bristol and M.Sc. hon. ib. 1927. 
-**Abbreviated name**: *J.W. White*
+**Abbreviated name**: *J.W. White* \[standard form in IPNI: *J.W.White*\]
 
 #### Herbarium and types
 

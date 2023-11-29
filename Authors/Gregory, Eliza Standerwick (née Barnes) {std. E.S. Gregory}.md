@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33258848) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33258848) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/12518-1), [Wikidata](https://www.wikidata.org/wiki/Q15807852). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gregory, Eliza Standerwick (née Barnes) (1840-1932), English botanist, born 6 Dec 1840 in Thrapston (Northants.), married 1863, founded a school for boys in Weston-super-Mare (Somerset) 1887, moved to Cambridge 1904, returned to Weston-super-Mare 1919, died 22 Mar 1932 in Weston-super-Mare. 
-**Abbreviated name**: *E.S. Gregory*
+**Abbreviated name**: *E.S. Gregory* \[standard form in IPNI: *Greg.*\]
 
 #### Note
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33260432) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33260432) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2606-1), [Wikidata](https://www.wikidata.org/wiki/Q2865378). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Exell, Arthur Wallis {std. Exell}|first entry]] for this author
 
 ### Author
 
 \* Exell, Arthur Wallis (1901-1993), British botanist, born 21 Mai 1901 at Handsworth, Staffordshire, educated at the Queen Elisabeth Grammar School (Warwickshire), the King Edward's School at Birmingham and the Emmanuel College at Cambridge, entered the staff of the botanical department of the British Museum in 1924, visited the islands in the Gulf of Guinea in 1932-1933 studying the flora, studied extensively the flora of Angola and other African countries, the Polygalaceae and Combretaceae, died 15 Jan 1993 at Cheltenham. 
-**Abbreviated name**: *Exell*
+**Abbreviated name**: *Exell* \[standard form in IPNI: *Exell*\]
 
 #### Herbarium and types
 

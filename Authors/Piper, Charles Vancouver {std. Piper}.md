@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33189741) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 270](https://www.biodiversitylibrary.org/page/33189741) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24883-1), [Wikidata](https://www.wikidata.org/wiki/Q567756). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Piper, Charles Vancouver (1867-1926), American botanist; M.Sc. Univ. Washington 1892; professor of botany at Pullman, Washington 1893; M.Sc. Harvard 1900; from 1903 in Washington, D.C., with the Bureau of Plant Industry (forage crop investigations); D.Sc. Kansas Agric. College 1921. 
-**Abbreviated name**: *Piper*
+**Abbreviated name**: *Piper* \[standard form in IPNI: *Piper*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33265858) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33265858) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17287-1), [Wikidata](https://www.wikidata.org/wiki/Q21508666). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clark, Lois (1884-1967), American botanist, born at Charlotte, Michigan, attended Seattle public schools 1898-1903, studied at Washington University, B.A. 1907, at Yale 1907-1908, M.A. 1910, Ph.D. University of Minnesota 1919, head dept. sci. Stephens Jr. College 1919-1920, asst. prof. bot. at the University of Idaho 1923-1927, later at the University of Washington. 
-**Abbreviated name**: *L. Clark*
+**Abbreviated name**: *L. Clark* \[standard form in IPNI: *L.Clark*\]
 
 #### Herbarium and types
 

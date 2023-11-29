@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33333321) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33333321) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9100-1), [Wikidata](https://www.wikidata.org/wiki/Q21607983). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schiønning, Holger Ludvig (1868-1942), Danish mycologist; cand. chem. 1893; assistant at the Carlsberg Laboratory; specialist in the physiology of yeasts. 
-**Abbreviated name**: *Schiønning*
+**Abbreviated name**: *Schiønning* \[standard form in IPNI: *Schiønning*\]
 
 #### Herbarium and types
 

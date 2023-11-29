@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33265400) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33265400) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/850-1), [Wikidata](https://www.wikidata.org/wiki/Q4088004). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Blanford, Henry Francis (1834-1893), British meteorologist, geologist and botanist, studied at the British Royal School of Mines 1851-1854, at the University of Freiburg, Baden 1854-1855, with the Geological Survey of India 1855-1862, professor at Presidence College, Calcutta 1862-1874, also meteorological reporter to the Government of Bengal from 1867, idem for the Indian Government 1875-1889, returned to Great Britain 1889 settling at Folkestone. 
-**Abbreviated name**: *Blanf.*
+**Abbreviated name**: *Blanf.* \[standard form in IPNI: *Blanf.*\]
 
 #### Herbarium and types
 

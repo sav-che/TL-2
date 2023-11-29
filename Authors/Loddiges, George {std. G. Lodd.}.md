@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33355223) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 136](https://www.biodiversitylibrary.org/page/33355223) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5695-1), [Wikidata](https://www.wikidata.org/wiki/Q3101732). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Loddiges, George (1784-1846), British horticulturist, nurseryman at Hackney; son of Conrad Loddiges. 
-**Abbreviated name**: *G. Lodd.*
+**Abbreviated name**: *G. Lodd.* \[standard form in IPNI: *G.Lodd.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33259802) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 298](https://www.biodiversitylibrary.org/page/33259802) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/13648-1), [Wikidata](https://www.wikidata.org/wiki/Q55033821). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fontana, Felice\[Félix\] (1730-1805), Italian abbot, physician, zoologist and botanist, born 15 Apr 1730 in Pomarolo nr. Rovereto\[baptized 3 Jun 1730 as Gasparo Ferdinando Felice\], educated in Rovereto, and at Verona, Parma and the Univ. of Padua 1750-1752, appointed by Emperor Francis I (1768-1835) to the chair of philosophy in Pisa 1765, summoned to Florence by the Grand-Duke Leopold (1747-1792) and made court physician 1766, also commissioned to organize the natural history museum in Florence (which opened 1775) and became its dir., traveled in France and England 1775-1780, died 10 Mar 1805 in Florence, buried in the Church of Santa Croce. 
-**Abbreviated name**: *Fontana*
+**Abbreviated name**: *Fontana* \[standard form in IPNI: *Fontana*\]
 
 #### Note
 

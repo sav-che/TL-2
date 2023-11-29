@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33212185) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 143](https://www.biodiversitylibrary.org/page/33212185) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10364-1), [Wikidata](https://www.wikidata.org/wiki/Q16533694). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Szafran, Bronislaw (1897-1968), Polish botanist (bryologist) at the Agricultural Station, Lwów. 
-**Abbreviated name**: *Szafran*
+**Abbreviated name**: *Szafran* \[standard form in IPNI: *Szafran*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33068926) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 684](https://www.biodiversitylibrary.org/page/33068926) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5109-1), [Wikidata](https://www.wikidata.org/wiki/Q75987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kükenthal, Georg (1864-1955), German clergyman and botanist at Grub a. F. and, from 1919, Coburg; ordained Coburg 1885; Dr. phil. h.c. Breslau 1913; long-time associate for Cyperaceae of Engler and the Botanical Museum, Berlin-Dahlem. 
-**Abbreviated name**: *Kükenth.*
+**Abbreviated name**: *Kükenth.* \[standard form in IPNI: *Kük.*\]
 
 #### Herbarium and types
 

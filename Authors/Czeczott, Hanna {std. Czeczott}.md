@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-04-29 19:40:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33266207) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 530](https://www.biodiversitylibrary.org/page/33266207) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1945-1), [Wikidata](https://www.wikidata.org/wiki/Q5891798). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Czeczott, Hanna (1888-1982), Polish botanist, born at St. Petersburg, worked at Warszawa in taxonomy, plant-geography and palaeobotany. 
-**Abbreviated name**: *Czeczott*
+**Abbreviated name**: *Czeczott* \[standard form in IPNI: *Czeczott*\]
 
 #### Herbarium and types
 

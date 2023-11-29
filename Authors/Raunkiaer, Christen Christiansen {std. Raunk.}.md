@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33190061) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 590](https://www.biodiversitylibrary.org/page/33190061) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25371-1), [Wikidata](https://www.wikidata.org/wiki/Q444984). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Raunkiaer, Christen Christiansen (1860-1938), Danish botanist; Mag. Sci. Kjøbenhavn 1885; assistant at the Botanical Garden ib. 1893-1911; lecturer at the University 1909; professor of botany and director of the Botanical Garden ib. 1912-1923, succeeding E. Warming; versatile botanist and ecologist("plant life forms", Taraxacum). 
-**Abbreviated name**: *Raunk.*
+**Abbreviated name**: *Raunk.* \[standard form in IPNI: *Raunk.*\]
 
 #### Herbarium and types
 

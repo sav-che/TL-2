@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33068281) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33068281) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3607-1), [Wikidata](https://www.wikidata.org/wiki/Q5217417). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hanbury, Daniel (1825-1875), British pharmacologist and botanist; travelled in Syria 1860; brother of Sir Thomas Hanbury. 
-**Abbreviated name**: *D. Hanb.*
+**Abbreviated name**: *D. Hanb.* \[standard form in IPNI: *D.Hanb.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33258541) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33258541) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19017-1), [Wikidata](https://www.wikidata.org/wiki/Q5076250). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Frost, Charles Christopher (1805-1880), American shoemaker and self-taught naturalist, born 11 Nov 1805 in Brattleboro, Vermont, worked as a shoemaker throughout his life except in the winter months of a few years in his early manhood when he taught school, otherwise spent his leisure hours studying astronomy, geology, mineralogy, meteorology and botany (esp. mycology), hon. A.M. Dartmouth and Middlebury colleges, died 16 Mar 1880 in Brattleboro, "the learned shoemaker of Brattleboro". 
-**Abbreviated name**: *Frost*
+**Abbreviated name**: *Frost* \[standard form in IPNI: *Frost*\]
 
 #### Herbarium and types
 

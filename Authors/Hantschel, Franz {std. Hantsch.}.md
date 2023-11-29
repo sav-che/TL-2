@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33068292) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3638-1), [Wikidata](https://www.wikidata.org/wiki/Q21514663). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hantschel, Franz (1884-?), German military physician and botanist in Northern Bohemia. 
-**Abbreviated name**: *Hantsch.*
+**Abbreviated name**: *Hantsch.* \[standard form in IPNI: *Hantsch.*\]
 
 #### Herbarium and types
 

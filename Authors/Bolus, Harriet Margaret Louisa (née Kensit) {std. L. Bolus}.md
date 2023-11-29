@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-10-10 07:11:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33120398) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33120398) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12352-1), [Wikidata](https://www.wikidata.org/wiki/Q63764). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bolus, (Harriet Margaret) Louisa {std. L. Bolus} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bolus, Harriet Margaret Louisa (née Kensit) (1877-1970), South African botanist, daughter-in-law of Harry Bolus. 
-**Abbreviated name**: *L. Bolus*
+**Abbreviated name**: *L. Bolus* \[standard form in IPNI: *L.Bolus*\]
 
 #### Herbarium and types
 

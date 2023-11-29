@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33355489) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 402](https://www.biodiversitylibrary.org/page/33355489) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23224-1), [Wikidata](https://www.wikidata.org/wiki/Q21520330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meinecke, Emilio Pepe Michael (1869-1957), California-born American botanist and phytopathologist of German descent; Ph. D. Heidelberg 1893; until 1907 at Heidelberg, Copenhagen and München; from 1907-1909 at La Plata, Argentina; U.S. Forest Service pathologist in California 1910-1928; id. in National Park Service 1928-1939. 
-**Abbreviated name**: *E. Meinecke*
+**Abbreviated name**: *E. Meinecke* \[standard form in IPNI: *E.Meinecke*\]
 
 #### Herbarium and types
 

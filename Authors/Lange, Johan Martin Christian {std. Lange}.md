@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33068988) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33068988) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5261-1), [Wikidata](https://www.wikidata.org/wiki/Q978477). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lange, Johan Martin Christian (1818-1898), Danish botanist at Copenhagen; 1842-1848 teacher; 1851-1858 librarian at the botanical garden (1856-1876 part-time director); 1858-1893 lecturer in botany at the agricultural and veterinary college; from 1860 professor of botany at the polytechnical university; Dr. phil. h.c. 1877 Uppsala. 
-**Abbreviated name**: *Lange*
+**Abbreviated name**: *Lange* \[standard form in IPNI: *Lange*\]
 
 #### Herbarium and types
 

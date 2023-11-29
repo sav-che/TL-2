@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33259333) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 287](https://www.biodiversitylibrary.org/page/33259333) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2191-1), [Wikidata](https://www.wikidata.org/wiki/Q18576577). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dickinson, Joseph {std. Dickinson}|first entry]] for this author
 
 ### Author
 
 \* Dickinson, Joseph (about 1805-1865), British botanist, born at Lampleigh, near Whitehaven, Cumberland circa 1805, died Waterloo, near Liverpool, 21 Jul 1865, educated at Trinity College, Dublin, M.B. 1837, M.A. & M.D., Dublin 1843, F.L.S. 1939, lecturer on botany and medicine at Liverpool School of medicine, visited Egypt 1857. 
-**Abbreviated name**: *Dickinson*
+**Abbreviated name**: *Dickinson* \[standard form in IPNI: *Dickinson*\]
 
 #### Herbarium and types
 

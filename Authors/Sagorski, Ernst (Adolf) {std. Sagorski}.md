@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1052](https://www.biodiversitylibrary.org/page/33190523) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1052](https://www.biodiversitylibrary.org/page/33190523) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8808-1), [Wikidata](https://www.wikidata.org/wiki/Q5837084). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sagorski, Ernst (Adolf) (1847-1929), German (Saarbrücken/Prussian) botanist; studied at Bonn 1865-1868; high school teacher at the Königl. Landesschule, Pforta near Naumburg, Thüringen 1870-1905; Dr. phil. h.c. Halle 1905; in retirement at Almrich. 
-**Abbreviated name**: *Sagorski*
+**Abbreviated name**: *Sagorski* \[standard form in IPNI: *Sagorski*\]
 
 #### Herbarium and types
 

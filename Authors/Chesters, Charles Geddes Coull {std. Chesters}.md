@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33265766) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 89](https://www.biodiversitylibrary.org/page/33265766) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17168-1), [Wikidata](https://www.wikidata.org/wiki/Q21077871). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chesters, Charles Geddes Coull (1904-x), British mycologist, B.Sc. University of Glasgow, M.Sc. University of Birmingham, Ph.D. 1937. 
-**Abbreviated name**: *Chesters*
+**Abbreviated name**: *Chesters* \[standard form in IPNI: *Chesters*\]
 
 #### Herbarium and types
 

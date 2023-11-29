@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33120275) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33120275) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/546-1), [Wikidata](https://www.wikidata.org/wiki/Q21505786). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Batters, Edward Arthur Lionel {std. Batters} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Batters, Edward Arthur Lionel (1860-1907), English phycologist. 
-**Abbreviated name**: *Batters*
+**Abbreviated name**: *Batters* \[standard form in IPNI: *Batters*\]
 
 #### Herbarium and types
 

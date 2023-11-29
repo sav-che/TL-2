@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33189468) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33189468) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7294-1), [Wikidata](https://www.wikidata.org/wiki/Q3301235). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palun, Maurice (1777-1860), French botanist at Avignon. 
-**Abbreviated name**: *Palun*
+**Abbreviated name**: *Palun* \[standard form in IPNI: *Palun*\]
 
 #### Herbarium and types
 

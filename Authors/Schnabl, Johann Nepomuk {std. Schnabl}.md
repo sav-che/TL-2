@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33333405) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33333405) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9182-1), [Wikidata](https://www.wikidata.org/wiki/Q21608197). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schnabl, Johann Nepomuk (1853-1899), German (Bavarian) teacher and botanist; from 1877-1896 at the "girl's high school" at Sendling, München, from 1896-1899 at the "höhere Töchterschule" München. 
-**Abbreviated name**: *Schnabl*
+**Abbreviated name**: *Schnabl* \[standard form in IPNI: *Schnabl*\]
 
 #### Herbarium and types
 

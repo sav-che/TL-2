@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33260146) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 158](https://www.biodiversitylibrary.org/page/33260146) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18268-1), [Wikidata](https://www.wikidata.org/wiki/Q21511041). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dumée, Paul (1849-1930), French botanist and pharmacist, born 14 Jun 1849 at Coulommiers (Seine-et-Marne), died 1 Mai 1930, studied pharmacy at the "École supérieure de Paris", certificate of pharmacy 1st class 1874, 1874-1909 at Meaux. 
-**Abbreviated name**: *Dumée*
+**Abbreviated name**: *Dumée* \[standard form in IPNI: *Dumée*\]
 
 #### Herbarium and types
 

@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33120931) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33120931) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2570-1), [Wikidata](https://www.wikidata.org/wiki/Q21512350). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Eschenbach, Johann Friedrich {std. Eschenbach} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Eschenbach, Johann Friedrich (1757-x), German physician and botanist at Leipzig. 
-**Abbreviated name**: *Eschenbach*
+**Abbreviated name**: *Eschenbach* \[standard form in IPNI: *Eschenb.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33355268) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33355268) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5796-1), [Wikidata](https://www.wikidata.org/wiki/Q21519563). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lucé, Johann Wilhelm Ludwig von (x-1862), Estonian (Baltic German) botanist 
-**Abbreviated name**: *Lucé*
+**Abbreviated name**: *Lucé* \[standard form in IPNI: *Lucé*\]
 
 #### Herbarium and types
 

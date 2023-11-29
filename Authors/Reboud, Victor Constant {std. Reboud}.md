@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33190086) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 615](https://www.biodiversitylibrary.org/page/33190086) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8209-1), [Wikidata](https://www.wikidata.org/wiki/Q21607042). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reboud, Victor Constant (1821-1889), French military physician and botanist; with the French African army 1853-1869, 1871-1880 mainly in Algeria; in retirement at Constantine (Alg.) 1880-1883, and St. Marcellin (Isère, France) 1883-1889. 
-**Abbreviated name**: *Reboud*
+**Abbreviated name**: *Reboud* \[standard form in IPNI: *Reboud*\]
 
 #### Herbarium and types
 

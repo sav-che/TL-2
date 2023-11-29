@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33333891) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 752](https://www.biodiversitylibrary.org/page/33333891) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9903-1), [Wikidata](https://www.wikidata.org/wiki/Q3068739). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sordelli, Ferdinando (1837-1916), Italian naturalist at the municipal natural history museum, natural history teacher at the G.B. Piatti technical school in Milano. 
-**Abbreviated name**: *Sordelli*
+**Abbreviated name**: *Sordelli* \[standard form in IPNI: *Sordelli*\]
 
 #### Herbarium and types
 

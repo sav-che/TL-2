@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33066305) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33066305) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11289-1), [Wikidata](https://www.wikidata.org/wiki/Q21388511). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wade, Arthur Edward (1895-x), British botanist; on active service World War I; at the National Museum of Wales, Cardiff 1920-1961; in retirement in Rotorua, New Zealand; M.Sc. Univ. Wales 1958 (h.c). 
-**Abbreviated name**: *A. Wade*
+**Abbreviated name**: *A. Wade* \[standard form in IPNI: *A.E.Wade*\]
 
 #### Herbarium and types
 

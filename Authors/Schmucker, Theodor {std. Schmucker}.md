@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33333404) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33333404) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9179-1), [Wikidata](https://www.wikidata.org/wiki/Q2418253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmucker, Theodor (1895-1970), German (Bavarian) botanist; student of K. Goebel and G. Hegi in München; Dr. phil. München 1922; assistant with K. Goebel, subsequently "Privatdocent" (1927) and extraordinary professor (1933) of botany at Göttingen; ordinary professor of forest botany and technical mycology at the forestry college of Hann.-Münden (Forestry faculty of the University of Göttingen) 1937-1959. 
-**Abbreviated name**: *Schmucker*
+**Abbreviated name**: *Schmucker* \[standard form in IPNI: *Schmucker*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33066771) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 431](https://www.biodiversitylibrary.org/page/33066771) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11832-1), [Wikidata](https://www.wikidata.org/wiki/Q11715998). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Woloszynska, Jadwiga (1882-1951), Polish botanist (algologist); studied botany at Lemberg (Lwow) with M. Raciborski; Dr. phil. Lemberg 1912, assistant at the Biological and botanical institute of Lemberg University 1912; high school teacher 1920-1921; algological assistant at the Wigry lake hydrobiological station 1921-1923; assistant to W. Szafer at the University of Cracow 1924; assistant professor for pharmaceutical botany ib. 1930-1932; e.o. professor 1932-1946, regular professor 1950-1951. 
-**Abbreviated name**: *Woloszynska*
+**Abbreviated name**: *Woloszynska* \[standard form in IPNI: *Wołosz.*\]
 
 #### Herbarium and types
 

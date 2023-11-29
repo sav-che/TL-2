@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33333882) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33333882) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9892-1), [Wikidata](https://www.wikidata.org/wiki/Q36550576). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sonet \[Sonnet\], Ernest (*fl*. 1872), Belgian botanist; technician at the Jardin botanique de l'État, Brussels, 1871-1890; from 1890 in retirement because of invalidity. 
-**Abbreviated name**: *Sonet*
+**Abbreviated name**: *Sonet* \[standard form in IPNI: *Sonet*\]
 
 #### Herbarium and types
 

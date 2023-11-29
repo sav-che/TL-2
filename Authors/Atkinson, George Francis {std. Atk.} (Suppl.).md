@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33264927) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33264927) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31067-1), [Wikidata](https://www.wikidata.org/wiki/Q2634604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Atkinson, George Francis {std. Atk.}|first entry]] for this author
 
 ### Author
 
 \* Atkinson, George Francis (1854-1918), American botanist and entomologist, studied at Olivet College 1878-1884, graduated at Cornell University 1885, assistant professor of entomology and zoology at the University of North Carolina 1885-1886, subsequently professor of entomology 1886-1888, professor of botany and zoology as well as botanist to the Agricultural Experiment Station at the University of South Carolina 1888-1889, professor of biology at the Alabama Polytechnic Institute with Auburn University 1889-1892, to Cornell University as assistant professor of cryptogamic botany 1892-1893, associate head of the department of botany ib. 1896-1918, died of pheumonia during a field trip Tacoma Washington 1918. 
-**Abbreviated name**: *Atk.*
+**Abbreviated name**: *Atk.* \[standard form in IPNI: *G.F.Atk.*\]
 
 #### Herbarium and types
 

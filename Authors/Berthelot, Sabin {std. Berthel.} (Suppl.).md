@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/page/33265317) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/page/33265317) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16032-1), [Wikidata](https://www.wikidata.org/wiki/Q204261). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Berthelot, Sabin {std. Berthel.}|first entry]] for this author
 
 ### Author
 
 \* Berthelot, Sabin (1794-1880), French zoologist and botanist, at first serving in the French navy, from 1820 director of the botanical garden La Orotava on Tenerife, from 1847 (1867?) french consul on Tenerife, collaborator of P.B. Webb with the *Histoire naturelle des Canaries* 
-**Abbreviated name**: *Berthel.*
+**Abbreviated name**: *Berthel.* \[standard form in IPNI: *Berthel.*\]
 
 #### Herbarium and types
 

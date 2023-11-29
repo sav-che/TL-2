@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33333471) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 332](https://www.biodiversitylibrary.org/page/33333471) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9259-1), [Wikidata](https://www.wikidata.org/wiki/Q21608431). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schreiber, Hans (1859-1936), Bohemian-Austrian botanist; in charge of the German-Austrian moorland society at Staab in Bohemia. 
-**Abbreviated name**: *Ha. Schreiber*
+**Abbreviated name**: *Ha. Schreiber* \[standard form in IPNI: *H.Schreib.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33066783) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33066783) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13031-1), [Wikidata](https://www.wikidata.org/wiki/Q18670638). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Woodruffe-Peacock, \[originally Peacock\] Edward Adrian (1858-1922), British clergyman and botanist; studied at St. John's College, Cambridge 1877, at Durham University 1879; ordained 1881 (dean), 1883 (priest) curate at Long Benton, Northumberland 1881-1884; Barkingside, Essex (1884-1886), Harrington, Northamptonshire 1886-1890; from 1891 vicar at Cadney 
-**Abbreviated name**: *Woodr.-Peacock*
+**Abbreviated name**: *Woodr.-Peacock* \[standard form in IPNI: *Woodr.-Peac.*\]
 
 #### Herbarium and types
 

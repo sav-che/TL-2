@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33333880) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 741](https://www.biodiversitylibrary.org/page/33333880) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9891-1), [Wikidata](https://www.wikidata.org/wiki/Q77215). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sonder, Otto Wilhelm (1812-1881), German (Holstein) botanist and pharmacist; pharmaceutical state examination Berlin 1835; owner of a pharmacy in Hamburg 1841-1878; Dr. phil. h.c. Königsberg 1846; compiled a large herbarium especially rich in African and Australian collections. 
-**Abbreviated name**: *Sond.*
+**Abbreviated name**: *Sond.* \[standard form in IPNI: *Sond.*\]
 
 #### Herbarium and types
 

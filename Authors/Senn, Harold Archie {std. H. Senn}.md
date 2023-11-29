@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33333648) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33333648) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9487-1), [Wikidata](https://www.wikidata.org/wiki/Q21608670). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Senn, Harold Archie (1912-x), Canadian botanist; Dr. phil. Univ. Virginia 1937; natural research fellow in botany, Harvard from 1937-1938; Asst., Div. Bot., Dept. Agric. Ottawa 1938-1941, assoc. botanist 1941-1945, senior botanist from 1945. 
-**Abbreviated name**: *H. Senn*
+**Abbreviated name**: *H. Senn* \[standard form in IPNI: *H.Senn*\]
 
 #### Herbarium and types
 

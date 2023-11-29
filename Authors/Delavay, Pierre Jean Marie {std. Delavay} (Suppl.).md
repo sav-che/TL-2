@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33259219) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33259219) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2098-1), [Wikidata](https://www.wikidata.org/wiki/Q2005076). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Delavay, (Père) Pierre Jean Marie {std. Delavay}|first entry]] for this author
 
 ### Author
 
 \* Delavay, Pierre Jean Marie (1834-1895), French missionary and plant collector in China, born 28 Dec 1834, Gets, Haute-Savoie, died 31 Dec 1895 Yunnan-fou, China, missionary in China 1867-1895, chief collections from Yunnan where he was stationed. 
-**Abbreviated name**: *Delavay*
+**Abbreviated name**: *Delavay* \[standard form in IPNI: *Delavay*\]
 
 #### Herbarium and types
 

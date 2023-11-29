@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/page/33333842) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 703](https://www.biodiversitylibrary.org/page/33333842) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9821-1), [Wikidata](https://www.wikidata.org/wiki/Q21516205). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, William (1808-1857), Irish clergyman and diatomologist; professor of natural history, Cork from 1854. 
-**Abbreviated name**: *Wm. Sm.*
+**Abbreviated name**: *Wm. Sm.* \[standard form in IPNI: *W.Sm.*\]
 
 #### Herbarium and types
 

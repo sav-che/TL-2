@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-06-02 11:09:10.0
 ---
 
-
-> [!cite] This entry starts at page 1 of TL-2 Vol. I.
-> Links: [page at BHL](https://www.biodiversitylibrary.org/page/33120094), [author at IPNI](https://www.ipni.org/a/34-1), [author at Wikidata](https://www.wikidata.org/wiki/Q158174) , [[Abbreviations|abbreviations]], [[Layout key|layout key]]
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33120094) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/34-1), [Wikidata](https://www.wikidata.org/wiki/Q158174). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Abel, Clarke {std. C. Abel} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Abel, Clarke (1789-1826), British surgeon who travelled to China with Amherst, 1816-1817. 
-**Abbreviated name**: *C. Abel*
+**Abbreviated name**: *C. Abel* \[standard form in IPNI: *C.Abel*\]
 
 #### Herbarium and types
 

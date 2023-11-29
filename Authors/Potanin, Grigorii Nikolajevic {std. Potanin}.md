@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33189827) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 356](https://www.biodiversitylibrary.org/page/33189827) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7885-1), [Wikidata](https://www.wikidata.org/wiki/Q1377569). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Potanin, Grigorii Nikolajevic (1835-1920), Russian botanist and explorer of Eastern Siberia, China, Tibet and Mongolia. 
-**Abbreviated name**: *Potanin*
+**Abbreviated name**: *Potanin* \[standard form in IPNI: *Potanin*\]
 
 #### Herbarium and types
 

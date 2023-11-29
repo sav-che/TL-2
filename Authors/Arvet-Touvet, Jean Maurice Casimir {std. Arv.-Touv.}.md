@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33120202) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 71](https://www.biodiversitylibrary.org/page/33120202) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/298-1), [Wikidata](https://www.wikidata.org/wiki/Q1226882). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arvet-Touvet, (Jean Maurice) Casimir {std. Arv.-Touv.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Arvet-Touvet, Jean Maurice Casimir (1841-1913), French hieraciologist at Gières-Uriage, near Grenoble. 
-**Abbreviated name**: *Årv.-Touv.*
+**Abbreviated name**: *Årv.-Touv.* \[standard form in IPNI: *Arv.-Touv.*\]
 
 #### Herbarium and types
 

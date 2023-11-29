@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33355260) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33355260) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5773-1), [Wikidata](https://www.wikidata.org/wiki/Q4725973). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lounsberry, Alice (1872-1949), American dendrologist at New York. 
-**Abbreviated name**: *Lounsb.*
+**Abbreviated name**: *Lounsb.* \[standard form in IPNI: *Lounsb.*\]
 
 #### Herbarium and types
 

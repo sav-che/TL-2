@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33212270) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33212270) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10530-1), [Wikidata](https://www.wikidata.org/wiki/Q5891949). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Teschner, Hans (1894-x), German (Schleswig-Holstein) botanist; educated in Breslau and Berlin; on active service 1915-1916; studied natural sciences at the Friedrich-Wilhelms-Universität, Berlin; Dr. phil. ib. 1931. 
-**Abbreviated name**: *Teschner*
+**Abbreviated name**: *Teschner* \[standard form in IPNI: *Teschner*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33212203) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 161](https://www.biodiversitylibrary.org/page/33212203) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10417-1), [Wikidata](https://www.wikidata.org/wiki/Q3737792). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tanfiljew, Gavriel Iwanowitsch \[Gavriil Ivanovic\] (1857-1928), Estonia-born Russian botanist; Dr. phil. St. Petersburg 1912; botanist at the Imperial Garden at St. Petersburg 1899; travelled in Siberia 1901, S. Russia 1902; professor of geobotany and soil science at the Agricultural Institute, Odessa. 
-**Abbreviated name**: *Tanfiljew*
+**Abbreviated name**: *Tanfiljew* \[standard form in IPNI: *Tanfil.*\]
 
 #### Herbarium and types
 

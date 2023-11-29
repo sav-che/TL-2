@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/page/33190089) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/page/33190089) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8215-1), [Wikidata](https://www.wikidata.org/wiki/Q78738). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rechinger, Karl Heinz (1906-x), Austrian botanist and explorer; son of Karl and Lily Rechinger; Dr. phil. Wien 1931; "Demonstrator" at the Botanical Institute, Wien (with Richard Wettstein) 1928-1929; from 1929 in various positions, ultimately as director at the "Naturhistorisches Museum" Wien. 
-**Abbreviated name**: *Rech. fil.*
+**Abbreviated name**: *Rech. fil.* \[standard form in IPNI: *Rech.f.*\]
 
 #### Herbarium and types
 

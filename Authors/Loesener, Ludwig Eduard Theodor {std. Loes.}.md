@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33355229) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33355229) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5706-1), [Wikidata](https://www.wikidata.org/wiki/Q4273076). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Loesener, Ludwig Eduard Theodor (1865-1941), German botanist of the Engler school; Dr. phil. Berlin 1890; from 1896-1920 at the Botanical Museum, Berlin-Dahlem. 
-**Abbreviated name**: *Loes.*
+**Abbreviated name**: *Loes.* \[standard form in IPNI: *Loes.*\]
 
 #### Herbarium and types
 

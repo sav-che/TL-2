@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33355848) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 761](https://www.biodiversitylibrary.org/page/33355848) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7012-1), [Wikidata](https://www.wikidata.org/wiki/Q5081259). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Noel, Charles William Francis, 3rd earl of Gainsborough (1850-1926), British landowner and botanist. 
-**Abbreviated name**: *C. Noel*
+**Abbreviated name**: *C. Noel* \[standard form in IPNI: *Noel*\]
 
 #### Herbarium and types
 

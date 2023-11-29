@@ -30,14 +30,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33068285) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33068285) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3612-1), [Wikidata](https://www.wikidata.org/wiki/Q134118). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Handel-Mazzetti, Heinrich, Freiherr von (1882-1940), Austrian botanist and explorer; Dr. phil. Wien 1907; in China 1914-1919; from 1903-1925 connected with the University of Vienna, from 1925-1931 at the Natural History Museum; pupil of Richard Wettstein; died in a car accident on 1 Feb 1940. 
-**Abbreviated name**: *Hand.-Mazz.*
+**Abbreviated name**: *Hand.-Mazz.* \[standard form in IPNI: *Hand.-Mazz.*\]
 
 #### Herbarium and types
 

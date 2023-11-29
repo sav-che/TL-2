@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33190282) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33190282) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8446-1), [Wikidata](https://www.wikidata.org/wiki/Q537108). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Robertson, David (1806-1896), British (Scottish) algologist and naturalist at Cumbrae; originally practicing a medical career, then in commerce, from ca. 1860 devoting himself fully to marine zoology and botany; LL.D. h.c. Glasgow 1895; "the naturalist of the Cumbraes". 
-**Abbreviated name**: *D. Robertson*
+**Abbreviated name**: *D. Robertson* \[standard form in IPNI: *Robertson*\]
 
 #### Herbarium and types
 

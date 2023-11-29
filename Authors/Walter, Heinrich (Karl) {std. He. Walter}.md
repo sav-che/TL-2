@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33066389) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33066389) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12991-1), [Wikidata](https://www.wikidata.org/wiki/Q877690). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Walter, Heinrich \[Karl\] (1898-x), German (Odessa-born) botanist; studied at Jena; assistant, lecturer and professor of botany Heidelberg Univ. 1920-1932; director of the Botanical Institute of the Stuttgart Technical Univ. 1932-1941; director of the Institute of general botany Posen Univ. 1941-1945; director of the Botanical Institute Stuttgart-Hohenheim from 1945; travelled widely in Africa, Australia, and New Zealand; outstanding plant geographer. 
-**Abbreviated name**: *He. Walter*
+**Abbreviated name**: *He. Walter* \[standard form in IPNI: *H.K.Walter*\]
 
 #### Herbarium and types
 

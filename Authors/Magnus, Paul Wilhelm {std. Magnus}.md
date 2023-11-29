@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33355332) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33355332) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22742-1), [Wikidata](https://www.wikidata.org/wiki/Q15431600). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Magnus, Paul Wilhelm (1844-1914), German botanist; Dr. phil. Berlin 1870; habil. Berlin 1875; lecturer and (1880) professor of botany at the University of Berlin, 1875-1914; Geh.-Regierungsrat 1911. 
-**Abbreviated name**: *Magnus*
+**Abbreviated name**: *Magnus* \[standard form in IPNI: *Magnus*\]
 
 #### Herbarium and types
 

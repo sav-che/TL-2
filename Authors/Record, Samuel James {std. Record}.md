@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/page/33190091) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/page/33190091) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8216-1), [Wikidata](https://www.wikidata.org/wiki/Q7411812). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Record, Samuel James (1881-1945), *American dendrologist and wood technologist*; B.A. Wabash 1903, M.A. 1906; M.F. Yale Univ. School of Forestry 1905; Dr. Sci. h.c. 1930; with Division of Forestry, U.S.D.A. 1906-1910; instructor at the Forest School, Yale, 1910; asst. professor of forest products 1911, professor 1917-1939; dean school of forestry and Pinchot Professor of forestry 1939-1945; co-founder (1930) and first secretary-treasurer of the International Association of Wood Anatomists. 
-**Abbreviated name**: *Record*
+**Abbreviated name**: *Record* \[standard form in IPNI: *Record*\]
 
 #### Herbarium and types
 

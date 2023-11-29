@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33189466) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33189466) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7292-1), [Wikidata](https://www.wikidata.org/wiki/Q921951). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palmstruch, Johan Wilhelm (1770-1811), Swedish soldier \[ryttmästare, cavalry capt.)\] and botanical artist. 
-**Abbreviated name**: *Palmstr.*
+**Abbreviated name**: *Palmstr.* \[standard form in IPNI: *Palmstr.*\]
 
 #### Original drawings
 

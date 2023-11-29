@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/page/33212500) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 458](https://www.biodiversitylibrary.org/page/33212500) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10807-1), [Wikidata](https://www.wikidata.org/wiki/Q1380171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trelease William (1857-1945), American botanist; B.S. Cornell Univ. 1880; studied at Harvard Univ. with e.g. A. Gray ad W.G. Farlow 1880-1881; instructor in botany, Univ. Wisconsin 1881-1883, professor of botany and head of the Botany Dept. ib. 1883-1885; Dr. Sci. Harvard 1884; with the Shaw School of Botany and the Missouri Botanical Garden from 1885-1912; director of the Garden 1889-1912; professor of botany and head of the Department of Botany, Univ. Illinois 1913-1926; professor emeritus ib. 1926-1945. 
-**Abbreviated name**: *Trel.*
+**Abbreviated name**: *Trel.* \[standard form in IPNI: *Trel.*\]
 
 #### Herbarium and types
 

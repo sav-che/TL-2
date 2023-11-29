@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33355468) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 381](https://www.biodiversitylibrary.org/page/33355468) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6267-1), [Wikidata](https://www.wikidata.org/wiki/Q21520158). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Maximowicz-Ambodik, Nestor (1740-1812), Russian physician, botanist and lexicographer. 
-**Abbreviated name**: *Maxim.-Ambodik*
+**Abbreviated name**: *Maxim.-Ambodik* \[standard form in IPNI: *Maxim.-Amb.*\]
 
 #### Herbarium and types
 

@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33259223) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33259223) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17907-1), [Wikidata](https://www.wikidata.org/wiki/Q1340280). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Delile, Alire (Raffeneau) {std. Delile}|first entry]] for this author
 
 ### Author
 
 \* Delile \[also Raffeneau Delile\], Alire (1778-1850), French botanist and physician, studied at the Collège de Lisieu, Paris, at the École de Santé, Paris 1795, joined the Egyptian expeditionary force organized by Bonaparte, 1798-1801, sailed for Wilmington, North Carolina for Commerce, worked 1806 as physician at the Pennsylvania Hospital at Philadelphia also with David Hosack in New York, thesis 1807, returned to France to issue a flora of Egypt 1807-1809, Dr. thesis (medicine) at Faculty of Medicine, Paris, from 1819-1850 at Montpellier with A.P. de Candolle. 
-**Abbreviated name**: *Delile*
+**Abbreviated name**: *Delile* \[standard form in IPNI: *Delile*\]
 
 #### Herbarium and types
 

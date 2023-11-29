@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33068575) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33068575) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4105-1), [Wikidata](https://www.wikidata.org/wiki/Q21341049). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Horikawa, Yoshiwo (1902-1976), Japanese botanist at Hiroshima University and Yasuda Women's College. 
-**Abbreviated name**: *Horik.*
+**Abbreviated name**: *Horik.* \[standard form in IPNI: *Horik.*\]
 
 #### Herbarium and types
 

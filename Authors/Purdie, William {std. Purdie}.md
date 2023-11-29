@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33189916) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33189916) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8025-1), [Wikidata](https://www.wikidata.org/wiki/Q6167706). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Purdie, William (c. 1817-1857), Scottish gardener and plant collector; originally with Roy. Bot. Gard. Edinburgh; from 1846-1857 superintendent, Botanic Gardens, Trinidad. 
-**Abbreviated name**: *Purdie*
+**Abbreviated name**: *Purdie* \[standard form in IPNI: *Purdie*\]
 
 #### Herbarium and types
 

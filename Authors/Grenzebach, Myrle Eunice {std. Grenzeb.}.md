@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33258852) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 374](https://www.biodiversitylibrary.org/page/33258852) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/12520-1), [Wikidata](https://www.wikidata.org/wiki/Q21395395). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Grenzebach, Myrle Eunice (1902-1986), American botanist, born 20 Jun 1902, A.B. 1924 Oberlin College, Oberlin, Ohio, M.Sc. 1925 Washington Univ., St. Louis, Missouri (under J.M. Greenman), married Lawrence Dewey Sherod (1898-1984) and became a housewife in Ohio, died Oct 1986 in Ohio. 
-**Abbreviated name**: *Grenzeb.*
+**Abbreviated name**: *Grenzeb.* \[standard form in IPNI: *Grenzeb.*\]
 
 #### Herbarium and types
 

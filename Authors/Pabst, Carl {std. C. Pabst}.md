@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33189514) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33189514) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7227-1), [Wikidata](https://www.wikidata.org/wiki/Q21522497). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pabst, Carl (1825/6-1863), German (Saxonian) botanist from Halle; collected plants for Van Houtte at the Cape Verde island Mayo (Jun 1846) and subsequently on the Brazilian island of Santa Catharina; settled as a colonist in Itajahi in the Donna Franziska settlement of the Hamburger Colonisations-Gesellschaft. 
-**Abbreviated name**: *C. Pabst*
+**Abbreviated name**: *C. Pabst* \[standard form in IPNI: *C.Pabst*\]
 
 #### Herbarium and types
 

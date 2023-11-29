@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33333937) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 798](https://www.biodiversitylibrary.org/page/33333937) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9985-1), [Wikidata](https://www.wikidata.org/wiki/Q2422076). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sprague, Thomas Archibald (1877-1958), British botanist; B.Sc. Edinburgh 1898, D. Sc. ib. 1927; at the Royal Botanic Gardens, Kew 1900-1945, deputy keeper of the herbarium 1930-1945; travelled and collected with H.W. Dowding in Venezuela and Columbia 1898-1899, in the Canary Islands 1913; rapporteur-général for botanical nomenclature 1935-1947. 
-**Abbreviated name**: *Sprague*
+**Abbreviated name**: *Sprague* \[standard form in IPNI: *Sprague*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33265712) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 35](https://www.biodiversitylibrary.org/page/33265712) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1488-1), [Wikidata](https://www.wikidata.org/wiki/Q21341948). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chaboisseau, Théodore (1828-1894), French botanist, born at Pindray (Vienne) near Tours, sometime abbot in the Dauphiné and Indre-et-Loire, at Paris 1868-1883, at Gières near Grenoble 1884-1887, settled in Athens 1887-1894 as a French teacher. 
-**Abbreviated name**: *Chaboiss.*
+**Abbreviated name**: *Chaboiss.* \[standard form in IPNI: *Chaboiss.*\]
 
 #### Herbarium and types
 

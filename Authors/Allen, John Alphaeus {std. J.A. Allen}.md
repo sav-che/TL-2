@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33120162) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33120162) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/149-1), [Wikidata](https://www.wikidata.org/wiki/Q21505086). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Allen, John Alpheus {std. J.A. Allen} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Allen, John Alphaeus (1863-1916), American bryologist. 
-**Abbreviated name**: *J.A. Allen*
+**Abbreviated name**: *J.A. Allen* \[standard form in IPNI: *J.A.Allen*\]
 
 #### Herbarium and types
 

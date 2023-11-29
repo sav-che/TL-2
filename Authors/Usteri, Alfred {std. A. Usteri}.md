@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/page/33212664) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 622](https://www.biodiversitylibrary.org/page/33212664) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11004-1), [Wikidata](https://www.wikidata.org/wiki/Q21611291). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Usteri, Alfred (1869-?), Swiss botanist and horticulturist in Zürich and Dornach (Reinach); in the Philippines 1903-1904; Dr. phil. Basel 1905; sometime (ca. 1906) professor at the São Paulo Polytechnic; author of a number of anthropological publications; ultimately at Reinach nr. Basel. 
-**Abbreviated name**: *A. Usteri*
+**Abbreviated name**: *A. Usteri* \[standard form in IPNI: *A.Usteri*\]
 
 #### Herbarium and types
 

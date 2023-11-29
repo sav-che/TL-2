@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33190321) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 850](https://www.biodiversitylibrary.org/page/33190321) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12783-1), [Wikidata](https://www.wikidata.org/wiki/Q4402838). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Roeper, Johannes August Christian (1801-1885), German (Mecklenburg) botanist; studied at the University of Rostock 1817-1819, Berlin 1819-1822, and Göttingen 1822-1824; Dr. med. Göttingen 1823; travelled and studied in Paris 1824-1825 and Genève 1825-1826; extraord. prof. botany Basel 1826-1829; idem ord. prof. 1829-1836; ordinary prof. botany Rostock from 1836, from 1846 also University librarian; Dr. phil. h.c. Basel 1836; Dr. sci. nat. h.c. Tübingen 1873; first author to use flower diagrams. 
-**Abbreviated name**: *Roep.*
+**Abbreviated name**: *Roep.* \[standard form in IPNI: *Roep.*\]
 
 #### Herbarium and types
 

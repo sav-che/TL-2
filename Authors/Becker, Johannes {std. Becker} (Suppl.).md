@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33265228) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 31](https://www.biodiversitylibrary.org/page/33265228) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/599-1), [Wikidata](https://www.wikidata.org/wiki/Q5933021). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Becker, Johannes {std. Becker}|first entry]] for this author
 
 ### Author
 
 \* Becker, Johannes (1769-1833), German (Speyer, Rhenish Palatinate) botanist, originally teacher, "Stifts-Botanikus" at the Senckenberg Institute, Frankfurt am Main, in charge of the botanical garden 1816-1827. 
-**Abbreviated name**: *Becker*
+**Abbreviated name**: *Becker* \[standard form in IPNI: *Becker*\]
 
 #### Herbarium and types
 

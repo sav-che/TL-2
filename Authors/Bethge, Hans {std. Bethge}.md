@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33265343) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 146](https://www.biodiversitylibrary.org/page/33265343) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/32420-1), [Wikidata](https://www.wikidata.org/wiki/Q21506044). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bethge, Hans (1885-1955), German limnologist and phycologist, employed by the Bundesanstalt für Wasser-, Boden- und Lufthygiene, Berlin-Dahlem. 
-**Abbreviated name**: *Bethge*
+**Abbreviated name**: *Bethge* \[standard form in IPNI: *Bethge*\]
 
 #### Herbarium and types
 

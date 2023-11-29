@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33355475) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33355475) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6277-1), [Wikidata](https://www.wikidata.org/wiki/Q87663). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mayer, Johann Prokop (1737-1804), Bohemian horticulturist and botanist; later at Würzburg. 
-**Abbreviated name**: *J. P. Mayer*
+**Abbreviated name**: *J. P. Mayer* \[standard form in IPNI: *J.P.Mayer*\]
 
 #### Herbarium and types
 

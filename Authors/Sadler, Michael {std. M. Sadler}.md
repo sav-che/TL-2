@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1049](https://www.biodiversitylibrary.org/page/33190520) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1049](https://www.biodiversitylibrary.org/page/33190520) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8798-1), [Wikidata](https://www.wikidata.org/wiki/Q36635030). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sadler, Michael (*fl*. 1831), Hungarian botanist; brother of Joseph Sadler. 
-**Abbreviated name**: *M. Sadler*
+**Abbreviated name**: *M. Sadler* \[standard form in IPNI: *M.Sadler*\]
 
 #### Herbarium and types
 

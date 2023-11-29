@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33069100) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 858](https://www.biodiversitylibrary.org/page/33069100) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/22270-1), [Wikidata](https://www.wikidata.org/wiki/Q16999734). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lett, Henry William (1836-1920), British botanist and clergyman, rector of Aghaderg, Co. Down, later canon of Dromore. 
-**Abbreviated name**: *Lett*
+**Abbreviated name**: *Lett* \[standard form in IPNI: *Lett*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33333459) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 320](https://www.biodiversitylibrary.org/page/33333459) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9248-1), [Wikidata](https://www.wikidata.org/wiki/Q21608399). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schrader, Johann Christian Carl \[Karl\] (1762-1826), German (Prussian Saxony) pharmacist; from 1796 owner of the pharmacy "am Königstor" in Berlin; from 1803 running a boarding school for young pharmacists. 
-**Abbreviated name**: *J.C.C. Schrad.*
+**Abbreviated name**: *J.C.C. Schrad.* \[standard form in IPNI: *J.C.C.Schrad.*\]
 
 #### Herbarium and types
 

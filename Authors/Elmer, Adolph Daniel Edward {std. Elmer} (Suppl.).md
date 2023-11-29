@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33260303) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33260303) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2522-1), [Wikidata](https://www.wikidata.org/wiki/Q1105726). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Elmer, Adolph Daniel Edward {std. Elmer}|first entry]] for this author
 
 ### Author
 
 \* Elmer, Adolph Daniel Edward (1870-1942), American botanist, born 14 Jun 1870, Vandyne (Wisc.), educated at Washington Agricultural College, MA. Leland Stanford Jr. University 1903, collected in Western United States 1896-1903, went to the Philippines 1904 and collected extensively there and in many areas of the Far East, originally (1904-1905) employed by the Bureau of Sciences, editor of the Leaflets of Philippine Botany, died in a concentration camp in the Philippines 17 Apr 1942. 
-**Abbreviated name**: *Elmer*
+**Abbreviated name**: *Elmer* \[standard form in IPNI: *Elmer*\]
 
 #### Herbarium and types
 

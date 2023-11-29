@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33258938) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 460](https://www.biodiversitylibrary.org/page/33258938) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3475-1), [Wikidata](https://www.wikidata.org/wiki/Q2880912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Guinochet, \[Jean-Étienne\] Marcel (1909-1997), French phycologist and botanist with interests and influence in phytosociology and biosystematics, born 21 Dec 1909 in Lyon, Lic. ès-sciences naturelles 1931, asst.-"préparateur", Centre de Recherches Agronomiques de Provence (Villa Thuret) in Antibes (Alpes-Maritimes), Dr. ès-sciences 1938 Grenoble, taught in Montpellier 1939-1943, during and after W.W-II held a number of university positions in quick succession, incl. Besançon 1943-1945, Nancy 1945-1946 and Strasbourg 1946, succeeded René Maire as prof., Faculty of Sciences, Univ. of Alger, Algeria 1950-1957, returned to France and joined the Faculty of Sciences, Paris (Orsay) from 1958 until retirement in 1977, president, Société Botanique de France, died 22 Aug 1997 in Fayence (Var). 
-**Abbreviated name**: *Guin.*
+**Abbreviated name**: *Guin.* \[standard form in IPNI: *Guin.*\]
 
 #### Herbarium and types
 

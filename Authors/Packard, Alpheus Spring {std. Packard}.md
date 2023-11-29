@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33189512) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 3](https://www.biodiversitylibrary.org/page/33189512) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7234-1), [Wikidata](https://www.wikidata.org/wiki/Q2839658). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Packard, Alpheus Spring, (1839-1905), American geologist, zoologist and botanist; MD Harvard 1864; professor of zoology and geology at Brown University 1878-1905; secretary of the U.S. Entomological Commission (to investigate the Rocky Mountain locust) 1876; Dr. med. Bowdoin 1864, LL.D. id. 1891. 
-**Abbreviated name**: *Packard*
+**Abbreviated name**: *Packard* \[standard form in IPNI: *Packard*\]
 
 #### Herbarium and types
 

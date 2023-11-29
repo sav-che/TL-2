@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33068501) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33068501) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4049-1), [Wikidata](https://www.wikidata.org/wiki/Q2259151). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Holmberg, Eduardo Ladislao (1852-1937), Argentine naturalist, first native Argentinian to become a professional and outstanding botanist and zoologist. 
-**Abbreviated name**: *E. Holmb.*
+**Abbreviated name**: *E. Holmb.* \[standard form in IPNI: *E.Holmb.*\]
 
 #### Herbarium and types
 

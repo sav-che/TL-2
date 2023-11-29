@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33189719) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 248](https://www.biodiversitylibrary.org/page/33189719) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24833-1), [Wikidata](https://www.wikidata.org/wiki/Q21522975). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Picbauer, Richard (1856-1955), Moravian mycologist and floristic botanist; teacher at Chvalkovice nr. Olmütz (1908), high school teacher at Olmütz until 1914; in military service 1914-1919; high school teacher at Brünn (Brno) 1919; Dr. phil. 1925 Brünn; from 1923 connected with the agricultural research station Brünn (Brno); 
-**Abbreviated name**: *Picb.*
+**Abbreviated name**: *Picb.* \[standard form in IPNI: *Picb.*\]
 
 #### Herbarium and types
 

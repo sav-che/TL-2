@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33068920) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 678](https://www.biodiversitylibrary.org/page/33068920) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5075-1), [Wikidata](https://www.wikidata.org/wiki/Q2506142). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krombholz, Julius Vincenz von (1782-1843), Czech mycologist; Dr. med. Erfurt 1811; 1811-1814 prosector, from 1814 professor of theoretical surgery, from 1820-1836 "Professor der Staatsarzneikunde" at Praha. 
-**Abbreviated name**: *Krombh.*
+**Abbreviated name**: *Krombh.* \[standard form in IPNI: *Krombh.*\]
 
 #### Herbarium and types
 

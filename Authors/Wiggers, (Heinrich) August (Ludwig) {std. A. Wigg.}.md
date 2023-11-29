@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33066616) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33066616) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13014-1), [Wikidata](https://www.wikidata.org/wiki/Q3129473). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wiggers, \[Heinrich\] August \[Ludwig\] (1803-1880), German (Hannoverian) pharmacist; studied pharmacy, chemistry and botany at Göttingen 1827-1835; Dr. phil. 1835; private lecturer for pharmacognosy Göttingen 1837, assistant to F. Wöhler ib. 1836-1848; e.o. professor of pharmacy 1848; general inspector of the pharmacies of the Kingdom Hannover 1850; Medicinalrath 1864. 
-**Abbreviated name**: *A. Wigg.*
+**Abbreviated name**: *A. Wigg.* \[standard form in IPNI: *A.Wigg.*\]
 
 #### Herbarium and types
 

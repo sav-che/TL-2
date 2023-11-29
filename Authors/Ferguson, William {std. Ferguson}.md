@@ -25,16 +25,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33120956) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33120956) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2689-1), [Wikidata](https://www.wikidata.org/wiki/Q8008992). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ferguson, William {std. Ferguson} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Ferguson, William (1820-1887), British civil servant in Ceylon, amateur botanist and entomologist. 
-**Abbreviated name**: *Ferguson*
+**Abbreviated name**: *Ferguson* \[standard form in IPNI: *Ferguson*\]
 
 #### Herbarium and types
 

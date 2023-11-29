@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33212152) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 110](https://www.biodiversitylibrary.org/page/33212152) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/35144-1), [Wikidata](https://www.wikidata.org/wiki/Q21610081). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Svensson, Harry Gustaf (1894-1959), Swedish botanist; Dr. phil. Uppsala 1925; lecturer at the University of Uppsala 1925-1932; high school teacher at Karlstad 1932-1943; at Uppsala from 1944. 
-**Abbreviated name**: *H.G. Svens.*
+**Abbreviated name**: *H.G. Svens.* \[standard form in IPNI: *H.G.Svenss.*\]
 
 #### Herbarium and types
 

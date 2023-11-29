@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33333367) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33333367) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9132-1), [Wikidata](https://www.wikidata.org/wiki/Q21608079). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlotterbeck, Julius Otto (1865-1917), American botanist and pharmacist; Dr. phil. Bern 1896; lecturer at the University of Michigan, Ann Arbor, Mich. 1888-1897; asst. professor of pharmacognosy 1897-1904; prof. of pharmacognosy and botany 1904-1917 and dean of the College of Pharmacy ib. 1905-1917. 
-**Abbreviated name**: *Schlotterbeck*
+**Abbreviated name**: *Schlotterbeck* \[standard form in IPNI: *Schlott.*\]
 
 #### Herbarium and types
 

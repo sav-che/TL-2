@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33189630) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 159](https://www.biodiversitylibrary.org/page/33189630) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7497-1), [Wikidata](https://www.wikidata.org/wiki/Q19001484). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Peola, Paolo (1869-?), Italian palaeobotanist; teacher at the Genova Technical Institute. 
-**Abbreviated name**: *Peola*
+**Abbreviated name**: *Peola* \[standard form in IPNI: *Peola*\]
 
 #### Herbarium and types
 

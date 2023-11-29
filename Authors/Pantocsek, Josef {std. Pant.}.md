@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33189479) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 46](https://www.biodiversitylibrary.org/page/33189479) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12720-1), [Wikidata](https://www.wikidata.org/wiki/Q2736960). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pantocsek, Josef (1846-1916), Hungarian botanist and provincial physican; district physician at Tavarnok; from 1896 director of the hospital and "wirklicher Sanitätsrat" at Bratislava (Pozsony); botanical explorer of Montenegro. 
-**Abbreviated name**: *Pant.*
+**Abbreviated name**: *Pant.* \[standard form in IPNI: *Pant.*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-09-13 08:23:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33260394) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 406](https://www.biodiversitylibrary.org/page/33260394) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2563-1), [Wikidata](https://www.wikidata.org/wiki/Q3208542). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ernst, Adolf (Adolfo) {std. Ernst}|first entry]] for this author
 
 ### Author
 
 \* Ernst, Gustav Adolf (Adolfo) (1832-1899), German botanist, born 6 Oct 1832 at Primkenau (Silesia), visited the lyceum in his home-town, studied natural sciences at the University of Berlin, moved to Hamburg 1858-1859 and went to Venezuela in 1861, founded in 1867 the "Sociedad de Ciencias fisicas y naturales" in Caracas and collected for the government the natural products of Venezuela, became professor in natural sciences and German language at the university in 1874 as well as director of the national museum and university library in Caracas, died 12 Aug 1899. 
-**Abbreviated name**: *Ernst*
+**Abbreviated name**: *Ernst* \[standard form in IPNI: *Ernst*\]
 
 #### Herbarium and types
 

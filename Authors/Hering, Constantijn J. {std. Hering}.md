@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33068412) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 170](https://www.biodiversitylibrary.org/page/33068412) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3872-1), [Wikidata](https://www.wikidata.org/wiki/Q76495). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hering, Constantijn J. (1800-1880), Dutch agronomist and meteorologist, active in Suriname. 
-**Abbreviated name**: *Hering*
+**Abbreviated name**: *Hering* \[standard form in IPNI: *Hering*\]
 
 #### Herbarium and types
 

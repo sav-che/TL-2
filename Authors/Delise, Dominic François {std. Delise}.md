@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/page/33120749) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 618](https://www.biodiversitylibrary.org/page/33120749) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17909-1), [Wikidata](https://www.wikidata.org/wiki/Q21339033). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Delise, Dominique-Françoise {std. Delise} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Delise, Dominic François (1780-1841), French "chef de bataillon" and cryptogamist in Normandy. 
-**Abbreviated name**: *Delise*
+**Abbreviated name**: *Delise* \[standard form in IPNI: *Delise*\]
 
 #### Herbarium and types
 

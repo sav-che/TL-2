@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33333629) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33333629) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9434-1), [Wikidata](https://www.wikidata.org/wiki/Q19262873). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seidel, Johann Heinrich (*fl*. 1799), German (Saxonian) gardener at Dresden. 
-**Abbreviated name**: *J. Seidel*
+**Abbreviated name**: *J. Seidel* \[standard form in IPNI: *Seidel*\]
 
 #### Herbarium and types
 

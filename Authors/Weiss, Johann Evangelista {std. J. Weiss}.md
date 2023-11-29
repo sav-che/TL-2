@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33066509) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33066509) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11525-1), [Wikidata](https://www.wikidata.org/wiki/Q9012380). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weiss, Johann Evangelista (1850-1918), German (Bavarian) high school teacher and botanist; Dr. phil. 1876; Hattingen (Westfalen) 1877-1881; from 1883 lecturer (Privat-Dozent) at the University of München; assistant at the München herbarium 1888; connected with Bavarian station for phytopathology in Weinstephan and teacher at Freising from 1896. 
-**Abbreviated name**: *J. Weiss*
+**Abbreviated name**: *J. Weiss* \[standard form in IPNI: *J.Weiss*\]
 
 #### Herbarium and types
 

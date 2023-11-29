@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33120947) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 816](https://www.biodiversitylibrary.org/page/33120947) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2661-1), [Wikidata](https://www.wikidata.org/wiki/Q258817). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fedchenko, Aleksei Pavlovich (1844-1873), Russian explorer. 
-**Abbreviated name**: *A. Fedch.*
+**Abbreviated name**: *A. Fedch.* \[standard form in IPNI: *A.Fedtsch.*\]
 
 #### Herbarium and types
 

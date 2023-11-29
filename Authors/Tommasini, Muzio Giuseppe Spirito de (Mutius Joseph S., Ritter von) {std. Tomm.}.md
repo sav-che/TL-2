@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33212431) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33212431) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10731-1), [Wikidata](https://www.wikidata.org/wiki/Q202106). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tommasini, Muzio Giuseppe Spirito de \[Mutius Joseph Spiritus, Ritter von\] (1794-1879), Austro-Hungarian (Trieste-Italian) magistrate and botanist; educated at Lemberg, Wien and Graz; in administrative functions in Zara, Spalato 1817-1827; district commissioner in Cattaro (Kotor) 1827; assessor of the Triest Council 1827-1839, from 1839-1861 as chairman of the Triest council and (from 1851) mayor ("podesta") of the town; student of the flora of the Austrian coastal regions and Istria. 
-**Abbreviated name**: *Tomm.*
+**Abbreviated name**: *Tomm.* \[standard form in IPNI: *Tomm.*\]
 
 #### Herbarium and types
 

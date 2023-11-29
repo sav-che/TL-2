@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33069067) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 825](https://www.biodiversitylibrary.org/page/33069067) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5438-1), [Wikidata](https://www.wikidata.org/wiki/Q36647185). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leibling, Otto (*fl*. 1884), German high school teacher and botanist at Crimmitschau (Sachsen). 
-**Abbreviated name**: *Leibl.*
+**Abbreviated name**: *Leibl.* \[standard form in IPNI: *Leibling*\]
 
 #### Herbarium and types
 

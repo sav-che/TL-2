@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33212785) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33212785) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11198-1), [Wikidata](https://www.wikidata.org/wiki/Q21611767). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vilmorin, Jacques Levêque de (1882-1933), French botanist, geneticist and plant breeder; son of Maurice de Vilmorin; in charge of "Vilmorin-Andrieux et Cie" 1917-1933; Dr. ès Sci. Univ. Paris 1923. 
-**Abbreviated name**: *J. Vilm.*
+**Abbreviated name**: *J. Vilm.* \[standard form in IPNI: *J.Vilm.*\]
 
 #### Herbarium and types
 

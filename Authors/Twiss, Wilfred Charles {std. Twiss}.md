@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/page/33212602) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 560](https://www.biodiversitylibrary.org/page/33212602) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10942-1), [Wikidata](https://www.wikidata.org/wiki/Q21611096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Twiss, Wilfred Charles (1868-?), American botanist; A.M. Univ. Calif. 1910; Dr. phil. Columbia Univ.; teacher chiefly in city schools near Los Angeles 1895-1911, from 1911 with the University of Utah, instructor in botany 1911-1912, assistant professor of botany 1912-1915, associate professor 1915-1919; head of Department of Botany 1919-1921. 
-**Abbreviated name**: *Twiss*
+**Abbreviated name**: *Twiss* \[standard form in IPNI: *Twiss*\]
 
 #### Herbarium and types
 

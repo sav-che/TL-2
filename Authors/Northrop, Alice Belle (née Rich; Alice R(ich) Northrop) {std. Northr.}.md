@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33355862) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 775](https://www.biodiversitylibrary.org/page/33355862) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12710-1), [Wikidata](https://www.wikidata.org/wiki/Q5398241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Northrop, Alice Belle (née Rich; Alice R(ich) Northrop) (1864-1922), American botanist; wife (from 1889) of John Isaiah Northrop (1861-1891); tutor in botany at Normal College, New York 1885-1889. 
-**Abbreviated name**: *Northr.*
+**Abbreviated name**: *Northr.* \[standard form in IPNI: *Northr.*\]
 
 #### Herbarium and types
 

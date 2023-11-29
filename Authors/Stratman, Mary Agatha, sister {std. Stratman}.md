@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33212045) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33212045) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10202-1), [Wikidata](https://www.wikidata.org/wiki/Q21609936). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stratman, Mary Agatha, sister (1894-?), American nun and botanist; sister of the Immaculate Heart, Hollywood Calif; Dr. phil. Cath. Univ. America 1935; chairman Dept. biology Immaculate Heart College, Los Angeles from 1935. 
-**Abbreviated name**: *Stratman*
+**Abbreviated name**: *Stratman* \[standard form in IPNI: *Stratman*\]
 
 #### Herbarium and types
 

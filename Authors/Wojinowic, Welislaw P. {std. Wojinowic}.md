@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33066759) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 419](https://www.biodiversitylibrary.org/page/33066759) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11810-1), [Wikidata](https://www.wikidata.org/wiki/Q21612904). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wojinowic, Welislaw P. (1864-1892), Serbian botanist; studied mathematics and natural sciences at Belgrado 1882-1887; student of J. Pancic; at the University of Breslau with J. Cohn 1887-1890; Dr. phil. ib. 1890; from 1890-1892 active in floristics and mycology in Serbia; died of tuberculosis. 
-**Abbreviated name**: *Wojinowic*
+**Abbreviated name**: *Wojinowic* \[standard form in IPNI: *Wojinowić*\]
 
 #### Herbarium and types
 

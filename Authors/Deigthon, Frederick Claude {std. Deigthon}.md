@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33259211) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33259211) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17887-1), [Wikidata](https://www.wikidata.org/wiki/Q21392050). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Deigthon, Frederick Claude (1903-1992), British mycologist and plant pathologist, born at London, 14 Feb 1903, appointed mycologist, lands and forests department, often working in Sierra Leone and Gold Coast 1926-1955, also with Royal Botanic Gardens, Kew and Commonwealth mycological institute, ib. 
-**Abbreviated name**: *Deigthon*
+**Abbreviated name**: *Deigthon* \[standard form in IPNI: *Deighton*\]
 
 #### Herbarium and types
 

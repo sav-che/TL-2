@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:10.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33120637) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 506](https://www.biodiversitylibrary.org/page/33120637) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1668-1), [Wikidata](https://www.wikidata.org/wiki/Q21508680). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clarke, Benjamin (1813-1890), British botanist. 
-**Abbreviated name**: *B. Clarke*
+**Abbreviated name**: *B. Clarke* \[standard form in IPNI: *Clarke*\]
 
 #### Herbarium and types
 

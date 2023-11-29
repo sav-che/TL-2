@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33355889) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 802](https://www.biodiversitylibrary.org/page/33355889) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7080-1), [Wikidata](https://www.wikidata.org/wiki/Q21341127). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ochse, Jacob Jonas (1891-1970), Dutch agriculturist and specialist on diet and tropical horticulture; in the former Dutch East Indies 1914-1946, mainly as governmental horticulturist; from 1946 professor of applied tropical and economic botany at the University of Miami. 
-**Abbreviated name**: *Ochse*
+**Abbreviated name**: *Ochse* \[standard form in IPNI: *Ochse*\]
 
 #### Herbarium and types
 

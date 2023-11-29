@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-10-23 16:53:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33264923) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 196](https://www.biodiversitylibrary.org/page/33264923) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/12329-1), [Wikidata](https://www.wikidata.org/wiki/Q21341217). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ashton, Ruth Elisabeth (Mrs. Aven Nelson) (1896-x), Botanist, grad. Mt. Holyoke College 1922, MS Colorado Agricultural College 1930, worked in University of Wyoming herbarium as graduate assistant; naturalist in the Rocky Mountain National Park 1925-1931. 
-**Abbreviated name**: *R.E. Ashton*
+**Abbreviated name**: *R.E. Ashton* \[standard form in IPNI: *Ashton*\]
 
 #### Herbarium and types
 

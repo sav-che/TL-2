@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 925](https://www.biodiversitylibrary.org/page/33190396) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 925](https://www.biodiversitylibrary.org/page/33190396) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8647-1), [Wikidata](https://www.wikidata.org/wiki/Q924540). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rothman, Georg (Göran) (1739-1778), Swedish physician and botanist; pupil of Linnaeus; Dr. phil. Uppsala 1761; Dr. med. Uppsala 1763; quarantine physician in Stockholm 1770; travelled via Tunis to Tripoli where he stayed 1773-1776; assessor Collegium medicum 1776. 
-**Abbreviated name**: *Rothman*
+**Abbreviated name**: *Rothman* \[standard form in IPNI: *Rothman*\]
 
 #### Herbarium and types
 

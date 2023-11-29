@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33333659) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 520](https://www.biodiversitylibrary.org/page/33333659) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26534-1), [Wikidata](https://www.wikidata.org/wiki/Q919826). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seraander, \[Johan\] Rutger (1866-1944), Swedish botanist; Dr. phil. Uppsala 1894; lecturer in plant geography and general botany Uppsala 1899; acting professor of plant biology 1908, ordinary professor 1909; outstanding plant ecologist and quarternary botanist, founder of the Uppsala School of phytosociology. 
-**Abbreviated name**: *Sern.*
+**Abbreviated name**: *Sern.* \[standard form in IPNI: *Sern.*\]
 
 #### Herbarium and types
 

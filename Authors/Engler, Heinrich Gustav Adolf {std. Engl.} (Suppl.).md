@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33260338) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33260338) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18509-1), [Wikidata](https://www.wikidata.org/wiki/Q60718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Engler, Heinrich Gustav Adolf {std. Engl.}|first entry]] for this author
 
 ### Author
 
 \* Engler, Heinrich Gustav Adolf (1844-1930), German botanist, born 25 Mar 1844 at Sagan (Silesia), moved to Breslau, visited schools in that city and studied at the University of Breslau, became teacher at the Breslauer Magdalenen-Gymnasium, was appointed custos of the botanical collection in Munich 1871, was professor in botany at the University of Kiel from 1878, from 1884 at the University of Breslau, was called to Berlin in 1889 and stayed there until his retirement in 1921, leader of the Berlin school of plant taxonomy and plant geography, died 10 Oct 1930. 
-**Abbreviated name**: *Engl.*
+**Abbreviated name**: *Engl.* \[standard form in IPNI: *Engl.*\]
 
 #### Herbarium and types
 

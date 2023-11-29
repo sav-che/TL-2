@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33355266) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33355266) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5791-1), [Wikidata](https://www.wikidata.org/wiki/Q3262559). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lubbers, Louis (1832-1905), Belgian horticulturist; chef des cultures de Jardin botanique de l'État, Bruxelles 1870-1903; longtime secretary of the Société de Flore. 
-**Abbreviated name**: *Lubbers*
+**Abbreviated name**: *Lubbers* \[standard form in IPNI: *Lubbers*\]
 
 #### Herbarium and types
 

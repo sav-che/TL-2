@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33068782) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 540](https://www.biodiversitylibrary.org/page/33068782) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21410-1), [Wikidata](https://www.wikidata.org/wiki/Q2262842). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Killermann, Sebastian (1870-1956), German clergyman and botanist; Dr. rer. nat. Regensburg 1893; ordin. ib. 1895; curate at Arendsberg 1895-1901; teacher (1901) and professor (1910) at the theological-philosophical college at Regensburg; from 1916-1956 president of the Regensburgische botanische Gesellschaft; specialist on Hymenomycetes. 
-**Abbreviated name**: *Killerm.*
+**Abbreviated name**: *Killerm.* \[standard form in IPNI: *Killerm.*\]
 
 #### Herbarium and types
 

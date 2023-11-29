@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33212555) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 513](https://www.biodiversitylibrary.org/page/33212555) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/35141-1), [Wikidata](https://www.wikidata.org/wiki/Q21610983). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trummer, Franz Xaver (x-1858), Austrian gardener at the agricultural experiment garden at Graz, specialized in fruit-growing and wine-making. 
-**Abbreviated name**: *Trummer*
+**Abbreviated name**: *Trummer* \[standard form in IPNI: *Trummer*\]
 
 #### Herbarium and types
 

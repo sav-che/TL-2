@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33260385) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 397](https://www.biodiversitylibrary.org/page/33260385) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/33045-1), [Wikidata](https://www.wikidata.org/wiki/Q21512326). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Erlandsson, Stellan (1902-x), Swedish botanist, cytologist and diatomist, born 1902, Ph.D. at Uppsala in 1936. 
-**Abbreviated name**: *Erl.*
+**Abbreviated name**: *Erl.* \[standard form in IPNI: *Erl.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33066537) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 197](https://www.biodiversitylibrary.org/page/33066537) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11569-1), [Wikidata](https://www.wikidata.org/wiki/Q21612492). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wesenburg-Lund, Carl Jørgen (1867-1955), Danish limnologist and algologist; Dr. phil. Copenhagen 1899; assistant with the Agricultural College 1894-1899; in charge of the fresh water biological laboratory of the University 1904-1939; professor of fresh water biology 1922-1939. 
-**Abbreviated name**: *Wesenb.-Lund*
+**Abbreviated name**: *Wesenb.-Lund* \[standard form in IPNI: *Wesenb.-Lund*\]
 
 #### Herbarium and types
 

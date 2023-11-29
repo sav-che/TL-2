@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33189679) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 208](https://www.biodiversitylibrary.org/page/33189679) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7588-1), [Wikidata](https://www.wikidata.org/wiki/Q21522900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petrescu, Constantin C. (1879-1936), Roumanian botanist at Iasi, published on the flora of the Dobragea (Dobruja) and Moldavia; with the Botanical laboratory, Iasi, from 1911 (preparator), 1914 (assistant), 1920 (head assistant) until 1936. 
-**Abbreviated name**: *Petrescu*
+**Abbreviated name**: *Petrescu* \[standard form in IPNI: *Petrescu*\]
 
 #### Herbarium and types
 

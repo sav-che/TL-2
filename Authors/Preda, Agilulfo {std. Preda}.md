@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33189856) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33189856) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7936-1), [Wikidata](https://www.wikidata.org/wiki/Q21523204). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Preda, Agilulfo (1870-1941), Italian botanist; teacher at the Liceo di Teramo of Pisa; director of the botanical garden of Siena 1916-1920. 
-**Abbreviated name**: *Preda*
+**Abbreviated name**: *Preda* \[standard form in IPNI: *Preda*\]
 
 #### Herbarium and types
 

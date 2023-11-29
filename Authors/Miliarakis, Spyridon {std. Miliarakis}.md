@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33355575) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 488](https://www.biodiversitylibrary.org/page/33355575) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6472-1), [Wikidata](https://www.wikidata.org/wiki/Q12157060). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Miliarakis, Spyridon (x-1919), Greek botanist; curator, from 1893 professor of botany, at the Botanical Museum of the University of Athens; director of the Botanical Garden of the University 1893-1917. 
-**Abbreviated name**: *Miliarakis*
+**Abbreviated name**: *Miliarakis* \[standard form in IPNI: *Miliar.*\]
 
 #### Herbarium and types
 

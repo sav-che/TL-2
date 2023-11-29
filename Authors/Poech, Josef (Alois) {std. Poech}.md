@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33189779) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33189779) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7774-1), [Wikidata](https://www.wikidata.org/wiki/Q13407718). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Poech, Josef \[Alois\] (1816-1846), Bohemian botanist, born at Snedovice (Wegstädl) nr Praha, studied medicine, assistant to the botanical cabinet of Praha University; associated with Opiz. 
-**Abbreviated name**: *Poech*
+**Abbreviated name**: *Poech* \[standard form in IPNI: *Poech*\]
 
 #### Herbarium and types
 

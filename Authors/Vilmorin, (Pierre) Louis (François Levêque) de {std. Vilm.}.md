@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33212785) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 743](https://www.biodiversitylibrary.org/page/33212785) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11201-1), [Wikidata](https://www.wikidata.org/wiki/Q2613598). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vilmorin, \[Pierre\] Louis \[François Levêque\] de (1816-1860), French botanist, geneticist and plant breeder, son of P.P. André L. de Vilmorin; head of *Vilmorin-Andrieux et Cie*, 1843-1860; set up experimental farm at Verrières-le-Buisson. 
-**Abbreviated name**: *Vilm.*
+**Abbreviated name**: *Vilm.* \[standard form in IPNI: *Vilm.*\]
 
 #### Herbarium and types
 

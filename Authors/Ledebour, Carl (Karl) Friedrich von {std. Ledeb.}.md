@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/page/33069047) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 805](https://www.biodiversitylibrary.org/page/33069047) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5393-1), [Wikidata](https://www.wikidata.org/wiki/Q64544). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ledebour, Carl \[Karl\] Friedrich von (1785-1851), German botanist (bora at Stralsund, then Swedish Pomerania); Dr. phil. Greifswald 1805; studied and resided in Greifswald and Stockholm 1805-1811; professor of botany in Dorpat 1811-1836; travelled widely in Russia and the Altai region with Meyer and Bunge; retired 1836 to Heidelberg to work at his *Flora rossica*; ultimately in München 1844-1851. 
-**Abbreviated name**: *Ledeb.*
+**Abbreviated name**: *Ledeb.* \[standard form in IPNI: *Ledeb.*\]
 
 #### Herbarium and types
 

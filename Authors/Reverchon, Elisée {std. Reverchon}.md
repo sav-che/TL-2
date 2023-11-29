@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33190217) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 746](https://www.biodiversitylibrary.org/page/33190217) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8317-1), [Wikidata](https://www.wikidata.org/wiki/Q5573871). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reverchon, Elisée (1835-1914), French plant collector, living at Bollème (Vaucluse) and later in Lyon; collected in S.E. France (1867-1877), Corsica (1878-1880), Sardinia (1881-1882), Crete (1883), Spain (1887-1906) and Algeria 1896-1898. 
-**Abbreviated name**: *Reverchon*
+**Abbreviated name**: *Reverchon* \[standard form in IPNI: *E.Rev.*\]
 
 #### Herbarium and types
 

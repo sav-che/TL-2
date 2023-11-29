@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33189891) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 420](https://www.biodiversitylibrary.org/page/33189891) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8001-1), [Wikidata](https://www.wikidata.org/wiki/Q18526418). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pryor, Alfred Reginald (1839-1881), British botanist; BA Oxon 1862; landed gentleman dedicating himself fully to the flora of Hertfordshire. 
-**Abbreviated name**: *Pryor*
+**Abbreviated name**: *Pryor* \[standard form in IPNI: *Pryor*\]
 
 #### Herbarium and types
 

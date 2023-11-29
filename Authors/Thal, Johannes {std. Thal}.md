@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33212273) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33212273) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10541-1), [Wikidata](https://www.wikidata.org/wiki/Q104633). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thal, Johannes (1542/43-1583), German (Erfurt) botanist and physician in Nordhausen. 
-**Abbreviated name**: *Thal*
+**Abbreviated name**: *Thal* \[standard form in IPNI: *Thal*\]
 
 #### Herbarium and types
 

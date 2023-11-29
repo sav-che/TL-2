@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33190279) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33190279) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8437-1), [Wikidata](https://www.wikidata.org/wiki/Q5396650). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Robecchi-Bricchetti, Luigi (1855-1926), Italian explorer of Somalia and Ethiopia; studied at the Zürich E.T.H and at Karlsruhe. 
-**Abbreviated name**: *Rob.-Bricch.*
+**Abbreviated name**: *Rob.-Bricch.* \[standard form in IPNI: *Rob.-Bricch.*\]
 
 #### Herbarium and types
 

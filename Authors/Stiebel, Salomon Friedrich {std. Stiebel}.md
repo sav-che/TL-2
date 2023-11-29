@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33212093) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33212093) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10144-1), [Wikidata](https://www.wikidata.org/wiki/Q2214957). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stiebel, Salomon Friedrich (1792-1868), German (Hessen-Nassau) physician, zoologist and botanist; from 1855 hospital physician in Frankfurt; member of the Collegium medicum 1828; from 1845 physician at a children's hospital; zoological director of the Senckenbergische Naturforschende Gesellschaft. 
-**Abbreviated name**: *Stiebel*
+**Abbreviated name**: *Stiebel* \[standard form in IPNI: *Stiebel*\]
 
 #### Herbarium and types
 

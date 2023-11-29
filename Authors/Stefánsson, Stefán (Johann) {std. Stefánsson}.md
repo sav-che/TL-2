@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33334007) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 868](https://www.biodiversitylibrary.org/page/33334007) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10067-1), [Wikidata](https://www.wikidata.org/wiki/Q9345362). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stefánsson, Stefán \[Johann\] (1863-1921), Icelandic botanist; student of E. Warming; high school teacher at Mödruvellir 1887-1901, Akureyri 1901-1921, principal 1908-1921; member of the Althing, elected 1901-1907, appointed by the King 1909-1915. 
-**Abbreviated name**: *Stefánsson*
+**Abbreviated name**: *Stefánsson* \[standard form in IPNI: *Stefánsson*\]
 
 #### Herbarium and types
 

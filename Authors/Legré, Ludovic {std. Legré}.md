@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33069059) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 817](https://www.biodiversitylibrary.org/page/33069059) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5424-1), [Wikidata](https://www.wikidata.org/wiki/Q18590031). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Legré, Ludovic (1838-1904), French jurist and botanical historian, "bâtonnier de l'ordre des avocats de Marseille." 
-**Abbreviated name**: *Legré*
+**Abbreviated name**: *Legré* \[standard form in IPNI: *Legré*\]
 
 #### Herbarium and types
 

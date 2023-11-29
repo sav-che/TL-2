@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33333797) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33333797) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9760-1), [Wikidata](https://www.wikidata.org/wiki/Q21609050). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smidth, Jens Hansen (1769-1847), Danish botanist and clergyman at Aastrup (Falster). 
-**Abbreviated name**: *Smidth*
+**Abbreviated name**: *Smidth* \[standard form in IPNI: *Smidth*\]
 
 #### Herbarium and types
 

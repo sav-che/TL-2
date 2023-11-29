@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33266549) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33266549) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1302-1), [Wikidata](https://www.wikidata.org/wiki/Q2748897). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Burkart, Arturo Erhardo (1906-1975), Argentinean botanist and agronomist, born in Buenos Aires, studied at the Escuela de Agricultura de la Universidad de Buenos Aires 1925 with Lorenzo R. Parodi, "Ingeniero agrónomo" 1928, study in botany and genetics as well as with Erwin Bauer at Müncheberg (nr. München) and with Curt Stern at the Kaiser Wilhelm biological institute at Berlin 1928-1930, assistant with Parodi and genetics with Horowitz in Buenos Aires 1930-1936, professor of agricultural sciences with the University of La Plata 1939-1957, director of the Instituto de Botanica Darwinion from 1936-1975, professor emeritus at the University of Buenos Aires 1972-1975. 
-**Abbreviated name**: *Burkart*
+**Abbreviated name**: *Burkart* \[standard form in IPNI: *Burkart*\]
 
 #### Herbarium and types
 

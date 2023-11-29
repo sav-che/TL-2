@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33212106) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 64](https://www.biodiversitylibrary.org/page/33212106) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10253-1), [Wikidata](https://www.wikidata.org/wiki/Q21609981). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sturgis, William Codman (1886-1942), American cryptogamist; Dr. phil. Harvard 1889; vegetable pathologist at the Connecticut Agricultural Station 1891-1901; lecturer Yale School of Forestry 1899-1901; professor and dean School of Forestry, Colorado Springs 1904-1917; educational secretary Board of Missions, Prot. Episcopal Church, New York 1917-1927; lecturer College of preachers, Washington, D.C. 1928-1931; warden St. Martin's House, Bernardville, N.Y. 1934-1937. 
-**Abbreviated name**: *Sturgis*
+**Abbreviated name**: *Sturgis* \[standard form in IPNI: *Sturgis*\]
 
 #### Herbarium and types
 

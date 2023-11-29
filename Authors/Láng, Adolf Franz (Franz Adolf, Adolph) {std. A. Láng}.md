@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-02-20 15:06:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33068987) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 745](https://www.biodiversitylibrary.org/page/33068987) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5254-1), [Wikidata](https://www.wikidata.org/wiki/Q1160114). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Láng, Adolf Franz \[Franz Adolf, Adolph\] (1795-1863), Hungarian botanist and pharmacist at Pest, from 1832 at Neutra. (Nyitira). 
-**Abbreviated name**: *A. Láng*
+**Abbreviated name**: *A. Láng* \[standard form in IPNI: *Láng*\]
 
 #### Herbarium and types
 

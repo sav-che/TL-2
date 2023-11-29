@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33120608) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 477](https://www.biodiversitylibrary.org/page/33120608) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1481-1), [Wikidata](https://www.wikidata.org/wiki/Q954771). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Celsius, Olof (1670-1756), Swedish theologist at Uppsala, doctor's degree 1694, professor of theology 1736, amateur botanist, teacher and patron of Linnaeus. One of the founders of the Swedish academy of Sciences. 
-**Abbreviated name**: *Celsius*
+**Abbreviated name**: *Celsius* \[standard form in IPNI: *Celsius*\]
 
 #### Herbarium and types
 

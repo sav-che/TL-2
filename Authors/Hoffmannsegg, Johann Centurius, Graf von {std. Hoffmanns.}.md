@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33068487) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 245](https://www.biodiversitylibrary.org/page/33068487) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4021-1), [Wikidata](https://www.wikidata.org/wiki/Q76697). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoffmannsegg, Johann Centurius, Graf von (1766-1849), German botanist, entomologist and ornithologist; travelled in Hungary (1793-1794) and Portugal (1797-1801). 
-**Abbreviated name**: *Hoffmanns.*
+**Abbreviated name**: *Hoffmanns.* \[standard form in IPNI: *Hoffmanns.*\]
 
 #### Herbarium and types
 

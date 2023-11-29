@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33265106) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33265106) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/13093-1), [Wikidata](https://www.wikidata.org/wiki/Q21522120). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Newton, Lily {std. L. Newton}|first entry]] for this author
 
 ### Author
 
 Batten, Lily (1893-1981), British botanist, mainly algologist, educated at Colston's Girl's School, Bristol, studied botany at the University of Bristol 1914-1917, B.Sci. ib. 1917, M.Sci. 1918, Ph.D. 1922, assistant lecturer in botany at Bristol University 1919-1920, lecturer in botany at Birbeck College, University of London 1920-1921, research worker at Imperial College, London 1923-1925, married W.F.C. Newton 1925, research worker John Innes Horticultural Institute 1927-1928, lecturer in botany University College of Wales, Aberystwyth 1928, professor of botany ib. 1930-1958, professor emeritus 1959 (*L. Batten*, from 1925) 
-**Abbreviated name**: *L. Newton*
+**Abbreviated name**: *L. Newton* \[standard form in IPNI: *L.Newton*\]
 
 #### Herbarium and types
 

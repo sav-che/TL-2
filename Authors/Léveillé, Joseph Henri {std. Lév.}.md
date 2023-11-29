@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2008-07-21 12:58:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33069107) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 865](https://www.biodiversitylibrary.org/page/33069107) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5529-1), [Wikidata](https://www.wikidata.org/wiki/Q1375120). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Léveillé, Joseph Henri (1796-1870), French physician and mycologist at Paris; Dr. med. Paris 1824; one of the discoverers of the basidium. 
-**Abbreviated name**: *Lév.*
+**Abbreviated name**: *Lév.* \[standard form in IPNI: *Lév.*\]
 
 #### Herbarium and types
 

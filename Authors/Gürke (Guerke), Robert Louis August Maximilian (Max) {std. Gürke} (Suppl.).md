@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33258915) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33258915) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/12524-1), [Wikidata](https://www.wikidata.org/wiki/Q71382). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Guerke, Robert Louis August Maximilian (Max) {std. Gürke}|first entry]] for this author
 
 ### Author
 
 \* Gürke \[Guerke\], Robert Louis August Maximilian \[Max\] (1854-1911), German (Silesian) botanist, born 17 Nov 1854 in Beuthen an der Oder (Oberschlesien) (now Poland), studied natural history and mathematics 1873-1880, taught in Görliz 1880-1884, asst. at Berlin 1886, Ph.D. 1892 Göttingen, asst. curator ("Hilfkustos") 1892, curator ("Kustos") 1893-1911 and Prof. 1904, all Botanical Garden and Museum, Berlin, studied at Kew 1895, died 16 Mar 1911 in Berlin (Steglitz). 
-**Abbreviated name**: *Gürke*
+**Abbreviated name**: *Gürke* \[standard form in IPNI: *Gürke*\]
 
 #### Note
 

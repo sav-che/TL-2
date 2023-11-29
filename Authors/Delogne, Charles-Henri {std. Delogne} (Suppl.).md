@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33259228) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 182](https://www.biodiversitylibrary.org/page/33259228) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17914-1), [Wikidata](https://www.wikidata.org/wiki/Q21510188). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Delogne, Charles Henri {std. Delogne}|first entry]] for this author
 
 ### Author
 
 \* Delogne, Charles-Henri (1834-1901), Belgian botanist, born at Frahan, Rochehaut, Luxembourg 17 Oct 1834, died at Brussels 18 Sep 1901, botanist as "aide naturaliste", at the Jardin botanique de l'État 1872, worked mainly on cryptogams and in the library of the "Jardin", worked on flora of the Semois (Ardennes) 1855-1875, conservator 1880-1895. 
-**Abbreviated name**: *Delogne*
+**Abbreviated name**: *Delogne* \[standard form in IPNI: *Delogne*\]
 
 #### Herbarium and types
 

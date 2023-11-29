@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33333489) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33333489) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9275-1), [Wikidata](https://www.wikidata.org/wiki/Q2803289). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schube, Theodor (1860-1934), German (Silesian) botanist and high school teacher; pupil of Engler at the Breslau Magdalenäum in 1870; studied at the University of Breslau with F. Cohn, A. Engler and F. Pax; Dr. phil. ib. 1885; high school teacher ib. from 1885; active floristic botanist and conservationist. 
-**Abbreviated name**: *Schube*
+**Abbreviated name**: *Schube* \[standard form in IPNI: *Schube*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33355763) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33355763) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6819-1), [Wikidata](https://www.wikidata.org/wiki/Q731937). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mutis y Bosio, José Célestino Bruno (1732-1808), Spanish physician and botanist at Madrid; went to New Granada in 1750, discovered *Cinchona*; director of the *Expedición botánica* and its flora; founder of the first astronomical observatory in South America; subsequently professor of mathematics at Santa-Fé de Bogota; founder of a botanic garden and ultimately clergyman at Santa Fé. 
-**Abbreviated name**: *Mulis*
+**Abbreviated name**: *Mulis* \[standard form in IPNI: *Mutis*\]
 
 #### Herbarium and types
 

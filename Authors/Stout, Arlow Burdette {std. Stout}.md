@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33212033) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33212033) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10191-1), [Wikidata](https://www.wikidata.org/wiki/Q2879263). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stout, Arlow Burdette (1876-1957), American botanist; A.B. Univ. Wisconsin 1909; instructor in botany ib. 1909-1911; Dr. phil. Columbia Univ. 1913; director of laboratories, New York Botanical Garden 1911-1937; curator of education and laboratories ib. 1938-1947; curator emeritus 1948-1957. 
-**Abbreviated name**: *Stout*
+**Abbreviated name**: *Stout* \[standard form in IPNI: *Stout*\]
 
 #### Herbarium and types
 

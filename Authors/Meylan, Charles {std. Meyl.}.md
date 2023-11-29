@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33355537) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33355537) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23332-1), [Wikidata](https://www.wikidata.org/wiki/Q16027649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meylan, Charles (1868-1941), Swiss cryptogamist at Lausanne, high school teacher at La Chaux nr. Ste.-Croix (Lausanne) 1888-1923; Dr. sci.h.c. Lausanne 1922. 
-**Abbreviated name**: *Meyl.*
+**Abbreviated name**: *Meyl.* \[standard form in IPNI: *Meyl.*\]
 
 #### Herbarium and types
 

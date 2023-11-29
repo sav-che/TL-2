@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33066703) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33066703) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11754-1), [Wikidata](https://www.wikidata.org/wiki/Q1703323). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winchell, Newton Horace (1839-1914), American botanist and geologist; studied at the University of Michigan 1858-1866; M.Sc. 1869; volunteer collector for the Michigan Geological Survey 1859-1860, collector id. 1869-1870; with the Ohio Geological Survey 1871-1872; state geologist of Minnesota 1872; with the University of Minnesota 1872-1900. 
-**Abbreviated name**: *Winchell*
+**Abbreviated name**: *Winchell* \[standard form in IPNI: *Winchell*\]
 
 #### Herbarium and types
 

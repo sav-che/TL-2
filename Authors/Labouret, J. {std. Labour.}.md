@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33068955) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33068955) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5176-1), [Wikidata](https://www.wikidata.org/wiki/Q5923889). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Labouret, J. (*fl*. 1858), French cactus grower at Raffec, Charente. 
-**Abbreviated name**: *Labour.*
+**Abbreviated name**: *Labour.* \[standard form in IPNI: *Labour.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33355524) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 437](https://www.biodiversitylibrary.org/page/33355524) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6404-1), [Wikidata](https://www.wikidata.org/wiki/Q121468). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meusel, Hermann (1909-x), German botanist at Halle; Dr. phil. Halle 1935 (student of W. Troll); assistant Bot. Inst. Halle 1935-1947; professor of botany ib. 1947 (ord. 1952); Nationalpreis DDR 1966; specially interested in the chorology of the eurasiatic flora. 
-**Abbreviated name**: *Meusel*
+**Abbreviated name**: *Meusel* \[standard form in IPNI: *Meusel*\]
 
 #### Herbarium and types
 

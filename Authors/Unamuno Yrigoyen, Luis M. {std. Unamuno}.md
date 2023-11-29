@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33212628) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 586](https://www.biodiversitylibrary.org/page/33212628) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10978-1), [Wikidata](https://www.wikidata.org/wiki/Q9025217). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Unamuno Yrigoyen, Luis M. (1873-1943), Spanish clergyman (O.S.A.) and botanist; Dr. phil. Madrid 1906; professor of natural history at the college of the PP. Augustinos de Lianes, Oviedo; from 1927 in Madrid ultimately as director of the Mycological laboratory of the Jardin botanico, and professor of botany. 
-**Abbreviated name**: *Unamuno*
+**Abbreviated name**: *Unamuno* \[standard form in IPNI: *Unamuno*\]
 
 #### Herbarium and types
 

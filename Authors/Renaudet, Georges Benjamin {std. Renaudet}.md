@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33190186) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33190186) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8284-1), [Wikidata](https://www.wikidata.org/wiki/Q21607109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Renaudet, Georges Benjamin (1852-?), French botanist and phytochemist, sometime "preparateur" at the medical college at Poitiers. 
-**Abbreviated name**: *Renaudet*
+**Abbreviated name**: *Renaudet* \[standard form in IPNI: *Renaudet*\]
 
 #### Herbarium and types
 

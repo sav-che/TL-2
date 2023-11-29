@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33189702) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33189702) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7629-1), [Wikidata](https://www.wikidata.org/wiki/Q18672958). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Phelps, William (1776-1856), British clergyman, topographer and botanist; B.A. Oxford 1797, rector at Oxcombe 1851. 
-**Abbreviated name**: *W. Phelps*
+**Abbreviated name**: *W. Phelps* \[standard form in IPNI: *Phelps*\]
 
 #### Herbarium and types
 

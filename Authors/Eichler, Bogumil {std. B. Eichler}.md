@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33260269) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 281](https://www.biodiversitylibrary.org/page/33260269) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/33022-1), [Wikidata](https://www.wikidata.org/wiki/Q9175541). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eichler, Bogumil (1843-1905), Polish (Russian) florist, born 18 Mar 1843 at Miedzyrzec (Govnmt. Siedlce), a town where he lived all his life, studied the botany of the surroundings of his home town, working on phanerogams, algae, mosses and fungi, the new species of fungi he found were described by Bresadola, died 20 Nov 1905. 
-**Abbreviated name**: *B. Eichler*
+**Abbreviated name**: *B. Eichler* \[standard form in IPNI: *B.Eichler*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33068911) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 669](https://www.biodiversitylibrary.org/page/33068911) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5048-1), [Wikidata](https://www.wikidata.org/wiki/Q47120469). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krauss, G. (*fl*. 1812), German gardener at Würzburg. 
-**Abbreviated name**: *G. Krauss*
+**Abbreviated name**: *G. Krauss* \[standard form in IPNI: *G.Krauss*\]
 
 #### Herbarium and types
 

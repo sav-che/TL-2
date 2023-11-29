@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/page/33068949) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 707](https://www.biodiversitylibrary.org/page/33068949) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5155-1), [Wikidata](https://www.wikidata.org/wiki/Q21518214). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kurtz, Karl Marie Max (1846-1910), German botanist, high school teacher and botanist at Ellwangen 1876-1906. 
-**Abbreviated name**: *K. Kurtz*
+**Abbreviated name**: *K. Kurtz* \[standard form in IPNI: *K.Kurtz*\]
 
 #### Herbarium and types
 

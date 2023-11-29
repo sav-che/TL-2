@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-12-02 13:11:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/page/33120692) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 561](https://www.biodiversitylibrary.org/page/33120692) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17478-1), [Wikidata](https://www.wikidata.org/wiki/Q11679890). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Coutinho, António Xavier Pereira {std. Cout.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Coutinho, António Xavier Pereira (1851-1939), Portuguese botanist. 
-**Abbreviated name**: *Cout.*
+**Abbreviated name**: *Cout.* \[standard form in IPNI: *Cout.*\]
 
 #### Herbarium and types
 

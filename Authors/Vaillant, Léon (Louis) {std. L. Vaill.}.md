@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 634](https://www.biodiversitylibrary.org/page/33212676) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 634](https://www.biodiversitylibrary.org/page/33212676) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12958-1), [Wikidata](https://www.wikidata.org/wiki/Q577418). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vaillant, Léon \[Louis\] (1834-1914), French zoologist; M.D. Paris 1861; aggr. hist. nat. 1863; Dr. sci. 1865, Prix Savigny 1867; lecturer in Montpellier 1867; with the zoological laboratory of the École des Hautes-Études, Paris 1869; professor of herpetology and ichthyology at the Muséum d'Histoire naturelle, Paris 1874-1910. 
-**Abbreviated name**: *L. Vaill.*
+**Abbreviated name**: *L. Vaill.* \[standard form in IPNI: *L.Vaill.*\]
 
 #### Herbarium and types
 

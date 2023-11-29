@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33190308) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33190308) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8500-1), [Wikidata](https://www.wikidata.org/wiki/Q21339621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Röll, Julius (1846-1928), German (Sachsen-Weimar) bryologist; studied at Jena; Dr phil. 1873; teacher at Frankfurt a.M. 1874-1876; high school teacher at Darmstadt (Victoriaschule; teachers college) 1876-1911; professor's title 1909; collected in N. America 1888-1889; from 1914-1928 in retirement at Klösterlein bei Aue. 
-**Abbreviated name**: *Röll*
+**Abbreviated name**: *Röll* \[standard form in IPNI: *Röll*\]
 
 #### Herbarium and types
 

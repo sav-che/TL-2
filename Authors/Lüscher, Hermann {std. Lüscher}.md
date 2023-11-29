@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-01-16 14:22:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33355276) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 189](https://www.biodiversitylibrary.org/page/33355276) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5821-1), [Wikidata](https://www.wikidata.org/wiki/Q21519650). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lüscher, Hermann (1859-1920), Swiss botanist. 
-**Abbreviated name**: *Lüscher*
+**Abbreviated name**: *Lüscher* \[standard form in IPNI: *Lüscher*\]
 
 #### Herbarium and types
 

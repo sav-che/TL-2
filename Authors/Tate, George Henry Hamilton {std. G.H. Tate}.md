@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33212217) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 175](https://www.biodiversitylibrary.org/page/33212217) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10441-1), [Wikidata](https://www.wikidata.org/wiki/Q1507563). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tate, George Henry Hamilton (1894-1953), British-born American zoologist and collector; field assistant at the American Museum of Natural History, New York from 1922-1931; American citizen 1927; M.A. Columbia Univ. 1931; asst. curator mammals 1931-1942, assoc. curator 1942-1946, curator 1946-1953; Dr. Sci. Univ. Montreal 1937; made 42 collecting expeditions in the tropics, made substantial botanical collections in South America. 
-**Abbreviated name**: *G.H. Tate*
+**Abbreviated name**: *G.H. Tate* \[standard form in IPNI: *G.H.Tate*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33068596) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33068596) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/12563-1), [Wikidata](https://www.wikidata.org/wiki/Q21516617). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Huber, Johann Christoph(er) (1830-1913), German physician, entomologist and botanist at Memmingen (Schwaben, Bayern). 
-**Abbreviated name**: *J. C. Huber*
+**Abbreviated name**: *J. C. Huber* \[standard form in IPNI: *J.C.Huber*\]
 
 #### Herbarium and types
 

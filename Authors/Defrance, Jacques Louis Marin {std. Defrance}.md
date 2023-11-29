@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33120741) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 610](https://www.biodiversitylibrary.org/page/33120741) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2077-1), [Wikidata](https://www.wikidata.org/wiki/Q20171550). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Defrance, Jacques Louis Marin (1758-1850), French palaeontologist who described a number of fossil organisms as animals now believed to be plants. 
-**Abbreviated name**: *Defrance*
+**Abbreviated name**: *Defrance* \[standard form in IPNI: *Defrance*\]
 
 #### Collections
 

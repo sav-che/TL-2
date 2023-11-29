@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33068507) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33068507) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4070-1), [Wikidata](https://www.wikidata.org/wiki/Q5933455). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Holzinger, John Michael (1853-1929), American bryologist, professor of elementary science and botany at State Teachers College, Winona, Minnesota. 
-**Abbreviated name**: *Holz.*
+**Abbreviated name**: *Holz.* \[standard form in IPNI: *Holz.*\]
 
 #### Herbarium and types
 

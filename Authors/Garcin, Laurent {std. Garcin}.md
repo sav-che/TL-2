@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/page/33121043) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 912](https://www.biodiversitylibrary.org/page/33121043) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/20032151-1), [Wikidata](https://www.wikidata.org/wiki/Q3219242). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Garcin, Laurent (1683-1752), Dutch army physician who travelled in Flanders, Spain and Portugal and made three trips to the East Indies, India, Ceylon, Arabia and Persia between 1720 and 1729. 
-**Abbreviated name**: *Garcin*
+**Abbreviated name**: *Garcin* \[standard form in IPNI: *Garcin*\]
 
 #### Herbarium and types
 

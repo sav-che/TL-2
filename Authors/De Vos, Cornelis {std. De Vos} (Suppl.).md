@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33259299) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 253](https://www.biodiversitylibrary.org/page/33259299) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/14196-1), [Wikidata](https://www.wikidata.org/wiki/Q21510068). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 De Vos, Cornelis (1806-1895), Dutch nurseryman, author on dendrological subjects. 
-**Abbreviated name**: *De Vos*
+**Abbreviated name**: *De Vos* \[standard form in IPNI: *de Vos*\]
 
 #### Herbarium and types
 

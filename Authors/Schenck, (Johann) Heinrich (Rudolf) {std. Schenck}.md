@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33333269) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33333269) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9050-1), [Wikidata](https://www.wikidata.org/wiki/Q78396). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schenck, \[Johann\] Heinrich \[Rudolf\] (1860-1927), German (Westfalen) botanist; studied at Bonn 1879-1880, 1882-1883, and Berlin 1881-1882; Dr. phil. Bonn 1884, student of E. Strasburger; travelled in Brazil 1886-1887 and Mexico 1908; habil. Bonn 1889; "Privatdozent" and assistant at the Botanical Institute, Bonn 1890-1896; extraordinary professor ib. 1896; professor of botany at the Technical University and director of the botanical garden Darmstadt 1896-1927. 
-**Abbreviated name**: *Schenck*
+**Abbreviated name**: *Schenck* \[standard form in IPNI: *Schenck*\]
 
 #### Herbarium and types
 

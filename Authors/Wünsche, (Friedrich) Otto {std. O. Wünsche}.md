@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33066810) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 470](https://www.biodiversitylibrary.org/page/33066810) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13034-1), [Wikidata](https://www.wikidata.org/wiki/Q17370243). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wünsche, \[Friedrich\] Otto (1839-1905), German (Saxonian) botanist and high school teacher; studied at the teachers college of Bautzen 1855-1859; teacher's examination 1859; teacher at Bernbruch nr. Kamenz 1859-1860; at Zittau 1860-1867; teacher for natural sciences and geography at the Zwickau Gymnasium 1867-1904; Dr. phil. Leipzig 1871; professor's title 1891. 
-**Abbreviated name**: *O. Wünsche*
+**Abbreviated name**: *O. Wünsche* \[standard form in IPNI: *Wünsche*\]
 
 #### Herbarium and types
 

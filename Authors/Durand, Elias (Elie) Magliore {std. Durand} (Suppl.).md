@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33260169) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33260169) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2394-1), [Wikidata](https://www.wikidata.org/wiki/Q949682). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Durand, Elias (Elie) Magliore {std. Durand}|first entry]] for this author
 
 ### Author
 
 \* Durand, Elias (Elie) Magliore (1794-1873), American/French pharmacist and botanist, born 25 Jan 1794, Mayenne, France, studied under Chevalier 1808-1812, went to Paris 1812 studying pharmacy, joined the army as pharmacist, after the battle of Waterloo he decided to go to America arriving in New York Jul 1816, went first to Baltimore later to Philadelphia in a pharmacy, retired from business in 1852 devoting himself entirely to botany, died 14 Aug 1873. 
-**Abbreviated name**: *Durand*
+**Abbreviated name**: *Durand* \[standard form in IPNI: *Durand*\]
 
 #### Herbarium and types
 

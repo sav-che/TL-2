@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33212499) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 457](https://www.biodiversitylibrary.org/page/33212499) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12945-1), [Wikidata](https://www.wikidata.org/wiki/Q15453411). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Treichel, Alexander \[Johann August\] (1837-1901), German (Prussian) landed proprietor and botanist; studied law and economics at Berlin University from 1859; associated with P. Ascherson, A. Braun, L. Kny and other Berlin botanists; secretary of the Botanische Verein der Provinz Brandenburg 1870-1876; in charge of the family estate Hoch-Paleschken nr. Alt-Kischau, Westpreussen from 1876. 
-**Abbreviated name**: *Treichel*
+**Abbreviated name**: *Treichel* \[standard form in IPNI: *Treich.*\]
 
 #### Herbarium and types
 

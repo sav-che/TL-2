@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33066693) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 353](https://www.biodiversitylibrary.org/page/33066693) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11736-1), [Wikidata](https://www.wikidata.org/wiki/Q21612765). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilson, Guy West (1877-1956), American botanist; M.Sc. DePauw 1903; professor of biology Mount Union College 1903-1904; high school teacher Lafayette, Indiana 1904-1905; Dr. sci. Purdue 1906; aide New York Botanical Garden 1906-1907; professor of biology Upper Iowa Univ. 1907-1910; assistant plant pathology North Carolina Expt. Station 1910-1912; assistant professor of mycology Iowa 1914-1916; associate botanist Clemson College 1918-1919; professor of biology Upper Iowa Univ. 1919-1927, at Penn College 1927-1930; from 1930 onward engaged in private research. 
-**Abbreviated name**: *G.W. Wils.*
+**Abbreviated name**: *G.W. Wils.* \[standard form in IPNI: *G.W.Wilson*\]
 
 #### Herbarium and types
 

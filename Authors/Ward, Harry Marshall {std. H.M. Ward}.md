@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33066405) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 65](https://www.biodiversitylibrary.org/page/33066405) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11405-1), [Wikidata](https://www.wikidata.org/wiki/Q727999). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ward, Harry Marshall (1854-1906), British botanist; B.A. Christ's College Cambridge 1879; cryptogamic botanist to the Ceylon Government (coffee leaf disease) 1880-1882; assistant lecturer Owens College, Manchester 1883-1885; professor of botany, Royal Indian Engineering College, Coopers Hill 1885-1895; professor of botany, Univ. Cambridge 1895-1906. 
-**Abbreviated name**: *H.M. Ward*
+**Abbreviated name**: *H.M. Ward* \[standard form in IPNI: *H.M.Ward*\]
 
 #### Herbarium and types
 

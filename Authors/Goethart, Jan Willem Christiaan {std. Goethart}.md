@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33258750) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 272](https://www.biodiversitylibrary.org/page/33258750) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3228-1), [Wikidata](https://www.wikidata.org/wiki/Q5926034). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Goethart, Jan Willem Christiaan (1866-1938), Indonesian-born Dutch botanist, born 21 Jul 1866 in Semarang, Java, studied at Landwirtschaftlichen Hochschule, Wageningen, Ph.D. 1890 Univ. of Göttingen, asst. to Hugo de Vries in Amsterdam, reader (Lektor) in systematic botany, Rijksuniversität, Leiden, appointed to Rijksherbarium, Leiden 1897, dir. 1910-1932, died 3 Feb 1938 in Leiden, "Dr Goethart war ein Idealist" (*fide* Goddijn, 1938: 4). 
-**Abbreviated name**: *Goethart*
+**Abbreviated name**: *Goethart* \[standard form in IPNI: *Goethart*\]
 
 #### Herbarium and types
 

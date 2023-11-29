@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2018-11-28 17:07:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33066594) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 254](https://www.biodiversitylibrary.org/page/33066594) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13079-1), [Wikidata](https://www.wikidata.org/wiki/Q1387000). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 White, John, R.N. (1756(?)-1832), Irish naval surgeon and botanist; joined the Royal \[British\] Navy 1778, promoted to surgeon 1780, in India and the West Indies on naval duty 1780-1785; surgeon on the Irresistable headed for Australia 1786; chief surgeon of the colony of New South Wales 1786; retired to England 1794; retired from the navy 1820. 
-**Abbreviated name**: *J. White, R.N.*
+**Abbreviated name**: *J. White, R.N.* \[standard form in IPNI: *J.White*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33120448) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33120448) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16512-1), [Wikidata](https://www.wikidata.org/wiki/Q514358). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bresàdola, Giacomo {std. Bres.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bresadola, Don Giacopo (Giacomo, abate) (1847-1929), Italia (nat his birth in Trient: Austrian) mycologist, "fürstbischoflicher Mensalverwalter" and "Ehrendomherr" in Trient. 
-**Abbreviated name**: *Bres.*
+**Abbreviated name**: *Bres.* \[standard form in IPNI: *Bres.*\]
 
 #### Herbarium and types
 

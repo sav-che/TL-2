@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33212145) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 103](https://www.biodiversitylibrary.org/page/33212145) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10310-1), [Wikidata](https://www.wikidata.org/wiki/Q6143853). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sutherland, James (c. 1639-1719), British botanist; professor of botany, Edinburgh 1695-1706; King's botanist for Scotland 1699; director of the Royal Botanical Garden, Edinburgh 1699-1714. 
-**Abbreviated name**: *Sutherland*
+**Abbreviated name**: *Sutherland* \[standard form in IPNI: *Sutherl.*\]
 
 #### Herbarium and types
 

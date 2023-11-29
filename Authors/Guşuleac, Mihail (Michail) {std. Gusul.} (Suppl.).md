@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33258943) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 465](https://www.biodiversitylibrary.org/page/33258943) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3497-1), [Wikidata](https://www.wikidata.org/wiki/Q4153111). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gusuleac, Mihail {std. Gusul.}|first entry]] for this author
 
 ### Author
 
 \* Guşuleac, Mihail \[Michail\] (1887-1960), Ukrainian (Soviet) morphologist and botanist, born 12 Oct 1887 in Csernovic (then Austro-Hungarian Empire, now Chernivtsi, Ukraine), graduated 1911 and awarded doctorate 1917, both Franz-Josefs Universität (later Universitatea Regele Carol I din Cernăuţi), Dir., Univ. of Cernăuţi Botanic Garden 1919 (from 1918-1940 Cernăuţi (Chernivtsi) was part of the Kingdom of Romania), died 11 Sep 1960 in Chernivtsi, Ukrainian Soviet Socialist Republic. 
-**Abbreviated name**: *Guşuleac*
+**Abbreviated name**: *Guşuleac* \[standard form in IPNI: *Gușul.*\]
 
 #### Herbarium and types
 

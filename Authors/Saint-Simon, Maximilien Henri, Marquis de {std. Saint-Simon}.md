@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1078](https://www.biodiversitylibrary.org/page/33190549) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1078](https://www.biodiversitylibrary.org/page/33190549) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8834-1), [Wikidata](https://www.wikidata.org/wiki/Q1914199). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saint-Simon, Maximilien Henri, Marquis de (1720-1799), French-Dutch horticulturist; engaged in the French-Italian wars as aide-de-camp to the Prince de Conti; in 1758 he retired to the Netherlands, living at the estate of Nieuw Amelisweerd near Utrecht. 
-**Abbreviated name**: *Saint-Simon*
+**Abbreviated name**: *Saint-Simon* \[standard form in IPNI: *St.-Simon*\]
 
 #### Herbarium and types
 

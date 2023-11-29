@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33212227) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33212227) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27561-1), [Wikidata](https://www.wikidata.org/wiki/Q21610284). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tavel, Catherine von (1898-x), Swiss mycologist and gardener; studied horticulture at Montmirail (cant. Neuchatel) and Oranienburg (nr Berlin); teacher for horticulture at Brienz 1927; studied with E. Fischer in Bern; Dr. phil. ib. 1932; teacher in horticulture 1932-1944; with a seed firm 1944-1964; niece of Franz von Tavel. 
-**Abbreviated name**: *C. Tavel*
+**Abbreviated name**: *C. Tavel* \[standard form in IPNI: *C.Tavel*\]
 
 #### Herbarium and types
 

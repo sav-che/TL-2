@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33212054) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 50](https://www.biodiversitylibrary.org/page/33212054) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10224-1), [Wikidata](https://www.wikidata.org/wiki/Q21609959). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Strömfeit, Harald Fredrik Georg (1861-1890), Swedish botanist; Dr. phil. Uppsala 1887; lecturer in botany at Uppsala Univ. and Regnellian amanuensis at the Stockholm Riksmuseum 1887-1890; travelled in Iceland 1883. 
-**Abbreviated name**: *Strömf*
+**Abbreviated name**: *Strömf* \[standard form in IPNI: *Strömf.*\]
 
 #### Herbarium and types
 

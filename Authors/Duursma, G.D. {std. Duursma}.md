@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33260201) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33260201) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/20014021-1), [Wikidata](https://www.wikidata.org/wiki/Q14954725). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Duursma, G.D. (fl. 1930), Dutch amateur botanist, succulent specialist living at Leeuwarden. 
-**Abbreviated name**: *Duursma*
+**Abbreviated name**: *Duursma* \[standard form in IPNI: *Duursma*\]
 
 #### Herbarium and types
 

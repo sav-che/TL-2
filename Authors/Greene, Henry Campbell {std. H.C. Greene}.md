@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33258841) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 363](https://www.biodiversitylibrary.org/page/33258841) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19598-1), [Wikidata](https://www.wikidata.org/wiki/Q21514250). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Greene, Henry Campbell (1904-1967), American mycologist, born 13 Dec 1904 in Fort Wayne, Indiana, attended elementary and secondary school in Fort Wayne, then attended Wabash College, Crawfordsville, Indiana for two years, B.A. 1928 and M.A. 1929 Univ. of Washington, Seattle, Ph.D. 1933 Univ. of Wisconsin, Madison, instructor from 1937 and Curator of the Cryptogamic Herb. from 1941, both Univ. of Wisconsin, Madison, died 27 Apr 1967 in Tucson, Arizona. 
-**Abbreviated name**: *H.C. Greene*
+**Abbreviated name**: *H.C. Greene* \[standard form in IPNI: *H.C.Greene*\]
 
 #### Herbarium and types
 

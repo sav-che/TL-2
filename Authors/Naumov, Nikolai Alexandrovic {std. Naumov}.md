@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33355785) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33355785) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23944-1), [Wikidata](https://www.wikidata.org/wiki/Q4314370). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Naumov, Nikolai Alexandrovic (1888-1959), Russian mycologist; Dr. phil. St. Petersburg 1910; later at the Jaczevski Institute of mycology of Leningrad. 
-**Abbreviated name**: *Naumov*
+**Abbreviated name**: *Naumov* \[standard form in IPNI: *Naumov*\]
 
 #### Herbarium and types
 

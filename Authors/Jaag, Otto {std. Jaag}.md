@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33068634) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 392](https://www.biodiversitylibrary.org/page/33068634) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4351-1), [Wikidata](https://www.wikidata.org/wiki/Q2039366). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jaag, Otto (1900-x), Swiss botanist and teacher at Beringen (Kanton Schaffhausen) (1921-1924), who studied with R. Chodat at Genève 1924-1929; subsequently at Zürich. 
-**Abbreviated name**: *Jaag*
+**Abbreviated name**: *Jaag* \[standard form in IPNI: *Jaag*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33068486) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 244](https://www.biodiversitylibrary.org/page/33068486) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/34852-1), [Wikidata](https://www.wikidata.org/wiki/Q21515923). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hoffmann, Johan Frederik (1823-1841), Dutch botanist. 
-**Abbreviated name**: *J. F. Hoffm.*
+**Abbreviated name**: *J. F. Hoffm.* \[standard form in IPNI: *J.F.Hoffm.*\]
 
 #### Herbarium and types
 

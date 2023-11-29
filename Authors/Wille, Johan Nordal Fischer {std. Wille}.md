@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33066645) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33066645) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11693-1), [Wikidata](https://www.wikidata.org/wiki/Q3121969). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wille, Johan Nordal Fischer (1858-1924), Norwegian botanist, especially phycologist; studied botany and geology at the University of Kristiania (Oslo) 1875, phycology with V.B. Wittrock in Uppsala 1878, plant anatomy and embryology with E. Warming in Copenhagen 1881 and S. Schwendener in Berlin 1882; Regnellian curator at the Stockholm Natural History Museum 1883; Dr. phil. Kristiania 1885; professor of botany at Stockholm University 1886; botany teacher at the Agricultural School in Aas, Norway 1889; professor of botany Univ. Kristiania 1893-1924. 
-**Abbreviated name**: *Wille*
+**Abbreviated name**: *Wille* \[standard form in IPNI: *Wille*\]
 
 #### Herbarium and types
 

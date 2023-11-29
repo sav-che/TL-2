@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2019-02-11 10:16:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33189794) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 323](https://www.biodiversitylibrary.org/page/33189794) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24948-1), [Wikidata](https://www.wikidata.org/wiki/Q1968431). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Poiteau, Pierre Antoine (1766-1854), French botanist and botanical artist; gardener at the Jardin des Plantes, Paris 1790; from 1796-1801 at Haiti; subsequently at the botanical garden of the École de médecine and (1855) Chef des Pépinières (Versailles); from 1819-1822 in French Guiana; 1820 professor at an agricultural college in Fromont; ultimately active as editor for the Société d'Horticulture. 
-**Abbreviated name**: *Poit.*
+**Abbreviated name**: *Poit.* \[standard form in IPNI: *Poit.*\]
 
 #### Herbarium and types
 

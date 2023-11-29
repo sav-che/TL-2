@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33355378) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33355378) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6094-1), [Wikidata](https://www.wikidata.org/wiki/Q36547612). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marcialis, Efisio (fl. 1889), Italian botanist at Cagliari 
-**Abbreviated name**: *Marcialis*
+**Abbreviated name**: *Marcialis* \[standard form in IPNI: *Marcialis*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33189781) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 310](https://www.biodiversitylibrary.org/page/33189781) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24937-1), [Wikidata](https://www.wikidata.org/wiki/Q61501). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Poeppig, Eduard Friedrich (1798-1868), German botanist, zoologist and explorer; studied natural sciences (Dr. phil.) at Leipzig; travelled in Cuba (1822-1824), Pennsylvania (1824-1826), Chile (1827-1829), Peru and Brazil (1829-1832); professor of philosophy, zoology and botany at Leipzig (extraord., 1833, ord. 1846), director of the zoological institute 1834; curator of the natural history collections and director of the botanical garden. 
-**Abbreviated name**: *Poepp.*
+**Abbreviated name**: *Poepp.* \[standard form in IPNI: *Poepp.*\]
 
 #### Herbarium and types
 

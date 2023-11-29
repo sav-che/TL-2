@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33266441) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 134](https://www.biodiversitylibrary.org/page/33266441) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1189-1), [Wikidata](https://www.wikidata.org/wiki/Q5468798). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brown, Forest Buffen Harkness (1873-1954), American botanist, born in Rushville, N.Y., educated at Ypsilanti, Michigan, at the Michigan State Normal College, studied at the University of Michigan 1902, A.B. and M.S. 1903, with the forest survey team at Broken Bow, Oklahoma (Bureau of Forestry, USDA), instructor on the Michigan State Normal College and taught plant anatomy at the botany dept. at Ohio State University, in charge of the botanical garden ib. 1911-1916, Ph.D. Yale University, Fellow at Yale University 1918-1919, botanist at the Bishop Museum, Honolulu 1920. 
-**Abbreviated name**: *F. Br.*
+**Abbreviated name**: *F. Br.* \[standard form in IPNI: *F.Br.*\]
 
 #### Herbarium and types
 

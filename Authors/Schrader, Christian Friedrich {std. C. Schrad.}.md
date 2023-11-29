@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33333454) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 315](https://www.biodiversitylibrary.org/page/33333454) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9246-1), [Wikidata](https://www.wikidata.org/wiki/Q20243227). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schrader, Christian Friedrich (174.-1816), German (Prussian) botanist and clergyman; at a teacher's college in Halle, pastor at Burg; ultimately first pastor and inspector of schools and churches at Burg in the Jerichow district nr Magdeburg. 
-**Abbreviated name**: *C. Schrad.*
+**Abbreviated name**: *C. Schrad.* \[standard form in IPNI: *C.Schrad.*\]
 
 #### Herbarium and types
 

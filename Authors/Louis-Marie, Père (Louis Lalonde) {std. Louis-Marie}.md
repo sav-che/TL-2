@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:49.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33355259) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33355259) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5225-1), [Wikidata](https://www.wikidata.org/wiki/Q5981449). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Louis-Marie, Père (Louis Lalonde) (1896-1978), French-Canadian botanist; entered Trappist order at Oka 1917; Ph. D. Harvard 1928; at the Institut agricole, Oka from 1923-1962. 
-**Abbreviated name**: *Louis-Marie*
+**Abbreviated name**: *Louis-Marie* \[standard form in IPNI: *Louis-Marie*\]
 
 #### Herbarium and types
 

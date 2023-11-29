@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33120488) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33120488) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1177-1), [Wikidata](https://www.wikidata.org/wiki/Q1932460). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Broome, Christoph Edmund {std. Broome} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Broome, Christopher Edmund (1812-1886), British mycologist, collaborated with M.J. Berkeley. 
-**Abbreviated name**: *Broome*
+**Abbreviated name**: *Broome* \[standard form in IPNI: *Broome*\]
 
 #### Herbarium and types
 

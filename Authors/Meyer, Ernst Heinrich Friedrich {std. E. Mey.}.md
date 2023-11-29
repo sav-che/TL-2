@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33355531) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 444](https://www.biodiversitylibrary.org/page/33355531) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6413-1), [Wikidata](https://www.wikidata.org/wiki/Q62969). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meyer, Ernst Heinrich Friedrich (1791-1858), Prussian botanist; Dr. med. Göttingen 1819; lecturer Göttingen 1819-1826; from 1826 professor of botany and director of the botanical garden in Königsberg; Dr. phil.h.c. Königsberg 1829. 
-**Abbreviated name**: *E. Mey.*
+**Abbreviated name**: *E. Mey.* \[standard form in IPNI: *E.Mey.*\]
 
 #### Herbarium and types
 

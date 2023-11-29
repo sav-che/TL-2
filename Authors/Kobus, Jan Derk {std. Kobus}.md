@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33068829) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 587](https://www.biodiversitylibrary.org/page/33068829) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4892-1), [Wikidata](https://www.wikidata.org/wiki/Q21517644). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kobus, Jan Derk (1858-1910), Dutch botanist, at the Eastern Java Sugar Experiment Station, Pasuruan, Java. 
-**Abbreviated name**: *Kobus*
+**Abbreviated name**: *Kobus* \[standard form in IPNI: *Kobus*\]
 
 #### Herbarium and types
 

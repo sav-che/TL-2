@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33333181) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33333181) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8841-1), [Wikidata](https://www.wikidata.org/wiki/Q3048575). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Salisbury, Edward James (1886-1978), English botanist; Dr. phil. Univ. College, London; senior lecturer at Queen Mary College, Univ. London; with Univ. College, London 1918-1943, ultimately as Quain professor of botany; director Royal Botanic Gardens Kew 1943-1956; knighted 1946. 
-**Abbreviated name**: *E. Salisb.*
+**Abbreviated name**: *E. Salisb.* \[standard form in IPNI: *E.Salisb.*\]
 
 #### Herbarium and types
 

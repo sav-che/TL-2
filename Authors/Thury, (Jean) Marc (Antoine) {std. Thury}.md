@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33212382) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33212382) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12934-1), [Wikidata](https://www.wikidata.org/wiki/Q21505679). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thury, \[Jean\] Marc \[Antoine\] (1822-1905), Swiss naturalist and teacher; teaching at various private institutions at Nyon, Lausanne, Neuchâtel and Genève 1840-1851; professor of botany at the Faculté des Sciences, Genève from 1851-1900 as well as natural history teacher at the Genève girls high school. 
-**Abbreviated name**: *Thury*
+**Abbreviated name**: *Thury* \[standard form in IPNI: *Thury*\]
 
 #### Herbarium and types
 

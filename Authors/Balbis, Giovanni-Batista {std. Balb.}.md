@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-01-06 11:21:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33120238) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33120238) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/31247-1), [Wikidata](https://www.wikidata.org/wiki/Q2634689). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Balbis, Giovanni-Batista (Jean-Baptiste in France) {std. Balb.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Balbis, Giovanni-Batista (1765-1831), Italian physician and botanist at Torino, pupil of Allioni. 
-**Abbreviated name**: *Balb.*
+**Abbreviated name**: *Balb.* \[standard form in IPNI: *Balb.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33069050) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 808](https://www.biodiversitylibrary.org/page/33069050) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5395-1), [Wikidata](https://www.wikidata.org/wiki/Q6002262). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ledermüller, Martin Frobenius (1719-1769), German "Justizrath" and naturalist at Bayreuth and Nürnberg. 
-**Abbreviated name**: *Lederm.*
+**Abbreviated name**: *Lederm.* \[standard form in IPNI: *Lederm.*\]
 
 #### Herbarium and types
 

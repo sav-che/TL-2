@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33265269) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33265269) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/655-1), [Wikidata](https://www.wikidata.org/wiki/Q5706955). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bennett, Arthur (1843-1929), British builder, house decorator and amateur botanist at Croydon, educated at Mr. Twentyman's Academy, at Fairfield House, afterwards in his father's business until 1929, specialist on *Potamogeton*, active in the British Exchange Club. 
-**Abbreviated name**: *A. Benn.*
+**Abbreviated name**: *A. Benn.* \[standard form in IPNI: *A.Benn.*\]
 
 #### Herbarium and types
 

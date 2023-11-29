@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33189768) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 297](https://www.biodiversitylibrary.org/page/33189768) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7758-1), [Wikidata](https://www.wikidata.org/wiki/Q21606749). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Plitzka, Alfred (1861-?), Austrian-Silesian/Moravian botanist; high school teacher at Neutitschein (Nový Jicín) 1894-1903. 
-**Abbreviated name**: *Plitzka*
+**Abbreviated name**: *Plitzka* \[standard form in IPNI: *Plitzka*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-12-09 08:03:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33265819) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33265819) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17221-1), [Wikidata](https://www.wikidata.org/wiki/Q21508528). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chow, Chung Hwang (fl. 1934-1936), Chinese botanist, research fellow of the China foundation for the promotion of education and culture, studied at the Faculté des Sciences de l'Université de Paris, Dr. phil. ib. 1934. 
-**Abbreviated name**: *C.H. Chow*
+**Abbreviated name**: *C.H. Chow* \[standard form in IPNI: *C.H.Chow*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-10-31 14:07:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33355578) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33355578) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6480-1), [Wikidata](https://www.wikidata.org/wiki/Q2700645). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Miller, John Frederick (1715-c. 1790), British botanical artist; son of Johann Sebastian Müllier (Miller). 
-**Abbreviated name**: *J. F. Mill.*
+**Abbreviated name**: *J. F. Mill.* \[standard form in IPNI: *J.F.Mill.*\]
 
 #### Drawings
 

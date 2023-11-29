@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33355109) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 18](https://www.biodiversitylibrary.org/page/33355109) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5589-1), [Wikidata](https://www.wikidata.org/wiki/Q2259136). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lillo, Miguel (1861-1931), Argentine self-taught botanist; Dr. h.c. Univ. Plata 1914; from 1892 active at the Tucuman "Oficina Químia." 
-**Abbreviated name**: *Lillo*
+**Abbreviated name**: *Lillo* \[standard form in IPNI: *Lillo*\]
 
 #### Herbarium and types
 

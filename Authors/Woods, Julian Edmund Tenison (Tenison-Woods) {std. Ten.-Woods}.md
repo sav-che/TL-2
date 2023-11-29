@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33066785) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 445](https://www.biodiversitylibrary.org/page/33066785) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/10504-1), [Wikidata](https://www.wikidata.org/wiki/Q970015). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Woods, Julian Edmund Tenison \[Tenison-Woods\] (1832-1889), British clergyman, naturalist and botanist; studied at Oxford; to Tasmania 1854 as a lay chaplain; to Australia 1855, working as a journalist and completing his theological studies; ordained priest Rom. Cath. Church 1857; parish priest of Penola, S. Australia 1857-1867; director of Catholic education for Australia 1867-1871; missionary in New South Wales and Queensland 1872-1883, from 1883 dedicating himself fully to natural history; pioneer Australian geologist. 
-**Abbreviated name**: *Ten.-Woods*
+**Abbreviated name**: *Ten.-Woods* \[standard form in IPNI: *Ten.-Woods*\]
 
 #### Herbarium and types
 

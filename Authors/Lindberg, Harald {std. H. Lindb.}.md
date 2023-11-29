@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33355078) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33355078) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22367-1), [Wikidata](https://www.wikidata.org/wiki/Q3127253). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lindberg, Harald (1871-1963), Finnish botanist of Swedish origin; Dr. phil. Helsinki 1909; from 1910 at the Helsinki Botanical Museum; son of S. O. Lindberg. 
-**Abbreviated name**: *H. Lindb.*
+**Abbreviated name**: *H. Lindb.* \[standard form in IPNI: *H.Lindb.*\]
 
 #### Herbarium and types
 

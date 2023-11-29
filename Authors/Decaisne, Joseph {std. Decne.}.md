@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-14 13:28:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 607](https://www.biodiversitylibrary.org/page/33120738) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 607](https://www.biodiversitylibrary.org/page/33120738) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2063-1), [Wikidata](https://www.wikidata.org/wiki/Q966069). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Decaisne, Joseph {std. Decne.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Decaisne, Joseph (1807-1882), Belgian botanist attached to the Paris Muséum national d'Histoire naturelle. 
-**Abbreviated name**: *Decne.*
+**Abbreviated name**: *Decne.* \[standard form in IPNI: *Decne.*\]
 
 #### Herbarium and types
 

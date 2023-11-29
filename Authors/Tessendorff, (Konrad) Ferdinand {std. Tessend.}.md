@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33212270) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33212270) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12922-1), [Wikidata](https://www.wikidata.org/wiki/Q21610491). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tessendorff, \[Konrad\] Ferdinand (1879-1924), German (Prussian) botanist and high school teacher; state teacher's examination Berlin 1905; assistant teacher at the Hohenzollernschule, Berlin-Schöneberg 1906; "Oberlehrer", from 1920 "Oberstudiendirector", at the Helmholtz-Realgymnasium, ib. 1907-1924; on active service 1917-1918; associate of Paul Graebner; librarian of the Botanischer Verein der Mark Brandenburg 1910-1924; associated with the Botanisches Museum, Berlin-Dahlem. 
-**Abbreviated name**: *Tessend.*
+**Abbreviated name**: *Tessend.* \[standard form in IPNI: *Tessend.*\]
 
 #### Herbarium and types
 

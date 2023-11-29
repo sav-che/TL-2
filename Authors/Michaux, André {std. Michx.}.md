@@ -29,14 +29,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-12-05 15:51:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33355543) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33355543) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6431-1), [Wikidata](https://www.wikidata.org/wiki/Q521848). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Michaux, André (1746-1803), French botanist and explorer of Iran (1782-1785), North America (1785-1796); later on a French exploring expedition (1800-1805) under Capt. Baudin as far as Madagascar, where he died. 
-**Abbreviated name**: *Michx.*
+**Abbreviated name**: *Michx.* \[standard form in IPNI: *Michx.*\]
 
 #### Herbarium and types
 

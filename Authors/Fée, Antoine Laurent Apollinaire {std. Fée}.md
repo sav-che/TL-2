@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33120949) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33120949) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18692-1), [Wikidata](https://www.wikidata.org/wiki/Q2627241). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fée, Antoine Laurent Apollinaire {std. Fée} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fée, Antoine Laurent Apollinaire (1789-1874), French pteridologist, professor of botany at Strasbourg. 
-**Abbreviated name**: *Fée*
+**Abbreviated name**: *Fée* \[standard form in IPNI: *Fée*\]
 
 #### Herbarium and types
 

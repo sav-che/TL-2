@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33264963) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 236](https://www.biodiversitylibrary.org/page/33264963) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/366-1), [Wikidata](https://www.wikidata.org/wiki/Q16625476). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bacigalupi, Rimo Charles \[Carlo\] Felix \[Felice\] (1901-x), American botanist in the Bay area, A.B. Stanford University 1923, A.M. ib. 1925, Ph.D. Harvard 1931, assistant in botany Stanford 1923-1924, fellow in botany University of California 1926, also instructor in botany, Mills College 1925, later curator of the Jepson herbarium at the University of California, collected widely in the western United States. 
-**Abbreviated name**: *Bacig.*
+**Abbreviated name**: *Bacig.* \[standard form in IPNI: *Bacig.*\]
 
 #### Herbarium and types
 

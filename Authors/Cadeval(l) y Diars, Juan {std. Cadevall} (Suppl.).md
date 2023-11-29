@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33266603) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 296](https://www.biodiversitylibrary.org/page/33266603) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1346-1), [Wikidata](https://www.wikidata.org/wiki/Q9011870). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cadeval(l) y Diars, Juan {std. Cadevall}|first entry]] for this author
 
 ### Author
 
 \* Cadeval\[l\] y Diars, Juan (1846-1921), Catalonian botanist, born at Castelligalí, Barcelona, educated at the college San Ignacio de Manresa y Tarrasense and studied at the University of Barcelona, Dr. ci. nat. 1873, teacher at the college Tarrasense as professor of nat. hist., physics and geometrics 1870, later agronomist in the province of Barcelona, wrote numerous botanical works on the environment of Barcelona. 
-**Abbreviated name**: *Cadevall*
+**Abbreviated name**: *Cadevall* \[standard form in IPNI: *Cadevall*\]
 
 #### Herbarium and types
 

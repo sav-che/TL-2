@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33189888) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 417](https://www.biodiversitylibrary.org/page/33189888) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7987-1), [Wikidata](https://www.wikidata.org/wiki/Q3147368). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Prokhanov, Yaroslav Ivanovich (1902-1965), Russian botanist; Dr. phil. Leningrad 1924; assistant at the Leningrad botanical garden 1925-1929; on botanical expedition to Mongolia 1926; assistant at the Institute of plant industry 1929. 
-**Abbreviated name**: *Prokh.*
+**Abbreviated name**: *Prokh.* \[standard form in IPNI: *Prokh.*\]
 
 #### Herbarium and types
 

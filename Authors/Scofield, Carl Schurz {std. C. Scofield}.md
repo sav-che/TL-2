@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33333591) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 452](https://www.biodiversitylibrary.org/page/33333591) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9383-1), [Wikidata](https://www.wikidata.org/wiki/Q21608558). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scofield, Carl Schurz (1875-1965), American agricultural botanist; B.S. Univ. Minnesota 1900; with the USDA in various functions 1900-1945. 
-**Abbreviated name**: *C. Scofield*
+**Abbreviated name**: *C. Scofield* \[standard form in IPNI: *Scofield*\]
 
 #### Herbarium and types
 

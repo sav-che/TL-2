@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33120116) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33120116) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/97-1), [Wikidata](https://www.wikidata.org/wiki/Q10314484). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ahlner, Klas {std. K. Ahlner} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Ahlner, Klas (1845-x), Swedish highschool teacher and botanist. 
-**Abbreviated name**: *K. Ahlner*
+**Abbreviated name**: *K. Ahlner* \[standard form in IPNI: *K.Ahlner*\]
 
 #### Herbarium and types
 

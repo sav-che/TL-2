@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33260279) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33260279) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18419-1), [Wikidata](https://www.wikidata.org/wiki/Q11885337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eklund, Ole Arthur (1899-1946), Finnish botanist, born 11 Mar 1899, Korppoo, died 2 Nov 1946, Helsinki, student 1916, Mag. phil. 1925, promotion 1931, 1933-1946 docent at the University of Helsinki. 
-**Abbreviated name**: *O.A. Eklund*
+**Abbreviated name**: *O.A. Eklund* \[standard form in IPNI: *O.A.Eklund*\]
 
 #### Herbarium and types
 

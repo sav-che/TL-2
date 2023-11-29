@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33189717) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33189717) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24829-1), [Wikidata](https://www.wikidata.org/wiki/Q19060038). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pia, Julius \[von\] (1887-1943), Austrian palaeobotanist; Dr. phil. Wien 1911; in various functions at the Natural History Museum ib. from 1913 (Volontär), 1916 (assistant), 1928 (Kustos I. Klasse). 
-**Abbreviated name**: *Pia*
+**Abbreviated name**: *Pia* \[standard form in IPNI: *Pia*\]
 
 #### Collections
 

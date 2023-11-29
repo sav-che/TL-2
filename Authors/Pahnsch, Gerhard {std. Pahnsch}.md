@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33189509) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33189509) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7247-1), [Wikidata](https://www.wikidata.org/wiki/Q12362983). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pahnsch, Gerhard (x-1880), Esthonian botanist. 
-**Abbreviated name**: *Pahnsch*
+**Abbreviated name**: *Pahnsch* \[standard form in IPNI: *Pahnsch*\]
 
 #### Herbarium and types
 

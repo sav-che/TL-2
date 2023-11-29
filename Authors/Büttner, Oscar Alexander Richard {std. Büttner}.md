@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2004-07-13 04:39:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33266517) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33266517) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/13572-1), [Wikidata](https://www.wikidata.org/wiki/Q105814). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Büttner, Oscar Alexander Richard (1858-1927), German botanist and ornithologist, born in Brandenburg a.d. Havel, secondary schooling in Berlin (Luisenstadt) and Potsdam, at the University of Berlin 1877, studying with Ascherson, Eichler, Kny, a.o., teacher at a secondary school at Potsdam 1881, Dr. phil. Berlin 1883, in North Angola and Zaïre 1884-1886 (Kongo exp.), teacher in Berlin 1889, in Togo at the research establishment Bismarckburg 1890-1892, later "Gymnasium Professor" in Berlin. 
-**Abbreviated name**: *Büttner*
+**Abbreviated name**: *Büttner* \[standard form in IPNI: *Büttner*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33265428) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 231](https://www.biodiversitylibrary.org/page/33265428) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16233-1), [Wikidata](https://www.wikidata.org/wiki/Q36673052). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Blumer, Samuel (fl. 1920-1967), Swiss mycologist and phytopathologist at the Botanical Institute and Garden of the University of Bern, ca. 1939 private lecturer. 
-**Abbreviated name**: *S. Blumer*
+**Abbreviated name**: *S. Blumer* \[standard form in IPNI: *S.Blumer*\]
 
 #### Herbarium and types
 

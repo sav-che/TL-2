@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33066508) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33066508) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13000-1), [Wikidata](https://www.wikidata.org/wiki/Q21612405). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weiss, \[Joseph Gustav\] Adolf (1837-1894), Austrian-Silesian botanist; educated at the Gymnasium of Troppau 1847-1855 and the University of Vienna 1855-1858; Dr. phil. ib. 1858; habil. ib. 1860; assistant at the k.k. Hof-Mineralienkabinett 1860-1862; regular professor of botany Lemberg 1862-1871 ("der jüngste Ordinarius Oesterreichs" Skofitz); id. Univ. Prague 1872, founding the first plant physiological institute in the Austrian-Hungarian Empire. 
-**Abbreviated name**: *G.A. Weiss*
+**Abbreviated name**: *G.A. Weiss* \[standard form in IPNI: *G.A.Weiss*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33066807) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 467](https://www.biodiversitylibrary.org/page/33066807) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11882-1), [Wikidata](https://www.wikidata.org/wiki/Q5344827). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wright, Edward Perceval (1834-1910), Irish naturalist; MA Dublin 1857, MD ib. 1862; lecturer in zoology Trinity College, Dublin 1858-1868; professor of botany ib. 1869-1904; keeper of TCD 1870-1910; collected on the Seychelles 1867, in Sicily and Portugal 1868. 
-**Abbreviated name**: *E. Wright*
+**Abbreviated name**: *E. Wright* \[standard form in IPNI: *E.P.Wright*\]
 
 #### Herbarium and types
 

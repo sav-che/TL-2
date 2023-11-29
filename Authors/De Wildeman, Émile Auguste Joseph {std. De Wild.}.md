@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 639](https://www.biodiversitylibrary.org/page/33120770) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 639](https://www.biodiversitylibrary.org/page/33120770) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12406-1), [Wikidata](https://www.wikidata.org/wiki/Q2628388). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[De Wildeman, Émile Auguste Joseph {std. De Wild.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 De Wildeman, Émile Auguste Joseph (1866-1947); Belgian botanist, long time director of the Jardin botanique de 1'État at Bruxelles, pioneer botanist of the study of the Congolese flora. 
-**Abbreviated name**: *De Wild.*
+**Abbreviated name**: *De Wild.* \[standard form in IPNI: *De Wild.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33333405) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 266](https://www.biodiversitylibrary.org/page/33333405) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9184-1), [Wikidata](https://www.wikidata.org/wiki/Q21608204). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schnarf, Karl (1879-1942), Austrian botanist and high school teacher; student of Richard Wettstein in Wien 1899-1904; Dr. phil. Univ. Wien 1904; from 1904-1906 and 1912-1936 at the Bundes-Gymnasium, Wien vi, from 1923 "Privatdozent" for systematic botany at the university, from 1931 with the title of professor. 
-**Abbreviated name**: *Schnarf*
+**Abbreviated name**: *Schnarf* \[standard form in IPNI: *Schnarf*\]
 
 #### Herbarium and types
 

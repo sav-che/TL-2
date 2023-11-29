@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33189534) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33189534) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7349-1), [Wikidata](https://www.wikidata.org/wiki/Q256288). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parkinson, John (1567-1650), British apothecary and herbalist; King's herbarist; had a garden in Long Acre, London. 
-**Abbreviated name**: *Jn. Parkinson*
+**Abbreviated name**: *Jn. Parkinson* \[standard form in IPNI: *John Parkinson*\]
 
 #### Herbarium and types
 

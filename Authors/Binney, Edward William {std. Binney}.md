@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33120348) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33120348) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/796-1), [Wikidata](https://www.wikidata.org/wiki/Q3298684). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Binney, Edward William {std. Binney} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Binney, Edward William (1812-1881), British palaeobotanist. 
-**Abbreviated name**: *Binney*
+**Abbreviated name**: *Binney* \[standard form in IPNI: *Binney*\]
 
 #### Collections
 

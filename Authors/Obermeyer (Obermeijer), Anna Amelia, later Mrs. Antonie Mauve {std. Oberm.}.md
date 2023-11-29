@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2005-01-26 05:58:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33355887) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 800](https://www.biodiversitylibrary.org/page/33355887) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12712-1), [Wikidata](https://www.wikidata.org/wiki/Q4766821). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Obermeyer \[Obermeijer\], Anna Amelia, later Mrs. Antonie Mauve (1907-x), South African botanist at the National Herbarium, Pretoria. 
-**Abbreviated name**: *Oberm.*
+**Abbreviated name**: *Oberm.* \[standard form in IPNI: *Oberm.*\]
 
 #### Herbarium and types
 

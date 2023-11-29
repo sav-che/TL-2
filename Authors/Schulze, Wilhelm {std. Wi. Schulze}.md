@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33333534) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 395](https://www.biodiversitylibrary.org/page/33333534) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9326-1), [Wikidata](https://www.wikidata.org/wiki/Q47125900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schulze, Wilhelm (*fl*. 1899), German (Rheinland-Prussian) botanist. 
-**Abbreviated name**: *Wi. Schulze*
+**Abbreviated name**: *Wi. Schulze* \[standard form in IPNI: *Wilh.Schulze*\]
 
 #### Herbarium and types
 

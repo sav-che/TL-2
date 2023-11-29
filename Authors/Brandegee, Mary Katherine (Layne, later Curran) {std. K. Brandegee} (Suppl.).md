@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33266316) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 9](https://www.biodiversitylibrary.org/page/33266316) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/12335-1), [Wikidata](https://www.wikidata.org/wiki/Q451753). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brandegee, Mary Katherine Layne Curran {std. K. Brandegee}|first entry]] for this author
 
 ### Author
 
 \* Brandegee, Mary Katherine (Layne, later Curran) (1844-1920), American (California) botanist and plant collector, born in W. Tennessee, from 1853 in California, early schooling at a seminary in Folsom, Calif., married Hugh Curran (Irish) 1866-1874, came to San Francisco 1875, studied medicine at the University of California 1875-1878, M.D. 1878, took interest in botany from 1879, curator of the herbarium of the California Academy of Sciences 1883, married Towns===h===end Stith Brandegee 1889, the couple moved to San Diego 1894 setting up their own botanical library and herbarium, returned to Berkeley 1906 continuing botanizing without official appointment. 
-**Abbreviated name**: *K. Brandegee*
+**Abbreviated name**: *K. Brandegee* \[standard form in IPNI: *K.Brandegee*\]
 
 #### Herbarium and types
 

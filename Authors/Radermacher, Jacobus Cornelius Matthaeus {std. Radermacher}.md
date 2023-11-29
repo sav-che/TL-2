@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33190010) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 539](https://www.biodiversitylibrary.org/page/33190010) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8081-1), [Wikidata](https://www.wikidata.org/wiki/Q945130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Radermacher, Jacobus Cornelius Matthaeus (1741-1783), Dutch botanist; to the Dutch East Indies 1758 as general administrator, ultimately "Raad van Indië" (State Council); founder of the Bataviaasch Genootschap van Kunsten en Wetenschappen. 
-**Abbreviated name**: *Radermacher*
+**Abbreviated name**: *Radermacher* \[standard form in IPNI: *Raderm.*\]
 
 #### Herbarium and types
 

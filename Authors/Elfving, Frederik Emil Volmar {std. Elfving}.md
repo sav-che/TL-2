@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33120871) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 740](https://www.biodiversitylibrary.org/page/33120871) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/33028-1), [Wikidata](https://www.wikidata.org/wiki/Q4411433). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Elfving, Frederik Emil Volmar {std. Elfving} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Elfving, Frederik Emil Volmar (1854-1942), Finnish botanist. 
-**Abbreviated name**: *Elfving*
+**Abbreviated name**: *Elfving* \[standard form in IPNI: *Elfving*\]
 
 #### Herbarium and types
 

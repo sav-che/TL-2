@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33355690) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 603](https://www.biodiversitylibrary.org/page/33355690) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6702-1), [Wikidata](https://www.wikidata.org/wiki/Q21521787). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Motelay, Léonce (1830-1917), French shopkeeper and botanist at Bordeaux; active in the Société Linnéenne de Bordeaux. 
-**Abbreviated name**: *Motelay*
+**Abbreviated name**: *Motelay* \[standard form in IPNI: *Motelay*\]
 
 #### Herbarium and types
 

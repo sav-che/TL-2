@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33333851) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33333851) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9842-1), [Wikidata](https://www.wikidata.org/wiki/Q21609154). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Snow, Julia Warner (1863-1927), American algologist; Dr. phil. Zürich 1893; with the University of Michigan 1893-1900, from 1898 as instructor; instructor in botany at Rockford College, Illinois, 1900-1901; botanical assistant (1901), instructor (1902) and associate professor (1906) of botany at Smith College (Mass.), 1900-1927. 
-**Abbreviated name**: *J. Snow*
+**Abbreviated name**: *J. Snow* \[standard form in IPNI: *J.Snow*\]
 
 #### Herbarium and types
 

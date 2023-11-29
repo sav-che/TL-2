@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/page/33212814) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 772](https://www.biodiversitylibrary.org/page/33212814) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/28425-1), [Wikidata](https://www.wikidata.org/wiki/Q21340707). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Voglino, Piero (1864-1933), Italian mycologist; studied at Padua, assistant at the Botanical Institute until 1886; professor at the technical college of Ascona 1886; id. at the R. Liceo at Massa in Carrara 1891; lecturer in botany at Torino Univ. 1895; director of the Cryptogamic Laboratory Casale Monferrato, Piedmont 1896, also lecturer at the Phytopathological Laboratory Torino 1896. 
-**Abbreviated name**: *Voglino*
+**Abbreviated name**: *Voglino* \[standard form in IPNI: *Voglino*\]
 
 #### Herbarium and types
 

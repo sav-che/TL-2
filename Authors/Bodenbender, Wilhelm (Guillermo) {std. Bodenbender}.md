@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33120377) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 246](https://www.biodiversitylibrary.org/page/33120377) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/890-1), [Wikidata](https://www.wikidata.org/wiki/Q9001303). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bodenbender, Wilhelm (Guillermo) (1857-1941) German born Argentine geologist; in Argentina 1885-1941. 
-**Abbreviated name**: *Bodenbender*
+**Abbreviated name**: *Bodenbender* \[standard form in IPNI: *Bodenb.*\]
 
 #### Collections
 

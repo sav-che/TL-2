@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33260104) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33260104) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/34378-1), [Wikidata](https://www.wikidata.org/wiki/Q16944219). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Druery, Charles Thomas (1843-1917), British pteridologist, born 25 Mai 1843, died Acton (Middx.) 8 Aug 1917, president and secretary of the British Pteridological Society, editor of the British Fern Gazette, Druery discovered apospory. 
-**Abbreviated name**: *Druery*
+**Abbreviated name**: *Druery* \[standard form in IPNI: *Druery*\]
 
 #### Herbarium and types
 

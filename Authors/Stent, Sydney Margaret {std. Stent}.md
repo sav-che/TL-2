@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 886](https://www.biodiversitylibrary.org/page/33334025) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 886](https://www.biodiversitylibrary.org/page/33334025) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10098-1), [Wikidata](https://www.wikidata.org/wiki/Q2868331). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stent, Sydney Margaret (1875-1942), South African botanist; caretaker of the Transvaal Dept. Agr. herbarium 1904, subsequently economic botanist and agrostologist ib. until 1930; with the Rhodesian Dept. of Agriculture, Salisbury 1930-1934; in retirement at Pretoria. 
-**Abbreviated name**: *Stent*
+**Abbreviated name**: *Stent* \[standard form in IPNI: *Stent*\]
 
 #### Herbarium and types
 

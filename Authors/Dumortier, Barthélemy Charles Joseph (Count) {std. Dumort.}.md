@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2010-07-14 09:23:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33120829) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 698](https://www.biodiversitylibrary.org/page/33120829) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18271-1), [Wikidata](https://www.wikidata.org/wiki/Q316571). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dumortier, Barthélemy Charles Joseph (also du Mortier) {std. Dumort.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dumortier, Barthélemy Charles Joseph \[Count\] (1797-1878), Belgian politician and botanist. 
-**Abbreviated name**: *Dumort.*
+**Abbreviated name**: *Dumort.* \[standard form in IPNI: *Dumort.*\]
 
 #### Herbarium and types
 

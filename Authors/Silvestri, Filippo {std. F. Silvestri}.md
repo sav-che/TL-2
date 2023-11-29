@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33333740) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 601](https://www.biodiversitylibrary.org/page/33333740) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9655-1), [Wikidata](https://www.wikidata.org/wiki/Q2262181). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Silvestri, Filippo (1873-1949), Italian entomologist and botanist; educated at the University of Palermo; with the Laboratory of comparative anatomy, Univ. Roma and at the Dept. of Zool., Museum Buenos Aires (1898-1899); director of the Zoological Station, Portici 1904-1948; in retirement 1948-1949. 
-**Abbreviated name**: *F. Silvestri*
+**Abbreviated name**: *F. Silvestri* \[standard form in IPNI: *F.Silvestri*\]
 
 #### Herbarium and types
 

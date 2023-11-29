@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33266611) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 304](https://www.biodiversitylibrary.org/page/33266611) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/12371-1), [Wikidata](https://www.wikidata.org/wiki/Q21506838). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cajander, (Kalela), Aarno (Aino Aarno Antero), Finnish botanist after 1935 Aarno Kalela (1908-1977). 
-**Abbreviated name**: *A. Cajander*
+**Abbreviated name**: *A. Cajander* \[standard form in IPNI: *A.Cajander*\]
 
 #### Herbarium and types
 

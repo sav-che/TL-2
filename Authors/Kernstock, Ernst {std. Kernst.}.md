@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33068773) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33068773) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4744-1), [Wikidata](https://www.wikidata.org/wiki/Q21062274). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kernstock, Ernst (1852-1900), Austrian botanist and high school teacher at Bozen and Klagenfurt. 
-**Abbreviated name**: *Kernst.*
+**Abbreviated name**: *Kernst.* \[standard form in IPNI: *Kernst.*\]
 
 #### Herbarium and types
 

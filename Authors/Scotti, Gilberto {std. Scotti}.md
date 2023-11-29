@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33333601) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 462](https://www.biodiversitylibrary.org/page/33333601) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9394-1), [Wikidata](https://www.wikidata.org/wiki/Q21608572). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scotti, Gilberto (1818-1880), Italian botanist. 
-**Abbreviated name**: *Scotti*
+**Abbreviated name**: *Scotti* \[standard form in IPNI: *Scotti*\]
 
 #### Herbarium and types
 

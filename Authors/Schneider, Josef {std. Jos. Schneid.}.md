@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33333414) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 275](https://www.biodiversitylibrary.org/page/33333414) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/35152-1), [Wikidata](https://www.wikidata.org/wiki/Q21608222). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schneider, Josef (x-1885), Austrian botanist; assistant at the botanical museum and garden of the University of Wien. 
-**Abbreviated name**: *Jos. Schneid.*
+**Abbreviated name**: *Jos. Schneid.* \[standard form in IPNI: *J.Schneid.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-08-28 08:14:58.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33068767) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 525](https://www.biodiversitylibrary.org/page/33068767) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4740-1), [Wikidata](https://www.wikidata.org/wiki/Q78746). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kerner von Marilaun, Anton Joseph, Ritter (1831-1898); Austrian botanist, Dr. med. Wien 1854; high school teacher at Budapest 1855-1858, at the Polytechnic 1858-1860; director of the Innsbruck (1860-1878), and of the Vienna botanical garden (1878-1898); outstanding floristic botanist, plant geographer and popular writer. 
-**Abbreviated name**: *A. Kern*
+**Abbreviated name**: *A. Kern* \[standard form in IPNI: *A.Kern.*\]
 
 #### Herbarium and types
 

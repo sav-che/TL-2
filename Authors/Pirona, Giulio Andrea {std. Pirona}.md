@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33189745) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33189745) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7726-1), [Wikidata](https://www.wikidata.org/wiki/Q14886396). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pirona, Giulio Andrea (1822-1895), Italian botanist; Dr. med. Padova 1846; from 1851-1887 lecturer at the Ginnasio liceale and Udine medical college as well as practicing physician at Udine, from 1887 with the title "professore effetivo". 
-**Abbreviated name**: *Pirona*
+**Abbreviated name**: *Pirona* \[standard form in IPNI: *Pirona*\]
 
 #### Herbarium and types
 

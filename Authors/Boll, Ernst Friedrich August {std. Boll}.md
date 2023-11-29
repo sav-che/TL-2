@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33120394) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33120394) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/929-1), [Wikidata](https://www.wikidata.org/wiki/Q105708). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boll, Ernst Friedrich August {std. Boll} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Boll, Ernst Friedrich August (1817-1868) (sic, not 1867), German botanist at Neubrandenburg (Mecklenburg). 
-**Abbreviated name**: *Boll*
+**Abbreviated name**: *Boll* \[standard form in IPNI: *Boll*\]
 
 #### Herbarium and types
 

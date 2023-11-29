@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33355370) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33355370) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6078-1), [Wikidata](https://www.wikidata.org/wiki/Q348455). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mantell, Gideon Algernon (1790-1852), British palaeontologist and surgeon at Lewes and London. 
-**Abbreviated name**: *Mantell*
+**Abbreviated name**: *Mantell* \[standard form in IPNI: *Mantell*\]
 
 #### Herbarium and types
 

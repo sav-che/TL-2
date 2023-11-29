@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33265382) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 185](https://www.biodiversitylibrary.org/page/33265382) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/20016878-1), [Wikidata](https://www.wikidata.org/wiki/Q921572). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bjurzon, Jonas (1810-1882), Swedish (Värmland) botanist, studied at the University of Uppsala from 1838. 
-**Abbreviated name**: *Bjurzon*
+**Abbreviated name**: *Bjurzon* \[standard form in IPNI: *Bjurzon*\]
 
 #### Herbarium and types
 

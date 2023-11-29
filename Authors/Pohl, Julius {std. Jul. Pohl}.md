@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33189788) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 317](https://www.biodiversitylibrary.org/page/33189788) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7785-1), [Wikidata](https://www.wikidata.org/wiki/Q21523065). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pohl, Julius (1861-1939), German botanist; professor of pharmacology at the German University of Prag (1895). 
-**Abbreviated name**: *Jul. Pohl*
+**Abbreviated name**: *Jul. Pohl* \[standard form in IPNI: *J.Pohl*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33189843) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 372](https://www.biodiversitylibrary.org/page/33189843) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7918-1), [Wikidata](https://www.wikidata.org/wiki/Q21523174). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pradal, Émile (1795-1874), French botanist and physician; surgeon-dentist at Nantes. 
-**Abbreviated name**: *Pradal*
+**Abbreviated name**: *Pradal* \[standard form in IPNI: *Pradal*\]
 
 #### Herbarium and types
 

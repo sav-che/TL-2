@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33066628) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33066628) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13015-1), [Wikidata](https://www.wikidata.org/wiki/Q21612675). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilcox, Edwin \[Forrest\] Mead (1876-1931), American agricultural botanist and plant pathologist; B.S. Ohio State 1896; Dr. phil. Harvard 1899; assistant in botany Ohio State 1894-1897; fellow Harvard 1899-1900; in Buitenzorg (Bogor), Indonesia 1900; professor of botany and entomology, Oklahoma Agr. Mech. College 1900-1901; biologist and horticulturist Alabama Polytechnic Inst., Auburn 1901-1904; professor of botany Alabama Experiment Station 1904-1908; professor of agricultural botany Nebraska Exp. Sta. and State botanist 1908-1920; director Santo Domingo Exp. Sta. 1920-1921; professor of biology Transylvania College 1924-1926; assistant John Crerar Library 1924-1926; director Agronomical Station and College of Agriculture Haina, East Lansing, Mich. from 1927. 
-**Abbreviated name**: *E.M. Wilcox*
+**Abbreviated name**: *E.M. Wilcox* \[standard form in IPNI: *Wilcox*\]
 
 #### Herbarium and types
 

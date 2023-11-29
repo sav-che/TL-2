@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33120208) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33120208) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/314-1), [Wikidata](https://www.wikidata.org/wiki/Q1372378). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Askenasy, Eugen {std. Ask.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Askenasy, Eugen (1845-1903), Russian-German algologist, after 1881 at Heidelberg. 
-**Abbreviated name**: *Ask.*
+**Abbreviated name**: *Ask.* \[standard form in IPNI: *Askenasy*\]
 
 #### Herbarium and types
 

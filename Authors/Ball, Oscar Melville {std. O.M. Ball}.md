@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33265032) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 305](https://www.biodiversitylibrary.org/page/33265032) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/31257-1), [Wikidata](https://www.wikidata.org/wiki/Q21505595). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ball, Oscar Melville (1868-1942), Palaeobotanist and botanist, B.A. University of Virginia 1896, Ph.D. Leipzig (with W. Pfeffer) 1904; from 1903 at the Agricultural and Mechanical College of Texas. 
-**Abbreviated name**: *O.M. Ball*
+**Abbreviated name**: *O.M. Ball* \[standard form in IPNI: *O.M.Ball*\]
 
 #### Herbarium and types
 

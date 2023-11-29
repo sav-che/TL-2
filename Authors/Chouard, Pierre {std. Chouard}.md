@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33265814) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33265814) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1617-1), [Wikidata](https://www.wikidata.org/wiki/Q6075517). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chouard, Pierre (1903-1983), French botanist, born in Paris, 20 Oct 1903, studied at the University of Paris, "licencié Sciences physiques" 1922, id. natural sciences 1924, at the E.N.S. 1924, agrég. 1927, "doctorat d'État" 1930, professor at the École nationale d'Horticulture de Versailles 1932-1935, id. at the Conservatoire National des Arts et Métiers Agriculture 1938-1955, also Maître de Conférence at the Science Faculty of Bordeaux 1935-1937, one of the editors of the Revue horticule 1934-1950, membre de l'Académie de France 1952, president 1978, from 1953 professeur titulaire for botanical physiology at the Sorbonne, died 11 Dec 1983. 
-**Abbreviated name**: *Chouard*
+**Abbreviated name**: *Chouard* \[standard form in IPNI: *Chouard*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33265380) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 183](https://www.biodiversitylibrary.org/page/33265380) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16175-1), [Wikidata](https://www.wikidata.org/wiki/Q21506153). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bizot, Maurice \[Louis Jean\] (1905-1979), French pharmacist and bryologist, studied at the University of Nancy, Dr. phil. 1937, chief pharmacist at the Centre Hospitalier, Dijon, professor and later assessor and dean at the Faculté de Pharmacie of the École nationale de Médecine et Pharmacie de Dijon. 
-**Abbreviated name**: *Bizot*
+**Abbreviated name**: *Bizot* \[standard form in IPNI: *Bizot*\]
 
 #### Herbarium and types
 

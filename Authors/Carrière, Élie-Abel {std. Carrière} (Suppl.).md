@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-08-03 07:42:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33266729) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33266729) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1419-1), [Wikidata](https://www.wikidata.org/wiki/Q274614). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Carrière, Élie Abel {std. Carrière}|first entry]] for this author
 
 ### Author
 
 \* Carrière, Élie-Abel (1818-1896), French horticulturist at Paris, born at May-en-Multien (Seine-et-Marne), educated at a primary school at May-en-Multien, market-gardener at Aunet, gardener at the Muséum nationale d'histoire naturelle, soon "chef de culture" of the living plants until 1869, "chef" of the Revue horticole for 30 years. 
-**Abbreviated name**: *Carrière*
+**Abbreviated name**: *Carrière* \[standard form in IPNI: *Carrière*\]
 
 #### Herbarium and types
 

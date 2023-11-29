@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33190401) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 930](https://www.biodiversitylibrary.org/page/33190401) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8651-1), [Wikidata](https://www.wikidata.org/wiki/Q5954623). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rothschild, Jules (1838-?), French publisher and horticulturist. 
-**Abbreviated name**: *Rothschild*
+**Abbreviated name**: *Rothschild* \[standard form in IPNI: *Rothsch.*\]
 
 #### Herbarium and types
 

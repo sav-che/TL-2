@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1055](https://www.biodiversitylibrary.org/page/33190526) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1055](https://www.biodiversitylibrary.org/page/33190526) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12261-1), [Wikidata](https://www.wikidata.org/wiki/Q973094). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sagra, Ramón de la (1798-1871), Spanish economist, agriculturist and botanist; director of a botanical garden at Havana, Cuba and professor of botany at the University 1822-1835; working on his collections and his *Hist. fis. Cuba* at Paris from 1836. 
-**Abbreviated name**: *Sagra*
+**Abbreviated name**: *Sagra* \[standard form in IPNI: *Sagra*\]
 
 #### Herbarium and types
 

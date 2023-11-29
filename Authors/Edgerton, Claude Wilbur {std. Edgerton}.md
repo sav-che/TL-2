@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33260245) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 257](https://www.biodiversitylibrary.org/page/33260245) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18364-1), [Wikidata](https://www.wikidata.org/wiki/Q18715892). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Edgerton, Claude Wilbur (1880-1965), American botanist, born 9 Mar 1880 at Woodbine, Iowa, B.S. 1903 from Nebraska, Ph.D. at Cornell 1908, at the Louisiana Experiment Station as plant pathologist 1908-1924, became professor of botany and plant pathology at Louisiana University 1924-190, died 6 Apr 1965 at Baton Rouge. 
-**Abbreviated name**: *Edgerton*
+**Abbreviated name**: *Edgerton* \[standard form in IPNI: *Edgerton*\]
 
 #### Herbarium and types
 

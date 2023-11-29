@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33212119) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 77](https://www.biodiversitylibrary.org/page/33212119) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12899-1), [Wikidata](https://www.wikidata.org/wiki/Q1870088). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Suckow \[Succow\], Laurenz (later: Lorenz) Johann Daniel (1722-1801), German (Mecklenburg) physicist and naturalist; Mag. phil. Jena 1746; lecturer at Jena, subsequently high school teacher of mathematics in Hamburg, from 1756 professor of mathematics and physics at the University of Jena; "weimarischer Kammerrath", father of Georg Adolph Suckow. 
-**Abbreviated name**: *L. Suckow*
+**Abbreviated name**: *L. Suckow* \[standard form in IPNI: *L.Suckow*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33120621) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 490](https://www.biodiversitylibrary.org/page/33120621) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1558-1), [Wikidata](https://www.wikidata.org/wiki/Q21508289). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Chauvin, François Joseph (1797-1859), French algologist. 
-**Abbreviated name**: *Chauv.*
+**Abbreviated name**: *Chauv.* \[standard form in IPNI: *Chauv.*\]
 
 #### Herbarium and types
 

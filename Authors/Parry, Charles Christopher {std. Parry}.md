@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33189550) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 79](https://www.biodiversitylibrary.org/page/33189550) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7369-1), [Wikidata](https://www.wikidata.org/wiki/Q650220). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parry, Charles Christopher (1823-1890), English-born American botanist and explorer; to the United States 1832; Dr. med Columbia 1846; with the Mexican Boundary Survey 1849-1861; exploring the Rocky Mountains 1861-1867; with the Pacific Railroad Survey 1867-1869; with the U.S. Dept. of Agriculture 1869-1872; from then on free-lance explorer in Utah, Nevada, California and Mexico; "king of Colorado Botany" (J.D. Hooker). 
-**Abbreviated name**: *Parry*
+**Abbreviated name**: *Parry* \[standard form in IPNI: *Parry*\]
 
 #### Herbarium and types
 

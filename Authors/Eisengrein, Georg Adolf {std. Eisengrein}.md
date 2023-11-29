@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33120870) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 739](https://www.biodiversitylibrary.org/page/33120870) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2495-1), [Wikidata](https://www.wikidata.org/wiki/Q21511653). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eisengrein, Georg Adolf (1799-1857), German botanist, professor of botany at Freiburg im Breisgau. 
-**Abbreviated name**: *Eisengrein*
+**Abbreviated name**: *Eisengrein* \[standard form in IPNI: *Eisengr.*\]
 
 #### Herbarium and types
 

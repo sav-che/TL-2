@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33355594) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 507](https://www.biodiversitylibrary.org/page/33355594) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23430-1), [Wikidata](https://www.wikidata.org/wiki/Q19161090). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Minks, Arthur (1846-1908), German physician and lichenologist at Stettin. 
-**Abbreviated name**: *Minks*
+**Abbreviated name**: *Minks* \[standard form in IPNI: *Minks*\]
 
 #### Herbarium and types
 

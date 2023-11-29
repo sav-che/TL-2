@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33190299) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33190299) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8479-1), [Wikidata](https://www.wikidata.org/wiki/Q21607297). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rodet, Henri Jean Antoine (1810-1875), French botanist; teacher at the veterinary college of Lyon; later at Toulouse. 
-**Abbreviated name**: *Rodet*
+**Abbreviated name**: *Rodet* \[standard form in IPNI: *Rodet*\]
 
 #### Herbarium and types
 

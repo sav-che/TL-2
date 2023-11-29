@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33258934) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 456](https://www.biodiversitylibrary.org/page/33258934) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19743-1), [Wikidata](https://www.wikidata.org/wiki/Q21514383). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Guinet, \[Jean Étienne\] Auguste (1846-1928), Swiss businessman and botanist, born 23 Mai 1846 in Carouge (Geneva), he botanized during his free time and became a member of the Bot. Soc. Geneva in 1877 (when founded), built a considerable herb. that was incorporated into the Delessert Herb., after 1879 he began microscope studies of cryptogams, particularly lich., then mosses and hepatics, from 1908 asst. curator of mosses at Geneva (under J.I. Briquet), retired 1925, died 3 Aug 1928 in Geneva. 
-**Abbreviated name**: *Guinet*
+**Abbreviated name**: *Guinet* \[standard form in IPNI: *Guinet*\]
 
 #### Herbarium and types
 

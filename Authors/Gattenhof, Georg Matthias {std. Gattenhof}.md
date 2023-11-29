@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/page/33121051) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 920](https://www.biodiversitylibrary.org/page/33121051) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3046-1), [Wikidata](https://www.wikidata.org/wiki/Q21513818). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gattenhof, Georg Matthias (1722-1788), German botanist in Heidelberg. 
-**Abbreviated name**: *Gattenhof*
+**Abbreviated name**: *Gattenhof* \[standard form in IPNI: *Gattenhof*\]
 
 #### Herbarium and types
 

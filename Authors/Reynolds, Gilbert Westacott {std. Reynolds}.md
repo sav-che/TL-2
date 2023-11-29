@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33190221) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 750](https://www.biodiversitylibrary.org/page/33190221) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8328-1), [Wikidata](https://www.wikidata.org/wiki/Q5512554). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Reynolds, Gilbert Westacott (1895-1967), Australian-born (of English parents) South-African botanist; specialist in *Aloe*; educated at St. John's College, Johannesburg; served in the 1914-1918 war; practicing as an optician 1917-1960; in retirement in Swaziland 1960-1967. 
-**Abbreviated name**: *Reynolds*
+**Abbreviated name**: *Reynolds* \[standard form in IPNI: *Reynolds*\]
 
 #### Herbarium and types
 

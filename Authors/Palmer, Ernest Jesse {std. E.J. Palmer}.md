@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33189463) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33189463) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7283-1), [Wikidata](https://www.wikidata.org/wiki/Q2877550). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Palmer, Ernest Jesse (1875-1962), English-born American botanist and forester; came to the U.S. in 1878; collector for the Missouri Botanical Garden and the Arnold Arboretum; on the staff of the Arnold Arboretum 1921-1948; student of *Crataegus*. 
-**Abbreviated name**: *E.J. Palmer*
+**Abbreviated name**: *E.J. Palmer* \[standard form in IPNI: *E.J.Palmer*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:02.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33189627) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 156](https://www.biodiversitylibrary.org/page/33189627) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24712-1), [Wikidata](https://www.wikidata.org/wiki/Q3887349). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Penzig, Albert Julius Otto \[later: Alberto Giulio Ottone\] (1856-1929), German (Silesian) botanist, from 1878 in Italy, Italian citizen 1882; Dr. phil. Breslau 1877; at Pavia with Garovaglio 1878-1879; with Saccardo at Padua 1879-1883; at the Stazione agronomica, Modena 1883-1886; professor of botany and director of the botanical garden, Genova 1887 (Jan)-1929; in Java Nov 1896-Apr 1897. 
-**Abbreviated name**: *Penz.*
+**Abbreviated name**: *Penz.* \[standard form in IPNI: *Penz.*\]
 
 #### Herbarium and types
 

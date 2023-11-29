@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2018-08-20 15:11:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33120636) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 505](https://www.biodiversitylibrary.org/page/33120636) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1659-1), [Wikidata](https://www.wikidata.org/wiki/Q116148). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Claparède, Jean Louis René Antoine Édouard (1830-1871), Swiss zoologist. 
-**Abbreviated name**: *Claparède*
+**Abbreviated name**: *Claparède* \[standard form in IPNI: *Clap.*\]
 
 #### Collections
 

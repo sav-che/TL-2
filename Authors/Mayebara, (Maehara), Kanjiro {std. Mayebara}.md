@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33355473) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 386](https://www.biodiversitylibrary.org/page/33355473) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23098-1), [Wikidata](https://www.wikidata.org/wiki/Q21520167). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mayebara, \[Maehara\], Kanjiro (*fl*. 1931-1955), Japanese botanist. 
-**Abbreviated name**: *Mayebara*
+**Abbreviated name**: *Mayebara* \[standard form in IPNI: *Mayeb.*\]
 
 #### Herbarium and types
 

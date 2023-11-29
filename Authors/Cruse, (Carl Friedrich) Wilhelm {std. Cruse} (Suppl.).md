@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33266164) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 487](https://www.biodiversitylibrary.org/page/33266164) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1901-1), [Wikidata](https://www.wikidata.org/wiki/Q1038108). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Cruse, Carl Friedrich Wilhelm {std. Cruse}|first entry]] for this author
 
 ### Author
 
 \* Cruse, \[Carl Friedrich\] Wilhelm (1803-1873), German (born in Mitau (Latvia)) physician and botanist, professor in the University of Königsberg. 
-**Abbreviated name**: *Cruse*
+**Abbreviated name**: *Cruse* \[standard form in IPNI: *Cruse*\]
 
 #### Herbarium and types
 

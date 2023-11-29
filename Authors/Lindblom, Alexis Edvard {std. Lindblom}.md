@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33355088) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 39](https://www.biodiversitylibrary.org/page/33355088) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5607-1), [Wikidata](https://www.wikidata.org/wiki/Q5954302). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lindblom, Alexis Edvard (1807-1853), Swedish botanist; founder and first editor of Botaniska Notiser; Dr. phil. Lund 1826, lecturer at Lund 1831-1851; travelled in Norway 1826, 1837, 1839. 
-**Abbreviated name**: *Lindblom*
+**Abbreviated name**: *Lindblom* \[standard form in IPNI: *Lindblom*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33260368) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 380](https://www.biodiversitylibrary.org/page/33260368) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/33040-1), [Wikidata](https://www.wikidata.org/wiki/Q36604201). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Enwald, Kurt Henrik (1877-1961), Finnish botanist. 
-**Abbreviated name**: *Enwald*
+**Abbreviated name**: *Enwald* \[standard form in IPNI: *Enwald*\]
 
 #### Herbarium and types
 

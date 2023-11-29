@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33355334) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 247](https://www.biodiversitylibrary.org/page/33355334) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22743-1), [Wikidata](https://www.wikidata.org/wiki/Q5972025). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Magnusson, Adolf Hugo (1885-1964), Swedish lichenologist; studied at Uppsala; pupil of R. Sernander; teacher at Göteborg from 1909-1948. 
-**Abbreviated name**: *Magnusson*
+**Abbreviated name**: *Magnusson* \[standard form in IPNI: *H.Magn.*\]
 
 #### Herbarium and types
 

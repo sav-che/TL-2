@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33266558) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 251](https://www.biodiversitylibrary.org/page/33266558) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16737-1), [Wikidata](https://www.wikidata.org/wiki/Q3298330). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Burlingham, Gertrude Simmons {std. Burl.}|first entry]] for this author
 
 ### Author
 
 Burlingham, Gertrude Simmons (1872-1952), American botanist and biology teacher, born 21 Apr 1872, Mexico, N.Y., died 11 Jan 1952, at Syracuse University AB 1896, preceptress Ovid Union School, N.Y. 1896-1898, Winter Park, Florida, teacher biol. sci. Binghamton H.S., N.Y. 1898-1905, Columbia University Ph.D. 1908, teacher of biology in High School, Brooklyn 1908-1934, later at Winter Park, Florida. 
-**Abbreviated name**: *Burl.*
+**Abbreviated name**: *Burl.* \[standard form in IPNI: *Burl.*\]
 
 #### Herbarium and types
 

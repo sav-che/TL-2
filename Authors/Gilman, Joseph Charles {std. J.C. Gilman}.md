@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33258704) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33258704) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19353-1), [Wikidata](https://www.wikidata.org/wiki/Q21514013). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gilman, Joseph Charles (1890-1966), American mycologist, born 23 Mar 1890 in Hastings, Nebraska, B.S. 1912 and M.S. 1914 Univ. of Wisconsin, Madison, Ph.D. 1915 Washington Univ., St. Louis, Prof. of Biology, Ripon College, Ripon, Wisconsin 1915-1918, Asst. Plant Pathologist 1918-1921, Asst. Prof. 1921-1924, Assoc. Prof. 1924-1934 and Prof. of Botany 1934-1966, all at Iowa State College (now Iowa State Univ.), Ames, Iowa, president, Iowa Academy of Science 1945 and Mycological Society of Amer. 1951-1952, died 24 Dec 1966 in Ames. 
-**Abbreviated name**: *J.C. Gilman*
+**Abbreviated name**: *J.C. Gilman* \[standard form in IPNI: *J.C.Gilman*\]
 
 #### Herbarium and types
 

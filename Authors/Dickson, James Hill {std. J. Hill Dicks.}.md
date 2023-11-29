@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33259337) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 291](https://www.biodiversitylibrary.org/page/33259337) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/20019477-1), [Wikidata](https://www.wikidata.org/wiki/Q21510373). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dickson, James Hill (c. 1795-1867), British nurseryman, head of the firm of James Dickson & Sons and of the Newton nurseries, Chester (Cheshire), died 28 Dec 1876. 
-**Abbreviated name**: *J. Hill Dicks.*
+**Abbreviated name**: *J. Hill Dicks.* \[standard form in IPNI: *J.Hill Dicks.*\]
 
 #### Herbarium and types
 

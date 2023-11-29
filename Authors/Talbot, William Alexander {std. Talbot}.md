@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33212197) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 155](https://www.biodiversitylibrary.org/page/33212197) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12284-1), [Wikidata](https://www.wikidata.org/wiki/Q6167553). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Talbot, William Alexander (1847-1917), Irish botanist; in the Indian Forest Service 1876 in the Bombay Presidency; conservator of Forests, Bombay 1901-1909; in Switzerland from 1911. 
-**Abbreviated name**: *Talbot*
+**Abbreviated name**: *Talbot* \[standard form in IPNI: *Talbot*\]
 
 #### Herbarium and types
 

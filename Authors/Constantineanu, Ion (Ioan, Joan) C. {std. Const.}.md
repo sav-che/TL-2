@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33265985) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 308](https://www.biodiversitylibrary.org/page/33265985) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1770-1), [Wikidata](https://www.wikidata.org/wiki/Q21508968). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Constantineanu, Ion \[Ioan, Joan\] C. (1860-1931), Romanian mycologist at the Intstitutul de Botanicǎ sistematicǎ, Muzeu şi grǎdina botanicǎ Universitatea "Regele Ferdinand I" at Bucarest, Dr. phil. Halle 1907. 
-**Abbreviated name**: *Const.*
+**Abbreviated name**: *Const.* \[standard form in IPNI: *Const.*\]
 
 #### Herbarium and types
 

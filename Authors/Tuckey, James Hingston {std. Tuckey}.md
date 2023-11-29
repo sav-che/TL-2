@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33212569) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33212569) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10892-1), [Wikidata](https://www.wikidata.org/wiki/Q746453). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tuckey, James Hingston (1776-1816), British commander in the navy and explorer; in the British navy from 1793, lieutenant 1800, first lieutenant 1802; on the Calcutta to New South Wales to survey Port Philipp 1802-1804; in French captivity 1805-1814, commander 1814; on the Congo to the Zaire river 1816. 
-**Abbreviated name**: *Tuckey*
+**Abbreviated name**: *Tuckey* \[standard form in IPNI: *Tuckey*\]
 
 #### Herbarium and types
 

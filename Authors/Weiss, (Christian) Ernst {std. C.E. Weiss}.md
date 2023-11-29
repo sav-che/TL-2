@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33066504) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 164](https://www.biodiversitylibrary.org/page/33066504) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12999-1), [Wikidata](https://www.wikidata.org/wiki/Q14252464). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weiss, \[Christian\] Ernst (1833-1890), German (Prussian-Saxony) palaeontologist; studied at Halle and Berlin; state teacher's examination 1858; Dr. phil. Halle 1859; teacher at the royal mining school in Saarbrücken 1860; lecturer Univ. Bonn 1868; from 1878 state geologist and professor at the mining academy in Berlin. 
-**Abbreviated name**: *C.E. Weiss*
+**Abbreviated name**: *C.E. Weiss* \[standard form in IPNI: *C.E.Weiss*\]
 
 #### Herbarium and types
 

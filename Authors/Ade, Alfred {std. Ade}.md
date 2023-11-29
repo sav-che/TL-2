@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33264717) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 28](https://www.biodiversitylibrary.org/page/33264717) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/30651-1), [Wikidata](https://www.wikidata.org/wiki/Q8195254). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ade, Alfred (1876-1968), German amateur botanist, born in Sarbogard in Hungary, educated in München at the Max-Gymnasium (1887-1893), at the Veterinarian college in München; district veterinarian at Brückenau from 1912, later idem at Gemünden a. Main, Dr. h.c. University of Würzburg 1951. 
-**Abbreviated name**: *Ade*
+**Abbreviated name**: *Ade* \[standard form in IPNI: *Ade*\]
 
 #### Herbarium and types
 

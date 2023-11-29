@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33069060) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 818](https://www.biodiversitylibrary.org/page/33069060) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5428-1), [Wikidata](https://www.wikidata.org/wiki/Q47121020). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lehmann, August (*fl*. 1869), German botanist; high school teacher at Torgau (on Elbe, Saxonia). 
-**Abbreviated name**: *A. Lehm.*
+**Abbreviated name**: *A. Lehm.* \[standard form in IPNI: *Aug.Lehm.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33069005) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 763](https://www.biodiversitylibrary.org/page/33069005) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5306-1), [Wikidata](https://www.wikidata.org/wiki/Q3083755). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Latapie, François de Paule A. (1739-1823), French botanist at Bordeaux University. 
-**Abbreviated name**: *Latap.*
+**Abbreviated name**: *Latap.* \[standard form in IPNI: *Latap.*\]
 
 #### Herbarium and types
 

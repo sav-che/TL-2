@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33068692) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 450](https://www.biodiversitylibrary.org/page/33068692) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4518-1), [Wikidata](https://www.wikidata.org/wiki/Q3101670). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Johnston, George (1797-1855), British physician and naturalist; MD Edinburgh 1819; surgeon at Berwick from 1819. 
-**Abbreviated name**: *G. Johnst.*
+**Abbreviated name**: *G. Johnst.* \[standard form in IPNI: *Johnst.*\]
 
 #### Herbarium
 

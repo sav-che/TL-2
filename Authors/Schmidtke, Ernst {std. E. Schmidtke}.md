@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33333400) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33333400) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9172-1), [Wikidata](https://www.wikidata.org/wiki/Q36550152). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidtke, Ernst (*fl*. 1934), German (Prussian) bryologist at Zoppot nr Danzig. 
-**Abbreviated name**: *E. Schmidtke*
+**Abbreviated name**: *E. Schmidtke* \[standard form in IPNI: *Schmidtke*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:47.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33266430) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33266430) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/14622-1), [Wikidata](https://www.wikidata.org/wiki/Q6792916). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brooks, Maurice Graham (1900-x), American botanist, studied at West Virginia University, A.B. 1923, M.S. 1935, assistant leader St. 4...H Club 1923-1926, at Upshur College and High School assistant principal 1926-1933, instructor in biology 1935. 
-**Abbreviated name**: *M.G. Brooks*
+**Abbreviated name**: *M.G. Brooks* \[standard form in IPNI: *M.G.Brooks*\]
 
 #### Herbarium and types
 

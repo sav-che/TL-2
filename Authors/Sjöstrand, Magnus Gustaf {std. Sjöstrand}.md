@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33333762) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33333762) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9708-1), [Wikidata](https://www.wikidata.org/wiki/Q21609004). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sjöstrand, Magnus Gustaf (1807-1880), Swedish botanist and clergyman; studied at Uppsala; ordained 1841; assistant vicar at Torslunda in Oland 1856 \[1857\], parish priest 1870. 
-**Abbreviated name**: *Sjöstrand*
+**Abbreviated name**: *Sjöstrand* \[standard form in IPNI: *Sjöstr.*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33265707) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 30](https://www.biodiversitylibrary.org/page/33265707) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1487-1), [Wikidata](https://www.wikidata.org/wiki/Q5667427). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Chabert, Alfred {std. Chabert}|first entry]] for this author
 
 ### Author
 
 \* Chabert, Alfred \[Charles\] (1836-1916), Italian born French surgeon and botanist at Chambéry, studied medicine at the Faculty of Torino, Dr. méd. ib., 1858, physician with the French army in Savoie accepting the french nationality 1860, subsequently idem at Lyon, Algeria and Belfort, 1870-71 with the army at the Rhine, Chevalier Légion d'honneur with hospitals at Algeria 1871-1875, Chambéry 1875-1880, Bastia 1880-1882, Saumur 1882-1883, médecin-chef at La Rochelle and at Lille 1883, Marseille 1884-1886, and at Algeria 1886-1888, finally director of the "Service de Santé" at Rennes, 1889 in retirement. 
-**Abbreviated name**: *Chabert*
+**Abbreviated name**: *Chabert* \[standard form in IPNI: *Chabert*\]
 
 #### Herbarium and types
 

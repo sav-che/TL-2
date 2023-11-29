@@ -24,16 +24,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/page/33121110) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 979](https://www.biodiversitylibrary.org/page/33121110) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3323-1), [Wikidata](https://www.wikidata.org/wiki/Q5636481). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gran, Haaken Hasberg {std. Gran} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gran, Haaken Hasberg (1870-1955), Norwegian algologist. 
-**Abbreviated name**: *Gran*
+**Abbreviated name**: *Gran* \[standard form in IPNI: *Gran*\]
 
 #### Herbarium and types
 

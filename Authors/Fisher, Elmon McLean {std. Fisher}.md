@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33259727) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 223](https://www.biodiversitylibrary.org/page/33259727) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/13382-1), [Wikidata](https://www.wikidata.org/wiki/Q21339689). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fisher, Elmon McLean (1861-1938), American botanist and tradesman, born 19 Aug 1861 in Johnson Co., Indiana, attended Franklin College, Franklin, Indiana, asst. to J.M. Coulter, with whom he also published on new American plants ca. 1892-1896, Ph.D. 1902 Indiana Univ., in later years a businessman at Urmeyville nr. Needham, Indiana, dealing in grain, flour, meal and coal, died 10 \[8?\] Sep 1938 in Needham. 
-**Abbreviated name**: *Fisher*
+**Abbreviated name**: *Fisher* \[standard form in IPNI: *Fisher*\]
 
 #### Herbarium and types
 

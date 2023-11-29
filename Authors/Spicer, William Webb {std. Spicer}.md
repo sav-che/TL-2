@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/page/33333928) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 789](https://www.biodiversitylibrary.org/page/33333928) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9967-1), [Wikidata](https://www.wikidata.org/wiki/Q21609287). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spicer, William Webb (1820-1879), British clergyman and botanist; M.A. Oxford 1848; rector at Itchen Abbas, Kants., England 1850-1874; in Tasmania from 1874-1878. 
-**Abbreviated name**: *Spicer*
+**Abbreviated name**: *Spicer* \[standard form in IPNI: *Spicer*\]
 
 #### Herbarium and types
 

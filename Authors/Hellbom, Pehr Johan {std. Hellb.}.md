@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33068386) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 144](https://www.biodiversitylibrary.org/page/33068386) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3804-1), [Wikidata](https://www.wikidata.org/wiki/Q5798956). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hellbom, Pehr Johan (1827-1903), Swedish lichenologist, high school teacher at Örebro; Dr. phil. Uppsala 1851. 
-**Abbreviated name**: *Hellb.*
+**Abbreviated name**: *Hellb.* \[standard form in IPNI: *Hellb.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1049](https://www.biodiversitylibrary.org/page/33190520) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1049](https://www.biodiversitylibrary.org/page/33190520) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8800-1), [Wikidata](https://www.wikidata.org/wiki/Q6088004). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saelan, \[Anders\] Thiodolf (1834-1921), Finnish physician and botanist; Dr. med. Helsinki 1865; amanuensis at the Botanical Museum ib. 1859-1866; practicing physician 1861-1865; physician (1865) and head-physician at Lappvik hospital 1868-1904; professor's title 1877; Dr. phil. h.c. 1907. 
-**Abbreviated name**: *Saelan*
+**Abbreviated name**: *Saelan* \[standard form in IPNI: *Saelan*\]
 
 #### Herbarium and types
 

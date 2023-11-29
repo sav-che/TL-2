@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33069002) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33069002) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5289-1), [Wikidata](https://www.wikidata.org/wiki/Q21518393). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Larber, Giovanni (1785-1845), Italian physican and botanist at Bassano. 
-**Abbreviated name**: *Larber*
+**Abbreviated name**: *Larber* \[standard form in IPNI: *Larber*\]
 
 #### Herbarium and types
 

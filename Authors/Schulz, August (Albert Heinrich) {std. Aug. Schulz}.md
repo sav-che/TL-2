@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33333522) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 383](https://www.biodiversitylibrary.org/page/33333522) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9305-1), [Wikidata](https://www.wikidata.org/wiki/Q20733505). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schulz, August \[Albert Heinrich\] (1862-1922), German (Prussian) botanist; studied medicine at Halle, state examination 1890; Dr. phil. Halle 1893, habil. ib. 1894; lecturer at Halle under Gregor Kraus 1894; professor's title 1908; librarian of the "Leopoldina" 1918. 
-**Abbreviated name**: *Aug. Schulz*
+**Abbreviated name**: *Aug. Schulz* \[standard form in IPNI: *A.A.H.Schulz*\]
 
 #### Herbarium and types
 

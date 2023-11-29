@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33355442) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33355442) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6198-1), [Wikidata](https://www.wikidata.org/wiki/Q16030399). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Massalongo, Caro Benigno (1852-1928), Italian botanist at Ferrara; son of A. B. Massalongo. 
-**Abbreviated name**: *C. Massal.*
+**Abbreviated name**: *C. Massal.* \[standard form in IPNI: *C.Massal.*\]
 
 #### Herbarium and types
 

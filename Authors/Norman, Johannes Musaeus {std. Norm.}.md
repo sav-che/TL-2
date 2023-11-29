@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33355858) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 771](https://www.biodiversitylibrary.org/page/33355858) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/24155-1), [Wikidata](https://www.wikidata.org/wiki/Q1786150). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Norman, Johannes Musaeus (1823-1903), Norwegian botanist; med. cand. Oslo 1847; lecturer (universitets-stipendiat) at Oslo 1849-1850, 1855-1859; from 1860-1876 forester in Troms and Finnmark. 
-**Abbreviated name**: *Norm.*
+**Abbreviated name**: *Norm.* \[standard form in IPNI: *Norman*\]
 
 #### Herbarium and types
 

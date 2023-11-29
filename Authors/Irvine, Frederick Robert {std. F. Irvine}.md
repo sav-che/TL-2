@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33068630) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33068630) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4310-1), [Wikidata](https://www.wikidata.org/wiki/Q21516783). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Irvine, Frederick Robert (1898-1962), British botanist; from 1924-1940 lecturer at Achimota College, Ghana; in England 1940-1961; at Legon, Ghana 1961-1962. 
-**Abbreviated name**: *F. Irvine*
+**Abbreviated name**: *F. Irvine* \[standard form in IPNI: *F.Irvine*\]
 
 #### Herbarium and types
 

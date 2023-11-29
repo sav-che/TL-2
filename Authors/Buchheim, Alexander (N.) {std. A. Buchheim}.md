@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33266502) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 195](https://www.biodiversitylibrary.org/page/33266502) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16659-1), [Wikidata](https://www.wikidata.org/wiki/Q47114770). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buchheim, Alexander \[N.\] (1886-?), Russian botanist (Rostow at Don) who studied at the University of Bern, Dr. phil. Bern 26 Feb 1915. 
-**Abbreviated name**: *A. Buchheim*
+**Abbreviated name**: *A. Buchheim* \[standard form in IPNI: *A.Buchheim*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33355224) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33355224) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/12658-1), [Wikidata](https://www.wikidata.org/wiki/Q6214875). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Löfgren, Albert \[Loefgren, Alberto\] (1854-1918), Swedish-born botanist who settled (1874) in Brazil; director of the São Paulo botanical garden 1898-1906; ultimately at the botanical garden of Rio de Janeiro 
-**Abbreviated name**: *Loefgr.*
+**Abbreviated name**: *Loefgr.* \[standard form in IPNI: *Loefgr.*\]
 
 #### Herbarium and types
 

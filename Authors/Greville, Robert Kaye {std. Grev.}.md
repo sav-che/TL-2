@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/page/33121132) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1001](https://www.biodiversitylibrary.org/page/33121132) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3381-1), [Wikidata](https://www.wikidata.org/wiki/Q1386773). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Greville, Robert Kaye {std. Grev.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Greville, Robert Kaye (1794-1866), British botanist at Edinburgh. 
-**Abbreviated name**: *Grev.*
+**Abbreviated name**: *Grev.* \[standard form in IPNI: *Grev.*\]
 
 #### Herbarium and types
 

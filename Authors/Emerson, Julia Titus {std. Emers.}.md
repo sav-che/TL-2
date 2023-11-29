@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33260321) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 333](https://www.biodiversitylibrary.org/page/33260321) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18477-1), [Wikidata](https://www.wikidata.org/wiki/Q21512038). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Emerson, Julia Titus (1877-1962), American botanist, born 6 Apr 1877 at New York City, visited College of pharmacy Columbia University 1898, Teachers Coll. ib. 1898-1899, at Woods Hole 1899-1904, also Briarcliff Manor Agric. School 1901 and New York Botanical Garden 1902-1904, 1903-1904 as laboratory assistant, private tutor in botany in 1906, died 1962. 
-**Abbreviated name**: *Emers.*
+**Abbreviated name**: *Emers.* \[standard form in IPNI: *Emers.*\]
 
 #### Herbarium and types
 

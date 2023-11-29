@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33265582) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 385](https://www.biodiversitylibrary.org/page/33265582) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1023-1), [Wikidata](https://www.wikidata.org/wiki/Q5544565). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Boulger, George Edward Simmonds {std. Boulger}|first entry]] for this author
 
 ### Author
 
 \* Boulger, George \[Edward\] Simmonds (1853-1922), British botanist, born at Bletchingley, Surrey, educated at Wellington and Epsom Colleges as well as at the "Middle Temple", professor of natural history at the Royal Agricultural College, Cirencester 1876, from 1884 lecturer on botany and geology at the City of London College, id. also at the Imperial Institute from 1917, active in the Essex Field Club and the Selborne Society, historian of British botany. 
-**Abbreviated name**: *Boulger*
+**Abbreviated name**: *Boulger* \[standard form in IPNI: *Boulger*\]
 
 #### Herbarium and types
 

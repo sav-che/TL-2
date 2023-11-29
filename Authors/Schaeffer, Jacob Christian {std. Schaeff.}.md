@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33333244) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 105](https://www.biodiversitylibrary.org/page/33333244) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12818-1), [Wikidata](https://www.wikidata.org/wiki/Q66661). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schaeffer, Jacob Christian (1718-1790), German (Saxony-born Bavarian) botanist, zoologist and theologist and clergyman; studied theology at Halle; private teacher at Regensburg 1738-1740; pastor and teacher at the protestant seminary at Regensburg 1741; Dr. phil. Wittenberg 1760; Dr. theol. Tübingen 1763; pastor and superintendent of the Regensburg protestant community 1779-1790. 
-**Abbreviated name**: *Schaeff.*
+**Abbreviated name**: *Schaeff.* \[standard form in IPNI: *Schaeff.*\]
 
 #### Herbarium and types
 

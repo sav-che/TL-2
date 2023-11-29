@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33259572) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 68](https://www.biodiversitylibrary.org/page/33259572) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/35512-1), [Wikidata](https://www.wikidata.org/wiki/Q2839791). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Faure, Alphonse (1865-1958), French teacher and botanist, born 7 Mar 1865 in Monêtier-les-Briançon (now Monnétier-les-Bains) (Hautes-Alpes), teacher in Briançon, later in Gap and finally in Téus 1900, returned to Gap but was sent to Oran, Algeria in 1903 as departmental teacher, worked with C. Arvet-Touvet on *Hieracium* of the Alps, made extensive collections in Algeria and Morocco, awarded Prix de Coincy 1950, died 28 Jan 1958 in Oran. 
-**Abbreviated name**: *Faure*
+**Abbreviated name**: *Faure* \[standard form in IPNI: *Faure*\]
 
 #### Herbarium and types
 

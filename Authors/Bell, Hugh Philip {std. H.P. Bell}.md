@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265260) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33265260) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/15899-1), [Wikidata](https://www.wikidata.org/wiki/Q21505912). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bell, Hugh Philip (1889-x), Canadian (Halifax N.S.-born) botanist. 
-**Abbreviated name**: *H.P. Bell*
+**Abbreviated name**: *H.P. Bell* \[standard form in IPNI: *H.P.Bell*\]
 
 #### Herbarium and types
 

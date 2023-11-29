@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33212332) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 290](https://www.biodiversitylibrary.org/page/33212332) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10624-1), [Wikidata](https://www.wikidata.org/wiki/Q1369447). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thonning, Peter (1775-1848), Danish botanist; studied medicine and natural sciences at Copenhagen; on a botanical expedition to Danish Guinea \[now in Ghana\] with O. Haaslund Smith 1799-1803 studying natural resources and dye plants; after 1807 in various functions, from 1829 co-director of the Royal Natural History Museum. 
-**Abbreviated name**: *Thonn.*
+**Abbreviated name**: *Thonn.* \[standard form in IPNI: *Thonn.*\]
 
 #### Herbarium and types
 

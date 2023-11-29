@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33068815) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 573](https://www.biodiversitylibrary.org/page/33068815) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4864-1), [Wikidata](https://www.wikidata.org/wiki/Q89822). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Knaut, Christian (1654-1716), German botanist at Halle, brother of Christoph Knauth. 
-**Abbreviated name**: *Knaut*
+**Abbreviated name**: *Knaut* \[standard form in IPNI: *Knaut*\]
 
 #### Herbarium and types
 

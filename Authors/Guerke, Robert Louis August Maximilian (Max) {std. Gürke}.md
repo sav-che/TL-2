@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1020](https://www.biodiversitylibrary.org/page/33121151) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1020](https://www.biodiversitylibrary.org/page/33121151) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/12524-1), [Wikidata](https://www.wikidata.org/wiki/Q71382). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gürke (Guerke), Robert Louis August Maximilian (Max) {std. Gürke} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Guerke, Robert Louis August Maximilian (Max) (1854-1911), German botanist at Berlin. 
-**Abbreviated name**: *Guerke*
+**Abbreviated name**: *Guerke* \[standard form in IPNI: *Gürke*\]
 
 #### Herbarium and types
 

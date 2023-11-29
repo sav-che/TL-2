@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33333144) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 43](https://www.biodiversitylibrary.org/page/33333144) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8909-1), [Wikidata](https://www.wikidata.org/wiki/Q21607728). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sapetza, Josef (1829-1868), Moravian botanist; ultimately high school teacher at Rakovac nr. Karlstadt (Karlovac, Károlyváros) in Croatia (then a free royal city of Hungary). 
-**Abbreviated name**: *Sapetza*
+**Abbreviated name**: *Sapetza* \[standard form in IPNI: *Sapetza*\]
 
 #### Herbarium and types
 

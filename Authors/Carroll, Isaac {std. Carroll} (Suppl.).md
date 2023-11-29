@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266732) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 425](https://www.biodiversitylibrary.org/page/33266732) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1422-1), [Wikidata](https://www.wikidata.org/wiki/Q21340726). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Carroll, Isaac {std. Carroll}|first entry]] for this author
 
 ### Author
 
 \* Carroll, Isaac (1828-1880), Irish lichenologist, born at Aghada, County Cork, interested in first instance in the plants (soon mainly the lichens) of the counties Cork and Kerry, making often collections with David Moore (q.v.), visited Lapland 1864 as well as Iceland. 
-**Abbreviated name**: *Carroll*
+**Abbreviated name**: *Carroll* \[standard form in IPNI: *Carroll*\]
 
 #### Herbarium and types
 

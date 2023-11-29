@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33355670) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 583](https://www.biodiversitylibrary.org/page/33355670) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6654-1), [Wikidata](https://www.wikidata.org/wiki/Q3188808). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morière, Pierre Gilles, calles Jules (1817-1888), French botanist and palaeontologist; high school teacher at Condé-sur-Noireau 1837-1838, at Caen from 1838-1859; director Jardin botanique de la ville de Caen (1859-1871); professor of botany at the Faculté des Sciences de Caen from 1859; longtime secretary of the Société Linnéenne de Normandie (c. 1859-1888); Dr. sci. Lyon 1859. 
-**Abbreviated name**: *Morière*
+**Abbreviated name**: *Morière* \[standard form in IPNI: *Morière*\]
 
 #### Herbarium and types
 

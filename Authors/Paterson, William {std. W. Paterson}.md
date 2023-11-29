@@ -26,14 +26,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33189564) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33189564) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7384-1), [Wikidata](https://www.wikidata.org/wiki/Q1716747). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Paterson, William (1755-1810), British naturalist, traveller and administrator; collected in South Africa 1777-1779; to India 1781-1785, to Australia 1791, collected for Banks; Lieut.-Governor New South Wales 1800-1810. 
-**Abbreviated name**: *W. Paterson*
+**Abbreviated name**: *W. Paterson* \[standard form in IPNI: *Paterson*\]
 
 #### Herbarium and types
 

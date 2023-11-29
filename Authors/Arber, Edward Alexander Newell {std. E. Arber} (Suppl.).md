@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33264868) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 141](https://www.biodiversitylibrary.org/page/33264868) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/250-1), [Wikidata](https://www.wikidata.org/wiki/Q5341538). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Arber, Edward Alexander Newell {std. E. Arber}|first entry]] for this author
 
 ### Author
 
 \* Arber, Edward Alexander Newell (1870-1918), British palaeobotanist, stayed at Davos at the age of 15 for health reasons, educated at King Edward's School, Birmingham, at Mason's College and University College London; gardening in the Royal Horticultural Society's gardens at Chiswick 1893-1894; to Trinity College Cambridge 1895, studying botany; demonstrator on palaeobotany ib., working at the Sedgwick Museum until 1918; married Agnes Robertson \[Arber\]. 
-**Abbreviated name**: *E. Arber*
+**Abbreviated name**: *E. Arber* \[standard form in IPNI: *E.Arber*\]
 
 #### Herbarium and types
 

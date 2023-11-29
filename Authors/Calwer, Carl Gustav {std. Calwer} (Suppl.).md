@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33266625) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33266625) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1365-1), [Wikidata](https://www.wikidata.org/wiki/Q78413). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Calwer, Carl Gustav {std. Calwer}|first entry]] for this author
 
 ### Author
 
 \* Calwer, Carl Gustav (1821-1873), German "Revierförster" (quarter ranger) at the Reichenberg near Backnang, N. Württemberg. 
-**Abbreviated name**: *Calwer*
+**Abbreviated name**: *Calwer* \[standard form in IPNI: *Calwer*\]
 
 #### Herbarium and types
 

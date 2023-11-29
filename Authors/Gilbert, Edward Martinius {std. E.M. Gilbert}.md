@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33258685) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33258685) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19322-1), [Wikidata](https://www.wikidata.org/wiki/Q21513989). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gilbert, Edward Martinius (1875-1956), American mycologist, born 20 Sep 1875 in Blair, Wisconsin, graduated 1901 Normal School, Stevens Point, Wisconsin, taught high school in n. Wisconsin, Ph.B. 1907 and Ph.D. 1914, Univ. of Wisconsin at Madison, Asst. Prof. 1913, Prof. 1922 and Chairman 1925, all Botany Dept., Univ. of Wisconsin at Madison, retired 1946, died 23 Apr 1956 in San Marcos, Texas. 
-**Abbreviated name**: *E.M. Gilbert*
+**Abbreviated name**: *E.M. Gilbert* \[standard form in IPNI: *E.M.Gilbert*\]
 
 #### Herbarium and types
 

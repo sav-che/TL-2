@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/page/33212561) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 519](https://www.biodiversitylibrary.org/page/33212561) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10877-1), [Wikidata](https://www.wikidata.org/wiki/Q6170028). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tsiang, Ying (1898-1982), Chinese botanist; professor of botany at the College of Agriculture of South China, Shek-P'ai, Canton (Guangzhou, Guandong); member of the editorial board of the Flora reipublicae popularis sinicae and honorary president of the Botanical Society of China. 
-**Abbreviated name**: *Tsiang*
+**Abbreviated name**: *Tsiang* \[standard form in IPNI: *Tsiang*\]
 
 #### Herbarium and types
 

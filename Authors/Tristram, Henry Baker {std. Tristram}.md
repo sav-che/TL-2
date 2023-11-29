@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33212541) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 499](https://www.biodiversitylibrary.org/page/33212541) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10832-1), [Wikidata](https://www.wikidata.org/wiki/Q1345157). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tristram, Henry Baker (1822-1906), British clergyman, traveller and naturalist; BA Oxford 1844, naval chaplain Ireland Island, Bermuda 1847-1849, rector of Castle Eden (Durham) 1849-1860; master of Greatham hospital and vicar of Greatham (Durham) 1860-1874, canon of Durham 1870, resid. 1874; LL.D. Edinburgh 1868; travelled in the Sahara 1855-1856, 1856-1857, and in Palestine and Egypt 1857-1858 and 1863-1864. 
-**Abbreviated name**: *Tristram*
+**Abbreviated name**: *Tristram* \[standard form in IPNI: *Tristram*\]
 
 #### Herbarium and types
 

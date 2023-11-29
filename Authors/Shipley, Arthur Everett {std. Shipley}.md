@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33333704) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 565](https://www.biodiversitylibrary.org/page/33333704) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/35151-1), [Wikidata](https://www.wikidata.org/wiki/Q2343873). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shipley, Arthur Everett (1861-1927), British phytopathologist and entomologist; studied at Christ's College, Cambridge, fellow 1887, master 1910-1927; demonstrator comparative anatomy Univ. Cambridge 1886; lecturer 1894, reader in zoology 1908-1920. 
-**Abbreviated name**: *Shipley*
+**Abbreviated name**: *Shipley* \[standard form in IPNI: *Shipley*\]
 
 #### Herbarium and types
 

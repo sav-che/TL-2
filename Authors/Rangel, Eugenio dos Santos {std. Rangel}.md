@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33190048) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33190048) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8137-1), [Wikidata](https://www.wikidata.org/wiki/Q21606951). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rangel, Eugenio dos Santos (*fl*. 1931), Brazilian agronomist and phytopathologist; head of the serviço de phytopathologia of the Instituto biologico de defessa agricola. 
-**Abbreviated name**: *Rangel*
+**Abbreviated name**: *Rangel* \[standard form in IPNI: *Rangel*\]
 
 #### Herbarium and types
 

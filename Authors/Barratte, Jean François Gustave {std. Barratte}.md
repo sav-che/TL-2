@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33265066) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 339](https://www.biodiversitylibrary.org/page/33265066) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/501-1), [Wikidata](https://www.wikidata.org/wiki/Q2813936). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Barratte, Jean François Gustave (1857-1920), French botanist, sometime curator of the herbarium of E. Cosson in Paris; collected in Tunis. 
-**Abbreviated name**: *Barratte*
+**Abbreviated name**: *Barratte* \[standard form in IPNI: *Barratte*\]
 
 #### Herbarium and types
 

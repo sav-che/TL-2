@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33212298) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33212298) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10564-1), [Wikidata](https://www.wikidata.org/wiki/Q16943809). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thévenau, Antonio Victor (1814/1815-1876), French physician and botanist at Béziers; from 1867 in Agde. 
-**Abbreviated name**: *Thévenau*
+**Abbreviated name**: *Thévenau* \[standard form in IPNI: *Thévenau*\]
 
 #### Herbarium and types
 

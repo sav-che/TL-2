@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33068294) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 52](https://www.biodiversitylibrary.org/page/33068294) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3655-1), [Wikidata](https://www.wikidata.org/wiki/Q21394979). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hardy, Apollon Joseph (1846-1929), Belgian botanist and high school teacher at Gilly, Tournai and, from 1884, at the middle school of Visé 
-**Abbreviated name**: *Hardy*
+**Abbreviated name**: *Hardy* \[standard form in IPNI: *A.J.Hardy*\]
 
 #### Herbarium and types
 

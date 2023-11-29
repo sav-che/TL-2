@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265989) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 312](https://www.biodiversitylibrary.org/page/33265989) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1775-1), [Wikidata](https://www.wikidata.org/wiki/Q73508). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Conwentz, Hugo Wilhelm {std. Conw.}|first entry]] for this author
 
 ### Author
 
 \* Conwentz, Hugo Wilhelm (1855-1922), German botanist, born in Danzig, at the Realschule I. Ordnung, later Realgymnasium at St. Johann in Danzig 1862-1873, studied natural sciences in Breslau 1873-1876, sometime at Göttingen, assistant with Göppert at Breslau 1876-1879, Dr. phil. 1876, Director of the Westpreussischen Provinzialmuseum 1880-1910, from 1910 at Berlin. 
-**Abbreviated name**: *Conw.*
+**Abbreviated name**: *Conw.* \[standard form in IPNI: *Conw.*\]
 
 #### Herbarium and types
 

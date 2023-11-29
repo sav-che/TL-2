@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33190224) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 753](https://www.biodiversitylibrary.org/page/33190224) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8333-1), [Wikidata](https://www.wikidata.org/wiki/Q9096066). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rhind, William (*fl*. 1830-1860), British (Scottish) botanist; lecturer in botany, Marischal College, Aberdeen. 
-**Abbreviated name**: *Rhind*
+**Abbreviated name**: *Rhind* \[standard form in IPNI: *Rhind*\]
 
 #### Herbarium and types
 

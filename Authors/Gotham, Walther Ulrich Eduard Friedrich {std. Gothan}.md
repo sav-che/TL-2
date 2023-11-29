@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 973](https://www.biodiversitylibrary.org/page/33121104) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 973](https://www.biodiversitylibrary.org/page/33121104) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/3287-1), [Wikidata](https://www.wikidata.org/wiki/Q105203). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Gothan, Walther (Walter) (Ulrich Eduard Friedrich) {std. Gothan} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Gotham, Walther Ulrich Eduard Friedrich (1879-1954), German palaeontologist. 
-**Abbreviated name**: *Gothan*
+**Abbreviated name**: *Gothan* \[standard form in IPNI: *Gothan*\]
 
 #### Collections
 

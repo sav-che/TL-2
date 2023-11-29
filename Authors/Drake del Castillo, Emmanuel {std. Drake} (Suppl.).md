@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33260074) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 86](https://www.biodiversitylibrary.org/page/33260074) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2302-1), [Wikidata](https://www.wikidata.org/wiki/Q1338265). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Drake del Castillo, Emmanuel {std. Drake}|first entry]] for this author
 
 ### Author
 
 \* Drake del Castillo, Emmanuel (1855-1904), French botanist of British-Cuban-French ancestry, born 28 Dec 1855 at Paris, studied at Paris, received his "baccalauréat ès lettres", studied after that at the faculty of law, went finally to work at the Muséum d'histoire naturelle, in 1878 working with Ed. Bureau in his "laboratoire des Hautes-Études" 1880-1882, studied later on the flora of French Polynesia, French Guyana, Tonkin and Madagascar, possessed a very large private herbarium and library, died 15 Mai 1904 in Saint-Cyran-du-Jambot (Indre). 
-**Abbreviated name**: *Drake*
+**Abbreviated name**: *Drake* \[standard form in IPNI: *Drake*\]
 
 #### Herbarium and types
 

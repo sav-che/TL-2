@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33120323) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 192](https://www.biodiversitylibrary.org/page/33120323) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/15996-1), [Wikidata](https://www.wikidata.org/wiki/Q662338). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Berkeley, Rev. Miles Joseph {std. Berk.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Berkeley, Rev. Miles Joseph (1803-1889), British clergyman and cryptogamist. 
-**Abbreviated name**: *Berk.*
+**Abbreviated name**: *Berk.* \[standard form in IPNI: *Berk.*\]
 
 #### Herbarium and types
 

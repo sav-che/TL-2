@@ -24,16 +24,15 @@ ipni_record_modified: 2013-05-15 11:43:48.0
 
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 896](https://www.biodiversitylibrary.org/page/33121027) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 896](https://www.biodiversitylibrary.org/page/33121027) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/19028-1), [Wikidata](https://www.wikidata.org/wiki/Q66899). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fuckel, (Karl Wilhelm Gottlieb) Leopold {std. Fuckel} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fuckel, Karl Wilhelm Gottlieb Leopold (1821-1876), German mycologist. 
-**Abbreviated name**: *Fuckel*
+**Abbreviated name**: *Fuckel* \[standard form in IPNI: *Fuckel*\]
 
 #### Herbarium and types
 

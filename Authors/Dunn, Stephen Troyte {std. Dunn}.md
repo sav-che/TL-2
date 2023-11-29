@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33120833) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 702](https://www.biodiversitylibrary.org/page/33120833) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2383-1), [Wikidata](https://www.wikidata.org/wiki/Q925156). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dunn, Stephen Troyte {std. Dunn} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dunn, Stephen Troyte (1868-1938), British botanist, assistant for India at Kew, stationed in Hongkong and travelled in China 1903-1910. 
-**Abbreviated name**: *Dunn*
+**Abbreviated name**: *Dunn* \[standard form in IPNI: *Dunn*\]
 
 #### Herbarium and types
 

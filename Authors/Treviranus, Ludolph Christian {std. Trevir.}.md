@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/page/33212517) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/page/33212517) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10815-1), [Wikidata](https://www.wikidata.org/wiki/Q62277). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Treviranus, Ludolph Christian (1779-1864), German(Bremen) botanist; studied medicine and natural sciences at Jena; Dr. med. ib. 1801; practicing physician at Bremen but dedicating himself mainly to botany 1801-1807; third professor of medicine at the Bremen Lyceum (Gymnasium illustre) 1807-1812; ordinary professor of natural history and practicing physician in Rostock 1812-1816; professor of natural history at Breslau 1816-1830; professor of botany Bonn from 1830. 
-**Abbreviated name**: *Trevir.*
+**Abbreviated name**: *Trevir.* \[standard form in IPNI: *Trevir.*\]
 
 #### Herbarium and types
 

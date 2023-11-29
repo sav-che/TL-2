@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33066303) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33066303) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11284-1), [Wikidata](https://www.wikidata.org/wiki/Q1382171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wachendorff, Evert Jacob van (1702-1758), Dutch physician and botanist; studied medicine in Leiden and Utrecht; Dr. med. 1724; municipal physician of Utrecht 1726-1758; lecturer in chemistry at the University 1726-1743; professor of medicine, chemistry and botany 1743-1758. 
-**Abbreviated name**: *Wachendorff*
+**Abbreviated name**: *Wachendorff* \[standard form in IPNI: *Wach.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:50.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33334016) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 877](https://www.biodiversitylibrary.org/page/33334016) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10083-1), [Wikidata](https://www.wikidata.org/wiki/Q5684715). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steinheil, Adolph \[Adolphe\] (1810-1839), Alsatian botanist; studied pharmacy, chemistry and botany at Strasbourg and Paris; military pharmacist and surgeon in various places in France; id. in Algeria 1830-1834; id. in Strasbourg 1835-1838; traveller for the Muséum d'Histoire naturelle 1839; died at sea between Martinique and Venezuela. 
-**Abbreviated name**: *Steinh.*
+**Abbreviated name**: *Steinh.* \[standard form in IPNI: *Steinh.*\]
 
 #### Herbarium and types
 

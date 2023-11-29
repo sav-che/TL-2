@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33189514) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33189514) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7229-1), [Wikidata](https://www.wikidata.org/wiki/Q21522498). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pabst. Gustav (x-1911), German (Thuringian) botanist, artist and surveyor at Gera. 
-**Abbreviated name**: *G. Pabst*
+**Abbreviated name**: *G. Pabst* \[standard form in IPNI: *G.Pabst*\]
 
 #### Herbarium and types
 

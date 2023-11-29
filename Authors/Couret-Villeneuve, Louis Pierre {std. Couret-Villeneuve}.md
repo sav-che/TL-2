@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33266101) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 424](https://www.biodiversitylibrary.org/page/33266101) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/20020198-2), [Wikidata](https://www.wikidata.org/wiki/Q20084499). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Couret-Villeneuve, Louis Pierre (1749-1806), French botanist and horticulturist, born in Orléans, from 1800 (1801) director of the Botanical Garden of the University of Gent \[Gand\], Belgium. 
-**Abbreviated name**: *Couret-Villeneuve*
+**Abbreviated name**: *Couret-Villeneuve* \[standard form in IPNI: *Couret-Vill.*\]
 
 #### Herbarium and types
 

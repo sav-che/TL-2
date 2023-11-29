@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33068265) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 23](https://www.biodiversitylibrary.org/page/33068265) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3580-1), [Wikidata](https://www.wikidata.org/wiki/Q21514564). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hall, Thomas Batt (1814-1886), British naturalist at Coggeshall, Essex (1814-1835, 1839-1852), Liverpool (1835-1839), in Australia (1852-1886). 
-**Abbreviated name**: *T. Hall*
+**Abbreviated name**: *T. Hall* \[standard form in IPNI: *T.B.Hall*\]
 
 #### Herbarium and types
 

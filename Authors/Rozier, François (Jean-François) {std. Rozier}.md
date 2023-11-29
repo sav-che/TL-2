@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2017-05-12 16:02:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 964](https://www.biodiversitylibrary.org/page/33190435) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 964](https://www.biodiversitylibrary.org/page/33190435) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8692-1), [Wikidata](https://www.wikidata.org/wiki/Q1382849). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rozier, François (Jean-François), (1734-1793), French botanist, agronomist and clergyman; educated at the Lyon seminary of Saint-Irenée; director of the École vétérinaire de Lyon and in charge of its botanical garden 1765-1766; professor at the "Académie royale" Lyon; associated with J.J. Rousseau ca. 1767-1768 in Paris (ca. 1770-1780) where he founded the *Journal de Physique* (1771); travelled in Corsica and the Netherlands (1777); at Béziers, 1780, shortly afterwards back in Lyon, working on his *Cours compl. agric.*; during the French revolution "curé constitutionnel" of the Lyon parishes; died through war action 1793. 
-**Abbreviated name**: *Rozier*
+**Abbreviated name**: *Rozier* \[standard form in IPNI: *Rozier*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/page/33190341) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 870](https://www.biodiversitylibrary.org/page/33190341) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8552-1), [Wikidata](https://www.wikidata.org/wiki/Q580433). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rolland, Eugène (1846-1909), French folklorist who published on French folk names of animals and plants, folk songs, proverbs and superstitions. 
-**Abbreviated name**: *E. Rolland*
+**Abbreviated name**: *E. Rolland* \[standard form in IPNI: *E.Rolland*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 884](https://www.biodiversitylibrary.org/page/33334023) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 884](https://www.biodiversitylibrary.org/page/33334023) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/10096-1), [Wikidata](https://www.wikidata.org/wiki/Q17381689). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stenroos, Karl Emil (after 1906: Kivirikko, Kaalo Eemeli) (1870-1947), Finnish botanist, zoologist and high school teacher in Helsinki; Dr. phil. Helsinki 1898; professor h.c. 1930. 
-**Abbreviated name**: *Stenroos*
+**Abbreviated name**: *Stenroos* \[standard form in IPNI: *Stenroos*\]
 
 #### Herbarium and types
 

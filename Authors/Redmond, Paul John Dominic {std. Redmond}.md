@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33190094) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 623](https://www.biodiversitylibrary.org/page/33190094) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8221-1), [Wikidata](https://www.wikidata.org/wiki/Q21607057). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Redmond, Paul John Dominic (1901-x), American clergyman and botanist; ordained priest 1930; Dr. phil. Cath. Univ. Washington, D.C. 1933. 
-**Abbreviated name**: *Redmond*
+**Abbreviated name**: *Redmond* \[standard form in IPNI: *Redmond*\]
 
 #### Herbarium and types
 

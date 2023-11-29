@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33212305) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 263](https://www.biodiversitylibrary.org/page/33212305) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10576-1), [Wikidata](https://www.wikidata.org/wiki/Q736038). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thijsse, Jacobus Pieter (1863-1945), Dutch naturalist and schoolteacher at Amsterdam 1883-1890; at De Burg, Texel 1890-1892; director of a school in Amsterdam 1892-1901; teacher at the Amsterdam municipal teachers college 1901-1921; high school teacher at the Kennemer Lyceum, Bloemendaal 1921-1930; from 1930 in retirement; Dr. phil. h.c. Amsterdam 1922; pioneer conservationist and popularizer of natural history in the Netherlands. 
-**Abbreviated name**: *Thijsse*
+**Abbreviated name**: *Thijsse* \[standard form in IPNI: *Thijsse*\]
 
 #### Herbarium and types
 

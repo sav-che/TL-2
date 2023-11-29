@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-12-12 13:21:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33265374) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33265374) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/812-1), [Wikidata](https://www.wikidata.org/wiki/Q18983084). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Biswas, Kalipada P. {std. Biswas}|first entry]] for this author
 
 ### Author
 
 Biswas, Kalipada P. (1899-1969), Indian botanist, educated at the Mitra Institution, Bhowanipur Branch, matric. 1916, studied at the South Suburban College, Calcutta, intermediate exam. 1918, graduated 1920 from Bangabasi College, M.A. Botany 1922, D.Sc. Edinburgh University; Bengal Research Scholar in Algae and systematic botany 1923-1926, curator of the herbarium of the R. Botanical Garden, Sibpur 1927, superintendent 1937-1954, director medical plants scheme West Bengal 1954-1964, in retirement from 1964 at the Botany Dept., University College of Science, Calcutta. 
-**Abbreviated name**: *Biswas*
+**Abbreviated name**: *Biswas* \[standard form in IPNI: *Biswas*\]
 
 #### Herbarium and types
 

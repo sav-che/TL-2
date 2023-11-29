@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33190050) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 579](https://www.biodiversitylibrary.org/page/33190050) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8141-1), [Wikidata](https://www.wikidata.org/wiki/Q3579852). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Raoul, Édouard François Armand (1845-1898), French botanist and naval pharmacist; in Formosa 1873 and 1884; on a mission of circumnavigation 1885-1888; member of the High Colonial Council and professor of colonial agriculture at the "École coloniale".
-**Abbreviated name**: *E.F.A. Raoul*
+**Abbreviated name**: *E.F.A. Raoul* \[standard form in IPNI: *É.F.A.Raoul*\]
 
 #### Herbarium and types
 

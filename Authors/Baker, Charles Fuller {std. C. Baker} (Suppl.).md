@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33265001) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33265001) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/403-1), [Wikidata](https://www.wikidata.org/wiki/Q933820). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baker, Charles Fuller {std. C. Baker}|first entry]] for this author
 
 ### Author
 
 \* Baker, Charles Fuller (1872-1927), American botanist, agronomist, entomologist and administrator, studied at Michigan Agricultural College, Lansing, Mich., B.S. 1891 and at Stanford University, A.M. 1903; laboratory assistant Michigan Agricultural College 1891-1892, id. Colorado Agricultural College 1892-1897, biologist Alabama Polytechnic Institute 1897-1899, teacher at Central High School, St. Louis, Mo. 1899-1901, asst. professor of biology, Pomona College, Calif. 1903-1904, chief Dept. Agric. Bot., Est. Agron. Cuba 1904-1907, curator Museu Goeldi, Pará, Brazil 1907-1908, assoc. professor of biology, Pomona College 1908-1912, professor trop. agronomy, Univ. Philippines (Los Baños) 1912-1918, dean and professor of tropical agriculture, ib. 1918-1927. 
-**Abbreviated name**: *C. Baker*
+**Abbreviated name**: *C. Baker* \[standard form in IPNI: *C.F.Baker*\]
 
 #### Herbarium and types
 

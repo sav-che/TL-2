@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33212708) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 666](https://www.biodiversitylibrary.org/page/33212708) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11059-1), [Wikidata](https://www.wikidata.org/wiki/Q5894416). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Van Heurck, Henri Ferdinand (1838-1909), Belgian botanist, microscopist and industrialist at Antwerp; autodidactic botanist, in charge of his family's colour-factory and chemical firm 1869-1896; "director-professor" of the Antwerp botanical garden 1877-1909. 
-**Abbreviated name**: *Van Heurck*
+**Abbreviated name**: *Van Heurck* \[standard form in IPNI: *Van Heurck*\]
 
 #### Herbarium and types
 

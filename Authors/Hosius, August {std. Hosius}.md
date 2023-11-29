@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33068580) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 338](https://www.biodiversitylibrary.org/page/33068580) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4127-1), [Wikidata](https://www.wikidata.org/wiki/Q21516083). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hosius, August (1825-1896), German geologist and palaeontologist; Dr. phil. Bonn 1850; at Münster, 1862-1896. 
-**Abbreviated name**: *Hosius*
+**Abbreviated name**: *Hosius* \[standard form in IPNI: *Hosius*\]
 
 #### Collections
 

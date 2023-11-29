@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2005-04-15 05:15:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33355434) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 347](https://www.biodiversitylibrary.org/page/33355434) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6186-1), [Wikidata](https://www.wikidata.org/wiki/Q2445064). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Masamune, Genkei (1899-x) Japanese botanist working on Asiatic Orchidaceae and the flora of the Ryukyu Archipelago. 
-**Abbreviated name**: *Masam.*
+**Abbreviated name**: *Masam.* \[standard form in IPNI: *Masam.*\]
 
 #### Herbarium and types
 

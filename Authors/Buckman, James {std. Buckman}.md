@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33120529) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 398](https://www.biodiversitylibrary.org/page/33120529) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1258-1), [Wikidata](https://www.wikidata.org/wiki/Q6130450). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Buckman, James (1814-1884), British druggist, botanist and geologist. 
-**Abbreviated name**: *Buckman*
+**Abbreviated name**: *Buckman* \[standard form in IPNI: *Buckman*\]
 
 #### Collections
 

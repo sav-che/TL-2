@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33265369) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 172](https://www.biodiversitylibrary.org/page/33265369) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/803-1), [Wikidata](https://www.wikidata.org/wiki/Q13409387). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Biria, J. A. J. {std. Biria}|first entry]] for this author
 
 ### Author
 
 \* Biria, J.A. (fl. 1811), French (San Remo, then Alpes maritimes) physician who studied at the Faculté de Médecine of the University of Montpellier, Dr. med. Montpellier 1811. 
-**Abbreviated name**: *Biria*
+**Abbreviated name**: *Biria* \[standard form in IPNI: *Biria*\]
 
 #### Herbarium and types
 

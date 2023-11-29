@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33212542) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33212542) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10833-1), [Wikidata](https://www.wikidata.org/wiki/Q19002755). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trochain, Jean Louis (1903-1976), French botanist, Lic. sci. Toulouse; assistant at the Faculté des Sciences ib. 1924-1929; assistant Muséum d'Histoire naturelle, Paris 1929-1943; Maître de conférences Faculté des Sciences, Montpellier 1943-1948, prof. ib. 1948-1961; from 1961-1975 professor of tropical botany at Toulouse; founder and director of the Institut d'Études Africaines, Brazzaville 1947-1961. 
-**Abbreviated name**: *Troch.*
+**Abbreviated name**: *Troch.* \[standard form in IPNI: *Troch.*\]
 
 #### Herbarium and types
 

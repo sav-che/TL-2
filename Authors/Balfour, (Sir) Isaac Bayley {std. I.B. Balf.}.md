@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33120242) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 111](https://www.biodiversitylibrary.org/page/33120242) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/423-1), [Wikidata](https://www.wikidata.org/wiki/Q670050). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Balfour, Isaac Bayley {std. I.B. Balf.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Balfour, \[Sir\] Isaac Bayley (1853-1922), Scottish botanist, professor of botany in the University of Edinburgh. 1888-1921, Queens' botanist in Scotland, son of John Hutton Balfour. 
-**Abbreviated name**: *I. B. Balf.*
+**Abbreviated name**: *I. B. Balf.* \[standard form in IPNI: *Balf.f.*\]
 
 #### Herbarium and types
 

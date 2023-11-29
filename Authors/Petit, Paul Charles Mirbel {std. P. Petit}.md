@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33189671) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33189671) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7582-1), [Wikidata](https://www.wikidata.org/wiki/Q21522896). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Petit, Paul Charles Mirbel (1834-1913), French pharmacist and algologist, esp. diatomologist. 
-**Abbreviated name**: *P. Petit*
+**Abbreviated name**: *P. Petit* \[standard form in IPNI: *P.Petit*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:46.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33066695) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33066695) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11742-1), [Wikidata](https://www.wikidata.org/wiki/Q2505994). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilson, Percy (1879-1944), American botanist; at the New York Botanical Garden from 1899-1944; as assistant 1899, briefly stationed on Cuba in 1904; administrative assistant 1907, docent 1910, assistant curator and docent 1911, assistant curator 1912-1913, associate curator 1914-1939, research associate 1940-1944; assistant to N.L. Britton, collected widely in the West Indies. 
-**Abbreviated name**: *P. Wils.*
+**Abbreviated name**: *P. Wils.* \[standard form in IPNI: *P.Wilson*\]
 
 #### Herbarium and types
 

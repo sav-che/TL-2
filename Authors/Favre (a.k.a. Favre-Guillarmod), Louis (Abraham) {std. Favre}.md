@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33259578) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33259578) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2651-1), [Wikidata](https://www.wikidata.org/wiki/Q3261883). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Favre (a.k.a. Favre-Guillarmod), Louis \[Abraham\] (1822-1904), Swiss teacher and botanist, born 17 Mar 1822 in Boudry (Ct. Neuchâtel), educated there and later (1836) in Neuchâtel, teacher in Le Locle (Ct. Neuchâtel), later head-master at La-Chaux-de-Fonds, moved to Neuchâtel 1849, from 1866 working for the newly founded academy, retired in 1900, died 13 Sep 1904. 
-**Abbreviated name**: *Favre*
+**Abbreviated name**: *Favre* \[standard form in IPNI: *Favre*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33264911) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 184](https://www.biodiversitylibrary.org/page/33264911) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/302-1), [Wikidata](https://www.wikidata.org/wiki/Q11092558). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Asahina, Yasuhiko {std. Asah.}|first entry]] for this author
 
 ### Author
 
 \* Asahina, Yasuhiko (1881-1975), Japanese lichenologist, studied chemistry and pharmacy at the University of Tokyo, ca. 1907 assistant at the University for Pharmacognosy Tokyo, studied at the Technical University of Zürich 1909-1912, and one semester with Emil Fischer in Berlin, professor at the University of Tokyo 1912-1941, specialized in lichen-chemistry, in retirement sometime director of reseach at the Institute of natural Resources and the Iatrochemical Research Institute at Tokyo (Tsumara laboratory). 
-**Abbreviated name**: *Asah.*
+**Abbreviated name**: *Asah.* \[standard form in IPNI: *Asahina*\]
 
 #### Herbarium and types
 

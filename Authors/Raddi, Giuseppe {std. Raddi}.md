@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:42.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33190007) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 536](https://www.biodiversitylibrary.org/page/33190007) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8078-1), [Wikidata](https://www.wikidata.org/wiki/Q2517998). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Raddi, Giuseppe (1770-1829), Italian botanist at Firenze; on the Austrian Expedition to Brazil (1817-1818), collected also in Madeira (1817) and Egypt (1827-1829); died on the homeward journey from Egypt at Rhodos. 
-**Abbreviated name**: *Raddi*
+**Abbreviated name**: *Raddi* \[standard form in IPNI: *Raddi*\]
 
 #### Herbarium and types
 

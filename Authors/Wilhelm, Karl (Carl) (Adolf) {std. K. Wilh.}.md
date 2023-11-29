@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33066634) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33066634) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13016-1), [Wikidata](https://www.wikidata.org/wiki/Q6372358). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilhelm, Karl \[Carl\] \[Adolf\] (1848-1933), Moravian-born Austrian botanist; Dr. phil. Strassburg 1877; assistant at the forestry institute München until 1881; "Privat-Dozent" at the k.k. Hochschule für Bodenkultur Wien 1881, extraordinary (1889) and ordinary professor of botany (Naturgeschichte der Forstgewächse) (1896) ib. until 1920. 
-**Abbreviated name**: *K. Wilh.*
+**Abbreviated name**: *K. Wilh.* \[standard form in IPNI: *K.Wilh.*\]
 
 #### Herbarium and types
 

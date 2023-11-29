@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33120319) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33120319) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/682-1), [Wikidata](https://www.wikidata.org/wiki/Q19502531). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Berger, H. A. C. (*fl*. 1832), German physician and palaeontologist at Coburg. 
-**Abbreviated name**: *H. Berger*
+**Abbreviated name**: *H. Berger* \[standard form in IPNI: *H.Berger*\]
 
 #### Collections
 

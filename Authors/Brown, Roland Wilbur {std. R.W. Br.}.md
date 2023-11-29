@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33120500) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33120500) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1196-1), [Wikidata](https://www.wikidata.org/wiki/Q7360478). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Brown, Roland Wilbur {std. R.W. Br.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Brown, Roland Wilbur (1893-1961), American palaeobotanist. 
-**Abbreviated name**: *R. W. Brown*
+**Abbreviated name**: *R. W. Brown* \[standard form in IPNI: *R.W.Br.*\]
 
 #### Collections
 

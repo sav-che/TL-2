@@ -29,14 +29,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33068312) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 70](https://www.biodiversitylibrary.org/page/33068312) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3701-1), [Wikidata](https://www.wikidata.org/wiki/Q73237). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hartweg, Carl Theodor (1812-1871), German botanist; son of Andreas Hartweg; botanical collector for the Horticultural Society of London in North, Central and South America 1836-1843 and 1845-1847; afterwards inspector of the ducal gardens at Schwetzingen (Baden). 
-**Abbreviated name**: *Hartw.*
+**Abbreviated name**: *Hartw.* \[standard form in IPNI: *Hartw.*\]
 
 #### Herbarium and types
 

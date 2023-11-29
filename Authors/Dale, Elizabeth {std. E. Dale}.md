@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33259070) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 24](https://www.biodiversitylibrary.org/page/33259070) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17653-1), [Wikidata](https://www.wikidata.org/wiki/Q30107575). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dale, Elizabeth (fl. 1899-1914), British botanist at the University of Cambridge, Pfeiffer student, Girton College (1901), later Garden Steward of Girton College (ca. 1912). 
-**Abbreviated name**: *E. Dale*
+**Abbreviated name**: *E. Dale* \[standard form in IPNI: *E.Dale*\]
 
 #### Herbarium and types
 

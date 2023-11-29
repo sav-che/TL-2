@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33333603) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 464](https://www.biodiversitylibrary.org/page/33333603) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9402-1), [Wikidata](https://www.wikidata.org/wiki/Q21340418). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seaton, Henry Eliason (1869-1893), American botanist; BS Wabash Coll., Indiana 1890; MA Indiana Univ. 1893; instructor in botany Indiana University 1891-1892; assistant curator Gray Herbarium, Harvard University 1892-1893; collected in Mexico 1891 (Mt. Orizaba). 
-**Abbreviated name**: *Seat.*
+**Abbreviated name**: *Seat.* \[standard form in IPNI: *Seaton*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33189763) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 292](https://www.biodiversitylibrary.org/page/33189763) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7750-1), [Wikidata](https://www.wikidata.org/wiki/Q595496). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Plaz, Anton Wilhelm (1708-1784), German (Saxonian) botanist; Dr. med. Halle 1728; extraord. professor of botany Leipzig 1733, ord. id. 1749; later professor of physiology and therapeutics; dean of the medical faculty from 1773. 
-**Abbreviated name**: *Plaz*
+**Abbreviated name**: *Plaz* \[standard form in IPNI: *Plaz*\]
 
 #### Herbarium and types
 

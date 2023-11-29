@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33355115) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33355115) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5575-1), [Wikidata](https://www.wikidata.org/wiki/Q47121301). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Liebe, Theodor (*fl*. 1862), German botanist, high school teacher at the Friedrichs-Werdersche Gewerbeschule in Berlin. 
-**Abbreviated name**: *T. Liebe*
+**Abbreviated name**: *T. Liebe* \[standard form in IPNI: *T.Liebe*\]
 
 #### Herbarium and types
 

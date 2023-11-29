@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33264831) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 104](https://www.biodiversitylibrary.org/page/33264831) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/183-1), [Wikidata](https://www.wikidata.org/wiki/Q5878463). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Amshoff, Gerda Jane Hillegonda {std. Amshoff}|first entry]] for this author
 
 ### Author
 
 \* Amshoff, Gerda Jane Hillegonda (1913-1985), Dutch plant systematist, student of A.A. Pulle, Dr. phil. 1939 (see TL-2/117), scientist at the Utrecht Institute of Systematic Botany 1939-1955; with the Laboratory for Plant Taxonomy, Wageningen 1955-1978. 
-**Abbreviated name**: *Amshoff*
+**Abbreviated name**: *Amshoff* \[standard form in IPNI: *Amshoff*\]
 
 #### Herbarium and types
 

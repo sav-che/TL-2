@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33260329) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 341](https://www.biodiversitylibrary.org/page/33260329) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2538-1), [Wikidata](https://www.wikidata.org/wiki/Q21512171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Engelhardt, Hermann {std. Engelh.}|first entry]] for this author
 
 ### Author
 
 \* Engelhardt, Hermann (1839-1918), German teacher and palaeobotanist, born 10 Mar 1839 in Oberhohndorf near Zwickau (Saxony), visited primary school at Zwickau, later the "Proseminar" at Freiberg which moved to Nossen, after his training for teacher he was appointed first at Kleinvoigtsberg later at Nossen, from 1861 teacher in Dresden, was most interested in botany and especially palaeobotany, member of Isis at Dresden, changed to another school in Dresden 1869 where he stayed until 1907, died 24 Jan 1918. 
-**Abbreviated name**: *Engelh.*
+**Abbreviated name**: *Engelh.* \[standard form in IPNI: *Engelh.*\]
 
 #### Herbarium and types
 

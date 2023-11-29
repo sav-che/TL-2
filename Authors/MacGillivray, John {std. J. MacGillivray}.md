@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33355307) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33355307) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5919-1), [Wikidata](https://www.wikidata.org/wiki/Q3181970). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 MacGillivray, John (1822-1867), Scottish naturalist and explorer on various voyages to the Pacific and Malesian regions (Fly and Bramble 1842-1846, Herald 1852-1861, Rattlesnake 1846-1850); son of William MacGillivray (1796- 1852); a "man of intemperate habits" (Seemann). 
-**Abbreviated name**: *J. MacGillivray*
+**Abbreviated name**: *J. MacGillivray* \[standard form in IPNI: *J.MacGill.*\]
 
 #### Herbarium and types
 

@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33121000) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 869](https://www.biodiversitylibrary.org/page/33121000) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2867-1), [Wikidata](https://www.wikidata.org/wiki/Q88918). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Francé (Franzé), Raoul (Rudolf, Reszö) Heinrich {std. Francé} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Francé, Raoul Heinrich \[Franzé, Reszö\] (1874-x), Hungarian algologist. 
-**Abbreviated name**: *Francé*
+**Abbreviated name**: *Francé* \[standard form in IPNI: *Francé*\]
 
 #### Herbarium and types
 

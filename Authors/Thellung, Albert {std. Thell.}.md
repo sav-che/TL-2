@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33212284) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 242](https://www.biodiversitylibrary.org/page/33212284) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10550-1), [Wikidata](https://www.wikidata.org/wiki/Q124109). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thellumg, Albert (1881-1928), Swiss botanist; assistant at the Botanical Museum of the University of Zürich 1904-1905; Dr. phil. ib. 1905; at Montpellier with Ch. Flahault in 1904 and 1906; habil. Univ. Zürich 1909; again assistant in Zürich 1906-1928, from 1921 with the professor's title. 
-**Abbreviated name**: *Thell.*
+**Abbreviated name**: *Thell.* \[standard form in IPNI: *Thell.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33333325) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 186](https://www.biodiversitylibrary.org/page/33333325) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9109-1), [Wikidata](https://www.wikidata.org/wiki/Q21608015). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlagdenhauffen, Charles Frédéric (1830-1907), French botanist and phytochemist at Strasbourg; Dr. sci. Strasbourg 1857; with the École supérieure de Strasbourg from 1855 as assistant, associate professor of toxicology and physics, and, from 1873-1900, regular professor of toxicology. 
-**Abbreviated name**: *Schlagdenhauffen*
+**Abbreviated name**: *Schlagdenhauffen* \[standard form in IPNI: *Schlagd.*\]
 
 #### Herbarium and types
 

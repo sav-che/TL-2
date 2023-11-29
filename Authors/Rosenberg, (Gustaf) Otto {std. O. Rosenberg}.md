@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 890](https://www.biodiversitylibrary.org/page/33190361) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 890](https://www.biodiversitylibrary.org/page/33190361) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8593-1), [Wikidata](https://www.wikidata.org/wiki/Q6079541). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rosenberg, \[Gustaf\] Otto (1872-1948), Swedish botanist; fil. kand. Uppsala 1895; Dr. phil. Bonn 1899; lecturer in botany at Stockholm University (Stockholms högskola) 1899; profesor of botany ib. (plant anatomy and cytology) 1911-1940; outstanding botanical cytologist, embryologist and precursor of experimental taxonomy. 
-**Abbreviated name**: *O. Rosenberg*
+**Abbreviated name**: *O. Rosenberg* \[standard form in IPNI: *O.Rosenb.*\]
 
 #### Herbarium and types
 

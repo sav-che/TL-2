@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33212117) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33212117) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10270-1), [Wikidata](https://www.wikidata.org/wiki/Q110871). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Succow \[Suckow\], Friedrich Wilhelm Ludwig (1770-1838), German (Baden) physician and naturalist; director of the Baden Natural History Museum at Mannheim. 
-**Abbreviated name**: *Succow*
+**Abbreviated name**: *Succow* \[standard form in IPNI: *F.W.L.Suckow*\]
 
 #### Herbarium and types
 

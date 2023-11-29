@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 553](https://www.biodiversitylibrary.org/page/33333692) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 553](https://www.biodiversitylibrary.org/page/33333692) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9551-1), [Wikidata](https://www.wikidata.org/wiki/Q1991246). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Shaw, Henry (1800-1889), English-born merchant and benefactor; emigrated to the United States in 1819; engaged in hardware business at St. Louis until 1840; in retirement laying out a garden ("Shaw's garden"), which became the Missouri Botanical Garden in 1858 and founding Shaw's School of Botany at George Washington University. 
-**Abbreviated name**: *H. Shaw*
+**Abbreviated name**: *H. Shaw* \[standard form in IPNI: *H.Shaw*\]
 
 #### Herbarium and types
 

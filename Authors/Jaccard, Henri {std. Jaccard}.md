@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33068635) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 393](https://www.biodiversitylibrary.org/page/33068635) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4355-1), [Wikidata](https://www.wikidata.org/wiki/Q776751). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jaccard, Henri (1844-1922), Swiss botanist, high school teacher at Morges (1868-1872) and Aigle (1872-1915); from 1915 at Lausanne. 
-**Abbreviated name**: *Jaccard*
+**Abbreviated name**: *Jaccard* \[standard form in IPNI: *Jaccard*\]
 
 #### Herbarium and types
 

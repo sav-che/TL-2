@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33120801) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 670](https://www.biodiversitylibrary.org/page/33120801) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2272-1), [Wikidata](https://www.wikidata.org/wiki/Q2265720). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Donati, Vitaliano (1713-1762), Italian biologist, apothecary at Venetia. 
-**Abbreviated name**: *Donati*
+**Abbreviated name**: *Donati* \[standard form in IPNI: *Donati*\]
 
 #### Herbarium and types
 

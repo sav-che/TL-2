@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33264953) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 226](https://www.biodiversitylibrary.org/page/33264953) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/358-1), [Wikidata](https://www.wikidata.org/wiki/Q5409645). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Babey, Claude Marie Philibert {std. Babey}|first entry]] for this author
 
 ### Author
 
 \* Babey, Claude Marie Philibert (1786-1848), French botanist. 
-**Abbreviated name**: *Babey*
+**Abbreviated name**: *Babey* \[standard form in IPNI: *Babey*\]
 
 #### Herbarium and types
 

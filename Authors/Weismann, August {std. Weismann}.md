@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:56.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33066502) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 162](https://www.biodiversitylibrary.org/page/33066502) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11520-1), [Wikidata](https://www.wikidata.org/wiki/Q76465). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weismann, August (1834-1914), German (Hessen) zoologist and geneticist; studied medicine at Göttingen; practiced at Rostock; at the University of Freiburg i.Br. as lecturer 1863, professor 1866, full professor 1873-1912; early student of chromosomes and evolutionary biology and originator of the germplasm theory of heredity. 
-**Abbreviated name**: *Weismann*
+**Abbreviated name**: *Weismann* \[standard form in IPNI: *Weism.*\]
 
 #### Herbarium and types
 

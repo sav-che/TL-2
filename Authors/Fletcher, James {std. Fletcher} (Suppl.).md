@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33259759) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33259759) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2783-1), [Wikidata](https://www.wikidata.org/wiki/Q6133987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fletcher, James {std. Fletcher}|first entry]] for this author
 
 ### Author
 
 \* Fletcher, James (1852-1908), English-born Canadian botanist and naturalist, born 28 Mar 1852 in Ashe nr. Wrotham (Kent), educated at King's College, Rochester, employed by the Bank of British North America and posted from London to Canada 1874, joined the Library of Parliament as an accountant 1876, founding member, Ottawa Field-Naturalists' Club 1879, hon. entomologist, Dominion Dept. of Agriculture 1884, appointed Dominion entomologist and botanist 1886, and served as chief of Entomology and Botany Division 1887-1908, LL.D. 1896 Queen's Univ., Kingston, Ontario, Fellow, Royal Society of Canada, F.L.S., died 8 Nov 1908 in Montreal. 
-**Abbreviated name**: *Fletcher*
+**Abbreviated name**: *Fletcher* \[standard form in IPNI: *Fletcher*\]
 
 #### Herbarium and types
 

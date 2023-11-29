@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:31.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33259301) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 255](https://www.biodiversitylibrary.org/page/33259301) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2177-1), [Wikidata](https://www.wikidata.org/wiki/Q4171766). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dewey, Chester (1784-1867), American naturalist, born in Sheffield, Mass. 15 Oct 1784, died in Rochester, N.Y. 5 Dec 1867, tutor in Williams College 1808-1810, professor of mathematics and natural philosophy 1810-1817 in medical colleges of Pittsfield, Mass. and Woodstock, Vermont, 1836-1850 principal of the Collegiate Institute of Rochester, N.Y., 1850-1860 professor of chemistry and natural philosophy at University of Rochester. 
-**Abbreviated name**: *Dewey*
+**Abbreviated name**: *Dewey* \[standard form in IPNI: *Dewey*\]
 
 #### Herbarium and types
 

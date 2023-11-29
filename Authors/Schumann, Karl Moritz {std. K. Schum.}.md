@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:38.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33333539) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 400](https://www.biodiversitylibrary.org/page/33333539) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9333-1), [Wikidata](https://www.wikidata.org/wiki/Q63545). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schumann, Karl Moritz (1851-1904), German (Silesian) botanist; Dr. phil. Breslau 1873; assistant with H.R. Göppert at the Botanical Institute, Breslau 1872-1876; state teacher's examination 1875; high school teacher at Breslau 1876-1884; curator at the Botanical Museum, Berlin 1884-1904; professor's title 1892; habil. Univ. Berlin 1893; one of the most productive phanerogam taxonomists of the Engler era with an emphasis on morphological and flower-biological methodologies. 
-**Abbreviated name**: *K. Schum.*
+**Abbreviated name**: *K. Schum.* \[standard form in IPNI: *K.Schum.*\]
 
 #### Herbarium and types
 

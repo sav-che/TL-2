@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33189841) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33189841) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/25035-1), [Wikidata](https://www.wikidata.org/wiki/Q21523161). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Povah, Albert Hubert William (1889-1975), American mycologist; Dr. phil. Univ. Mich. 1916; at Ann Arbor 1916-1917; lecturer on forest mycology at Syracuse Univ. 1917-1921; at Alabama Polytechnic 1921-1922, at Northwestern Univ., Evanston, 111. 1922-1925; at Univ. Cincinnati 1929-1930, at Harvard 1929-1930; at Wayne University 1934-1935, ultimately with Detroit high schools. 
-**Abbreviated name**: *Povah*
+**Abbreviated name**: *Povah* \[standard form in IPNI: *Povah*\]
 
 #### Herbarium and types
 

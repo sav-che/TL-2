@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-12-11 09:57:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33120682) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33120682) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1812-1), [Wikidata](https://www.wikidata.org/wiki/Q2656605). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Corrêa (Correira) da Serra, José Francisco {std. Corrêa} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Corrêa da Serra, José Francisco (1751-1823), Portuguese botanist and clergyman. 
-**Abbreviated name**: *Corrêa*
+**Abbreviated name**: *Corrêa* \[standard form in IPNI: *Corrêa*\]
 
 #### Herbarium and types
 

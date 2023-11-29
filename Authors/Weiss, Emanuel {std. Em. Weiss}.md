@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33066505) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 165](https://www.biodiversitylibrary.org/page/33066505) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11521-1), [Wikidata](https://www.wikidata.org/wiki/Q5830335). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Weiss, Emanuel (1837-1870), Bohemian-born Austrian naval physician and botanist; Dr. med. Wien; physician on board the "Huszar" 1864-1865 cruising in the Adriatic; in the Levant with the "Velebic" 1866-1867; stationed at Pola 1868; on the Austrian Eastern Asiatic expedition on the "Erzherzog Friedrich" 1868-1870. 
-**Abbreviated name**: *Em. Weiss*
+**Abbreviated name**: *Em. Weiss* \[standard form in IPNI: *E.Weiss*\]
 
 #### Herbarium and types
 

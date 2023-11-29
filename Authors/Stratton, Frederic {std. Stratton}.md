@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33212045) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 41](https://www.biodiversitylibrary.org/page/33212045) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10203-1), [Wikidata](https://www.wikidata.org/wiki/Q21609937). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Stratton, Frederic (1840-1916), British botanist at Newport, Isle of Wight, clerk to the Board of Guardians ib. 1863-1903; practicing solicitor 1863-1914. 
-**Abbreviated name**: *Stratton*
+**Abbreviated name**: *Stratton* \[standard form in IPNI: *Stratton*\]
 
 #### Herbarium and types
 

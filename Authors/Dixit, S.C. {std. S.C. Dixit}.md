@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33259407) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 361](https://www.biodiversitylibrary.org/page/33259407) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/32938-1), [Wikidata](https://www.wikidata.org/wiki/Q36674763). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dixit, S.C. (fl. 1931-1940), British botanist at the Wilson College, Bombay. 
-**Abbreviated name**: *S.C. Dixit*
+**Abbreviated name**: *S.C. Dixit* \[standard form in IPNI: *S.C.Dixit*\]
 
 #### Herbarium and types
 

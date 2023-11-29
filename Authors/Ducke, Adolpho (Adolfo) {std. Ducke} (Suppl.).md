@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2004-04-23 06:33:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33260125) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 137](https://www.biodiversitylibrary.org/page/33260125) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2347-1), [Wikidata](https://www.wikidata.org/wiki/Q2601698). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Ducke, Adolpho {std. Ducke}|first entry]] for this author
 
 ### Author
 
 \* Ducke, Adolpho (Adolfo) (1876-1959), Austrian entomologist and botanist, born 19 Oct 1876, Triest, then Austria, died 5 Jan 1959, Fortaleza, Brazil, became the experienced collector in the Amazon forest community, at the Museu paraense Emilio Goeldi at Belém, Para, Brazil, collected in Amazonas, Para, Ceará (Braz.), Colombia, and Peru. 
-**Abbreviated name**: *Ducke*
+**Abbreviated name**: *Ducke* \[standard form in IPNI: *Ducke*\]
 
 #### Herbarium and types
 

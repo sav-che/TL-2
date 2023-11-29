@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 986](https://www.biodiversitylibrary.org/page/33190457) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 986](https://www.biodiversitylibrary.org/page/33190457) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8730-1), [Wikidata](https://www.wikidata.org/wiki/Q36682217). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ruiz, Sebastian Joseph Lopez, (*fl*. 1802), Spanish botanist. 
-**Abbreviated name**: *S. Ruiz*
+**Abbreviated name**: *S. Ruiz* \[standard form in IPNI: *S.Ruíz*\]
 
 #### Herbarium and types
 

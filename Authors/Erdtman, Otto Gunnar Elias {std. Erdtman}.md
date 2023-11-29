@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33120928) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33120928) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18525-1), [Wikidata](https://www.wikidata.org/wiki/Q1554730). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Erdtman, Otto Gunnar Elias {std. Erdtman} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Erdtman, Otto Gunnar Elias (1897-1973), Swedish palynologist, 
-**Abbreviated name**: *Erdtman*
+**Abbreviated name**: *Erdtman* \[standard form in IPNI: *Erdtman*\]
 
 #### Herbarium and types
 

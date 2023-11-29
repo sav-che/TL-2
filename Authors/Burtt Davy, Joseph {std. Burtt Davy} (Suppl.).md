@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33266578) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 271](https://www.biodiversitylibrary.org/page/33266578) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/2039-1), [Wikidata](https://www.wikidata.org/wiki/Q513218). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Davy, Joseph Burtt {std. Burtt Davy}|first entry]] for this author
 
 ### Author
 
 \* Burtt Davy, Joseph (1870-1940), British botanist, born in Derbyshire, assistant to the director of the Royal Botanic Gardens Kew 1891-1892, moved to California 1893, assistant in botany at the University of California, Berkeley 1893-1896, lecturer in botany and assistant botanist at California State Agricultural Experiment Station 1896-1901, id. instructor in botany 1901-1902, curator at the herbarium of USDA, Washington D.C. 1902, government agrostologist and botanist 1903-1913 in Pretoria, S-Afr., breeding corn at his own farm at Vereeniging, Transvaal 1913-1920, at Kew 1920-1925, lecturer in tropical forest botany at the Imperial Forestry Institute, Oxford 1925-1940, Ph. D. at Cambridge 1924, id. hon. at Oxford 1936. 
-**Abbreviated name**: *Burtt Davy*
+**Abbreviated name**: *Burtt Davy* \[standard form in IPNI: *Burtt Davy*\]
 
 #### Notes
 

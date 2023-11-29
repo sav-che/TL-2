@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5330-1), [Wikidata](https://www.wikidata.org/wiki/Q101029). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lauterborn, Robert (1869-1952), German algologist and protozoologist. 
-**Abbreviated name**: *Lauterborn*
+**Abbreviated name**: *Lauterborn* \[standard form in IPNI: *Lauterborn*\]
 
 #### Herbarium and types
 

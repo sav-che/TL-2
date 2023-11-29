@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33333724) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33333724) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9615-1), [Wikidata](https://www.wikidata.org/wiki/Q64262). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Siebold, Carl Theodor Ernst von (1804-1885), German (Würzburg) physiologist and zoologist; studied in Göttingen and Berlin; regional physician at Heilsberg, Prussia 1831-1835; director of the obstetric clinic in Danzig 1835-1840; professor of physiology and comparative anatomy in Erlangen 1840-1845, idem in Freiburg i.Br. 1845-1850, id. in Breslau 1850-1853; from 1853 in the same function in München, later also as professor of zoology and director of the physiological institute; brother of P.F. v. Siebold. 
-**Abbreviated name**: *C. Siebold*
+**Abbreviated name**: *C. Siebold* \[standard form in IPNI: *C.Siebold*\]
 
 #### Herbarium and types
 

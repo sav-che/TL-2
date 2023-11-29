@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/page/33355207) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 120](https://www.biodiversitylibrary.org/page/33355207) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22428-1), [Wikidata](https://www.wikidata.org/wiki/Q18761973). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lister, Guilielma (1860-1949), British botanist; daughter of Arthur Lister; educated at home; constant companion of her father in his studies on Mycetozoa. 
-**Abbreviated name**: *G. List.*
+**Abbreviated name**: *G. List.* \[standard form in IPNI: *G.Lister*\]
 
 #### Herbarium and types
 

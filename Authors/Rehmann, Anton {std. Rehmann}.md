@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33190126) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 655](https://www.biodiversitylibrary.org/page/33190126) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8244-1), [Wikidata](https://www.wikidata.org/wiki/Q84579). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rehmann, Anton (1840-1917), Austrian botanist and geographer at Krakau (until 1882); Dr. phil. Krakau 1864; collected and travelled in Southern Russia (1868) and in Natal and Transvaal (1875-1877, 1879-1880); professor of geography at Lemberg (Lwow) from 1882. 
-**Abbreviated name**: *Rehmann*
+**Abbreviated name**: *Rehmann* \[standard form in IPNI: *Rehmann*\]
 
 #### Herbarium and types
 

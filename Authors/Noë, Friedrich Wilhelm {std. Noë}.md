@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2012-10-07 21:52:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33355847) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 760](https://www.biodiversitylibrary.org/page/33355847) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7010-1), [Wikidata](https://www.wikidata.org/wiki/Q5869633). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Noë, Friedrich Wilhelm (18..-1858), German botanist and pharmacist in Fiume (1831-1844); director of the botanical garden in Constantinople; participated in the boundary Commission of Turkey and Persia. 
-**Abbreviated name**: *Noë*
+**Abbreviated name**: *Noë* \[standard form in IPNI: *Noë*\]
 
 #### Herbarium and types
 

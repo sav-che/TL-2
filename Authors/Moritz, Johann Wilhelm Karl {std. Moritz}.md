@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33355675) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 588](https://www.biodiversitylibrary.org/page/33355675) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6661-1), [Wikidata](https://www.wikidata.org/wiki/Q101052). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moritz, Johann Wilhelm Karl (1797-1866), German botanical explorer of the West Indies (1831-1835); lived in Venezuela 1835-1837, 1840-1866. 
-**Abbreviated name**: *Moritz*
+**Abbreviated name**: *Moritz* \[standard form in IPNI: *Moritz*\]
 
 #### Herbarium and types
 

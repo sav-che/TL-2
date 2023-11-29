@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33068271) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 29](https://www.biodiversitylibrary.org/page/33068271) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3587-1), [Wikidata](https://www.wikidata.org/wiki/Q1539769). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Haller, Gottlieb Emmanuel von (1735-1786), Swiss statesman and botanist at Bern; son of Albrecht von Haller senior. 
-**Abbreviated name**: *G. Haller*
+**Abbreviated name**: *G. Haller* \[standard form in IPNI: *G.Haller*\]
 
 #### Herbarium and types
 

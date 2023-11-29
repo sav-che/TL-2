@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33333662) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 523](https://www.biodiversitylibrary.org/page/33333662) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9509-1), [Wikidata](https://www.wikidata.org/wiki/Q21608705). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Servais, Gaspard Joseph de (1735-1807), Belgian (Austrian Netherlands) botanist, arboriculturist and bibliographer at Mechelen. 
-**Abbreviated name**: *Servais*
+**Abbreviated name**: *Servais* \[standard form in IPNI: *Servais*\]
 
 #### Herbarium and types
 

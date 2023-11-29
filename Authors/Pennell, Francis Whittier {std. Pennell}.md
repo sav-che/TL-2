@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33189625) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 154](https://www.biodiversitylibrary.org/page/33189625) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7491-1), [Wikidata](https://www.wikidata.org/wiki/Q3297757). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pennell, Francis Whittier (1886-1952), American botanist; travelled and collected widely in the Americas; president of the Philadelphia botanical Club 1942-1952; Ph.D. Univ. Pennsylvania 1913; associate curator at NY 1914-1921; from 1921 Curator of botany at PH; eminent authority on Scrophulariaceae, botanical historian and bibliographer. 
-**Abbreviated name**: *Pennell*
+**Abbreviated name**: *Pennell* \[standard form in IPNI: *Pennell*\]
 
 #### Herbarium and types
 

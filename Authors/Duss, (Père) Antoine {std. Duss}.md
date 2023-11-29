@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33120844) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33120844) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/18305-1), [Wikidata](https://www.wikidata.org/wiki/Q4775469). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Duss, (Rèverend-Père) Antoine {std. Duss} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Duss, \[Père\] Antoine (1840-1924), Swiss clergyman and botanist in the West Indies. 
-**Abbreviated name**: *Duss*
+**Abbreviated name**: *Duss* \[standard form in IPNI: *Duss*\]
 
 #### Herbarium and types
 

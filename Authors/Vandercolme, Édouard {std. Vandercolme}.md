@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33212703) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 661](https://www.biodiversitylibrary.org/page/33212703) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11051-1), [Wikidata](https://www.wikidata.org/wiki/Q47127940). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vandercolme, Édouard (*fl*. 1870), French physician; studied at the Faculté de Médecine, Paris; Dr. med. ib. 1870. 
-**Abbreviated name**: *Vandercolme*
+**Abbreviated name**: *Vandercolme* \[standard form in IPNI: *Vanderc.*\]
 
 #### Herbarium and types
 

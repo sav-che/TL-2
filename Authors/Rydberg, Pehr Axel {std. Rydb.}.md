@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1014](https://www.biodiversitylibrary.org/page/33190485) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1014](https://www.biodiversitylibrary.org/page/33190485) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8771-1), [Wikidata](https://www.wikidata.org/wiki/Q1905130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rydberg, Pehr Axel (1860-1931), Swedish botanist; studied at Skara high school; emigrated to the United States 1882; teacher at Luther Academy, Wahon, Nebraska 1884-1890; studied at Lincoln Univ., Nebraska 1890-1895; student of C.E. Bessey; professor of natural sciences and mathematics Upsala College, Kenilworth, New Jersey 1895-1899; Dr. phil. Columbia Univ. 1898; assistant curator New York Botanical Garden 1899-1905; curator ib. 1906-1931. 
-**Abbreviated name**: *Rydb.*
+**Abbreviated name**: *Rydb.* \[standard form in IPNI: *Rydb.*\]
 
 #### Herbarium and types
 

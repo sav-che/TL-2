@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33333622) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 483](https://www.biodiversitylibrary.org/page/33333622) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9424-1), [Wikidata](https://www.wikidata.org/wiki/Q21608613). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Segerstedt, Per Simeon Julius (1866-ca. 1930), Swedish high school teacher and botanist; Dr. phil. Uppsala 1894; teacher of biology and chemistry at various high schools, ultimately headmaster at Västervik. 
-**Abbreviated name**: *Segerstedt*
+**Abbreviated name**: *Segerstedt* \[standard form in IPNI: *Segerst.*\]
 
 #### Herbarium and types
 

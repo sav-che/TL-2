@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2018-07-08 19:50:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33189696) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 225](https://www.biodiversitylibrary.org/page/33189696) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7621-1), [Wikidata](https://www.wikidata.org/wiki/Q19001497). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pfeiffer, Norma Etta (1889-x), American botanist; Ph.D. Univ. Chicago 1913; taught at the University of North Dakota from 1913-1923, at the University of Wisconsin 1923-1932; at the Boyce Thompson Institute, Yonkers, N.Y. 1924-1954; in retirement living in Dallas, Texas. 
-**Abbreviated name**: *N. Pfeiff.*
+**Abbreviated name**: *N. Pfeiff.* \[standard form in IPNI: *N.Pfeiff.*\]
 
 #### Herbarium and types
 

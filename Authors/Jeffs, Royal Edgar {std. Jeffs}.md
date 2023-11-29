@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33068676) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 434](https://www.biodiversitylibrary.org/page/33068676) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4458-1), [Wikidata](https://www.wikidata.org/wiki/Q21516978). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jeffs, Royal Edgar (1879-1933), American botanist; M.S.A. Iowa State College 1910; Ph. D. State University Iowa 1923; professor of biology at Iowa Wesleyan College 1910-1912; at Friends University 1913-1914; instructor (1916-1921) and professor of botany (1923-1932) at the University of Oklahoma. 
-**Abbreviated name**: *Jeffs*
+**Abbreviated name**: *Jeffs* \[standard form in IPNI: *Jeffs*\]
 
 #### Herbarium and types
 

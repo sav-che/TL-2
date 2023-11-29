@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33333551) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 412](https://www.biodiversitylibrary.org/page/33333551) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9338-1), [Wikidata](https://www.wikidata.org/wiki/Q1286311). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schuster, Johann Constantin \[Christian\] (1777-1839), Hungarian botanist; Dr. med. Pesth (Budapest) 1802; "Repetitor" (coach) for pharmacy at Univ. Pesth 1806-1808; high school teacher at Klausenburg (Cluj) 1808; from 1809-1811 professor of general natural history at Pesth, ordinary professor id. 1811-1817; dean of the medical faculty 1811-1813, from 1817 ordinary professor of botany, continuing in various other university functions until 1839. 
-**Abbreviated name**: *J.C. Schust.*
+**Abbreviated name**: *J.C. Schust.* \[standard form in IPNI: *J.C.Schust.*\]
 
 #### Herbarium and types
 

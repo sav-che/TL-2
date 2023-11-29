@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33069073) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 831](https://www.biodiversitylibrary.org/page/33069073) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5452-1), [Wikidata](https://www.wikidata.org/wiki/Q55056984). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Le Jolis, Auguste François (1823-1904), French merchant and algologist at Cherbourg; founder (30 Dec 1851) of the Société des Sciences naturelles de Cherbourg; from then on director and archivist as well as editor of the society's publications. 
-**Abbreviated name**: *Le Jol.*
+**Abbreviated name**: *Le Jol.* \[standard form in IPNI: *Le Jol.*\]
 
 #### Herbarium and types
 

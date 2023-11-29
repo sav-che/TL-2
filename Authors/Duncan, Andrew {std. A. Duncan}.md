@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33120832) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 701](https://www.biodiversitylibrary.org/page/33120832) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2375-1), [Wikidata](https://www.wikidata.org/wiki/Q21511051). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Duncan, Andrew {std. A. Duncan} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Duncan, Andrew (1773-1832), Scottish lecturer on materia medica at Edinburgh. 
-**Abbreviated name**: *A. Duncan*
+**Abbreviated name**: *A. Duncan* \[standard form in IPNI: *A.Duncan*\]
 
 #### Herbarium and types
 

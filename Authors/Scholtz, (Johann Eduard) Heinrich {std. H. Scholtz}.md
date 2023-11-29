@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33333433) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 294](https://www.biodiversitylibrary.org/page/33333433) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9227-1), [Wikidata](https://www.wikidata.org/wiki/Q21608269). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Scholtz, \[Johann Eduard\] Heinrich (1812-1859), German (Silesian) botanist and zoologist; practicing physician at Breslau; Dr. med. Breslau 1836. 
-**Abbreviated name**: *H. Scholtz*
+**Abbreviated name**: *H. Scholtz* \[standard form in IPNI: *H.Scholtz*\]
 
 #### Herbarium and types
 

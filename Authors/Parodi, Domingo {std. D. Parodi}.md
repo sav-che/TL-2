@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33189546) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 75](https://www.biodiversitylibrary.org/page/33189546) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7361-1), [Wikidata](https://www.wikidata.org/wiki/Q5812867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Parodi, Domingo (1823-1890), Italian-born pharmacist; to Montevideo 1833; pharmacist ib. 1843; in Paraguay as physician and pharmacist 1853-1867; returned to Montevideo 1869, active as pharmacist until 1879; in Buenos Aires from 1878, Dr. pharm, ib. 1881, lecturer in pharmacy at the Faculty of medical sciences from 1884. 
-**Abbreviated name**: *D. Parodi*
+**Abbreviated name**: *D. Parodi* \[standard form in IPNI: *D.Parodi*\]
 
 #### Herbarium and types
 

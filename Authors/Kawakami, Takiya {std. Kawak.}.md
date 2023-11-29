@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33068752) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33068752) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4679-1), [Wikidata](https://www.wikidata.org/wiki/Q11054892). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kawakami, Takiya (1871-1915), Japanese botanist; botanist of the Government of Formosa from 1901. 
-**Abbreviated name**: *Kawak.*
+**Abbreviated name**: *Kawak.* \[standard form in IPNI: *Kawak.*\]
 
 #### Herbarium and types
 

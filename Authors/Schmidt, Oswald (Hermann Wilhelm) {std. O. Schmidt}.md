@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33333398) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 259](https://www.biodiversitylibrary.org/page/33333398) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/12833-1), [Wikidata](https://www.wikidata.org/wiki/Q6054355). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schmidt, Oswald \[Hermann Wilhelm\], (1907-x), German (Berlin) pharmacist; with the Trebbin pharmacy 1925; first state examination pharmacy 1927; at Berlin University 1928-1930; final examination pharmacy 1930; working on his thesis at the Berlin-Dahlem Botanical Museum under L. Diels 1930-1932; Dr. phil. Berlin 1932. 
-**Abbreviated name**: *O. Schmidt*
+**Abbreviated name**: *O. Schmidt* \[standard form in IPNI: *O.Schmidt*\]
 
 #### Herbarium and types
 

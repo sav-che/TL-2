@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-11-06 14:54:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33066867) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 527](https://www.biodiversitylibrary.org/page/33066867) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12012-1), [Wikidata](https://www.wikidata.org/wiki/Q3815604). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zenker, Jonathan Carl (1799-1837), German (Sachsen) botanist; studied theology (1818-1821), later (1821-1823) natural history and medicine at the University of Jena 1818; private teacher at Dresden 1823; continuing his studies at the medico-surgical school; Dr. phil. Jena 1825, Dr. med. ib. 1825; e.o. professor of natural history at Jena 1828, hon. regular professor in the philosophical faculty 1832, id. medical faculty 1836. 
-**Abbreviated name**: *Zenk.*
+**Abbreviated name**: *Zenk.* \[standard form in IPNI: *Zenker*\]
 
 #### Herbarium and types
 

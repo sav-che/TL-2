@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33120481) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33120481) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1167-1), [Wikidata](https://www.wikidata.org/wiki/Q18342448). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brockmüller, Hans Joachim Heinrich (1821-1882), German cryptogamist, school teacher at Wölschendorf, later "Trichinenschauer" in Schwerin. 
-**Abbreviated name**: *Brockm.*
+**Abbreviated name**: *Brockm.* \[standard form in IPNI: *Brockm.*\]
 
 #### Herbarium and types
 

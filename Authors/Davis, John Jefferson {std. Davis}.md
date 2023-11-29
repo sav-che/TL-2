@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33120733) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 602](https://www.biodiversitylibrary.org/page/33120733) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2029-1), [Wikidata](https://www.wikidata.org/wiki/Q21509931). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Davis, John Jefferson {std. Davis} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Davis, John Jefferson (1852-1937), American physician and mycologist. 
-**Abbreviated name**: *J. J. Davis*
+**Abbreviated name**: *J. J. Davis* \[standard form in IPNI: *Davis*\]
 
 #### Herbarium and types
 

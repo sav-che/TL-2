@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33189755) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33189755) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7738-1), [Wikidata](https://www.wikidata.org/wiki/Q1387276). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Planchon, Jules Émile (1823-1888), French botanist; Dr. sci. nat. Montpellier 1844; assistant to William Jackson Hooker at Kew 1844-1848; professor of botany at the horticultural institute, Gent, 1849-1851; at the École de Pharmacie, Nancy, 1851-1853; assistant professor at Montpellier succeeding Dunal (Faculté des Sciences) 1853-1857), professor at id. as well as at the École de Pharmacie 1857-1881; at the Faculté de Médecine and director of the botanical garden, Montpellier 1881-1888; discovered Phylloxera 1868. 
-**Abbreviated name**: *Planch.*
+**Abbreviated name**: *Planch.* \[standard form in IPNI: *Planch.*\]
 
 #### Herbarium and types
 

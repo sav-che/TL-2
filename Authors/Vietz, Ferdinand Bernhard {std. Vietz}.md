@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:43.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33212777) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 735](https://www.biodiversitylibrary.org/page/33212777) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11179-1), [Wikidata](https://www.wikidata.org/wiki/Q5443805). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vietz, Ferdinand Bernhard (1772-1815), Austrian physician; Dr. med. Wien 1799; extra-ordinary professor of forensic medicine Univ. Wien 1801, regular professor id. 1805; from 1812-1815 director of the Veterinary School of the University. 
-**Abbreviated name**: *Vietz*
+**Abbreviated name**: *Vietz* \[standard form in IPNI: *Vietz*\]
 
 #### Herbarium and types
 

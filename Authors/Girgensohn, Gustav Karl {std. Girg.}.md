@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 948](https://www.biodiversitylibrary.org/page/33121079) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 948](https://www.biodiversitylibrary.org/page/33121079) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/19373-1), [Wikidata](https://www.wikidata.org/wiki/Q12363153). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Girgensohn, Gustav Karl (*fl*. 1856), Estonian bryologist, "Hofrath" in Dorpat. 
-**Abbreviated name**: *Girg.*
+**Abbreviated name**: *Girg.* \[standard form in IPNI: *Girg.*\]
 
 #### Herbarium and types[^1]
 

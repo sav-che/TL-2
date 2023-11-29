@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33266379) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 72](https://www.biodiversitylibrary.org/page/33266379) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16528-1), [Wikidata](https://www.wikidata.org/wiki/Q21506478). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brick, Carl (1863-1924), German (born Stolp in Preussen) botanist (phytopathologist), educated at the Gymnasium of Stolp, the "Realschule I. Ordnung" and the "Realgymnasium zu St. Johann" in Danzig, final examination 1882, studied natural sciences at the University of Breslau 1882-1886, on military duty in Berlin 1886-1887, studied e.g. with F. and H. Cohn, Engler and Göppert, Dr. phil. Breslau 1888, assistant at the Botanical Museum in Hamburg 1887-1888, first assistant at the Botanical Institute in Karlsruhe 1888, later again in Hamburg, ultimately as scientific member of the Institute for applied botany, died on a field trip with the "Gartenbauverein". 
-**Abbreviated name**: *Brick*
+**Abbreviated name**: *Brick* \[standard form in IPNI: *Brick*\]
 
 #### Herbarium and types
 

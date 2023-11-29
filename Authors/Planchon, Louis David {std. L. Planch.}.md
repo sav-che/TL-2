@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33189759) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 288](https://www.biodiversitylibrary.org/page/33189759) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7739-1), [Wikidata](https://www.wikidata.org/wiki/Q21523044). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Planchon, Louis David (1858-1915), French botanist at Montpellier; Dr. méd. Montpellier 1883; Pharm. sup. 1891, Dr. sci. 1900; from 1882-1894 at the Faculté de médecine; aggr. pharm. Paris 1894; associated with the École Supérieure de pharmacie, Montpellier 1883-1915; from 1901 as professor of matera medica; son of J.E. Planchon. 
-**Abbreviated name**: *L. Planch.*
+**Abbreviated name**: *L. Planch.* \[standard form in IPNI: *L.Planch.*\]
 
 #### Herbarium and types
 

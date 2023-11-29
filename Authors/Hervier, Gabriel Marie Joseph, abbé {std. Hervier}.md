@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33068419) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 177](https://www.biodiversitylibrary.org/page/33068419) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3892-1), [Wikidata](https://www.wikidata.org/wiki/Q5873427). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hervier, Gabriel Marie Joseph, abbé (1846-1900), French clergyman and botanist. 
-**Abbreviated name**: *Hervier*
+**Abbreviated name**: *Hervier* \[standard form in IPNI: *Hervier*\]
 
 #### Herbarium and types
 

@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2011-12-01 06:57:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33120225) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 94](https://www.biodiversitylibrary.org/page/33120225) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/395-1), [Wikidata](https://www.wikidata.org/wiki/Q152366). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bailey, Liberty Hyde {std. L.H. Bailey} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bailey, Liberty Hyde (1858-1954), American horticulturist at Cornell University. 
-**Abbreviated name**: *L.H.Bailey*
+**Abbreviated name**: *L.H.Bailey* \[standard form in IPNI: *L.H.Bailey*\]
 
 #### Herbarium and types
 

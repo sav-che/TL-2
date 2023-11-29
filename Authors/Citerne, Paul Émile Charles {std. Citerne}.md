@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:29.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33265856) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 179](https://www.biodiversitylibrary.org/page/33265856) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1656-1), [Wikidata](https://www.wikidata.org/wiki/Q21508639). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Citerne, Paul Émile Charles (1857-x), French botanist, born 31 Aug 1857 at Nantes, Loire-Inférieure, France, promotion at the Faculté des Sciences de Paris, Dr. in natural sciences, préparateur at the École pratique des Hautes Études 1892, later at the medical school at Nantes. 
-**Abbreviated name**: *Citerne*
+**Abbreviated name**: *Citerne* \[standard form in IPNI: *Citerne*\]
 
 #### Herbarium and types
 

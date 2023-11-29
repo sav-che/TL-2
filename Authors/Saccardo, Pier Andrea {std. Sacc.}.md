@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1024](https://www.biodiversitylibrary.org/page/33190495) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1024](https://www.biodiversitylibrary.org/page/33190495) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8788-1), [Wikidata](https://www.wikidata.org/wiki/Q707840). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saccardo, Pier Andrea (1845-1920), Italian botanist (mycologist); Dr. phil. Padua 1867; assistant to R. de Visiani at Padua University 1866-1872; professor of natural sciences at the Padua Technical Institute 1869-1879; professor of botany and director of the botanical garden of the University of Padua 1879-1915. 
-**Abbreviated name**: *Sacc.*
+**Abbreviated name**: *Sacc.* \[standard form in IPNI: *Sacc.*\]
 
 #### Herbarium and types
 

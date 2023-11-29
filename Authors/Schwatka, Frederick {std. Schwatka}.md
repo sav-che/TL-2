@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33333566) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 427](https://www.biodiversitylibrary.org/page/33333566) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9362-1), [Wikidata](https://www.wikidata.org/wiki/Q636108). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwatka, Frederick (1849-1892), American soldier and explorer, especially of the Arctic; studied at West Point, 1867-1871; cavalry lieutenant 1871-1885; Dr. med. New York 1876; on the New York Herald expedition to King William's land 1878-1880; in command of the New York Times Alaska expedition 1886. 
-**Abbreviated name**: *Schwatka*
+**Abbreviated name**: *Schwatka* \[standard form in IPNI: *Schwatka*\]
 
 #### Herbarium and types
 

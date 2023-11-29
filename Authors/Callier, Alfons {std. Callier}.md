@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:24:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33266621) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 314](https://www.biodiversitylibrary.org/page/33266621) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1362-1), [Wikidata](https://www.wikidata.org/wiki/Q5666633). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Callier, Alfons (1866-1927), German botanist and pharmacist, born in the Niederlausitz, (Spremberg), studied pharmacy at the University of Breslau, pharmacist in Caroluth, ultimately in Bunzlau, travelled in the Crimea and the Caucasus ca. 1895-1896. 
-**Abbreviated name**: *Callier*
+**Abbreviated name**: *Callier* \[standard form in IPNI: *Callier*\]
 
 #### Herbarium and types
 

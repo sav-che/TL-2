@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33212281) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33212281) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12926-1), [Wikidata](https://www.wikidata.org/wiki/Q2834212). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Théis, Alexandre \[Étienne Guillaume, baron\] de (1765-1842), French author and administrator; maire Laon 1808-1814; prefect of the dept. Corrèze 1830, ultimately dépt. Haute-Vienne. 
-**Abbreviated name**: *Théis*
+**Abbreviated name**: *Théis* \[standard form in IPNI: *Théis*\]
 
 #### Herbarium and types
 

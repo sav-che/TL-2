@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33259804) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 300](https://www.biodiversitylibrary.org/page/33259804) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/2810-1), [Wikidata](https://www.wikidata.org/wiki/Q2987664). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Font i Quer, Pio (Font Quer, Pius) {std. Font Quer}|first entry]] for this author
 
 ### Author
 
 \* Font Quer, Pio\[afterwards Font i Quer, Pius\] (1888-1964), Spanish (Catalan) chemist, pharmacist and botanist, born 9 Apr 1888 in Lleida (Lérida), attended school in Manresa until 1905, studied chemistry in Barcelona, Lic. en Ciencias Químicas 1908, asst., Inst. Catalana d'Historia Natural studying pharmacy 1909, botanical exploration in Morocco (Protectorate of Rif and Ifni) 1912-1913, Dr. Sci. 1914 Facultad de Farmacia, Madrid, military pharmacist 1914-1915, extraord. prof. 1917, Univ. of Barcelona, full prof. 1918, founder and dir., Natural Science Museum, Barcelona 1916-1939, following the Spanish Civil War imprisoned 1939-1940, Dr. h.c. 1959 Univ. of Montpellier, died 2 Jan 1964 in Barcelona. 
-**Abbreviated name**: *Font Quer*
+**Abbreviated name**: *Font Quer* \[standard form in IPNI: *Font Quer*\]
 
 #### Herbarium and types
 

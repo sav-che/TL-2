@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33189826) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 355](https://www.biodiversitylibrary.org/page/33189826) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7883-1), [Wikidata](https://www.wikidata.org/wiki/Q19004273). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Posthumus, Oene (1898-1945), Dutch botanist (pteridologist, palaeobotanist, geneticist); Dr. phil. Groningen 1924; to Indonesia 1925; in Bogor and on Djambi Exped. 1925; geneticist at the Java Sugar Experiment Station, Pasuruan 1926-1939; from 1939 director of the general agricultural experiment station, Buitenzorg; murdered by extremists Nov 1945. 
-**Abbreviated name**: *Posth.*
+**Abbreviated name**: *Posth.* \[standard form in IPNI: *Posth.*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33069061) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33069061) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5434-1), [Wikidata](https://www.wikidata.org/wiki/Q62981). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lehmann, Johann Georg Christian (1792-1860), German botanist at Hamburg; town librarian and professor of natural history at the Hamburg Johanneum (Gymnasium academicum); director of the Hamburg botanical garden. 
-**Abbreviated name**: *Lehm.*
+**Abbreviated name**: *Lehm.* \[standard form in IPNI: *Lehm.*\]
 
 #### Herbarium and types
 

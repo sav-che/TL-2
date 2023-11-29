@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33120631) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33120631) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1627-1), [Wikidata](https://www.wikidata.org/wiki/Q115901). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Christ(-Socin), (Konrad) Hermann (Heinrich) {std. Christ} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Christ, Konrad Hermann Heinrich (1833-1933), Swiss pteridologist and plant geographer, professor of botany at Basel. 
-**Abbreviated name**: *Christ*
+**Abbreviated name**: *Christ* \[standard form in IPNI: *Christ*\]
 
 #### Herbarium and types
 

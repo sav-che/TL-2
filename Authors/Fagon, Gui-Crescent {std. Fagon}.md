@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33120942) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 811](https://www.biodiversitylibrary.org/page/33120942) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2620-1), [Wikidata](https://www.wikidata.org/wiki/Q1333551). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fagon, Gui-Crescent (1638-1718), first body-physician of Louis XIV (1693), professor of botany at the Paris *Jardin du Roi* (1671-1708), director id. (1699-1718), honorary member of the Académie des Sciences 1699. Was instrumental in sending collectors abroad (e.g. Tournefort, Antoine de Jussieu) and attracted Tournefort, Vaillant and Antoine de Jussieu to the *Jardin du Roi*. 
-**Abbreviated name**: *Fagon*
+**Abbreviated name**: *Fagon* \[standard form in IPNI: *Fagon*\]
 
 #### Herbarium and types
 

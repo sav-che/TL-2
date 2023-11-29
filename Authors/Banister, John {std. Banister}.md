@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33120245) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 114](https://www.biodiversitylibrary.org/page/33120245) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/446-1), [Wikidata](https://www.wikidata.org/wiki/Q1375875). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Banister, John (1650-1692), British missionary in the West In dies and Virginia, ardent naturalist. 
-**Abbreviated name**: *Banister*
+**Abbreviated name**: *Banister* \[standard form in IPNI: *Banister*\]
 
 #### Herbarium and types
 

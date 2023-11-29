@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:09.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33355280) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 193](https://www.biodiversitylibrary.org/page/33355280) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5836-1), [Wikidata](https://www.wikidata.org/wiki/Q16649774). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lund, Nils (1814-1847), Norwegian botanist; pupil of E. M. Fries (1843-1845); went to Venezuela in 1846. 
-**Abbreviated name**: *N. Lund*
+**Abbreviated name**: *N. Lund* \[standard form in IPNI: *N.Lund*\]
 
 #### Herbarium and types
 

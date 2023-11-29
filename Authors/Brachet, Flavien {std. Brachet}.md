@@ -21,14 +21,13 @@ ipni_record_created: 2004-01-15 08:21:45.0
 ipni_record_modified: 2004-03-31 04:32:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33266309) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 2](https://www.biodiversitylibrary.org/page/33266309) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/20000062-2), [Wikidata](https://www.wikidata.org/wiki/Q21506403). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brachet, Flavien (x-1910), French botanist in Rémollon (Hautes-Alpes), teacher and guide on excursions at Gap in the Hautes-Alpes. 
-**Abbreviated name**: *Brachet*
+**Abbreviated name**: *Brachet* \[standard form in IPNI: *F.Brachet*\]
 
 #### Herbarium and types
 

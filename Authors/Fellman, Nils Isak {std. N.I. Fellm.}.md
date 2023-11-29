@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33120953) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 822](https://www.biodiversitylibrary.org/page/33120953) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2676-1), [Wikidata](https://www.wikidata.org/wiki/Q3450203). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Fellman, Nils Isak {std. N.I. Fellm.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Fellman, Nils Isak (1841-1919), Finnish magistrate and botanist. 
-**Abbreviated name**: *Fellman*
+**Abbreviated name**: *Fellman* \[standard form in IPNI: *N.I.Fellm.*\]
 
 #### Herbarium and types
 

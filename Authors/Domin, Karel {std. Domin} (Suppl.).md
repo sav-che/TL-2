@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2006-10-31 14:05:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33260021) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 33](https://www.biodiversitylibrary.org/page/33260021) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2263-1), [Wikidata](https://www.wikidata.org/wiki/Q1109649). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Domin, Karel {std. Domin}|first entry]] for this author
 
 ### Author
 
 \* Domin, Karel (1882-1953), Czech botanist, born 4 Mai 1882, Kuttenberg (Kutná Hora), Bohemia, died in Prague (Praha) 10 Jun 1953, career mainly as professor of botany at Prague University, visited Australia 1909-1910 collecting in Queensland and New South Wales. 
-**Abbreviated name**: *Domin*
+**Abbreviated name**: *Domin* \[standard form in IPNI: *Domin*\]
 
 #### Herbarium and types
 

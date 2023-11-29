@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33260007) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 19](https://www.biodiversitylibrary.org/page/33260007) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/14670-1), [Wikidata](https://www.wikidata.org/wiki/Q18911129). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Dodge, Raynal (1844-1918), American studying ferns and fern allies, born 9 Sep 1844 in Newburyport, Mass., visited the local high school, enlisted in the army and served in the Civil War, later worked as a machinist in a comb factory at Newburyport, was life-long interested in natural history, died 20 Oct 1918 at Newburyport. 
-**Abbreviated name**: *R. Dodge*
+**Abbreviated name**: *R. Dodge* \[standard form in IPNI: *R.Dodge*\]
 
 #### Herbarium and types
 

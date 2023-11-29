@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2005-06-22 07:03:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33066889) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 549](https://www.biodiversitylibrary.org/page/33066889) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13046-1), [Wikidata](https://www.wikidata.org/wiki/Q929904). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zohary, (né Schein) Michael (1898-1983), Polish (Galicia)-born Israeli botanist; migrated to Palestine 1920; Dr.phil. Praha 1936; with the Hebrew University 1926-1967; in retirement continuing his botanical work. 
-**Abbreviated name**: *Zoh.*
+**Abbreviated name**: *Zoh.* \[standard form in IPNI: *Zohary*\]
 
 #### Herbarium and types
 

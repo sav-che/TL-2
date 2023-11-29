@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 729](https://www.biodiversitylibrary.org/page/33355816) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 729](https://www.biodiversitylibrary.org/page/33355816) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/9931-1), [Wikidata](https://www.wikidata.org/wiki/Q6469631). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Netto, Ladislau de Souza Mello e (1837-?), Brazilian botanist; director of the botanical section óf the Rio de Janeiro National Museum 1866-1875; director of the entire museum from 1875-1893. 
-**Abbreviated name**: *Netto*
+**Abbreviated name**: *Netto* \[standard form in IPNI: *Netto*\]
 
 #### Herbarium and types
 

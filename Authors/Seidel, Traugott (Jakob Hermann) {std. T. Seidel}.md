@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33333630) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33333630) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9437-1), [Wikidata](https://www.wikidata.org/wiki/Q19285492). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Seidel, Traugott \[Jakob Hermann\] (1833-1896) German (Saxonian) horticulturist at Dresden and Striessen; owner of a firm growing Azalea, Rhododendron and Camellia. 
-**Abbreviated name**: *T. Seidel*
+**Abbreviated name**: *T. Seidel* \[standard form in IPNI: *T.Seidel*\]
 
 #### Herbarium and types
 

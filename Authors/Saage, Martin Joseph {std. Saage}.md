@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1020](https://www.biodiversitylibrary.org/page/33190491) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1020](https://www.biodiversitylibrary.org/page/33190491) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8777-1), [Wikidata](https://www.wikidata.org/wiki/Q21607592). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saage, Martin Joseph (1803-?), German (Bohemian-born) botanist and high school teacher at the gymnasium of Braunsberg (Eastern Prussia). 
-**Abbreviated name**: *Saage*
+**Abbreviated name**: *Saage* \[standard form in IPNI: *Saage*\]
 
 #### Herbarium and types
 

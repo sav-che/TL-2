@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33266608) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 301](https://www.biodiversitylibrary.org/page/33266608) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16804-1), [Wikidata](https://www.wikidata.org/wiki/Q21506834). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cain, Stanley Adair (1902-x), American botanist, studied at Butler University, B.S. 1924, id. University of Chicago, M.S. 1927, ib. Ph. D. 1930, associated professor at Butler University 1925-1931, asst. prof. Indiana University 1931-1933, research associate at Waterman Institute 1933-1935, professor at University Tennessee 1935-1946, botanist at Cranbrook Inst. Sci. 1946-1950, chairman dept. conservation id. 1953-1961, conservation and direction of the Inst. Environ. Qual. 1950-1974. 
-**Abbreviated name**: *S.A. Cain*
+**Abbreviated name**: *S.A. Cain* \[standard form in IPNI: *S.A.Cain*\]
 
 #### Herbarium and types
 

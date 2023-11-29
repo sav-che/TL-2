@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1002](https://www.biodiversitylibrary.org/page/33190473) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1002](https://www.biodiversitylibrary.org/page/33190473) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8755-1), [Wikidata](https://www.wikidata.org/wiki/Q4719991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Russell, Alexander (ca. 1715-1768), British (Scottish) physician and naturalist, MD Glasgow; physician to the English factory at Aleppo, Syria, ca. 1740-1753; to St. Thomas's Hospital London 1759-1768. 
-**Abbreviated name**: *Al. Russell*
+**Abbreviated name**: *Al. Russell* \[standard form in IPNI: *Russell*\]
 
 #### Herbarium and types
 

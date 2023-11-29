@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33265905) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 228](https://www.biodiversitylibrary.org/page/33265905) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1707-1), [Wikidata](https://www.wikidata.org/wiki/Q8003467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Clute, Willard Nelson (1869-1950), American botanist (pteridologist), education informal especially with private study, longtime with Butler University at Indianapolis, Indiana, later director of Holliday Park Botanical Garden, Indianapolis, editor and founder of the American Botanist and the Fern Bulletin, collected widely especially in the Navajo Reservation of N.E. Arizona. 
-**Abbreviated name**: *Clute*
+**Abbreviated name**: *Clute* \[standard form in IPNI: *Clute*\]
 
 #### Herbarium and types
 

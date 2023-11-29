@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33212382) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 340](https://www.biodiversitylibrary.org/page/33212382) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10653-1), [Wikidata](https://www.wikidata.org/wiki/Q6221079). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thurston, John Bates (1836-1897), British planter, politician and administrator in the merchant service 1850-1855; sheep farmer near Sydney ca. 1859-1862; acting consul Ovalau, Fiji Isl. 1867-1869; colonial secretary Fiji 1874, lieut. governor 1886, governor and commander-in-chief Fiji and Western Pacific 1887-1897; collected plants on Fiji between 1863 and 1897 
-**Abbreviated name**: *J. Thurst.*
+**Abbreviated name**: *J. Thurst.* \[standard form in IPNI: *J.Thurst.*\]
 
 #### Herbarium and types
 

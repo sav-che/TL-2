@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33355676) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 589](https://www.biodiversitylibrary.org/page/33355676) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23642-1), [Wikidata](https://www.wikidata.org/wiki/Q2614546). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moritzi, Alexander (1806-1850), Swiss botanist; worked for some time with A. P. de Candolle in Genève, afterwards high school teacher at Solothurn. 
-**Abbreviated name**: *Moritzi*
+**Abbreviated name**: *Moritzi* \[standard form in IPNI: *Moritzi*\]
 
 #### Herbarium and types
 

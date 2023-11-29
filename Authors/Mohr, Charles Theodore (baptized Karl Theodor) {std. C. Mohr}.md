@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:26:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33355630) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 543](https://www.biodiversitylibrary.org/page/33355630) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23526-1), [Wikidata](https://www.wikidata.org/wiki/Q5081015). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mohr, Charles Theodore (baptized Karl Theodor) (1824-1901), German-born American botanist who studied at Stuttgart; collected in Suriname 1845-1846; emigrated to the United States 1848, joined the "forty-niners" in the gold-rush of 1859; spent a year in gold-mining in the Sacramento valley (Calif,); two years farming in Indiana; then at Louisville, Ala., and in Mexico; from 1857-1899 druggist at Mobile, Ala., 1899-1901 at Asheville, N. C. 
-**Abbreviated name**: *C. Mohr*
+**Abbreviated name**: *C. Mohr* \[standard form in IPNI: *C.Mohr*\]
 
 #### Herbarium and types
 

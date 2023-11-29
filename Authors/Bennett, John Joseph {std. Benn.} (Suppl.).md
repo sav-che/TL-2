@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33265271) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 74](https://www.biodiversitylibrary.org/page/33265271) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/657-1), [Wikidata](https://www.wikidata.org/wiki/Q682867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bennett, John Joseph {std. Benn.}|first entry]] for this author
 
 ### Author
 
 \* Bennett, John Joseph (1801-1876), British botanist, studied medicine at the Middlesex Hospital, Member of the College of Surgeons 1825, assistant-keeper to Robert Brown at the British Museum 1827, keeper to the Botanical Dept. 1857-1870, secretary of the Linnean Society 1840-1860, retired 1870 to Maresfield, Sussex. 
-**Abbreviated name**: *Benn.*
+**Abbreviated name**: *Benn.* \[standard form in IPNI: *Benn.*\]
 
 #### Herbarium and types
 

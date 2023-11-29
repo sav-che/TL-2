@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2007-12-12 10:59:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33266047) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 370](https://www.biodiversitylibrary.org/page/33266047) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/12387-1), [Wikidata](https://www.wikidata.org/wiki/Q10307130). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Correia \[Correa\] de Méllo, Joaquim (1816-1877), Brazilian botanist, born 10 Apr 1816 at São Paulo, studied law at the University of São Paulo, later pharmacy at Rio de Janeiro 1834-1836, received his diploma "optime cum laude", investigated the flora around São Paulo, collected many plants that were sent to England and Paris, e.g. Bignoniaceae to Bureau, died 20 Dec 1877. 
-**Abbreviated name**: *Corr. Méllo*
+**Abbreviated name**: *Corr. Méllo* \[standard form in IPNI: *Corr.Mello*\]
 
 #### Herbarium and types
 

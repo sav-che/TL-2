@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/page/33068717) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 475](https://www.biodiversitylibrary.org/page/33068717) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4593-1), [Wikidata](https://www.wikidata.org/wiki/Q377094). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jussieu, Adrien Henri Laurent de (1797-1853), French botanist; son of A. L. de Jussieu; professor of botany at the Muséum d'Histoire naturelle 1826. 
-**Abbreviated name**: *Adr. Juss.*
+**Abbreviated name**: *Adr. Juss.* \[standard form in IPNI: *A.Juss.*\]
 
 #### Herbarium and types
 

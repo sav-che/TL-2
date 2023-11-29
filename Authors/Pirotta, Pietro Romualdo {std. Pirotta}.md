@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33189745) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33189745) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7727-1), [Wikidata](https://www.wikidata.org/wiki/Q3388178). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pirotta, Pietro Romualdo (1853-1936), Italian botanist (educated in Pavia); director of the botanic garden at Modena 1880-1883, professor of botany at the University of Roma 1883 (extraord.), 1888. (ord.) and director of the botanic garden until 1928. 
-**Abbreviated name**: *Pirotta*
+**Abbreviated name**: *Pirotta* \[standard form in IPNI: *Pirotta*\]
 
 #### Herbarium and types
 

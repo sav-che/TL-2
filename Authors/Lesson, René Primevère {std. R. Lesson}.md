@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33069095) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 853](https://www.biodiversitylibrary.org/page/33069095) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5510-1), [Wikidata](https://www.wikidata.org/wiki/Q318217). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lesson, René Primevère (1794-1849), French physician, pharmacist and explorer on the voyage of *La Coquille* (1822-1825); later teacher at the naval academy of Rochefort. 
-**Abbreviated name**: *R. Lesson*
+**Abbreviated name**: *R. Lesson* \[standard form in IPNI: *R.Lesson*\]
 
 #### Herbarium and types
 

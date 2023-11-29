@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/page/33190359) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 888](https://www.biodiversitylibrary.org/page/33190359) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8589-1), [Wikidata](https://www.wikidata.org/wiki/Q21607412). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rosen, Felix (1863-1925), German (Leipzig-born) botanist; spent his youth in Jerusalem and Belgrado; studied at Basel (1883) and Strassburg, 1884-1886, with A. de Bary; Dr. phil. Strassburg 1886; assistant at Tübingen 1888-1891; id. with F. Cohn in Breslau 1891; habil. Breslau 1892; first appointment as e.o. prof. of botany at Breslau 1901; travelled in Abyssinia 1904-1905; e.o. professor of botany and director of the Breslau botanical institute 1906; ordinary professor 1920; murdered in Breslau 1925. 
-**Abbreviated name**: *F. Rosen*
+**Abbreviated name**: *F. Rosen* \[standard form in IPNI: *F.Rosen*\]
 
 #### Herbarium and types
 

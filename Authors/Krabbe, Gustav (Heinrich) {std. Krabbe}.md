@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33068900) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 658](https://www.biodiversitylibrary.org/page/33068900) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/35180-1), [Wikidata](https://www.wikidata.org/wiki/Q21517878). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krabbe, Gustav \[Heinrich\] (1855-1895), German botanist; Dr. phil. Berlin 1882; from 1890 at Berlin University with Schwendener. 
-**Abbreviated name**: *Krabbe*
+**Abbreviated name**: *Krabbe* \[standard form in IPNI: *Krabbe*\]
 
 #### Herbarium and types
 

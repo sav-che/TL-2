@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33068678) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 436](https://www.biodiversitylibrary.org/page/33068678) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4467-1), [Wikidata](https://www.wikidata.org/wiki/Q21516990). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jenkinson, James (1739?-1808), British botanist of Yealand, Lancs.; breeder of *Pelargonium*. 
-**Abbreviated name**: *Jenkins.*
+**Abbreviated name**: *Jenkins.* \[standard form in IPNI: *Jenk.*\]
 
 #### Herbarium and types
 

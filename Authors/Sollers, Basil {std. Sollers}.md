@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33333867) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 728](https://www.biodiversitylibrary.org/page/33333867) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9878-1), [Wikidata](https://www.wikidata.org/wiki/Q21609191). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sollers, Basil (1853-1909), American botanist at Baltimore. 
-**Abbreviated name**: *Sollers*
+**Abbreviated name**: *Sollers* \[standard form in IPNI: *Sollers*\]
 
 #### Herbarium and types
 

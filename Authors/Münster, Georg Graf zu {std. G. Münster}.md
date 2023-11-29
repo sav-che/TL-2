@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 654](https://www.biodiversitylibrary.org/page/33355741) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 654](https://www.biodiversitylibrary.org/page/33355741) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6754-1), [Wikidata](https://www.wikidata.org/wiki/Q70680). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Münster, Georg Graf zu (1776-1844), German financial administrator and palaeontologist at Bayreuth. 
-**Abbreviated name**: *G. Münster*
+**Abbreviated name**: *G. Münster* \[standard form in IPNI: *Münster*\]
 
 #### Collection
 

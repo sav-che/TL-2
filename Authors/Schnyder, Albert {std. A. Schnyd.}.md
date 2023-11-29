@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33333423) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 284](https://www.biodiversitylibrary.org/page/33333423) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9206-1), [Wikidata](https://www.wikidata.org/wiki/Q21608233). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schnyder, Albert (1856-1938), Swiss (Zürich) botanist and railway employee. 
-**Abbreviated name**: *A. Schnyd.*
+**Abbreviated name**: *A. Schnyd.* \[standard form in IPNI: *A.Schnyd.*\]
 
 #### Herbarium and types
 

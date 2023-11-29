@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33066697) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 357](https://www.biodiversitylibrary.org/page/33066697) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11749-1), [Wikidata](https://www.wikidata.org/wiki/Q21612799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wiltshear, Frederick Gilbert (1882-1917), British botanical bibliographer; with the Botanical Department of Botany of the British Museum from 1896 as boy-attendant, from 1905 as librarian; with the King's Royal Rifles on active service in World War I; died "of wounds" in France 1917. 
-**Abbreviated name**: *F. Wiltshear*
+**Abbreviated name**: *F. Wiltshear* \[standard form in IPNI: *Wiltshear*\]
 
 #### Herbarium and types
 

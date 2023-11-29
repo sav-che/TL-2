@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33355307) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 220](https://www.biodiversitylibrary.org/page/33355307) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5917-1), [Wikidata](https://www.wikidata.org/wiki/Q47122315). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 McGibbon \[MacGibbon\], James (*fl*. 1848-1864), Scottish gardener; at the Cape of Good Hope for Kew from 1850. 
-**Abbreviated name**: *McGibb.*
+**Abbreviated name**: *McGibb.* \[standard form in IPNI: *McGibb.*\]
 
 #### Herbarium and types
 

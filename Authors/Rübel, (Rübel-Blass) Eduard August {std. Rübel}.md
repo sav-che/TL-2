@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 975](https://www.biodiversitylibrary.org/page/33190446) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 975](https://www.biodiversitylibrary.org/page/33190446) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8716-1), [Wikidata](https://www.wikidata.org/wiki/Q125724). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rübel, (Rübel-Blass) Eduard August (1876-1960), Swiss (German-American father and Swiss mother) botanist; Dr. phil. E.T.H. Zürich 1901; engaged in botanical research from 1904, especially in geobotany; founder (with his sisters) of the Geobotanische Forschungsinstitut Rübel 1918; "Privatdocent" E.T.H. Zürich 1917-1934. 
-**Abbreviated name**: *Rübel*
+**Abbreviated name**: *Rübel* \[standard form in IPNI: *Rübel*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33265584) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33265584) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/1026-1), [Wikidata](https://www.wikidata.org/wiki/Q21506363). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bouloumoy, Louis (x-1926), French jesuit priest and during 35 years professor at the French Faculty of Médecine of Beyrouth. 
-**Abbreviated name**: *Boul.*
+**Abbreviated name**: *Boul.* \[standard form in IPNI: *Boul.*\]
 
 #### Herbarium and types
 

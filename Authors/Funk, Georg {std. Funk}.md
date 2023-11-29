@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33258556) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 78](https://www.biodiversitylibrary.org/page/33258556) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/33166-1), [Wikidata](https://www.wikidata.org/wiki/Q21513638). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Funk, Georg (1886-1958), German algologist and dendrologist, born 15 Mai 1886 in Bensheim (Hesse), Inaugural Dissertation 1912 Ludwigs-Univ., Giessen, appointed, marine botany dept., Stazione Zoologica, Naples, Italy 1912, also prof. of botany, Ludwigs-Univ., died 24 Jan 1958 in Naples. 
-**Abbreviated name**: *Funk*
+**Abbreviated name**: *Funk* \[standard form in IPNI: *Funk*\]
 
 #### Herbarium and types
 

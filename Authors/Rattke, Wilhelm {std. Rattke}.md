@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33190056) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 585](https://www.biodiversitylibrary.org/page/33190056) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8158-1), [Wikidata](https://www.wikidata.org/wiki/Q36703592). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rattke, Wilhelm (*fl*. 1884), German botanist. 
-**Abbreviated name**: *Rattke*
+**Abbreviated name**: *Rattke* \[standard form in IPNI: *Rattke*\]
 
 #### Herbarium and types
 

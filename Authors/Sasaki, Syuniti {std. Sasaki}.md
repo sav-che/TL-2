@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33333201) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 62](https://www.biodiversitylibrary.org/page/33333201) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8930-1), [Wikidata](https://www.wikidata.org/wiki/Q6127254). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sasaki, Syun'iti (1888-1960), Japanese botanist at the Government Research Institute, Formosa (now Taiwan). 
-**Abbreviated name**: *Sasaki*
+**Abbreviated name**: *Sasaki* \[standard form in IPNI: *Sasaki*\]
 
 #### Herbarium and types
 

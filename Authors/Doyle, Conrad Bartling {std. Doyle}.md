@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33120807) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 676](https://www.biodiversitylibrary.org/page/33120807) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2298-1), [Wikidata](https://www.wikidata.org/wiki/Q21510879). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Doyle, Conrad Bartling (1884-?), American botanist at the U.S. Department of Agriculture, traveller in Central America. 
-**Abbreviated name**: *Doyle*
+**Abbreviated name**: *Doyle* \[standard form in IPNI: *Doyle*\]
 
 #### Herbarium and types
 

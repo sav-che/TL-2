@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33120407) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 276](https://www.biodiversitylibrary.org/page/33120407) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/962-1), [Wikidata](https://www.wikidata.org/wiki/Q98264). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bonstedt, Carl (1866-x), German gardener. 
-**Abbreviated name**: *Bonstedt*
+**Abbreviated name**: *Bonstedt* \[standard form in IPNI: *Bonstedt*\]
 
 #### Herbarium and types
 

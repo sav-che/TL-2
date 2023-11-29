@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33355300) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 213](https://www.biodiversitylibrary.org/page/33355300) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5898-1), [Wikidata](https://www.wikidata.org/wiki/Q5667435). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 McClatchie, Alfred James (1861-1906), American agriculturist and horticulturist; B.A. Univ. Nebraska, M. A. Olivet Coll. 1889; professor of agriculture Univ. Arizona 1898; later at the Throop Polytechnic Institute, Pasadena 
-**Abbreviated name**: *McClat.*
+**Abbreviated name**: *McClat.* \[standard form in IPNI: *McClatchie*\]
 
 #### Herbarium and types
 

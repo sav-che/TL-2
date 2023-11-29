@@ -22,16 +22,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33265253) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 56](https://www.biodiversitylibrary.org/page/33265253) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/622-1), [Wikidata](https://www.wikidata.org/wiki/Q21505890). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Beijerinck, Willem {std. W. Beij.}|first entry]] for this author
 
 ### Author
 
 \* Beijerinck, Willem (1891-1960), Dutch botanist, assistant at the microbiological department of the Technical College Delft 1917-1918, studied at the Agricultural College at Wageningen, Dr. phil. ib. 1927, assistant with the plant physiology institute at Wageningen 1926; founder and director of the Biological Station at Wijster 1926-1953; from 1953-1957 idem when the station had become a department of the Wageningen College. 
-**Abbreviated name**: *W. Beij.*
+**Abbreviated name**: *W. Beij.* \[standard form in IPNI: *W.Beij.*\]
 
 #### Herbarium and types
 

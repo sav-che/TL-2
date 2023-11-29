@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 770](https://www.biodiversitylibrary.org/page/33069012) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/31433-1), [Wikidata](https://www.wikidata.org/wiki/Q1707480). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lauterer, Joseph (1848-1911), German physician; surgeon in the Franco-Prussian war; botanist and phytochemist; originally at Freiburg i.B., from Mar 1885 in Australia at Brisbane. 
-**Abbreviated name**: *Lauterer*
+**Abbreviated name**: *Lauterer* \[standard form in IPNI: *Lauterer*\]
 
 #### Herbarium and types
 

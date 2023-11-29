@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 635](https://www.biodiversitylibrary.org/page/33355722) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 635](https://www.biodiversitylibrary.org/page/33355722) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6736-1), [Wikidata](https://www.wikidata.org/wiki/Q56651425). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mueller, Jean Baptiste \[Baptista\] (1806-1894), German pharmacist and botanist at Mesebach, Emmerich and Berlin 
-**Abbreviated name**: *J. B. Müll*
+**Abbreviated name**: *J. B. Müll* \[standard form in IPNI: *J.B.Müll.*\]
 
 #### Herbarium and types
 

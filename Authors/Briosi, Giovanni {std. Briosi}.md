@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33120458) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33120458) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/1150-1), [Wikidata](https://www.wikidata.org/wiki/Q21506492). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Briosi, Giovanni {std. Briosi} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Briosi, Giovanni (1846-1921 \[1919?\]), Italian cryptogamic botanist, professor of botany and director of the botanic garden of Paris. 
-**Abbreviated name**: *Briosi*
+**Abbreviated name**: *Briosi* \[standard form in IPNI: *Briosi*\]
 
 #### Herbarium and types
 

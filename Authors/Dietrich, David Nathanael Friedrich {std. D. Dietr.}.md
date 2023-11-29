@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33120782) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 651](https://www.biodiversitylibrary.org/page/33120782) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2207-1), [Wikidata](https://www.wikidata.org/wiki/Q73233). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dietrich, David Nathanael Friedrich {std. D. Dietr.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Dietrich, David Nathanael Friedrich (1799-1888), German botanical polygraph "Ein Vielschreiber in Jena, der deutschen Buchoz" (PR); baptized as Johann David Nicolaus Dietrich. 
-**Abbreviated name**: *D. Dietr.*
+**Abbreviated name**: *D. Dietr.* \[standard form in IPNI: *D.Dietr.*\]
 
 #### Herbarium and types
 

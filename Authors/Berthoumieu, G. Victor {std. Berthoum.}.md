@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33265319) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33265319) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16038-1), [Wikidata](https://www.wikidata.org/wiki/Q21506028). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Berthoumieu, G. Victor (1840-1916), French clergyman and botanist. 
-**Abbreviated name**: *Berthoum.*
+**Abbreviated name**: *Berthoum.* \[standard form in IPNI: *Berthoum.*\]
 
 #### Herbarium and types
 

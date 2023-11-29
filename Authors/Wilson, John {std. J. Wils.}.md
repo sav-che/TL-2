@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:53.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33066694) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 354](https://www.biodiversitylibrary.org/page/33066694) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11737-1), [Wikidata](https://www.wikidata.org/wiki/Q18673997). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilson, John (1696-1751), British shoemaker, baker and botanist at Kendal, Westmorland. 
-**Abbreviated name**: *J. Wils.*
+**Abbreviated name**: *J. Wils.* \[standard form in IPNI: *J.Wilson*\]
 
 #### Herbarium and types
 

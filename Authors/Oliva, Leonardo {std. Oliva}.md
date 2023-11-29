@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33355906) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 819](https://www.biodiversitylibrary.org/page/33355906) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7125-1), [Wikidata](https://www.wikidata.org/wiki/Q21522367). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Oliva, Leonardo (1805-1873), Mexican botanist and pharmacologist. 
-**Abbreviated name**: *Oliva*
+**Abbreviated name**: *Oliva* \[standard form in IPNI: *Oliva*\]
 
 #### Herbarium and types
 

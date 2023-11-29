@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2014-07-07 14:10:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33266495) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 188](https://www.biodiversitylibrary.org/page/33266495) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1245-1), [Wikidata](https://www.wikidata.org/wiki/Q69809). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Buchenau, Franz Georg Philipp {std. Buchenau}|first entry]] for this author
 
 ### Author
 
 \* Buchenau, Franz \[Georg Philipp\] (1831-1906), German highschool teacher and botanist at Bremen, outstanding morphologist, systematist and phytogeographer, born in Kassel, educated at the Kassel Gymnasium and the "Polytechnische Schule", studied in Marburg 1848-1850 and in Göttingen 1850-1852 with Bartling and Grisebach, Dr. phil. Marburg 1852, private teacher at Frankfurt a.M. 1853-1854, at the Garnierschen Erziehungsanstalten in Friedrichsdorf nr. Frankfurt a.M. 1854-1855, teacher at the "Bürgerschule" in Bremen 1855-1868, director of the same school 1869 (with the professor title), id. of the Realschule am Doventor 1876-1903. 
-**Abbreviated name**: *Buchenau*
+**Abbreviated name**: *Buchenau* \[standard form in IPNI: *Buchenau*\]
 
 #### Herbarium and types
 

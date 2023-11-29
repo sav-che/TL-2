@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33212248) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33212248) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10495-1), [Wikidata](https://www.wikidata.org/wiki/Q31621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Temminck, Coenraad Jacob (1778-1858), Dutch zoologist; ordinary professor botany and zoology and director of the Royal Netherlands Zoological Museum at Leiden. 
-**Abbreviated name**: *Temminck*
+**Abbreviated name**: *Temminck* \[standard form in IPNI: *Temminck*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33333750) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 611](https://www.biodiversitylibrary.org/page/33333750) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9685-1), [Wikidata](https://www.wikidata.org/wiki/Q19002158). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Simpson, Norman Douglas (1890-1974), British botanist and bibliographer; BA Cambr. Univ. 1911; Cambridge Diploma in Agriculture 1914; on active service in World War I 1914-1920; with the Cotton Research Board Station at El Giza nr Cairo 1921-1930; at the Peradiniya Botanic Garden, Ceylon 1931-1932; from 1932 living at Bournemouth dedicating himself entirely to botany, travelling, collecting plants and botanical books. 
-**Abbreviated name**: *N. Simpson*
+**Abbreviated name**: *N. Simpson* \[standard form in IPNI: *N.D.Simpson*\]
 
 #### Herbarium and types
 

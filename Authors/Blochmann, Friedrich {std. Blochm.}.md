@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33265412) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 215](https://www.biodiversitylibrary.org/page/33265412) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/32468-1), [Wikidata](https://www.wikidata.org/wiki/Q1458469). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Blochmann, Friedrich (1858-1931), German zoologist, born in Karlsruhe, studied natural sciences at the University of Heidelberg, Dr. phil. ib., habil. ib. 1886, professor of zoology at the University of Rostock 1891, idem at the University of Tübingen 1898. 
-**Abbreviated name**: *Blochm.*
+**Abbreviated name**: *Blochm.* \[standard form in IPNI: *Blochm.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33068934) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 692](https://www.biodiversitylibrary.org/page/33068934) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5138-1), [Wikidata](https://www.wikidata.org/wiki/Q21518183). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kunow, Gustav (1874-1912), German botanist at Freienwalde a. O. 
-**Abbreviated name**: *Kunow*
+**Abbreviated name**: *Kunow* \[standard form in IPNI: *Kunow*\]
 
 #### Herbarium and types
 

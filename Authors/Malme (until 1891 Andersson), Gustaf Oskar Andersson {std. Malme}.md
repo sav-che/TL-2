@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2009-10-01 13:49:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33355352) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33355352) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22826-1), [Wikidata](https://www.wikidata.org/wiki/Q429017). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Malme \[until 1891: Andersson\], Gustaf Oskar Andersson (1864-1937), Swedish botanist; Dr. phil. Uppsala 1892; curator of botany at the Stockholm Riksmuseum 1895-1901, 1903-1905; travelled in S. America 1892-1894, 1901-1903; lecturer in biology and chemistry at Norrmalm, Stockholm 1905-1911; id. at a Stockholm teachers college from 1911. 
-**Abbreviated name**: *Malme*
+**Abbreviated name**: *Malme* \[standard form in IPNI: *Malme*\]
 
 #### Herbarium and types
 

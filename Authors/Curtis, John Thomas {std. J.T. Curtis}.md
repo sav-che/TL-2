@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33266191) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 514](https://www.biodiversitylibrary.org/page/33266191) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1924-1), [Wikidata](https://www.wikidata.org/wiki/Q6260545). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Curtis, John Thomas (1913-1961), American botanist, born at Waukesha, Wisconsin, B.A. Carroll College 1934, MA University of Wisconsin 1935, Ph.D. bot. 1937, instructor in botany 1937, id. University Pennsylvania 1940, assistant professor at Wisconsin University 1940, assoc. professor 1945, professor 1951, died at Madison, Wisconsin. 
-**Abbreviated name**: *J.T. Curtis*
+**Abbreviated name**: *J.T. Curtis* \[standard form in IPNI: *J.T.Curtis*\]
 
 #### Herbarium and types
 

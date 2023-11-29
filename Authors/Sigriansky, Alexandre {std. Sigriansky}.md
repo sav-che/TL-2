@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33333736) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33333736) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9634-1), [Wikidata](https://www.wikidata.org/wiki/Q21608881). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sigriansky, Alexandre (1882-?), Russian botanist; studied natural sciences at Geneva 1911-1913; worked at the Botanical Institute; Dr. sci. nat. 1913. 
-**Abbreviated name**: *Sigriansky*
+**Abbreviated name**: *Sigriansky* \[standard form in IPNI: *Sigr.*\]
 
 #### Herbarium and types
 

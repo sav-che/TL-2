@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33212752) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33212752) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11135-1), [Wikidata](https://www.wikidata.org/wiki/Q21611646). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vergara y Perez de Aranda, Mariano (1833-?), Spanish rhodologist. 
-**Abbreviated name**: *Vergara*
+**Abbreviated name**: *Vergara* \[standard form in IPNI: *Vergara*\]
 
 #### Herbarium and types
 

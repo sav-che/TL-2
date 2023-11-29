@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33068498) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 256](https://www.biodiversitylibrary.org/page/33068498) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/29324-1), [Wikidata](https://www.wikidata.org/wiki/Q7286453). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hollerbach, (Gollerbach), Maksimilian Maksimilianovitsch (1907-x), Soviet botanist at Leningrad. 
-**Abbreviated name**: *Hollerb.*
+**Abbreviated name**: *Hollerb.* \[standard form in IPNI: *Hollerb.*\]
 
 #### Herbarium and types
 

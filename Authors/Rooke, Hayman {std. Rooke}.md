@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33190349) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 878](https://www.biodiversitylibrary.org/page/33190349) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8574-1), [Wikidata](https://www.wikidata.org/wiki/Q5686963). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rooke, Hayman (c. 1722-1806), British (English) botanical artist and soldier, of Whitehaven, Cumberland. 
-**Abbreviated name**: *Rooke*
+**Abbreviated name**: *Rooke* \[standard form in IPNI: *Rooke*\]
 
 #### Herbarium and types
 

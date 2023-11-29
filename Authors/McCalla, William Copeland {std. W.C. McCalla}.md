@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33355299) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33355299) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5893-1), [Wikidata](https://www.wikidata.org/wiki/Q21520207). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 McCalla, William Copeland (1872-1962), Canadian teacher, botanist and farmer; from 1922-1925 librarian at Edmonton Normal School; from 1925-1938 teaching natural history at the Normal School of Calgary; LL. D. h.c. Univ. Alberta 1956. 
-**Abbreviated name**: *W. C. McCalla*
+**Abbreviated name**: *W. C. McCalla* \[standard form in IPNI: *W.C.McCalla*\]
 
 #### Herbarium and types
 

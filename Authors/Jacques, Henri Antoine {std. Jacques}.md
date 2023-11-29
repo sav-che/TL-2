@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 404](https://www.biodiversitylibrary.org/page/33068646) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 404](https://www.biodiversitylibrary.org/page/33068646) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4384-1), [Wikidata](https://www.wikidata.org/wiki/Q3130337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jacques, Henri Antoine (1782-1866), French horticulturist at Raincy and Neuilly. 
-**Abbreviated name**: *Jacques*
+**Abbreviated name**: *Jacques* \[standard form in IPNI: *Jacques*\]
 
 #### Herbarium and types
 

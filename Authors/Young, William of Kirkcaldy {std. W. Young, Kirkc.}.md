@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/page/33066834) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 494](https://www.biodiversitylibrary.org/page/33066834) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/13036-1), [Wikidata](https://www.wikidata.org/wiki/Q21613323). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Young, William of Kirkcaldy (1865-1947), British botanist; sometime member of the staff of the Royal Botanic Garden, Edinburgh. 
-**Abbreviated name**: *W. Young, Kirkc.*
+**Abbreviated name**: *W. Young, Kirkc.* \[standard form in IPNI: *W.Young Kirkc.*\]
 
 #### Herbarium and types
 

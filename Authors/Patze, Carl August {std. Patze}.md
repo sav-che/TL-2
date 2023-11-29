@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33189578) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 107](https://www.biodiversitylibrary.org/page/33189578) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7398-1), [Wikidata](https://www.wikidata.org/wiki/Q21394096). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Patze, Carl August (1808-1892), German (Berlin) botanist and pharmacist; from 1830-1836 in pharmacies in Berlin and Charlottenburg (1829-1830 in Breslau); from 1837-1874 owner of a pharmacy in Königsberg i. Pr. 
-**Abbreviated name**: *Patze*
+**Abbreviated name**: *Patze* \[standard form in IPNI: *Patze*\]
 
 #### Herbarium and types
 

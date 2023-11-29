@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33333814) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 675](https://www.biodiversitylibrary.org/page/33333814) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9798-1), [Wikidata](https://www.wikidata.org/wiki/Q21609111). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, Henry (*fl*. 1810), British physician and botanist at Salisbury infirmary. 
-**Abbreviated name**: *He. Sm.*
+**Abbreviated name**: *He. Sm.* \[standard form in IPNI: *H.Sm.*\]
 
 #### Herbarium and types
 

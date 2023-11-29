@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33068907) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 665](https://www.biodiversitylibrary.org/page/33068907) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5038-1), [Wikidata](https://www.wikidata.org/wiki/Q21517900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krause, Christian Ludwig (*fl*. 1753), German botanist and gardener at Berlin. 
-**Abbreviated name**: *C. Krause*
+**Abbreviated name**: *C. Krause* \[standard form in IPNI: *C.Krause*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:25.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33355115) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 12](https://www.biodiversitylibrary.org/page/33355115) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5576-1), [Wikidata](https://www.wikidata.org/wiki/Q72284). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lieblein, Franz Kaspar (1744-1810), German botanist and high school teacher at Fulda," Hochfürstlich-Fuldischen Hofkammerrath und Hofapotheker". 
-**Abbreviated name**: *Liebl.*
+**Abbreviated name**: *Liebl.* \[standard form in IPNI: *Liebl.*\]
 
 #### Herbarium and types
 

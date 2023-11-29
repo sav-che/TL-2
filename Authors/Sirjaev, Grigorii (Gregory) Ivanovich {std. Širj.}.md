@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/page/33333759) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 620](https://www.biodiversitylibrary.org/page/33333759) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9702-1), [Wikidata](https://www.wikidata.org/wiki/Q4524504). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sirjaev, Grigorii (Gregory) Ivanovich (1882-1954), Russian (Ukranian) botanist; assistant at the Charkov botanical institute 1907-1914; from 1922 connected with the Botanical Institute of Masaryk University, Brno; Dr. Sci. ib. 1927, from 1935 as professor of botany at Masaryk University, Brünn (Brno); from 1951 in the United States. 
-**Abbreviated name**: *Širj.*
+**Abbreviated name**: *Širj.* \[standard form in IPNI: *Širj.*\]
 
 #### Herbarium and types
 

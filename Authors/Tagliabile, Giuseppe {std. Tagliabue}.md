@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33212193) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 151](https://www.biodiversitylibrary.org/page/33212193) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10386-1), [Wikidata](https://www.wikidata.org/wiki/Q18225041). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tagliabile, Giuseppe (*fl*. 1816), Italian botanist; director of a garden at Litta, Lainate, Lombardy. 
-**Abbreviated name**: *Tagliabue*
+**Abbreviated name**: *Tagliabue* \[standard form in IPNI: *Tagl.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33355297) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 210](https://www.biodiversitylibrary.org/page/33355297) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5888-1), [Wikidata](https://www.wikidata.org/wiki/Q21519710). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Macbride, James (1784-1817), American botanist and physician; practicing in Pineville and Charleston, South Carolina. 
-**Abbreviated name**: *J. Macbr.*
+**Abbreviated name**: *J. Macbr.* \[standard form in IPNI: *J.Macbr.*\]
 
 #### Herbarium and types
 

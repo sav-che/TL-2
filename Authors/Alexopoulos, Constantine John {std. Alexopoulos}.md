@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33264794) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 67](https://www.biodiversitylibrary.org/page/33264794) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/30768-1), [Wikidata](https://www.wikidata.org/wiki/Q21505062). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Alexopoulos, Constantine John (1907-1986), American mycologist, received his grade school education in Athens, Greece, began his highschool education also in Athens, returned to Chicago 1919, at Lane Technical Highschool 1919-1923, studied at the University of Illinois 1923-1928, M.S. 1928, Dr.phil. 1932, scholar in horticulture ib. 1927-1928, research assistant in mycology 1928-1929, assistant in botany 1929-1930 and 1932-1934, instructor in botany 1934-1935, instructor in biology Kent State University, Ohio 1935, assistant professor ib. 1936, associate professor 1940, assistant professor Michigan State University 1947, 1951 full professor, professor of botany Iowa 1956, at the University of Texas as professor of botany 1962, acting chairman of the Department of Botany 1964-1965, retired 1977. 
-**Abbreviated name**: *Alexopoulos*
+**Abbreviated name**: *Alexopoulos* \[standard form in IPNI: *Alexop.*\]
 
 #### Herbarium and types
 

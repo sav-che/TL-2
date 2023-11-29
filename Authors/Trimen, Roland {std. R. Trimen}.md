@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33212534) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 492](https://www.biodiversitylibrary.org/page/33212534) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10823-1), [Wikidata](https://www.wikidata.org/wiki/Q932702). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Trimen, Roland (1840-1916), British entomologist; brother of Henry Trimen; studied insect fertilization of orchids; in the Auditor-General's office Cape of Good Hope 1860, subsequently working in various other government departments, part-time curator South African Museum 1873-1876, full-time id. 1876-1895. 
-**Abbreviated name**: *R. Trimen*
+**Abbreviated name**: *R. Trimen* \[standard form in IPNI: *R.Trimen*\]
 
 #### Herbarium and types
 

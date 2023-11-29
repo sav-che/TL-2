@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33066398) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 58](https://www.biodiversitylibrary.org/page/33066398) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11400-1), [Wikidata](https://www.wikidata.org/wiki/Q5818760). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Warburg, Edmund Frederic (1908-1966), British botanist; MA Cambridge 1934; assistant lecturer Bedford College, London 1938-1941; curator Druce herbarium Oxford 1948-1966. 
-**Abbreviated name**: *E. Warb.*
+**Abbreviated name**: *E. Warb.* \[standard form in IPNI: *E.F.Warb.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:15.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33069071) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 829](https://www.biodiversitylibrary.org/page/33069071) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/14257-1), [Wikidata](https://www.wikidata.org/wiki/Q5819987). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leitner, Edward Frederick \[baptized: Frederick August Ludwig\] (1812-1838), German physician and botanist who studied at Tübingen and who left for the United States 1831 to settle at Charleston, S. C.; died from shotwounds on a military expedition to Florida. 
-**Abbreviated name**: *Leitn.*
+**Abbreviated name**: *Leitn.* \[standard form in IPNI: *Leitn.*\]
 
 #### Herbarium and types
 

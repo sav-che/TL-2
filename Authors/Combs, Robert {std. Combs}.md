@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:51:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33265960) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 283](https://www.biodiversitylibrary.org/page/33265960) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1751-1), [Wikidata](https://www.wikidata.org/wiki/Q21508902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Combs, Robert (1872-1899), American botanist, born 12 Feb 1872, Lyon County, Kansas, died 11 Apr 1899, Phoenix, Arizona, Ph.D. University Kansas 1892, collected in Cuba 1895-1896, assistant at the Iowa Agricultural Experiment Station and 1898 field agent of U.S. Div. Agrostology. 
-**Abbreviated name**: *Combs*
+**Abbreviated name**: *Combs* \[standard form in IPNI: *Combs*\]
 
 #### Herbarium and types
 

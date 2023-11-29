@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33333886) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33333886) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9896-1), [Wikidata](https://www.wikidata.org/wiki/Q36531118). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sonntag, C.O. (*fl*. 1894), Scottish high school teacher and botanist at Edinburgh. 
-**Abbreviated name**: *Sonntag*
+**Abbreviated name**: *Sonntag* \[standard form in IPNI: *Sonntag*\]
 
 #### Herbarium and types
 

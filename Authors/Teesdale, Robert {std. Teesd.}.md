@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33212241) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33212241) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10482-1), [Wikidata](https://www.wikidata.org/wiki/Q788481). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Teesdale, Robert (ca. 1740-1804), British gardener and botanist at Castle Howard, Yorkshire; later junior partner in Minier, Mason and Teesdale, seedsmen, London. 
-**Abbreviated name**: *Teesd.*
+**Abbreviated name**: *Teesd.* \[standard form in IPNI: *Teesd.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33189816) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 345](https://www.biodiversitylibrary.org/page/33189816) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7862-1), [Wikidata](https://www.wikidata.org/wiki/Q21030376). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Porter, Carlos Emilio (1868-1942), Chilean naturalist; director of the zoology dept. of the Museo de Historia natural Valparaiso 1897-1910; natural history teacher at various colleges in Valparaiso and Santiago, e.g. at the Santiago military academy 1912-1918 and at the Institute agronómico de Chile 1901-1927; director of the zoological museum of the Institute 1914-1927, head of the invertebrate section of the Museo nacional 1912-1923, id. entomology section 1924-927; professor of animal parasitology at the Faculty of Agronomy 1919-1939. 
-**Abbreviated name**: *C.E. Porter*
+**Abbreviated name**: *C.E. Porter* \[standard form in IPNI: *C.E.Porter*\]
 
 #### Herbarium and types
 

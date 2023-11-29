@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33212253) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 211](https://www.biodiversitylibrary.org/page/33212253) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/27607-1), [Wikidata](https://www.wikidata.org/wiki/Q21610422). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tengwall, Tor Ake ("Åke") (1892-1946), Swedish botanist; Dr. phil. Uppsala 1920; continued his study at the University of Utrecht; with the Java Sugar Experiment Station, Pasoeroean, Java 1921-1926; asst. director Rubber Expt. Station, Buitenzorg (Bogor) Java, 1926-1931; in charge of the Agriculture Service of "Bergcultures" in Java 1931-1933; subsequently director of an agricultural institute in Turkey; director of research Firestone Plantation Co., Liberia; ultimately adviser to the Rubber Division of the Board for the Netherlands Indies, Suriname and Curaçao at New York. 
-**Abbreviated name**: *Tengwall*
+**Abbreviated name**: *Tengwall* \[standard form in IPNI: *Tengwall*\]
 
 #### Herbarium and types
 

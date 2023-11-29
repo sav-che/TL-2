@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33333851) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33333851) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9843-1), [Wikidata](https://www.wikidata.org/wiki/Q5936994). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Snowden, Joseph Davenport (1886-1973), British botanist; gardener at Kew 1909-1911; assistant agricultural officer in the Agricultural Department of Uganda 1911, district agricultural officer ib. 1918, senior district agricultural officer 1928, economic botanist 1930-1931; in retirement at Chiswick and Barton-on-Sea. 
-**Abbreviated name**: *Snowden*
+**Abbreviated name**: *Snowden* \[standard form in IPNI: *Snowden*\]
 
 #### Herbarium and types
 

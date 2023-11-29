@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33260130) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 142](https://www.biodiversitylibrary.org/page/33260130) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2349-1), [Wikidata](https://www.wikidata.org/wiki/Q3188337). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ducommun, Jules César (1829-1892), Swiss botanist, born at Genève 28 Jul 1829, studied at the Collège de Genève, "précepteur" in the family of Dr. Frey at Arlesheim (Bâle-Campagne), returned to Genève to the Collège de Carouge, went in 1866 to Solothurn, from 1871 working at Bern with the journal "L'Helvétie" until his death 22 Nov 1892. 
-**Abbreviated name**: *Ducommun*
+**Abbreviated name**: *Ducommun* \[standard form in IPNI: *Ducommun*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33066656) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 316](https://www.biodiversitylibrary.org/page/33066656) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11701-1), [Wikidata](https://www.wikidata.org/wiki/Q1452959). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Williams, Frederic Newton (1862-1923), British physician and botanist; practicing physician at Brentford, Middlesex, especially interested in Caryophyllaceae. 
-**Abbreviated name**: *F.N. Williams*
+**Abbreviated name**: *F.N. Williams* \[standard form in IPNI: *F.N.Williams*\]
 
 #### Herbarium and types
 

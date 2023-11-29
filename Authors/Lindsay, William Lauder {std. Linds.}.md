@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33355150) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 63](https://www.biodiversitylibrary.org/page/33355150) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22391-1), [Wikidata](https://www.wikidata.org/wiki/Q18672913). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lindsay, William Lauder (1829-1880), Scottish lichenologist and physician; MD Edinburgh 1852; at Murray's Royal Asylum, Perth 1854-1879; collected in Iceland and New Zealand. 
-**Abbreviated name**: *Linds.*
+**Abbreviated name**: *Linds.* \[standard form in IPNI: *Linds.*\]
 
 #### Herbarium and types
 

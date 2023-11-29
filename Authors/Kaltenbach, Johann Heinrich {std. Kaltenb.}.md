@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33068733) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 491](https://www.biodiversitylibrary.org/page/33068733) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4623-1), [Wikidata](https://www.wikidata.org/wiki/Q95468). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kaltenbach, Johann Heinrich (1807-1876), German botanist and entomologist; high school teacher at Hastenrieth (1815-1817), at Aachen (Aix-la-Chapelle) (1817-1876). 
-**Abbreviated name**: *Kaltenb.*
+**Abbreviated name**: *Kaltenb.* \[standard form in IPNI: *Kaltenb.*\]
 
 #### Herbarium and types
 

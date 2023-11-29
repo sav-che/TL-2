@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33189670) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 199](https://www.biodiversitylibrary.org/page/33189670) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/24780-1), [Wikidata](https://www.wikidata.org/wiki/Q3101645). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Pethybridge, George Herbert (1871-1948), British botanist (phytopathologist); Ph. D. Göttingen 1899; with Department of Agriculture and Royal College of Science at Dublin from 1900, Economic Botanist 1908-1923; mycologist and asst. director of the Plant Pathology Lab., Harpenden, 1923-1936; O.B.E. 1937. 
-**Abbreviated name**: *Pethybr.*
+**Abbreviated name**: *Pethybr.* \[standard form in IPNI: *Pethybr.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33355924) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33355924) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7144-1), [Wikidata](https://www.wikidata.org/wiki/Q16861955). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 O'Meara, Eugene (c. 1815-1880), Irish clergyman and botanist (diatomologist) at Dublin; M. A. Dublin 1858. 
-**Abbreviated name**: *O'Meara*
+**Abbreviated name**: *O'Meara* \[standard form in IPNI: *O'Meara*\]
 
 #### Herbarium and types
 

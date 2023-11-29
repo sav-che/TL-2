@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33259122) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 76](https://www.biodiversitylibrary.org/page/33259122) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/20032292-1), [Wikidata](https://www.wikidata.org/wiki/Q18738925). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Darrah, William Culp (1909-1989), American botanist, born at Reading, Pennsylvania, studied at the University of Pittsburgh, BS 1931, at Carnegie Museum 1931-1933, research assistant at the Harvard University from 1934, later curator of Paleobotany at Harvard Botanical Museum and instructor of biology. 
-**Abbreviated name**: *Darrah*
+**Abbreviated name**: *Darrah* \[standard form in IPNI: *Darrah*\]
 
 #### Herbarium and types
 

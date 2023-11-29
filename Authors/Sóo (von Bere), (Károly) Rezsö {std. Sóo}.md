@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-12-18 17:53:26.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33333886) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 747](https://www.biodiversitylibrary.org/page/33333886) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9897-1), [Wikidata](https://www.wikidata.org/wiki/Q281645). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sóo \[von Bere\], \[Károly\] Rezsö (1903-1980), Hungarian botanist, high school education at Kolozsvár (Cluj) 1913-1921; studied at Budapest University 1921-1925; Dr. phil. ib. 1925; at Berlin-Dahlem 1925-1927; at the Tihany biological institute 1927-1929; e.o. professor of botany at the University of Debrecen 1929-1935; Ordinarius and director of the botanical institute ib. 1925-1940; idem at the Museum Transilvanicum Kolozvár (Cluj) 1940-1944; again at Debrecen 1940-1955; director of the institute of systematic botany and geobotany of the University of Budapest 1953-1969; Dr. h.c. Debrecen 1973. 
-**Abbreviated name**: *Sóo*
+**Abbreviated name**: *Sóo* \[standard form in IPNI: *Soó*\]
 
 #### Herbarium and types
 

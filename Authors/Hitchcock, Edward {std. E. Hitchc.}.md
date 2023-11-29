@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33068459) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 217](https://www.biodiversitylibrary.org/page/33068459) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3973-1), [Wikidata](https://www.wikidata.org/wiki/Q322185). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hitchcock, Edward (1793-1864), American geologist and botanist; educated as clergyman; professor at Amherst College 1825-1864; state geologist of Massachusetts 1830-1833 and 1841-1844; id. of Vermont 1857-1860. 
-**Abbreviated name**: *E. Hitchc.*
+**Abbreviated name**: *E. Hitchc.* \[standard form in IPNI: *E.Hitchc.*\]
 
 #### Herbarium and types
 

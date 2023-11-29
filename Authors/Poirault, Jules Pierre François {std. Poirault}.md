@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33189790) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 319](https://www.biodiversitylibrary.org/page/33189790) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7790-1), [Wikidata](https://www.wikidata.org/wiki/Q21523072). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Poirault, Jules Pierre François (1830-1907), French pharmacist and botanist; professor at the École de Médecine and director of the botanic garden at Poitiers. 
-**Abbreviated name**: *Poirault*
+**Abbreviated name**: *Poirault* \[standard form in IPNI: *Poirault*\]
 
 #### Herbarium and types
 

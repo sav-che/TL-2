@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33190331) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 860](https://www.biodiversitylibrary.org/page/33190331) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8528-1), [Wikidata](https://www.wikidata.org/wiki/Q21607335). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rogers, Walter E (1890-1951), American botanist, ecologist and ornithologist; M.S. Iowa 1916; technician St. Louis biol. lab. 1913-1914; asst. bot. Iowa 1914-1917; professor of biology Westminster Coll., Pa., 1917-1919; professor of biology and botany at Lawrence College 1919-1951. 
-**Abbreviated name**: *W.E Rogers*
+**Abbreviated name**: *W.E Rogers* \[standard form in IPNI: *W.E.Rogers*\]
 
 #### Herbarium and types
 

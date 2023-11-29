@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33066448) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 108](https://www.biodiversitylibrary.org/page/33066448) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11442-1), [Wikidata](https://www.wikidata.org/wiki/Q3101998). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Watt, Sir George (1851-1930), British economic botanist; MB Glasgow 1872; professor of botany, Calcutta University 1873-1884; scientific assistant secretary Supreme Gvt. Secretariat, India 1884; commissioner for India Colonial Exhibition London 1885-1886; Reporter on Economic products Gvt. India 1887-1903; on special duty in London 1904-1908; retired from Indian service 1906; president Richmond Athenaeum 1907-1908; visited San Thomé 1912. 
-**Abbreviated name**: *G. Watt*
+**Abbreviated name**: *G. Watt* \[standard form in IPNI: *G.Watt*\]
 
 #### Herbarium and types
 

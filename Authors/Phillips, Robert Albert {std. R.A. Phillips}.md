@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33189714) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 243](https://www.biodiversitylibrary.org/page/33189714) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7646-1), [Wikidata](https://www.wikidata.org/wiki/Q21522958). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Phillips, Robert Albert (1866-1945), Irish botanist in Cork. 
-**Abbreviated name**: *R.A. Phillips*
+**Abbreviated name**: *R.A. Phillips* \[standard form in IPNI: *R.A.Phillips*\]
 
 #### Herbarium and types
 

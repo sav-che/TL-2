@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:51.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33212316) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33212316) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10593-1), [Wikidata](https://www.wikidata.org/wiki/Q950806). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thomas, Hugh Hamshaw (1885-1962), British botanist; BA Cambridge 1907; curator of the Botany Museum, Cambridge 1909-1923; lecturer 1923-1937; reader in plant morphology 1937-1950. 
-**Abbreviated name**: *H.H. Thomas*
+**Abbreviated name**: *H.H. Thomas* \[standard form in IPNI: *H.H.Thomas*\]
 
 #### Herbarium and types
 

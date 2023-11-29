@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 699](https://www.biodiversitylibrary.org/page/33212741) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 699](https://www.biodiversitylibrary.org/page/33212741) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11124-1), [Wikidata](https://www.wikidata.org/wiki/Q21611614). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vendrely, \[François\] Xavier (1837-1908), French botanist and pharmacist; studied at the École de Pharmacie, Strasbourg 1856-1857; military service 1858-1859; continued his pharmaceutical studies in Besançon 1860-1861; state exam. pharm. ib. 1861; practicing pharmacist in Champagney 1861-1901. 
-**Abbreviated name**: *Vendrely*
+**Abbreviated name**: *Vendrely* \[standard form in IPNI: *Vendrely*\]
 
 #### Herbarium and types
 

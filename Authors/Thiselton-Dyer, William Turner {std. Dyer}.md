@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33212306) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 264](https://www.biodiversitylibrary.org/page/33212306) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12420-1), [Wikidata](https://www.wikidata.org/wiki/Q2065240). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thiselton-Dyer, William Turner (1843-1928), British botanist; B.A. Oxford 1867, B.Sc. London 1880; professor of natural history, Royal Agricultural College, Cirencester 1868-1870; professor of botany, Royal College of Science, Dublin 1870-1872; id. Royal Horticultural Society London 1872, private secretary and editorial assistant to J.D. Hooker 1872; assistant director Royal Botanic Gardens, Kew 1875-1885; director ib. 1885-1905; in retirement at Witcombe, Gloucestershire; knighted 1899. 
-**Abbreviated name**: *Dyer*
+**Abbreviated name**: *Dyer* \[standard form in IPNI: *Dyer*\]
 
 #### Herbarium and types
 

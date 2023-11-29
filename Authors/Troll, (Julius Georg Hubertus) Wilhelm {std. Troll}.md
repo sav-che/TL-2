@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 504](https://www.biodiversitylibrary.org/page/33212546) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 504](https://www.biodiversitylibrary.org/page/33212546) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10843-1), [Wikidata](https://www.wikidata.org/wiki/Q121525). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Troll, \[Julius Georg Hubertus\] Wilhelm (1897-1978), German (Bavarian of Franconian descent) botanist; on active service in World War I 1916-1918; studied natural sciences at the University of München; Dr. phil. ib. 1921 with K. von Goebel; assistant at the München Botanical Institute 1923; habil. ib. 1925; botanist on the German Sunda-Expedition 1928-1930; extraord. prof. bot. München 1931; regular professor of botany Halle 1932-1945; evacuated to Mainz 1945; professor of botany at the University of Mainz 1946; active until 1977; leading morphologist; one of the last universal botanists. 
-**Abbreviated name**: *Troll*
+**Abbreviated name**: *Troll* \[standard form in IPNI: *Troll*\]
 
 #### Herbarium and types
 

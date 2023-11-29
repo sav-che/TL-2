@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:19.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33212415) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33212415) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10700-1), [Wikidata](https://www.wikidata.org/wiki/Q21610802). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tkany, Wilhelm (1792-1863), Moravian botanist; governmental administrator ("Hofconcipist") in Wien 1822-1830, in Brünn (Gubernialsecretär) 1830-1839, Hofsecretär Wien 1839, Moravian-Silesian "Gubernialrath" Brünn 1840-1850; supervisor of the school system in Moravia and Silesia 1850-1855; from 1830 active as amateur botanist. 
-**Abbreviated name**: *Tkany*
+**Abbreviated name**: *Tkany* \[standard form in IPNI: *Tkany*\]
 
 #### Herbarium and types
 

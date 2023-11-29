@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33066579) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 239](https://www.biodiversitylibrary.org/page/33066579) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11605-1), [Wikidata](https://www.wikidata.org/wiki/Q2878904). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wheeler, Louis Cutter (1910-1980), American botanist; A.B. Univ. Calif, Los Angeles 1933; M.A. Claremont 1934; Dr. phil. Harvard 1939; instructor in botany, Univ. Missouri 1939-1940; id. The American University, Washington, D.C. 1940-1941; id. University Pennsylvania 1941-1942; asst. technologist Guayule Rubber project 1943-1944; research assistant Cal. Tech. 1945; with University of Southern California, asst. prof. botany 1945-1947, assoc. id. 1947-1956, head Dept. Bot. 1945-1953; ultimately regular professor of botany; specialist on Euphorbiaceae. 
-**Abbreviated name**: *L.C. Wheeler*
+**Abbreviated name**: *L.C. Wheeler* \[standard form in IPNI: *L.C.Wheeler*\]
 
 #### Herbarium and types
 

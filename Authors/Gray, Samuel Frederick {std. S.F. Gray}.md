@@ -27,14 +27,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 994](https://www.biodiversitylibrary.org/page/33121125) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 994](https://www.biodiversitylibrary.org/page/33121125) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/19580-1), [Wikidata](https://www.wikidata.org/wiki/Q540667). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gray, Samuel Frederick (1766-1828), British naturalist, lecturer on botany and pharmacy. 
-**Abbreviated name**: *S. F. Gray*
+**Abbreviated name**: *S. F. Gray* \[standard form in IPNI: *Gray*\]
 
 #### Herbarium and types
 

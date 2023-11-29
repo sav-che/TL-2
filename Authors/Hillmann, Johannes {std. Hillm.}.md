@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33068448) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 206](https://www.biodiversitylibrary.org/page/33068448) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3952-1), [Wikidata](https://www.wikidata.org/wiki/Q21339391). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hillmann, Johannes (1881-1943), German lichenologist, high school teacher at Berlin. 
-**Abbreviated name**: *Hillm.*
+**Abbreviated name**: *Hillm.* \[standard form in IPNI: *Hillmann*\]
 
 #### Herbarium and types
 

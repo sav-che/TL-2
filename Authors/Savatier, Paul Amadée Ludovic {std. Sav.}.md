@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:07.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33333222) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 83](https://www.biodiversitylibrary.org/page/33333222) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/8971-1), [Wikidata](https://www.wikidata.org/wiki/Q246459). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Savatier, Paul Amadée Ludovic (1830-1891), French botanist and marine medical officer; educated at the Naval medical school, Rochefort; on a mission to Japan 1866-1876; from 1877-1879 head physician on the circumnavigation by the Magicienne; retired as "médecin en chef de la marine". 
-**Abbreviated name**: *Sav.*
+**Abbreviated name**: *Sav.* \[standard form in IPNI: *Sav.*\]
 
 #### Herbarium and types
 

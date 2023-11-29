@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33355838) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 751](https://www.biodiversitylibrary.org/page/33355838) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/35195-1), [Wikidata](https://www.wikidata.org/wiki/Q21522153). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nienburg, Karl Ortgies Wilhelm (1882-1932), German botanist; Dr. phil. Berlin 1907; 1907-1920 in Berlin; curator at the Helgoland biological station 1921; from 1923 professor of botany at Kiel University. 
-**Abbreviated name**: *Nienb.*
+**Abbreviated name**: *Nienb.* \[standard form in IPNI: *Nienb.*\]
 
 #### Herbarium and types
 

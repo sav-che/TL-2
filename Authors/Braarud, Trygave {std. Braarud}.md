@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33266308) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1](https://www.biodiversitylibrary.org/page/33266308) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/32518-1), [Wikidata](https://www.wikidata.org/wiki/Q32250). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Braarud, Trygave (1903-1985), Norwegian marine botanist, studied with H.H. Gran at the University of Oslo, cand. real 1927, Dr. phil. 1936, "amanensis" and lecturer in General Botany 1936-1947, held the Chair of Marine Botany at Oslo 1947-1973, specialized in biological oceanography and marine ecology, founder of the Norwegian Institute of Seaweed Research (1950) and the Norwegian Institute of Water Research (1958), one of the "founding fathers" of the International Phycological Society. 
-**Abbreviated name**: *Braarud*
+**Abbreviated name**: *Braarud* \[standard form in IPNI: *Braarud*\]
 
 #### Herbarium and types
 

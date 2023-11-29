@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33068341) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 99](https://www.biodiversitylibrary.org/page/33068341) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3724-1), [Wikidata](https://www.wikidata.org/wiki/Q21515577). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hattori, Hirotarô (1875-1965), Japanese botanist. 
-**Abbreviated name**: *Hatt.*
+**Abbreviated name**: *Hatt.* \[standard form in IPNI: *Hatt.*\]
 
 #### Herbarium and types
 

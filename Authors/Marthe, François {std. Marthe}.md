@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33355405) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 318](https://www.biodiversitylibrary.org/page/33355405) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6152-1), [Wikidata](https://www.wikidata.org/wiki/Q30130642). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marthe, François (*fl*. 1801), French botanist and gardener at the Jardin médical, Paris. 
-**Abbreviated name**: *Marthe*
+**Abbreviated name**: *Marthe* \[standard form in IPNI: *Marthe*\]
 
 #### Herbarium and types
 

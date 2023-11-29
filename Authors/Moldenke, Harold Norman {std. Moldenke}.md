@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:32:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33355633) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 546](https://www.biodiversitylibrary.org/page/33355633) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6570-1), [Wikidata](https://www.wikidata.org/wiki/Q3127627). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Moldenke, Harold Norman (1909-x), American botanist; Ph. D. Columbia 1934; curator at the New York Botanical Garden 1934-1951; son of C. E. Moldenke. 
-**Abbreviated name**: *Moldenke*
+**Abbreviated name**: *Moldenke* \[standard form in IPNI: *Moldenke*\]
 
 #### Herbarium and types
 

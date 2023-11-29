@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:21.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33212452) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 410](https://www.biodiversitylibrary.org/page/33212452) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10760-1), [Wikidata](https://www.wikidata.org/wiki/Q21610902). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Toula, Franz (1845-1920), Austrian mineralogist and geologist; studied at the Technische Hochschule, Wien, as well as at the University; assistant with C.G.F. von Hochstetter 1869-1872; teacher at the Gumpendorfer Realschule 1872; Dr. phil. Univ. Rostock 1873; habil. Techn. Univ. Wien 1877; lecturer in palaeontology ib. 1877-1880, in geology of Austria and Hungary 1880-1881; extraordinary (1881) and ordinary (1884) professor of mineralogy and geology until 1917. 
-**Abbreviated name**: *Toula*
+**Abbreviated name**: *Toula* \[standard form in IPNI: *Toula*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33266366) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 59](https://www.biodiversitylibrary.org/page/33266366) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1120-1), [Wikidata](https://www.wikidata.org/wiki/Q4096302). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Brenner, Mårten \[Magnus Wilhelm\] (1843-1930), Finnish botanist, Fil. kand 1869, Mag. phil. Univ. Helsinki 1869, teacher at the Swedish secondary school in Helsinki 1873-1896, id. at the "Reallyceum" Helsinki 1896-1897. 
-**Abbreviated name**: *Brenner*
+**Abbreviated name**: *Brenner* \[standard form in IPNI: *Brenner*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33333329) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 190](https://www.biodiversitylibrary.org/page/33333329) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9113-1), [Wikidata](https://www.wikidata.org/wiki/Q36655514). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schlayer, Philipp (*fl*. 1837), German (Württemberg) botanist; Dr. med. Tübingen 1837. 
-**Abbreviated name**: *Schlayer*
+**Abbreviated name**: *Schlayer* \[standard form in IPNI: *Schlayer*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33120868) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 737](https://www.biodiversitylibrary.org/page/33120868) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2490-1), [Wikidata](https://www.wikidata.org/wiki/Q529126). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eichwald, Karl Edouard Ivanovich \[von\] (1794-1876), Russian biologist, geologist, and palaeobiologist at Leningrad. 
-**Abbreviated name**: *Eichw.*
+**Abbreviated name**: *Eichw.* \[standard form in IPNI: *Eichw.*\]
 
 #### Collections
 

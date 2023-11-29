@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:31:20.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33068259) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 17](https://www.biodiversitylibrary.org/page/33068259) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3567-1), [Wikidata](https://www.wikidata.org/wiki/Q21514518). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hall, Charles Albert (1872-1965), English clergyman who held pastorates at Hull, Bristol, Paisley, Southport and London (1896-1935); popular writer on British wild flowers. 
-**Abbreviated name**: *C. A. Hall*
+**Abbreviated name**: *C. A. Hall* \[standard form in IPNI: *C.A.Hall*\]
 
 #### Herbarium and types
 

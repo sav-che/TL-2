@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33259169) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33259169) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/17867-1), [Wikidata](https://www.wikidata.org/wiki/Q4159012). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Dearness, John {std. Dearn.}|first entry]] for this author
 
 ### Author
 
 \* Dearness, John (1852-1954\[sic\]), Canadian botanist (mycologist), teacher and administrator in Canadian schools, worked on the farm of his parents N.W. of London, 1871 at Toronto Normal School, Principal of Lucan Village School, at 21 Principal of Strathroy public school, with the Board of Education and the Ontario Dept. of Education, later at the High School, from 1874-1899 Public School inspector East Middlesex, also 1888-1914 professor of biology Med-School Western University. 
-**Abbreviated name**: *Dearn.*
+**Abbreviated name**: *Dearn.* \[standard form in IPNI: *Dearn.*\]
 
 #### Herbarium and types
 

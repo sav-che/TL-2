@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:43:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33265400) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33265400) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16205-1), [Wikidata](https://www.wikidata.org/wiki/Q12330543). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Blandow, Otto Christian {std. Blandow}|first entry]] for this author
 
 ### Author
 
 \* Blandow, Otto Christian (1778-1810), German pharmacist and botanist, practicing in Mecklenburg at Neubrandenburg, Malchin and, ultimately at Waren, also active as notary. 
-**Abbreviated name**: *Blandow*
+**Abbreviated name**: *Blandow* \[standard form in IPNI: *Blandow*\]
 
 #### Herbarium and types
 

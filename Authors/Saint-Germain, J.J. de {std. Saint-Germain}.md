@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1064](https://www.biodiversitylibrary.org/page/33190535) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1064](https://www.biodiversitylibrary.org/page/33190535) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8826-1), [Wikidata](https://www.wikidata.org/wiki/Q36598425). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Saint-Germain, J.J. de (*fl*. 1784), French botanist. 
-**Abbreviated name**: *Saint-Germain*
+**Abbreviated name**: *Saint-Germain* \[standard form in IPNI: *St.-Germ.*\]
 
 #### Herbarium and types
 

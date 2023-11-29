@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33069090) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 848](https://www.biodiversitylibrary.org/page/33069090) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5504-1), [Wikidata](https://www.wikidata.org/wiki/Q71752). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Leske, Nathanael Gottfried (1751-1786), German botanist, professor of agricultural economy at Leipzig (1775), ultimately at Marburg (1786). 
-**Abbreviated name**: *Leske*
+**Abbreviated name**: *Leske* \[standard form in IPNI: *Leske*\]
 
 #### Herbarium and types
 

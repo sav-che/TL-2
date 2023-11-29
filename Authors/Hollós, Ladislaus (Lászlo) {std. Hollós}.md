@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33068500) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 258](https://www.biodiversitylibrary.org/page/33068500) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4044-1), [Wikidata](https://www.wikidata.org/wiki/Q1037876). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hollós, Ladislaus (Lászlo) (1859-1940), Hungarian high school teacher and botanist at Kecskemét. 
-**Abbreviated name**: *Hollós*
+**Abbreviated name**: *Hollós* \[standard form in IPNI: *Hollós*\]
 
 #### Herbarium and types
 

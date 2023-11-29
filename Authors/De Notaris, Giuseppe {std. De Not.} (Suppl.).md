@@ -27,16 +27,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33259253) of TL-2 Suppl. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 207](https://www.biodiversitylibrary.org/page/33259253) of TL-2 Suppl. V
+> Author links: [IPNI](https://www.ipni.org/a/2132-1), [Wikidata](https://www.wikidata.org/wiki/Q3014085). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[De Notaris, Giuseppe {std. De Not.}|first entry]] for this author
 
 ### Author
 
 \* De Notaris, Giuseppe (1805-1877), Italian botanist, born 5 Apr 1805 at Milan, died 22 Jan 1877 at Rome, studied medicine at the University of Pavia, graduated 1830, lecturer at the Lyceum of Milan, 1839-1872 professor of botany and director of the gardens of Genova until 1872, at the University of Rome 1872-1877. 
-**Abbreviated name**: *De Not.*
+**Abbreviated name**: *De Not.* \[standard form in IPNI: *De Not.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33190298) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 827](https://www.biodiversitylibrary.org/page/33190298) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8476-1), [Wikidata](https://www.wikidata.org/wiki/Q5670481). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rodati, Aloysius (Luigi) (1762-1832), Italian botanist at Bologna; director of the Bologna botanical garden 1792-1802. 
-**Abbreviated name**: *Rodati*
+**Abbreviated name**: *Rodati* \[standard form in IPNI: *Rodati*\]
 
 #### Herbarium and types
 

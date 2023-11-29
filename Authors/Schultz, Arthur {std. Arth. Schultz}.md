@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33333508) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 369](https://www.biodiversitylibrary.org/page/33333508) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9291-1), [Wikidata](https://www.wikidata.org/wiki/Q21608472). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schultz, Arthur (1838-1915), German (Silesian) floristic botanist and physician practicing at Storkow, Finsterwalde; ultimately in Wiesbaden. 
-**Abbreviated name**: *Arth. Schultz*
+**Abbreviated name**: *Arth. Schultz* \[standard form in IPNI: *A.Schultz*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:54.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33212604) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 562](https://www.biodiversitylibrary.org/page/33212604) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10949-1), [Wikidata](https://www.wikidata.org/wiki/Q4893867). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ucria, Bernardino da (secular: Michelangelo Aurifici) (1739-1796), Italian clergyman (order of St. Francis) and botanist at Palermo, "demonstrator at the Royal Palermo botanical Academy". 
-**Abbreviated name**: *Ucria*
+**Abbreviated name**: *Ucria* \[standard form in IPNI: *Ucria*\]
 
 #### Herbarium and types
 

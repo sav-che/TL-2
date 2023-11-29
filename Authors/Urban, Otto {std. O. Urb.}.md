@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/page/33212661) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 619](https://www.biodiversitylibrary.org/page/33212661) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10994-1), [Wikidata](https://www.wikidata.org/wiki/Q47127828). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Urban, Otto (*fl*. 1934), German clergyman and botanist; some time rector of the Colegio Alemán de Osorno in Chile. 
-**Abbreviated name**: *O. Urb.*
+**Abbreviated name**: *O. Urb.* \[standard form in IPNI: *O.Urb.*\]
 
 #### Herbarium and types
 

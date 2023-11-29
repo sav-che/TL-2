@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:49:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33212046) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 42](https://www.biodiversitylibrary.org/page/33212046) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10205-1), [Wikidata](https://www.wikidata.org/wiki/Q21609939). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Straus, Adolf Paul Carl (1901-x), German (Berlin) palaeobotanist and mycologist; Dr. phil. Göttingen 1929; managing clerk 1930-1941; owner of the bookprinting shop 1941, publisher 1954; collaborator Berlin-Dahlem (Bot. Mus.) 1963-1964; lecturer paläontology Freie Univ. Berlin 1964. 
-**Abbreviated name**: *Straus*
+**Abbreviated name**: *Straus* \[standard form in IPNI: *Straus*\]
 
 #### Herbarium and types
 

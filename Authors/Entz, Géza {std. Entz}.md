@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:05.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33260367) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33260367) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/18519-1), [Wikidata](https://www.wikidata.org/wiki/Q989900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Entz, Géza (1875-1943), Hungarian zoologist and algologist, born 1875, working at the Hungarian academy of sciences on the biology of Hungarian Peridineae until he moved to Utrecht (Netherlands) working at the zoological laboratory of the university from 1920 until 1929, director of the biological institute Tihanyi (1929), director zool. museum Budapest and professor there, died 21 Feb 1943. 
-**Abbreviated name**: *Entz*
+**Abbreviated name**: *Entz* \[standard form in IPNI: *Entz*\]
 
 #### Note
 

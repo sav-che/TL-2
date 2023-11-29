@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:38:39.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33266027) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 350](https://www.biodiversitylibrary.org/page/33266027) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17418-1), [Wikidata](https://www.wikidata.org/wiki/Q21337772). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Coppey, Amédée (1874-1913), French teacher and bryologist, born at Dampierre-les-Conflans, Haute-Saône, "Boursier" at the Faculté de Besançon 1898-1899 "licencié" of the natural and physic sciences, at Paris 1899-1901, "agrégation" of natural science, teacher at the Lycée de la Rochelle, ultimately at the Lycée de Nancy. 
-**Abbreviated name**: *Copp.*
+**Abbreviated name**: *Copp.* \[standard form in IPNI: *Copp.*\]
 
 #### Herbarium and types
 

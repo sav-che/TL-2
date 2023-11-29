@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33068922) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 680](https://www.biodiversitylibrary.org/page/33068922) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5082-1), [Wikidata](https://www.wikidata.org/wiki/Q21517959). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krüger, Ernst (1860-1942), German bryologist at Eisenach; high school teacher at Sunnabei Vacha 1880-1897; at Eisenach 1897-1924. 
-**Abbreviated name**: *E. Krüger*
+**Abbreviated name**: *E. Krüger* \[standard form in IPNI: *E.Krüger*\]
 
 #### Herbarium and types
 

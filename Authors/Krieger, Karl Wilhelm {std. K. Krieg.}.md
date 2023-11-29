@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33068916) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 674](https://www.biodiversitylibrary.org/page/33068916) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5064-1), [Wikidata](https://www.wikidata.org/wiki/Q21517929). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Krieger, Karl Wilhelm (1848-1921), German mycologist; educated in the seminary at Nossen; high school teacher at Porschdorf nr. Schandau 1869-1876; from then on at Königstein a.E. 
-**Abbreviated name**: *K. Krieg.*
+**Abbreviated name**: *K. Krieg.* \[standard form in IPNI: *Krieg.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:52.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33212127) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 85](https://www.biodiversitylibrary.org/page/33212127) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10288-1), [Wikidata](https://www.wikidata.org/wiki/Q3700186). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Suksdorf, Wilhelm Nikolaus (1850-1932), German (Holstein) born American botanist and plant collector; to the U.S.A. 1858; in Iowa 1858-1874; at the University of California 1874-1876; from 1876-1932 at Bingen (White Salmon), Klickitat Co., Washington; worked with Asa Gray at Harvard 1886-1888; sold exsiccatae and seeds. 
-**Abbreviated name**: *Suksd.*
+**Abbreviated name**: *Suksd.* \[standard form in IPNI: *Suksd.*\]
 
 #### Herbarium and types
 

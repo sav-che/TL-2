@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33212485) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 443](https://www.biodiversitylibrary.org/page/33212485) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10796-1), [Wikidata](https://www.wikidata.org/wiki/Q21610936). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Traunsteiner, Joseph (1798-1850), Austrian pharmacist and botanist at Kitzbühl; studied pharmacy at Brixen and botany and chemistry at the University of Vienna (1820); in charge of his father's pharmacy at Kitzbühl from 1820-1850 (from 1829 as owner). 
-**Abbreviated name**: *Traunst.*
+**Abbreviated name**: *Traunst.* \[standard form in IPNI: *Traunst.*\]
 
 #### Herbarium and types
 

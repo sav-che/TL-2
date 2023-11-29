@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33333561) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 422](https://www.biodiversitylibrary.org/page/33333561) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9353-1), [Wikidata](https://www.wikidata.org/wiki/Q106152). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schwappach, Adam F. (1851-1932), German (Bavarian) forester; Dr. oec. München 1872; Königlicher Bayerischer Forstgehilfe, Martiniamitz 1873-1875; id. Ebrach 1875-1876; assistant for chemistry at the Forstliche Lehranstalt Aschaffenburg 1876-1878; at the Kreisforstbüro Würzburg 1878-1881; extra-ordinary profssor of forestry Giessen 1881-1886; in charge of forestry research at the Forstliche Hochschule Eberswalde 1886-1921. 
-**Abbreviated name**: *Schwappach*
+**Abbreviated name**: *Schwappach* \[standard form in IPNI: *Schwapp.*\]
 
 #### Herbarium and types
 

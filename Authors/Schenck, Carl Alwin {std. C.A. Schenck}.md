@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33333269) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 130](https://www.biodiversitylibrary.org/page/33333269) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9049-1), [Wikidata](https://www.wikidata.org/wiki/Q102461). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schenck, Carl Alwin (1868-1955), German (Hessen) forester and dendrologist; Dr. phil. Giessen 1894; to the United States 1895 as forester at the "Biltmore estate"; founder and first director of the Biltmore Forest School and head of the Vanderbilt Forestry reserves in North Carolina 1898-1913; from 1913 active in Germany (from Darmstadt); one of the organisers of the Hoover-plan for post-1918 hungry German; in close contact with the development of forestry in the United States until 1938 and again after 1945. 
-**Abbreviated name**: *C.A. Schenck*
+**Abbreviated name**: *C.A. Schenck* \[standard form in IPNI: *C.A.Schenck*\]
 
 #### Herbarium and types
 

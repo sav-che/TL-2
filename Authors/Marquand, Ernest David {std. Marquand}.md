@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:48.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33355389) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 302](https://www.biodiversitylibrary.org/page/33355389) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22925-1), [Wikidata](https://www.wikidata.org/wiki/Q5836702). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marquand, Ernest David (1848-1918), British botanist of independent means; born on Guernsey; educated in New York; until 1888 in England; 1888-1910 mainly on Guernsey; ultimately in South Devon. 
-**Abbreviated name**: *Marquand*
+**Abbreviated name**: *Marquand* \[standard form in IPNI: *Marquand*\]
 
 #### Herbarium and types
 

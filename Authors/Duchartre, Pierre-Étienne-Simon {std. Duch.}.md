@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 688](https://www.biodiversitylibrary.org/page/33120819) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 688](https://www.biodiversitylibrary.org/page/33120819) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2344-1), [Wikidata](https://www.wikidata.org/wiki/Q452900). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Duchartre, Pierre Étienne Simon {std. Duch.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Duchartre, Pierre-Étienne-Simon (1811-1894), French botanist, ultimately professor of botany at the Sorbonne. 
-**Abbreviated name**: *Duchartre*
+**Abbreviated name**: *Duchartre* \[standard form in IPNI: *Duch.*\]
 
 #### Herbarium and types
 

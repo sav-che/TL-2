@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:25:30.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33265570) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 373](https://www.biodiversitylibrary.org/page/33265570) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/16385-1), [Wikidata](https://www.wikidata.org/wiki/Q21506350). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Bottini, Antonio \[Marchese\] (1850-1931), Italian bryologist, born at Lucca, studied at the University of Pisa, Dr. phil. ib. 1886, habil. ib. 1894, adjunct at the Botanical Institute at Pisa. 
-**Abbreviated name**: *Bott.*
+**Abbreviated name**: *Bott.* \[standard form in IPNI: *Bott.*\]
 
 #### Herbarium and types
 

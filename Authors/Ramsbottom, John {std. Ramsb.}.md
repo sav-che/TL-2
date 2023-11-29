@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33190045) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 574](https://www.biodiversitylibrary.org/page/33190045) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8130-1), [Wikidata](https://www.wikidata.org/wiki/Q6254165). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ramsbottom, John (1885-1974), British botanist; BA Univ. of Cambridge 1909; at the Botany Department of the British Museum of natural History, from 1910 as mycologist, from 1928 as deputy keeper, from 1930-1951 as keeper; general secretary of British mycological Society 1921-1945; editor of the Transactions 1919-1942; president of the Linnean Society of London 1938-1941. 
-**Abbreviated name**: *Ramsb.*
+**Abbreviated name**: *Ramsb.* \[standard form in IPNI: *Ramsb.*\]
 
 #### Herbarium and types
 

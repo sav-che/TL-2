@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2005-11-28 09:47:45.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33120332) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 201](https://www.biodiversitylibrary.org/page/33120332) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/16031-1), [Wikidata](https://www.wikidata.org/wiki/Q522467). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bertero, Carlo Giuseppe {std. Bertero} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bertero, Carlo Guiseppe (1789-1831), Italian physician, botanist, who as a naval physician travelled in the West Indies (1816-1821) and settled in Chile in 1827. 
-**Abbreviated name**: *Bertero*
+**Abbreviated name**: *Bertero* \[standard form in IPNI: *Bertero*\]
 
 #### Herbarium and types
 

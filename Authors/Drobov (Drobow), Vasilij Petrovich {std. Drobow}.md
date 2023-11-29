@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33260088) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 100](https://www.biodiversitylibrary.org/page/33260088) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/2317-1), [Wikidata](https://www.wikidata.org/wiki/Q6159761). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Drobov \[Drobow\], Vasilij Petrovich (1885-1956), Russian working in Turkestan and St. Petersburg, born 30 Jul 1885, Tomashev. 
-**Abbreviated name**: *Drobow*
+**Abbreviated name**: *Drobow* \[standard form in IPNI: *Drobow*\]
 
 #### Herbarium and types
 

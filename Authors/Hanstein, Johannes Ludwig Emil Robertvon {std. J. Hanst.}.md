@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33068291) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 49](https://www.biodiversitylibrary.org/page/33068291) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3637-1), [Wikidata](https://www.wikidata.org/wiki/Q71063). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hanstein, Johannes Ludwig Emil Robertvon (1822-1880), German botanist, at first in Berlin; studied in Berlin with Link and Klotzsch; Dr. phil. Berlin 1848; high school teacher at Berlin 1849-1859; curator at the Berlin herbarium 1860-1865; from 1865, professor of botany in Bonn; creator of the Bonn Botanical Institute; outstanding plant anatomist and developmental morphologist. 
-**Abbreviated name**: *J. Hanst.*
+**Abbreviated name**: *J. Hanst.* \[standard form in IPNI: *Hanst.*\]
 
 #### Herbarium and types
 

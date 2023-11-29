@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:37:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33212752) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 710](https://www.biodiversitylibrary.org/page/33212752) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11138-1), [Wikidata](https://www.wikidata.org/wiki/Q2344414). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Verhoeff, Carl \[Karl\] Wilhelm (1867-1944), German entomologist; studied insect-plant relationships; died of wounds received in an air raid on München, December 1944. 
-**Abbreviated name**: *Verhoeff*
+**Abbreviated name**: *Verhoeff* \[standard form in IPNI: *Verhoeff*\]
 
 #### Herbarium and types
 

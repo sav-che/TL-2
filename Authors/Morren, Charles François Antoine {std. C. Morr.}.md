@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 591](https://www.biodiversitylibrary.org/page/33355678) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 591](https://www.biodiversitylibrary.org/page/33355678) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6669-1), [Wikidata](https://www.wikidata.org/wiki/Q2959113). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Morren, Charles François Antoine (1807-1858), Belgian botanist and horticulturist; born at Gent; studied natural sciences at Gent University; Dr. phil. ib. 1829; teacher physics at a secondary school until 1835, from then on professor of botany at Liège; director of the Jardin botanique de l'Université de Liège 1855-1856. 
-**Abbreviated name**: *C. Morr.*
+**Abbreviated name**: *C. Morr.* \[standard form in IPNI: *C.Morren*\]
 
 #### Herbarium and types
 

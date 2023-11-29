@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33333406) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 267](https://www.biodiversitylibrary.org/page/33333406) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9186-1), [Wikidata](https://www.wikidata.org/wiki/Q21608205). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schneck, Jacob (1843-1906), American botanist; Dr. med. Chicago 1871; practicing physician in Mt. Carmel, Illinois. 
-**Abbreviated name**: *Schneck*
+**Abbreviated name**: *Schneck* \[standard form in IPNI: *Schneck*\]
 
 #### Herbarium and types
 

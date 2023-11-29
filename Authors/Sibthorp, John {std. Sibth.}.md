@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:39:04.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33333716) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 577](https://www.biodiversitylibrary.org/page/33333716) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9606-1), [Wikidata](https://www.wikidata.org/wiki/Q936580). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sibthorp, John (1758-1796), British botanist; MA Oxford 1780, MD 1784; studied with A.L. de Jussieu at Paris 1781-1782 and with A. Broussonet at Montpellier 1782-1783; professor of botany and director of the Botanical Garden Oxford 1784-1796 as successor to his father H.W. Sibthorp; in Götingen 1784-1785, worked with N.J. von Jacquin 1785; travelled in Greece with Ferdinand Bauer 1786-1787; with Francis Borone in Turkey and the Peloponnese 1794-1795. 
-**Abbreviated name**: *Sibth.*
+**Abbreviated name**: *Sibth.* \[standard form in IPNI: *Sibth.*\]
 
 #### Herbarium and types
 

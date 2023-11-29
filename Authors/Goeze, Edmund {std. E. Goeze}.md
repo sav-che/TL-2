@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33258752) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 274](https://www.biodiversitylibrary.org/page/33258752) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/14001-1), [Wikidata](https://www.wikidata.org/wiki/Q5818763). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Goeze, Edmund (1838-1929?), German horticulturalist and garden administrator, born 13 Feb 1838 in Itzehoe (Holstein), worked at Kew Herb., dir., Botanical Museum in Coimbra, Portugal 1866-1876, then Lisbon and finally garden inspector in Greifswald \[where he died?\]. 
-**Abbreviated name**: *E. Goeze*
+**Abbreviated name**: *E. Goeze* \[standard form in IPNI: *E.Goeze*\]
 
 #### Note
 

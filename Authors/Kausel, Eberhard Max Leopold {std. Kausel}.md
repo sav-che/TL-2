@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33068751) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 509](https://www.biodiversitylibrary.org/page/33068751) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4675-1), [Wikidata](https://www.wikidata.org/wiki/Q5816811). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kausel, Eberhard Max Leopold (1910-1972), Chilean dentist and botanist at Santiago; specialist on Myrtaceae. 
-**Abbreviated name**: *Kausel*
+**Abbreviated name**: *Kausel* \[standard form in IPNI: *Kausel*\]
 
 #### Herbarium and types
 

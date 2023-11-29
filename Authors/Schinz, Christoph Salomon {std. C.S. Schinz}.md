@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33333313) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 174](https://www.biodiversitylibrary.org/page/33333313) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9097-1), [Wikidata](https://www.wikidata.org/wiki/Q21607980). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schinz, Christoph Salomon (1764-1847), Swiss physician and botanist at Zürich; Dr. med. Göttingen 1787; practicing physician at Zürich 1787, from 1812-1834 professor of medicine at the Zürich "Carolinum"; later at the university; librarian of the "Naturforschende Gesellschaft, Zürich 1792-1837. 
-**Abbreviated name**: *C.S. Schinz*
+**Abbreviated name**: *C.S. Schinz* \[standard form in IPNI: *C.S.Schinz*\]
 
 #### Herbarium and types
 

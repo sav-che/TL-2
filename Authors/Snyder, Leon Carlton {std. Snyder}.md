@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33333851) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 712](https://www.biodiversitylibrary.org/page/33333851) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26965-1), [Wikidata](https://www.wikidata.org/wiki/Q14954619). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Snyder, Leon Carlton (1908-x), American botanist; Dr. phil. Univ. Washington 1935; botanist at the University of Washington 1932-1935, with the University of Wyoming 1935-1936; instructor in botany S. Dakota State College 1936-1942, professor of horticulture ib. 1942-1976, professor of horticulture ib. 1942-1976; emeritus professor of horticulture from 1976. 
-**Abbreviated name**: *Snyder*
+**Abbreviated name**: *Snyder* \[standard form in IPNI: *Snyder*\]
 
 #### Herbarium and types
 

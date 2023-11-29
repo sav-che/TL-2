@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33258651) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 173](https://www.biodiversitylibrary.org/page/33258651) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/19237-1), [Wikidata](https://www.wikidata.org/wiki/Q7150854). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gelting, Paul \[Emil Elliot\] (1905-1964), Danish lichenologist, born 30 Mar 1905 in Aakirkeby/Bornholm, member of the Danish Three Year Exped. to Greenland 1931-1934, Ph.D. 1937 Copenhagen (subject: "Food of the E. Greenland Ptarmigan"), died 18 Feb 1964 in Copenhagen. 
-**Abbreviated name**: *Gelting*
+**Abbreviated name**: *Gelting* \[standard form in IPNI: *Gelting*\]
 
 #### Herbarium and types
 

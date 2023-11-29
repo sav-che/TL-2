@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33068279) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 37](https://www.biodiversitylibrary.org/page/33068279) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3603-1), [Wikidata](https://www.wikidata.org/wiki/Q21514601). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hammerschmid, Anton (1851-1933), German Franciscan monk and botanist, educated at München; from 1889 in the monastery of Bad Tölz. 
-**Abbreviated name**: *Hammerschmid*
+**Abbreviated name**: *Hammerschmid* \[standard form in IPNI: *Hamm.*\]
 
 #### Herbarium and types
 

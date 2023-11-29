@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33333896) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 757](https://www.biodiversitylibrary.org/page/33333896) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9921-1), [Wikidata](https://www.wikidata.org/wiki/Q2886799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Soulsby, Basil Harrington (1864-1933), New Zealand-born, British bibliographer and libarian; BA Oxford 1897; with the Library of the British Museum, Bloomsbury, 1892-1909; with that of the British Museum (Nat. Hist.) 1909-1933, from 1921 as librarian. 
-**Abbreviated name**: *Soulsby*
+**Abbreviated name**: *Soulsby* \[standard form in IPNI: *Soulsby*\]
 
 #### Herbarium and types
 

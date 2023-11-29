@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33189704) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 233](https://www.biodiversitylibrary.org/page/33189704) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7635-1), [Wikidata](https://www.wikidata.org/wiki/Q21522945). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Philip, Robert Harris (1852-1912), British diatomist at Hull. 
-**Abbreviated name**: *Philip*
+**Abbreviated name**: *Philip* \[standard form in IPNI: *Philip*\]
 
 #### Herbarium and types
 

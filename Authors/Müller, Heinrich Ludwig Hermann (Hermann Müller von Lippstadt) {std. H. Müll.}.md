@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33355713) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 626](https://www.biodiversitylibrary.org/page/33355713) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6735-1), [Wikidata](https://www.wikidata.org/wiki/Q68738). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Müller, Heinrich Ludwig Hermann \["Hermann Müller von Lippstadt"\] (1829-1883), German bryologist, pollination biologist; studied at Erfurt and Berlin, examen profac. doc. Berlin 1852; from 1855-1883 high school teacher at Lippstadt; brother of Fritz Müller. 
-**Abbreviated name**: *H. Müll.*
+**Abbreviated name**: *H. Müll.* \[standard form in IPNI: *H.Müll.*\]
 
 #### Herbarium and types
 

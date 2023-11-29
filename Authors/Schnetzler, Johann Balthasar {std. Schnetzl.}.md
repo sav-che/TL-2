@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33333417) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 278](https://www.biodiversitylibrary.org/page/33333417) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9203-1), [Wikidata](https://www.wikidata.org/wiki/Q15428420). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schnetzler, Johann Balthasar (1823-1896), Swiss (Schaffhausen) botanist; studied at the Stuttgart Polytechnic; high school teacher for French at the Gymnasium of Schaffhausen 1844-1847; id. for natural sciences at the Collège de Vevey, nr Lausanne 1847-1869; professor of botany at the Academy, later University of Lausanne 1869-1891. 
-**Abbreviated name**: *Schnetzl.*
+**Abbreviated name**: *Schnetzl.* \[standard form in IPNI: *Schnetzl.*\]
 
 #### Herbarium and types
 

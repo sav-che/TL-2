@@ -22,16 +22,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33264854) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 127](https://www.biodiversitylibrary.org/page/33264854) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/220-1), [Wikidata](https://www.wikidata.org/wiki/Q2090424). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Andrzeiovski, Antoni Lukianovich {std. Andrzejovski}|first entry]] for this author
 
 ### Author
 
 \* Andrzejowski, Antoni Lukianowicz (1785-1868), Polish naturalist, originally from Wolhynia, studied with W.S.J.G. von Besser at Kiew, Student of the flora of the Ukraine, specialized in Cruciferae and the living and fossil fauna of Southern Russia. 
-**Abbreviated name**: *Andrzejovski*
+**Abbreviated name**: *Andrzejovski* \[standard form in IPNI: *Andrz.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33066552) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 212](https://www.biodiversitylibrary.org/page/33066552) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11587-1), [Wikidata](https://www.wikidata.org/wiki/Q5039799). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Westerlund, Carl Agardh (1831-1908), Swedish malacologist, botanist and high school teacher; studied at Uppsala and Lund; Dr. phil. Lund 1862; at Ronneby lägre allm. läroverk 1862-1903; "adjunkt" for natural history Lund from 1873. 
-**Abbreviated name**: *C.A. Westerl.*
+**Abbreviated name**: *C.A. Westerl.* \[standard form in IPNI: *Westerl.*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:12.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 729](https://www.biodiversitylibrary.org/page/33068971) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 729](https://www.biodiversitylibrary.org/page/33068971) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21994-1), [Wikidata](https://www.wikidata.org/wiki/Q2193621). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lam, Herman Johannes (1892-1977), Dutch botanist; Ph. D. Utrecht 1917; at Buitenzorg (Bogor), Indonesia (1919-1933), professor of botany and director of the Rijksherbarium Leiden (1933-1962) 
-**Abbreviated name**: *H. J. Lam*
+**Abbreviated name**: *H. J. Lam* \[standard form in IPNI: *H.J.Lam*\]
 
 #### Herbarium and types
 

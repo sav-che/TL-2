@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33355348) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 261](https://www.biodiversitylibrary.org/page/33355348) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6013-1), [Wikidata](https://www.wikidata.org/wiki/Q729955). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Makino, Tomitaro (1862-1957), Japanese botanist and botanical artist. 
-**Abbreviated name**: *Makino*
+**Abbreviated name**: *Makino* \[standard form in IPNI: *Makino*\]
 
 #### Herbarium and types
 

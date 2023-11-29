@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33266516) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 209](https://www.biodiversitylibrary.org/page/33266516) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/16647-1), [Wikidata](https://www.wikidata.org/wiki/Q18912194). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Büsgen, Moritz (1858-1921), German (Prussian, Hessen-Nassau born) botanist, born 1858 at Weilburg a. Lahn, educated at a gymnasium, studied at the University of Bonn (e.g. with Hanstein (two semesters), the University of Berlin (e.g. with Eichler, Kny, Schwendener, a single semester), and ultimately at the University of Strassburg (with de Bary), Dr. phil. Strassburg 1882, "pro facultate docendi" 1883, at the Naples zoological station 1883-1884, assistant with de Bary at Strassburg 1884-1886, habil. in Jena 1886, assistant with Ernst Stahl, extraordinary professor ib. 1891, at the Forstschule in Eisenach 1893-1901, full professor and director of the Botanical Institute and its botanical garden Hann.-Münden 1901-1921, visited and collected in Java 1902-1903. 
-**Abbreviated name**: *Büsgen*
+**Abbreviated name**: *Büsgen* \[standard form in IPNI: *Büsgen*\]
 
 #### Herbarium and types
 

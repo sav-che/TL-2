@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:35:17.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/page/33334002) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 863](https://www.biodiversitylibrary.org/page/33334002) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/27160-1), [Wikidata](https://www.wikidata.org/wiki/Q19465131). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Steere, William Campbell (1907-x), American botanist; Dr. phil. Univ. Mich. 1932; instructor in botany Univ. Mich. 1931-1936, asst. prof. 1936-1942, assoc. prof. 1942-1946, full prof. 1946-1950; chairman Botany Dept. 1947-1950; prof. Biol. Stanford Univ. 1950-1958, with National Science Foundation 1954-1955; Dean Graduate Div., Stanford Univ., 1955-1958; director New York Botanical Garden 1958-1968, exec. dir. 1968-1970, president 1970-1972, president emeritus 1973-x; leading bryologist and specialist on arctic and tropical American bryology; Dr. sci. h.c. Univ. Montreal 1959, id. Michigan 1962, idem Alaska 1982. 
-**Abbreviated name**: *Steere*
+**Abbreviated name**: *Steere* \[standard form in IPNI: *Steere*\]
 
 #### Herbarium and types
 

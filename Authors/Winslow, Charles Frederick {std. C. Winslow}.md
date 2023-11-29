@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33066719) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 379](https://www.biodiversitylibrary.org/page/33066719) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11770-1), [Wikidata](https://www.wikidata.org/wiki/Q5077574). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winslow, Charles Frederick (1811-1877), American geologist, seismologist and physician; M.D. Harvard 1834; V.S. consul in Payta, Peru from 1862; visitéd the Hawaiian Islands, later in California and Utah. 
-**Abbreviated name**: *C. Winslow*
+**Abbreviated name**: *C. Winslow* \[standard form in IPNI: *C.Winslow*\]
 
 #### Herbarium and types
 

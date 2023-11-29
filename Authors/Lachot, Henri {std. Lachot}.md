@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33068957) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 715](https://www.biodiversitylibrary.org/page/33068957) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/5185-1), [Wikidata](https://www.wikidata.org/wiki/Q21518272). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lachot, Henri (1850-?), French botanist and high school teacher at Magny-la-Ville, Semur (Côte-d'Or). 
-**Abbreviated name**: *Lachot*
+**Abbreviated name**: *Lachot* \[standard form in IPNI: *Lachot*\]
 
 #### Herbarium and types
 

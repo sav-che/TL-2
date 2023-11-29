@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:45:37.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33212154) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 112](https://www.biodiversitylibrary.org/page/33212154) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10331-1), [Wikidata](https://www.wikidata.org/wiki/Q2370200). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Swallen, Jason Richard (1903-x), American botanist; M.S. Kansas State Agr. Coll. 1925; assistant in botany Kansas State College 1924-1925; with USDA Bureau of Plant Industry 1925-1936 (junior bot.), 1936-1943 (assoc. bot.), 1943-1945 (agr. prod. officer), 1945-1946 (botanist); associate curator Smithsonian Inst. 1946-1947, curator div. Grasses 1947-1950, head dept. bot. 1950-1964, retired in Florida. 
-**Abbreviated name**: *Swall.*
+**Abbreviated name**: *Swall.* \[standard form in IPNI: *Swallen*\]
 
 #### Herbarium and types
 

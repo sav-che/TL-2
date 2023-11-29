@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:42:40.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33258656) of TL-2 Suppl. VIII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 178](https://www.biodiversitylibrary.org/page/33258656) of TL-2 Suppl. VIII
+> Author links: [IPNI](https://www.ipni.org/a/3082-1), [Wikidata](https://www.wikidata.org/wiki/Q21340393). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Gentil, Ambroise \[François\] (1842-1927), French botanist and zoologist, born 8 Apr 1842 in Saint-Macaire-du-Bois (Maine-et-Loire), prof. of natural sciences at Le Mans Lycée 1886-1906, died 13 Jul 1927 in Le Mans. 
-**Abbreviated name**: *Gentil*
+**Abbreviated name**: *Gentil* \[standard form in IPNI: *Gentil*\]
 
 #### Herbarium and types
 

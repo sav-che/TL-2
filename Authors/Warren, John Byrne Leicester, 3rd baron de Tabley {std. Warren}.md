@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:11.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33066431) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 91](https://www.biodiversitylibrary.org/page/33066431) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11416-1), [Wikidata](https://www.wikidata.org/wiki/Q6263085). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Warren, John Byrne Leicester, 3rd baron de Tabley (1835-1895), British botanist, poet and numismatist; studied at Eton and Christchurch, Oxford, M.A. 1856; called to the bar 1860; residing in London from 1871; succeeded to the title 1887. 
-**Abbreviated name**: *Warren*
+**Abbreviated name**: *Warren* \[standard form in IPNI: *Warren*\]
 
 #### Herbarium and types
 

@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:41.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33189687) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 216](https://www.biodiversitylibrary.org/page/33189687) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7614-1), [Wikidata](https://www.wikidata.org/wiki/Q6216038). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Peyritsch, Johann Joseph (1835-1889), Austrian botanist, especially plant teratologist; Dr. med. Wien 1864; naval physician at Pola 1864-1866; from 1866-1871 connected with the Vienna general hospital; from 1871-1878 at the Natural History museum ("2. custos"); habil. Univ. Wien 1874; professor of botany at Innsbruck (successor to A. Kerner) 1878-1889; especially interested in plant teratology and Laboulbeniales. 
-**Abbreviated name**: *Peyr.*
+**Abbreviated name**: *Peyr.* \[standard form in IPNI: *Peyr.*\]
 
 #### Herbarium and types
 

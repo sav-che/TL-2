@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33266145) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33266145) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/17520-1), [Wikidata](https://www.wikidata.org/wiki/Q21509511). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Crié, Louis Auguste {std. Crié}|first entry]] for this author
 
 ### Author
 
 \* Crié, Louis Auguste (1850-1912), French botanist and palaeobotanist, born at Conlie, Sarthe, licencié ès sciences naturelles from 1879, "chargé du cours de botanique" at the faculty of natural sciences at Rennes, from 1881 professor of botany. 
-**Abbreviated name**: *Crié*
+**Abbreviated name**: *Crié* \[standard form in IPNI: *Crié*\]
 
 #### Herbarium and types
 

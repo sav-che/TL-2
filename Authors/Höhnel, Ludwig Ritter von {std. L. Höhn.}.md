@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33068474) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 232](https://www.biodiversitylibrary.org/page/33068474) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4002-1), [Wikidata](https://www.wikidata.org/wiki/Q87967). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Höhnel, Ludwig Ritter von (1857-1942), Austrian naval officer and explorer. 
-**Abbreviated name**: *L. Höhn.*
+**Abbreviated name**: *L. Höhn.* \[standard form in IPNI: *L.Höhn.*\]
 
 #### Herbarium and types
 

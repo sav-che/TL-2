@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33355226) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 139](https://www.biodiversitylibrary.org/page/33355226) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5697-1), [Wikidata](https://www.wikidata.org/wiki/Q36547363). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Loehr, Egid von (*fl. 1848*), German botanist. 
-**Abbreviated name**: *E. Loehr*
+**Abbreviated name**: *E. Loehr* \[standard form in IPNI: *E.Loehr*\]
 
 #### Herbarium and types
 

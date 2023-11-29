@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:52:57.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33266025) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 348](https://www.biodiversitylibrary.org/page/33266025) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1794-1), [Wikidata](https://www.wikidata.org/wiki/Q2933703). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Copeland, Herbert Faulkner (1902-1968), American botanist, born at Chicago, Illinois, studied at the University of California, MS 1925, Ph.D. 1936, later at Sacramento Junior College, Sacramento, California, collector in Yellowstone 1928-1934. 
-**Abbreviated name**: *H.F. Copel.*
+**Abbreviated name**: *H.F. Copel.* \[standard form in IPNI: *H.F.Copel.*\]
 
 #### Herbarium and types
 

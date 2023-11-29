@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/page/33333931) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 792](https://www.biodiversitylibrary.org/page/33333931) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9974-1), [Wikidata](https://www.wikidata.org/wiki/Q21609324). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Spinner, Henri (1875-1962), Swiss botanist; Dr. phil. Zürich 1902; lecturer (1902) and professor of botany at the Académie de Neuchâtel, later Université de Neuchâtel 1908-1946, also teacher at the Neuchâtel "Collège latin" 1902-1941. 
-**Abbreviated name**: *Spinner*
+**Abbreviated name**: *Spinner* \[standard form in IPNI: *Spinner*\]
 
 #### Herbarium and types
 

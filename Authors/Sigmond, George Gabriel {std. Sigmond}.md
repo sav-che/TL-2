@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33333736) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 597](https://www.biodiversitylibrary.org/page/33333736) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9633-1), [Wikidata](https://www.wikidata.org/wiki/Q36568463). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Sigmond, George Gabriel (*fl*. 1840), English pharmacist, professor of materia medica to the Royal medico-botanical Society of London. 
-**Abbreviated name**: *Sigmond*
+**Abbreviated name**: *Sigmond* \[standard form in IPNI: *Sigmond*\]
 
 #### Herbarium and types
 

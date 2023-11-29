@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33120854) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 723](https://www.biodiversitylibrary.org/page/33120854) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2469-1), [Wikidata](https://www.wikidata.org/wiki/Q11685183). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Edwards, John (*fl*. 1763-1806), British flower-painter. 
-**Abbreviated name**: *J. Edwards*
+**Abbreviated name**: *J. Edwards* \[standard form in IPNI: *J.Edwards*\]
 
 #### Original manuscripts and drawings
 

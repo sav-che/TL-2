@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33120968) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 837](https://www.biodiversitylibrary.org/page/33120968) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2746-1), [Wikidata](https://www.wikidata.org/wiki/Q21513149). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Fischer, George William (1906-x), American phytopathologist. 
-**Abbreviated name**: *G. Fisch.*
+**Abbreviated name**: *G. Fisch.* \[standard form in IPNI: *G.W.Fisch.*\]
 
 #### Herbarium and types
 

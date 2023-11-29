@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33355394) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 307](https://www.biodiversitylibrary.org/page/33355394) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6132-1), [Wikidata](https://www.wikidata.org/wiki/Q2958991). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Marsh, Charles Dwight (1855-1932), American biologist, M. A. Amherst 1880; Dr. phil. Chicago 1904; from 1883-1904 professor of biology in Ripon College; from 1904-1930 plant physiologist at USDA. 
-**Abbreviated name**: *Marsh*
+**Abbreviated name**: *Marsh* \[standard form in IPNI: *Marsh*\]
 
 #### Herbarium and types
 

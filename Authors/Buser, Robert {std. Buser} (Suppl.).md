@@ -23,16 +23,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33266584) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 277](https://www.biodiversitylibrary.org/page/33266584) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1322-1), [Wikidata](https://www.wikidata.org/wiki/Q117248). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Buser, Robert {std. Buser}|first entry]] for this author
 
 ### Author
 
 \* Buser, Robert (1857-1931), Swiss (from the Aargau) botanist, educated at the Gymnasium of Aarau, studied at the University of Genève (with Jean Müller Arg.), Zürich (with Oswald Heer) and at Strassbourg (with A. de Bary), curator of the herbarium of de Candolle. 
-**Abbreviated name**: *Buser*
+**Abbreviated name**: *Buser* \[standard form in IPNI: *Buser*\]
 
 #### Herbarium and types
 

@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:46:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33068364) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 122](https://www.biodiversitylibrary.org/page/33068364) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3774-1), [Wikidata](https://www.wikidata.org/wiki/Q6111432). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hedwig, Romanus Adolf (1772-1806), German botanist; from 1801 professor of botany in Leipzig; son of Johannes Hedwig. 
-**Abbreviated name**: *R. Hedw.*
+**Abbreviated name**: *R. Hedw.* \[standard form in IPNI: *R.Hedw.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33333810) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 671](https://www.biodiversitylibrary.org/page/33333810) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/26929-1), [Wikidata](https://www.wikidata.org/wiki/Q5877939). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Smith, George (1895-1967), British chemist and self-taught mycologist; M.S. Manchester 1918; with a firm of cotton manufaturers 1919; assistant London School of Hygiene and Tropical Medicine 1930-1961. 
-**Abbreviated name**: *G. Sm.*
+**Abbreviated name**: *G. Sm.* \[standard form in IPNI: *G.Sm.*\]
 
 #### Herbarium and types
 

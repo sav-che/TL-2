@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33068248) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 6](https://www.biodiversitylibrary.org/page/33068248) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/3534-1), [Wikidata](https://www.wikidata.org/wiki/Q21514599). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Hämmerle, Juan Andres (1876-1930), German botanist. 
-**Abbreviated name**: *Hämmerle*
+**Abbreviated name**: *Hämmerle* \[standard form in IPNI: *Hämmerle*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33068658) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 416](https://www.biodiversitylibrary.org/page/33068658) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4395-1), [Wikidata](https://www.wikidata.org/wiki/Q21516887). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jäggi, Jacob\[Jakob\] (1829-1894), Swiss botanist; from 1870 at the technical university of Zurich. 
-**Abbreviated name**: *Jäggi*
+**Abbreviated name**: *Jäggi* \[standard form in IPNI: *Jäggi*\]
 
 #### Herbarium and types
 

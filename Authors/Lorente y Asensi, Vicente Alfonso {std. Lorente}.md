@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33355244) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 157](https://www.biodiversitylibrary.org/page/33355244) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5748-1), [Wikidata](https://www.wikidata.org/wiki/Q21519499). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lorente y Asensi, Vicente Alfonso (1758-1813), Spanish botanist; professor of botany and director of the botanical garden at Valencia (1804-1813). 
-**Abbreviated name**: *Lorente*
+**Abbreviated name**: *Lorente* \[standard form in IPNI: *Lorente*\]
 
 #### Herbarium and types
 

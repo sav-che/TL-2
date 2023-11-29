@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:28.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33265054) of TL-2 Suppl. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 327](https://www.biodiversitylibrary.org/page/33265054) of TL-2 Suppl. I
+> Author links: [IPNI](https://www.ipni.org/a/479-1), [Wikidata](https://www.wikidata.org/wiki/Q4078297). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Barkley, Fred Alexander (1908-1989), American botanist and botanical collector; B.A. University of Oklahoma 1930, M.S. 1932 ib., Ph.D. Washinghton University 1937; Ballyeat fellow and assistant University of Oklahoma 1931-1932, fellow Montana State University 1934-1937, id. instructor botany and curator 1937-1942, later connected with the University of Texas, National University of Mexico, Facultad de Agronomía de Medellin, Colombia 1947-1949, Fundación Miguel Lillo Univ. Nacional Tucuman 1949-1951, Hektoen Institute for Medical Research (Chicago) 1951-1952, Tropical Research Institute (New Jersey), Northeastern University Boston, collected widely in Central America, esp. Mexico. 
-**Abbreviated name**: *Barkl.*
+**Abbreviated name**: *Barkl.* \[standard form in IPNI: *F.A.Barkley*\]
 
 #### Herbarium and types
 

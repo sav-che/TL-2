@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33355739) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 652](https://www.biodiversitylibrary.org/page/33355739) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6750-1), [Wikidata](https://www.wikidata.org/wiki/Q47123042). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mueller, Wilhelm (fl. 1898), German botanist and high school teacher at Stettin. 
-**Abbreviated name**: *W. Muell. Stettin*
+**Abbreviated name**: *W. Muell. Stettin* \[standard form in IPNI: *W.Muell.*\]
 
 #### Herbarium and types
 

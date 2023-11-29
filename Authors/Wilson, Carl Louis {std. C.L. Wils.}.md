@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:54:27.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33066689) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 349](https://www.biodiversitylibrary.org/page/33066689) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11731-1), [Wikidata](https://www.wikidata.org/wiki/Q21612761). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Wilson, Carl Louis (1897-x), American botanist; Dr. phil. Cornell Univ. 1923; instructor, later professor of botany at Dartmouth College, Hanover N.H. 
-**Abbreviated name**: *C.L. Wils.*
+**Abbreviated name**: *C.L. Wils.* \[standard form in IPNI: *C.L.Wilson*\]
 
 #### Herbarium and types
 

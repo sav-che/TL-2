@@ -29,14 +29,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:13.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33212348) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 306](https://www.biodiversitylibrary.org/page/33212348) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10646-1), [Wikidata](https://www.wikidata.org/wiki/Q39658). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Thunberg, Carl Peter (1743-1828), Swedish botanist; studied natural sciences and medicine with e.g. Carl Linnaeus at Uppsala; Dr. phil. ib. 1767; Dr. med. ib. 1772 (in absentia); studying in Amsterdam and Paris 1770-1772; at the Cape of Good Hope 1772-1775, to Java 1775; in Japan 1775-1776; again on Java 1776-1777; on Ceylon 1777-1778; in Holland 1778; back in Sweden 1779; appointed botanical demonstrator Uppsala 1777 (under Linnaeus f.); extraordinary professor 1781, full professor of botany and medicine at Uppsala, succeeding Linnaeus f. 1784-1828. 
-**Abbreviated name**: *Thunb.*
+**Abbreviated name**: *Thunb.* \[standard form in IPNI: *Thunb.*\]
 
 #### Herbarium and types
 

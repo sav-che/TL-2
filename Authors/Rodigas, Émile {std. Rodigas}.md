@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:50:03.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33190299) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 828](https://www.biodiversitylibrary.org/page/33190299) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8481-1), [Wikidata](https://www.wikidata.org/wiki/Q6174240). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rodigas, Émile (1831-1902), Belgian botanist and zoologist at Gent; director of the local zoological garden, later teacher at and director of the horticultural college. 
-**Abbreviated name**: *Rodigas*
+**Abbreviated name**: *Rodigas* \[standard form in IPNI: *Rodigas*\]
 
 #### Herbarium and types
 

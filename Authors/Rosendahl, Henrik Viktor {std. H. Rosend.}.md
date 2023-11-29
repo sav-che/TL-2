@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/page/33190364) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 893](https://www.biodiversitylibrary.org/page/33190364) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8597-1), [Wikidata](https://www.wikidata.org/wiki/Q6079687). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Rosendahl, Henrik Viktor (1855-1918), Swedish botanist; pharmacist's exam. 1879; med lic. Karol. Inst. Stockholm 1886; Dr. med. Uppsala and lecturer at Karol. Inst. 1894; professor of pharmacognosy ib. 1902; specialist on pteridophyte taxonomy. 
-**Abbreviated name**: *H. Rosend.*
+**Abbreviated name**: *H. Rosend.* \[standard form in IPNI: *H.Rosend.*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:22.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/page/33266761) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 454](https://www.biodiversitylibrary.org/page/33266761) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1446-1), [Wikidata](https://www.wikidata.org/wiki/Q8193461). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Castellanos, Alberto (1896-1968), Argentine botanist, born in Cordoba, studied at the University of Buenos Aires, Dr. nat. sci. ib. 1925, collected in South America, Colombia, Canary Islands, N Africa and Europe, in charge of the Herbarium of the University of Buenos Aires from 1924, moved to Brazil 1955, contracted by various Brazilian scientific institutions. 
-**Abbreviated name**: *Castellanos*
+**Abbreviated name**: *Castellanos* \[standard form in IPNI: *A.Cast.*\]
 
 #### Herbarium and types
 

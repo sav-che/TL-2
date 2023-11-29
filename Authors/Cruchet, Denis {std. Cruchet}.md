@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:48:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33266161) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 484](https://www.biodiversitylibrary.org/page/33266161) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1894-1), [Wikidata](https://www.wikidata.org/wiki/Q21509570). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Cruchet, Denis (1847-1926), Swiss minister, born at Pailly (Vaud) 2 Mai 1847, died 22 Dec 1926 at Montagny sur Yverdon, studied at the Collège de Lausanne, 1872 at Lonay, later Pomy, 1873 minister at Montpreveyres, 1888 as "retraite", 1923 at the parish of Montagny sur Yverdon. 
-**Abbreviated name**: *Cruchet*
+**Abbreviated name**: *Cruchet* \[standard form in IPNI: *Cruchet*\]
 
 #### Herbarium and types
 

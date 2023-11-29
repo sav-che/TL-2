@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:23.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33066718) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 378](https://www.biodiversitylibrary.org/page/33066718) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/11769-1), [Wikidata](https://www.wikidata.org/wiki/Q21612830). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Winkler, Wilhelm (1842-1927), German (Silesian) teacher and botanist; teacher at Schreiberhau (Siles.) 1861-1903; in retirement at Görlitz; student of the flora of Sudetenland, of folklore and history of Silesia, and reformer of the local schoolsystem. 
-**Abbreviated name**: *W. Winkl.*
+**Abbreviated name**: *W. Winkl.* \[standard form in IPNI: *W.Winkl.*\]
 
 #### Herbarium and types
 

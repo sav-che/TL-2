@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33259893) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 389](https://www.biodiversitylibrary.org/page/33259893) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/34930-1), [Wikidata](https://www.wikidata.org/wiki/Q22976026). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Franz, Erich \[Friedrich Curt\] (1884-x), German botanist, born 16 Nov 1884 in Merseburg am Saale, attended the Dom-Gymnasium in Merseburg and then Univ. of Kiel 1904, Dr. Sci. 1908 Halle, also at Jena. 
-**Abbreviated name**: *E. Franz*
+**Abbreviated name**: *E. Franz* \[standard form in IPNI: *E.Franz*\]
 
 #### Herbarium and types
 

@@ -26,16 +26,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33265295) of TL-2 Suppl. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 98](https://www.biodiversitylibrary.org/page/33265295) of TL-2 Suppl. II
+> Author links: [IPNI](https://www.ipni.org/a/15996-1), [Wikidata](https://www.wikidata.org/wiki/Q662338). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Berkeley, Rev. Miles Joseph {std. Berk.}|first entry]] for this author
 
 ### Author
 
 \* Berkeley, Rev. Miles Joseph (1803-1889), British clergyman and mycologist, educated at Oundle Grammar school, Rugby; entered Christ's College, Cambridge 1821, B.A. 1825, entered the Clergy 1826, ordained deacon 21 Dec 1826, id. priest 23 Dec 1827 in the See of Peterborough, curate at St. John's Margate 1829, perpetual curate of Apethorpe and Woodnewton, Northamptonshire 1833-1868, vicar at Sibbertoft 1868, from 1867 pensioned off (Civil List). 
-**Abbreviated name**: *Berk.*
+**Abbreviated name**: *Berk.* \[standard form in IPNI: *Berk.*\]
 
 #### Herbarium and types
 

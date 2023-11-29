@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 836](https://www.biodiversitylibrary.org/page/33190307) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 836](https://www.biodiversitylibrary.org/page/33190307) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/12781-1), [Wikidata](https://www.wikidata.org/wiki/Q2335171). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Röhling, Johann Christoph (1757-1813), German (Hessen) botanist; studied theology at Giessen; private teacher at Frankfurt a.M.; protestant clergyman at Braubach 1792; at Breckenheim 1800, at Massenheim (Hessen) 1802-1813. 
-**Abbreviated name**: *Röhl.*
+**Abbreviated name**: *Röhl.* \[standard form in IPNI: *Röhl.*\]
 
 #### Herbarium and types
 

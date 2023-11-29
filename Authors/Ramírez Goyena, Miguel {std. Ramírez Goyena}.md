@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33190042) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 571](https://www.biodiversitylibrary.org/page/33190042) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8124-1), [Wikidata](https://www.wikidata.org/wiki/Q9032825). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Ramírez Goyena, Miguel (1857-1927), Nicaraguan botanist; studied at the College of Granada (Nic.), connected with Institute nacional central de Managua for some time, from 1891-1902 in exile in Costa Rica and Honduras; from 1902 again in Nicaragua, working on his Flora nicaraguense. 
-**Abbreviated name**: *Ramírez Goyena*
+**Abbreviated name**: *Ramírez Goyena* \[standard form in IPNI: *Ram.Goyena*\]
 
 #### Herbarium and types
 

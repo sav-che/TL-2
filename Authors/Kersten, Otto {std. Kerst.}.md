@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33068773) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 531](https://www.biodiversitylibrary.org/page/33068773) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4750-1), [Wikidata](https://www.wikidata.org/wiki/Q125143). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Kersten, Otto (1839-1900), German botanist, participated with Hermann Linck in the Decken expedition (1862-1865); collected later in the Mediterranean area. 
-**Abbreviated name**: *Kerst.*
+**Abbreviated name**: *Kerst.* \[standard form in IPNI: *Kerst.*\]
 
 #### Herbarium and types
 

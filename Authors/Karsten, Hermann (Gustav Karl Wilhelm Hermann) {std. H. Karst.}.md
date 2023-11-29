@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:40:55.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33068742) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 500](https://www.biodiversitylibrary.org/page/33068742) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4656-1), [Wikidata](https://www.wikidata.org/wiki/Q62413). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Karsten, Hermann \[Gustav Karl Wilhelm Hermann\] (1817-1908), German botanist; studied botany in the Stralsund pharmacy; travelled in South America 1844-1847, 1848-1856; from 1856-1868 professor of botany in Berlin; 1868-1872 in Wien; from 1872 onward in Berlin. 
-**Abbreviated name**: *H. Karst.*
+**Abbreviated name**: *H. Karst.* \[standard form in IPNI: *H.Karst.*\]
 
 #### Herbarium and types
 

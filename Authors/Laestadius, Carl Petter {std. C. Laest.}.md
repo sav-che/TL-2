@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:24.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33068960) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 718](https://www.biodiversitylibrary.org/page/33068960) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/21962-1), [Wikidata](https://www.wikidata.org/wiki/Q21518293). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Laestadius, Carl Petter (1835-1920), Swedish botanist; high school teacher at Umeå 1861-1913; nephew of Lars Levi Laestadius. 
-**Abbreviated name**: *C. Laest.*
+**Abbreviated name**: *C. Laest.* \[standard form in IPNI: *C.Laest.*\]
 
 #### Herbarium and types
 

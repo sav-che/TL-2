@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:34:33.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33212755) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 713](https://www.biodiversitylibrary.org/page/33212755) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/11144-1), [Wikidata](https://www.wikidata.org/wiki/Q5742024). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Vermoesen, \[François Marie\] Camille (1882-1922), Belgian botanist; Dr. Sci. bot. Louvain 1909; mycologist with the Service agricole of the Ministry of the Colonies 1911, visiting tropical gardens and experiment stations 1911-1912; to Borna, Belgian Congo for phytopathological work 1913; director of the botanical garden at Eala, Belgian Congo 1913; assistant director of the Congo experiment stations 1914; returned to France (with the Belgian government in exile) 1915; travelled to Mayombe 1918; curator at the Jardin botanique de l'Etat, Bruxelles 1919; lecturer University of Louvain 1921. 
-**Abbreviated name**: *Vermoesen*
+**Abbreviated name**: *Vermoesen* \[standard form in IPNI: *Vermoesen*\]
 
 #### Herbarium and types
 

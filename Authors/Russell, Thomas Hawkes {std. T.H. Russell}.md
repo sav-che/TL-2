@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/page/33190476) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 1005](https://www.biodiversitylibrary.org/page/33190476) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/8758-1), [Wikidata](https://www.wikidata.org/wiki/Q21607562). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Russell, Thomas Hawkes (1851-1913), British (English) solicitor and botanist. 
-**Abbreviated name**: *T.H. Russell*
+**Abbreviated name**: *T.H. Russell* \[standard form in IPNI: *T.H.Russell*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:30:44.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33066885) of TL-2 Vol. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 545](https://www.biodiversitylibrary.org/page/33066885) of TL-2 Vol. VII
+> Author links: [IPNI](https://www.ipni.org/a/12047-1), [Wikidata](https://www.wikidata.org/wiki/Q33701732). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Zippel, Hermann (*fl*. 1879-1885), German high school teacher and botanist at Gera. 
-**Abbreviated name**: *Zippel*
+**Abbreviated name**: *Zippel* \[standard form in IPNI: *Zippel*\]
 
 #### Herbarium and types
 

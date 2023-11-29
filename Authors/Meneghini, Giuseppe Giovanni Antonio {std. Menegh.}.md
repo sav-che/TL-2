@@ -25,14 +25,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33355500) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 413](https://www.biodiversitylibrary.org/page/33355500) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/6349-1), [Wikidata](https://www.wikidata.org/wiki/Q560042). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Meneghini, Giuseppe Giovanni Antonio (1811-1889), Italian algologist and palaeobotanist; educated at University of Padua (M. D. 1834); assistant (1834-1839) and professor of botany 1834-1838 at Padua; id. of Science faculty 1838-1849; professor of physical geography and geology at Pisa 1849-1889. 
-**Abbreviated name**: *Menegh.*
+**Abbreviated name**: *Menegh.* \[standard form in IPNI: *Menegh.*\]
 
 #### Herbarium and types
 

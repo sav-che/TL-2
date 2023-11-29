@@ -25,16 +25,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33120221) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 90](https://www.biodiversitylibrary.org/page/33120221) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/31177-1), [Wikidata](https://www.wikidata.org/wiki/Q3749589). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Baglietto, Francesco {std. Bagl.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Baglietto, Francesco (1826-1916), Italian physician and lichenologist, botanist at the University of Genoa 1856-1899. 
-**Abbreviated name**: *Bagl.*
+**Abbreviated name**: *Bagl.* \[standard form in IPNI: *Bagl.*\]
 
 #### Herbarium and types
 

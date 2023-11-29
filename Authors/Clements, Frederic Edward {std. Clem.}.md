@@ -25,16 +25,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33120641) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 510](https://www.biodiversitylibrary.org/page/33120641) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/17308-1), [Wikidata](https://www.wikidata.org/wiki/Q920184). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Clements, Frederic Edward {std. Clem.} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Clements, Frederic Edward (1874-1945), American ecologist, mycologist, climatologist, and neo-lamarckian philosopher. 
-**Abbreviated name**: *Clements*
+**Abbreviated name**: *Clements* \[standard form in IPNI: *Clem.*\]
 
 #### Herbarium and types
 

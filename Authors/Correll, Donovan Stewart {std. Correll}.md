@@ -25,14 +25,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:29:32.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33266048) of TL-2 Suppl. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 371](https://www.biodiversitylibrary.org/page/33266048) of TL-2 Suppl. IV
+> Author links: [IPNI](https://www.ipni.org/a/1814-1), [Wikidata](https://www.wikidata.org/wiki/Q1242094). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Correll, Donovan Stewart (1908-1983), American botanist, born in Wilson, North Carolina, educated at Winston-Salem and Duke University, A.B. 1934, A.M. 1936, graduate study Botanical Museum, Harvard University 1939-1943, Ph.D. Duke University 1943, in the U.S. Navy in World War II, in U.S.D.A. 1944-1956, chief botanist at the Texas Research Foundation 1956-1972, program director of the National Science Foundation 1972-1973, from 1973 "retired" at the Fairchild Tropical Garden 1973-1983. 
-**Abbreviated name**: *Correll*
+**Abbreviated name**: *Correll* \[standard form in IPNI: *Correll*\]
 
 #### Herbarium and types
 

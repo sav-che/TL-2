@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33259620) of TL-2 Suppl. VII.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33259620) of TL-2 Suppl. VII
+> Author links: [IPNI](https://www.ipni.org/a/33082-1), [Wikidata](https://www.wikidata.org/wiki/Q21512765). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Feldmann, Jean (1905-1978), French phycologist, born 25 Jun 1905 in Paris, received degrees in natural sciences and pharmacy in Paris, visited Roscoff Biological Station (Finistère) in 1925 which led to choosing phycology as a career, Dr. ès-sciences 1937 Paris, asst. in botany 1933-1945, Maître de Conférence 1945-1948 and Prof. 1948-1949, Faculty of Sciences, Algiers, then Maître de Conférence and later Prof. 1949-1976, Faculty of Sciences, Sorbonne (Paris), President, Intl. Phycological Society 1961, Corr. Member, B.S.A., died 18 Sep 1978. 
-**Abbreviated name**: *Feldmann*
+**Abbreviated name**: *Feldmann* \[standard form in IPNI: *Feldmann*\]
 
 #### Note
 

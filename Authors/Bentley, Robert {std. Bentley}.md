@@ -23,16 +23,15 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33120312) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 181](https://www.biodiversitylibrary.org/page/33120312) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/666-1), [Wikidata](https://www.wikidata.org/wiki/Q2635211). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bentley, Robert {std. Bentley} (Suppl.)|second entry]] for this author
 
 ### Author
 
 Bentley, Robert (1821-1893), British botanist at London Hospital and King's College. 
-**Abbreviated name**: *Bentley*
+**Abbreviated name**: *Bentley* \[standard form in IPNI: *Bentley*\]
 
 #### Herbarium and types
 

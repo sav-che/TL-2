@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33355475) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 388](https://www.biodiversitylibrary.org/page/33355475) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/23101-1), [Wikidata](https://www.wikidata.org/wiki/Q21502929). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Mayor, Eugène (1877-1976), Swiss physician and botanist at Neuchâtel, travelled in Colombia (1910-1911). 
-**Abbreviated name**: *Mayor*
+**Abbreviated name**: *Mayor* \[standard form in IPNI: *Mayor*\]
 
 #### Herbarium and types
 

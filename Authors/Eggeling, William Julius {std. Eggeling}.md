@@ -24,14 +24,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33260253) of TL-2 Suppl. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 265](https://www.biodiversitylibrary.org/page/33260253) of TL-2 Suppl. VI
+> Author links: [IPNI](https://www.ipni.org/a/20012934-2), [Wikidata](https://www.wikidata.org/wiki/Q15994422). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Eggeling, William Julius (1909-x), British (Scottish) forester and botanist, born 18 Jul 1909 Upper Largo, Fife, Scotland, B.Sc. University of Edinburgh, assistant conservator of forests, Uganda 1931, at forest office Entebbe as conservator 1945, from 1954 director Nature Conservancy in Scotland. 
-**Abbreviated name**: *Eggeling*
+**Abbreviated name**: *Eggeling* \[standard form in IPNI: *Eggeling*\]
 
 #### Herbarium and types
 

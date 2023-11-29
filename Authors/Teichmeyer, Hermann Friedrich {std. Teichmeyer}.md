@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:27:01.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33212242) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 200](https://www.biodiversitylibrary.org/page/33212242) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10485-1), [Wikidata](https://www.wikidata.org/wiki/Q75979). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Teichmeyer, Hermann Friedrich (1685-1744), German (Hannoverian) physician, physicist and botanist; professor of experimental physics Jena 1717; extraordinary professor of medicine 1719, from 1727 in ordinary professor of botany, surgery and anatomy; physician in ordinary, Weimar. 
-**Abbreviated name**: *Teichmeyer*
+**Abbreviated name**: *Teichmeyer* \[standard form in IPNI: *Teichm.*\]
 
 #### Herbarium and types
 

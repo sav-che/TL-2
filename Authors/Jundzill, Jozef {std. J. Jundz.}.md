@@ -22,14 +22,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33068710) of TL-2 Vol. II.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 468](https://www.biodiversitylibrary.org/page/33068710) of TL-2 Vol. II
+> Author links: [IPNI](https://www.ipni.org/a/4576-1), [Wikidata](https://www.wikidata.org/wiki/Q16454183). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Jundzill, Jozef (x-1877), Polish botanist at Wilna. 
-**Abbreviated name**: *J. Jundz.*
+**Abbreviated name**: *J. Jundz.* \[standard form in IPNI: *J.Jundz.*\]
 
 #### Herbarium and types
 

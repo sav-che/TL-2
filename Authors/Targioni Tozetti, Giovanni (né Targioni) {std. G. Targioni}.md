@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2003-07-02 00:00:00.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33212210) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 168](https://www.biodiversitylibrary.org/page/33212210) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/12917-1), [Wikidata](https://www.wikidata.org/wiki/Q2247857). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Targioni Tozetti, Giovanni (né Targioni) (1712-1783), Italian (Firenze) physician and naturalist; Dr. med. Pisa 1734; practiced medicine in Firenze 1734-1783; promoted prophylactic inoculation against smallpox; director of the Magliabechi Library 1739; associate of P.A. Micheli; director of the Firenze medico-botanical garden from 1737-1749; travelled widely espcially in Tuscany; father of Ottaviano Targioni Tozzetii. 
-**Abbreviated name**: *G. Targioni*
+**Abbreviated name**: *G. Targioni* \[standard form in IPNI: *Targ.Tozz.*\]
 
 #### Herbarium and types
 

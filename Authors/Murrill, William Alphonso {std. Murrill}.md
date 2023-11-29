@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:36.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/page/33355759) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 672](https://www.biodiversitylibrary.org/page/33355759) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/14101-1), [Wikidata](https://www.wikidata.org/wiki/Q2170251). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Murrill, William Alphonso (1869-1957), American mycologist; M. A. Randolph Macon Coll. 1891; Dr. phil. Cornell Univ. 1900; ass. curator New York Bot. Garden 1905, ass. director 1908, supervisor publ. instr. 1919; retired to Gainesville, Florida 1924. 
-**Abbreviated name**: *Murrill*
+**Abbreviated name**: *Murrill* \[standard form in IPNI: *Murrill*\]
 
 #### Herbarium and types
 

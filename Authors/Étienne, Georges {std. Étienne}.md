@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33120934) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 803](https://www.biodiversitylibrary.org/page/33120934) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/2583-1), [Wikidata](https://www.wikidata.org/wiki/Q21512409). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Étienne, Georges (x-1910), French bryologist. 
-**Abbreviated name**: *Étienne*
+**Abbreviated name**: *Étienne* \[standard form in IPNI: *Etienne*\]
 
 #### Herbarium and types
 

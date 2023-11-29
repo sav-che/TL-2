@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:14.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33212205) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 163](https://www.biodiversitylibrary.org/page/33212205) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10421-1), [Wikidata](https://www.wikidata.org/wiki/Q450514). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tansley, Arthur George (1871-1955), British botanist and ecologist; studied at Cambridge; lecturer University College, London 1893-1906; lecturer in botany, Cambridge 1906-1923; Sherardian professor of botany, Oxford 1927-1937; founder of the British Ecological Society; knighted 1950. 
-**Abbreviated name**: *Tansley*
+**Abbreviated name**: *Tansley* \[standard form in IPNI: *Tansley*\]
 
 #### Herbarium and types
 

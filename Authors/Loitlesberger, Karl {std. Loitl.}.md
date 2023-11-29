@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33355237) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 150](https://www.biodiversitylibrary.org/page/33355237) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22502-1), [Wikidata](https://www.wikidata.org/wiki/Q21519430). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Loitlesberger, Karl (1857-1943), Austrian cryptogamist, high school teacher e.g. at the Stella matutina at Feldkirch. 
-**Abbreviated name**: *Loitl.*
+**Abbreviated name**: *Loitl.* \[standard form in IPNI: *Loitl.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33120682) of TL-2 Vol. I.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 551](https://www.biodiversitylibrary.org/page/33120682) of TL-2 Vol. I
+> Author links: [IPNI](https://www.ipni.org/a/34743-1), [Wikidata](https://www.wikidata.org/wiki/Q892145). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Corti, Bonaventura, abate (1729-1813), Italian naturalist at Reggio and Modena. 
-**Abbreviated name**: *Corti*
+**Abbreviated name**: *Corti* \[standard form in IPNI: *Corti*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:36:35.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33355327) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 240](https://www.biodiversitylibrary.org/page/33355327) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5973-1), [Wikidata](https://www.wikidata.org/wiki/Q18986795). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Maerklin, Georg Friedrich (1761-1823), German pharmacist and botanist at Wiesloch. 
-**Abbreviated name**: *Maerkl.*
+**Abbreviated name**: *Maerkl.* \[standard form in IPNI: *Maerkl.*\]
 
 #### Herbarium and types
 

@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33355210) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 123](https://www.biodiversitylibrary.org/page/33355210) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22460-1), [Wikidata](https://www.wikidata.org/wiki/Q4264539). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lloyd, Curtis Gates (1859-1926), American pharmaceutical industrialist, wholesale druggist and mycologist at Cincinnati. 
-**Abbreviated name**: *C. G. Lloyd*
+**Abbreviated name**: *C. G. Lloyd* \[standard form in IPNI: *Lloyd*\]
 
 #### Herbarium and types
 

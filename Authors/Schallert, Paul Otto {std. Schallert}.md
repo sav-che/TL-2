@@ -23,14 +23,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:33:16.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33333255) of TL-2 Vol. V.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 116](https://www.biodiversitylibrary.org/page/33333255) of TL-2 Vol. V
+> Author links: [IPNI](https://www.ipni.org/a/9013-1), [Wikidata](https://www.wikidata.org/wiki/Q21607860). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Schallert, Paul Otto (1879-1970), American physician, amateur botanist and plant collector; Dr. med. Univ. Illinois 1904; practicing physician; collected all over the United States from 1904-1958; ultimately at Altamonte Springs, Florida. 
-**Abbreviated name**: *Schallert*
+**Abbreviated name**: *Schallert* \[standard form in IPNI: *Schallert*\]
 
 #### Herbarium and types
 

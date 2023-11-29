@@ -23,14 +23,13 @@ ipni_record_created:
 ipni_record_modified:
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33189564) of TL-2 Vol. IV.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 93](https://www.biodiversitylibrary.org/page/33189564) of TL-2 Vol. IV
+> Author links: [IPNI](https://www.ipni.org/a/7381-1), [Wikidata](https://www.wikidata.org/wiki/Q2853965). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Passy, Antoine François (1792-1873), French botanist, geologist and politician; studied in Brussels; with the Napoleonic Elba army 1813-1815; from 1815 in France; prefect of the dépt. de l'Eure 1830; later in various administrative positions with the ministry of the interior; from 1848 in retirement at Gisors. 
-**Abbreviated name**: *Passy*
+**Abbreviated name**: *Passy* \[standard form in IPNI: *Passy*\]
 
 #### Herbarium and types
 

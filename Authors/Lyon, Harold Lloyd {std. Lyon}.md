@@ -26,14 +26,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:44:59.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33355290) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 203](https://www.biodiversitylibrary.org/page/33355290) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/22656-1), [Wikidata](https://www.wikidata.org/wiki/Q18911234). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lyon, Harold Lloyd (1879-1957), American botanist and phytopathologist originally at the University of Minnesota, later at the Experiment Station, Hawaiian Sugar Planters' Association; botanist and director of the Foster Botanical Gardens, Honolulu 
-**Abbreviated name**: *Lyon*
+**Abbreviated name**: *Lyon* \[standard form in IPNI: *Lyon*\]
 
 #### Herbarium and types
 

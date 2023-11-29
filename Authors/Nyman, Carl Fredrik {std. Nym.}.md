@@ -24,14 +24,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:47:18.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33355884) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 797](https://www.biodiversitylibrary.org/page/33355884) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/7069-1), [Wikidata](https://www.wikidata.org/wiki/Q1037905). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Nyman, Carl Fredrik (1820-1893), Swedish botanist; med. fil. kand. Uppsala 1840; curator ("amanuens") at the botanical dept. of Naturhistoriska Riksmuseum 1855-1889. 
-**Abbreviated name**: *Nym.*
+**Abbreviated name**: *Nym.* \[standard form in IPNI: *Nyman*\]
 
 #### Herbarium and types
 

@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:53:08.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33355281) of TL-2 Vol. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 194](https://www.biodiversitylibrary.org/page/33355281) of TL-2 Vol. III
+> Author links: [IPNI](https://www.ipni.org/a/5837-1), [Wikidata](https://www.wikidata.org/wiki/Q723809). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Lund, Peter Wilhelm (1801-1880), Danish botanist, zoologist and paleontologist; travelled in Brazil 1825-1829 and 1833-1835; lived at *Lagoa Santa* from 1835-1880. 
-**Abbreviated name**: *P. W. Lund*
+**Abbreviated name**: *P. W. Lund* \[standard form in IPNI: *P.W.Lund*\]
 
 #### Herbarium and types
 

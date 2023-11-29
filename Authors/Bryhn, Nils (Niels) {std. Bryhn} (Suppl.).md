@@ -24,16 +24,15 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:28:34.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33266476) of TL-2 Suppl. III.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 169](https://www.biodiversitylibrary.org/page/33266476) of TL-2 Suppl. III
+> Author links: [IPNI](https://www.ipni.org/a/1236-1), [Wikidata](https://www.wikidata.org/wiki/Q5588809). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 > [!example] See also [[Bryhn, Nils {std. Bryhn}|first entry]] for this author
 
 ### Author
 
 \* Bryhn, Nils \[Niels\] (1854-1916), Norwegian privately practicing physician, deputy curator at the Botanical Museum of the University of Christiania (Oslo), 1877-1878, cand. med. Christiania 1880, assistant physician at Eger and Ringerike, general physician at Tjømø 1883-1887, from 1887 privately practicing at Hønefoss. 
-**Abbreviated name**: *Bryhn*
+**Abbreviated name**: *Bryhn* \[standard form in IPNI: *Bryhn*\]
 
 #### Herbarium and types
 

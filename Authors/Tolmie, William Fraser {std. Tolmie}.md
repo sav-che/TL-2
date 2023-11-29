@@ -22,14 +22,13 @@ ipni_record_created: 2003-07-02 00:00:00.0
 ipni_record_modified: 2013-05-15 11:41:06.0
 ---
 
-
-> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33212429) of TL-2 Vol. VI.
-> Supporting pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]].
+> [!cite] BHL link: this entry starts at [page 387](https://www.biodiversitylibrary.org/page/33212429) of TL-2 Vol. VI
+> Author links: [IPNI](https://www.ipni.org/a/10720-1), [Wikidata](https://www.wikidata.org/wiki/Q8009366). Support pages: [[Abbreviations|abbreviations]], [[Layout key|layout key]]
 
 ### Author
 
 Tolmie, William Fraser (1812-1886), British botanical collector on the Northwest coast of America; student of W.J. Hooker; medical officer in Vancouver 1832, later also associated with the Canadian Geological Survey; first botanist to ascend and to collect on Mount Rainier (1833). 
-**Abbreviated name**: *Tolmie*
+**Abbreviated name**: *Tolmie* \[standard form in IPNI: *Tolmie*\]
 
 #### Herbarium and types
 
